@@ -1,7 +1,20 @@
 <h1 align="center">SKA Design — Free Website Templates &amp; UI Components</h1>
 
 <p align="center">
-  A free template library for landing pages, business websites, portfolios, and reusable web UI.
+  Sinera's free template library for landing pages, business websites, portfolios, and reusable web UI.
+</p>
+
+<p align="center">
+  <a href="#getting-started"><img src="https://img.shields.io/badge/DOCS-15191D?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="SKA Design documentation" /></a>
+  <a href="https://ska.sinera.io/"><img src="https://img.shields.io/badge/SKA_LIBRARY-15191D?style=for-the-badge" alt="Browse the SKA website template library" /></a>
+  <a href="https://sinera.io/"><img src="https://img.shields.io/badge/SINERA_WEBSITE-15191D?style=for-the-badge" alt="Visit the Sinera website" /></a>
+</p>
+
+<p align="center">
+  <a href="https://x.com/sinera_labs"><img src="https://img.shields.io/badge/@sinera__labs-15191D?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Sinera Labs on X: @sinera_labs" /></a>
+  <a href="https://x.com/archivist336"><img src="https://img.shields.io/badge/@archivist336-15191D?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Archivist on X: @archivist336" /></a>
+  <a href="https://t.me/sineraio"><img src="https://img.shields.io/badge/TELEGRAM-15191D?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Sinera on Telegram" /></a>
+  <a href="mailto:project3000pn@gmail.com"><img src="https://img.shields.io/badge/CONTACT-15191D?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Sinera at project3000pn@gmail.com" /></a>
 </p>
 
 <p align="center">
@@ -21,11 +34,13 @@
   <a href="#design-system-and-library-indexes">Design System</a>
 </p>
 
-**SKA Design is a free, open-source library of 4,278 website templates and 2,417 UI components.** Explore HTML, CSS, JavaScript, and Tailwind CSS templates alongside React projects for SaaS landing pages, e-commerce stores, creative portfolios, agency websites, and business services.
+**SKA Design is Sinera's free, open-source library of 4,278 website templates and 2,417 UI components.** Explore HTML, CSS, JavaScript, and Tailwind CSS templates alongside React projects for SaaS landing pages, e-commerce stores, creative portfolios, agency websites, and business services.
 
 SKA brings complete page designs and individual interface elements into one library, organized by industry and component type. Use it to find web design inspiration, prototype a new site, customize a landing page, or copy a section into an existing frontend project. The collection includes source code, preview images, template metadata, and website design notes.
 
-Browse the folders below or clone the repository to download the free template collection. No SKA account or subscription is required to access the source on GitHub.
+For developers, designers, and teams building a frontend, the library provides examples from the full page down to a single hero, pricing table, form, or navigation menu. Browse 17 website categories and 21 component categories, compare designs through their preview images, and use the included design notes and six design-system themes to guide customization.
+
+Browse the folders below, explore the [SKA library website](https://ska.sinera.io/), or clone the repository to download the free template collection. No SKA account or subscription is required to access the source on GitHub. SKA Design is a project by [Sinera](https://sinera.io/).
 
 ## Free website templates by category
 
@@ -145,6 +160,21 @@ SKA-Design/
     ├── websites/       # 4,278 templates in 17 categories
     └── components/     # 2,417 components in 21 categories
 ```
+
+## Project links
+
+Explore SKA and Sinera, follow project updates, or get in touch through the links below.
+
+| Resource | Link |
+| --- | --- |
+| SKA template library | [ska.sinera.io](https://ska.sinera.io/) |
+| Sinera website | [sinera.io](https://sinera.io/) |
+| Documentation | [Getting started with SKA Design](#getting-started) |
+| GitHub repository | [Archiver-KA/SKA-Design](https://github.com/Archiver-KA/SKA-Design) |
+| Sinera Labs on X | [@sinera_labs](https://x.com/sinera_labs) |
+| Archivist on X | [@archivist336](https://x.com/archivist336) |
+| Telegram | [t.me/sineraio](https://t.me/sineraio) |
+| Email | [project3000pn@gmail.com](mailto:project3000pn@gmail.com) |
 
 ## License
 
