@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00476",
+  "title": "Animated Globe Location Card",
+  "summary": "A dark-themed location card featuring a canvas-rendered animated globe highlighting Shenzhen with pulsing marker, coordinates, and timezone details. Uses utility-style classes and custom CSS animations for dashboards, profile panels, or travel/location interfaces.",
+  "tags": [
+    "card",
+    "animated",
+    "canvas",
+    "location",
+    "globe",
+    "interactive",
+    "dark",
+    "css"
+  ],
+  "kind": "components",
+  "category": "contact",
+  "categoryLabel": "Contact & maps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12028,
+      "sha256": "2daadefc5573f0f5df3be7f4900e9467c5dea1ab9b1c0ee4092c9d83caa2260c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9597,
+      "sha256": "4a294adc9aebbd14c585e6d54bc86d9f8f3d77ec4742fad8d9df6a08b297579f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10446,
+      "sha256": "63103888a11ffae12e2b44f3d904eb8ad7a253bae77cd99b4bb6f60282b64caa"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

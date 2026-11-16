@@ -1,0 +1,19 @@
+<svg class="absolute inset-0 w-full h-full overflow-visible" preserveAspectRatio="none">
+                                        <!-- Grid -->
+                                        <line x1="0" y1="25%" x2="100%" y2="25%" stroke="rgba(255,255,255,0.05)"></line>
+                                        <line x1="0" y1="50%" x2="100%" y2="50%" stroke="rgba(255,255,255,0.05)"></line>
+                                        <line x1="0" y1="75%" x2="100%" y2="75%" stroke="rgba(255,255,255,0.05)"></line>
+
+                                        <!-- Loser Line (Orange) -->
+                                        <path d="M0,80 Q50,70 100,75 T200,80 T300,85 T400,90 T500,88" fill="none" stroke="#f97316" stroke-width="2" stroke-dasharray="4,4" opacity="0.5"></path>
+                                        
+                                        <!-- Winner Line (Teal) -->
+                                        <defs>
+                                            <linearGradient id="chartGradient" x1="0" y1="0" x2="0" y2="1">
+                                                <stop offset="0%" stop-color="#00C4CC" stop-opacity="0.2"></stop>
+                                                <stop offset="100%" stop-color="#00C4CC" stop-opacity="0"></stop>
+                                            </linearGradient>
+                                        </defs>
+                                        <path id="winner-line" d="M0,80 Q50,70 100,60 T200,50 T300,30 T400,20 T500,15" fill="none" stroke="#00C4CC" stroke-width="3"></path>
+                                        <path id="winner-area" d="M0,80 Q50,70 100,60 T200,50 T300,30 T400,20 T500,15 L500,100 L0,100 Z" fill="url(#chartGradient)" opacity="0"></path>
+                                    </svg>

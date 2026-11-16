@@ -1,0 +1,71 @@
+{
+  "id": "SN-W00048",
+  "title": "AI Automation Landing Page Template",
+  "summary": "A reusable landing page template for AI automation agencies and service businesses to showcase ROI, workflows, integrations, and audit-driven lead capture.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Dark",
+    "Futuristic",
+    "Grid",
+    "Minimal",
+    "AI automation",
+    "agency",
+    "lead generation"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3756,
+      "sha256": "bcbe90d882f485ff9145e79c6e9311c1ff1400e0c839412a6facfce6755852d3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17920,
+      "sha256": "871fceb6f8a368002c968a43190b0030c67e9aa39a59ad510b26db2f22e84fb1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 870,
+      "sha256": "4505e378bca713b74f352954bcf1b4cd19a4b5baaae8e3dccd1883dae82a4278"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 128,
+      "sha256": "616c17d29ba87f6857307bf1ca4af45ddafc0df34800c348766d677bcc9d05d0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35402,
+      "sha256": "480821d514428840bf0ad86e0ec142ee49a054cdd7701ccb5cc8c1461fbb61d0"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "faq",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

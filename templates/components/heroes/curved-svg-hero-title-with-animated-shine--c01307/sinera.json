@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01307",
+  "title": "Curved SVG Hero Title with Animated Shine",
+  "summary": "SVG hero header displaying a large curved title and subtitle with blur-in entrance and shine animations. Styled with Tailwind CSS, ideal for dynamic landing pages or section intros needing standout typography.",
+  "tags": [
+    "svg",
+    "curved-text",
+    "tailwind",
+    "animated",
+    "heading",
+    "landing-page"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5280,
+      "sha256": "fd71a7dea4727d678095ca9a7a5c624b062d721eb89465d3708555940655ed5e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1514,
+      "sha256": "93a76d3937ff14b5b2ed39dc1575c263b3a561e11eda68332648aa6b4d41bb29"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2376,
+      "sha256": "735a8cfd924cb63a5bb75d0d288a491c762f4c230778265c23822df9002df5e7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

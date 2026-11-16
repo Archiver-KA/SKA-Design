@@ -1,0 +1,58 @@
+{
+  "id": "SN-W04173",
+  "title": "Code Snippet Viewer with Tabs",
+  "summary": "Displays syntax-highlighted code snippets with language tabs and line numbers using Tailwind CSS styling.",
+  "tags": [
+    "Code Viewer",
+    "Syntax Highlighting",
+    "Tabs",
+    "Tailwind CSS",
+    "JavaScript",
+    "UI Component"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3004,
+      "sha256": "d0395a7d3b050a4ba9c124a3cc4f26bf71260e0675dd0ea528806e1553b10357"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13684,
+      "sha256": "230c1a89f52f42ac4d1c1815eea2448e185be2c76a6cdf8ad67432e0a0e4f14c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 722,
+      "sha256": "e82348877c9eb61e11b9028570073057fe0301420ffc5684e81c9999800e916a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5519,
+      "sha256": "b48f34c2c1ca88f8e24ef9a78da6162db81465302af9959797776c95e9339d9e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "code-terminal"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "code-terminal",
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00561",
+  "title": "Full-Screen Spline Background Animation",
+  "summary": "Embeds a Spline 3D particle animation in an absolute, full-width/height iframe with negative z-index, creating an animated background layer ideal for hero sections or landing pages styled with Tailwind classes.",
+  "tags": [
+    "background",
+    "animation",
+    "spline",
+    "iframe",
+    "tailwind",
+    "3d",
+    "visual"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10794,
+      "sha256": "b4ac66ccf4929958e31f9bdad92d1af0775841ed12d71f5e39001ca7968b6362"
+    },
+    {
+      "path": "component.html",
+      "bytes": 230,
+      "sha256": "c8ecfe29223125b1a73024ce96ab1aa1bc3d1b3c752220e7690f2b544c31cb57"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1090,
+      "sha256": "7f88ee17f4ce0d64176ab0211932e52ad66ebba8ce740d67ed18b538b5fe0e9d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

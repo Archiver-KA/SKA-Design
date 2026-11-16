@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00321",
+  "title": "Billing Plan Upgrade Modal with Payment Method Selection",
+  "summary": "Dark-themed modal for upgrading a subscription plan. Shows plan summary, included features, radio-group payment methods, add card, apply promo code, and confirm or cancel actions. Tailwind CSS styling with Lucide icons, ideal for SaaS billing flows.",
+  "tags": [
+    "modal",
+    "billing",
+    "payment",
+    "tailwind",
+    "upgrade",
+    "saas",
+    "radio-group",
+    "dark-theme"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18140,
+      "sha256": "880240b31aa92b6e22b7c9241bafccd9bef73520f4efd001b12b1fe35111c85e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13529,
+      "sha256": "0231d637517be74d48f46ae5daa5727305cb119b56eb90d2bd74f83d4f41a8d1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14536,
+      "sha256": "09a48464fa2c9d0505d77e3ba5c6994ec6606d4b767eb1ef707e7da51c393977"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

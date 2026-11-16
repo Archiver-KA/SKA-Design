@@ -1,0 +1,41 @@
+{
+  "id": "SN-C00353",
+  "title": "Error Message Component",
+  "summary": "A simple error message component for displaying invalid URLs or missing content with basic styling.",
+  "tags": [
+    "card",
+    "error",
+    "message",
+    "validation",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12836,
+      "sha256": "64fa531af44f604c4dadb4d5ca10b3a667843e36144301f55fdb0191921e3e6b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1086,
+      "sha256": "2d3ee388293af4d136e027fc7f382545e7093b36d04f7c04a82dedb11555047d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1930,
+      "sha256": "184dbca9adef42c42e16bc828f24d6dc5f6bbb2a001d97ccbc28da996cb663d8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,8 @@
+<svg class="w-full h-full object-cover min-w-[150vw] md:min-w-full" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid slice">
+                <g class="animate-spin-slow origin-center">
+                    <circle cx="500" cy="500" r="300" stroke="rgba(184, 148, 79, 0.15)" stroke-width="1" fill="none" stroke-dasharray="4 8"/>
+                    <circle cx="500" cy="500" r="450" stroke="rgba(255, 255, 255, 0.04)" stroke-width="1" fill="none" class="animate-spin-reverse-slow origin-center"/>
+                    <circle cx="500" cy="500" r="600" stroke="rgba(184, 148, 79, 0.05)" stroke-width="0.5" fill="none" stroke-dasharray="10 20"/>
+                    <path d="M 500 200 Q 800 500 500 800 Q 200 500 500 200" stroke="rgba(184, 148, 79, 0.15)" stroke-width="0.5" fill="none" class="animate-draw-path" stroke-dasharray="1200"/>
+                </g>
+            </svg>

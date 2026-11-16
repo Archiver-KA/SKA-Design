@@ -1,0 +1,62 @@
+{
+  "id": "SN-W04224",
+  "title": "Interactive Shadow Wave Scroll",
+  "summary": "Creates a dynamic scroll experience with rhythmic shadow waves and layered light using WebGL and GSAP animations.",
+  "tags": [
+    "WebGL",
+    "Shader",
+    "ScrollTrigger",
+    "Animation",
+    "Three.js",
+    "Parallax",
+    "Interactive"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2319,
+      "sha256": "eded1fd568817cea4be88152763eb2d61aff3ffbcc62e5b2cad4bb5f0cd3bc88"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6414,
+      "sha256": "28795a274ac2387a06200fc4a7d1fa3965d78b9472a2cbf1b4e97456e9e3bae8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 807,
+      "sha256": "943dbcf270e358cd0355767f36ee7b613051c2ed2266b4cb29219ef8ac1120fd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19801,
+      "sha256": "c488d9ffa29115057f5237ea2703df7373e45971dc118b3d8507ab1ab547c583"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "video-media"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

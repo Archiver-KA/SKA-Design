@@ -1,0 +1,72 @@
+{
+  "id": "SN-W03760",
+  "title": "Digital Trust Journal Template",
+  "summary": "A reusable editorial and advisory website template for publishing digital trust insights, showcasing frameworks, and promoting audits, tools, and newsletters.",
+  "tags": [
+    "Landing Page",
+    "Blog",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Gradient",
+    "Editorial",
+    "Newsletter"
+  ],
+  "kind": "websites",
+  "category": "news-blog",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3575,
+      "sha256": "45e297dc5dd8b122546cbd36fae267cbeeaffb75a96febf44e606337a1795f9e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18322,
+      "sha256": "f97fd7b455e31f3cac02e03b81394d703a50a36c7ce99220bd13c08e766bf63b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 948,
+      "sha256": "722ef528d8db14d0ba4d9897398df2bf8c85cb803677798b11bba6f0b602b004"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "910c900a7a4784bba3a545f45cd25f1d36f95d97c692018fa09cb6a465e3f9ea"
+    },
+    {
+      "path": "index.html",
+      "bytes": 49974,
+      "sha256": "e4bbe1eab7e5c491c9d5674c112526ef237bc3843a844984603879331b5b28ac"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "content",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Content / News",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "blog-articles",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

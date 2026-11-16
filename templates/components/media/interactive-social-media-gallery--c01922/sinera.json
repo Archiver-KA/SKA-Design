@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01922",
+  "title": "Interactive Social Media Gallery",
+  "summary": "Instagram-style social media gallery with hover effects, like counts, and follow button for showcasing user-generated content.",
+  "tags": [
+    "gallery",
+    "instagram",
+    "social",
+    "grid",
+    "hover",
+    "community",
+    "images"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 44906,
+      "sha256": "5d79772f884900a915de6f76c4e1edc2e28a6d2bff1d6b275cbb58c2ed62dac5"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8415,
+      "sha256": "24d354d4d5c9d92c0e9e77c7cba7a69ca47f68546ff06001b514c820407cafc2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9398,
+      "sha256": "4c35bdc2dc1a51553fd243cc9c77184d1a76ade61ba4eb7ad30343c2eaf75873"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

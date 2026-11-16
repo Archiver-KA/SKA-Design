@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01845",
+  "title": "Dribbble-Style Responsive Media Grid",
+  "summary": "A comprehensive responsive grid layout featuring media cards with hover effects, user attribution, engagement metrics (likes/views), and promotional banners. Ideal for portfolios, asset libraries, or gaming platforms.",
+  "tags": [
+    "section",
+    "card",
+    "tailwind",
+    "responsive",
+    "portfolio",
+    "grid",
+    "media",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 25710,
+      "sha256": "0edb21e4236549bae115bd3fc241c64c5e0ac7884d0f9d8e0b5e5c1112e15427"
+    },
+    {
+      "path": "component.html",
+      "bytes": 28493,
+      "sha256": "62f55cd96a59545e33f9e43672770a60c9afa08d40f9178d40a9086d05374b59"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29440,
+      "sha256": "ce0662f24396e7faf3ccff311a8dcaf7882afd7db82337e8c4e1121fe995c85e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01912",
+  "title": "Image Not Found Placeholder",
+  "summary": "A placeholder component displayed when an image file path is invalid or cannot be loaded. Shows a broken image icon with helpful error message.",
+  "tags": [
+    "card",
+    "error",
+    "placeholder",
+    "modern",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9346,
+      "sha256": "0c60b58aa3ae89d88783da914f7b34417bef45c6f0d339dbee7af5d001b8f9f2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1096,
+      "sha256": "d805bef53f555bd2526ae0b065546f182570a4fc35855b124c5fc0def6863bca"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1944,
+      "sha256": "18a493c49c46394dddbf73d10a8e740703e36617d8af71428f72f0221513c8df"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

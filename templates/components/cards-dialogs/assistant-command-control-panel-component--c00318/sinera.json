@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00318",
+  "title": "Assistant Command & Control Panel Component",
+  "summary": "Dark glassmorphic Tailwind panel featuring assistant header, grid of suggested action buttons, live toggles (DND, Wi-Fi, focus) and recent command list. Ideal for productivity dashboards, AI assistant overlays or quick-settings widgets.",
+  "tags": [
+    "panel",
+    "dashboard",
+    "tailwind",
+    "dark",
+    "assistant",
+    "widget"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12516,
+      "sha256": "e3d058b187b40af3a969bbd023e2c2f205758419aeea1851812edde7356d6af8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 15103,
+      "sha256": "4cc1c681f7d87f4277e4299ae6e99a37bbb89457ded8e9d04af48b617c756a55"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16101,
+      "sha256": "92332ce9baecfe174714f4b9665775be478dee50873ab35ed2a7475d305e8cd2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

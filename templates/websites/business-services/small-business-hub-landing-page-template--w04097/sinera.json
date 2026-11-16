@@ -1,0 +1,67 @@
+{
+  "id": "SN-W04097",
+  "title": "Small Business Hub Landing Page Template",
+  "summary": "A modern small business hub landing page template for showcasing resources, software deals, directories, and tutorials to support local Main Street businesses.",
+  "tags": [
+    "Landing Page",
+    "Business",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Directory",
+    "Small Business"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3674,
+      "sha256": "14874ee751411af0e93c0bc88778814d0be073f413227ca53870408c908dbc56"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14192,
+      "sha256": "57c4b12486e2dfb8f71755d0679866bdf1d025058b37cadfd25cae3f0f616cbc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "fe08a25d29f922bae7f1758f21d645dee1cdf1234d440f18ce96d526a10e4120"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30259,
+      "sha256": "890527d33574fde0440ec30a4d609a57be2f2b8c88bcb32cef45a0c0715b1b4d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "blog-articles",
+    "services",
+    "logo-cloud",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

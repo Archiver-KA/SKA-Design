@@ -1,0 +1,94 @@
+{
+  "id": "SN-W02453",
+  "title": "Medical Aesthetic Surgery Landing Page Template",
+  "summary": "A sophisticated and professional medical template designed for plastic surgery clinics, focusing on trust, clinical excellence, and natural beauty.",
+  "tags": [
+    "Health",
+    "Services",
+    "Landing Page",
+    "Clean",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3553,
+      "sha256": "0cef8743de59ac170b52d7dc818d54c8194d8129004bbbf772078212b339a046"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18176,
+      "sha256": "4083699628227bd3a93f070d19dcfcc918971c17d719462081f833e1c613c5e0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2008,
+      "sha256": "49a42de6a8e361a68ab4d2b11ee0da390303cd23b6c9c9e593750de79d5784c2"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 496,
+      "sha256": "fe4ee25316683bd868486775a3c1ddbdd4bcba920a83a3ff5e50f3307053cacc"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 351,
+      "sha256": "3f0e254f587cae83ab0651e329e6e8e8db3d2e77d0c1ae20c724c0cd625d7ec2"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 441,
+      "sha256": "f2e1c277c2c69bf85d984a79e27ddba94e97cd407386d448f60a7662f5307189"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 408,
+      "sha256": "d888d94752bceab38f385edf976e27ffe5adac8aa10c44c946862fcb20e052f9"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 470,
+      "sha256": "024bd947f75e7f0e3c68d2dd619eade9825052b0fb48305aa57c8353205391cc"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 388,
+      "sha256": "bf62bfc6f61f9bc59036d3176104be1fd1d9c3bf2cd2db2df73a615459054623"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32017,
+      "sha256": "9ed4ccca607fb4203ba31bdbac9ee437e3cefae71da339edb62657dbc86c8b68"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "features",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "broken-images"
+    ],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

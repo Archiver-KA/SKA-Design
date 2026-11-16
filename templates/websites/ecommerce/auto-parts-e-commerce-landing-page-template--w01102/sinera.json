@@ -1,0 +1,63 @@
+{
+  "id": "SN-W01102",
+  "title": "Auto Parts E-commerce Landing Page Template",
+  "summary": "A high-performance reusable template designed for automotive parts distributors and engine component suppliers.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "E-commerce",
+    "Dark",
+    "Services",
+    "Clean",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3618,
+      "sha256": "407bd8cd36435c90b45d5c916719f2e2eb3ad62b3b6104143448b23e5f17fcf4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12288,
+      "sha256": "360010de247e003a6786467f3fab2ec10b58c34d8c20e09b5cbbea08c561e72a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "87433468301ea50e1614ef431e82bf9fe2de93749872fe4bebc36f11c6a62fc1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 47945,
+      "sha256": "ec21ce47907ba19aff1736c2a0d2481a4350752ad5135c78c7c29e9bc43123fe"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "cta",
+    "bento-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

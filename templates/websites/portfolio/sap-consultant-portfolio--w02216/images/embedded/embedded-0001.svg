@@ -1,0 +1,10 @@
+<svg class="w-full h-full" preserveAspectRatio="none">
+                <path d="M0,600 C300,600 300,300 600,300 S900,600 1200,600" fill="none" stroke="url(#grad1)" stroke-width="1" class="noodle-path"></path>
+                <defs>
+                    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+                        <stop offset="0%" style="stop-color:rgba(255,255,255,0);stop-opacity:0"></stop>
+                        <stop offset="50%" style="stop-color:rgba(255,255,255,0.5);stop-opacity:1"></stop>
+                        <stop offset="100%" style="stop-color:rgba(255,255,255,0);stop-opacity:0"></stop>
+                    </linearGradient>
+                </defs>
+            </svg>

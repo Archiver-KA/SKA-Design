@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01406",
+  "title": "Hero section",
+  "summary": "",
+  "tags": [
+    "section",
+    "hero"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21452,
+      "sha256": "320495555bb7a13a274a23a62f51d78da0aaf4d9cd01e07f8011d72e40562479"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2355,
+      "sha256": "edd0a3a9f7c637dfa8706933f96669ebb017124fd263bdcd273f4622f66132cc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3188,
+      "sha256": "d9a3e1c06bb2380a00a9fe36c9434cf3888a2854c89cd2acdbbb13674fd1c6fe"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

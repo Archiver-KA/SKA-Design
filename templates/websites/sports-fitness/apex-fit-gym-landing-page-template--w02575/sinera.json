@@ -1,0 +1,74 @@
+{
+  "id": "SN-W02575",
+  "title": "APEX.FIT Gym Landing Page Template",
+  "summary": "A high-impact fitness center landing page template for premium gyms and training studios to showcase programs, coaches, pricing, and drive new memberships.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Fitness",
+    "gym"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3794,
+      "sha256": "4c0d9c75cb574dc6919759d966aa12c59f568be42e51ab3c583aa97f036a649d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14426,
+      "sha256": "76b41ce9721e35e91bc8f69a410e20e5e5040a0f1cd44fa6515ed6d39cb55bd1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 812,
+      "sha256": "fd2a5f670d5734c5d490b663b3b3d2d877404259298a9a2f2fc48fbf7761f4a4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 51454,
+      "sha256": "f4ab8a451dc7542946bbc56a43e331e7eadc20d45d27868caeade47eaa8a5d36"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "team",
+    "about",
+    "services",
+    "pricing",
+    "gallery-portfolio",
+    "blog-articles",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

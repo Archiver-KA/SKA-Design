@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02153",
+  "title": "Vertical Timeline Component with Tailwind Styling",
+  "summary": "Displays chronological events on a vertical line with dot markers. Tailwind-styled, responsive, and ideal for resumes, project milestones, or history sections in dashboards and portfolios.",
+  "tags": [
+    "timeline",
+    "list",
+    "tailwind",
+    "vertical",
+    "resume",
+    "career",
+    "milestone",
+    "component"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8122,
+      "sha256": "9a4c535aeb6e581ae5f1bf04aad41968035a7d3c0b5233d2ddc4ca76126836f6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1665,
+      "sha256": "eac23a896cae18db574b7a6fadcc7b6864bbf5c2e97654ec689b7ea152a0e629"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2665,
+      "sha256": "760487b06ff8ccf570a3eebcd44461157d27d40e3c44ccd0918679c6b2d19944"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

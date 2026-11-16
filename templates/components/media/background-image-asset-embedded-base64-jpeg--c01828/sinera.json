@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01828",
+  "title": "Background Image Asset (Embedded Base64 JPEG)",
+  "summary": "Base64-embedded JPEG image asset intended for use as a visual background or media resource within web components. Can be referenced via data URL in img tags, CSS backgrounds, or inline HTML where an image source is required.",
+  "tags": [
+    "image",
+    "media",
+    "asset",
+    "jpeg",
+    "embedded"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8028,
+      "sha256": "e406f1afd0af7902bf6154d59f952668cb01395bff5b8c3829aabbb3a5a80d0a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13801,
+      "sha256": "5c81f238b18cfe72f1fb7b7e043943c5dff7bc784d99d574284355e84d30ef02"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14667,
+      "sha256": "0e600e7e7b0371ac1b5757d993d43b25f96aca1726e5d78e57566620496bde7f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

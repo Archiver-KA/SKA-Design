@@ -1,0 +1,46 @@
+{
+  "id": "SN-C01177",
+  "title": "Responsive Tailwind Navbar with Mobile Hamburger Menu",
+  "summary": "Navigation header using Tailwind CSS featuring logo, links, CTA sign-up button, and a hamburger icon that toggles a slide-down menu for mobile. Fits SaaS, landing pages, docs, or dashboard layouts requiring clean, responsive site navigation.",
+  "tags": [
+    "navbar",
+    "header",
+    "tailwind",
+    "responsive",
+    "navigation",
+    "mobile",
+    "menu",
+    "cta",
+    "saas",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3706,
+      "sha256": "53349418306bd6f41b617efb5812f7df7100722226d33bcc8128816b3fbe5b5f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4099,
+      "sha256": "87287bd96c4eb7efff79ada5f10edaaea6e442234a2873c327f2f4f99155ed13"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5103,
+      "sha256": "cb822cce3ecc19cba4534571890abd1a4f6f5c16c9d80b0d27a495bd29fd9469"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

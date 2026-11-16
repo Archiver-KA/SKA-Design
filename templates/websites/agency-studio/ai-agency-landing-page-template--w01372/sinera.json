@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01372",
+  "title": "AI Agency Landing Page Template",
+  "summary": "A dark, modern AI agency landing page template for showcasing custom AI tools and services, built to help service-based businesses convert visitors into calls.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "AI agency",
+    "Consulting"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3810,
+      "sha256": "e9e04639fe5e96baf6c29ad1b90b8bcee56ef4edc1d37e6eaeeba13eeccca9ef"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16682,
+      "sha256": "6be6684d3d98935d6bf7f38faf619da2c7f6da661f5b32a9e0d5198017d2c60a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "b3da6b1ceeaa95aeda5dcfd799c88137349affa1720f362a7c5564f9c4d9f0cb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24166,
+      "sha256": "5c8016b58a6669330295d9af3fcc0c07c7e6b9f428f8466ae990f4ba072e1e11"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "services",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

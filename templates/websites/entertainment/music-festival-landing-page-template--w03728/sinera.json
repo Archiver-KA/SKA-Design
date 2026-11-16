@@ -1,0 +1,69 @@
+{
+  "id": "SN-W03728",
+  "title": "Music Festival Landing Page Template",
+  "summary": "A reusable festival website template for promoting a multi-day music event with lineup, venue details, gallery, press, FAQ, and ticket sales.",
+  "tags": [
+    "Landing Page",
+    "Entertainment",
+    "Conference",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Clean",
+    "Music Festival",
+    "Tickets",
+    "Event"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3372,
+      "sha256": "75e353207cd4462c6cc7ec2fe2951631335ce1e0e1cca9dfaef311c80f5671b9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13748,
+      "sha256": "3b9601a2beaafca6724fa297783cfe6fdfb7709bbd63ea75fd7301b03b3447f0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 868,
+      "sha256": "04bdc80a6de17deb838b0cd0b37d2c9e948d5c39961a796194d80de9a54b2ac0"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "845a8c33647082b21c3db87d511ee26caa07aa7a2c9bf6b015aad47a996ab97f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36884,
+      "sha256": "0d1bc7fa260555c4205a884fa5d05268eccf7f81e669eefb213efeac800502f9"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "features",
+    "gallery-portfolio",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

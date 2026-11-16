@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01927",
+  "title": "Media Grid with Metrics and Images",
+  "summary": "A responsive grid layout combining metric cards with images. Features gradient backgrounds and varied heights for visual interest in product showcases.",
+  "tags": [
+    "grid",
+    "metrics",
+    "images",
+    "responsive",
+    "cards",
+    "visual"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 36390,
+      "sha256": "8c9fa8df0c118088dd2719f3a7e0ee27c4d2d3551402c5a2159c8356409e8566"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2099,
+      "sha256": "e68dbf98d09b6a88f38245a2bdcdb831a935ad3eb26b9788a8c06213c4b8afbb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2954,
+      "sha256": "e068eba53991db3c782bbb316d09a142ca0ad43d8b9dfa7b016df9da6a144558"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01709",
+  "title": "Logo Image Component",
+  "summary": "A simple logo image component that displays a brand logo from a CDN source. Useful for headers, footers, and branding sections.",
+  "tags": [
+    "logo",
+    "image",
+    "branding",
+    "header",
+    "simple"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4182,
+      "sha256": "88ad84bfb9a3d7e2f58ab715b41a8f85d1eb6ddd6729415f39827eb0c528dc5d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 209,
+      "sha256": "19d148b475c3df173b0a2ff4d13fa8b6836d5b5a81f18b7a809ca48d697c69cc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1050,
+      "sha256": "c2760f67c22f4a7d97c2f3f6e253fd7d49df339aa1e70e6c845e64541d8741d1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

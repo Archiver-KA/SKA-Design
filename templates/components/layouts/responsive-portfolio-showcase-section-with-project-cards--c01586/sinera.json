@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01586",
+  "title": "Responsive Portfolio Showcase Section with Project Cards",
+  "summary": "Tailwind CSS section for highlighting portfolio work. Features headline, category divider, CTA button and a responsive 2×2 grid of image cards with icons and badges. Suited for agency or personal sites to display projects and case studies.",
+  "tags": [
+    "portfolio",
+    "section",
+    "grid",
+    "tailwind",
+    "responsive",
+    "showcase",
+    "gallery"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 61780,
+      "sha256": "f2d73e37d8e5578065a8efb140a582d2810caa44679121d9212290a52402a8da"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10526,
+      "sha256": "d73a9a98a617eb954de9efad3ed19199aa4dfdb288cea814800feceeef5ea2ec"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11533,
+      "sha256": "4fa32ae4c7f3071f6ca842f423cc712034cd3c0a55f7125460a0dd2ced55b628"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

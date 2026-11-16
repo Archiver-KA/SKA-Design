@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00067",
+  "title": "Animated Gradient Border CTA Button",
+  "summary": "Rounded CTA button with spinning conic-gradient border, hover elevation, and arrow icon. Uses Tailwind-style utility classes for animated hover effects and subtle inner shadow, ideal for prominent actions or navigation links.",
+  "tags": [
+    "button",
+    "animated",
+    "cta",
+    "gradient",
+    "hover",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1432,
+      "sha256": "e140c4db1191f3351d7af5746754a451c5e78ce2610c7361b48fe5025663e6d9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1452,
+      "sha256": "792103bdd2aad5502bfcbd480312861f68824fe8cef5cec0102efd3976985f1e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2308,
+      "sha256": "57bc77a9e4b704518f5e164e7b02e79a425d37d801cea3bf6343c4617e622209"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

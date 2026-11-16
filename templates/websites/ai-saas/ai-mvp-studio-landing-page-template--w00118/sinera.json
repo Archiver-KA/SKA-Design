@@ -1,0 +1,65 @@
+{
+  "id": "SN-W00118",
+  "title": "AI MVP Studio Landing Page Template",
+  "summary": "A sleek, dark-mode landing page template for AI MVP studios and product agencies to showcase a 20-day build process, features, pricing, and lead capture.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "AI MVP",
+    "Agency"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3678,
+      "sha256": "ac7e659b2cf462ad29e8f8d97f766bc137e124e262837cff47fe3e3a3918c334"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12694,
+      "sha256": "d442e778aef1b35a12cb4ef876dd8feb640486d24311b315f70b6e008d7975b5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "94f04516ac8e850d9f4a40945084c602cc9ab32ad95e8e8925b82a5e9d256334"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21289,
+      "sha256": "49e0126985ce0362d767644bf7dab3b7e7b269cfad744a4e4f497e70bc0e29ec"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "how-it-works",
+    "bento-grid",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

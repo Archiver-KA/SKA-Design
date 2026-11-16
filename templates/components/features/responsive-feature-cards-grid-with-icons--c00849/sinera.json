@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00849",
+  "title": "Responsive Feature Cards Grid with Icons",
+  "summary": "A Tailwind CSS grid showcasing feature cards with icon, title, and text. Adapts from single to four columns, ideal for landing pages or product sections to highlight services or teams.",
+  "tags": [
+    "grid",
+    "feature",
+    "icon",
+    "tailwindcss",
+    "responsive",
+    "landing page",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7868,
+      "sha256": "986a25bdc4cdb3013ac9cc5f9b7590f8235ef08ac4dadcf408ea30ab5225241c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3645,
+      "sha256": "3328e81480b993098995ba5c95dd6c658123958a3c61d4f2c5017654cbf3c522"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4636,
+      "sha256": "eb95f9bb5c8692bb5161df20ee992b90fb8fcfb3cefc49dbc8d76fe706ea8516"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

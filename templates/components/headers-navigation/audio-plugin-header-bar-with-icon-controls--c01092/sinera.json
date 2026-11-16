@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01092",
+  "title": "Audio Plugin Header Bar with Icon Controls",
+  "summary": "Responsive Tailwind header with power toggle, preset dropdown, centered title and subtitle, plus link, shuffle, reverse and reset icon buttons. Fits audio plugins, dashboards or compact app toolbars.",
+  "tags": [
+    "header",
+    "toolbar",
+    "tailwind",
+    "icon-buttons",
+    "responsive",
+    "audio",
+    "navbar"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4088,
+      "sha256": "65bae9b72109d016dbf9d526a5fc07090c2d5a661d2f88eb990d2a03b75986ed"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4296,
+      "sha256": "024b1a0ff3fbbca5c56f8cfe03aa387c175dd4f92d01bbb8f06a97434c38e06e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5289,
+      "sha256": "23bae9cdba9937d1464130b081392a2b2c82ea278a30a56cba04c57ad3e366ee"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

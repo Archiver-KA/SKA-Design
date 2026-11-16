@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00608",
+  "title": "Collapsible FAQ Accordion Section with Tailwind",
+  "summary": "Responsive FAQ accordion built with Tailwind CSS. Each card reveals or hides its answer on toggle, featuring icons, rounded borders, and dark theme styling. Ideal for help centers, landing pages, and product docs needing compact Q&A sections.",
+  "tags": [
+    "faq",
+    "accordion",
+    "collapsible",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "faq",
+  "categoryLabel": "FAQ & accordions",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8898,
+      "sha256": "d5e58173d89511266d4eea7d49bb4af203b8d9533eedf17b2362dafb849fba2b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5491,
+      "sha256": "bcac6db3938abf231a9f31a54c23c68925961c8c8d42b59b3b11507896ebbd83"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6489,
+      "sha256": "26acd74e4477ae68351bab5cd24e80f601a52d88a7057d9b89edb97669cdaca0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

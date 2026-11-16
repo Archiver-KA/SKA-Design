@@ -1,0 +1,61 @@
+{
+  "id": "SN-W04207",
+  "title": "Interactive 3D Dot Shape Viewer",
+  "summary": "Displays a customizable 3D shape of dots with controls for shape, color, size, rotation, and animation effects.",
+  "tags": [
+    "3D Globe",
+    "Interactive Controls",
+    "Dots Animation",
+    "CSS Glassmorphism",
+    "JavaScript UI",
+    "Tailwind CSS"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2466,
+      "sha256": "8965d3bb0f9ce2ce7be77c0be33dc899677153bd9f45d0547a30ddc45365c612"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6596,
+      "sha256": "ba221c575b3f9ae483ae66e478454c4719cdba739d2b274f5555dc33fe3e8018"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 909,
+      "sha256": "82e5499ab12b01623bba2855188e2d6005bb6aca4f9eac6f9bb20c750886a1ee"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 165,
+      "sha256": "99caa058d0eaa36272ddc00a3958c296b07423a372d5cd4ff6a6286b9d91e19c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9299,
+      "sha256": "fff7dcbdc821e670b720787f2435c7a0e2d80b6adc2d68bbdf85f630c0333e5e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,9 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none opacity-20 text-white" viewBox="0 0 600 600">
+          <circle cx="300" cy="300" r="299" stroke="currentColor" fill="none" stroke-width="1"/>
+          <circle cx="300" cy="300" r="100" stroke="currentColor" fill="none" stroke-width="1"/>
+          <!-- 8 lines at 45 degree intervals -->
+          <line x1="300" y1="0" x2="300" y2="600" stroke="currentColor" stroke-width="1" />
+          <line x1="0" y1="300" x2="600" y2="300" stroke="currentColor" stroke-width="1" />
+          <line x1="88" y1="88" x2="512" y2="512" stroke="currentColor" stroke-width="1" />
+          <line x1="512" y1="88" x2="88" y2="512" stroke="currentColor" stroke-width="1" />
+        </svg>

@@ -1,0 +1,72 @@
+{
+  "id": "SN-W03518",
+  "title": "Outbound Sales Coaching By Eoin Murphy",
+  "summary": "A dark, conversion-focused landing page template for outbound sales coaches, consultants, or SDR trainers promoting messaging audits and reply-driven outreach.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Dark",
+    "Minimal",
+    "Grid",
+    "Animated",
+    "sales coaching",
+    "outbound outreach"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3960,
+      "sha256": "a42a349f47fcba9c32967da1f2d19086b561c61f8178500157e2c2f2e0e91902"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18426,
+      "sha256": "46271e85ff0c6e983afe6bc8b654dd47f88ce8ada1f8a1408de1ce2afb41c7fd"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 809,
+      "sha256": "795cebed44e34c15739ffa784a9b79d61877bfc5dd606a75c56f79fdac220715"
+    },
+    {
+      "path": "index.html",
+      "bytes": 51379,
+      "sha256": "9b30e45b5148b932489502656e55dc5fed1dc45c83fbe93058a081266dcaa840"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "how-it-works",
+    "bento-grid",
+    "testimonials",
+    "about",
+    "faq",
+    "video-media",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "removed-missing-favicon-link"
+    ]
+  },
+  "design": "DESIGN.md"
+}

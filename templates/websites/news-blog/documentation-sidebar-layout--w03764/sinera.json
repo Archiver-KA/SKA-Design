@@ -1,0 +1,81 @@
+{
+  "id": "SN-W03764",
+  "title": "Documentation Sidebar Layout",
+  "summary": "Responsive documentation UI with sidebar navigation, gradient styling, and structured content sections using Tailwind CSS.",
+  "tags": [
+    "Documentation",
+    "Sidebar",
+    "Navigation",
+    "Tailwind CSS",
+    "Responsive",
+    "UI Layout"
+  ],
+  "kind": "websites",
+  "category": "news-blog",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2995,
+      "sha256": "de2bb439cedd65136c0223b06aa8708b5cff627eac66dcc8db05aa017143282c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 23276,
+      "sha256": "fcf09cd84928fc0f2a1bde613d9b8d7cba47ac394d307074324c1a2b631a29c7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1602,
+      "sha256": "0bc8a65be4cbcd70b1a03ae713dfdfb7811b5c479b35b74ba560c4f0a6128d58"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 258,
+      "sha256": "9a4ecc26f9670cb476aa922c473b622a65f3e632a5d0dce4f95ecce5b25ed70c"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 236,
+      "sha256": "a937b72ebb100028df544d060f5229c6dbfbbf4d3bd371b3472f496fe0977ac8"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 301,
+      "sha256": "cce22d4b8b864caab5cc5ebc6d5c7797c1ed4f327cdd777b93c272abf425d718"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 254,
+      "sha256": "57b7553e0667923de7bffa3ed47de3f589ee13e9a75dcf6626c85ffc9ecc3d1c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10124,
+      "sha256": "48f2932a7784c731a2e902f8a0a98c6529805a26af0d9d95cdc0fa48f0752228"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "content",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Content / News",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "sidebar",
+    "hero"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

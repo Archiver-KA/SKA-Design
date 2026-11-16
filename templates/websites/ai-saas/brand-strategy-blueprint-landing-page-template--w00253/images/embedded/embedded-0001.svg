@@ -1,0 +1,11 @@
+<svg class="absolute inset-0 h-full w-full" preserveAspectRatio="none">
+                        <!-- Upward trend -->
+                        <polyline points="0,220 50,200 100,160 150,110 200,80 250,50 300,30" fill="none" stroke="#eab308" stroke-width="3"></polyline>
+                        <circle cx="300" cy="30" r="4" fill="#eab308"></circle>
+                        <text x="210" y="20" fill="#eab308" font-size="12" font-weight="600">Growth (New Opportunities)</text>
+                        
+                        <!-- Downward trend -->
+                        <polyline points="0,80 50,100 100,120 150,150 200,180 250,210 300,240" fill="none" stroke="#ef4444" stroke-width="3"></polyline>
+                        <circle cx="300" cy="240" r="4" fill="#ef4444"></circle>
+                        <text x="180" y="235" fill="#ef4444" font-size="12" font-weight="600">Decline (Lost Customers)</text>
+                    </svg>

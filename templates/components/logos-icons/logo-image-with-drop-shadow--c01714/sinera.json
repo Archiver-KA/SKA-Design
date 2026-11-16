@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01714",
+  "title": "Logo Image with Drop Shadow",
+  "summary": "Responsive logo image component with professional drop shadow effect. Scales from 20x20 on mobile to 28x28 on desktop with proper aspect ratio preservation.",
+  "tags": [
+    "logo",
+    "image",
+    "responsive",
+    "shadow",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2482,
+      "sha256": "ea2209796fc728eb3c8b671c595889f66318e227260d6817a3830cf4537ec35f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 610,
+      "sha256": "bc5759b9cc412f6161cd6065424d426ad8b582b8bcd8cdf8a45bdb998ce65c0b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1458,
+      "sha256": "f4f80e9bc2b3281205df7a241843627bfd0e9efbaa5b0c7d9cc220f2eabab1e8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

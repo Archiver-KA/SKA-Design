@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01758",
+  "title": "SVG Logo with Circle Emblem and Wordmark",
+  "summary": "Scalable vector logo combining circular emblem and stylized wordmark. Inherits currentColor for easy theming, perfect for headers, nav bars, or branding sections.",
+  "tags": [
+    "svg",
+    "logo",
+    "icon",
+    "vector",
+    "responsive",
+    "currentcolor",
+    "branding"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2658,
+      "sha256": "f52733022011e5bc7276f59bfe6b04a03f77d7ae66f61561a194ad1a51f6be27"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7086,
+      "sha256": "2444f1a4a4b15130575e02c3bd1e4872c82ba4b0c7ff0a47a74e3d847480348c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7947,
+      "sha256": "1c393a567e2ac66fee12f985ee343d3cdc51079c51a0f37235e5ed8a774742e7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

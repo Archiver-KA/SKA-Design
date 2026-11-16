@@ -1,0 +1,45 @@
+{
+  "id": "SN-C00443",
+  "title": "Responsive Collapsible Help Banner with Intent CTAs",
+  "summary": "Expandable header banner featuring intent chips (repair, installation, tune-up, emergency) that swap dynamic call-to-action buttons. Tailwind-styled, lucide icons, mobile/desktop layouts, and collapse toggle for streamlined support on service pages.",
+  "tags": [
+    "banner",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "collapsible",
+    "cta",
+    "chips",
+    "service",
+    "lucide-icons"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7696,
+      "sha256": "a1b0efb38ff7a195eacdc2cb45d4899fe76b1bfc6f3926f6c5aa53aed2306123"
+    },
+    {
+      "path": "component.html",
+      "bytes": 17901,
+      "sha256": "327522a15fea48f3c1b2fd91b9d81d52b8abd766c4bf669af81ecc7af58d8e31"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18903,
+      "sha256": "8c59a18c54d3bafcc9e34a2844a6a8d5e006f16e58f188f79570169e323c6229"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

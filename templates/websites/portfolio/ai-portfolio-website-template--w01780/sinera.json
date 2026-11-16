@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01780",
+  "title": "AI Portfolio Website Template",
+  "summary": "A reusable portfolio template for AI engineers, automation consultants, and tech founders to showcase services, case studies, and expertise.",
+  "tags": [
+    "Portfolio",
+    "Technology",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Futuristic",
+    "Personal Brand",
+    "AI",
+    "Automation"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3733,
+      "sha256": "df0308c02de5c5fc4a1943a6723eeb91850bfb5ed66932be67073639348c455e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13872,
+      "sha256": "d489bc6c5ffca3dd35aef78531cc0bda19bfa208d443eafa9cc6c203e741e37a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 800,
+      "sha256": "b74418ffc6b96dc69a09a41b3c2f4da98b98e49c7ef09af8ea9007f94d93fb93"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27642,
+      "sha256": "4befaa02dac2f6deeee87393b22bc6300af28b42df7133bb7420635b0710e631"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

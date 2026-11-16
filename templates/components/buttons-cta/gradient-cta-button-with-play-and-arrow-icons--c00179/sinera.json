@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00179",
+  "title": "Gradient CTA Button with Play and Arrow Icons",
+  "summary": "Interactive call-to-action link styled as a pill button with cyan-to-green gradient. Includes leading play-circle and trailing arrow icons, scales and shadows on hover. Ideal for course signup or landing pages, built with Tailwind CSS.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "gradient",
+    "icon",
+    "hover",
+    "interactive",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2550,
+      "sha256": "350a1205691b071686fc7ebb393ff0051713943401e5725e5bdd490e99192be8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1061,
+      "sha256": "bbcd1d8dc70413cf51891d4779fd2f48059a73eb8936c7b006d070b307f6502b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2057,
+      "sha256": "4a349669ece245693e4b58b5e8cae3661eede75ca3232b85c4e59f713b70c053"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

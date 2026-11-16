@@ -1,0 +1,18 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none" viewBox="0 0 600 600">
+                <defs>
+                    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+                        <stop offset="0%" stop-color="rgba(255,255,255,0.05)"></stop>
+                        <stop offset="50%" stop-color="rgba(255,255,255,0.2)"></stop>
+                        <stop offset="100%" stop-color="rgba(255,255,255,0.05)"></stop>
+                    </linearGradient>
+                </defs>
+                <!-- Cross Connections -->
+                <path d="M 150 150 Q 300 300 450 450" fill="none" stroke="url(#lineGrad)" stroke-width="1" stroke-dasharray="8 8"></path>
+                <path d="M 450 150 Q 300 300 150 450" fill="none" stroke="url(#lineGrad)" stroke-width="1" stroke-dasharray="8 8"></path>
+
+                <!-- Circular Connections -->
+                <path d="M 150 150 Q 300 50 450 150" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1" stroke-dasharray="4 4"></path>
+                <path d="M 450 150 Q 550 300 450 450" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1" stroke-dasharray="4 4"></path>
+                <path d="M 450 450 Q 300 550 150 450" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1" stroke-dasharray="4 4"></path>
+                <path d="M 150 450 Q 50 300 150 150" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1" stroke-dasharray="4 4"></path>
+            </svg>

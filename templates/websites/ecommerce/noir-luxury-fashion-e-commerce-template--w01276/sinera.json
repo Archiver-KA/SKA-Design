@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01276",
+  "title": "NOIR Luxury Fashion E-commerce Template",
+  "summary": "A dark, editorial e-commerce template for luxury fashion brands, featuring curated collections, shoppable grids, journal content, and newsletter capture.",
+  "tags": [
+    "E-commerce",
+    "Fashion",
+    "Landing Page",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Grid",
+    "Clean",
+    "Style"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3562,
+      "sha256": "b4fb72394091c454996fd613f7b61d06e7213e4ec0e806618a335eee629b3d79"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8644,
+      "sha256": "c98fc545b617733724293245169e37074f6738a9dc188b2eb80c2cac10a95d22"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 812,
+      "sha256": "953e33035322525a754ea7da2165525622afec4541530d547c3f11249908b5f0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35644,
+      "sha256": "e0b403d06101d1bed937228944d15ff885702b8470067515254319fcaa68fd85"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "menu-list",
+    "cta",
+    "product-grid",
+    "hero",
+    "marquee",
+    "blog-articles",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

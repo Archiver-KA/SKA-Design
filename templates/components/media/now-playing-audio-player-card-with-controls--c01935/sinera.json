@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01935",
+  "title": "Now Playing Audio Player Card with Controls",
+  "summary": "Compact TailwindCSS audio player card showing current track info, shuffle/repeat/settings controls, animated progress bar and time stamps. Suited for music dashboards, streaming apps or podcast interfaces.",
+  "tags": [
+    "audio player",
+    "card",
+    "tailwind",
+    "controls",
+    "progress bar",
+    "music",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13572,
+      "sha256": "18b37267e1d53d5f9912f53b34f7fe81e249cec899aac3d4b085b4e45f2875de"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3204,
+      "sha256": "b105a374d1b431b42a55ef4265387311048c5ba3283790f8fe175fdc4300f227"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4198,
+      "sha256": "924a3448a3e5b3e644385663fb7340f5b56feeb0e3e02f4ec0173b75bf6229c0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

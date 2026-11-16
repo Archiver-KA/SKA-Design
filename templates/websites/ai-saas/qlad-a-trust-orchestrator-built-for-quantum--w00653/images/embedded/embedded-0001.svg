@@ -1,0 +1,274 @@
+<svg
+            viewBox="0 0 900 460"
+            class="w-full"
+            role="img"
+            aria-label="Animated diagram: a user request flows into the QLAD Router, which sends complex requests to a frontier model and standard requests to a DeepSeek V4 deployment running in a Kubernetes cluster, secured by a QLAD enclave."
+          >
+            <path
+              d="M190 230 L314 230"
+              fill="none"
+              stroke="#CCCCCC"
+              stroke-width="1.5"
+              stroke-dasharray="5 5"
+            ></path>
+            <path
+              d="M528 230 C600 230 595 105 650 105"
+              fill="none"
+              stroke="#CCCCCC"
+              stroke-width="1.5"
+              stroke-dasharray="5 5"
+            ></path>
+            <path
+              d="M528 230 C580 230 575 324 620 324"
+              fill="none"
+              stroke="#CCCCCC"
+              stroke-width="1.5"
+              stroke-dasharray="5 5"
+            ></path>
+            <circle r="5" fill="#000000">
+              <animateMotion
+                dur="3.6s"
+                repeatCount="indefinite"
+                path="M190 230 L528 230 C600 230 595 105 650 105"
+              ></animateMotion>
+            </circle>
+            <circle r="5" fill="#000000" opacity="0">
+              <animate
+                attributeName="opacity"
+                values="0;1"
+                dur="0.01s"
+                begin="1.8s"
+                fill="freeze"
+              ></animate>
+              <animateMotion
+                dur="3.6s"
+                begin="1.8s"
+                repeatCount="indefinite"
+                path="M190 230 L528 230 C580 230 575 324 620 324"
+              ></animateMotion>
+            </circle>
+            <text
+              x="592"
+              y="150"
+              text-anchor="middle"
+              font-size="10"
+              fill="#999999"
+              style="font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:0.08em;"
+            >
+              COMPLEX REASONING
+            </text>
+            <text
+              x="572"
+              y="296"
+              text-anchor="middle"
+              font-size="10"
+              fill="#999999"
+              style="font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:0.08em;"
+            >
+              STANDARD REQUEST
+            </text>
+            <rect
+              x="20"
+              y="200"
+              width="170"
+              height="60"
+              fill="#FFFFFF"
+              stroke="#000000"
+              stroke-width="1.5"
+            ></rect>
+            <text
+              x="105"
+              y="226"
+              text-anchor="middle"
+              font-size="14"
+              font-weight="600"
+              fill="#000000"
+              style="font-family:'Inter Tight',sans-serif;"
+            >
+              User Request
+            </text>
+            <text
+              x="105"
+              y="245"
+              text-anchor="middle"
+              font-size="10"
+              fill="#999999"
+              style="font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;"
+            >
+              prompt → api
+            </text>
+            <rect
+              x="314"
+              y="182"
+              width="222"
+              height="96"
+              fill="none"
+              stroke="#000000"
+              stroke-opacity="0.35"
+            >
+              <animate
+                attributeName="stroke-opacity"
+                values="0.35;0;0.35"
+                dur="2.4s"
+                repeatCount="indefinite"
+              ></animate>
+            </rect>
+            <rect x="322" y="190" width="206" height="80" fill="#000000"></rect>
+            <image
+              href="https://qlad.com/wp-content/uploads/2024/12/Solid_HexLock.svg"
+              x="338"
+              y="212"
+              width="36"
+              height="36"
+              style="filter:brightness(0) invert(1);"
+            ></image>
+            <text
+              x="386"
+              y="226"
+              font-size="14"
+              font-weight="600"
+              fill="#FFFFFF"
+              style="font-family:'Inter Tight',sans-serif;"
+            >
+              QLAD Router
+            </text>
+            <text
+              x="386"
+              y="246"
+              font-size="9"
+              fill="#888888"
+              style="font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;"
+            >
+              classify · route · attest
+            </text>
+            <rect
+              x="650"
+              y="70"
+              width="200"
+              height="70"
+              fill="#FFFFFF"
+              stroke="#000000"
+              stroke-width="1.5"
+            ></rect>
+            <text
+              x="750"
+              y="100"
+              text-anchor="middle"
+              font-size="14"
+              font-weight="600"
+              fill="#000000"
+              style="font-family:'Inter Tight',sans-serif;"
+            >
+              Frontier Model
+            </text>
+            <text
+              x="750"
+              y="119"
+              text-anchor="middle"
+              font-size="10"
+              fill="#999999"
+              style="font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;"
+            >
+              fable-5 · premium · $$$
+            </text>
+            <rect
+              x="620"
+              y="240"
+              width="262"
+              height="200"
+              fill="#FAFAFA"
+              stroke="#999999"
+              stroke-width="1"
+              stroke-dasharray="6 4"
+            ></rect>
+            <text
+              x="636"
+              y="263"
+              font-size="9"
+              fill="#777777"
+              style="font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:0.06em;"
+            >
+              ⎈ KUBERNETES CLUSTER · ns: qlad-system
+            </text>
+            <rect
+              x="640"
+              y="278"
+              width="222"
+              height="98"
+              fill="#FFFFFF"
+              stroke="#000000"
+              stroke-width="1.5"
+            ></rect>
+            <text
+              x="751"
+              y="302"
+              text-anchor="middle"
+              font-size="14"
+              font-weight="600"
+              fill="#000000"
+              style="font-family:'Inter Tight',sans-serif;"
+            >
+              DeepSeek V4
+            </text>
+            <text
+              x="751"
+              y="320"
+              text-anchor="middle"
+              font-size="9"
+              fill="#999999"
+              style="font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;"
+            >
+              deployment · 3/3 replicas ready
+            </text>
+            <rect x="710" y="332" width="22" height="16" fill="#000000"></rect>
+            <text
+              x="721"
+              y="344"
+              text-anchor="middle"
+              font-size="9"
+              fill="#FFFFFF"
+            >
+              ✓
+            </text>
+            <rect x="740" y="332" width="22" height="16" fill="#000000"></rect>
+            <text
+              x="751"
+              y="344"
+              text-anchor="middle"
+              font-size="9"
+              fill="#FFFFFF"
+            >
+              ✓
+            </text>
+            <rect x="770" y="332" width="22" height="16" fill="#000000"></rect>
+            <text
+              x="781"
+              y="344"
+              text-anchor="middle"
+              font-size="9"
+              fill="#FFFFFF"
+            >
+              ✓
+            </text>
+            <text
+              x="751"
+              y="364"
+              text-anchor="middle"
+              font-size="8"
+              fill="#999999"
+              style="font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;"
+            >
+              qlad.io/enclave: required
+            </text>
+            <rect x="662" y="394" width="178" height="28" fill="#000000"></rect>
+            <text
+              x="751"
+              y="412"
+              text-anchor="middle"
+              font-size="9"
+              fill="#FFFFFF"
+              style="font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:0.04em;"
+            >
+              ⬡ QLAD ENCLAVE · ATTESTED ✓
+            </text>
+          </svg>

@@ -1,0 +1,64 @@
+{
+  "id": "SN-W01358",
+  "title": "Agency Landing Page Template",
+  "summary": "A refined, high-end agency landing page template designed for social media and content marketing professionals seeking an elegant digital presence.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Portfolio",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3822,
+      "sha256": "8dcd991b2131465dd635d0756cd1683c1e84f3795f23cb01cee2bfb4993e318f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16304,
+      "sha256": "9bc774769799fa2b5d7a1d60ff5bbc24aeb03b922c7d4cce96e154fc453ebb5d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 722,
+      "sha256": "dd1312bfc4e50f3ab53c0a9c84bd298e44dacefad83fed3fc3aab960258e6cf9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27666,
+      "sha256": "a194e489ef86351ea33e3f4bf6e910c2cb5d4f411dad2f32afcbf46f9f5c524f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "logo-cloud",
+    "navbar",
+    "hero",
+    "stats",
+    "services",
+    "bento-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "SN-W00691",
+  "title": "SaaS Wrapped Story Builder Template",
+  "summary": "A customizable SaaS recap story template for creating mobile-friendly, brandable “year in review” slides you can reuse for client or product reports.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Story Builder",
+    "SaaS",
+    "Year in Review"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3706,
+      "sha256": "1e15cc302a48296583eb04c342c05d87c9790ad628fafab68e9447569167a509"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8912,
+      "sha256": "1d9c46b0d104c424b197117e343b8dbf837337a0c884de6446b4db57e14750f2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 812,
+      "sha256": "abe647e61fdae6c9f842268fa257aa1827052bd9c590b7fbe63ce2219e910349"
+    },
+    {
+      "path": "index.html",
+      "bytes": 68342,
+      "sha256": "e5e2edb3f5d51477fcb9d9ee6ff86065e82bc51012b48d95472c122561100adf"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "sidebar",
+    "testimonials"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

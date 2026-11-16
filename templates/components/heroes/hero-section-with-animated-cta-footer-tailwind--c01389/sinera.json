@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01389",
+  "title": "Hero Section with Animated CTA & Footer (Tailwind)",
+  "summary": "Responsive landing-page hero section featuring headline, gradient text, animated hover CTA button, contact details, social links, and footer navigation. Built with Tailwind CSS for quick integration into SaaS or agency websites.",
+  "tags": [
+    "hero",
+    "cta",
+    "footer",
+    "landing page",
+    "tailwind",
+    "responsive",
+    "animated",
+    "section"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18894,
+      "sha256": "15274f5d81dab526997ad49cc1f1652424949caf4b0565e9f9f62e9990c5bc79"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8584,
+      "sha256": "acfd00774df2d24c897d737e36d1871258407e3676cf5745feb168bd82a286fb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9589,
+      "sha256": "1336f789f52064fcfa242601e8ed49bac7460f5c443106cb60819ebc0ba1fadb"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

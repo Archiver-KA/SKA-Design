@@ -1,0 +1,22 @@
+<svg viewBox="0 0 100 100" preserveAspectRatio="none" class="absolute inset-0 w-full h-full pointer-events-none opacity-60 z-10" style="filter: drop-shadow(0 0 6px rgba(99,102,241,0.6));">
+
+          <!-- US West to US East -->
+          <line x1="15" y1="38" x2="25" y2="35" stroke="#6366f1" stroke-width="0.3" stroke-dasharray="1.2 1.2" class="animate-data-link" style="animation-duration: 2s;">
+          </line>
+
+          <!-- US East to EU -->
+          <path d="M 25 35 Q 37 24 50 25" fill="none" stroke="#6366f1" stroke-width="0.3" stroke-dasharray="1.2 1.2" class="animate-data-link" style="animation-duration: 3s;">
+          </path>
+
+          <!-- EU to Singapore -->
+          <path d="M 50 25 Q 62 36 75 45" fill="none" stroke="#6366f1" stroke-width="0.3" stroke-dasharray="1.2 1.2" class="animate-data-link" style="animation-duration: 4s;">
+          </path>
+
+          <!-- EU to Tokyo -->
+          <path d="M 50 25 Q 66 22 85 30" fill="none" stroke="#6366f1" stroke-width="0.3" stroke-dasharray="1.2 1.2" class="animate-data-link" style="animation-duration: 3.5s;">
+          </path>
+
+          <!-- US East to Brazil -->
+          <path d="M 25 35 Q 27 49 30 70" fill="none" stroke="#6366f1" stroke-width="0.3" stroke-dasharray="1.2 1.2" class="animate-data-link" style="animation-duration: 2.5s;">
+          </path>
+        </svg>

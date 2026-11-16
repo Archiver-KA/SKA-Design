@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02871",
+  "title": "Caribbean Restaurant Landing Page Template",
+  "summary": "A modern Caribbean restaurant landing page template for showcasing menus, locations, and catering services with bold imagery and clear calls-to-action.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Services",
+    "Brand",
+    "Clean",
+    "Colorful",
+    "Minimal",
+    "Restaurant",
+    "Catering",
+    "Caribbean"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3644,
+      "sha256": "8f8d2780493e504c1091f6178da73a40a5657f596f98d1c3f0bbc1bb6bf3a283"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 53252,
+      "sha256": "e743ea6bb5eaa07659ac0cbaa36cc0c5e4f7e7061311916fc776c2ec9b2053ec"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 739,
+      "sha256": "49e98988e25cacbf57ef1721c6d13f15c7dfd16e278449f95ab3512d167bbd54"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29111,
+      "sha256": "5d2d781a3ac138e4f5bd428d57dcf83b76940c1228bd595c2c5cad65058572a7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "menu-list",
+    "bento-grid",
+    "map-location",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

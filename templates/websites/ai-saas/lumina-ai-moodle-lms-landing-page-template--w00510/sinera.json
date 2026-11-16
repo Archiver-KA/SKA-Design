@@ -1,0 +1,66 @@
+{
+  "id": "SN-W00510",
+  "title": "Lumina AI Moodle LMS Landing Page Template",
+  "summary": "A modern Lumina-inspired landing page template for AI tutoring tools built for Moodle LMS, ideal for showcasing integrations, features, and edu-focused CTAs.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Education",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "AI tutor",
+    "Moodle LMS"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3705,
+      "sha256": "239996d0b51648fe6e585684ac8f6f9a5b1a79f803ed8dad0ec8fc00b5215693"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17526,
+      "sha256": "c755eb3f0d40e8be4cc21617612633d03d3f0c30527c241fd20d61a882398201"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "5950196747f8ad390663fc035ca22313524b042e07f01550e9bd9842fbf6e000"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26060,
+      "sha256": "1091628e2795c4f3f1e6cf97c97f60adcac1d2d16d6e854ad21fb7b1478f4f5f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "integrations",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

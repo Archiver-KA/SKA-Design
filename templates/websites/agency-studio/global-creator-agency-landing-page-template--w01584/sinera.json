@@ -1,0 +1,70 @@
+{
+  "id": "SN-W01584",
+  "title": "Global Creator Agency Landing Page Template",
+  "summary": "A reusable landing page template designed for global creator agencies to showcase their impact, services, and network reach effectively.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "Services",
+    "Network",
+    "Stats",
+    "CTA",
+    "Testimonials",
+    "Footer",
+    "Navigation"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3577,
+      "sha256": "49fa0c06cd1baa2c4d78a4b5c6f088ca87190d935c8c01225acc0d98f839a1ee"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10280,
+      "sha256": "38ed272cd312e3a4983a206cab796f899f6ba53dc01e9c510838feca929ccaa9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 960,
+      "sha256": "49c3ef0b8b4f0cebda71632fcd5e139c0638f2791d28b5eaeca873a56c21d9f4"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31075,
+      "sha256": "0848f5cb7b26b8a81c2ebd011b266831eebcf5940961692009c21f5cf2261fea"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "pricing",
+    "testimonials",
+    "logo-cloud",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

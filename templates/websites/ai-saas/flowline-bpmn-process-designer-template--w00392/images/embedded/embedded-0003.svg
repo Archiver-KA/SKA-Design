@@ -1,0 +1,98 @@
+<svg className="canvas__wires" fill="none">
+              <defs>
+                <marker
+                  id="a-slate"
+                  viewBox="0 0 10 10"
+                  refX="9"
+                  refY="5"
+                  markerWidth="7"
+                  markerHeight="7"
+                  orient="auto-start-reverse"
+                >
+                  <path d="M0,1 L9,5 L0,9 z" fill="#94a3b8" />
+                </marker>
+                <marker
+                  id="a-amber"
+                  viewBox="0 0 10 10"
+                  refX="9"
+                  refY="5"
+                  markerWidth="7"
+                  markerHeight="7"
+                  orient="auto-start-reverse"
+                >
+                  <path d="M0,1 L9,5 L0,9 z" fill="#f59e0b" />
+                </marker>
+                <marker
+                  id="a-emerald"
+                  viewBox="0 0 10 10"
+                  refX="9"
+                  refY="5"
+                  markerWidth="7"
+                  markerHeight="7"
+                  orient="auto-start-reverse"
+                >
+                  <path d="M0,1 L9,5 L0,9 z" fill="#10b981" />
+                </marker>
+              </defs>
+
+              <rect
+                x="1090"
+                y="60"
+                width="310"
+                height="480"
+                rx="18"
+                stroke="#cbd5e1"
+                strokeWidth="1.5"
+                strokeDasharray="6 6"
+              />
+
+              <path d="M120 355 H196" stroke="#94a3b8" strokeWidth="2" markerEnd="url(#a-slate)" />
+              <path d="M440 355 H496" stroke="#94a3b8" strokeWidth="2" markerEnd="url(#a-slate)" />
+              <path
+                d="M572 355 C 614 355, 610 235, 646 235"
+                stroke="#10b981"
+                strokeWidth="2"
+                markerEnd="url(#a-emerald)"
+              />
+              <path
+                d="M536 391 C 536 470, 590 555, 646 555"
+                stroke="#f59e0b"
+                strokeWidth="2"
+                markerEnd="url(#a-amber)"
+              />
+              <path d="M900 235 H960" stroke="#94a3b8" strokeWidth="2" markerEnd="url(#a-slate)" />
+              <path
+                d="M1036 235 C 1078 235, 1080 160, 1116 160"
+                stroke="#94a3b8"
+                strokeWidth="2"
+                markerEnd="url(#a-slate)"
+              />
+              <path
+                d="M1036 235 C 1078 235, 1080 400, 1116 400"
+                stroke="#94a3b8"
+                strokeWidth="2"
+                markerEnd="url(#a-slate)"
+              />
+              <path
+                d="M1370 160 C 1408 160, 1400 280, 1434 280"
+                stroke="#94a3b8"
+                strokeWidth="2"
+                markerEnd="url(#a-slate)"
+              />
+              <path
+                d="M1370 400 C 1408 400, 1400 280, 1434 280"
+                stroke="#94a3b8"
+                strokeWidth="2"
+                markerEnd="url(#a-slate)"
+              />
+              <path d="M900 555 H976" stroke="#f59e0b" strokeWidth="2" markerEnd="url(#a-amber)" />
+
+              <path
+                d="M690 118 V 145"
+                stroke="#94a3b8"
+                strokeWidth="1.5"
+                strokeDasharray="5 5"
+                markerEnd="url(#a-slate)"
+              />
+              <path d="M712 668 V 632" stroke="#cbd5e1" strokeWidth="1.5" strokeDasharray="5 5" />
+            </svg>

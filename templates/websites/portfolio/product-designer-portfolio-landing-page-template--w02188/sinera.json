@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02188",
+  "title": "Product Designer Portfolio Landing Page Template",
+  "summary": "A sleek dark-mode portfolio landing page template for product designers and creative developers to showcase selected works, services, and contact details.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Clean",
+    "Dark",
+    "Large Type",
+    "Gradient",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3283,
+      "sha256": "2310289b8113b0d7fce0b095481f2e3bce37c579cda6223f9703b216e350d8b9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11732,
+      "sha256": "999761e0a330ecd58f9b8a6391249efde585a60a0e9f2d1e4d0d0f363892c983"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1050,
+      "sha256": "7185a1fd924e55329257a1995f4c20c853ae30b923663eaa5703d2ff5d4605c0"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 317,
+      "sha256": "4c8f98534b1c82b56971208c4fb2d351dd970ac30702804f438326c6559474a9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20602,
+      "sha256": "21b858330d094e95a1ccf1535c0947100e868f47fc80115fd6ff989010ab2f91"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

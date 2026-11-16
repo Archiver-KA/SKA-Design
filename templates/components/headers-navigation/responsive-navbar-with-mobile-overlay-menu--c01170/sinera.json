@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01170",
+  "title": "Responsive Navbar with Mobile Overlay Menu",
+  "summary": "Header navigation bar with logo, desktop links, sign-in/CTA buttons and a full-screen mobile slide-in overlay menu. Styled with Tailwind CSS utilities; ideal for SaaS, landing pages or marketing sites needing adaptive navigation.",
+  "tags": [
+    "navbar",
+    "header",
+    "responsive",
+    "mobile-menu",
+    "overlay",
+    "tailwind",
+    "navigation"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3422,
+      "sha256": "acba0011000d4c9a5302eb7ca7d8d8ab235116928250324e48a47f92618c62ce"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5749,
+      "sha256": "ddfbb0ea666e019eb10c44890ff6a64912f5fe903fa3ed5dc6a5ac77ba9e3e6c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6742,
+      "sha256": "ba5a04b9e42ed41fc14704d504f1c5b894e021e294cdfe6fe1b0adfde0c7a590"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "SN-W01859",
+  "title": "Cinematic Production Portfolio Template",
+  "summary": "A reusable dark portfolio template for filmmakers, studios, and visual creators to showcase work, services, behind-the-scenes content, and capture project inquiries.",
+  "tags": [
+    "Portfolio",
+    "Services",
+    "Landing Page",
+    "Dark",
+    "Minimal",
+    "Gradient",
+    "Animated",
+    "video production",
+    "filmmaker",
+    "creative studio"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3827,
+      "sha256": "c87d19f99f4b17e1d20d78a03929d94708c08972d05fe126babc1633ce04fd2d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15496,
+      "sha256": "a9f0dd71ca05a2290a5bdcc7e38ae095a282d766eea6041f75b678a368142ec7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2283,
+      "sha256": "b0be9c335b4a965c33a3e46187a1b88272c6cc700620c5bda977c5f4d672fab6"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "845a8c33647082b21c3db87d511ee26caa07aa7a2c9bf6b015aad47a996ab97f"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 556,
+      "sha256": "978e7f408d697f01f6d6163a044f5bf5b460171ecde4f15d0829783c01712e56"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 657,
+      "sha256": "278c5c56d6b741a09ba08a419bed4c03c2bb26deaf63195ce9582139ceb78fd0"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 541,
+      "sha256": "0da51b1df8a3d0fc6bcd49d5199993434f6499f16c0de84271ba2dc08c0ff76d"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 352,
+      "sha256": "0899396362201fc8805e2109a5203fcb535d30625afeba81562aa0352476fe6e"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 382,
+      "sha256": "411ed9cfbb71d97dd4df6fb7fc07ff8814429d54c63bf6973a610fd96ec43b20"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 305,
+      "sha256": "d9d1ed26ce2224dbc9333634bd6d5d7651e6b66d47b29031dc08e09100e5f116"
+    },
+    {
+      "path": "index.html",
+      "bytes": 51033,
+      "sha256": "a98b0d339cce022d8697c03e25aa915439764d068b29c50696f36b20c5c82dc4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "testimonials",
+    "gallery-portfolio",
+    "services",
+    "3d-canvas",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

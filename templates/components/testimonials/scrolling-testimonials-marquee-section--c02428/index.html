@@ -1,0 +1,369 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Scrolling Testimonials Marquee Section</title><script src="https://cdn.tailwindcss.com"></script><link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet"><style>body{margin:0;min-height:100vh;display:flex;flex-direction:column;justify-content:center;background:#ffffff;color:#0a0a0a;font-family:Inter,ui-sans-serif,system-ui,sans-serif}</style></head><body><div id="component-root"><section id="testimonials"
+  class="sm:py-24 [animation:fadeSlideIn_0.8s_ease-out_0.1s_both] animate-on-scroll pt-16 pb-16 px-8"
+  data-element-locator="html &gt; body:nth-of-type(1) &gt; div:nth-of-type(1) &gt; section:nth-of-type(4)">
+  <div class="flex items-center justify-between mb-8">
+    <div class="space-y-1">
+      <p class="text-xs uppercase text-neutral-500 tracking-widest font-geist">
+        What clients say
+      </p>
+      <h2 class="text-3xl sm:text-4xl font-geist tracking-tighter font-medium" style="">
+        Testimonials
+      </h2>
+    </div>
+    <div class="hidden sm:flex items-center gap-2 text-neutral-400">
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+        stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4">
+        <path
+          d="M16 3a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2 1 1 0 0 1 1 1v1a2 2 0 0 1-2 2 1 1 0 0 0-1 1v2a1 1 0 0 0 1 1 6 6 0 0 0 6-6V5a2 2 0 0 0-2-2z"
+          class=""></path>
+        <path
+          d="M5 3a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2 1 1 0 0 1 1 1v1a2 2 0 0 1-2 2 1 1 0 0 0-1 1v2a1 1 0 0 0 1 1 6 6 0 0 0 6-6V5a2 2 0 0 0-2-2z"
+          class=""></path>
+      </svg>
+      <span class="text-sm font-geist">Real feedback from clients</span>
+    </div>
+  </div>
+
+  <div class="relative overflow-hidden rounded-2xl sm:rounded-3xl border border-neutral-200 bg-white">
+    <div
+      class="pointer-events-none absolute inset-y-0 left-0 w-24 sm:w-40 bg-gradient-to-r from-white to-transparent z-10">
+    </div>
+    <div
+      class="pointer-events-none absolute inset-y-0 right-0 w-24 sm:w-40 bg-gradient-to-l from-white to-transparent z-10">
+    </div>
+
+    <div class="relative py-6 sm:py-8">
+      <div class="flex gap-4 sm:gap-5 will-change-transform animate-[marquee-ltr_45s_linear_infinite]">
+        <article
+          class="shrink-0 w-[280px] sm:w-[360px] md:w-[420px] rounded-2xl border border-neutral-200 bg-neutral-50 p-5">
+          <div class="flex items-center gap-3">
+            <img src="https://images.unsplash.com/photo-1618077360395-f3068be8e001?auto=format&fit=crop&crop=faces&w=320&h=320&q=80" alt="Professional Portrait of Curly-Haired Businessman" class="size-9 object-cover rounded-full">
+            <div>
+              <div class="flex items-center gap-1">
+                <span class="text-sm font-medium text-neutral-900 font-geist">
+                        Michael Chen
+                      </span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                  stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"
+                  class="w-3.5 h-3.5 text-blue-500">
+                  <circle cx="12" cy="12" r="10" class=""></circle>
+                  <path d="m9 12 2 2 4-4" class=""></path>
+                </svg>
+              </div>
+              <p class="text-xs text-neutral-500 font-geist">
+                CEO, TechStart
+              </p>
+            </div>
+          </div>
+          <p class="mt-4 text-sm sm:text-base text-neutral-700 font-geist">
+            Jin transformed our product completely. The new design
+            increased user engagement by 300% within the first month.
+          </p>
+        </article>
+
+        <article
+          class="shrink-0 w-[280px] sm:w-[360px] md:w-[420px] rounded-2xl border border-neutral-200 bg-neutral-50 p-5">
+          <div class="flex items-center gap-3">
+            <img src="https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&crop=faces&w=320&h=320&q=80" alt="Freckled young woman close-up portrait" class="size-9 object-cover rounded-full">
+            <div>
+              <div class="flex items-center gap-1">
+                <span class="text-sm font-medium text-neutral-900 font-geist">
+                        Sarah Johnson
+                      </span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                  stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"
+                  class="w-3.5 h-3.5 text-blue-500">
+                  <circle cx="12" cy="12" r="10" class=""></circle>
+                  <path d="m9 12 2 2 4-4" class=""></path>
+                </svg>
+              </div>
+              <p class="text-xs text-neutral-500 font-geist">
+                Product Lead, DesignCo
+              </p>
+            </div>
+          </div>
+          <p class="mt-4 text-sm sm:text-base text-neutral-700 font-geist">
+            Incredible attention to detail and user needs. Jin's designs
+            are both beautiful and highly functional.
+          </p>
+        </article>
+
+        <article
+          class="shrink-0 w-[280px] sm:w-[360px] md:w-[420px] rounded-2xl border border-neutral-200 bg-neutral-50 p-5">
+          <div class="flex items-center gap-3">
+            <img src="https://images.unsplash.com/photo-1583394293214-28ded15ee548?auto=format&fit=crop&crop=faces&w=320&h=320&q=80" alt="Stylish male studio portrait in dark suit" class="size-9 object-cover rounded-full">
+            <div>
+              <div class="flex items-center gap-1">
+                <span class="text-sm font-medium text-neutral-900 font-geist">
+                        David Park
+                      </span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                  stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"
+                  class="w-3.5 h-3.5 text-blue-500">
+                  <circle cx="12" cy="12" r="10" class=""></circle>
+                  <path d="m9 12 2 2 4-4" class=""></path>
+                </svg>
+              </div>
+              <p class="text-xs text-neutral-500 font-geist">
+                Founder, AppWorks
+              </p>
+            </div>
+          </div>
+          <p class="mt-4 text-sm sm:text-base text-neutral-700 font-geist">
+            Working with Jin was seamless. Fast iterations, clear
+            communication, and outstanding results.
+          </p>
+        </article>
+
+        <article
+          class="shrink-0 w-[280px] sm:w-[360px] md:w-[420px] rounded-2xl border border-neutral-200 bg-neutral-50 p-5">
+          <div class="flex items-center gap-3">
+            <img src="https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&crop=faces&w=320&h=320&q=80" alt="Studio portrait of woman in emerald blazer" class="size-9 object-cover rounded-full">
+            <div>
+              <div class="flex items-center gap-1">
+                <span class="text-sm font-medium text-neutral-900 font-geist">
+                        Emma Wilson
+                      </span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                  stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"
+                  class="w-3.5 h-3.5 text-blue-500">
+                  <circle cx="12" cy="12" r="10" class=""></circle>
+                  <path d="m9 12 2 2 4-4" class=""></path>
+                </svg>
+              </div>
+              <p class="text-xs text-neutral-500 font-geist">
+                Director, CreativeLab
+              </p>
+            </div>
+          </div>
+          <p class="mt-4 text-sm sm:text-base text-neutral-700 font-geist">
+            Jin's design thinking elevated our brand. The design system
+            they created is still being used today.
+          </p>
+        </article>
+
+        <article
+          class="shrink-0 w-[280px] sm:w-[360px] md:w-[420px] rounded-2xl border border-neutral-200 bg-neutral-50 p-5">
+          <div class="flex items-center gap-3">
+            <img src="https://images.unsplash.com/photo-1618077360395-f3068be8e001?auto=format&fit=crop&crop=faces&w=320&h=320&q=80" alt="Professional Portrait of Curly-Haired Businessman" class="size-9 object-cover rounded-full">
+            <div>
+              <div class="flex items-center gap-1">
+                <span class="text-sm font-medium text-neutral-900 font-geist">
+                        Michael Chen
+                      </span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                  stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"
+                  class="w-3.5 h-3.5 text-blue-500">
+                  <circle cx="12" cy="12" r="10" class=""></circle>
+                  <path d="m9 12 2 2 4-4" class=""></path>
+                </svg>
+              </div>
+              <p class="text-xs text-neutral-500 font-geist">
+                CEO, TechStart
+              </p>
+            </div>
+          </div>
+          <p class="mt-4 text-sm sm:text-base text-neutral-700 font-geist">
+            Jin transformed our product completely. The new design
+            increased user engagement by 300% within the first month.
+          </p>
+        </article>
+
+        <article
+          class="shrink-0 w-[280px] sm:w-[360px] md:w-[420px] rounded-2xl border border-neutral-200 bg-neutral-50 p-5">
+          <div class="flex items-center gap-3">
+            <img src="https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&crop=faces&w=320&h=320&q=80" alt="Freckled young woman close-up portrait" class="size-9 object-cover rounded-full">
+            <div>
+              <div class="flex items-center gap-1">
+                <span class="text-sm font-medium text-neutral-900 font-geist">
+                        Sarah Johnson
+                      </span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                  stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"
+                  class="w-3.5 h-3.5 text-blue-500">
+                  <circle cx="12" cy="12" r="10" class=""></circle>
+                  <path d="m9 12 2 2 4-4" class=""></path>
+                </svg>
+              </div>
+              <p class="text-xs text-neutral-500 font-geist">
+                Product Lead, DesignCo
+              </p>
+            </div>
+          </div>
+          <p class="mt-4 text-sm sm:text-base text-neutral-700 font-geist">
+            Incredible attention to detail and user needs. Jin's designs
+            are both beautiful and highly functional.
+          </p>
+        </article>
+      </div>
+    </div>
+
+    <div class="border-t border-neutral-200"></div>
+
+    <div class="relative py-6 sm:py-8">
+      <div class="flex gap-4 sm:gap-5 will-change-transform animate-[marquee-rtl_45s_linear_infinite]">
+        <article
+          class="shrink-0 w-[280px] sm:w-[360px] md:w-[420px] rounded-2xl border border-neutral-200 bg-neutral-50 p-5">
+          <div class="flex items-center gap-3">
+            <img src="https://images.unsplash.com/photo-1531123897727-8f129e1688ce?auto=format&fit=crop&crop=faces&w=320&h=320&q=80" alt="Professional Portrait of Smiling Young Woman" class="size-9 object-cover rounded-full">
+            <div>
+              <div class="flex items-center gap-1">
+                <span class="text-sm font-medium text-neutral-900 font-geist">
+                        Lisa Martinez
+                      </span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                  stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"
+                  class="w-3.5 h-3.5 text-blue-500">
+                  <circle cx="12" cy="12" r="10" class=""></circle>
+                  <path d="m9 12 2 2 4-4" class=""></path>
+                </svg>
+              </div>
+              <p class="text-xs text-neutral-500 font-geist">
+                VP Design, Innovate
+              </p>
+            </div>
+          </div>
+          <p class="mt-4 text-sm sm:text-base text-neutral-700 font-geist">
+            The design system Jin created streamlined our entire workflow.
+            Best investment we made this year.
+          </p>
+        </article>
+
+        <article
+          class="shrink-0 w-[280px] sm:w-[360px] md:w-[420px] rounded-2xl border border-neutral-200 bg-neutral-50 p-5">
+          <div class="flex items-center gap-3">
+            <img src="https://images.unsplash.com/photo-1556157382-97eda2d62296?auto=format&fit=crop&crop=faces&w=320&h=320&q=80" alt="Professional smiling man portrait in suit" class="size-9 object-cover rounded-full">
+            <div>
+              <div class="flex items-center gap-1">
+                <span class="text-sm font-medium text-neutral-900 font-geist">
+                        James Lee
+                      </span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                  stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"
+                  class="w-3.5 h-3.5 text-blue-500">
+                  <circle cx="12" cy="12" r="10" class=""></circle>
+                  <path d="m9 12 2 2 4-4" class=""></path>
+                </svg>
+              </div>
+              <p class="text-xs text-neutral-500 font-geist">
+                CTO, DataFlow
+              </p>
+            </div>
+          </div>
+          <p class="mt-4 text-sm sm:text-base text-neutral-700 font-geist">
+            Jin understands both design and development. The handoff was
+            perfect, saving us weeks of iterations.
+          </p>
+        </article>
+
+        <article
+          class="shrink-0 w-[280px] sm:w-[360px] md:w-[420px] rounded-2xl border border-neutral-200 bg-neutral-50 p-5">
+          <div class="flex items-center gap-3">
+            <img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&crop=faces&w=320&h=320&q=80" alt="Studio portrait of woman with striking blue eyes" class="size-9 object-cover rounded-full">
+            <div>
+              <div class="flex items-center gap-1">
+                <span class="text-sm font-medium text-neutral-900 font-geist">
+                        Rachel Kim
+                      </span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                  stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"
+                  class="w-3.5 h-3.5 text-blue-500">
+                  <circle cx="12" cy="12" r="10" class=""></circle>
+                  <path d="m9 12 2 2 4-4" class=""></path>
+                </svg>
+              </div>
+              <p class="text-xs text-neutral-500 font-geist">
+                Head of UX, CloudBase
+              </p>
+            </div>
+          </div>
+          <p class="mt-4 text-sm sm:text-base text-neutral-700 font-geist">
+            A true professional who delivers exceptional work every single
+            time. Highly recommended!
+          </p>
+        </article>
+
+        <article
+          class="shrink-0 w-[280px] sm:w-[360px] md:w-[420px] rounded-2xl border border-neutral-200 bg-neutral-50 p-5">
+          <div class="flex items-center gap-3">
+            <img src="https://images.unsplash.com/photo-1531384441138-2736e62e0919?auto=format&fit=crop&crop=faces&w=320&h=320&q=80" alt="Professional portrait of confident businessman" class="size-9 object-cover rounded-full">
+            <div>
+              <div class="flex items-center gap-1">
+                <span class="text-sm font-medium text-neutral-900 font-geist">
+                        Tom Anderson
+                      </span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                  stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"
+                  class="w-3.5 h-3.5 text-blue-500">
+                  <circle cx="12" cy="12" r="10" class=""></circle>
+                  <path d="m9 12 2 2 4-4" class=""></path>
+                </svg>
+              </div>
+              <p class="text-xs text-neutral-500 font-geist">
+                COO, StartupHub
+              </p>
+            </div>
+          </div>
+          <p class="mt-4 text-sm sm:text-base text-neutral-700 font-geist">
+            Jin's work speaks for itself. Our conversion rate doubled
+            after the redesign launch.
+          </p>
+        </article>
+
+        <article
+          class="shrink-0 w-[280px] sm:w-[360px] md:w-[420px] rounded-2xl border border-neutral-200 bg-neutral-50 p-5">
+          <div class="flex items-center gap-3">
+            <img src="https://images.unsplash.com/photo-1531123897727-8f129e1688ce?auto=format&fit=crop&crop=faces&w=320&h=320&q=80" alt="Professional Portrait of Smiling Young Woman" class="size-9 object-cover rounded-full">
+            <div>
+              <div class="flex items-center gap-1">
+                <span class="text-sm font-medium text-neutral-900 font-geist">
+                        Lisa Martinez
+                      </span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                  stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"
+                  class="w-3.5 h-3.5 text-blue-500">
+                  <circle cx="12" cy="12" r="10" class=""></circle>
+                  <path d="m9 12 2 2 4-4" class=""></path>
+                </svg>
+              </div>
+              <p class="text-xs text-neutral-500 font-geist">
+                VP Design, Innovate
+              </p>
+            </div>
+          </div>
+          <p class="mt-4 text-sm sm:text-base text-neutral-700 font-geist">
+            The design system Jin created streamlined our entire workflow.
+            Best investment we made this year.
+          </p>
+        </article>
+
+        <article
+          class="shrink-0 w-[280px] sm:w-[360px] md:w-[420px] rounded-2xl border border-neutral-200 bg-neutral-50 p-5">
+          <div class="flex items-center gap-3">
+            <img src="https://images.unsplash.com/photo-1556157382-97eda2d62296?auto=format&fit=crop&crop=faces&w=320&h=320&q=80" alt="Professional smiling man portrait in suit" class="size-9 object-cover rounded-full">
+            <div>
+              <div class="flex items-center gap-1">
+                <span class="text-sm font-medium text-neutral-900 font-geist">
+                        James Lee
+                      </span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                  stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"
+                  class="w-3.5 h-3.5 text-blue-500">
+                  <circle cx="12" cy="12" r="10" class=""></circle>
+                  <path d="m9 12 2 2 4-4" class=""></path>
+                </svg>
+              </div>
+              <p class="text-xs text-neutral-500 font-geist">
+                CTO, DataFlow
+              </p>
+            </div>
+          </div>
+          <p class="mt-4 text-sm sm:text-base text-neutral-700 font-geist">
+            Jin understands both design and development. The handoff was
+            perfect, saving us weeks of iterations.
+          </p>
+        </article>
+      </div>
+    </div>
+  </div>
+</section></div><script>try{var r=document.getElementById("component-root");if(r.children.length===1){var d=getComputedStyle(r.children[0]).display;if(d.indexOf("inline")===0)r.style.textAlign="center"}}catch(e){}</script></body></html>

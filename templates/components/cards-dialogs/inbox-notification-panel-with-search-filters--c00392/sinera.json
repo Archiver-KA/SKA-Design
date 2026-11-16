@@ -1,0 +1,45 @@
+{
+  "id": "SN-C00392",
+  "title": "Inbox Notification Panel with Search & Filters",
+  "summary": "Tailwind-styled inbox/notification card featuring header actions, search bar, category chips, highlight message, scrollable pinned and notification lists, and bottom action bar. Ideal for dashboards, email clients, or messaging apps.",
+  "tags": [
+    "panel",
+    "inbox",
+    "notifications",
+    "tailwind",
+    "card",
+    "search",
+    "filter",
+    "list",
+    "dashboard"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15274,
+      "sha256": "0e58da25c5b1b4b08b495b42b55ef0fe620e4f41c1e04ba1419fb9ebd5bde59f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 15542,
+      "sha256": "fe457d6c11852fe559e191c3a29a114bf4e26245fe80adbfa0d545ce8e4e0946"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16543,
+      "sha256": "888dedd6280c936813ef615fb5e7b597fbc3e243b167e5c8f82b5d20ac284618"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

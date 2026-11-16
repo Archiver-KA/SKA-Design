@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02050",
+  "title": "Minimalist Service Pricing Section",
+  "summary": "A clean, three-column pricing section featuring discovery, sprint, and partnership tiers. Includes feature lists with check icons, highlight badges, and clear call-to-action buttons. Styled with Tailwind CSS for a professional, neutral aesthetic.",
+  "tags": [
+    "pricing",
+    "section",
+    "tailwind",
+    "responsive",
+    "services",
+    "saas",
+    "minimalist"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13066,
+      "sha256": "b66ccb3ac6125c7dd1b1e0a71a14c3213d73270953f52b043eb84ed25fa4ef0e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5414,
+      "sha256": "8328b8659a4b2aca76c1e90ac292969da402c8b7117199519b5d98886fdb61f1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6359,
+      "sha256": "78081349ae168be3118d579feae77fcfedd74ec35080aba89bd15fea256b3c51"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

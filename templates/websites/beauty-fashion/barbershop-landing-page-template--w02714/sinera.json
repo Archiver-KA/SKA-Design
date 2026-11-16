@@ -1,0 +1,71 @@
+{
+  "id": "SN-W02714",
+  "title": "Barbershop Landing Page Template",
+  "summary": "A modern barbershop website template for showcasing services, stylists, pricing, and gallery with bold black-and-white styling and clear booking CTAs.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Black & White",
+    "Minimal",
+    "Large Type",
+    "Barbershop",
+    "Hair Salon",
+    "Grooming"
+  ],
+  "kind": "websites",
+  "category": "beauty-fashion",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3673,
+      "sha256": "185e957200c96173ed821a0c5e60be1b608cb874a47711b6fd9d3086d17aaa4f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 36674,
+      "sha256": "937b6d9b6b965a5985cf5299bc3417cfdb90efcb221b7ee644cf93b0748a61fb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 810,
+      "sha256": "0f1edbb16e4bcea507c1ddc3c334289b13eefe5dc1a00884ea63749c97b148ea"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41873,
+      "sha256": "faa968dc17710b33d8c6c8a9e582e2cd34328ffb4a1b00eae0ce0396fe72acec"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "beauty",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Beauty / Fashion",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "menu-list",
+    "hero",
+    "marquee",
+    "services",
+    "product-grid",
+    "pricing",
+    "gallery-portfolio",
+    "team",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

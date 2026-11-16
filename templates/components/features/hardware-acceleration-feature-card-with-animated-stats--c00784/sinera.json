@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00784",
+  "title": "Hardware Acceleration Feature Card with Animated Stats",
+  "summary": "Stylized Tailwind CSS card highlighting hardware acceleration. Includes animated GPU window, usage bars, metric badges, gradients and hover effects. Ideal for landing pages or product sections emphasizing performance benefits.",
+  "tags": [
+    "card",
+    "feature",
+    "tailwind",
+    "animated",
+    "stats",
+    "gradient",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10162,
+      "sha256": "47c6857c51b9fe7d5e6747be73bec58551b55a2ad620d3521fbe7c626eb32a80"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6959,
+      "sha256": "8147d8a51c1fb9421436055faa3e9d6f6507795757e5c7cc2b143e40f70aecbd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7964,
+      "sha256": "805d9722285018b5c14a745382ea07a5cead8f8b195f1368ed71defbc7862ce1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

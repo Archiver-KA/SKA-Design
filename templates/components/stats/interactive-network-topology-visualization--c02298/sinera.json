@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02298",
+  "title": "Interactive Network Topology Visualization",
+  "summary": "A full-width animated dashboard section featuring live network topology stats and a Three.js WebGL globe visualization. Uses Tailwind-style utility classes, hover effects, count-up metrics, and responsive motion for data, infrastructure, or SaaS interfaces.",
+  "tags": [
+    "ui",
+    "threejs",
+    "animated",
+    "interactive",
+    "responsive",
+    "dashboard",
+    "webgl",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14934,
+      "sha256": "9622a09f911001b6224be936e2ea1c7dd54573b5243435c7c11baaf8a3425ca9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11694,
+      "sha256": "25a8e45137d8d7d40b576722ba4c439b74cfa47e96b2bd2cc9498f2e9d12d5b8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12557,
+      "sha256": "0b9a0974466272de6f105a257b81c8678d21cf757f61081349d368645a26c024"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

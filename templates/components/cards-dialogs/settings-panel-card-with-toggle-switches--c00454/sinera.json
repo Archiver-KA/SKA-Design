@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00454",
+  "title": "Settings Panel Card with Toggle Switches",
+  "summary": "Card-style settings panel featuring multiple preference rows with animated toggle controls, header and footer actions. Built with Tailwind CSS utilities, ideal for in-app preference or account customization dialogs.",
+  "tags": [
+    "settings",
+    "panel",
+    "card",
+    "tailwind",
+    "interactive",
+    "responsive",
+    "preferences"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9006,
+      "sha256": "bbe86e2e674ce620a8b5b3e981222cb3326cfd43594aacd0672e26d5456daa99"
+    },
+    {
+      "path": "component.html",
+      "bytes": 25220,
+      "sha256": "5b5b127d7f0301adfbae8a510b21645aa651afb9fa2808b33d29cf03249bc992"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26211,
+      "sha256": "0dab5ea3b093f09e87043c894dd59b45c00f265213b247b97f455557534ab771"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

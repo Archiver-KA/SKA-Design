@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02392",
+  "title": "Health Consultation Landing Page Template",
+  "summary": "A reusable health and wellness landing page template for chiropractors, functional medicine clinics, and nutrition practices to drive consultation bookings.",
+  "tags": [
+    "Health",
+    "Landing Page",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Testimonials",
+    "Medical",
+    "Wellness",
+    "Consultation"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3574,
+      "sha256": "91c15a09a0db9e7cb4fc14da60480f287ce9f5ea584d6c33e04b4e56373eae25"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15118,
+      "sha256": "2bb0eba898cc8cecebda05fb98c8cb29263fdaaa3cf60585612e53783b198d11"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "70f998bb68c98f060d14afdd5b70fbaff5b509a6e950d7c5f2cb297f0af897ab"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14629,
+      "sha256": "8a69163bb2212e9544209de734125efd704599e145097f7b43d52a602d9e29f1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "video-media",
+    "team",
+    "how-it-works",
+    "stats",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02236",
+  "title": "Animated Score Counter with Color Morphing",
+  "summary": "Large animated score display that counts up with smooth easing and dynamically changes colors based on score ranges. Includes status label with fade-in effect.",
+  "tags": [
+    "card",
+    "counter",
+    "animated",
+    "score",
+    "dashboard",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2242,
+      "sha256": "84742a90a2510290ec9139be35d551742b97fe1668bf0e9dae3d2bd65e2e48b0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3987,
+      "sha256": "556ac5a4f9fb881d44058f53df511b095012d456215baf7ab2ac698e15bd6fa4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4850,
+      "sha256": "d99dd0520ffa920c9ba26105bbc7bb073f38615aacb8d848e4a2ce1ec85f25a6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

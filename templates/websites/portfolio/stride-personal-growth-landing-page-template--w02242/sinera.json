@@ -1,0 +1,77 @@
+{
+  "id": "SN-W02242",
+  "title": "STRIDE Personal Growth Landing Page Template",
+  "summary": "A high-performance personal brand and coaching template featuring a futuristic dark bento-grid design for health, lifestyle, and productivity systems.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Dark",
+    "Futuristic",
+    "Clean",
+    "Portfolio",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3943,
+      "sha256": "6e59f03ad30d2963db2ee4e9d93c05d10ac342ea4f4594c2ce91de187d23e489"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12214,
+      "sha256": "95c6743ed5577593f3692305f2a5803f6abbbff09cebb7aa65a08c38f9c354e3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1066,
+      "sha256": "9816ee09cacb210bd937212d8a2266d00624bafb5adcfe42fe064e6019b58108"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 628,
+      "sha256": "d2a76e6b3695c2400ea29ec4e2de516fbebf748d74c0fe60b47d593a5a1d701d"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 630,
+      "sha256": "f5d9bd9de91652ac372f1c636d489df2531ecb65dc447f6c2747cdd775644b10"
+    },
+    {
+      "path": "index.html",
+      "bytes": 53914,
+      "sha256": "4d9b5dfd46b58d27ee02967462bfa2df9ada439bf694931e5936de40b8c210c0"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "bento-grid",
+    "about",
+    "logo-cloud",
+    "testimonials",
+    "how-it-works",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

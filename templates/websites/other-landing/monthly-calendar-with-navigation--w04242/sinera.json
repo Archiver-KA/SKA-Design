@@ -1,0 +1,69 @@
+{
+  "id": "SN-W04242",
+  "title": "Monthly Calendar with Navigation",
+  "summary": "Responsive monthly calendar UI with day selection, month/year navigation, and a date picker dropdown.",
+  "tags": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Calendar",
+    "UI",
+    "Date Picker",
+    "Responsive Design"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2333,
+      "sha256": "b4ea98f956f09cf560469830111955677114f447eeabe2f9934630c82a01054e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4726,
+      "sha256": "4e2db927f89b0c3e1e6f2544d3dec85c3d0b4fa268c4f98fef0498bb16509dcb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1135,
+      "sha256": "e72f71e2659985c47da4ecafc95e3562486eaf90b73e5dd63970b4c2b986ea2f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 253,
+      "sha256": "7af022cc3245906c2211fc984709474f3889b7148d225a9f275262d8337656f6"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 252,
+      "sha256": "69a60a1d925034beb825b1b34b59b01fc42c8502bae3898c87735cdb87dc0a91"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16981,
+      "sha256": "8dfb217bdd8d94a500f3648e6f8c64cb42f7a2a92ecf44099795a06adb23ee0a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "schedule-agenda"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "navbar",
+  "design": "DESIGN.md"
+}

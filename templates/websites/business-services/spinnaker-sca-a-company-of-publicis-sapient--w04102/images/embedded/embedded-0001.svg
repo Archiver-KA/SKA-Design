@@ -1,0 +1,28 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none animate-pulse" viewBox="0 0 1400 700" preserveAspectRatio="xMidYMid meet">
+          <!-- Left lines -->
+          <path d="M 200,180 L 500,330" class="conn-line"></path>
+          <path d="M 200,340 L 500,360" class="conn-line"></path>
+          <path d="M 200,500 L 500,400" class="conn-line"></path>
+          <!-- Right lines -->
+          <path d="M 1200,180 L 900,330" class="conn-line"></path>
+
+          <path d="M 1200,500 L 900,400" class="conn-line"></path>
+
+          <!-- Animated particles on lines -->
+          <circle r="3" fill="#22d3ee" filter="drop-shadow(0 0 4px #22d3ee)">
+            <animateMotion dur="3s" repeatCount="indefinite" path="M 200,180 L 500,330"></animateMotion>
+          </circle>
+          <circle r="3" fill="#22d3ee" filter="drop-shadow(0 0 4px #22d3ee)">
+            <animateMotion dur="3s" repeatCount="indefinite" begin="0.5s" path="M 200,340 L 500,360"></animateMotion>
+          </circle>
+          <circle r="3" fill="#22d3ee" filter="drop-shadow(0 0 4px #22d3ee)">
+            <animateMotion dur="3s" repeatCount="indefinite" begin="1s" path="M 200,500 L 500,400"></animateMotion>
+          </circle>
+          <circle r="3" fill="#22d3ee" filter="drop-shadow(0 0 4px #22d3ee)">
+            <animateMotion dur="3s" repeatCount="indefinite" begin="0.3s" path="M 1200,180 L 900,330"></animateMotion>
+          </circle>
+
+          <circle r="3" fill="#22d3ee" filter="drop-shadow(0 0 4px #22d3ee)">
+            <animateMotion dur="3s" repeatCount="indefinite" begin="1.3s" path="M 1200,500 L 900,400"></animateMotion>
+          </circle>
+        </svg>

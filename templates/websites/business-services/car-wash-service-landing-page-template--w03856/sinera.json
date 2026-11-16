@@ -1,0 +1,66 @@
+{
+  "id": "SN-W03856",
+  "title": "Car Wash Service Landing Page Template",
+  "summary": "A modern Vietnamese car wash & detailing landing page template for promoting services, pricing, and online booking for local auto care shops.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Car wash",
+    "Auto detailing"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3718,
+      "sha256": "c2b5d789960ccfa7fc2768c35cb1a537c574df5616820bfbfc959944aac10786"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16132,
+      "sha256": "bd1c5cb8739ecff7510dec49ac734a7632aefb93433e150179eed217cbcfcf63"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "ada47328214acb5de489b6208fcc31077429e156ca6e18af48025821e341a3bb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28159,
+      "sha256": "4cbb886bc6bee404d6166d6c00df04547f0254ca66121d6634ca792c6d608f57"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "schedule-agenda",
+    "navbar",
+    "hero",
+    "features",
+    "pricing",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

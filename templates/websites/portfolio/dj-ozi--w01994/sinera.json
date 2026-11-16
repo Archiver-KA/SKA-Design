@@ -1,0 +1,153 @@
+{
+  "id": "SN-W01994",
+  "title": "DJ.Ozi",
+  "summary": "A modern landing page template for wedding DJs and event hosts to showcase services, gallery highlights, and capture client inquiries.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Wedding",
+    "Portfolio",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Animated",
+    "Entertainment"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3701,
+      "sha256": "624c7249ead0a66c7f9f3a47db9b2fb4288004a1e4ab4a685a4a2995d34beca1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 29298,
+      "sha256": "710210ae3adcb008319d8c47a9f94e89b378bcf3ddc0b28c35f8a72679d00774"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 3954,
+      "sha256": "3bd0c9f37e4fbb840b63a024c81de16b652ad7d945a2186d35b98566edf36819"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 337,
+      "sha256": "3c489ffc4237356ab7ad21e1550530d17f5872796d2644e06822107e361ffff8"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 330,
+      "sha256": "2faaf8a28ee1751d333525fe9d1ac13521ac5f6e34ac8d437926926c3e51d230"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 606,
+      "sha256": "54e286c331c237a39c0c12e511e600aac6a774913b4dad339251c1412dd7b95c"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 413,
+      "sha256": "be4bcefdc0b1c6e446f46b119f92280a0baecf8353c0c053cb343c7118810fb1"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 383,
+      "sha256": "413f24e2c67b38d23151a98ea31e9f082baa16d14f01f5e0017fb12f8857e0a2"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 485,
+      "sha256": "87e36c06b0cd8f3afbe2d9e9fb1f79b74421ea340e8b10a58c3ecbe0935b703c"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 503,
+      "sha256": "a89e3f48f5e7426f6da918d4a430c05505b4be33cf4afb38833195492fa2cae0"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 518,
+      "sha256": "c3d2c165e833b64a6fae91463746bab364fed8f17fecb80eb81c6671cce7e732"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 740,
+      "sha256": "b8214ffffa8f7f8ac4add2e415eef60ed111e29fbd0612e9a9df91162d2a2728"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 427,
+      "sha256": "0bf9d64835667f32646c0a48938bbc1d1f448bad4c9ffce9d2cc69cd1c13ee96"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 554,
+      "sha256": "c581089c0cf84edf1ae6f7cc23bd6dd8794154f7f1f75b832b1a664abab24a95"
+    },
+    {
+      "path": "images/embedded/embedded-0013.svg",
+      "bytes": 409,
+      "sha256": "f5573df754fb01337faf617e993ee3f9e33465624ccfc67099e98e3bcdc3d95a"
+    },
+    {
+      "path": "images/embedded/embedded-0014.svg",
+      "bytes": 440,
+      "sha256": "85562e5be023def14ffae8d66abaab15a05984abdfdc190907043d2f2611bfcf"
+    },
+    {
+      "path": "images/embedded/embedded-0015.svg",
+      "bytes": 383,
+      "sha256": "189de43ea4b4f31fcca5694ce6e1faf475364129c6a9547641193751bbb5a778"
+    },
+    {
+      "path": "images/embedded/embedded-0016.svg",
+      "bytes": 150,
+      "sha256": "d55bb55288c1d1b3585ad94e01ca194d1741871e7bf5f3a1321c0c65760a553e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 47735,
+      "sha256": "197d84ec94f00828d95b8844d2275f360572387d6868eb72550cad199cb2c43b"
+    },
+    {
+      "path": "sinera-fx-filter.js",
+      "bytes": 20821,
+      "sha256": "6b5f074b7d846e3a404deda089c33986eb540d0c5cd8c1c0730e314b4c68c287"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "about",
+    "gallery-portfolio",
+    "services",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "SN-W03645",
+  "title": "Romantic Event Landing Page Template",
+  "summary": "A refined landing page template for romantic dating events like Terraza Cuchara, designed to showcase the experience, explain the process, and drive sign‑ups.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Event",
+    "Minimal",
+    "Clean",
+    "Large Type",
+    "Gradient",
+    "Services",
+    "Entertainment",
+    "Romantic"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3547,
+      "sha256": "a92f73b252c247af275de0a466ee7e617df8b0a4819f7f07805a6cfba49e71d9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9676,
+      "sha256": "96dc314d1266403f09a9dfebafcf6dba2cdc4d15ef8ab96d5bcd97ce8425ed8a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 945,
+      "sha256": "3dfdf29754cec20996ae39b5aed0da2f400f35a3db09167aba888214364de434"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39254,
+      "sha256": "5fb20527bed94c8f14b4813e915956b5add70e493143cf0ae47ebc325f9118e4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "features",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01959",
+  "title": "Developer Portfolio Landing Page Template",
+  "summary": "This reusable template showcases a developer portfolio focused on interactive web experiences using React and TypeScript, ideal for frontend technologists.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "React",
+    "TypeScript",
+    "Motion Design",
+    "Performance",
+    "Accessibility",
+    "Developer",
+    "Interactive UI",
+    "Contact"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3806,
+      "sha256": "8cad97c695413e10c28c4a819e629579296dcf25827010dccc2a01cb407151f7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 26970,
+      "sha256": "c7cce02dfd97c3caf8bafb906c9c865166e296861e6880d43b007bb5c16916e1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "dc5657f98f97ebd9edc3b985b9aa5699bce98be7f9e64beef53231b90d216160"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32620,
+      "sha256": "f5f3914f6fbc1cc77db9cd81fa75d3a9f59b982493d7e18cd840fc6ed3b2dce1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "code-terminal",
+    "case-studies",
+    "about",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

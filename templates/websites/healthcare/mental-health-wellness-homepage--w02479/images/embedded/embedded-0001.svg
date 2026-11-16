@@ -1,0 +1,8 @@
+<svg width="100%" height="100%" class="w-full h-full animate-grid-pulse" style="display:block">
+        <defs>
+          <pattern id="webgrid" width="50" height="50" patternUnits="userSpaceOnUse">
+            <path d="M 50 0 L 0 0 0 50" fill="none" stroke="rgba(200,180,160,0.12)" stroke-width="1"/>
+          </pattern>
+        </defs>
+        <rect width="100%" height="100%" fill="url(#webgrid)" />
+      </svg>

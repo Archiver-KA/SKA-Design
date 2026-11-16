@@ -1,0 +1,113 @@
+{
+  "id": "SN-W02105",
+  "title": "Marcel Creative Portfolio Template",
+  "summary": "A high-end brutalist developer portfolio template designed for creatives and engineers to showcase work with sophisticated animations.",
+  "tags": [
+    "Portfolio",
+    "Technology",
+    "Minimal",
+    "Dark",
+    "Clean",
+    "Graphic Design",
+    "Art & Design",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "react",
+  "entry": "package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2970,
+      "sha256": "149fb61c65fde463547f1f5534d232bb48627ea6b63174b05dd555d1947f5aa9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12838,
+      "sha256": "4cda2cc39bb3385711a8fe897cd5e6b1109693b1b33b179fbd2100b164955073"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "0996595ebd3adce965771eaf7d6a7c71dd8c2630fbea9b58f913e313828e7d1e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 433,
+      "sha256": "e2d0df1829b7a62c01df7af483796e829a8ef051ebfaf0fd3a5dd03f8d33fc94"
+    },
+    {
+      "path": "package.json",
+      "bytes": 463,
+      "sha256": "e33cfe8ae03da76a3f7906d7ed064476d447f08daf593f125504e6559793afa7"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 520,
+      "sha256": "98963f4a410b8fec961401bfb387f3a59ae924fdf848d51bc31286e19d4fe716"
+    },
+    {
+      "path": "src/components/About.jsx",
+      "bytes": 2234,
+      "sha256": "35adceb1b7e2541f4e6a29dfd5a207ec73e6e989a6036b11c1338107b995f8cb"
+    },
+    {
+      "path": "src/components/Contact.jsx",
+      "bytes": 2608,
+      "sha256": "e2b44493721c7a4ff3a098b08b0b24c584467df38815c230de09569fad039509"
+    },
+    {
+      "path": "src/components/Hero.jsx",
+      "bytes": 2219,
+      "sha256": "59aa7f45dcacd5c1a8c50fb13656e1fc005920901c66aac06de9f9b116087ecb"
+    },
+    {
+      "path": "src/components/Nav.jsx",
+      "bytes": 1041,
+      "sha256": "56b95920daad97c71681253e18aeedbbf599bdda1cdad952a8083a78438e4a31"
+    },
+    {
+      "path": "src/components/Reveal.jsx",
+      "bytes": 1052,
+      "sha256": "a459138fb1cd505fdfacaf52284925cfaa765dcc352695241f8ef2462f97d740"
+    },
+    {
+      "path": "src/components/Works.jsx",
+      "bytes": 3314,
+      "sha256": "0e245fe6c6631e75f9efef4ac0cb304e5c8f33789488816b44e22370867e75bb"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 913,
+      "sha256": "6056d167bbb5957692afe5fe3ef198dd4d69602c820c7a8b7573adb6e3c5e75c"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 250,
+      "sha256": "d7adde8f0b79103efa22c14ea4b842ea6f157ec33cba362f3e8a0933f6bd7407"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 132,
+      "sha256": "7679dd2d1d73606860bf36d711ad385a18cda4412d6e105062570af4454d6b58"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "SN-W04148",
+  "title": "3D Interactive Piano Explorer",
+  "summary": "Renders a 3D piano with interactive keys playable via mouse; includes WASD movement and mouse look controls in a WebGL scene.",
+  "tags": [
+    "3D Piano",
+    "WebGL",
+    "Three.js",
+    "Interactive",
+    "Audio",
+    "Movement Controls",
+    "Mouse Look"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2254,
+      "sha256": "ed01e9f5bbd712c5b06a29881ca85624ceca10c8f681d64bb45b7c988511992c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3504,
+      "sha256": "458b7bcd4215e56482068726f7b8cd7a67ed7f6991b0173dd627333332d2a65f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 722,
+      "sha256": "aceded1075cb4e8afd9bb7e7d670ce35cf4dd37ef1cc2a2e910e2bd6e9ae1b0b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9081,
+      "sha256": "953f9eb6d4d4843736b7917a41df13358c26a288e0e3d195b97b504e4167daeb"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

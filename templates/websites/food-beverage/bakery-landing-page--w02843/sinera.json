@@ -1,0 +1,73 @@
+{
+  "id": "SN-W02843",
+  "title": "Bakery Landing Page ",
+  "summary": "A stylish bakery website template for showcasing cakes, menus, custom orders, testimonials, and WhatsApp-based ordering for boutique bake shops.",
+  "tags": [
+    "Food",
+    "Landing Page",
+    "E-commerce",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Elegant",
+    "Bakery",
+    "WhatsApp Ordering"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4025,
+      "sha256": "807887998624f076905a7d4463826e3618385321207c1aa2312634687f2202eb"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 28148,
+      "sha256": "d2130e86a5fa5ab4a958dad66215bf4511a09ef0dbe1d370ce4eef586cde18c8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 862,
+      "sha256": "ffbf42b1bc769aa4024a896d3b9989c898ae1dfbb91bf4f29beab0edcb9d3994"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1151,
+      "sha256": "bfba9cb21d8cfc7031fda57babf5a6e080eb9eb7b6c4596dc0d5a14fdc89c921"
+    },
+    {
+      "path": "index.html",
+      "bytes": 45038,
+      "sha256": "ea3f13d625f5286d538e0c91679ca52099a47a0362b1a66b9c0722d6051f8de9"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "menu-list",
+    "auth-form",
+    "about",
+    "gallery-portfolio",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

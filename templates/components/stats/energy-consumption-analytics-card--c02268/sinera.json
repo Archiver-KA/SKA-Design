@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02268",
+  "title": "Energy Consumption Analytics Card",
+  "summary": "Analytics card displaying energy consumption data with metrics breakdown and mini chart visualization.",
+  "tags": [
+    "analytics",
+    "card",
+    "chart",
+    "metrics",
+    "energy",
+    "dashboard"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10456,
+      "sha256": "a6a333932736210b0c9317044d61d105ee86974ed97a9a3cb8ce5ace84cba880"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3118,
+      "sha256": "be6f63a6585435be00af845d63c2e475f5232266bf957b25549e58372fd1a04c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3972,
+      "sha256": "ca249c2117e54c75b803d0ac3f125b902f61e9dc21a468040c4294d87072dead"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

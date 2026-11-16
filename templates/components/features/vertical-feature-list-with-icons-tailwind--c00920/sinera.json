@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00920",
+  "title": "Vertical Feature List with Icons (Tailwind)",
+  "summary": "Stacked list showcasing product features with circular icon badges, headings, and descriptive text. Built entirely with Tailwind utility classes, it’s responsive and ready for landing pages, benefit sections, or service highlights.",
+  "tags": [
+    "list",
+    "feature list",
+    "icons",
+    "tailwind",
+    "responsive",
+    "landing page",
+    "ui component"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14142,
+      "sha256": "c3001b6a5b12db327d15f73b44f88bad492a346f57f816450dd926c046161561"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2390,
+      "sha256": "a90852d59fc57ba7b67c63881c4d10398ae3aafe4f3dc4b80b71de796104b352"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3254,
+      "sha256": "db05ffbf459d747e61b149d086cda23b7c77378339cd50a1a0c3875e958f1854"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

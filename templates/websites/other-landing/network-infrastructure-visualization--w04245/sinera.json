@@ -1,0 +1,68 @@
+{
+  "id": "SN-W04245",
+  "title": "Network Infrastructure Visualization",
+  "summary": "Interactive network visualization with performance metrics and status controls in a responsive two-column layout.",
+  "tags": [
+    "Network Visualization",
+    "Vanta.js",
+    "Tailwind CSS",
+    "Performance Metrics",
+    "Interactive UI",
+    "Responsive Design"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3132,
+      "sha256": "6afd67603f268e2d67c32aed0d0b19921b3f3cd71923cac4ac384d1346fa8bd2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8326,
+      "sha256": "33a5899568feb9333ef224c4db2099a72541cca78128702acb235bca3ef0de2b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1068,
+      "sha256": "40a120c42aaa54bbcd5a57a2165bb586c2fbd27907b73744d0434be22d4ccbe9"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 382,
+      "sha256": "4ac79d81a5ec8975e33c42b7461edb7d090932ad79576d0661aa429d9e61ae1e"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 316,
+      "sha256": "ffdb03e7811543f7ccf5dda7d3f16bb91b99a46955b6e10fcc72ec2331bfa803"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5509,
+      "sha256": "bb67e03eede7c01ca7e7fb30b28395d0dd15a1d1623bb8e7eedaa23ef902d563"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "map-location"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

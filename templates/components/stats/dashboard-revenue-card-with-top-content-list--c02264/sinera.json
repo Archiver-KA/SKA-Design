@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02264",
+  "title": "Dashboard Revenue Card with Top Content List",
+  "summary": "Tailwind-styled analytics card showing estimated revenue and top-performing content. Includes timeframe header, action button, item thumbnails, earnings, and progress bars—ideal for SaaS or creator dashboards.",
+  "tags": [
+    "card",
+    "dashboard",
+    "analytics",
+    "list",
+    "progress-bar",
+    "tailwind",
+    "revenue"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11534,
+      "sha256": "b9159f8d1de04234b7269c834cb94d5aff9d20f209b2750d9fd58562e54f840a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4619,
+      "sha256": "a694163f29e15c84932b92a2b65479433a64b5b8029ee2eb541336edf3340cbb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5484,
+      "sha256": "5f369255c4bda8cb98e41d46020909612b45de809b4d08d75489c85882b22c59"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

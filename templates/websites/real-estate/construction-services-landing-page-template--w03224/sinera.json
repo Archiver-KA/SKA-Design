@@ -1,0 +1,75 @@
+{
+  "id": "SN-W03224",
+  "title": "Construction Services Landing Page Template",
+  "summary": "A reusable landing page template for construction, renovation, and interior finishing businesses to showcase services, projects, testimonials, and generate quote requests.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Large Type",
+    "Grid",
+    "construction",
+    "renovation"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3695,
+      "sha256": "48df37e8d0e26815a05f94920f564fcca8046f2e94eabca6aab91f4b9c50e4f5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15916,
+      "sha256": "7e7f680813b4ba685a85c88840e88c29bc68909e9acc5e97d817d786a099e116"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 873,
+      "sha256": "2d4815e37d51dc714e4ee4014d41b9e8e4d36e57e07904f709f3aac1c9c3e316"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 70149,
+      "sha256": "ff9eb204740cd86ec84b13df842406ebf73a496a17fbc725f33c7b67e8b5a6ac"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "stats",
+    "features",
+    "gallery-portfolio",
+    "map-location",
+    "faq",
+    "cta",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "SN-W01766",
+  "title": "AETHER Animation Library Landing Page Template",
+  "summary": "AETHER is a reusable landing page template showcasing advanced motion, parallax, and interaction patterns for modern digital and creative portfolios.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Art & Design",
+    "Portfolio",
+    "Dark",
+    "Futuristic",
+    "Animated",
+    "Gradient",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3367,
+      "sha256": "560e4d061ca569dc4c8099a414fa5866173d18936d9883b5e5c09abfb7993afc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1586,
+      "sha256": "47f60944a0a7680a4699e2705242d5310a5cc7e5cba36a394e0f8fd7bdbcfe0e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1266,
+      "sha256": "d8412bd918c9adcb25c171813ab43ed749e97072e3644b94ed8695f17edd65bd"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "845a8c33647082b21c3db87d511ee26caa07aa7a2c9bf6b015aad47a996ab97f"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 328,
+      "sha256": "1deeddc0c15c0ba7862d70136fe8602eb9a8e1e64239b41e774f2fd58b0eb4e9"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 767,
+      "sha256": "3af0018f496fb4e4d53de83d2a2197c268b6b239c59551a503d02b36d89345ff"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40106,
+      "sha256": "5d8944295318534707fddd7b566eacb9aa85edc1109851c448974dc7b9c7da9a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "bento-grid",
+    "how-it-works",
+    "dashboard-preview",
+    "case-studies",
+    "marquee",
+    "video-media",
+    "features",
+    "3d-canvas",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "SN-W03034",
+  "title": "Camping Resort Landing Page Template",
+  "summary": "A modern Scandinavian-style camping resort landing page template for promoting campgrounds, glamping, and nature stays with booking and contact flows.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Camping",
+    "Nature"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3624,
+      "sha256": "88fcd8e4a7292d7f9eb1243d39b45b7e7cca0699fea677bc2f92103aee05258f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9800,
+      "sha256": "03f13beedefa4375f55ad76d0cbdc069f08c506d7492d32712405f5194be0324"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1014,
+      "sha256": "da1acb2c9a85d97da824296e181e8177d2a00c7f586535d7bbf89bb20baca52e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 841,
+      "sha256": "3ed1cacd420016af97d5f3462532f66ef74ab41000b2783841a51975aa4e301e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 53208,
+      "sha256": "3893646d9f1f20036670ab2442228b73e5d4df80ac29f4f2d3d06a0b69049fa9"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "pricing",
+    "contact-form",
+    "map-location",
+    "footer",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

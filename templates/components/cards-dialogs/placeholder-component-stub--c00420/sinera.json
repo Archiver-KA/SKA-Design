@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00420",
+  "title": "Placeholder Component Stub",
+  "summary": "Minimal placeholder component containing only a single character. Likely serves as a stub or incomplete markup to be replaced with actual UI structure or logic during development.",
+  "tags": [
+    "card",
+    "placeholder",
+    "minimal",
+    "stub",
+    "markup",
+    "incomplete"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1262,
+      "sha256": "9ebdf4a5ce6533e6292942484cdcbafc042c97d55719b8da487c335cf4a75e62"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1,
+      "sha256": "cd0aa9856147b6c5b4ff2b7dfee5da20aa38253099ef1b4a64aced233c9afe29"
+    },
+    {
+      "path": "index.html",
+      "bytes": 848,
+      "sha256": "a4483d8928782458f1d59435ac02b1497989e6a6dca3b4c865c81df32325536e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

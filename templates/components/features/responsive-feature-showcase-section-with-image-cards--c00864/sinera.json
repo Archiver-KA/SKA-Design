@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00864",
+  "title": "Responsive Feature Showcase Section with Image Cards",
+  "summary": "Animated hero section built with Tailwind CSS featuring a grid of hover-scale image cards, badges, gradient overlays, and a CTA beside a bullet timeline. Ideal for SaaS landing pages to highlight inbox or product features with scroll-triggered fade/slide animations.",
+  "tags": [
+    "section",
+    "feature",
+    "cards",
+    "gallery",
+    "animated",
+    "responsive",
+    "tailwind",
+    "landing page"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 39118,
+      "sha256": "bf7a3cb988952a0b07d736e5b3fede59ee1e57424da08498d43141c6b18aa9d7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11400,
+      "sha256": "17d121f66507afe75100e101d67c09e7820223a4965644bfbb5efcce8c83887e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12273,
+      "sha256": "14dd795264f6cc29edc5ad0ae61e26208267fa24bf5d74a485df20d27bf5a6f4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

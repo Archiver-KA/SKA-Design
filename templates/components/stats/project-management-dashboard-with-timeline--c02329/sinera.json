@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02329",
+  "title": "Project Management Dashboard with Timeline",
+  "summary": "Responsive dashboard featuring window-frame header, sidebar navigation, work timeline grid, project cards, progress chart, recent activity feed and KPI stats. Built with Tailwind CSS and Lucide icons for SaaS admin or productivity apps.",
+  "tags": [
+    "dashboard",
+    "timeline",
+    "project management",
+    "tailwind",
+    "cards",
+    "stats",
+    "responsive",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 41252,
+      "sha256": "bbb0cd361f7f829429ee9967b888810e83d70fe9ff1a74a53166834cc5b4a81f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 60347,
+      "sha256": "15dce5115c73abfe7ad97fe33bddb09e6dbcd43a3a4c14aee1d910bed7451e61"
+    },
+    {
+      "path": "index.html",
+      "bytes": 61340,
+      "sha256": "3b87479d2f3d81bb5fea1f807308b6008b4769a10f3e764e22d9dbf5c717aa0a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

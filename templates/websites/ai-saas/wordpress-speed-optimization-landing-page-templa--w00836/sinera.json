@@ -1,0 +1,71 @@
+{
+  "id": "SN-W00836",
+  "title": "WordPress Speed Optimization Landing Page Template",
+  "summary": "Conversion-focused landing page template for WordPress speed optimization services, ideal for promoting audits, case studies, and a technical performance process.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "WordPress",
+    "Speed Optimization",
+    "Performance"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3562,
+      "sha256": "821918b6d250018579247486a731b13e3deaa0c54802000a4347bec68478cfdd"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20792,
+      "sha256": "75a0cc7b8ed55aa0f90c9957c06f422b95c05a326a57780544164a704eb033d4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 827,
+      "sha256": "db7f3a4d5fcd9a0aa9f398cc350bbfe3ad7720ad4d46aa4d772efc0a116bbf87"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32290,
+      "sha256": "fcc6cd28b354329f17f6bc39e6d80dc8bf8919ed87b22c588227c2d3c633925c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "how-it-works",
+    "contact-form",
+    "stats",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

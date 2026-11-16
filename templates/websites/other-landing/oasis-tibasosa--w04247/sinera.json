@@ -1,0 +1,89 @@
+{
+  "id": "SN-W04247",
+  "title": "Oasis Tibasosa",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "react",
+  "entry": "package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3142,
+      "sha256": "a82c5d6c6e4c0aed6734a06be7ba2dcd20354c0dff6a77ad2eac20ad0dae80ec"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2166,
+      "sha256": "cd0ce739abc482f6c87a64c1e64e1e0118dbadf0cf6aebe7133a4c4d9836432d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 851,
+      "sha256": "c978f81cf5ed67c974b8982a057ca8df38edbd1d84d675c1fd622fd125798548"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 267,
+      "sha256": "6c905d59716ce63cc5ffaa859075358d8c61a0c35b9942d725f59dce957051c5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 614,
+      "sha256": "1f2d32c05647fdb2c035205e5437d1e36f9fce819d359fe9cca10efdf797b831"
+    },
+    {
+      "path": "package.json",
+      "bytes": 552,
+      "sha256": "a62c76a6c27aea15da15994d263405d2702a26c927a2a49095e2b5b7947a16ca"
+    },
+    {
+      "path": "postcss.config.js",
+      "bytes": 81,
+      "sha256": "e32657baf631d7c5f4dc67b4b2ee0ec8e7d5b3c41860e09cddce7c0377cd80bc"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 20961,
+      "sha256": "82bb3aa20b0e8b6838caff965be53424893afc02260407668e6242aa461bcd88"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 3870,
+      "sha256": "5e2a7780ee4fb1562ac30673a465ed9bdccd10912c51381e4c1a2be10cf4bae7"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 256,
+      "sha256": "15e60f21ff6a7cedd9dc6aa2364ae2891f1b34cd865b9b94485f05480c5f8c1a"
+    },
+    {
+      "path": "tailwind.config.js",
+      "bytes": 170,
+      "sha256": "1b680285edb90900758fbe8cef6fd1cb134d369a5b7023d9217cb7faa7282858"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 132,
+      "sha256": "7679dd2d1d73606860bf36d711ad385a18cda4412d6e105062570af4454d6b58"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

@@ -1,0 +1,173 @@
+<!doctype html><html lang="ru" data-theme="workshop"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Верстальщик: сайты пиксель в пиксель</title><meta name="description" content="Портфолио веб-разработчика: вёрстка из Figma в чистый код, пиксель в пиксель, адаптивно и доступно.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Onest:wght@500;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>tailwind.config={theme:{extend:{colors:{ground:'#121212',surface:'#1C1C1C',ink:'#F2F0EB',muted:'#A8A49D',line:'#2A2A2A',accent:'#C6F135',accent2:'#FF5C39'},fontFamily:{display:['Onest','system-ui','sans-serif'],body:['Inter','system-ui','sans-serif']},borderRadius:{DEFAULT:'0px',md:'0px',lg:'0px'}}}}</script>
+<style>
+[data-theme="workshop"]{--sa-ground:#121212;--sa-surface:#1C1C1C;--sa-ink:#F2F0EB;--sa-muted:#A8A49D;--sa-line:#2A2A2A;--sa-accent:#C6F135;--sa-on-accent:#121212;--sa-accent-2:#FF5C39;--sa-on-accent-2:#121212;--sa-font-display:"Onest",system-ui,sans-serif;--sa-font-body:"Inter",system-ui,sans-serif;--sa-radius-control:0px;--sa-radius-card:0px;--sa-display-case:none;color-scheme:dark;background:var(--sa-ground);color:var(--sa-ink);font-family:var(--sa-font-body)}
+*,*::before,*::after{box-sizing:border-box;border-radius:0}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--sa-ground);color:var(--sa-ink);font-family:var(--sa-font-body);line-height:1.6;overflow-x:hidden;-webkit-font-smoothing:antialiased}
+h1,h2,h3,h4{font-family:var(--sa-font-display);margin:0;line-height:1.02;letter-spacing:-.02em;font-weight:800;text-wrap:balance}
+p{margin:0;text-wrap:pretty}
+a{color:inherit}
+img,svg{max-width:100%}
+.wrap{max-width:1240px;margin:0 auto;padding:0 20px}
+@media(min-width:768px){.wrap{padding:0 40px}}
+.muted{color:var(--sa-muted)}
+.acc{color:var(--sa-accent)}.acc2{color:var(--sa-accent-2)}
+.eyebrow{font:600 12px/1 var(--sa-font-body);letter-spacing:.14em;text-transform:uppercase;color:var(--sa-muted);display:flex;align-items:center;gap:10px}
+.eyebrow::before{content:"";width:22px;height:2px;background:var(--sa-accent-2)}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:48px;padding:0 24px;font:600 15px var(--sa-font-body);text-decoration:none;border:1.5px solid var(--sa-ink);background:transparent;color:var(--sa-ink);cursor:pointer;transition:background .2s,color .2s,border-color .2s}
+.btn:hover{background:var(--sa-ink);color:var(--sa-ground)}
+.btn-p{background:var(--sa-accent);color:var(--sa-on-accent);border-color:var(--sa-accent)}
+.btn-p:hover{background:var(--sa-ink);border-color:var(--sa-ink);color:var(--sa-ground)}
+:focus-visible{outline:3px solid var(--sa-accent-2);outline-offset:3px}
+.nav{position:sticky;top:0;z-index:50;background:var(--sa-ground);border-bottom:1px solid var(--sa-line)}
+.nav .in{display:flex;align-items:center;justify-content:space-between;min-height:64px;gap:16px}
+.logo{font:800 22px var(--sa-font-display);letter-spacing:-.03em;text-decoration:none;display:flex;align-items:center;gap:8px;min-height:44px}
+.logo i{width:12px;height:12px;background:var(--sa-accent);display:block}
+.links{display:none;gap:28px;align-items:center}
+.links a{text-decoration:none;font-size:14px;font-weight:500;color:var(--sa-muted);min-height:44px;display:inline-flex;align-items:center}
+.links a:hover{color:var(--sa-ink)}
+.burger{width:48px;height:48px;border:1.5px solid var(--sa-line);background:transparent;color:var(--sa-ink);display:inline-flex;align-items:center;justify-content:center;cursor:pointer}
+.mnav{display:none;border-top:1px solid var(--sa-line);padding:8px 20px 20px}
+.mnav.open{display:block}
+.mnav a{display:flex;align-items:center;min-height:52px;border-bottom:1px solid var(--sa-line);text-decoration:none;font:700 20px var(--sa-font-display)}
+@media(min-width:900px){.links{display:flex}.burger,.mnav{display:none!important}}
+section{padding:72px 0}
+@media(min-width:900px){section{padding:112px 0}}
+.rule{border-top:1px solid var(--sa-line)}
+.h2{font-size:clamp(34px,5.5vw,68px)}
+.ph{background:repeating-linear-gradient(135deg,#1C1C1C 0 14px,#212121 14px 28px);border:1px solid var(--sa-line);display:flex;align-items:flex-end;padding:12px;color:var(--sa-muted);font:500 12px var(--sa-font-body);letter-spacing:.04em}
+details{border-top:1px solid var(--sa-line)}
+details:last-of-type{border-bottom:1px solid var(--sa-line)}
+summary{list-style:none;cursor:pointer;min-height:64px;display:flex;align-items:center;justify-content:space-between;gap:16px;font:700 clamp(18px,2.4vw,24px) var(--sa-font-display);letter-spacing:-.01em;padding:12px 0}
+summary::-webkit-details-marker{display:none}
+summary::after{content:"+";font:500 28px var(--sa-font-body);color:var(--sa-accent);flex:none;width:32px;text-align:center}
+details[open] summary::after{content:"\2212"}
+details p{padding:0 48px 24px 0;color:var(--sa-muted);max-width:62ch}
+.foot{border-top:1px solid var(--sa-line);padding:40px 0;font-size:14px;color:var(--sa-muted)}
+.foot .in{display:flex;flex-wrap:wrap;gap:20px 40px;justify-content:space-between}
+.foot a{display:inline-flex;min-height:44px;align-items:center;text-decoration:none}
+.foot a:hover{color:var(--sa-ink)}
+label{display:block;font:600 13px var(--sa-font-body);margin-bottom:8px}
+input,textarea,select{width:100%;min-height:48px;background:var(--sa-surface);border:1.5px solid #4a4a4a;color:var(--sa-ink);font:400 16px var(--sa-font-body);padding:12px 14px}
+input::placeholder,textarea::placeholder{color:#8f8b85}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important;scroll-behavior:auto!important}}
+</style></head><body id="top">
+<header class="nav"><div class="wrap"><div class="in"><a class="logo" href="#top"><i></i>[ИМЯ]</a><nav class="links" aria-label="Главная навигация">
+<a href="#du-an">Проекты</a>
+<a href="#dich-vu">Услуги</a>
+<a href="#quy-trinh">Процесс</a>
+<a href="#faq">Вопросы</a>
+<a class="btn btn-p" style="color:#121212;min-height:44px;padding:0 18px" href="#lien-he">Связаться</a></nav><button class="burger" id="burger" aria-label="Открыть меню" aria-expanded="false" aria-controls="mnav"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 7h18M3 12h18M3 17h18"/></svg></button></div></div><div class="mnav" id="mnav">
+<a href="#du-an">Проекты</a>
+<a href="#dich-vu">Услуги</a>
+<a href="#quy-trinh">Процесс</a>
+<a href="#faq">Вопросы</a>
+<a href="#lien-he" style="color:var(--sa-accent)">Связаться</a></div></header>
+<main>
+<section style="padding-top:48px;padding-bottom:0">
+<div class="wrap">
+<p class="eyebrow">Веб-разработчик · Вёрстка интерфейсов</p>
+<h1 style="font-size:clamp(44px,12vw,176px);line-height:.9;margin-top:28px;letter-spacing:-.05em">Пиксель<br><span class="acc" style="margin-left:clamp(0px,7vw,110px)">в пиксель</span><br>по макету.</h1>
+<style>
+.h1grid{display:grid;gap:40px;margin-top:48px;padding-bottom:72px}
+@media(min-width:900px){.h1grid{grid-template-columns:5fr 6fr;align-items:start;margin-top:0}}
+.code{background:var(--sa-surface);border:1px solid var(--sa-line);font:500 13px/1.8 ui-monospace,SFMono-Regular,Menlo,monospace;padding:0}
+.code .bar{display:flex;gap:6px;padding:12px 14px;border-bottom:1px solid var(--sa-line);color:var(--sa-muted);align-items:center}
+.code .bar b{width:10px;height:10px;background:#3a3a3a;display:block}
+.code pre{margin:0;padding:18px;overflow:hidden;white-space:pre-wrap;word-break:break-word}
+.k{color:var(--sa-accent)}.s{color:var(--sa-accent-2)}.c{color:#8f8b85}
+</style>
+<div class="h1grid">
+<div style="padding-top:8px">
+<p style="font-size:19px;max-width:44ch">Превращаю макеты из Figma в чистые HTML, CSS и JavaScript: выдерживаю каждый отступ, добиваюсь плавной работы на телефоне и оставляю код, который легко читает ваша команда.</p>
+<div style="display:flex;flex-wrap:wrap;gap:12px;margin-top:28px"><a class="btn btn-p" href="#lien-he">Заказать вёрстку</a><a class="btn" href="#du-an">Смотреть проекты</a></div>
+<p class="muted" style="font-size:14px;margin-top:20px">Беру 2 новых проекта в квартал · [ВАШЕ ИМЯ]</p>
+</div>
+<div class="code" aria-hidden="true"><div class="bar"><b></b><b></b><b></b><span style="margin-left:10px;font-size:12px">hero.css</span></div>
+<pre><span class="c">/* как в макете: сетка 8px, без дробных значений */</span>
+<span class="k">.hero</span> {
+  display: <span class="s">grid</span>;
+  grid-template-columns: <span class="s">5fr 6fr</span>;
+  gap: <span class="s">clamp(24px, 4vw, 64px)</span>;
+  padding-block: <span class="s">96px</span>;
+}
+<span class="k">.hero__title</span> {
+  font-size: <span class="s">clamp(56px, 14vw, 210px)</span>;
+  letter-spacing: <span class="s">-0.05em</span>;
+}</pre></div>
+</div></div>
+</section>
+
+<section id="du-an" class="rule">
+<div class="wrap">
+<div style="display:flex;flex-wrap:wrap;justify-content:space-between;align-items:end;gap:16px;margin-bottom:40px"><h2 class="h2">Избранные проекты</h2><p class="muted" style="max-width:34ch">Каждая строка — один проект. Замените на свои работы.</p></div>
+<style>
+.row{display:grid;grid-template-columns:44px 1fr;gap:4px 16px;padding:22px 0;border-top:1px solid var(--sa-line);text-decoration:none;align-items:baseline;transition:background .2s,padding .2s}
+.row:last-child{border-bottom:1px solid var(--sa-line)}
+.row .n{font:600 13px var(--sa-font-body);color:var(--sa-muted)}
+.row h3{font-size:clamp(24px,4vw,46px)}
+.row .m{grid-column:2;color:var(--sa-muted);font-size:14px}
+.row .y{display:none}
+.row:hover{background:var(--sa-surface);padding-left:16px;padding-right:16px}
+.row:hover h3{color:var(--sa-accent)}
+@media(min-width:900px){.row{grid-template-columns:64px 1.6fr 1.4fr 90px;padding:30px 0}.row .m{grid-column:auto}.row .y{display:block;text-align:right;color:var(--sa-muted);font-size:14px}}
+</style>
+<div role="list">
+<a role="listitem" class="row" href="#lien-he"><span class="n">01</span><h3>[НАЗВАНИЕ ПРОЕКТА 1]</h3><span class="m">Лендинг · React, Tailwind · [КЛИЕНТ]</span><span class="y">[ГОД]</span></a>
+<a role="listitem" class="row" href="#lien-he"><span class="n">02</span><h3>[НАЗВАНИЕ ПРОЕКТА 2]</h3><span class="m">Дизайн-система · HTML, CSS · [КЛИЕНТ]</span><span class="y">[ГОД]</span></a>
+<a role="listitem" class="row" href="#lien-he"><span class="n">03</span><h3>[НАЗВАНИЕ ПРОЕКТА 3]</h3><span class="m">Интернет-магазин · Next.js · [КЛИЕНТ]</span><span class="y">[ГОД]</span></a>
+<a role="listitem" class="row" href="#lien-he"><span class="n">04</span><h3>[НАЗВАНИЕ ПРОЕКТА 4]</h3><span class="m">Панель управления · TypeScript · [КЛИЕНТ]</span><span class="y">[ГОД]</span></a>
+</div>
+<div class="ph" style="aspect-ratio:21/8;margin-top:40px;min-height:140px">Скриншот ключевого проекта 21:8</div>
+</div></section>
+
+<section class="rule" id="dich-vu">
+<div class="wrap">
+<style>.two{display:grid;gap:40px}@media(min-width:900px){.two{grid-template-columns:4fr 7fr;gap:80px}}
+.li{padding:26px 0;border-top:1px solid var(--sa-line)}.li:first-child{border-top:0;padding-top:0}.li h3{font-size:26px;margin-bottom:8px}</style>
+<div class="two">
+<div><p class="eyebrow">Чем занимаюсь</p><h2 class="h2" style="margin-top:20px">Три задачи — делаю тщательно.</h2></div>
+<div>
+<div class="li"><h3>Вёрстка из Figma</h3><p class="muted">Вы присылаете макет — я возвращаю рабочую страницу: адаптив на 390, 768 и 1440 px, верные шрифты и отступы, состояния hover и focus. Объяснять каждый пиксель заново не придётся.</p></div>
+<div class="li"><h3>Скорость и доступность</h3><p class="muted">Проверяю работающий сайт: тяжёлые картинки, лишний JavaScript, кнопки без доступа с клавиатуры, слабый контраст текста. К каждой проблеме — решение и скриншоты «до» и «после».</p></div>
+<div class="li"><h3>Переиспользуемые компоненты</h3><p class="muted">Кнопки, формы, карточки и навигацию оформляю как компоненты с понятными именами и короткой документацией — ваша команда добавит новые страницы без переписывания.</p></div>
+</div></div></div></section>
+
+<section class="rule" id="quy-trinh" style="background:var(--sa-surface)">
+<div class="wrap">
+<h2 class="h2" style="margin-bottom:48px">Как проходит проект</h2>
+<style>.steps{display:grid;gap:0}.steps>div{padding:28px 0;border-top:1px solid #333}.steps b{font:800 56px var(--sa-font-display);color:var(--sa-accent-2);display:block;line-height:1}.steps h3{font-size:22px;margin:14px 0 8px}
+@media(min-width:900px){.steps{grid-template-columns:repeat(4,1fr);gap:32px}.steps>div{padding:28px 0 0}}</style>
+<div class="steps">
+<div><b>1</b><h3>Изучаю макет</h3><p class="muted">Разбираю Figma, собираю спорные места и присылаю вопросы в течение 2 рабочих дней.</p></div>
+<div><b>2</b><h3>Фиксированная цена</h3><p class="muted">Цена зависит от числа экранов: [ВАША ЦЕНА]. Если объём не меняется, доплат по ходу работы не будет.</p></div>
+<div><b>3</b><h3>Верстаю и показываю</h3><p class="muted">Вы смотрите живую ссылку, а не скриншоты. До двух кругов правок.</p></div>
+<div><b>4</b><h3>Передача</h3><p class="muted">Исходники, инструкция по запуску и 14 дней бесплатных исправлений.</p></div>
+</div></div></section>
+
+<section class="rule" id="faq">
+<div class="wrap"><div class="two"><div><h2 class="h2">Вопросы перед заказом</h2></div>
+<div>
+<details><summary>У меня нет макета — вы справитесь?</summary><p>Я специализируюсь на вёрстке. Если макета нет, порекомендую дизайнера под ваш [БЮДЖЕТ] и начну верстать, когда файл будет готов.</p></details>
+<details><summary>Какие технологии вы используете?</summary><p>Основа — чистые HTML, CSS и JavaScript. Если проекту нужно, беру React или Next.js; выбор за вами, фреймворк я не навязываю.</p></details>
+<details><summary>Сколько занимает проект?</summary><p>Одноэкранный лендинг обычно занимает [СРОК] рабочих дней. Точные сроки назову после изучения макета.</p></details>
+<details><summary>Есть ли поддержка после сдачи?</summary><p>Да. Первые 14 дней исправления бесплатны; дальше — почасовая оплата или пакет поддержки [ВАША ЦЕНА].</p></details>
+</div></div></div></section>
+
+<section id="lien-he" class="rule" style="padding-bottom:56px">
+<div class="wrap">
+<p class="eyebrow">Следующий проект</p>
+<h2 style="font-size:clamp(38px,8.6vw,128px);line-height:.92;letter-spacing:-.045em;margin:24px 0 36px">Есть макет?<br><span class="acc">Покажите мне.</span></h2>
+<div style="display:flex;flex-wrap:wrap;gap:12px;align-items:center"><a class="btn btn-p" href="mailto:[ВАШ EMAIL]">Отправить макет</a><span class="muted">[ВАШ EMAIL] · [ТЕЛЕФОН]</span></div>
+</div></section>
+</main>
+<footer class="foot"><div class="wrap in"><span>© [ГОД] [ВАШЕ ИМЯ]. Веб-разработчик.</span><span style="display:flex;gap:24px;flex-wrap:wrap"><a href="#">GitHub</a><a href="#">LinkedIn</a><a href="#du-an">Проекты</a></span></div></footer>
+<script>
+(function(){var b=document.getElementById('burger'),m=document.getElementById('mnav');if(b&&m){b.addEventListener('click',function(){var o=m.classList.toggle('open');b.setAttribute('aria-expanded',o)});m.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){m.classList.remove('open');b.setAttribute('aria-expanded','false')})})}})();
+</script>
+</body></html>

@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01079",
+  "title": "ALI MOBILE ZONE",
+  "summary": "A dark, modern landing page template for mobile device marketplaces to showcase listings, build trust, and drive buying and selling conversions.",
+  "tags": [
+    "Landing Page",
+    "E-commerce",
+    "Technology",
+    "Dark",
+    "Clean",
+    "Brand",
+    "Gradient",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3374,
+      "sha256": "0eacc974855b7226a19ac6ef209818b338b92d35fb7d8caa83c2385a1553bce1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13886,
+      "sha256": "7def341bf0a9d0adc184c90c460fe331493ee97bbca979d53ed3d1a807cb0ce5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 788,
+      "sha256": "e36f62fc8eeefdaf9063b8f442185630a1beb2e94089aa7cdb181ddac4e6eb74"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28294,
+      "sha256": "a41521dc21a50643a33b0e4e95162df69415a2632582209539dedc3397b5b752"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "product-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

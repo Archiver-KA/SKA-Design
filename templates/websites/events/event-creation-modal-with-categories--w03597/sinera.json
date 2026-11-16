@@ -1,0 +1,79 @@
+{
+  "id": "SN-W03597",
+  "title": "Event Creation Modal with Categories",
+  "summary": "Responsive modal UI for creating events with category selection, date/time inputs, attachments, and invitees, styled using Tailwind CSS.",
+  "tags": [
+    "Event Modal",
+    "Segmented Control",
+    "Form",
+    "Tailwind CSS",
+    "Date Picker",
+    "File Upload",
+    "Invitees"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3095,
+      "sha256": "0503788aa186fcf9d09ba8e8cda4e655e35c05704138391518bbe37d611d40b5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6274,
+      "sha256": "9bd5add36a3bebc6203ed40623a4c86f5a4463bf0c03873acda25c1a6f2d7bb9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1451,
+      "sha256": "37aac7025dd8a0ec1f73a20bfabccb76ccfd0b328099892c8a91421688554f37"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 179,
+      "sha256": "1d615f6282ef145a3fc112eb85c11e55c8d9c1055fbadf1041d3ac7179cdf809"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 231,
+      "sha256": "0203547d7c7432cd1f569d79fe163778931215fd6bbf6174354561a78ebfa57e"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 173,
+      "sha256": "7c751cc8eb786a6c5840b95931aee85e76793d04bb992f23af557f718b212ce7"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 159,
+      "sha256": "a38c4ba488ce86125bbee6304b0d5347b42142b9d73145732a0b1f0b5a6dfd0c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9902,
+      "sha256": "6517657f329e21bc9dfc764fbe5f580f79e04f7a435880272c3a550dfb97e4bc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "snippet",
+  "components": [
+    "contact-form"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "modal-overlay",
+  "design": "DESIGN.md"
+}

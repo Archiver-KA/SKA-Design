@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01693",
+  "title": "Interactive Avatar Group with Hover Zoom",
+  "summary": "Tailwind-styled avatar cluster displaying circular profile images with a featured center avatar; surrounding avatars enlarge and elevate on hover. Ideal for team member showcases, user lists, or social features.",
+  "tags": [
+    "avatar",
+    "image group",
+    "interactive",
+    "hover",
+    "zoom",
+    "tailwind",
+    "profile",
+    "team",
+    "flexbox"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6906,
+      "sha256": "398440ee7efa650c86f4786fae5158c6618d5aee9ac197c46e68e770a2e7eb98"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2032,
+      "sha256": "33c9c6cd41c7de64da18539b69c7aca21923d06ee147d8670a4cc409baee97ec"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2893,
+      "sha256": "9136c6cfac664bd9becffa008f465a8e2725e10ec3e6343e9914f20622c1bc2d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

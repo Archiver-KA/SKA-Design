@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02165",
+  "title": "Featured Product Showcase",
+  "summary": "Large featured product display with prominent image, details section, and call-to-action. Ideal for highlighting special products or promotions.",
+  "tags": [
+    "card",
+    "product",
+    "featured",
+    "ecommerce",
+    "responsive",
+    "button",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12892,
+      "sha256": "afe9aa84a543f1ac216f09538aebcf44ea31e8f9fb338890876c211c830150e0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1299,
+      "sha256": "39874e7591d03b041000fa001551931a251063205745d958862fe0d9924d51d2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2145,
+      "sha256": "46f26f6e1eacdb8c895b3f06f3fe8c5b578573799cf260d03d77d93e0b74d7a3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

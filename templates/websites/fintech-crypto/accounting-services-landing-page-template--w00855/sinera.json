@@ -1,0 +1,71 @@
+{
+  "id": "SN-W00855",
+  "title": "Accounting Services Landing Page Template",
+  "summary": "A modern accounting firm landing page template for showcasing bookkeeping, tax, and CFO services with consultations, local offices, and testimonials.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Technology",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3760,
+      "sha256": "a904b174de9b18311e797cce4ec435c8860e322c3dfdb4e28874272709cfbff7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17048,
+      "sha256": "47500e64b9de9db99afa8ecfc8b32923266cbbefbd3a2b0105caed3adc1d0590"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 867,
+      "sha256": "83e6d6571a188906ba191f8586d22aa06f08df13bc6caf1668f25b3e86e5b2ff"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 206,
+      "sha256": "62b61eb224c8f3d42e76c39e08e383685a352a29bd28ecd0279454320e345349"
+    },
+    {
+      "path": "index.html",
+      "bytes": 54581,
+      "sha256": "705254b8798d48afc67a8713e65ab294805b350ffb95e7d54a77580b4ea7c648"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "bento-grid",
+    "services",
+    "testimonials",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

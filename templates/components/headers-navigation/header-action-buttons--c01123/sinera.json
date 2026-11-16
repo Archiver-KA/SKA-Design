@@ -1,0 +1,40 @@
+{
+  "id": "SN-C01123",
+  "title": "Header Action Buttons",
+  "summary": "A set of authentication and call-to-action buttons with different styles. Includes a secondary 'Sign In' button and a primary 'Start Journey' button with an arrow icon.",
+  "tags": [
+    "button",
+    "cta",
+    "authentication",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3584,
+      "sha256": "04bf52b68371720a2280aaea687714aa1badfa0ac30c76a42129ea9fbd855402"
+    },
+    {
+      "path": "component.html",
+      "bytes": 752,
+      "sha256": "bf91bf5e6307ea9edf060e533f5d0cf3f12c317eedc1ef8005a9ea45c2d21ae4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1594,
+      "sha256": "729e676058e47ff556a060e4d92bcce8c21647a22fa711fb609d3c94a4ca60c2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

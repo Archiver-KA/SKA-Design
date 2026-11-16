@@ -1,0 +1,66 @@
+{
+  "id": "SN-W04114",
+  "title": "TikBoost Social Services Landing Page Template",
+  "summary": "Modern dark-mode landing page template for TikTok growth and coin-selling services, featuring pricing grids, secure checkout, and WhatsApp order flow.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Clean",
+    "Large Type",
+    "Social media",
+    "TikTok coins"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3623,
+      "sha256": "ecb7dd482a28b94103fe488cb697c3daacb31b2536fd6a53f70040621b33e8cc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12252,
+      "sha256": "f21309bf6832cc12b278e16f2ae5c6fa521a1b28edc4d0dc7b22116f3fc4906b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 741,
+      "sha256": "96e2719aa99058ebc6c0090d3ce5f75dfd2d277fb8a4548211a0fb976a8a4532"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23631,
+      "sha256": "a4670d33f3287d21bf0f2a8b73b14a7c3ed41423b4896987715643033246fee1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "product-grid",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02133",
+  "title": "Process Step Card with Icon & Progress Bar",
+  "summary": "Tailwind CSS card representing a single process step with numbered heading, icon, phase label, description, time estimate and progress bar. Ideal for onboarding flows, roadmaps or multi-step tutorials.",
+  "tags": [
+    "card",
+    "step",
+    "progress",
+    "tailwind",
+    "onboarding",
+    "timeline",
+    "tutorial",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7200,
+      "sha256": "093e17e259cc21b7afee28d03e57e1afc25ba535bc54d11ac00a2ee299c1e250"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2051,
+      "sha256": "ffb2d4d3f11ae5d294c5de2bacc8d1a64d2ee77c8c6d64cdacded4d7f6e9f4c4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3048,
+      "sha256": "09a01a37f07106de4d1508eba34182df20dae4eed89a387be314232c6ece22b2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

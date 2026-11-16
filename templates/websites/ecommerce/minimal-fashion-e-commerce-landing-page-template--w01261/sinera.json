@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01261",
+  "title": "Minimal Fashion E-commerce Landing Page Template",
+  "summary": "A sleek minimal fashion e-commerce landing page template for showcasing collections, lookbooks, and brand storytelling with modern UI sections.",
+  "tags": [
+    "E-commerce",
+    "Fashion",
+    "Landing Page",
+    "Brand",
+    "Minimal",
+    "Dark",
+    "Large Type",
+    "Grid",
+    "Clean",
+    "Style"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3344,
+      "sha256": "5fd6e2079c7da02a462adfb0bcc6c5b86d6d31c38972fbad474dabe0d56f3e6f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7290,
+      "sha256": "71fd188ed50ef210bcb9171051b34ffe1ec73f8a69120cf0ec783d7bace32155"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "22f116a03292ef8778b80c8cf81a9c539aeda9fcd4a018d3d7e216c286deddfb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19385,
+      "sha256": "b0e4729bec32684cc96cf1d75e9264d43e47b6646ac0bcbccf8bf0fb5ef65470"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "gallery-portfolio",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

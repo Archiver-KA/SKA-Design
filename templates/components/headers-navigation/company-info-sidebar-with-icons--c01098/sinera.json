@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01098",
+  "title": "Company Info Sidebar with Icons",
+  "summary": "Responsive sidebar displaying company details—location, team size, project count, founding year—and a brief description. Built with Tailwind CSS and lucide icons, hidden on mobile and shown on large screens. Ideal for profiles or landing pages.",
+  "tags": [
+    "company",
+    "info",
+    "tailwind",
+    "responsive",
+    "icons",
+    "profile",
+    "card"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16896,
+      "sha256": "8d3a677c1ba84855b370d2005230e5857b504a6e83129c033ad70a6e6105e124"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2667,
+      "sha256": "c7465c52a52ead73a94b043a31dca87406c8a84b8480e72c42befee453fabdbd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3519,
+      "sha256": "bad2be4eebd48363f2ee4e0c106e249f6265349dcd0bfc914d853792cd4a4257"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

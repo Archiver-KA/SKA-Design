@@ -1,0 +1,72 @@
+{
+  "id": "SN-W03759",
+  "title": "Digital Trust Journal Template",
+  "summary": "A reusable editorial and advisory template for publishing digital trust insights, credibility analyses, and interactive transparency scoring tools.",
+  "tags": [
+    "Landing Page",
+    "Blog",
+    "Brand",
+    "Services",
+    "Technology",
+    "Dark",
+    "Minimal",
+    "Grid",
+    "Editorial",
+    "Newsletter"
+  ],
+  "kind": "websites",
+  "category": "news-blog",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3322,
+      "sha256": "941102d969609588d8db5628eede2815bc7601cf9691fa0d8ba2861ce693934c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16820,
+      "sha256": "fe6e5749400e04fc64877e0467678b5f2ab8ed6929b97aa94df462c160ccc67c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 863,
+      "sha256": "06dcf76183f19eeab323203f470a63bfd9d9a48f13ab2902375c0c5229d2f28f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 185,
+      "sha256": "791cee1596ac65238be5b53e502c0a5bf03efb00a79ebcfd23d4855d3742b3f7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 45534,
+      "sha256": "a82b813296e4003f905b3641fab9379719bd116b0891a423517d3d90157b1da4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "content",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Content / News",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "testimonials",
+    "stats",
+    "blog-articles",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

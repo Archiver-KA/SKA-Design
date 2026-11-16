@@ -1,0 +1,77 @@
+{
+  "id": "SN-W01162",
+  "title": "flavoring",
+  "summary": "A stylish bilingual template for launching portable food products or seasoning brands with immersive visuals, flavor showcases, FAQs, and pre-order CTAs.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Animated",
+    "E-commerce",
+    "bilingual",
+    "product showcase",
+    "pre-order"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3728,
+      "sha256": "38cc28f662f4ca3164ac96bdc68515f5a6e4b896c956c9fc877c404efcef2f33"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10270,
+      "sha256": "82cc8c8ee222342854a19447841249963f9ce7d5df4d3778137ee155fc3f3367"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 922,
+      "sha256": "c8a4d61cc03d44ceba5c1c0a7488eaa2e7c82449dd09c1a6bed57e6dd5a83ce4"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "2b07fd6bdb9fac52f5f7f1f19b01f6f4bfcd81cd9ca7dd79c7b5e95042ef659a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40257,
+      "sha256": "6859430c2ea178c2eb9f750abce6def2b935ede74fb507ab8f23cee0357c5f83"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "video-media",
+    "features",
+    "schedule-agenda",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

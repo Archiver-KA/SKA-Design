@@ -1,0 +1,75 @@
+{
+  "id": "SN-W04059",
+  "title": "Premium Car Wrap and Detailing Template",
+  "summary": "A high-octane, dark-themed template designed for car wrap studios and automotive detailing services featuring service pages, gallery, and a quote form.",
+  "tags": [
+    "Technology",
+    "Services",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Grid",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4137,
+      "sha256": "e87a363e8c3fca3dae41c933cb552481677f7ab4bdc1d542d7d77cdc55bd9b9b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21970,
+      "sha256": "dec026c41ec1bbd6cd39159c4107d5583dab8a4f60642a441b2b0fc7c86f008a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 875,
+      "sha256": "c2ddf0cf39deeb3c992e0bf2287c7e5277bba2f273a53d3e53a5e30cf95b79b5"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "1d477c85a7ad0d3a741110a72123c23e8bdb35a659e27798b40c1804211d7d73"
+    },
+    {
+      "path": "index.html",
+      "bytes": 143487,
+      "sha256": "d6b5b26bf18fb705cfd725177ff0d12d2d66285248c476ac7be56115d8d9e397"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "bento-grid",
+    "stats",
+    "features",
+    "gallery-portfolio",
+    "about",
+    "contact-form",
+    "faq",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

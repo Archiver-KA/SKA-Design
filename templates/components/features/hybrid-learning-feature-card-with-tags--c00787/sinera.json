@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00787",
+  "title": "Hybrid Learning Feature Card with Tags",
+  "summary": "Responsive card showcasing a course or service with background image, status badges, title, description and icon row. Tailwind CSS styling, hover border accent and backdrop blur suit highlights, feature sections or listings.",
+  "tags": [
+    "card",
+    "tailwind",
+    "responsive",
+    "hover",
+    "badge",
+    "background-image",
+    "course",
+    "feature"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16456,
+      "sha256": "d5601fbc9faa6c8fed360aa6fa30d1c716be221570f643c895000b5eccecfa18"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2093,
+      "sha256": "c46614aba867d7b711d1400540d51546072a2a334c6f92b23db73a35e561c5dd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2952,
+      "sha256": "e7ab0b6816c0c52bf7781a2128de4c4ec101ff8198eafffb2f782a321ee47e9f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

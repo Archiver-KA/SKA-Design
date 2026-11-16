@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00615",
+  "title": "FAQ Accordion with Testimonial & CTAs",
+  "summary": "Responsive two-column section featuring an accordion FAQ list, a 5-star testimonial card, and primary/secondary call-to-action buttons. Styled with Tailwind CSS utility classes, ideal for landing or service pages needing quick Q&A and social proof.",
+  "tags": [
+    "faq",
+    "accordion",
+    "testimonial",
+    "cta",
+    "tailwind",
+    "responsive",
+    "grid",
+    "landing page"
+  ],
+  "kind": "components",
+  "category": "faq",
+  "categoryLabel": "FAQ & accordions",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20866,
+      "sha256": "e40c57e9c084c68c2c568565b1bfc7572a4af2996b959f1431f2188fb668ec2d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11913,
+      "sha256": "13a9fddd540d436648dd58b96a8d68c3bd516661d38d7b8cb4865e9a2feebd5a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12775,
+      "sha256": "a3453525d8d0dfae6d7f9c8e23f472d598fa355b4955b2057fce564ea855f4cf"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

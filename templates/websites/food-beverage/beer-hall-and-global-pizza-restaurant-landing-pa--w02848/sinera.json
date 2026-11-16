@@ -1,0 +1,70 @@
+{
+  "id": "SN-W02848",
+  "title": "Beer Hall & Global Pizza Restaurant Landing Page Template",
+  "summary": "A modern restaurant landing page template for beer halls and global pizza bars, showcasing menus, hours, and location in a dark, atmospheric design.",
+  "tags": [
+    "Food",
+    "Landing Page",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Colorful",
+    "Large Type",
+    "Restaurant",
+    "Bar",
+    "Menu"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3567,
+      "sha256": "e17666001474d9b6fb67c4386ff8725407842bdbf7988fd932513364d7246fbe"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 28768,
+      "sha256": "1b0ba078a6b593e5e0dc1c7949cc17b221511ff3604a67bede12f1f35ba8221c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 837,
+      "sha256": "08c83301784f7942c308eb7805c435c9ae609a0ff341101080d9554cb3d09532"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26102,
+      "sha256": "a72a39d8ca541ae2bc0e07f31c13c72b8f51e2a4957cc3de47e0695c837f7365"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "about",
+    "features",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "broken-images"
+    ],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

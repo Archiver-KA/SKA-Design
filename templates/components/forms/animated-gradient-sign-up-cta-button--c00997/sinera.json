@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00997",
+  "title": "Animated Gradient Sign-Up CTA Button",
+  "summary": "Interactive call-to-action button with radial gradient background, hover lift/scale, fading underline accent, and smooth cubic-bezier animation. Built with Tailwind utility classes, ideal for landing pages or forms requiring an engaging “Sign Up” trigger.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "animated",
+    "gradient",
+    "hover-effect",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1364,
+      "sha256": "5b2ab584296e5781cc99531df1b154aac5ab7e532fcbd4514a197446885ebe96"
+    },
+    {
+      "path": "component.html",
+      "bytes": 942,
+      "sha256": "099122f775ec19efdbb6dfe1c31873cedabf56fb5d9c9086ed1b16425f90a66a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1799,
+      "sha256": "5d599d837028d853066a77295e5ef5ccbcdc31544be6e181e79a1b4a8f753f7f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

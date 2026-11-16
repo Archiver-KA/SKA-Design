@@ -1,0 +1,68 @@
+{
+  "id": "SN-W02200",
+  "title": "Ramond Holdings Real Estate Portfolio Template",
+  "summary": "A reusable landing page template designed for showcasing high-end real estate assets, architectural portfolios, and strategic investment ventures.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Real Estate",
+    "Architecture",
+    "Investments",
+    "Ventures",
+    "Interiors",
+    "Horizontal Scroll",
+    "Sticky Sidebar",
+    "Analytics"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3558,
+      "sha256": "647e73db9b48a543e8962be02f0635bd5642b67a79680ee7e606736fab2302ae"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11502,
+      "sha256": "071f12ffd11679bf8e595114954277d573cf9c38304c1455cf0b9a0dc749010c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "136c8a652d3c7193a2f6f094c5029b68c308a06a6f48ceed42be73a49a249ab4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38865,
+      "sha256": "31f5842dafb68569b4c3dcabf479961eea0cacf4daa2fffde1d38f1d7a118d3e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "gallery-portfolio",
+    "about",
+    "features",
+    "team",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

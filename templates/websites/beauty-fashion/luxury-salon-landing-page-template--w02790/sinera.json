@@ -1,0 +1,75 @@
+{
+  "id": "SN-W02790",
+  "title": "Luxury Salon Landing Page Template",
+  "summary": "A reusable luxury salon landing page template for showcasing hair, bridal, skincare, spa services and driving bookings via WhatsApp, phone, and forms.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Beauty",
+    "Salon",
+    "Spa"
+  ],
+  "kind": "websites",
+  "category": "beauty-fashion",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3899,
+      "sha256": "38f3c62c5cb10ad9f3e1889f0e6f1d0ab8df5d301a0005a5810ebe57411f6818"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10766,
+      "sha256": "e9d457db86fd52f62086c299aff2aeb3fa00c336fd91f175624cc5c6ec1aaf2e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 812,
+      "sha256": "2c4072b25e6cf0e1060b3b3cf9d6957ee176316f9df52a54049061f51eb94bec"
+    },
+    {
+      "path": "index.html",
+      "bytes": 50144,
+      "sha256": "a73aafeb05e5277fcb7f123c73ea8a38b53a22dd0c0a9b767d202935502a4314"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "beauty",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Beauty / Fashion",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "about",
+    "pricing",
+    "gallery-portfolio",
+    "testimonials",
+    "booking",
+    "map-location",
+    "how-it-works",
+    "footer",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

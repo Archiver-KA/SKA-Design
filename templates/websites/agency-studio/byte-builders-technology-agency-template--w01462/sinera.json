@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01462",
+  "title": "Byte Builders Technology Agency Template",
+  "summary": "A high-performance dark-themed agency template designed for technology firms, SaaS developers, and automation consultants to showcase growth-driven services.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Dark",
+    "Clean",
+    "Futuristic",
+    "Animated",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3800,
+      "sha256": "025c48c0f1b4a172a01672c58f3eb953dfed6398c6a88330699e07cf138bbb11"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18668,
+      "sha256": "5858be352ea92d22ae5658c6a4241f97dad6378d6a2389d868378db8c0a54c6e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "c4bc4fa9339273af9e4dfc1f5d689fb9a9104d33da67b0c6dd4bae4f4cc35d1b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38878,
+      "sha256": "3867527420a94808f965561eae67d9c076b8bb9dee391681a307ee76e93521cc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "how-it-works",
+    "marquee",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

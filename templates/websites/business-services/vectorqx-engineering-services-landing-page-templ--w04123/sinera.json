@@ -1,0 +1,71 @@
+{
+  "id": "SN-W04123",
+  "title": "VectorQX Engineering Services Landing Page Template",
+  "summary": "A modern VectorQX engineering services landing page template for BIM, CAD, and AEC firms to showcase capabilities, case studies, and drive project enquiries.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Engineering",
+    "BIM"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3288,
+      "sha256": "a7a621a7fc2960075d6560b60c7151a6091e0aa00b1bb2414527726a951ad327"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13280,
+      "sha256": "b4cadb8976cbef16698e1e27b20660ee661d19cc577c7e664ea30cde5ebde6b0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 746,
+      "sha256": "a23b149170706e22adab386f1b96fb35c5d0f6ca1283676806acc8f65531a26f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 65029,
+      "sha256": "e627f766ee2eb0bc408c9666449c2aa035f713621a4c37d303c4f73de0174fd1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "contact-form",
+    "navbar",
+    "hero",
+    "marquee",
+    "features",
+    "stats",
+    "benefits",
+    "case-studies",
+    "how-it-works",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "SN-W00651",
+  "title": "PulseGrid SaaS Landing Page Template",
+  "summary": "A clean, visual-first landing page template designed for creative operations, SaaS command centers, and modern project management tools.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Animated",
+    "Futuristic",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3782,
+      "sha256": "f346e1dc4a7a3f8a1d8cb3076034c25ee83b4655ea79ed6cc9efe7e703167743"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16202,
+      "sha256": "a63de1fe3700c48ab77648bbf9adcede2cb568a47f584bcbc7cc25a7b162125d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "09267642be0f500f617a07c242b108b76d65e4acb0d496733000700103e153b7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 49394,
+      "sha256": "7d3a6088040b8779a168675ed7e1affcb8db1158fe040829991b2afa84055257"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "testimonials",
+    "product-grid",
+    "faq",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

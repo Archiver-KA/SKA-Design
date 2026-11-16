@@ -1,0 +1,79 @@
+{
+  "id": "SN-W03311",
+  "title": "Luxury Swimming Pool Landing Page Template",
+  "summary": "A premium landing page template for showcasing readymade fiberglass swimming pools, highlighting heritage, features, and driving consultation leads.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Large Type",
+    "Minimal",
+    "Technology",
+    "Real Estate"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3836,
+      "sha256": "aceaeb3fc7fc855e8d984a76deb37bfae7ba3a9de077d6eb3ed506d483c8da76"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 52522,
+      "sha256": "abbafd1e1f93158c50bf38779d07b852065bba4d9e437ed4620b17889f7762e6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 955,
+      "sha256": "f3d2cdd1006bef582b4e99d167ce76383b183d2bc69f6b532250cb459161e362"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 313,
+      "sha256": "4e1a84c4b6bf816bffe3c0aea9bdac735f96fe7c33990beaf04c08a1fe6f85d7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 43141,
+      "sha256": "a28f880723b7f76800fefe77f972081a8306a02a99d838a78824e15347f6d724"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "faq",
+    "hero",
+    "logo-cloud",
+    "marquee",
+    "features",
+    "how-it-works",
+    "stats",
+    "about",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "broken-images"
+    ],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

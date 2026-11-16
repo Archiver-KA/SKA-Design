@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01865",
+  "title": "Full-Screen Spline 3D Background Embed",
+  "summary": "Embeds a Spline 3D scene in an absolute, full-viewport container with negative z-index, creating an animated background layer for hero sections or landing pages. Styled with utility classes similar to Tailwind.",
+  "tags": [
+    "background",
+    "iframe",
+    "spline",
+    "3d",
+    "full-screen",
+    "tailwind",
+    "embed"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 23844,
+      "sha256": "f0421036f4deca9d185bc358a5d3758177235502437b2786f8f75fc4e1b82494"
+    },
+    {
+      "path": "component.html",
+      "bytes": 225,
+      "sha256": "3f493bdbf067edbbf3d2001b7e035661886e5b4c88d5546bd7c1952be595db4c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1084,
+      "sha256": "1945a34276bcc2af1e83e36b99357091d1abbd43545b73d28f00dba5e437ad9d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

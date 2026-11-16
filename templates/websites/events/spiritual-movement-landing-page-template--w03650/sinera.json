@@ -1,0 +1,73 @@
+{
+  "id": "SN-W03650",
+  "title": "Spiritual Movement Landing Page Template",
+  "summary": "A reusable spiritual movement landing page template for promoting global consciousness projects, apps, donations, and community signups.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Spiritual",
+    "Non-profit",
+    "Community"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4076,
+      "sha256": "db8e9c81e3d6f533a4f1ab7c22ed7f12242cd64774886ceb3e9b3e89e77bb39f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3698,
+      "sha256": "8896d30b000d3302db0737bef76438dff3df0da4d538c9706fd9dfa4a3adbd32"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 808,
+      "sha256": "1aaaf6d03def0f72dbe5ebe4851eb5673b7f5f61768f3ce74eb9e0b7fc39c7a6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 62112,
+      "sha256": "8425eafda33ba8efd2515c962af1a7f81935ef656535deb90c0c142beb786069"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "video-media",
+    "bento-grid",
+    "timeline",
+    "product-grid",
+    "contact-form",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

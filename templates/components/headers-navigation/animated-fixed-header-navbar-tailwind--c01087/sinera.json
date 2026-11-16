@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01087",
+  "title": "Animated Fixed Header Navbar (Tailwind)",
+  "summary": "Glassmorphic fixed-top header featuring logo, responsive nav links, and CTA. Includes slide-down entrance animation, hover effects, and adapts visibility for mobile vs desktop using Tailwind CSS utility classes.",
+  "tags": [
+    "header",
+    "navbar",
+    "tailwind",
+    "fixed",
+    "animated",
+    "responsive",
+    "glassmorphic"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3064,
+      "sha256": "68d38dd22a572d563e76af937868a4fb483a6308a93659331ba2a79a163c5e4f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2030,
+      "sha256": "a6d82ec0f15c2d21e110635c0e18fe0cf8022a304cf4152dfefc13852a0c7a9e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3020,
+      "sha256": "5544e5dbd52f09ffc4ecab4c4c249aab9f177bc2e22b16e68424b59762e0905d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

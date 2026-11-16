@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01480",
+  "title": "Responsive Landing Hero with CTAs & Social Proof",
+  "summary": "Hero section for marketing pages featuring headline, tagline, two call-to-action buttons, and avatar cluster showing social proof. Built with Tailwind CSS and fully responsive—ideal for SaaS, startup, or product landing screens.",
+  "tags": [
+    "hero",
+    "landing",
+    "cta",
+    "social-proof",
+    "tailwind",
+    "responsive",
+    "marketing",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16000,
+      "sha256": "87a85411e4c9d28eb7c44cdff12641393667eb40a65f8fb8f6205ce20306a9ca"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2664,
+      "sha256": "9497e58d55647e4db66464ba532925d619d2f37e91b86dd21c5ba35d498f6a95"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3667,
+      "sha256": "a296014c97a7e3c50041e6da0bc744e045242e5a638b1f8898a0137ff4a7b72b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

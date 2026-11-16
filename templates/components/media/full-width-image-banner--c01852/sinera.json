@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01852",
+  "title": "Full Width Image Banner",
+  "summary": "A full-width responsive image banner component ideal for hero sections, featured content, or page headers. Maintains aspect ratio and provides optimal viewing across all devices.",
+  "tags": [
+    "hero",
+    "banner",
+    "fullwidth",
+    "responsive",
+    "image"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 25170,
+      "sha256": "06502ac33e16ec075e76304f085961d093c1bf40555ef8db564ba07aaf84b6d3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 260,
+      "sha256": "ea243d7bb90b8657cee5b53b7a33a02d7bf93f948e2ddd3f80f54c79a421cb5d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1104,
+      "sha256": "3aff1e378b1261117dd28d5ef8fcbed1ae39ea7326fcb2ae608f5744ed29c9f7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

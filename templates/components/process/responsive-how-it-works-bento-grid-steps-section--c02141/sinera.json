@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02141",
+  "title": "Responsive 'How It Works' Bento Grid Steps Section",
+  "summary": "Four-step \"How it works\" section featuring gradient cards, numeric badges, and scroll animations. Uses Tailwind utility classes in a responsive bento-grid layout—ideal for landing pages to explain processes, onboarding, or product flows.",
+  "tags": [
+    "section",
+    "steps",
+    "tailwind",
+    "responsive",
+    "animated",
+    "gradient",
+    "landing",
+    "bento-grid"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 23578,
+      "sha256": "66d939e1d8c7e0e6a4586193762a0b793998edc72a1311267b099bf0c1641eba"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9301,
+      "sha256": "b640d5052cefafd930c30a51e7bab35331a659c46a914d874b97fcdfe673c900"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10302,
+      "sha256": "9fb9462a01db4fc4aa0cc38a8253cd1fce84d7bab7fab8cbd3a4d79c9203a25b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

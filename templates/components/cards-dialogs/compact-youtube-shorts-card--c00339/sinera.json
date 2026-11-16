@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00339",
+  "title": "Compact YouTube Shorts Card",
+  "summary": "Minimalist YouTube Shorts embed card with subtle shadow and rounded corners. Great for grid layouts or content feeds featuring short video content.",
+  "tags": [
+    "card",
+    "video",
+    "youtube",
+    "minimal",
+    "responsive",
+    "light"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6592,
+      "sha256": "e0b7a7a22591864d64e1b4cb0c150614eb1e48a3810854aa3967a7d3596c8c66"
+    },
+    {
+      "path": "component.html",
+      "bytes": 481,
+      "sha256": "2f2d968a982b0327c7953bfee533c7420e87e41337b50cb325da70007b4a5293"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1329,
+      "sha256": "f0a887041e49f13c296e508b0b9d88ccd0457d7690201a8dfd076086ba1bcca9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "SN-W00489",
+  "title": "Langfuse LLM Platform Landing Page Template",
+  "summary": "A reusable landing page template for an open-source LLM engineering platform, ideal for showcasing AI observability, evaluations, pricing, and documentation.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Futuristic",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3620,
+      "sha256": "6f9dc14ac700e0a945677ab7543e2928f1133f495777f69c7de06cbb2df94ade"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16424,
+      "sha256": "53011298e698c5777a72fc6b3eb716c4bbd40dcba28e92686fb941dbef0c1056"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 820,
+      "sha256": "53fb89b86174d42645c269d1bbdda915e9289efa98e8a9194b5f878934c12b7d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 45264,
+      "sha256": "e1b715bd6a167ac6d558766a535474e3741fa5de6fbe662e4ec471b4b8832ca8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "hero"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

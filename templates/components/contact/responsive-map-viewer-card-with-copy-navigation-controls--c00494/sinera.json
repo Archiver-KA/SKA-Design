@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00494",
+  "title": "Responsive Map Viewer Card with Copy & Navigation Controls",
+  "summary": "Tailwind-styled card that previews a map or image with header info, copy-reference action and prev/next controls. Includes floating mobile buttons and responsive sizing, ideal for cadastral maps, document previews or small image galleries.",
+  "tags": [
+    "card",
+    "image viewer",
+    "carousel",
+    "navigation",
+    "tailwind",
+    "responsive",
+    "gallery"
+  ],
+  "kind": "components",
+  "category": "contact",
+  "categoryLabel": "Contact & maps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 31778,
+      "sha256": "0d7cf33a2857e27cd345a1b1273cc92bc975c69ecaafbb4225dbb9077c4836e3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3593,
+      "sha256": "53d59a410b4e268b9f2982b9b459878995a6859f4cbb00f6283e5e9f2ef32cae"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4476,
+      "sha256": "47aaa1e9988ab6f797d1e0913e84c068947a7e5c09dc10adbfef0b16a1f8b713"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

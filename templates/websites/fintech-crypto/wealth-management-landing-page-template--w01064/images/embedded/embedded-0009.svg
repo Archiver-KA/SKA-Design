@@ -1,0 +1,12 @@
+<svg class="absolute inset-0 w-full h-full" preserveAspectRatio="none">
+                        <defs>
+                          <linearGradient id="chartGradient" x1="0" y1="0" x2="0" y2="1">
+                            <stop offset="0%" stop-color="#c6f91f" stop-opacity="0.2"></stop>
+                            <stop offset="100%" stop-color="#c6f91f" stop-opacity="0"></stop>
+                          </linearGradient>
+                        </defs>
+                        <path d="M0,80 C40,75 80,90 120,60 C160,30 200,45 240,20 C280,5 300,15 310,5 L310,128 L0,128 Z" fill="url(#chartGradient)" class=""></path>
+                        <path d="M0,80 C40,75 80,90 120,60 C160,30 200,45 240,20 C280,5 300,15 310,5" fill="none" stroke="#c6f91f" stroke-width="2" vector-effect="non-scaling-stroke"></path>
+                        <!-- Dot at end -->
+                        <circle cx="98%" cy="5%" r="3" fill="#c6f91f" stroke="#05080A" stroke-width="2"></circle>
+                      </svg>

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01457",
+  "title": "Quantum Product Hero with Image Carousel",
+  "summary": "Full-screen hero section featuring a fixed navigation bar, animated background image carousel, headline, description, CTA button, dot navigation, and rotating tech spec stats. Styled with Tailwind-like utility classes for futuristic product or SaaS landing pages.",
+  "tags": [
+    "hero",
+    "landing",
+    "carousel",
+    "cta",
+    "stats",
+    "responsive",
+    "interactive",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26018,
+      "sha256": "b1e5fbc19cce72b6f44df969af91973efa07853229a0cff335ab9c2359777962"
+    },
+    {
+      "path": "component.html",
+      "bytes": 21547,
+      "sha256": "097ef3d0eadb86e2537b04b7aad02849cab15e40b1c4b74301f5cf0dda7f9568"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22538,
+      "sha256": "17ae958df36453eb4c40b79e4512905a8bf0d1f2c70b8b5348894727106e109d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

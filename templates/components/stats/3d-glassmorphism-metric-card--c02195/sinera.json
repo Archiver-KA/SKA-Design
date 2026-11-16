@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02195",
+  "title": "3D Glassmorphism Metric Card",
+  "summary": "Animated 3D glassmorphism metric card with floating stat badges. Displays a primary metric and two auxiliary telemetry cards, using pure CSS for perspective, blur, and float animation. Ideal for dashboards, status panels, or analytics UIs.",
+  "tags": [
+    "card",
+    "animated",
+    "glassmorphism",
+    "dashboard",
+    "metrics",
+    "css"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3628,
+      "sha256": "880cb8ddb2cf7522445365268b29e885c38982445b5b1fb651ff23447b0eb81e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3462,
+      "sha256": "a3a9626d910ff2fd06217039f1c24dde4e5a7883ac4499a718a8023408d064d2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4311,
+      "sha256": "1bd42a3fd1ce21c8f69988b20579d3e9d3b86cd978f7ccdb3f46c31ab6b601eb"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

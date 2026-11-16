@@ -1,0 +1,32 @@
+<svg
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1"
+            class="w-full h-full drop-shadow-sm"
+          >
+            <!-- Cube Outline -->
+            <path
+              d="M12 2.5L21 7V16.5L12 21L3 16.5V7L12 2.5Z"
+              stroke="#D4AF37"
+              stroke-linejoin="round"
+            ></path>
+            <path d="M12 21V12" stroke="#D4AF37" stroke-linejoin="round"></path>
+            <path
+              d="M21 7L12 12L3 7"
+              stroke="#D4AF37"
+              stroke-linejoin="round"
+            ></path>
+            <path
+              d="M7.5 4.75L16.5 9.25"
+              stroke="#D4AF37"
+              stroke-opacity="0.3"
+            ></path>
+            <!-- Solid Heart Overlay -->
+            <path
+              fill="#D4AF37"
+              stroke="none"
+              d="M12 19.5C12 19.5 7 16.5 7 13.5C7 12 8.5 11 9.5 11C10.5 11 11.5 11.5 12 12.5C12.5 11.5 13.5 11 14.5 11C15.5 11 17 12 17 13.5C17 16.5 12 19.5 12 19.5Z"
+              class="translate-y-[1px]"
+            ></path>
+          </svg>

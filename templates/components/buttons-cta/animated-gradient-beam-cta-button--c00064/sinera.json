@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00064",
+  "title": "Animated Gradient Beam CTA Button",
+  "summary": "A highly-styled CTA button with animated conic-gradient border, moving dot pattern, hover glow, and icon. Built with Tailwind-style utility classes and custom keyframe animations, ideal for prominent call-to-action areas.",
+  "tags": [
+    "button",
+    "cta",
+    "animated",
+    "interactive",
+    "tailwind",
+    "gradient",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2662,
+      "sha256": "e6dcbe1af8130058a7a61c9c39353d29bae27fa40ba96db4198fbee46d9fc8ac"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2698,
+      "sha256": "65ec0b1da667df4d79c344b299a81e40bdcbb780c3442ba9eee7ae8b704fb3e9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3552,
+      "sha256": "654199bac18703662f96b4076e3c151aaaa8b04cd64989b2655fac43bd805012"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "SN-W01674",
+  "title": "Qivora Tech Agency Landing Page Template",
+  "summary": "A dark, futuristic Qivora Tech agency landing page template for showcasing web engineering services, case studies, pricing, and contact-driven lead capture.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Clean",
+    "Futuristic",
+    "Large Type",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3904,
+      "sha256": "bf49f717ec3f13b0c5bb9fd6d7b0613be0e9afa4d4b4aaf50f83419061723d02"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13928,
+      "sha256": "e4e5bd20abd31f3a19adeeeab1b9173568b4c185839a5b2e1d14946411a74ef6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "25ad5e43c9b1fb8dc3ff371f058b518328c444a87f8ce068b105f3d01d72e6b6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39879,
+      "sha256": "4e6f6094d62ba83c8a0682528828ec6df9c69b0a21d6d845ffd19d530de56376"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "features",
+    "stats",
+    "gallery-portfolio",
+    "testimonials",
+    "pricing",
+    "faq",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

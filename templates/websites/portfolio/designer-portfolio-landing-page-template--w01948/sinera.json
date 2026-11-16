@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01948",
+  "title": "Designer Portfolio Landing Page Template",
+  "summary": "A sleek dark-mode portfolio landing page template for UI/UX designers to showcase services, experience, and contact details with a modern aesthetic.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Services",
+    "Art & Design",
+    "Graphic Design",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3510,
+      "sha256": "091899787b9fbaad1ad610a5c591c95b61033afdc74a9809f7dd4d4efde10763"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18392,
+      "sha256": "e9fc8053bd3650c37a799a907ee4ffcf1a09555c181960ca6de191027f147d9d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 869,
+      "sha256": "bbd9143b2c9ff155afdefb8b5d991c3006c7f40b13eb8862533d82b358989b01"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "1d477c85a7ad0d3a741110a72123c23e8bdb35a659e27798b40c1804211d7d73"
+    },
+    {
+      "path": "index.html",
+      "bytes": 43955,
+      "sha256": "e00b7e90d0f90ff1ac89e4de0fafd3cbedaa88e94dd3cf08e30e9f2118dd4d16"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "timeline",
+    "navbar",
+    "hero",
+    "cta",
+    "services",
+    "case-studies",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

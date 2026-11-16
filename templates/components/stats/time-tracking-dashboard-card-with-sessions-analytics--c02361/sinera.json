@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02361",
+  "title": "Time Tracking Dashboard Card with Sessions & Analytics",
+  "summary": "Glassmorphism widget featuring timer controls, session list, invoice summary and weekly hours chart. Uses Tailwind CSS with subtle animations, badges and responsive grid—ideal for productivity, billing or project management dashboards.",
+  "tags": [
+    "dashboard",
+    "time tracker",
+    "card",
+    "widget",
+    "tailwind",
+    "glassmorphism",
+    "analytics",
+    "billing",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9884,
+      "sha256": "3d31fda4c9d8ea2e201d0d4024f3a9b8d5e4bb3bd579365ee0992ac916147dc8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13831,
+      "sha256": "182e405796dd4db1bf0421067f6bc139bad534b3a5f697cd9a1d6c36db21e275"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14840,
+      "sha256": "b402ddb52fd52704510651e827669e3a5348a3c7e29db3e65d63e8f287d3a891"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

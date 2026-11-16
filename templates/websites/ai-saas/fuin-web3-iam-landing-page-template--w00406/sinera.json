@@ -1,0 +1,73 @@
+{
+  "id": "SN-W00406",
+  "title": "Fuin Web3 IAM Landing Page Template",
+  "summary": "A dark, futuristic landing page template for programmable IAM and Solana-based AI wallet protocols, ready to adapt for any Web3 security product.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Large Type",
+    "Web3",
+    "Solana",
+    "Security"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3834,
+      "sha256": "bca182a44ef88cbe78cf641a911338f1c8961d7c5e0f17d780ad1728ab92bcea"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9154,
+      "sha256": "852e1c82c78e353981cd030753ac4a5578041d9ceae66e9cc1e068bbfc4757a3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 870,
+      "sha256": "3be285f52b1cc0c6e26823aee0562bad627f768f823b207e031f916526bd2d20"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 234,
+      "sha256": "e6f6d1a829740d32bfa30c0f5d9ceb9e6fc0ff6dc47090f687d0c7972b4836eb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26739,
+      "sha256": "65dd95618e11fee4553e6c0675bf2c7a17b23f26f35e2825ea13ad37c096a8ca"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "features",
+    "how-it-works",
+    "code-terminal",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

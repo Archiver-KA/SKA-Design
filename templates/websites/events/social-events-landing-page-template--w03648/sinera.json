@@ -1,0 +1,66 @@
+{
+  "id": "SN-W03648",
+  "title": "Social Events Landing Page Template",
+  "summary": "A reusable landing page template for curated social clubs and event communities to showcase experiences, upcoming gatherings, and drive reservations.",
+  "tags": [
+    "Landing Page",
+    "Social",
+    "Services",
+    "Brand",
+    "Clean",
+    "Colorful",
+    "Minimal",
+    "Community",
+    "Events"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3651,
+      "sha256": "bf92b05d6295600f82f01aeb3628349d35cc5d7f156e7c70819897efb833b876"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16362,
+      "sha256": "922d1dcf6b6e524be26426b363667c433b5c4e22760d7a6d6af02b957b11bf24"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 720,
+      "sha256": "fa5b72c352743f8fa4b9a9a7c80fa96f87ae70cbe7d4f9551be3262fdf90cbf2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28032,
+      "sha256": "0d5f89bd83416a23a8aedeeb58bef06cdee3d801dd9d10b70a9df0f150635e1a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "booking",
+    "cta",
+    "team",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

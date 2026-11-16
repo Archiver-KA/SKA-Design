@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00015",
+  "title": "Interactive 3D Team Carousel",
+  "summary": "Tailwind-styled section displaying team member cards in a rotating 3-D carousel with prev/next controls, center card highlight, gradients, and role badges—ideal for About or Team pages.",
+  "tags": [
+    "carousel",
+    "team",
+    "3d",
+    "tailwind",
+    "interactive",
+    "about-section",
+    "javascript"
+  ],
+  "kind": "components",
+  "category": "about",
+  "categoryLabel": "About & team",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21486,
+      "sha256": "d93539a0029753e05ee2cc90083aa0172f7949012f8c870d769e2e73b245bbbf"
+    },
+    {
+      "path": "component.html",
+      "bytes": 17557,
+      "sha256": "0749595c9b45c1aa936f3afe1ed324bcfb310db1cf9c71641a6a90da3ef90a32"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18536,
+      "sha256": "7e8af3d028feea6e28ba6671ad48e7894f9eb4c2420568b5f3fc292774cc7a78"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

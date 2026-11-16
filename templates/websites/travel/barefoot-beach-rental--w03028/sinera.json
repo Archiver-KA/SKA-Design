@@ -1,0 +1,71 @@
+{
+  "id": "SN-W03028",
+  "title": "Barefoot beach rental",
+  "summary": "A premium hospitality template designed for Florida vacation rentals featuring integrated booking links, interactive local guides, and Airbnb reviews.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Grid",
+    "Dark"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3683,
+      "sha256": "727df43c3af28d74663f051a6f3d0d2be457b6717e4140ee4305ad097a02c2e4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 26550,
+      "sha256": "2981064de10e7f8a6e210a6f6c4ccda3f4711c2437c0095e610ed2824357ebd7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 853,
+      "sha256": "4c79bd3016d18b391348eec2f18e064f38c7d1aa41b5b084e2489e2d30015f54"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 282,
+      "sha256": "a1da2d8c7b6a6f337e4069d96159bf95641350eeb18ee8d5f6837528d71fe9ad"
+    },
+    {
+      "path": "index.html",
+      "bytes": 78598,
+      "sha256": "19f01ef1ae500afb842b9a93c7ca63575a5f5d00ff1ef18fa280732b6c649bd3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "listings",
+    "map-location",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01892",
+  "title": "Image Display",
+  "summary": "A simple image component with a broken src attribute. Corrected version displays an SVG logo from Supabase storage. Use for displaying images in your layout.",
+  "tags": [
+    "card",
+    "image",
+    "logo",
+    "display",
+    "simple"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4566,
+      "sha256": "5b29b467909139e4fe20b3b0d6087b10b727bf465f1ea0666894f55d5c140cc7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 501,
+      "sha256": "a19b356fcdaa9fd4b7fb38c4d672847c082b1e279e8313ebf6019dcb966fbf7e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1335,
+      "sha256": "31d06d2523b8e5409f71257c819f4dd86fd73ed18e4272aa400f35f5e3ae7b52"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

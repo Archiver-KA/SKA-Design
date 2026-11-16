@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01033",
+  "title": "Gradient Dark Sign-In Button",
+  "summary": "Interactive sign-in button with dark neutral gradient, hover opacity change, focus ring, and deep shadow. Built with Tailwind utility classes; ideal for authentication forms or prominent call-to-action areas.",
+  "tags": [
+    "button",
+    "tailwind",
+    "gradient",
+    "shadow",
+    "interactive",
+    "cta",
+    "auth"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1446,
+      "sha256": "069dcecad82e5961c316597cca8d488dee16ac43252c7e174c983730bfc6ad97"
+    },
+    {
+      "path": "component.html",
+      "bytes": 658,
+      "sha256": "42360c728a0cb4c5d0e167d0faab297d736b1951b10f6f80a0c2b8a67ecef5fe"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1507,
+      "sha256": "4bb76f31bc76c8c81061c8f4644645e782454cd6aaf70d1330db3379072114c9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

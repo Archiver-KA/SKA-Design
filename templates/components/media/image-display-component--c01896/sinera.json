@@ -1,0 +1,40 @@
+{
+  "id": "SN-C01896",
+  "title": "Image Display Component",
+  "summary": "A simple, responsive image component for displaying product or content images. Automatically scales and maintains aspect ratio across all devices.",
+  "tags": [
+    "card",
+    "image",
+    "responsive",
+    "product"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 23438,
+      "sha256": "0c85d1c0efc6edf547e23b960cd06d31e6298c8351e3c49269d93a326f185069"
+    },
+    {
+      "path": "component.html",
+      "bytes": 216,
+      "sha256": "20a2b88562205f115e1e9d3143597d2933bb7278618bb3c1658cbcfd25892123"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1060,
+      "sha256": "3d09effe213694d18c312b551a7c84f5bbd4269b38dfbd1afc41d4d367208ce2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

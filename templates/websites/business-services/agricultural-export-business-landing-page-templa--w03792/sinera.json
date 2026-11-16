@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03792",
+  "title": "Agricultural Export Business Landing Page Template",
+  "summary": "A modern Sai Agrium-inspired landing page template for agricultural exporters to showcase products, build trust, and capture quote requests.",
+  "tags": [
+    "Landing Page",
+    "Business",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Services",
+    "Technology",
+    "Large Type",
+    "Gradient",
+    "Agriculture"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3765,
+      "sha256": "5e0a1910a65c512e8de2c2044e26642f317c480ab875d67c1faaa62ae213c952"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16210,
+      "sha256": "c8d4806952d397c95bb1687741159b9eb657187057e43cec95f57929610ad1a8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 745,
+      "sha256": "e0ed6cda10f382a08821bdaef33d194153f92d3ef8a61b2ebba20082615813ca"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38937,
+      "sha256": "bcfb78c2d7539b3a5d1ee73d0d2cb4fea3f421488adfa730b6219cec5d52ec8d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "about",
+    "features",
+    "product-grid",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

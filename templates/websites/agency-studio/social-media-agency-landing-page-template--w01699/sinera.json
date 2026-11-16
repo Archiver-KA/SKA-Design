@@ -1,0 +1,76 @@
+{
+  "id": "SN-W01699",
+  "title": "Social Media Agency Landing Page Template",
+  "summary": "A modern Social Grow-inspired landing page template for social media and creative agencies to showcase services, results, and lead-generating calls-to-action.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Portfolio",
+    "Social Media"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3706,
+      "sha256": "c7815b730264d1e79fa788da475b5dd253b42796c7e006de437883ff1d1734a4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20102,
+      "sha256": "8b91d6beb8dbc9397fbddee30b010c84cf81e4c7f567b9327c8934b3475da19b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 879,
+      "sha256": "927d2515a16bcd83f9c56a2211da6ac0e839c99aaca3b3e2b68f79b57b2452c2"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 307,
+      "sha256": "b165bc9e57ce539376e9f3c7e8fb01fc2b903db2e1e64351e6ffd5cdb61ae612"
+    },
+    {
+      "path": "index.html",
+      "bytes": 63798,
+      "sha256": "4ac713cd26b6d3dc66de8c30922f8771f63e73cfeb3895162a8771516850df71"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "logo-cloud",
+    "services",
+    "stats",
+    "testimonials",
+    "features",
+    "team",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

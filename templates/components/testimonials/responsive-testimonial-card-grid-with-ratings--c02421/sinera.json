@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02421",
+  "title": "Responsive Testimonial Card Grid with Ratings",
+  "summary": "Tailwind-styled section showing customer testimonials in a 2-column responsive grid. Each card features avatar, name, role, five-star rating and quote with hover ring effect—ideal for landing pages and product sites.",
+  "tags": [
+    "testimonial",
+    "card",
+    "grid",
+    "tailwind",
+    "responsive",
+    "rating",
+    "avatar",
+    "landing page"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15826,
+      "sha256": "5c6563448207cce8f3cfc0c8ec2e7a7ce0d7924ecd3881668d1b40d9fad0d640"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8943,
+      "sha256": "7857772af2beb6b42a6cf103167aa70231fa0a197e096f1a3b5b084184975df8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9939,
+      "sha256": "1979de1768f9c57dd6cdcfe2b88ddaa34bef6b32af87b608e00f7d1e2ebb40a2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

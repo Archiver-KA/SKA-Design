@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00052",
+  "title": "Animated Conic Gradient CTA Button",
+  "summary": "A centered call-to-action button with a rotating conic-gradient border, subtle shimmer overlay, and hover lift effect. Built with Tailwind utility classes plus custom CSS animations, ideal for landing pages, signup prompts, and promotional UI.",
+  "tags": [
+    "button",
+    "tailwind",
+    "animated",
+    "gradient",
+    "cta",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2198,
+      "sha256": "6237179bc6e18a9946c1f5d3a8ab1724a95bfff9d7b7c7ec8174c7db5b2b5307"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2442,
+      "sha256": "486e9a551f0f44fe6d7d32ccae6ef062ac5fd10e4d7d73a38cf1c16be3bcca57"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3297,
+      "sha256": "99c1a784141184e2c0b6b7ca81cacd0c1fca3dfcb183f08d5a3df70876e65b30"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

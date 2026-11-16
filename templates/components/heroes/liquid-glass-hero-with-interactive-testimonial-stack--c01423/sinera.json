@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01423",
+  "title": "Liquid Glass Hero with Interactive Testimonial Stack",
+  "summary": "A full-width hero header featuring navigation, glassmorphism CTAs, feature chips, mini metrics, and an interactive stacked testimonial card grid. Built with Tailwind-style utility classes, ideal for modern product or SaaS landing pages.",
+  "tags": [
+    "hero",
+    "section",
+    "responsive",
+    "interactive",
+    "tailwind",
+    "glassmorphism",
+    "testimonial"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20514,
+      "sha256": "b2133da3d7989fb3e2e434c52d1827cf78c0cd41da658a714e133e6b919ab93a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 70747,
+      "sha256": "993b8c574daa03a63d88de3460321fb4cf2b89eac8653ff65b0a19faf5564be8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 71620,
+      "sha256": "63853452efed1eac606eaed62bcc3787af1f0d3347899c372ca6ae6287a684a1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

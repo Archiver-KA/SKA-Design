@@ -1,0 +1,73 @@
+{
+  "id": "SN-W03376",
+  "title": "Real Estate Rental Platform Template",
+  "summary": "A modern real estate rental platform template for listing properties, managing bookings, and matching roommates with AI assistance and dashboards.",
+  "tags": [
+    "Landing Page",
+    "Real Estate",
+    "Services",
+    "Technology",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Brand",
+    "Dashboard",
+    "AI Assistant"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3823,
+      "sha256": "f380aaab359aaf67779ae6516372dba6408d4d3166640b53b4cca234c7dd730b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10154,
+      "sha256": "59bd73cbc887ea7d367ade8e91a27fe4a79870d954e822f130179e4646a8f9c0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 809,
+      "sha256": "9f89b1b5de338dae862dc79fbc31408d59bbe9b1a61480f64aee065f7d8808a8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 61616,
+      "sha256": "b654dc58adde6054195ae81b47cd1d123b4911a438e56891279b51478d599012"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "listings",
+    "stats",
+    "map-location",
+    "auth-form",
+    "dashboard-preview",
+    "booking",
+    "cta"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

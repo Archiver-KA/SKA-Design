@@ -1,0 +1,16 @@
+<svg class="absolute inset-0 -top-12 h-[1000px] w-full pointer-events-none hidden md:block overflow-visible z-0" preserveAspectRatio="none" viewBox="0 0 1000 800">
+            <path d="M 125,280 C 125,550 480,500 500,680" fill="none" stroke="rgba(153,246,219,0.1)" stroke-width="1"></path>
+            <path d="M 375,280 C 375,550 490,500 500,680" fill="none" stroke="rgba(153,246,219,0.1)" stroke-width="1"></path>
+            <path d="M 625,280 C 625,550 510,500 500,680" fill="none" stroke="rgba(153,246,219,0.1)" stroke-width="1"></path>
+            <path d="M 875,280 C 875,550 520,500 500,680" fill="none" stroke="rgba(153,246,219,0.1)" stroke-width="1"></path>
+
+            <path class="animate-flow-custom" stroke-dasharray="200, 400" stroke-dashoffset="0" d="M 125,280 C 125,550 480,500 500,680" fill="none" stroke="#1b9df3" stroke-width="2" style="animation-duration: 8s; opacity: 0.4;"></path>
+            <path class="animate-flow-custom" stroke-dasharray="200, 400" stroke-dashoffset="-200" d="M 375,280 C 375,550 490,500 500,680" fill="none" stroke="#1b9df3" stroke-width="2" style="animation-duration: 10s; opacity: 0.4;"></path>
+            <path class="animate-flow-custom" stroke-dasharray="200, 400" stroke-dashoffset="-100" d="M 625,280 C 625,550 510,500 500,680" fill="none" stroke="#1b9df3" stroke-width="2" style="animation-duration: 9s; opacity: 0.4;"></path>
+            <path class="animate-flow-custom" stroke-dasharray="200, 400" stroke-dashoffset="-300" d="M 875,280 C 875,550 520,500 500,680" fill="none" stroke="#1b9df3" stroke-width="2" style="animation-duration: 11s; opacity: 0.4;"></path>
+
+            <path class="animate-flow-custom" stroke-dasharray="20, 600" stroke-dashoffset="0" d="M 125,280 C 125,550 480,500 500,680" fill="none" stroke="#99f6db" stroke-width="3" style="animation-duration: 4s; opacity: 1; stroke-linecap: round;"></path>
+            <path class="animate-flow-custom" stroke-dasharray="20, 600" stroke-dashoffset="-200" d="M 375,280 C 375,550 490,500 500,680" fill="none" stroke="#99f6db" stroke-width="3" style="animation-duration: 5s; opacity: 1; stroke-linecap: round;"></path>
+            <path class="animate-flow-custom" stroke-dasharray="20, 600" stroke-dashoffset="-100" d="M 625,280 C 625,550 510,500 500,680" fill="none" stroke="#99f6db" stroke-width="3" style="animation-duration: 4.5s; opacity: 1; stroke-linecap: round;"></path>
+            <path class="animate-flow-custom" stroke-dasharray="20, 600" stroke-dashoffset="-300" d="M 875,280 C 875,550 520,500 500,680" fill="none" stroke="#99f6db" stroke-width="3" style="animation-duration: 6s; opacity: 1; stroke-linecap: round;"></path>
+          </svg>

@@ -1,0 +1,77 @@
+{
+  "id": "SN-W02131",
+  "title": "Multimedia Studio Portfolio Landing Page Template",
+  "summary": "A clean, cinematic portfolio landing page template for multimedia studios and visual artists to showcase photography, video, and motion work with impact.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Photography",
+    "Video",
+    "Minimal",
+    "Clean",
+    "Large Type",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3346,
+      "sha256": "b30945e648fa3233453a6789e9c40beb31dc144edf99f33c7541bb8e0bf914f6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20492,
+      "sha256": "9895639c56632bfa13b4b1f87dc3d574c53023679212b408f6f6f3b5cd24a44e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1376,
+      "sha256": "c72ce8deac9f18e0acfbd73fa1573b8236aabe84279aa2d86d535f5566c497cb"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 315,
+      "sha256": "117904a1b9da06651d73e6b5fef7ce76575471a246b187e38bfc8451f8e043fd"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 283,
+      "sha256": "7c9cc842ebae13d38f7552dc9640d0efc666dd9bfac5666bc4adda9b3e68c40c"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 274,
+      "sha256": "9609c5fc44e234dcd862c8ca244b3cf763381502a253795af2e417f1c25278f4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34709,
+      "sha256": "e60c8b877174b68e8b1e8fbb6fcd1060cef9bee54971b918030380cf6af41322"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "gallery-portfolio",
+    "hero",
+    "contact-form"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

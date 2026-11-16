@@ -1,0 +1,69 @@
+{
+  "id": "SN-W02720",
+  "title": "Beauty Salon ",
+  "summary": "A reusable beauty salon landing page template for showcasing services, reviews, gallery and contact details, optimized for local appointment bookings.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Beauty Salon",
+    "Local Business",
+    "Makeup",
+    "Hair Stylist"
+  ],
+  "kind": "websites",
+  "category": "beauty-fashion",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3776,
+      "sha256": "a6edcb2b2b4b36f5077477f3422478a6ae87877318022438d3120f98d0c07aea"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14686,
+      "sha256": "fb77f822e6b62b617bdcbbb98252ffd7f1d8389581399c42a773181c0ab15c02"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 791,
+      "sha256": "f1faf0fcf3dc19e62c080da4e0a8e7f69c3761586757d97237dde89eada3da3d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32227,
+      "sha256": "647db0562b94d32e87cab87b7d134f7c1ab8b90730aa6d8cfc676f2828129942"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "beauty",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Beauty / Fashion",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "about",
+    "gallery-portfolio",
+    "testimonials",
+    "newsletter",
+    "timeline",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

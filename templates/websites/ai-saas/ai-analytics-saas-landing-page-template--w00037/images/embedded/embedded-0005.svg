@@ -1,0 +1,12 @@
+<svg class="absolute inset-0 w-full h-full" preserveAspectRatio="none">
+                                    <defs>
+                                        <linearGradient id="chartGradient" x1="0" y1="0" x2="0" y2="1">
+                                            <stop offset="0%" stop-color="#c6f91f" stop-opacity="0.2"></stop>
+                                            <stop offset="100%" stop-color="#c6f91f" stop-opacity="0"></stop>
+                                        </linearGradient>
+                                    </defs>
+                                    <path d="M0 100 Q 40 90 80 85 T 160 70 T 240 90 T 320 50 T 400 60 T 480 30 T 560 40 L 560 160 L 0 160 Z" fill="url(#chartGradient)" stroke="none" class=""></path>
+                                    <path d="M0 100 Q 40 90 80 85 T 160 70 T 240 90 T 320 50 T 400 60 T 480 30 T 560 40" fill="none" stroke="#c6f91f" stroke-width="2" stroke-linecap="round" class=""></path>
+                                    <!-- Hover Point -->
+                                    <circle cx="480" cy="30" r="4" fill="#05080A" stroke="#c6f91f" stroke-width="2" class="animate-pulse"></circle>
+                                </svg>

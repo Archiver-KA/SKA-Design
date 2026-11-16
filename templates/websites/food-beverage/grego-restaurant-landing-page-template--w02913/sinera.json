@@ -1,0 +1,75 @@
+{
+  "id": "SN-W02913",
+  "title": "Grego Restaurant Landing Page Template",
+  "summary": "A sophisticated and atmospheric restaurant landing page template designed for authentic Greek and Mediterranean cuisine businesses.",
+  "tags": [
+    "Food",
+    "Landing Page",
+    "Services",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3764,
+      "sha256": "27a16eb5e22803abd195710b12c3d9685987b76a704962e6e64845eb3f148af8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 26046,
+      "sha256": "c3eeb3783021166793ccdc54b0635ed843712594b23a2c19f6ddbe4ef7911163"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1154,
+      "sha256": "a7bd7ce733e29ace8f68a7cc4ac7a78ccb9520ec1d7a37574da87e0d87cb1a58"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 204,
+      "sha256": "6bcd0154ed3e358af97f629bb881d24ff1fe7541a0047ee7e45e6bab461d55c9"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 442,
+      "sha256": "23de645c8f886394beed2d6107940ee7c86e65e0edd5324feafc7c9eef040cdd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 53382,
+      "sha256": "de187f9bfe644e2799c123cf380ff38a61031b2422189922e9929ccafc136c27"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

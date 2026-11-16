@@ -1,0 +1,64 @@
+{
+  "id": "SN-W03512",
+  "title": "Music Academy Landing Page Template",
+  "summary": "A reusable landing page template for music schools and instrument academies to showcase programs, inspire enrollment, and capture student applications.",
+  "tags": [
+    "Landing Page",
+    "Education",
+    "Services",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Music School",
+    "Enrollment Form",
+    "Instrument Classes"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3582,
+      "sha256": "565cd9547c793046098b8e677be3a93ac8325974e88b3473c8b3f0b9c0761962"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8790,
+      "sha256": "d47fa9941f5469ed3a4d6477720b94f525a50b321d1587cd780f926b75aa85ac"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "ceb2869e2d5989f038c0c4f6cc4ac2707756d15dec5638d8dd7712032e723c86"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19791,
+      "sha256": "584998fa1a7a6a3677c91b16fefde01f90fb36b02005a3c0999e669f59db3e22"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "timeline",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

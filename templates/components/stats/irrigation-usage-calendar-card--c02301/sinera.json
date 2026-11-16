@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02301",
+  "title": "Irrigation Usage Calendar Card",
+  "summary": "Tailwind-styled dashboard card showing 4-week irrigation history in a 7-column calendar grid, with colored day circles, legend, and action button—ideal for tracking watered vs skipped days in IoT or garden apps.",
+  "tags": [
+    "card",
+    "calendar",
+    "heatmap",
+    "tailwind",
+    "dashboard",
+    "usage-history",
+    "status-indicators",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8612,
+      "sha256": "1dfc3eb385538e4e457725bc3e6c7b07b80eac7bc130842e31ed3080b0c12112"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8745,
+      "sha256": "2854cf665b55b57972e24b89bb1758be35cf25471414551ee7bca5a6e73f35d5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9596,
+      "sha256": "06e380d99689f59763cb271b620b474e845429797757638ca2519b842bcc5e67"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

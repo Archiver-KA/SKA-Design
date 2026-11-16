@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01122",
+  "title": "Gradient Underline Tab Navigation",
+  "summary": "Interactive tab bar featuring icons, TailwindCSS styling, and an animated gradient underline that moves on click. Ideal for dashboards or feature switchers requiring visually rich navigation.",
+  "tags": [
+    "tab",
+    "navigation",
+    "tailwind",
+    "interactive",
+    "gradient",
+    "underline",
+    "icon",
+    "dashboard"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4968,
+      "sha256": "8eb033923771f36397fcde45431011d7093f082765cd1808fc870fa5edaecfed"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6574,
+      "sha256": "30b5e889f89403236a9f6954bb9a1ff17cafff3229ffa5075f87665434cf78fc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7558,
+      "sha256": "c9f6f97284337f69cdbadf5e767e483308c16d7185cfaf61388b6c574a651be8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "SN-W00769",
+  "title": "TechCode Analytics SaaS Landing Page Template",
+  "summary": "A modern TechCode analytics SaaS landing page template for showcasing data dashboards, features, testimonials, and blog content to convert visitors.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "SaaS",
+    "Analytics",
+    "Dashboard"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3539,
+      "sha256": "a379c34edd47db6aeac65612f33bab9d8235478fa767773e8f26164789293aef"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15296,
+      "sha256": "9fee84974f58180c52e3cb1f48f5a61ae9147112c5eadc66fe070aa3fd011fc0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 822,
+      "sha256": "5b0b31f1529de56ec37436282aec5c672125ea8e9c40f1e56ccce2dc509cb575"
+    },
+    {
+      "path": "index.html",
+      "bytes": 49567,
+      "sha256": "1e9d5355bf5f70a243b917bf590ff4ce537fbe89911c9d25c72abb1fb5614efc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "testimonials",
+    "dashboard-preview",
+    "cta",
+    "integrations",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

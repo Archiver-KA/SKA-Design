@@ -1,0 +1,65 @@
+{
+  "id": "SN-W00202",
+  "title": "All Device Repairing",
+  "summary": "A reusable landing page template for local computer and laptop repair services, featuring service grids, contact details, enquiry form, and map integration.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3607,
+      "sha256": "73d42c9e50f7c80ee8bba16b8934791ba6980a1619101bc787f3b41db20fc4cc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 23094,
+      "sha256": "d0c3d22b959a91b17171a2891f19a465cb3233932617eb234932d6db7026a041"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 714,
+      "sha256": "9ea79cadef739fb58183acb185106bb016ed15e9758ccbd2fe9fb750090f6411"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28075,
+      "sha256": "86724c32f771e28c0004e29af4932d35862ab7d89b6477dc2f946ef9b656123c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "logo-cloud",
+    "navbar",
+    "hero",
+    "team",
+    "services",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

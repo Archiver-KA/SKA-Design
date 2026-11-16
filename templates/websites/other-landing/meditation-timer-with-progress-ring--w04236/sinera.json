@@ -1,0 +1,64 @@
+{
+  "id": "SN-W04236",
+  "title": "Meditation Timer with Progress Ring",
+  "summary": "Responsive UI showing a breathing timer with animated circle and progress bar using Tailwind CSS and SVG.",
+  "tags": [
+    "Meditation",
+    "SVG",
+    "Animation",
+    "Tailwind CSS",
+    "UI Design",
+    "Responsive",
+    "Web"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2672,
+      "sha256": "f09549cb4bf54d6ab699c0998bb3206a88c3ac9959f5d998f46c3f3576e5a185"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5348,
+      "sha256": "79f23074d2944593322cab925c0a1b88604165145969c0badcda95e961764d53"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 872,
+      "sha256": "5091135b899ca1694d4703c64f110d277abfc5a036e249f82474f5610105c61d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 727,
+      "sha256": "0f8a669fb4e86642668630677e4f229b06b16be884c36dfd6db920be91a39b76"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5370,
+      "sha256": "3831b0c3795d6af6b7a0c52aa308c236f0e918712e079c437c9100fd53ba8005"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

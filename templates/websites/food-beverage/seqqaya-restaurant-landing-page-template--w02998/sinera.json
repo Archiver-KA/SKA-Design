@@ -1,0 +1,69 @@
+{
+  "id": "SN-W02998",
+  "title": "Seqqaya Restaurant Landing Page Template",
+  "summary": "A modern restaurant landing page template for showcasing menus, reviews, and location details for cafes, bistros, and pizzerias.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Business",
+    "Brand",
+    "Clean",
+    "Colorful",
+    "Large Type",
+    "Gradient",
+    "Restaurant",
+    "Menu"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3683,
+      "sha256": "438488044eedc09998d573e5b30956a9092e679b4b6abc9c3c82bc1084bcd70d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11618,
+      "sha256": "475e7321bb4ca0b79c9b6580d0e0dea6e0b9727bbdbb158724d8236b7f81a247"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 820,
+      "sha256": "d1d05b7a02c2bcfefa2393059a1ef8fd6d6fcff9fdcb7ba03f57db9d472c0464"
+    },
+    {
+      "path": "index.html",
+      "bytes": 52437,
+      "sha256": "00c7bc1cb95680bc09470092c652d5550b7b040858acb805c07d2b7efdf63e9c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "menu-list",
+    "testimonials",
+    "booking",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

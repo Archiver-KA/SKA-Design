@@ -1,0 +1,70 @@
+{
+  "id": "SN-W02266",
+  "title": "UI/UX Portfolio Template",
+  "summary": "A sleek portfolio template for UI/UX designers and Framer freelancers to showcase projects, services, pricing, testimonials, and contact details.",
+  "tags": [
+    "Portfolio",
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Futuristic",
+    "Framer",
+    "UI/UX"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3793,
+      "sha256": "d596f15ff992e5b61962681050af264de7723463e64c3dcc73b020d2410c17bc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 28902,
+      "sha256": "4cbfc7c6b2a03e907ee8b0576e9bdb1b20c2c96969355bd1c685a4a006f4ae4d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 712,
+      "sha256": "551d2fc4f17d35669c1bb1ec52df9408d37c7755d1d92e006126376314bd982f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40692,
+      "sha256": "84283893f2ae5b2a8ac6489e5a7d4b81fb9b756e55d0740bdcbf8ad679b8243d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "services",
+    "bento-grid",
+    "about",
+    "testimonials",
+    "pricing",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

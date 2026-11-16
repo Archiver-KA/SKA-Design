@@ -1,0 +1,84 @@
+{
+  "id": "SN-W03530",
+  "title": "Sapling Education Landing Page Template",
+  "summary": "A high-performance landing page template designed for AI-powered education startups, featuring an interactive knowledge graph and adaptive learning tools.",
+  "tags": [
+    "Education",
+    "Technology",
+    "Landing Page",
+    "Clean",
+    "3D",
+    "Animated",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3909,
+      "sha256": "0b25b69591cf0979d297519ac0cfe0a22c847a4fcc1d48d68da1f4c85a7f75a3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22964,
+      "sha256": "94a977307c683510dd609b00abc0421cabbc7ecf37c96527556e4f720280660d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1264,
+      "sha256": "fb5456a63824aee18ce620602f17c953a5fc21464ca6e1917a21c91e1e346364"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 245,
+      "sha256": "c9dafd6d9ed6697b87bdeed0f493e7467633243ff46acfa16a94848da7cf84af"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 193,
+      "sha256": "d7ac431a1bae40db6e56b302dc553b1202291873ee4d47f127e5a90af73e3061"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 687,
+      "sha256": "3a9c27f15d2968902b6d9959bca5c9ac92c55c6f9041cd4d5a5824d68bbc23d4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 54204,
+      "sha256": "9c25b9ae23c2e1fd38485ce06d0d0d1e30f8be373311ff6e201a61eee082c022"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "gallery-portfolio",
+    "stats",
+    "cta",
+    "footer",
+    "modal-overlay",
+    "services"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

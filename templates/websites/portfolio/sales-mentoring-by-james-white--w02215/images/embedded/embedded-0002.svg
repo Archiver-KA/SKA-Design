@@ -1,0 +1,35 @@
+<svg class="absolute top-0 right-0 bottom-0 left-0 w-[364px] h-[422px]" viewBox="0 0 500 260" preserveAspectRatio="none" stroke-width="2" style="width: 364px; height: 422px; color: rgb(212, 212, 212);">
+                <!-- Grid lines -->
+                <g stroke="#ffffff" stroke-width="0.5" opacity="0.05" class="">
+                  <path d="M0 40 H500"></path>
+                  <path d="M0 80 H500"></path>
+                  <path d="M0 120 H500"></path>
+                  <path d="M0 160 H500"></path>
+                  <path d="M0 200 H500"></path>
+                  <path d="M60 0 V260"></path>
+                  <path d="M150 0 V260"></path>
+                  <path d="M240 0 V260"></path>
+                  <path d="M330 0 V260"></path>
+                  <path d="M420 0 V260"></path>
+                </g>
+
+                <!-- Low curve (Unpredictable) -->
+                <path d="M0,210 C80,195 130,220 190,185 C250,210 300,230 360,210 C420,240 460,220 500,230" fill="none" stroke="#555" stroke-width="2" stroke-dasharray="4 4" opacity="0.4"></path>
+
+                <!-- Fill area (Growth) -->
+                <path d="M0,180 
+           C80,165 150,130 220,125 
+           C290,120 340,90 390,70 
+           C440,50 470,30 500,20 
+           L500,260 L0,260 Z" fill="#B11226" fill-opacity="0.15" class="animate-chart-fill"></path>
+
+                <!-- Main curve (Structured Engine) -->
+                <path d="M0,180 
+           C80,165 150,130 220,125 
+           C290,120 340,90 390,70 
+           C440,50 470,30 500,20" fill="none" stroke="#B11226" stroke-width="3" class="animate-draw-line"></path>
+
+                <!-- Data points -->
+                <circle cx="220" cy="125" r="5" fill="#ffffff" class="animate-pulse animate-chart-fill"></circle>
+                <circle cx="390" cy="70" r="5" fill="#ffffff" class="animate-chart-fill"></circle>
+              </svg>

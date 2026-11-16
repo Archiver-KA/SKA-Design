@@ -1,0 +1,70 @@
+{
+  "id": "SN-W02838",
+  "title": "Larkspur Cafe Experience Template",
+  "summary": "A refined, minimalist restaurant and cafe landing page template designed for high-end hospitality brands and specialty coffee shops.",
+  "tags": [
+    "Food",
+    "Services",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Portfolio",
+    "Style"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3669,
+      "sha256": "56ddff2c9aaf422dcee9303e7203d78de8c84033e8f0dc9e15ab564a435ce6f7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 74879,
+      "sha256": "fbcf623037c58454778d400a9fd1e7e5ea5c10eb975cc359f9fda485399a5b31"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 813,
+      "sha256": "052a92116f478e51f9174f9b1822f0bbba04265ed4b35ef2aba35d1cdbddd22f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30394,
+      "sha256": "4cc8e55685f68d857bcf19c2576ca4bb62d76a30358b35d065749906378fdc95"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "listings",
+    "product-grid",
+    "menu-list",
+    "cta",
+    "gallery-portfolio",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

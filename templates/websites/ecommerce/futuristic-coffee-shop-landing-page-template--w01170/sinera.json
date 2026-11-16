@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01170",
+  "title": "Futuristic Coffee Shop Landing Page Template",
+  "summary": "A reusable landing page template for coffee shops and cafes, featuring a cyberpunk menu, product highlights, and bold ordering CTAs.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "E-commerce",
+    "Futuristic",
+    "Dark",
+    "Animated",
+    "Gradient",
+    "Technology",
+    "Menu"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3453,
+      "sha256": "e427ce8dc69c51045f33be7c99211068f5d87835e7858c773398c837029d9eef"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6700,
+      "sha256": "0e6acb346dabb9125c27d416bab62814eea7b69fcf23dd463886c2cc9a13c1a5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 958,
+      "sha256": "65b5c16a5d9af4a786b29bbee16ae6ef86fc0419b89961e1ee7b729ce319082f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1366,
+      "sha256": "3a8c0e2231bf40c2b6557e4acc4b0ade963e9efc48532d6fa1aae4f2803db699"
+    },
+    {
+      "path": "index.html",
+      "bytes": 51385,
+      "sha256": "e78f66f9b04c78b56bb6ca919c156cff71675dafe1dcd16da8a4e0216e13969a"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "menu-list",
+    "features",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

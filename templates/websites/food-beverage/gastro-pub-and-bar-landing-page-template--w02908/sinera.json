@@ -1,0 +1,63 @@
+{
+  "id": "SN-W02908",
+  "title": "Gastro Pub & Bar Landing Page Template",
+  "summary": "A sophisticated and warm hospitality template designed for local pubs, craft bars, and restaurants looking to showcase menus and events.",
+  "tags": [
+    "Services",
+    "Food",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3411,
+      "sha256": "c1df442227aa97e0dd3045ae88d5d9fa3374e0bc9432e771197da22ecbc3915a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9468,
+      "sha256": "740d34374153d148ab4755b122db81447acebaef01f5ef17c566e3bdc0fe7355"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "b0b8cbd3817e8168da8c0885b2a92608e7bac86de0a32574c8fdad52b49becc9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29722,
+      "sha256": "a6b99162f50538af861088aab4b34866c57f25c6422b26c38b8027126ea69436"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "cta",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01447",
+  "title": "Portfolio Hero Section with CTA & Image",
+  "summary": "Responsive hero header for personal portfolio featuring big name headline, bio, dual call-to-action buttons, info badges and grayscale portrait with overlay stats. Built with Tailwind CSS grid; suited for developer/designer landing pages.",
+  "tags": [
+    "hero",
+    "portfolio",
+    "tailwind",
+    "responsive",
+    "cta",
+    "image",
+    "grid",
+    "personal-branding"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 37046,
+      "sha256": "a74b3fab78c759b2330b733f607727bfb7cece14ec9740736c16c921aa5b48ea"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7104,
+      "sha256": "b6753f6da08c2a97ba55276dd6d9837e6deb091ee89bb4c81e4d66623e04a270"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8098,
+      "sha256": "7540cb62935a4837701f2e00fd73f593b1b5e25106e8eb6673d19f2de39a21f2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

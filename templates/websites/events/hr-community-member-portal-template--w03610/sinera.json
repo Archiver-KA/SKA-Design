@@ -1,0 +1,61 @@
+{
+  "id": "SN-W03610",
+  "title": "HR Community Member Portal Template",
+  "summary": "A professional HR community portal template featuring dashboard layouts, member code of conduct flows, and notification wireframes for senior leadership networks.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Professional",
+    "Clean",
+    "Minimal",
+    "Dashboard",
+    "Services",
+    "Style"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3293,
+      "sha256": "188305b64164f7196b3bafa001793ab8e32be1216a57820c1c4c607b482ef90c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14286,
+      "sha256": "662a1917a4e1c5ccdb63911284dc1f567e968074628ddbcc79890afa340db09d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 720,
+      "sha256": "c5eb96621ce2d49a61abfc9163af8e626add0e90e43f35bda03821b1f3818c16"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25887,
+      "sha256": "bf823c8a8411fc73135bd08c744b28121e03bcd33504628d6b4bcafb22628afd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "announcement-bar",
+    "code-terminal"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

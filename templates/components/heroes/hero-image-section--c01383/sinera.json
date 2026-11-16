@@ -1,0 +1,40 @@
+{
+  "id": "SN-C01383",
+  "title": "Hero Image Section",
+  "summary": "A full-width hero image section with overlay capabilities, perfect for landing pages, product showcases, or feature highlights with dramatic visual impact.",
+  "tags": [
+    "hero",
+    "fullwidth",
+    "gradient",
+    "overlay"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9496,
+      "sha256": "eca14e4e33767eecb6f64a175a6d76a9301144da1e54d3696bdcae55f6605411"
+    },
+    {
+      "path": "component.html",
+      "bytes": 321,
+      "sha256": "69eec9f7dbde992348f779f70d851d9f9ecb86b292b81ae5f5e34060f4f2d3f9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1160,
+      "sha256": "cb8a3285385e0073dd17ec56a3a9e618ea71c16021783fac97fbe075a87e33c2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "SN-W03187",
+  "title": "Architecture and Interior Design Landing Page Template",
+  "summary": "Architecture and interior studio page built on ruled grid lines with giant serif headline, numbered project index, services, 4-step process and a brief form.",
+  "tags": [
+    "Landing Page",
+    "Real Estate",
+    "Art & Design",
+    "Interior Design",
+    "Portfolio",
+    "Clean",
+    "Minimal",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2769,
+      "sha256": "ed5457ab96e65bb2a8a6789f4b1ff17340149a59b03da0216a10487cc25e7ca3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16062,
+      "sha256": "53fc96a284940b7a3632f7c82149dca1d323d2b4bbe0d69e6ee69820237ff3b9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 826,
+      "sha256": "7e8a2cc23265e7e86e9c51365e86e230727cf87e2d977ab832fb5eaa19d207e5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19167,
+      "sha256": "9eeffe91652c884868a335fd9515deb995fad68accbdf204c306bcc9558eb952"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "rebuilt",
+    "issues": [],
+    "rendered": true
+  },
+  "language": "es",
+  "designSystem": "sinera-atlas@1.0.0",
+  "design": "DESIGN.md"
+}

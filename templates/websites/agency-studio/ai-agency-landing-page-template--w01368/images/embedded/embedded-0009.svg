@@ -1,0 +1,16 @@
+<svg class="w-[914px] h-[398px] absolute top-0 right-0 bottom-0 left-0" viewBox="0 0 400 400" stroke-width="2" data-icon-replaced="true" style="width: 914px; height: 398px; color: rgb(245, 245, 245)">
+                         <!-- Chaotic Lines -->
+                        <path d="M50 350 C 100 200, 50 100, 150 50" fill="none" stroke="#333" stroke-width="1" class="opacity-30"></path>
+                        <path d="M80 380 C 120 250, 40 150, 120 80" fill="none" stroke="#333" stroke-width="1" class="opacity-30"></path>
+                        
+                        <!-- Organized Line (Beam) -->
+                        <path d="M50 350 C 200 350, 200 50, 350 50" fill="none" stroke="#333" stroke-width="2" class=""></path>
+                        <!-- Orange beam for order -->
+                        <path d="M50 350 C 200 350, 200 50, 350 50" fill="none" stroke="#FF4F00" stroke-width="2" class="beam-line animate-beam"></path>
+                        
+                        <!-- Nodes -->
+                         <!-- Start node Accent (chaos) -->
+                        <circle cx="50" cy="350" r="4" fill="#FF8800" class="animate-pulse"></circle>
+                         <!-- End node Primary (order) -->
+                        <circle cx="350" cy="50" r="4" fill="#FF4F00" class="animate-pulse"></circle>
+                    </svg>

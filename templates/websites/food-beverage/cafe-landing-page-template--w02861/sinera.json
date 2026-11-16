@@ -1,0 +1,70 @@
+{
+  "id": "SN-W02861",
+  "title": "Cafe Landing Page Template",
+  "summary": "A reusable cafe landing page template for coffee shops and roasteries to showcase menus, ambiance, testimonials, and table reservations.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Services",
+    "Dark",
+    "Elegant",
+    "Minimal",
+    "Restaurant",
+    "Cafe",
+    "Reservation",
+    "Menu"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3862,
+      "sha256": "15b9c7ca78f0d06237ebb38710cf6e1ecb49bd4ece79e9590a5c4d41f854fcb6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22012,
+      "sha256": "82f7dc5b4a6af675bcf8f5fecd5f0fd577f145537ceab77678ae5f8917962a33"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "371075d237fe221c4330bb0ccd2c6d8cf6dd8dc761e8193f1fc2dad4ac19d23d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 49815,
+      "sha256": "450d9f45debcc1ccd6160d5646daab8bdc222db0ca46032e3cd9135c12b3a040"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "team",
+    "menu-list",
+    "gallery-portfolio",
+    "features",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

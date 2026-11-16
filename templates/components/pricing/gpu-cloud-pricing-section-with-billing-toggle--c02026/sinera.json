@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02026",
+  "title": "GPU Cloud Pricing Section with Billing Toggle",
+  "summary": "Full-width pricing section for GPU/cloud clusters with monthly/annual billing toggle, two tiered pricing cards, hover elevation effects, and Tailwind-based dark styling. Ideal for infrastructure, SaaS, and developer tools landing pages.",
+  "tags": [
+    "pricing",
+    "section",
+    "interactive",
+    "responsive",
+    "tailwind",
+    "dark",
+    "toggle"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20604,
+      "sha256": "10486fe2692d40f9f3ead4615b67c96c8a070b3daeb1ac12e0bda3991879dcd1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13495,
+      "sha256": "c7a31df0c54aacb6699987a1eb0c3ac7866e598ff8d12e5222558a3ca013ee4c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14581,
+      "sha256": "ba33f3b2fd7975645ebcf280b807e3c279f15b46c38b4dc6ac4d24591c1a360a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

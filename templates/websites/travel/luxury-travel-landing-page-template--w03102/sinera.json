@@ -1,0 +1,74 @@
+{
+  "id": "SN-W03102",
+  "title": "Luxury Travel Landing Page Template",
+  "summary": "A premium travel booking template for luxury stays, private flights, and curated journeys with elegant search, collections, and member-style CTAs.",
+  "tags": [
+    "Travel",
+    "Landing Page",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Luxury",
+    "Booking",
+    "Hospitality"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3583,
+      "sha256": "019e822e8ad3c9237bf7e42c3c5e51c0c58b7eada7ed1489ceba03554d92b681"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14230,
+      "sha256": "0925cb01616c5043fdad02013994d78c0ca7c7fe88071fe5145aad3d02949c17"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 950,
+      "sha256": "d681c8e89baeb5bd0be050bd9b6e85d3791faafeaffbf096ffcdf67b4593d815"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "6d7f47cc04d290ef4abac372150068099aee31617cc15da366306e3307a84d33"
+    },
+    {
+      "path": "index.html",
+      "bytes": 50216,
+      "sha256": "649bec31b1d8a226a4567fc895428e2aff50c770b14eb18183952293d6948259"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "product-grid",
+    "booking",
+    "timeline",
+    "pricing",
+    "listings",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

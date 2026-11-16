@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00595",
+  "title": "Unicorn Studio Gradient Background Container",
+  "summary": "Full-viewport gradient container embedding a Unicorn Studio project as an animated background layer. Uses absolute positioned divs with data-us-project and a lazy-loaded UnicornStudio script for interactive or visual background effects.",
+  "tags": [
+    "background",
+    "animated",
+    "interactive",
+    "embed",
+    "unicorn",
+    "visual",
+    "layout"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9026,
+      "sha256": "6eaa807669a38cfe0a699449bbaba628805610c26a1d14f932bee0c85bb66db4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 734,
+      "sha256": "b9d9716fbc57ca88292416ccd27a6862159d8250f621425391b1e6d73bd91f87"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1605,
+      "sha256": "9cf1b5807676a9e3d42048384075d3740be7de33611776c18262a669ebe6f798"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

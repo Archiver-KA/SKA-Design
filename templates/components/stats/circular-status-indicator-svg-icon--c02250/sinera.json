@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02250",
+  "title": "Circular Status Indicator SVG Icon",
+  "summary": "Responsive SVG icon showing a stroked circle with a small filled dot, suitable for presence or notification indicators; sized via Tailwind utility classes.",
+  "tags": [
+    "icon",
+    "svg",
+    "tailwind",
+    "responsive",
+    "status",
+    "indicator",
+    "circle",
+    "logo"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1322,
+      "sha256": "de56111bcc20a1aca5436c804528176e3ed96e384cf6d758dcea426f791e8199"
+    },
+    {
+      "path": "component.html",
+      "bytes": 310,
+      "sha256": "0ad74ba626d41de8033a264ed8bcf4b9262114fcb2e62c0f239ccb8a7ffb7c75"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1165,
+      "sha256": "0db30d6cad79aa1d9026ef170477c3c122721741e928af9bb371cfdc8df05040"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

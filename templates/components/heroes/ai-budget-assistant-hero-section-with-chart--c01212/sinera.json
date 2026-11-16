@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01212",
+  "title": "AI Budget Assistant Hero Section with Chart",
+  "summary": "Responsive fintech hero/feature section showcasing an AI budget assistant. Split layout: marketing copy and CTA on left, animated dashboard card with Chart.js line graph on right. Tailwind-styled gradients, connectors, and scroll animations enhance engagement.",
+  "tags": [
+    "hero section",
+    "feature",
+    "tailwind",
+    "chart.js",
+    "fintech",
+    "landing",
+    "animated",
+    "responsive",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22664,
+      "sha256": "9e623aad20a37f7fd76ad55e081c2a8a02f96042a62d8bedc1caf89f42975ecb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10297,
+      "sha256": "ee717ebe738618fb2cc5ff8a93c39ac835d72ccc49587851c9c03026c63fd750"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11161,
+      "sha256": "d6293376576607f47c9466706e0657c123c1b81302d3252671b3734dcf118fdb"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

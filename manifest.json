@@ -1,0 +1,215 @@
+{
+  "name": "Sinera Website Template",
+  "builtAt": "2026-10-12T10:27:36.165Z",
+  "scope": "Filtered templates only: Commerce, Service, Logistics",
+  "collections": {
+    "service": 3781,
+    "logistics": 176,
+    "commerce": 321
+  },
+  "collectionCategories": {
+    "service/software": 787,
+    "logistics/industry": 110,
+    "logistics/automotive": 12,
+    "logistics/supply-chain": 18,
+    "logistics/shipping": 26,
+    "logistics/transport": 10,
+    "service/finance": 212,
+    "commerce/ecommerce": 269,
+    "service/agency": 381,
+    "service/portfolio": 551,
+    "service/healthcare": 256,
+    "service/fitness": 126,
+    "service/beauty": 80,
+    "commerce/retail": 52,
+    "service/food": 161,
+    "service/travel": 146,
+    "service/real-estate": 216,
+    "service/education": 172,
+    "service/events": 99,
+    "service/entertainment": 87,
+    "service/content": 31,
+    "service/business-service": 275,
+    "service/general": 201
+  },
+  "entries": 4278,
+  "files": 42197,
+  "bytes": 337354006,
+  "assets": {
+    "banner": "Each template keeps its banner.webp (validated banner capture).",
+    "embeddedImages": "Each available inline image is copied to its template images/embedded/ folder.",
+    "metadata": "Each template keeps sinera.json and embedded-images.md."
+  },
+  "excluded": [
+    "backups",
+    "maintenance logs",
+    "unfiltered source library",
+    "App UI",
+    "Visuals"
+  ],
+  "catalog": "catalog.json",
+  "qualityAudit": {
+    "date": "2026-11-13",
+    "rendered": 4200,
+    "status": {
+      "ok": 3528,
+      "fixed": 582,
+      "react-project": 100,
+      "needs-review": 44,
+      "rebuilt": 24
+    },
+    "report": "audit/QUALITY-AUDIT.md",
+    "data": "audit/quality-audit.json"
+  },
+  "designSystem": {
+    "name": "Sinera Atlas",
+    "version": "1.0.0",
+    "path": "design-system/",
+    "themes": {
+      "workshop": 1118,
+      "route": 451,
+      "circuit": 1230,
+      "market": 270,
+      "dwell": 654,
+      "calm": 555
+    }
+  },
+  "componentIndex": "components.json",
+  "removed": {
+    "date": "2026-11-16",
+    "count": 65,
+    "list": "audit/removed-templates.json"
+  },
+  "categoryFolders": [
+    "agency-studio",
+    "ai-saas",
+    "beauty-fashion",
+    "business-services",
+    "ecommerce",
+    "education",
+    "entertainment",
+    "events",
+    "fintech-crypto",
+    "food-beverage",
+    "healthcare",
+    "news-blog",
+    "other-landing",
+    "portfolio",
+    "real-estate",
+    "sports-fitness",
+    "travel"
+  ],
+  "componentLibrary": {
+    "path": "templates/components",
+    "count": 2417,
+    "files": 9386,
+    "bytes": 81632734,
+    "idPrefix": "SN-C",
+    "layout": {
+      "entry": "index.html: a standalone document; opens styled on its own",
+      "snippet": "component.html: the bare fragment to copy, present where index.html is a wrapper around it",
+      "wrapped": 2135,
+      "alreadyComplete": 282
+    },
+    "categories": {
+      "about": {
+        "label": "About & team",
+        "count": 41
+      },
+      "buttons-cta": {
+        "label": "Buttons & calls to action",
+        "count": 253
+      },
+      "cards-dialogs": {
+        "label": "Cards, dialogs & notifications",
+        "count": 172
+      },
+      "contact": {
+        "label": "Contact & maps",
+        "count": 24
+      },
+      "effects": {
+        "label": "Effects, backgrounds & 3D",
+        "count": 104
+      },
+      "faq": {
+        "label": "FAQ & accordions",
+        "count": 30
+      },
+      "features": {
+        "label": "Features & services",
+        "count": 285
+      },
+      "footers": {
+        "label": "Footers",
+        "count": 64
+      },
+      "forms": {
+        "label": "Forms & sign-in",
+        "count": 95
+      },
+      "headers-navigation": {
+        "label": "Headers & navigation",
+        "count": 116
+      },
+      "heroes": {
+        "label": "Heroes & top banners",
+        "count": 306
+      },
+      "layouts": {
+        "label": "Layouts & combined sections",
+        "count": 103
+      },
+      "logos-icons": {
+        "label": "Logos, icons & badges",
+        "count": 179
+      },
+      "media": {
+        "label": "Images, galleries & media",
+        "count": 179
+      },
+      "pricing": {
+        "label": "Pricing & plans",
+        "count": 111
+      },
+      "process": {
+        "label": "Process, timelines & roadmaps",
+        "count": 45
+      },
+      "products": {
+        "label": "Products & checkout",
+        "count": 39
+      },
+      "stats": {
+        "label": "Stats, charts & dashboards",
+        "count": 186
+      },
+      "testimonials": {
+        "label": "Testimonials & customers",
+        "count": 60
+      },
+      "typography": {
+        "label": "Text & typography",
+        "count": 14
+      },
+      "uncategorized": {
+        "label": "Other",
+        "count": 11
+      }
+    },
+    "banners": {
+      "captured": 2383,
+      "placeholder": 34,
+      "list": "audit/component-banners.json"
+    },
+    "note": "Counted separately: entries, files and bytes above describe the website templates only. catalog.json lists the websites first, then the components.",
+    "removed": {
+      "date": "2026-11-16",
+      "count": 78,
+      "duplicates": 30,
+      "notDisplaying": 22,
+      "onRequest": 26,
+      "list": "audit/removed-components.json"
+    }
+  }
+}

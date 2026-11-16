@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01378",
+  "title": "Hero Heading with Domain Input Call-to-Action",
+  "summary": "Centered hero content block featuring an animated badge, bold gradient heading, supporting subtitle, and interactive domain input with validation message and CTA button. Styled with Tailwind-like utility classes for landing pages.",
+  "tags": [
+    "hero",
+    "section",
+    "cta",
+    "interactive",
+    "responsive",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19182,
+      "sha256": "030a5147fde018e3f266ad4a84c36a71b57f99cd44ab205b9b818dc90d968611"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3437,
+      "sha256": "59e6082723fadcabd19099b43789b5dab88a813aee0d30af8a0f6ba2e05e8a06"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4303,
+      "sha256": "a16cf30cad95cade6efce8c88471089a34bc0997fa25381109ff571e7fd0cfcc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

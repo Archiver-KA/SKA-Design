@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01919",
+  "title": "Interactive Hover Image Card with Arrow Icon",
+  "summary": "Clickable card featuring cover image, gradient overlay, central icon, lift and image zoom/blur on hover. Built with Tailwind CSS for article, blog or portfolio previews.",
+  "tags": [
+    "card",
+    "image",
+    "link",
+    "tailwind",
+    "hover",
+    "interactive",
+    "responsive",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 29244,
+      "sha256": "caf90eec97f967cff0f2ae6185bdf05be9f7a2a149b2b45aa5b413c5437be962"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1837,
+      "sha256": "5799ebab260542d010aab3595ac21245f7cafae67f4ae9f54116aa61880c371a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2702,
+      "sha256": "a754048564ea0dbe12d90f5da5e28d94607ae5920bda51b8c25d7c36facc4ed7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

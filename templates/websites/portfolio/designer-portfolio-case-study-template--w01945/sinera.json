@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01945",
+  "title": "Designer Portfolio Case Study Template",
+  "summary": "A clean, minimal portfolio case study template for designers to showcase selected work, project details, and measurable results.",
+  "tags": [
+    "Portfolio",
+    "Art & Design",
+    "Graphic Design",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Landing Page",
+    "Technology",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3377,
+      "sha256": "e579f76664f584840e9cb8429e88deead926c084ae3b6ae05b6e838a9e63badc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14482,
+      "sha256": "f17addb77693448dad3c7b39a4d880dfc99e52745dbbb952614adbf369cb9ef2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "a2eb1ce0eb18bf16cc3a0e1da2f2eb58d8a9a51a2daca038cc4a4d665921f19f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14924,
+      "sha256": "fb58f9a1e9301f7100ae4d575b4c4783ffc983b2b12196bc9de4137726b30a7a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "features",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

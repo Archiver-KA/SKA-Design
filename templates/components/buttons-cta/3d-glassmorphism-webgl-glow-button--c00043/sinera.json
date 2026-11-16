@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00043",
+  "title": "3D Glassmorphism WebGL Glow Button",
+  "summary": "Interactive pill-shaped CTA button with WebGL2 animated glow, glassmorphism shell, volumetric under-glow, and play icon. Uses Tailwind-style utility classes and pointer-based interaction for premium media or demo call-to-action use cases.",
+  "tags": [
+    "button",
+    "cta",
+    "interactive",
+    "animated",
+    "webgl",
+    "glassmorphism",
+    "tailwind",
+    "glass"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5572,
+      "sha256": "3c742db85e7c441f5a28d3f5c9f56e3d3d191040c80c5a9af1a23d60d052162a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4563,
+      "sha256": "cf2bee335b4f8060b363b8c6baffdfd2c859524e0d854cf902827b37d1e11efe"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5548,
+      "sha256": "edfb73120f9d991b2e8e3b094b20ffc950dc01c03eb01c30814d5dfc42589998"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

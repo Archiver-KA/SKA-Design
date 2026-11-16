@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01756",
+  "title": "SVG File Icon Placeholder",
+  "summary": "A simple placeholder component indicating an SVG file path. This appears to be a file reference rather than actual HTML content to componentize.",
+  "tags": [
+    "card",
+    "placeholder",
+    "icon",
+    "file",
+    "minimal"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2118,
+      "sha256": "39e64772785a64413ef35508684681db63d7dd80d4626d161823d1b0c7b12401"
+    },
+    {
+      "path": "component.html",
+      "bytes": 594,
+      "sha256": "623e9dd0c654e5fa4eb5a027de9069406739c10c89bc24c290fcd1d0352d979b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1440,
+      "sha256": "e603f63e9f3aaa7a7df90d2987d3bfe93d87d10b2caeedf51b19257459af5d8d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

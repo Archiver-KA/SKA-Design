@@ -1,0 +1,63 @@
+{
+  "id": "SN-W00611",
+  "title": "OneLine SaaS Infrastructure Landing Page Template",
+  "summary": "A high-performance dark-themed landing page template for developers, featuring unified SDK integration, real-time database, and edge computing sections.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Futuristic",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3886,
+      "sha256": "597e15b797cd3b214676008076f64030ca686e9a8124137670589eb60dbe479e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14562,
+      "sha256": "042bbf2437b1e59d00c77399c23d02270ac6e9b5e70d52f423bcf7b5268d7466"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 743,
+      "sha256": "61b8b95cc0f21302d105a4b69826cb7fb2e45f3208088aa95e5374259858cc8a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25735,
+      "sha256": "e6073efa457898a368cc0e861a67a4fb9510ff9b288a221e3fed1901b72dd432"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "bento-grid",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

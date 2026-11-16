@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00806",
+  "title": "Interactive Topology Feature Section",
+  "summary": "A full-width Tailwind CSS feature section visualizing system modules as an animated network map. Includes hover-activated SVG connection lines, glowing hub effects, glassmorphism cards, and a responsive mobile grid for product or platform overviews.",
+  "tags": [
+    "feature",
+    "section",
+    "tailwind",
+    "interactive",
+    "animated",
+    "responsive",
+    "glassmorphism",
+    "network"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9152,
+      "sha256": "e0c6a03acbcb2145322cc0398cfa63038622848054fe8fc29b17a4222dd656c4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 17685,
+      "sha256": "12631ee480c7dfbbc0ba272a40eabfa4a9b3932937f2f9b12794e088278a0b6d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18542,
+      "sha256": "371d72ea8883741cbb90b08ba572cf21d2b41c93be6403ae7e94ff7e412c8362"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

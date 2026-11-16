@@ -1,0 +1,76 @@
+{
+  "id": "SN-W03131",
+  "title": "Spiritual Retreat Landing Page Template",
+  "summary": "A reusable landing page template for promoting a 45-day spiritual transformation or retreat program with phases, guide bio, and registration form.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Health",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Spiritual",
+    "Retreat",
+    "Registration"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2468,
+      "sha256": "b00ade42602199ce6f055827c19cbac73431fdf038cc0cb700ee60bc8c4a7a20"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21008,
+      "sha256": "0935a98427443e7705c3783fb357a2636eebb2cfc73b990ff63f2259ea2c8c5b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 871,
+      "sha256": "d7aeeee2a1256f00e413ab3647359c48543ead06659d3a8ab5538ef8a0bfbb9e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 234,
+      "sha256": "648d891f18163fa456d03836c8a03d7e7aa2534964e387dc89b11d57a7132bf5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 55996,
+      "sha256": "6d4e0f430568f0698b65a686a1f024dd43deb2e0884730828c0103c0033349c5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "menu-list",
+    "hero",
+    "features",
+    "team",
+    "timeline",
+    "services",
+    "cta",
+    "auth-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

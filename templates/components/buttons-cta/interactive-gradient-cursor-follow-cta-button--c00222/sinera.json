@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00222",
+  "title": "Interactive Gradient Cursor-Follow CTA Button",
+  "summary": "Pill-shaped download button with radial gradient overlays that track cursor, glowing hover shadow, and embedded icon. Built with plain CSS/Tailwind utility classes, ideal for prominent call-to-action sections.",
+  "tags": [
+    "button",
+    "cta",
+    "hover",
+    "gradient",
+    "cursor-follow",
+    "animated",
+    "interactive",
+    "css"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2654,
+      "sha256": "23c5f5c3b53184a2e160337a5f26e64366c0a380bcc3ca74c36a969b9cbafdd2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1925,
+      "sha256": "0e27377437619091a1fd19ad7393381514360d25d080a0c07e1faf31b9168e08"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2791,
+      "sha256": "ede896192dbf9da9449b926cc6e53bbdd1ebf7e738b6c691d81c65450c03614d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

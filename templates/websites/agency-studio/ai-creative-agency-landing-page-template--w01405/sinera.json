@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01405",
+  "title": "AI Creative Agency Landing Page Template",
+  "summary": "A bold, French-language landing page template for AI and automation agencies to showcase services, case studies, and client logos with immersive interactions.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Technology",
+    "Gradient",
+    "Dark",
+    "Large Type",
+    "Minimal",
+    "Portfolio",
+    "Animated",
+    "Futuristic"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3741,
+      "sha256": "f8201eed7914e6a805f4a2758bc0a11c451dfdaf5d755545c4279dde9c077044"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20008,
+      "sha256": "2a7aaad74a58ffab85341c108218f1027ad7ffe45e34b8a1216c86b398f30c3c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 877,
+      "sha256": "fa119de9181f3fd5cdad1c9cbf71087cef6ddf157d9c7d2aa6e39dbfc70ef0b3"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 220,
+      "sha256": "8f0eb3c7789367f0bbc2ee855a7acb837f295063f488c4a9471c953079aed90e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 46482,
+      "sha256": "69d8b82ac6b73c054595f24c2948b405d094e56b76d2d6aaec64173001f3ccf5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "features",
+    "marquee",
+    "gallery-portfolio",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

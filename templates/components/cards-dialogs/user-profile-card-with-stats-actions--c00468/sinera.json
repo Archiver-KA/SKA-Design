@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00468",
+  "title": "User Profile Card with Stats & Actions",
+  "summary": "Tailwind CSS card showing user avatar, name, handle, follower/following/community counts, and message/more buttons. Gradient background, responsive flex and grid layout—ideal for social dashboards or member lists.",
+  "tags": [
+    "card",
+    "profile",
+    "tailwind",
+    "avatar",
+    "stats",
+    "social",
+    "responsive",
+    "action-buttons"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5466,
+      "sha256": "61afee0e3d841fefc1f494dd9e58f551201a1f60950eac49c5cf313b8ce78224"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3019,
+      "sha256": "5fed6e95ddd6522bcceb62182baa1108d63140e116663a1990d663212986318d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4012,
+      "sha256": "8c5ad67be9124c70cdc09664fa832ea0d121bf72a879029f44c0b04675d97837"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "SN-W03767",
+  "title": "Email Newsletter Layout",
+  "summary": "Responsive email layout with header, featured content, updates, call-to-action, and footer using Tailwind CSS.",
+  "tags": [
+    "Email",
+    "Newsletter",
+    "Tailwind CSS",
+    "Responsive",
+    "Call to Action",
+    "Content Blocks"
+  ],
+  "kind": "websites",
+  "category": "news-blog",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2581,
+      "sha256": "5088f8e647c73fa36b506385936adcbf990bbe8c798930aca83dc3a83ac2ebbd"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9894,
+      "sha256": "26201337d5204a39b774ac9230b456d2668420d247be009a987c7bea0c4c16eb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1250,
+      "sha256": "1a07e0bc9c61af8151b8a3a717b5d9eaa42be231a37bd10dc7f46706ffc37a5a"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 288,
+      "sha256": "f14cced4e3cc0009cc962465eb46380c44f8e8029ab865eb96cfb0f5f5928de3"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 330,
+      "sha256": "97ab1801ff148301130b97448242d855f22521dd1f7e2c050ad241b2f0f62630"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 445,
+      "sha256": "c667483c9e5e289c093fe42b93fbf4ecc531e58a900dcf26d979c490294a55bb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7934,
+      "sha256": "0cea9d3a5b3cc9ddeb36a6a98f0a287812e642dd1a347c3575478f9724059a82"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "content",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Content / News",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "newsletter",
+  "design": "DESIGN.md"
+}

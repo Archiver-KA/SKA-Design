@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01994",
+  "title": "Video Thumbnail Card with Play Overlay",
+  "summary": "Responsive 16:10 media card displaying an image thumbnail with a semi-transparent dark overlay and centered circular play icon. Styled with Tailwind CSS utilities, perfect for video teasers, product previews, or gallery items.",
+  "tags": [
+    "thumbnail",
+    "card",
+    "video",
+    "play-button",
+    "overlay",
+    "tailwind",
+    "responsive",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4070,
+      "sha256": "f756c3c442b58edd70e83e1446bc603ca5f281196d847862e59a15e6afda3ee3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1106,
+      "sha256": "ae6366eb3b80cd7015a0a2f11ccb3e1d19b99919800ed175a907b3797f510a39"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2095,
+      "sha256": "cbacc5087cfb1f4e97a029283576a9362996d82464870b2a1f9cd7d55bc75cb4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

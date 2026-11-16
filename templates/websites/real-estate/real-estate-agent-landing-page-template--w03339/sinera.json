@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03339",
+  "title": "Real Estate Agent Landing Page Template",
+  "summary": "A warm, friend-first real estate landing page template tailored for personal agents to showcase services, process, and local guides with modern, trust-building design.",
+  "tags": [
+    "Landing Page",
+    "Real Estate",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3838,
+      "sha256": "692d04a22c62f7291c8286a59f724b2f62d5503b66238a00de210aa08ae11f86"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 25702,
+      "sha256": "352727db1772b20bf0b1a5e010d79e0825e7496664938bafad0b7efcc1f4ab76"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "923a372723efb210bd9d7bd1a2121025d0b9b877970b0ebf77d0cfd907056108"
+    },
+    {
+      "path": "index.html",
+      "bytes": 48814,
+      "sha256": "6c577cad21abd7247916f3eefb2db2fbc0c5292a1f1277e317a56230f2fcd804"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "stats",
+    "navbar",
+    "hero",
+    "about",
+    "map-location",
+    "listings",
+    "timeline",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

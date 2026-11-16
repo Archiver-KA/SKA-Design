@@ -1,0 +1,16 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none" viewBox="0 0 600 600" fill="none">
+            <defs>
+              <linearGradient id="beam-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="rgba(16, 185, 129, 0)"></stop>
+                <stop offset="50%" stop-color="#10b981"></stop>
+                <stop offset="100%" stop-color="rgba(16, 185, 129, 0)"></stop>
+              </linearGradient>
+            </defs>
+            <path d="M0,100 C150,100 200,200 300,300" stroke="#1f2937" stroke-width="1" fill="none"></path>
+            <path class="beam-path beam-path-delay-1" d="M0,100 C150,100 200,200 300,300" stroke="url(#beam-gradient)" stroke-width="2" fill="none" stroke-linecap="round"></path>
+            <path d="M600,500 C450,500 400,400 300,300" stroke="#1f2937" stroke-width="1" fill="none"></path>
+            <path class="beam-path beam-path-delay-2" d="M600,500 C450,500 400,400 300,300" stroke="url(#beam-gradient)" stroke-width="2" fill="none" stroke-linecap="round"></path>
+            <path d="M600,100 C500,100 400,200 300,300" stroke="#1f2937" stroke-width="1" fill="none"></path>
+            <path class="beam-path beam-path-delay-3" d="M600,100 C500,100 400,200 300,300" stroke="url(#beam-gradient)" stroke-width="2" fill="none" stroke-linecap="round"></path>
+            <path d="M0,500 C100,500 200,400 300,300" stroke="#1f2937" stroke-width="1" fill="none"></path>
+          </svg>

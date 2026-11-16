@@ -1,0 +1,70 @@
+{
+  "id": "SN-W03495",
+  "title": "Linear Course Progress Tracker",
+  "summary": "Displays a linear progress bar with steps, lesson details, statistics, and a continue button using Tailwind CSS and custom styles.",
+  "tags": [
+    "HTML",
+    "Tailwind CSS",
+    "CSS Animation",
+    "Progress Bar",
+    "UI Design"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3133,
+      "sha256": "9ebc23b3cc6e0afa55f2de7ac4a2e8deb6f602b4f0ecfb677d522f6a762c5b50"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8370,
+      "sha256": "1863cf399a33910cfd4ef27e8d9ba6d1a1f736945d0d863ae1b85e4d0f5f5de3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1137,
+      "sha256": "b30ec047ca82bd1d54243923f559d47a799a6cc5efdecf60fd081d7bd2c35b4d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 363,
+      "sha256": "a00a105959b7e03683a4422340c542181ac08a060e439911d2eee182d21c4a86"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 263,
+      "sha256": "e7733423599418949a5e73812781116a79071dc2e77df31e8e1dcfebbdfb585f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4505,
+      "sha256": "e617134cfe76c00615f9e7ec5dcf1df5f8a22a42e7e75bcf698ecfb9bd73c1d0"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "snippet",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

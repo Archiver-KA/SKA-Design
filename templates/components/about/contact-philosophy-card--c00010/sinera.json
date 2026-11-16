@@ -1,0 +1,41 @@
+{
+  "id": "SN-C00010",
+  "title": "Contact & Philosophy Card",
+  "summary": "A comprehensive company info card featuring philosophy section with stats and contact details footer. Great for about/contact sections.",
+  "tags": [
+    "contact-card",
+    "stats",
+    "philosophy",
+    "dark-theme",
+    "contact-info"
+  ],
+  "kind": "components",
+  "category": "about",
+  "categoryLabel": "About & team",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14052,
+      "sha256": "8c8772dd3e85e09c222d9d3c9b426cacde9b84d945af737f338b320d4ecfa328"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3507,
+      "sha256": "2ded0229f3000a83f9cd303e01cafb4d04fab23bd5e6beb43e778fd36439570d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4357,
+      "sha256": "4d1b22f9ece50be22e4c7331d8b4826efe931f8de486e4b13bec044d09b2243d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

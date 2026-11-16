@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00409",
+  "title": "Market Overview Portfolio Card",
+  "summary": "Dark themed portfolio card showing multiple stock positions with real-time data, trend indicators, and performance metrics. Max 400px wide, 600px tall.",
+  "tags": [
+    "card",
+    "portfolio",
+    "markets",
+    "dashboard",
+    "dark-theme",
+    "stocks"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11462,
+      "sha256": "025711417b5fe636d47fc23dabd5aba0c1d71a74af4dc12c613675b4f448e343"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6082,
+      "sha256": "582ff6c7a646c4cd6ebcbf6228f31b2abbf805d10fbd44cc0b20d40733163a20"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6933,
+      "sha256": "49d4a05cd094c52d2380e50d16969b585117b1fe9a23c4631ee70b86d0b5f9ad"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

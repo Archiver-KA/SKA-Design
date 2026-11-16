@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01437",
+  "title": "News Hero Section with Headline, CTA & Feature Image",
+  "summary": "Responsive two-column hero for news sites using Tailwind CSS. Includes bold headline, subheading, primary/secondary CTAs, feature badges, and a highlighted story image with overlay—ideal for landing pages or article hubs.",
+  "tags": [
+    "hero",
+    "news",
+    "landing page",
+    "tailwind",
+    "responsive",
+    "cta",
+    "headline",
+    "banner"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19902,
+      "sha256": "86b3cef193e8547fac9cd1fa52d0ddd9045403107e945eb9f65356d988ee1438"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5983,
+      "sha256": "e6ecfb581ffca768c401adaef2c4de3bc01b0638aa161547cdf5db04b89b0b88"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6990,
+      "sha256": "d6c31d4c5b80cfb9ca90ebede43d4e3f38bff5e58750394025622942ddc0ece2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

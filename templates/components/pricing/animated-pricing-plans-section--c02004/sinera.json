@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02004",
+  "title": "Animated Pricing Plans Section",
+  "summary": "Responsive Tailwind pricing section featuring three tiered cards (Starter, Pro, Enterprise) with gradient styling, scroll-triggered fade animations, feature lists, CTAs, and FAQ link—ideal for SaaS or product landing pages.",
+  "tags": [
+    "pricing",
+    "table",
+    "tailwind",
+    "responsive",
+    "animated",
+    "gradient",
+    "cards",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22838,
+      "sha256": "c81081c6a9aa2756e059be364e9f39acc078802e9cfad0c2f72073ecdc2416d3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12558,
+      "sha256": "2b231bc75e7e1715db32f927051cdc3cad412e9a3dae63f9be93553fddc1f148"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13539,
+      "sha256": "169e75f6a47c5c368d61672686c18539b1684e8ad1f1bcc6f5ee039a63da77f1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

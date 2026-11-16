@@ -1,0 +1,69 @@
+{
+  "id": "SN-W02097",
+  "title": "Luxury Personal Brand Agency Template",
+  "summary": "A reusable luxury agency template for personal branding studios serving founders, authors, and executives with strategy, websites, and content services.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Blog",
+    "Minimal",
+    "Clean",
+    "Editorial",
+    "Personal Branding",
+    "Luxury",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3785,
+      "sha256": "895435fbf18836af6f282d7e24a5d4d7ea7166b971d4a81e279190a31985264a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17928,
+      "sha256": "c8fe9eb7d591fed8c162fdc1614080fa11b3a66797e826ef43914d03d7c5a1b4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "7312acfdf9754a362530564c9b6ab76b6255bafc2fcf7e7ae66f485f10d1d704"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29101,
+      "sha256": "37440a6bd4696fcbd70ef0e8e34fa6cc68fea751715cd97cbb8d75a61cab2a44"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "logo-cloud",
+    "navbar",
+    "hero",
+    "marquee",
+    "features",
+    "how-it-works",
+    "case-studies",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

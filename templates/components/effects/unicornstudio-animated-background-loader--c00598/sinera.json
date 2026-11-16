@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00598",
+  "title": "UnicornStudio Animated Background Loader",
+  "summary": "Embeds a UnicornStudio project as a full-screen, behind-content animated background. Automatically loads and initializes the UnicornStudio JS library with Tailwind positioning utilities. Ideal for hero sections, landing pages, or immersive page backgrounds.",
+  "tags": [
+    "background",
+    "animation",
+    "tailwind",
+    "script-loader",
+    "unicornstudio",
+    "effect",
+    "fullscreen"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12888,
+      "sha256": "29fd5c596669bc36518cc4726e63229d04f8723c2b7580755a4fd7ae3c34486d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 535,
+      "sha256": "9a1339e1e6d12f532692a79f7ae33b23b168b5c8eb90469c66d0451fdfb6d5e7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1396,
+      "sha256": "c572682e0013107b46bc2fb72362bd6b459cb178e5aa8fba75eb4e53ffc9f7b3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

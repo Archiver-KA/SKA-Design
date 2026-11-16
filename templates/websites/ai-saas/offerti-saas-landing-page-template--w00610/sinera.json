@@ -1,0 +1,115 @@
+{
+  "id": "SN-W00610",
+  "title": "Offerti SaaS Landing Page Template",
+  "summary": "A high-converting AI proposal drafting platform template designed specifically for freelancers and agencies to scale their business with intelligent workflows.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Clean",
+    "Animated",
+    "Gradient",
+    "SaaS",
+    "Business"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "react",
+  "entry": "package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3371,
+      "sha256": "207568605bd70015b4b1b34548b6f88a1c24fe946160edade362d43af59d3db8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1038,
+      "sha256": "18e147aeffc7d21c87bbd6273364520f7def6c349ab6bf714ee2f98452ada0ef"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1093,
+      "sha256": "e2f1233719c84fca2432ae610d82a9bcc93560fb4af2823f0c3add620089b924"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 369,
+      "sha256": "b5d35134e65f6afa48afbf5c3f56e26792f21dc93acfce584ce829d570107746"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 2667,
+      "sha256": "57d86f9052b7ffa25dfc234c37d102cd9dcc90ba821ab7056743ca2976eca0c1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6530,
+      "sha256": "1c5e7ed416b219c0c49a95f5c2dde63eeae15bdca30bb91a2303562f038c6f00"
+    },
+    {
+      "path": "package.json",
+      "bytes": 706,
+      "sha256": "f0aa0dc23ebcd7833cd197ee7cf2fc703446720a8363d0739b79f7c143c9e870"
+    },
+    {
+      "path": "postcss.config.js",
+      "bytes": 81,
+      "sha256": "e32657baf631d7c5f4dc67b4b2ee0ec8e7d5b3c41860e09cddce7c0377cd80bc"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 431,
+      "sha256": "5a1e64a40a5c765ba9ffcdccf215b51388f78c93e4b4499adbea8b50ab371609"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 558,
+      "sha256": "3f5e41c92a4f07d777ff3f80f6954c78d1a6c6f7d730bc7eeea2be2ac649f98b"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 348,
+      "sha256": "1d70e91c59af259cbd54754c58bd8633d8652db637ced63d17942dffd9fe536e"
+    },
+    {
+      "path": "src/pages/Dashboard.jsx",
+      "bytes": 18812,
+      "sha256": "01a5ea72e1a3b51e1ca1f5eb08fd4b1162fbea7f51dd3dc609a012eaa9293fd8"
+    },
+    {
+      "path": "src/pages/Landing.jsx",
+      "bytes": 15623,
+      "sha256": "c89021eb7756bca712c2568bd3cc00cb6f801be2179fdcecd436c3d0ddea1682"
+    },
+    {
+      "path": "tailwind.config.js",
+      "bytes": 505,
+      "sha256": "8487e8cfa3e5369b4506493194add278406ec55da5e60ab964355dcd70e63ea6"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 194,
+      "sha256": "eb4457dfc3114da5a387521de213a3a38b6f4645000d634eb1961901e598b9e0"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [
+      "banner-missing-or-tiny"
+    ],
+    "rendered": true
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

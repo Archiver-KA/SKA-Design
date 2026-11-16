@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02218",
+  "title": "Animated AI Assistant Status Card",
+  "summary": "Displays a live AI assistant widget featuring an animated chat bubble, layered pulse backdrop, and a grid of performance stats. Styled with Tailwind CSS and custom keyframe animations; perfect for dashboards, SaaS landing pages, or status panels.",
+  "tags": [
+    "card",
+    "stats",
+    "widget",
+    "tailwind",
+    "animated",
+    "dashboard",
+    "chat",
+    "status"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6998,
+      "sha256": "2aee1e597b2a55b9bcfe7ca98d8ad562b1255c0896046539cb5553d2a7316c4d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5262,
+      "sha256": "e50815ec5bb26586f4a3a24463e32abec17f9831cd232c7f67a7584a967d930d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6116,
+      "sha256": "ff4ed91050bcee6737d9376bc035493b4d5f2323664a5bc8699de199be6d6f1b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

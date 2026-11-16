@@ -1,0 +1,76 @@
+{
+  "id": "SN-W03651",
+  "title": "Strategic Conference Landing Page Template",
+  "summary": "A premium event landing page template for strategic planning summits, built to capture priority-list signups for executive conferences and exclusive events.",
+  "tags": [
+    "Landing Page",
+    "Conference",
+    "Business",
+    "Technology",
+    "Dark",
+    "Gradient",
+    "Clean",
+    "Animated",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3897,
+      "sha256": "db820c241216f2395e5d4ea122b0a7b94401dea4340789d50444007a017c1d14"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 23412,
+      "sha256": "6986d85f279d75dfd13d432e2015344cec2c41e3960da9ef0dfceac8595ee229"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 984,
+      "sha256": "08bc0a8d0730b7081cc85737c096e55217eb3e854de7d188ea8a3ecef8b59dc4"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "2b07fd6bdb9fac52f5f7f1f19b01f6f4bfcd81cd9ca7dd79c7b5e95042ef659a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 55834,
+      "sha256": "33e02994aba5a4e90b66e69f427c9db8173b1cf1201c03c71535dbb5bbda5069"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "stats",
+    "features",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

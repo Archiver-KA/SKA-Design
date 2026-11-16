@@ -1,0 +1,132 @@
+{
+  "id": "SN-W02177",
+  "title": "Portfolio Website with Animated UI",
+  "summary": "Responsive portfolio site featuring animated background blobs, glassmorphism effects, and smooth scroll-triggered UI animations.",
+  "tags": [
+    "Portfolio",
+    "Animated Background",
+    "Glassmorphism",
+    "UI Animations",
+    "Tailwind CSS",
+    "Responsive Design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3434,
+      "sha256": "113bdfe0862aa1071dcbe19b586984c9532cb58dbdc4eb6c65c3f435011bd8f2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9720,
+      "sha256": "8b1715434439d8116e00b1480d36385bfb357ebfc00eee616b00cf2d3f6a65b3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 3515,
+      "sha256": "deca021ca2cf2e94be4b0a478c1df62218f1484d93cd5fe0f135569e18004317"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 312,
+      "sha256": "aa0813193696564f6869b210382e71d660426ac07d8d8ff8f70a41b1e10f9f7f"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 353,
+      "sha256": "ee3c0c9de7b4a5275faf7237a2d2908cffc97a88704c9643256df5e6525df16c"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 353,
+      "sha256": "5dfbfa49e25f3cf62d7b70da6aaf3e6725bfb094f2527d2d44474e6ded8d04a1"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 318,
+      "sha256": "7380f35c461d6ee479d04d32c3ccdcb107d1c8980c476da7bcedb16ce5112b43"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 404,
+      "sha256": "fa2b47843b18b2655a08a309057f494a403a308e6f0adb1e8896ed1e95fed71f"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 396,
+      "sha256": "310cdc3aeb494957e14013318d66a1a843e7c9a93449dc57a12f583b3a45517e"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 403,
+      "sha256": "bf214e80d3e1eb2d93047eaa89a463aa81d6f2e5082bbc14e2d212b0065fe515"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 564,
+      "sha256": "a569222d5e10f8382a1a661972623b116262c2171099239290bbaaad4cb1e129"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 593,
+      "sha256": "2425f842d28b70b04fceffe80331834d648d54e5c823b15e9f312c0e28ad73e6"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 368,
+      "sha256": "d93e2e1fc76128084e281ebf6f64fc804ec33bc3e84ae58130c82439f5e2bc19"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 430,
+      "sha256": "987f911a1b078e8bd432f18d01b6e5a1a90211543f1e3222fff77e12dbd183f3"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 564,
+      "sha256": "2a5d96e552f2b29ef30b19b0d345e6da9bfe15f0eea6a8a7a0825ee9f332bfa7"
+    },
+    {
+      "path": "images/embedded/embedded-0013.svg",
+      "bytes": 444,
+      "sha256": "8163485e6417113e83f8f0c4c2be556a7ef6cfadbd61a36c3d6697aaddb98589"
+    },
+    {
+      "path": "images/embedded/embedded-0014.svg",
+      "bytes": 473,
+      "sha256": "1c8a1d806ae64a856ef7324c93631744bb9ea977f2fc1486f37433e555ca35b2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23489,
+      "sha256": "ec6e88b4915c8456adee888e0e0545fc9b4badbd0b013705b5a53cce389de34f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "case-studies",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01582",
+  "title": "Responsive Portfolio Grid with Hover Cards",
+  "summary": "Tailwind CSS section displaying selected projects in a flexible 3-column grid. Cards include images, gradient overlay, zoom-on-hover, category labels and arrow icon, plus CTA buttons. Ideal for personal or agency portfolios and case-study showcases.",
+  "tags": [
+    "portfolio",
+    "grid",
+    "responsive",
+    "tailwind",
+    "hover",
+    "image-overlay",
+    "section"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 77564,
+      "sha256": "24fe8f13cb056ce0ef8d30de50b5e1ec4a8b945b71ea26a1cf02b43193106045"
+    },
+    {
+      "path": "component.html",
+      "bytes": 14236,
+      "sha256": "87e4871368e768aec8a5023c035695b53278cc7c54e1d00a6a37d2a7e3dbd7cb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15229,
+      "sha256": "ab18bc5e5598cdd62807ebe44159d0b935adf4e17bce16d4770bce32131fad68"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

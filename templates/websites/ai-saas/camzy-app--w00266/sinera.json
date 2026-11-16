@@ -1,0 +1,79 @@
+{
+  "id": "SN-W00266",
+  "title": "Camzy App",
+  "summary": "A modern app landing page template for Camzy-style dual-camera recording apps, showcasing features, how it works, FAQ, and strong App Store download CTAs.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "App",
+    "Mobile"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3616,
+      "sha256": "5a7b355e97a78d55a544d36bbeb4062be7eed7055d293f218b33319e956753e2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21974,
+      "sha256": "39532a51407a81b6139f5e71b92686f53d5ff50427218d9139f7ffebb151a5bf"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1238,
+      "sha256": "c7af45315d7bf487ab871948c81cdc5dfd671da9072c062e338010f73cd30e06"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 512,
+      "sha256": "2160c2591b8bd98cbb512adb1b7eff4706465a32e4a09c670e581556ea8edeea"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 512,
+      "sha256": "8fcabf89949bc2bdb9ea4021d3290051f5aa6d908a5b5e397a53a9fe4b70b575"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 512,
+      "sha256": "3bdb775150e7708a840623d2ff89a860a09c99d5df20de66bd81b4bc8a859331"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22658,
+      "sha256": "e7b489b8d45f6cc1da277c9f5a4fef17cf3df3b3bceb3ac19082c27fcb77fdf7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "gallery-portfolio",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

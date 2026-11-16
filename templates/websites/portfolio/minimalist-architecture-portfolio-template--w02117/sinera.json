@@ -1,0 +1,64 @@
+{
+  "id": "SN-W02117",
+  "title": "Minimalist Architecture Portfolio Template",
+  "summary": "A sophisticated architectural studio template designed for showcasing spatial design projects with a minimalist aesthetic and focus on natural light.",
+  "tags": [
+    "Architecture",
+    "Portfolio",
+    "Minimal",
+    "Black & White",
+    "Clean",
+    "Art & Design",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3340,
+      "sha256": "2c0ada2cbc2f8b3bdb11ee5415ac1837c9a23e2fb3cf54ffad718a073512f354"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10240,
+      "sha256": "f02a7657d41c2e92bf47f1d3280ca44e84d1450679038693631495d8ad6bfcf4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "65cc8e304a25f8cb2ae623e5ea857ce947644fcb4ac9e4519c9152385e02a4cf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21591,
+      "sha256": "3d6a83b4fc6e190381a99bfa3a1ac57512e22b45030722bf336fe212944c9709"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "features",
+    "cta",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

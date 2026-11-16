@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01250",
+  "title": "Animated Hero Headline with Arrow Accent",
+  "summary": "Two-line hero heading with staggered fade-in text, bouncing arrow icon, and responsive Tailwind typography—ideal for creative studio landing pages or section headers.",
+  "tags": [
+    "headline",
+    "animated",
+    "tailwindcss",
+    "typography",
+    "banner",
+    "responsive",
+    "landing page"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8598,
+      "sha256": "2051dd32a6132fa82bbef2b242e01f89c7ab62e2b9196ecd5d6871e304ce6d37"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2033,
+      "sha256": "65d10cf23441886ead57c80bff9c594f5ab2331ff6d59a666a06914bca3e94dc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3024,
+      "sha256": "60cf363d8b810ce42fdb4294a978823fb8d3f7583bf5f2bc81559872033c029e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

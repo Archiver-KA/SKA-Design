@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01865",
+  "title": "Cinematic Video Editor Portfolio Template",
+  "summary": "A high-end, dark-themed portfolio template designed for video editors, motion designers, and cinematic creators to showcase their visual projects and service tiers.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Technology",
+    "Dark",
+    "Clean",
+    "Animated",
+    "Futuristic",
+    "Graphic Design",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3726,
+      "sha256": "f0110721ba739d4c5cced98509ce6e3d12a6108b46c838486af2f10dfa4830fd"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14406,
+      "sha256": "f978ce636c3000022e3a99a78d08815bd884edcfa51561b55bda9b62a229ecf0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "192e3e64641db7a9212642649564bdee6fcd0f20b49c64a1e93310d842d46355"
+    },
+    {
+      "path": "index.html",
+      "bytes": 58701,
+      "sha256": "64df716a35784afe589b62a4683d013cad99fc3d9648a3623e6fba9a32c78ec8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "gallery-portfolio",
+    "pricing",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

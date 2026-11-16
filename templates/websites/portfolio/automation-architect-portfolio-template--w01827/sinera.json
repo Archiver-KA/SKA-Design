@@ -1,0 +1,81 @@
+{
+  "id": "SN-W01827",
+  "title": "Automation Architect Portfolio Template",
+  "summary": "A dark, modern portfolio template for n8n automation architects to showcase agents, tech stack, and engagement models with clear calls to book projects.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Automation",
+    "Developer Portfolio"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3431,
+      "sha256": "3db36e1b6ab2556b365bcbb709ec0762c219f8774e27eb75eadb6c568ef4e305"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11822,
+      "sha256": "439aaadcc0a1100480efc1a3ebeb4b99a42759311f2354171c7766c6fbb1e9db"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1260,
+      "sha256": "3e0cfc757fec22d3f509bfb01022eb7accf3c4f04f864ed64aa01cd420f9e0e8"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 124,
+      "sha256": "e6dc8a30e3f6798082562fbb807fce50ebd774765d7264086815f69e522b27f4"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 291,
+      "sha256": "ec3949b55765b831211e4f7fa996a996e06c1e3c0cc4a61c9e329911bc5a4b0a"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 376,
+      "sha256": "3e2a7c0492fc557e7eae1762a21879e8532430e28d6e5a0d6eabdd192625d7f5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28838,
+      "sha256": "c928ebb4e578585da919ece6bce25955d8bb76fa49a2f172d27f4e81c893e50b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "how-it-works",
+    "integrations",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,13 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Glowing Gradient Call-to-Action Button</title><script src="https://cdn.tailwindcss.com"></script><link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet"><style>body{margin:0;min-height:100vh;display:flex;flex-direction:column;justify-content:center;background:#0a0a0a;color:#fafafa;font-family:Inter,ui-sans-serif,system-ui,sans-serif}</style></head><body><div id="component-root"><button type="submit" class="inline-flex text-[12px] transition-all hover:brightness-110 font-light text-white tracking-tight font-geist h-9 rounded-full px-6 relative items-center justify-center">
+  <!-- Outer glow ring -->
+  <span class="absolute inset-0 rounded-full pointer-events-none bg-gradient-to-r from-orange-400/20 via-amber-300/30 to-orange-400/20 shadow-[0_0_22px_rgba(248,181,129,0.55)] ring-1 ring-amber-300/60"></span>
+
+  <!-- Inner orange pill -->
+  <span class="absolute inset-[3px] rounded-full pointer-events-none bg-gradient-to-b from-orange-400 via-orange-500 to-amber-300 shadow-[0_4px_12px_rgba(0,0,0,0.45)]"></span>
+
+  <!-- Soft bottom glow -->
+  <span class="absolute -bottom-3 left-1/2 -translate-x-1/2 w-[70%] h-4 rounded-full blur-xl pointer-events-none bg-amber-300/35"></span>
+
+  <!-- Label -->
+  <span class="font-medium z-10 relative">Get Started Free</span>
+</button></div><script>try{var r=document.getElementById("component-root");if(r.children.length===1){var d=getComputedStyle(r.children[0]).display;if(d.indexOf("inline")===0)r.style.textAlign="center"}}catch(e){}</script></body></html>

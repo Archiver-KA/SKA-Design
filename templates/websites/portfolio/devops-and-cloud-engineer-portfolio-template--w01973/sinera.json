@@ -1,0 +1,74 @@
+{
+  "id": "SN-W01973",
+  "title": "DevOps & Cloud Engineer Portfolio Template",
+  "summary": "A modern, animated portfolio template for showcasing DevOps, cloud engineering, and AI projects, ready to reuse and customize for your own profile.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3752,
+      "sha256": "e2997b056628175113387c2d14d5c909a92f5ca6d74dca8751842f0834141db9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1664,
+      "sha256": "be5fcfc5ec280a8358db4a1531462c5d791907e9df1a87475abe0808a66edc80"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 875,
+      "sha256": "bce7df74ea7469334b600cd22fa2a9235d149a58df1e30de6b9c168246d11155"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 275,
+      "sha256": "a625913c663dd24a52b601f56b54bd58329ab07a91aa1d864b49ecadc4026e13"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36324,
+      "sha256": "a093dc5c0179528b17369eb18678c9e987dcbe44c8b84ac1213a8372108eb4af"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "cart-checkout",
+    "hero",
+    "marquee",
+    "timeline",
+    "booking",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

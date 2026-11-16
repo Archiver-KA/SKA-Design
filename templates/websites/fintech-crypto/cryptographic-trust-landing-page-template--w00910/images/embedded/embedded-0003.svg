@@ -1,0 +1,16 @@
+<svg width="100%" height="100%" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="200" cy="200" r="150" stroke="url(#paint0_linear)" stroke-width="1" stroke-dasharray="4 4" class="animate-[spin_10s_linear_infinite]"></circle>
+                <circle cx="200" cy="200" r="100" stroke="url(#paint1_linear)" stroke-width="1" class="animate-[spin_15s_linear_infinite_reverse]"></circle>
+                <defs>
+                  <linearGradient id="paint0_linear" x1="0" y1="0" x2="400" y2="400" gradientUnits="userSpaceOnUse">
+                    <stop stop-color="#bef264" stop-opacity="0.5"></stop>
+                    <!-- lime-300 -->
+                    <stop offset="1" stop-color="#22c55e" stop-opacity="0.5"></stop>
+                    <!-- green-500 -->
+                  </linearGradient>
+                  <linearGradient id="paint1_linear" x1="400" y1="0" x2="0" y2="400" gradientUnits="userSpaceOnUse">
+                    <stop stop-color="#22c55e" stop-opacity="0.5"></stop>
+                    <stop offset="1" stop-color="#bef264" stop-opacity="0.5"></stop>
+                  </linearGradient>
+                </defs>
+              </svg>

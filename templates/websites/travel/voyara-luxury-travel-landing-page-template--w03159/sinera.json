@@ -1,0 +1,65 @@
+{
+  "id": "SN-W03159",
+  "title": "Voyara Luxury Travel Landing Page Template",
+  "summary": "A high-end, premium luxury travel agency template designed to showcase curated journeys and exclusive vacation packages with a sophisticated aesthetic.",
+  "tags": [
+    "Travel",
+    "Landing Page",
+    "Services",
+    "Clean",
+    "Dark",
+    "Elegant",
+    "Modern"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3782,
+      "sha256": "d20ef7f8097156c79d6874f0152ab62da12fa896782d5097d91ccb965ee231d4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 27386,
+      "sha256": "7a460210a919071dfe638493a472af2e11cfd108f9ab575d7ea5dd2afeb12977"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "73ab9d8a76075199fa8e2f8e4fe8a26ba25362e41d061156917897f98956fd95"
+    },
+    {
+      "path": "index.html",
+      "bytes": 45185,
+      "sha256": "acf2e647c59053a6c499cb867a6d8aa923d300bc22187abc2bc010e0c7d96b13"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "listings",
+    "pricing",
+    "features",
+    "testimonials",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

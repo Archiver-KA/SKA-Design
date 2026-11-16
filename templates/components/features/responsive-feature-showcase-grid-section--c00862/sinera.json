@@ -1,0 +1,46 @@
+{
+  "id": "SN-C00862",
+  "title": "Responsive Feature Showcase Grid Section",
+  "summary": "Landing-page section with headline and responsive grid of gradient cards featuring hover animations, badges, and blurred backgrounds, built with Tailwind CSS. Ideal for highlighting product features or design-system capabilities.",
+  "tags": [
+    "feature",
+    "grid",
+    "cards",
+    "section",
+    "tailwind",
+    "responsive",
+    "animated",
+    "gradient",
+    "hover",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 25402,
+      "sha256": "861fcac2b88e9f6a88266c62fb77128dd5eac59018e1da61d443dde3a45e77f5"
+    },
+    {
+      "path": "component.html",
+      "bytes": 20382,
+      "sha256": "b8a6229e5038404fcf168d20c59afec563da15e430c9a28ed42b7cc075c81317"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21243,
+      "sha256": "917b3c735c58c1bfeb1b4b6715365ef2ba52664a99c27ec4d41780f3c33e624a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00037",
+  "title": "Team Chat Panel with Sidebar & Message Input",
+  "summary": "Slack-style chat component featuring channel sidebar, real-time messages, file preview, typing indicator, and send bar. Built with Tailwind CSS, fully responsive, suited for team collaboration dashboards or support apps.",
+  "tags": [
+    "chat",
+    "messaging",
+    "tailwind",
+    "responsive",
+    "dashboard",
+    "ui",
+    "collaboration"
+  ],
+  "kind": "components",
+  "category": "about",
+  "categoryLabel": "About & team",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15462,
+      "sha256": "16ee08877880f26b7e97799148c0e84f803fba2a8e5235c0b9a5cc9ce0937444"
+    },
+    {
+      "path": "component.html",
+      "bytes": 15442,
+      "sha256": "3e5f481d8aa28e6b6f7309983765848fa3a1f30643644e69f350ff25b4c4b743"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16441,
+      "sha256": "2c7d1358070b85fc6e6ac2220728288a6a64a538b0559e188e46e620d50b7871"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "SN-C00515",
+  "title": "Animated Glow Background with Unicorn Studio",
+  "summary": "Full-screen animated background component powered by Unicorn Studio. Creates dynamic visual effects as a backdrop for page content. Automatically initializes the Unicorn Studio library.",
+  "tags": [
+    "animated",
+    "fullscreen",
+    "dynamic",
+    "studio"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6690,
+      "sha256": "8dd41e512caea7b2109263e3e46953ee80032fb7d766f4062b11b52225259b52"
+    },
+    {
+      "path": "component.html",
+      "bytes": 706,
+      "sha256": "254e4e833109326bcf38e836bd06881334e140d21f6ed3adacf251c10a5e6e6d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1571,
+      "sha256": "8256cda5ef0f1802c7d5475f7c59a212e1e4fcf9571b526e90935c1a163fa27d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

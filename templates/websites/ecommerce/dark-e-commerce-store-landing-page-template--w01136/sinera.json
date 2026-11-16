@@ -1,0 +1,69 @@
+{
+  "id": "SN-W01136",
+  "title": "Dark E-commerce Store Landing Page Template",
+  "summary": "A sleek dark-mode e-commerce landing page template for showcasing everyday products, collections, and promotions with a modern, conversion-focused layout.",
+  "tags": [
+    "E-commerce",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Gradient",
+    "Grid",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3620,
+      "sha256": "07f567447c52c987699fc9a80e65b7611941e70f00f5b97ae621582996fa6484"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18660,
+      "sha256": "26709e6d155b123482f0f343ee4d538272d8f42f5493cacb5348f2845ee6e3a7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 816,
+      "sha256": "93f08135c2e6d44abe835d8d0277d1c714ca8557fe4cf0cab90d295c3aaff2b5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34624,
+      "sha256": "5975891cb26a341166b14eb69607cfa795395bad14470f4a965d17d48517f24d"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "pricing",
+    "cta",
+    "timeline",
+    "testimonials",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01492",
+  "title": "Scroll-Triggered Video Hero with Text Overlay",
+  "summary": "Interactive hero section with video scrubbing controlled by scroll position. Features animated text overlay that fades in during scroll. Perfect for immersive landing pages.",
+  "tags": [
+    "hero",
+    "video",
+    "animated",
+    "scroll",
+    "interactive",
+    "fullscreen",
+    "modern",
+    "cinematic"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 31174,
+      "sha256": "934e3bb749ecedcde96b96ad0b049f2e80d08826da85e4fdfcce7b5f4e99231c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2502,
+      "sha256": "2a1f6eb36f79e64a4a332c5c6dac8c971d22070683ead6e05e40c03608681178"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3368,
+      "sha256": "73c255c2b56e445abc7a0523443c3d63b2ab0d325c82ed786a152ea38272c63b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02159",
+  "title": "Animated Product Showcase Grid",
+  "summary": "A dark, futuristic product grid section with layered imagery, hover animations, gradient overlays, and detail buttons. Built with Tailwind CSS, it showcases multiple products or features in a responsive split-layout for landing pages or portfolio sites.",
+  "tags": [
+    "feature",
+    "section",
+    "tailwind",
+    "responsive",
+    "animated",
+    "grid",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8626,
+      "sha256": "2abdb2d5b303e5ed7fc1a3e22138ab888f314e73648c20e9c88edde9918b3bec"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7127,
+      "sha256": "73a8ecd20391ae14a50bcb16144d54788242a8e8176f917ca22aea377f2b3086"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8068,
+      "sha256": "dcb6693b2bb00b273075038063bf800e6bb5a14bcacaaa23fc3964b5a40bee33"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

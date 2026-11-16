@@ -1,0 +1,37 @@
+{
+  "id": "SN-C00387",
+  "title": "Holographic Nexus Engine Card",
+  "summary": "A high-performance interactive card featuring WebGL-powered holographic effects, GSAP animations, and 3D tilt functionality. Built with Tailwind CSS and custom fragment shaders for a sci-fi futuristic dashboard feel.",
+  "tags": [
+    "card",
+    "webgl",
+    "gsap",
+    "tailwind",
+    "animated",
+    "interactive",
+    "dark-mode"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5900,
+      "sha256": "d26c5759ba26ece4dfcefa41ffea5056dab41850ad9bb252450a71386e007a01"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7880,
+      "sha256": "f49ca2cceb9cb341eedb6a46438a5f56f455c9c0a16e7bfc6a16cda2e3d6b9d2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

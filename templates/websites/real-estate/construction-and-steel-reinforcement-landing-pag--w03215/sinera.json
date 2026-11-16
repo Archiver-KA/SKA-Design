@@ -1,0 +1,81 @@
+{
+  "id": "SN-W03215",
+  "title": "Construction & Steel Reinforcement Landing Page Template",
+  "summary": "A high-performance construction template designed for reinforcement specialists, structural engineering firms, and general contractors in the building industry.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Dark",
+    "Clean",
+    "Animated",
+    "Futuristic"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3786,
+      "sha256": "476d5c641647a132cdf0a64061a96efa7c0ce32ad17956787f2489e598820200"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20410,
+      "sha256": "ed59e1a0a5c1da2e1635e16e3bdea11ee265c1a8c8fcfffe302cb30ff8be5e77"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1170,
+      "sha256": "68b01ffafec50ab41b322fe771bf2b6299815423a6c4dea4ee9c8ee2a8657a44"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 265,
+      "sha256": "4165222feb9802b3e7f03b29bbe6c7b159a95f15bbccb36e9ab1ab6a81656c5d"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 281,
+      "sha256": "9278a87e7e0b81346bc0c65d9e22923a9673cc0c2ff71aee7d6111a75058bba4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 73633,
+      "sha256": "296e5a2ee7e974eb7fd1c75dfc70019777ac8e9818e8cb3dae5072b4290bb792"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "bento-grid",
+    "logo-cloud",
+    "pricing",
+    "gallery-portfolio",
+    "faq",
+    "cta",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

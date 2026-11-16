@@ -1,0 +1,93 @@
+{
+  "id": "SN-W04280",
+  "title": "Ride Activity and Trip Tracker",
+  "summary": "Mobile UI displaying recent rides, transactions, and current trip details with filter tabs and status indicators.",
+  "tags": [
+    "Activity",
+    "Ride Tracker",
+    "Tailwind CSS",
+    "Mobile UI",
+    "Transactions",
+    "Filters"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3185,
+      "sha256": "1ef403b7cbc78e4e3040e1df7b2985f9f1a0185accf2d9eff4c1b84682b7b4ff"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9834,
+      "sha256": "fc6b0a03fc063527a3174754c9e88635f59d981df36b0198c117c3d350e9e0fa"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2143,
+      "sha256": "9b6b58f4bcf572a0d25cf9933329369d64fc8b86d72e0001dddf97fc2bda1db9"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 521,
+      "sha256": "43bcc0b4bb0b04ce404618a1fca265bc63d4ee2cb6e1a4863fe50aacfa70c331"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 503,
+      "sha256": "caa1254c6cb90ce160feff5ef265c84a176a19bcc9917481d8c04a0e8b849293"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 658,
+      "sha256": "9aae1eb7433b47ec30fc85430605675c5bfe7af171615a832951aee369a43e6c"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 449,
+      "sha256": "2e6ecca5d076777f852dc15b629dfe48202eb3d5083b22941dae2e70ca2ee45f"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 937,
+      "sha256": "b1d34c89415f7b710c8255a89303e5743b7b724fdab1585a5b4e7c90c0c33159"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 525,
+      "sha256": "a16170a75bed9b31512ef7e8721a74bfff28533177a27286a27a4076c40d9854"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 404,
+      "sha256": "f786785dd680c8e4e59c9fd76b7c8ce8212fa01b0769939f48e34b04fca4e4d9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17116,
+      "sha256": "cd50d4c3ac980c183916f3d5dcc709df1e435f3155a83b8dca57faf96952fda2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

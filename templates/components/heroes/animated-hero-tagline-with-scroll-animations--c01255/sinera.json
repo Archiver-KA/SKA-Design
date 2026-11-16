@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01255",
+  "title": "Animated Hero Tagline with Scroll Animations",
+  "summary": "Responsive banner featuring animated text phrases and decorative images that slide, rotate, and scale on scroll. Built with Tailwind utility classes and custom animation triggers, ideal for skincare, beauty, or lifestyle landing pages.",
+  "tags": [
+    "banner",
+    "hero",
+    "animated",
+    "scroll",
+    "tailwind",
+    "responsive",
+    "marketing",
+    "text"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5076,
+      "sha256": "81afc926dc9102af8975626a036c84a710ad84dc7ac083d1076bd6900bd2c5dd"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1824,
+      "sha256": "ff2109a878eeadd9ba1aea0aea2aeb5d6a952618e718df6368c524c24240b8eb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2689,
+      "sha256": "16f8e77effc2d9f3bfae06bbe97ab71d56c17088a4a9ae75c862d67b278af0b8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

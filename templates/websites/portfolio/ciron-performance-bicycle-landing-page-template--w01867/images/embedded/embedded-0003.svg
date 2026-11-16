@@ -1,0 +1,62 @@
+<svg viewBox="0 0 1200 900" class="h-full w-full overflow-visible" aria-hidden="true">
+            <defs>
+              <radialGradient id="rimCarbon" cx="40%" cy="35%" r="67%">
+                <stop offset="0%" stop-color="#999"></stop>
+                <stop offset="15%" stop-color="#333"></stop>
+                <stop offset="20%" stop-color="#555"></stop>
+                <stop offset="40%" stop-color="#111"></stop>
+                <stop offset="70%" stop-color="#020202"></stop>
+                <stop offset="95%" stop-color="#2a2a2a"></stop>
+                <stop offset="100%" stop-color="#000"></stop>
+              </radialGradient>
+              <linearGradient id="edgeLight" x1="0%" y1="0%" x2="100%" y2="100%">
+                <stop offset="0%" stop-color="#fff" stop-opacity="0.8"></stop>
+                <stop offset="22%" stop-color="#222" stop-opacity="0.95"></stop>
+                <stop offset="68%" stop-color="#000"></stop>
+                <stop offset="100%" stop-color="#fff" stop-opacity="0.6"></stop>
+              </linearGradient>
+              <filter id="heavyShadow" x="-30%" y="-30%" width="160%" height="160%">
+                <feDropShadow dx="10" dy="45" stdDeviation="25" flood-color="#000" flood-opacity="0.85"></feDropShadow>
+              </filter>
+              <filter id="bevel" x="-20%" y="-20%" width="140%" height="140%">
+                <feGaussianBlur in="SourceAlpha" stdDeviation="4" result="blur"></feGaussianBlur>
+                <feOffset dx="4" dy="4" result="offsetBlur"></feOffset>
+                <feComposite in="SourceGraphic" in2="offsetBlur" operator="over"></feComposite>
+              </filter>
+            </defs>
+
+            <g id="rearWheel" opacity="0" transform="translate(255 18) scale(.93)" filter="url(#heavyShadow)">
+              <circle cx="420" cy="455" r="284" fill="none" stroke="url(#rimCarbon)" stroke-width="38"></circle>
+              <circle cx="420" cy="455" r="265" fill="none" stroke="#000" stroke-width="12"></circle>
+              <circle cx="420" cy="455" r="303" fill="none" stroke="url(#edgeLight)" stroke-width="3" opacity=".9"></circle>
+              <g id="spokesRear" stroke="#333" stroke-width="2.5" opacity="1"></g>
+              <circle cx="420" cy="455" r="34" fill="#000" stroke="#333" stroke-width="2"></circle>
+              <circle cx="420" cy="455" r="15" fill="#444" stroke="#111" stroke-width="2"></circle>
+            </g>
+
+            <g id="bikeFrame" opacity="0" stroke="#111" stroke-linecap="square" stroke-linejoin="miter" filter="url(#heavyShadow)">
+              <path d="M417 455 L595 285 L760 455 L417 455 L545 455 L595 285" fill="none" stroke-width="18"></path>
+              <path d="M595 285 L645 216" stroke-width="14"></path>
+              <path d="M645 216 L714 216" stroke-width="12"></path>
+              <path d="M760 455 L706 282 L595 285" fill="none" stroke-width="12"></path>
+              <rect x="530" y="440" width="30" height="30" fill="#000" stroke="#333" stroke-width="2"></rect>
+            </g>
+
+            <g id="frontWheel" filter="url(#heavyShadow)">
+              <circle cx="420" cy="455" r="308" fill="none" stroke="url(#rimCarbon)" stroke-width="46" filter="url(#bevel)"></circle>
+              <circle cx="420" cy="455" r="285" fill="none" stroke="#000" stroke-width="14"></circle>
+              <circle cx="420" cy="455" r="331" fill="none" stroke="url(#edgeLight)" stroke-width="4" opacity="1"></circle>
+              <g id="spokesFront" stroke="#444" stroke-width="3" opacity="1"></g>
+
+              <g id="ribTech" opacity="0">
+                <path d="M150 455 C250 420 333 418 420 455 C505 491 590 490 690 455" fill="none" stroke="#111" stroke-width="8" opacity="1" filter="url(#bevel)"></path>
+                <path d="M178 398 C283 377 338 390 420 455 C498 520 560 532 660 512" fill="none" stroke="#111" stroke-width="6" opacity=".9"></path>
+                <path d="M178 512 C283 532 338 520 420 455 C498 390 560 377 660 398" fill="none" stroke="#111" stroke-width="6" opacity=".9"></path>
+              </g>
+
+              <circle cx="420" cy="455" r="48" fill="#000" stroke="#222" stroke-width="3"></circle>
+              <circle cx="420" cy="455" r="31" fill="#1a1a1a"></circle>
+              <circle cx="420" cy="455" r="14" fill="#666" stroke="#fff" stroke-width="1"></circle>
+              <path d="M393 455 h54" stroke="#888" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+          </svg>

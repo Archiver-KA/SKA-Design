@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01657",
+  "title": "Clickable Logo Link with Background Image",
+  "summary": "Anchor element styled with Tailwind CSS displaying a logo via background-image. Inline-flex centers content, mix-blend for color effects, rounded edges, and defined size make it ideal for navbar branding or home navigation links.",
+  "tags": [
+    "logo",
+    "link",
+    "anchor",
+    "tailwind",
+    "navigation",
+    "branding",
+    "background-image"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4486,
+      "sha256": "becebcb7ac8b13587057806ebdbf1749254d30c55c34b3d052b617c193607d4e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 609,
+      "sha256": "4f08566d315b16d07fe3a81d28fdcbfee48bdca80641219c6c90234c7834b868"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1471,
+      "sha256": "17c99732042f6a3b25d2a7d9bafc040b51cc62fedcbd2ca47847deb9eb0f33ce"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

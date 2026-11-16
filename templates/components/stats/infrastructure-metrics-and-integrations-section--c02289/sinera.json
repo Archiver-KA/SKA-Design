@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02289",
+  "title": "Infrastructure Metrics and Integrations Section",
+  "summary": "Dark themed full-width section showcasing reliable API infrastructure. Features integration list, central NexPay node diagram, and performance metrics. Built with Tailwind-style utility classes, suited for SaaS product or API reliability/architecture pages.",
+  "tags": [
+    "feature",
+    "section",
+    "dark",
+    "metrics",
+    "integration",
+    "api",
+    "tailwind",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9448,
+      "sha256": "e67960ef2cd6f9e86cf0a1ad5c35948aa14ac3aded20638573c1a19a0073be73"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5279,
+      "sha256": "ba384db4965a9d19554539772e238d4b27c5ffc53b144113ced58f269bc39d5b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6237,
+      "sha256": "83c5943e97623ddf2a5ccb54fe9926813d99d198974154087b3c105686f2e1ef"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

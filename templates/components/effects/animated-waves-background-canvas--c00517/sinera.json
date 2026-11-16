@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00517",
+  "title": "Animated Waves Background Canvas",
+  "summary": "Full-screen animated background with interactive perlin noise-based waves that respond to mouse movement, perfect for modern landing pages and dashboards.",
+  "tags": [
+    "background",
+    "animation",
+    "canvas",
+    "interactive",
+    "fullscreen",
+    "waves",
+    "shader",
+    "dark-theme"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19814,
+      "sha256": "a993b04a33f67ab7ff602aa0cd1852da732b14dbe5152bd5b6c584cbf9c356fb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5527,
+      "sha256": "c7c25ff003276f9d1b4b3cded2ae0896cf7e65e919b6a244bb79197d049970ae"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6380,
+      "sha256": "6852fddc8bb95c19bfad42ddbe11775e6c8c946978be30c2d02c802906c4abf3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

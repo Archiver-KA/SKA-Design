@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01172",
+  "title": "Responsive Portfolio Header with Toggle Menu",
+  "summary": "Tailwind CSS header featuring logo, nav links, resume download button, and a hamburger-activated mobile dropdown. Provides a clean, border-bottom navigation bar that adapts from desktop to mobile, perfect for personal portfolios or small sites.",
+  "tags": [
+    "header",
+    "navbar",
+    "navigation",
+    "responsive",
+    "mobile menu",
+    "tailwind",
+    "portfolio",
+    "download button"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2794,
+      "sha256": "4fcbbbd967f4b44345ae431f56ab62f29be201232ead38caafec1e0d90ddeae9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3767,
+      "sha256": "c2e22c016f4c6d98771ef326a8442c256d09d1d19db16e66e96ddff38f25b0e9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4762,
+      "sha256": "f74ed7c5ffd2ab80a207e1e08dd6935fd779a6282e8dd28ae4f98d5ff62b5027"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

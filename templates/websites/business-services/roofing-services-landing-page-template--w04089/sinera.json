@@ -1,0 +1,68 @@
+{
+  "id": "SN-W04089",
+  "title": "Roofing Services Landing Page Template",
+  "summary": "A modern roofing services landing page template for local contractors, ready to customize for residential, commercial, and exterior service businesses.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Technology",
+    "Real Estate"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3795,
+      "sha256": "adb0b4fc0f4a92a87754585226c99c603e82852ee782e6736d612066e65da15a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18210,
+      "sha256": "f96df467b86da46c81c2f1ab085e2dc46ddef6045c0d170db21bc3ff060cbd14"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "45a6d968db44e2849b1f799af01e6329d325d525372ba9756b0a8e651ba8597e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37599,
+      "sha256": "5d278e3646fa9e10bcc0b6128809323f26b082df109c00be4e3f9a80c8a0afe1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "about",
+    "features",
+    "how-it-works",
+    "gallery-portfolio",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

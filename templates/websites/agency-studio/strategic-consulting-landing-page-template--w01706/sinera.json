@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01706",
+  "title": "Strategic Consulting Landing Page Template",
+  "summary": "A reusable landing page template for strategic and growth consulting firms to showcase services, process, and capture qualified strategy call leads.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Consulting",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3625,
+      "sha256": "633438c83e2cf54a88061e0a5d17d42c5901c5431a9bb1c358775ff6fa273381"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15842,
+      "sha256": "a83f9a1cb5c1458c3380cf221c1715a82b393c322e6eea7e2200c91886539112"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 876,
+      "sha256": "d09da97b63d2883306360672631eeacf080da8173e8dd23e2bdedccbff22b7d2"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "ad1cfa7a2926f1ded0ddf3f9cbb3077358ff3abff7d7895e921c42b480e9e549"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29858,
+      "sha256": "8de50459259e7216722fe054539b56b8c06a397b77b122a0e9625e97dc42d445"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "team",
+    "features",
+    "how-it-works",
+    "services",
+    "timeline",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

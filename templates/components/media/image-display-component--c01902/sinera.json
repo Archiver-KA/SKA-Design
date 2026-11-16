@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01902",
+  "title": "Image Display Component",
+  "summary": "A simple responsive image component that displays an external image with proper sizing and aspect ratio handling. Useful for displaying social media images or external content.",
+  "tags": [
+    "card",
+    "image",
+    "responsive",
+    "modern",
+    "shadow"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2106,
+      "sha256": "bacb27f1f39c5cee82b1ffb4ab17af4955222a8f97b28287abd33bfc0e656486"
+    },
+    {
+      "path": "component.html",
+      "bytes": 669,
+      "sha256": "8633ed37438cdcff67de7dc42e9d0174cf47af18cce34c37cddf69c1b947bb88"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1513,
+      "sha256": "ca9f57cde2701f5825341f79577d0854311bfa7f8a1e7ff11cce0c5c6c406c77"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01879",
+  "title": "Fullscreen 3D Gradient Background (Spline Embed)",
+  "summary": "Absolute-positioned container embedding a Spline iframe to render an interactive, full-screen 3D gradient backdrop. Uses Tailwind utility classes, sits behind content with negative z-index. Ideal for hero headers or immersive landing pages.",
+  "tags": [
+    "background",
+    "spline",
+    "iframe",
+    "3d",
+    "gradient",
+    "animated",
+    "tailwind",
+    "hero-section"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15994,
+      "sha256": "e8b0a75933fb033904d1cdce785b084a8a17c5d9c615dd5c40eabc15555e6806"
+    },
+    {
+      "path": "component.html",
+      "bytes": 225,
+      "sha256": "5e749f1a1f77f5a31fffb378a4ff8f56c7f8b1cad9c515436cf4c9805aa29930"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1137,
+      "sha256": "ed4223090df06cd29b6f73bdb2f37bc99f044177f6c1194896edd18a2e67465d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

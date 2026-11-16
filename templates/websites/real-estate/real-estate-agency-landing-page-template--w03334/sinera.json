@@ -1,0 +1,65 @@
+{
+  "id": "SN-W03334",
+  "title": "Real Estate Agency Landing Page Template",
+  "summary": "A professional and clean real estate agency template designed for transparent property sales and client management.",
+  "tags": [
+    "Real Estate",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Services",
+    "Technology",
+    "Corporate"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3293,
+      "sha256": "faf2624bc0c74103a7542c2ad3e3b6713547ad8914f60b2009ad45025d2b6bfb"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13526,
+      "sha256": "d5d6141c174099beb84d3e1e06682e9c70ad02b6d0bd00dd7cd172459e60bbe2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "d6c6a1f488bffa67a971b3b0e6e176ed1d5dfe3b2b3489f0b3be332b2dcaa2b0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34469,
+      "sha256": "423c52978b9a8d9151a326b790be1e7df9fba45a71509faedd7a249883002b32"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "features",
+    "testimonials",
+    "cta",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

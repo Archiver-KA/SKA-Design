@@ -1,0 +1,61 @@
+{
+  "id": "SN-W00003",
+  "title": "3D Rubik's cube Experience Template",
+  "summary": "A reusable 3D Rubik’s Cube template with textured visuals and interactive controls for games, demos, and immersive web experiences.",
+  "tags": [
+    "Technology",
+    "Entertainment",
+    "3D",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Landing Page",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2960,
+      "sha256": "b3494a173bb36be270aa37fb4c97729b364c534694fe7eb405fda0798b01eea0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2832,
+      "sha256": "cd85c94a9db32e6d7270a9377179f3ad6100dd1497af86bdaf642b463e98efc9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "7a9c5c2caf4691796a2e6c08c2da070557f0a3c5b0c2d194ce796576907f3a7f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18437,
+      "sha256": "f7acd17f4b385deed06a3481dd2bb332f73755dbb73691998169c588d9d0073a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "3d-canvas",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "SN-W02043",
+  "title": "Hemesh Editor Portfolio Template",
+  "summary": "A reusable portfolio template for freelance video editors to showcase cinematic work, services, pricing, testimonials, and booking CTAs.",
+  "tags": [
+    "Portfolio",
+    "Services",
+    "Landing Page",
+    "Dark",
+    "Minimal",
+    "Gradient",
+    "Animated",
+    "Brand",
+    "Video Editing",
+    "Motion Graphics"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3793,
+      "sha256": "7ccae963ddb1d7ff19f3cd9f853adcf024dfd22b28f4b91f9620f35ce4e8b4a4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15008,
+      "sha256": "1225e625b45269e675602439eed4952e6c8ae159b6a70e85b7b339dd42993368"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 720,
+      "sha256": "bc6579244b96aa52004d3e38a2d847437e0fa63a9d9c34ab1b10dbe27103a601"
+    },
+    {
+      "path": "index.html",
+      "bytes": 58250,
+      "sha256": "0781dbdc80928c701cf7c4cbd5659fb25d9e71f78172d8e80946446835ecd9a2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "gallery-portfolio",
+    "pricing",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

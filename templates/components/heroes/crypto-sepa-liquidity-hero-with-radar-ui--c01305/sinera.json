@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01305",
+  "title": "Crypto SEPA Liquidity Hero with Radar UI",
+  "summary": "Full-screen hero section for a MiCA-regulated SEPA liquidity product, featuring headline copy, compliance badges, key metrics, and an interactive 3D radar-style UI with USDC/EUR inputs and animated trigger button. Ideal for fintech or crypto landing pages.",
+  "tags": [
+    "hero",
+    "section",
+    "landing",
+    "fintech",
+    "crypto",
+    "interactive",
+    "animated",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 23278,
+      "sha256": "0d6d0c6f9fc643144eb561118ef9494cc4ade252e38dc960a6cab7adb3c48735"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7854,
+      "sha256": "3315b6b57e519ac430fbf4d3af2a17126269dcb4bd3fb40bde983a6890d77a9a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8715,
+      "sha256": "1696f1fc0651bd98da62a3ecda24700812b6540a760f495635cc4a6874317622"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

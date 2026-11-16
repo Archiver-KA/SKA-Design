@@ -1,0 +1,38 @@
+{
+  "id": "SN-C00699",
+  "title": "Animated SSR Infrastructure Feature Section",
+  "summary": "A full-width Tailwind CSS feature section showcasing server-side rendering and edge caching with a dark glassmorphism layout, animated SVG schema, and GSAP reveal effects. Ideal for SaaS, hosting, or developer platform landing pages.",
+  "tags": [
+    "feature",
+    "section",
+    "tailwind",
+    "gsap",
+    "animated",
+    "saas",
+    "dark",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 17356,
+      "sha256": "81b42010ac1a6e966cdb7cbb5c25f8e8f65f00aa70626f6c42d8466ee5bf654b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19402,
+      "sha256": "b9e1de8e32b63393d1a0ca795a0f05e03c8c2527c196c733d35b96a6ae6f08c0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01652",
+  "title": "Northline Creative Agency Landing Page Template",
+  "summary": "A high-end minimal template for design studios and independent practices looking to showcase digital identity and website expertise.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Portfolio",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Grid",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3497,
+      "sha256": "b728d811a4c05344b86b0e3231ef221e686f6bf3f3d0a7afca84f7aaa33514fe"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3232,
+      "sha256": "642b63fcfa40b9189ba2ade25b28ee3fd6f815f6ad81940c477c7594e1609e34"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 884,
+      "sha256": "3dd6827cd78ad7df769a66de762962d4ad2b22283bf5853c2aa708bbef30003d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 238,
+      "sha256": "ae98ced6bd0ac6b97265525479adc411ff9e26cc1dc93c0e024110e69c5d4370"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31987,
+      "sha256": "64f741880939ca730d12f4cda634f6fa519464c74ccde5d0a7d9118ccd292db5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "services",
+    "how-it-works",
+    "testimonials",
+    "faq",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

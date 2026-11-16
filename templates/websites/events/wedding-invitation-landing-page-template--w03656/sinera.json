@@ -1,0 +1,64 @@
+{
+  "id": "SN-W03656",
+  "title": "Wedding Invitation Landing Page Template",
+  "summary": "A romantic wedding invitation template with an animated envelope intro, event timeline, venue details, and RSVP form for elegant celebration websites.",
+  "tags": [
+    "Wedding",
+    "Landing Page",
+    "Animated",
+    "Clean",
+    "Minimal",
+    "Brand",
+    "RSVP",
+    "invitation",
+    "romantic"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3647,
+      "sha256": "80149688ee08a48f6b07ff289f154c3f5f2c32d93432f502191856f9142f5f49"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2836,
+      "sha256": "a563e206254f7ce4482106ad48bd63e0e85981c6d18c50cc496b28bf3711fedd"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "17484982712f46cb1d0e450b7ce2998379584448742135deba16d73acd11ebf8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26921,
+      "sha256": "5b1e03ff6422c990979265eb0ac4bd4e552277f967a437902b9cc918f3550c52"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "cta",
+    "timeline",
+    "features",
+    "contact-form"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "SN-W02981",
+  "title": "Restaurant Landing Page Template",
+  "summary": "A reusable restaurant landing page template for pizzerias, cafes, and local dining brands to showcase menus, events, location details, and online ordering.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Brand",
+    "restaurant",
+    "pizzeria",
+    "hospitality"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3579,
+      "sha256": "c0b87e6a55fdc0dfad59b513bab2d29ea1d135f7f4aec707ccd95fe3e53e6ae2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16190,
+      "sha256": "43b61c16eb6c46f905760dc4461547269b79a97f1fb11536b4a3f2cf90e23ae1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "4936d3f95a2b118f478b08e95e175201e84764516bd08f2fa98c163e1cbf75f3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15682,
+      "sha256": "7c8b24bf98e63a1d115261c265badb2f27bf8d3be40f851fd5352c4d34a11647"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "menu-list",
+    "cta",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

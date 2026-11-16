@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01142",
+  "title": "Navigation Bar with Centered Links and CTA",
+  "summary": "Responsive top navigation bar with logo, centered page links, FAQ button, and primary Get Started call-to-action. Styled using Tailwind-like utility classes, suitable for dashboards, marketing sites, or product landing pages.",
+  "tags": [
+    "menu",
+    "navigation",
+    "responsive",
+    "header",
+    "tailwind",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4976,
+      "sha256": "5d9eb7176ee62d4d668f8f713f5a9207a2f583bc7f9fa95522ec11cd958fd2e3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2060,
+      "sha256": "cf08a4c844d5db6c85bcde385b9cf98fdce3707e0e86fd6a59f39b2b7bb57049"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3053,
+      "sha256": "83963c1a4a363afb866c2f778b066cdc93970761d6013f81da3c27979834d070"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

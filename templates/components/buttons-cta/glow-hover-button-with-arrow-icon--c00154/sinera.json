@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00154",
+  "title": "Glow Hover Button with Arrow Icon",
+  "summary": "A stylized CTA button with layered radial glow, stroke, and hover transitions. Uses Tailwind-style utility classes and an arrow icon that slides on hover, ideal for portfolio links or prominent calls to action.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "interactive",
+    "hover",
+    "animated"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2872,
+      "sha256": "77cb9bf0d836876f0bcb5c69041122de1fc1626af01d33d0444023f99103cb56"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2627,
+      "sha256": "adc0df079dce1c14c850324064c8f118584a8829c45379b5513df74a85b88734"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3481,
+      "sha256": "bf49ef5792c48418bde6c2128165c2ad1e8b449c32686ae275d1f2eeadf5bcde"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

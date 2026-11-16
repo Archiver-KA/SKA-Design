@@ -1,0 +1,66 @@
+{
+  "id": "SN-W03906",
+  "title": "Fencing Contractor Landing Page Template",
+  "summary": "A modern fencing contractor landing page template for local service businesses, featuring services, testimonials, and a quote request form.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Local Service",
+    "Fencing Contractor",
+    "Home Services"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3773,
+      "sha256": "833c5921e2aa44b0d555e8087c27c3ccf55cbd4e97cbf6518622b3d5e92a6940"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17780,
+      "sha256": "70fec0f71e1f4d71decca61c5966dd5458a9162da10ad3a73e40412ba4112630"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "08de74e6deb7e30562248dc694f70078bbf4cd9e4516658418a9bce3053f1ca5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24679,
+      "sha256": "e1eb453b133b6cbc63d550437507133a69c14c426508dacf6a270107b266ff7a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "features",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

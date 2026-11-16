@@ -1,0 +1,61 @@
+{
+  "id": "SN-W04053",
+  "title": "Plumbing Services Landing Page Template",
+  "summary": "A professional and clean landing page template designed for plumbing and emergency maintenance services with 24/7 availability features.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Clean",
+    "Minimal",
+    "Grid",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3373,
+      "sha256": "9548f20d0cbff0b0067edda55b6cd9a82d2d5767e7583612efe9b8d15ab139d0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21812,
+      "sha256": "f1c276a7c6324f84dcd76e77a85cf2445b223115390344a03964227d3a555cfd"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "4578ec57731d94bff5f424e213c175561fe975148d254a6afb603f5660f35df6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19578,
+      "sha256": "f02b7311817cf8310f390b17ff50f4ffc8a15ad4406de50aa82fd8d31f472c46"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

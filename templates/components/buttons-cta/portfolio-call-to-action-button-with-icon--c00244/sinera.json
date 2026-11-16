@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00244",
+  "title": "Portfolio Call-to-Action Button with Icon",
+  "summary": "Pill-shaped anchor styled via Tailwind that displays 'View Portfolio' with an arrow icon. Hidden on mobile, visible from small screens, ideal for navigation CTAs linking to portfolio or work sections.",
+  "tags": [
+    "button",
+    "link",
+    "cta",
+    "tailwind",
+    "responsive",
+    "icon",
+    "navigation"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1590,
+      "sha256": "77244d91958b1f85e28ef079cbb879db70267f46ff78b02d01cf3e0a62e35776"
+    },
+    {
+      "path": "component.html",
+      "bytes": 633,
+      "sha256": "b8f8165cb5a61d203d64738663d117f6ba886f73842388aed991973871704814"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1625,
+      "sha256": "a823545f847f90683764cd3d11163ea7673b25695e1432124a2058eb23634566"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00266",
+  "title": "Rounded CTA Button with Icon (Tailwind)",
+  "summary": "Pill-shaped anchor styled as a call-to-action button using Tailwind CSS. Includes an SVG checkmark icon, hover/focus states, and shadow for emphasis—ideal for starting forms, assessments, or any primary navigation action.",
+  "tags": [
+    "button",
+    "cta",
+    "link",
+    "tailwind",
+    "icon",
+    "rounded",
+    "interactive",
+    "svg"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2104,
+      "sha256": "0384c232d384ae6a49d0c4ca3e77c9a0e53994e1e4add70c334e3c17f69f98cb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 920,
+      "sha256": "c298e11cf22c9c8e3cd90e3bba6eb8ddcd77f05bb13e8f8d8f79575f660065d5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1780,
+      "sha256": "aa3b3dc7f4a026e199a75437e7ab53b40cffc9c0fd7177d63b741ab9a41fc918"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

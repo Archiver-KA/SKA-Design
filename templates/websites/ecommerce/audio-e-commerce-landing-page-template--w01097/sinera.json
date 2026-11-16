@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01097",
+  "title": "Audio E-commerce Landing Page Template",
+  "summary": "A stylish e-commerce template for showcasing and selling premium headphones or audio gear with featured products, promotions, testimonials, and strong CTAs.",
+  "tags": [
+    "E-commerce",
+    "Landing Page",
+    "Technology",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "audio store",
+    "headphones",
+    "product showcase"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3581,
+      "sha256": "8c88ce64a5bad0cb26958c61991429a1df834d219c0ae7cdc886717d2cf4a141"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10524,
+      "sha256": "6a7bf0421c52a6e19f55fb6a49c053ae1c98c01427c8e7ac28fb7999f00dcb00"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 956,
+      "sha256": "03ebc3007e9216a97e9eb99ada17c2bee27365c8f74b58d4161dfe715468f937"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 262,
+      "sha256": "b671b220bac7d8372eac5bc8b2c48e7c8bafccb8940872ed72d8c0a874ef20ae"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29029,
+      "sha256": "cb31ca75ae049ade9f23b31d4113a8bc309a286e7342dab334c53ce5f8a459e2"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "product-grid",
+    "features",
+    "cta",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

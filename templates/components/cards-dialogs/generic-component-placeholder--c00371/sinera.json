@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00371",
+  "title": "Generic Component Placeholder",
+  "summary": "Placeholder or stub component with no implemented structure or logic. Intended as a starting point or marker for future React/HTML component development.",
+  "tags": [
+    "card",
+    "placeholder",
+    "minimal",
+    "generic",
+    "starter",
+    "component"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2196,
+      "sha256": "4aba1c372d98eb7848f2463c7da5f06f4cfcf2e0d4820559337464eace1ff940"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10,
+      "sha256": "7cd4c29bf56b3bd825ecba3316b192a406070d0f584118081f9fcdc8b6b9d804"
+    },
+    {
+      "path": "index.html",
+      "bytes": 860,
+      "sha256": "786aba9854ab316a293e5399a63afeff5beea793c4f56b5e1114f78c9a7aa49a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

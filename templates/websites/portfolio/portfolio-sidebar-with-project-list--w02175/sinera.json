@@ -1,0 +1,68 @@
+{
+  "id": "SN-W02175",
+  "title": "Portfolio Sidebar with Project List",
+  "summary": "Responsive sidebar UI featuring profile, navigation links, contact info, and project highlights with mobile toggle support. ",
+  "tags": [
+    "Sidebar",
+    "Responsive",
+    "Navigation",
+    "Profile",
+    "Projects",
+    "Contact",
+    "TailwindCSS"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3280,
+      "sha256": "b4dc0dd5f5a0959ae09ccceef85a88a708cdcbdc596de4763d0b16052bc4b053"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15554,
+      "sha256": "3c3c4e2de6d4b18d0d1c4ca16f2091673e4f319206c29d07740518db1b9668c7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 866,
+      "sha256": "0b5a3bb2fdd02ca4e5f9b3bea5564cbe02707658340496e06d505f1001bf44b3"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 203,
+      "sha256": "b07b3c6d98b49742cb67df4167d8636e44e96f599f32b2e6f6140e9faf32d1c2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20632,
+      "sha256": "aa245fdaa547ead706070b2591824c0b3bad44c757488ed8c70f84653c918a43"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "hero",
+    "case-studies",
+    "bento-grid",
+    "timeline",
+    "contact-form"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

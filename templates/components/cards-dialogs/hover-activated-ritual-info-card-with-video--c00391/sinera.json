@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00391",
+  "title": "Hover-Activated Ritual Info Card with Video",
+  "summary": "Interactive Tailwind CSS card that fades, slides, and scales, playing a background video on hover. Displays ritual name, category badge, duration, description, and CTA link. Suited for wellness sessions, recipes, or tutorial previews.",
+  "tags": [
+    "card",
+    "video",
+    "hover",
+    "animated",
+    "tailwind",
+    "interactive",
+    "responsive",
+    "wellness"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 23082,
+      "sha256": "5becc42f80e8ae0c74952108c87f4b3f6610264e0154397b64c173476075e2c0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4123,
+      "sha256": "ae83053c40bd301b42db7f5ade88e743731d3ab85b25e5e0d7955cd9cf650ef8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5117,
+      "sha256": "6c1247b544f0a7409568062d55b717e1e1eeac51861f9957a3d86884436e5fe9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

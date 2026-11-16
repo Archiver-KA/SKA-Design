@@ -1,0 +1,57 @@
+{
+  "id": "SN-W04170",
+  "title": "Code Block with Animated Border",
+  "summary": "Displays a styled code snippet with a rotating gradient border and copy button in a dark-themed UI.",
+  "tags": [
+    "Code Block",
+    "Animated Border",
+    "Syntax Highlighting",
+    "Copy Button",
+    "Dark Theme",
+    "React Example"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3065,
+      "sha256": "1f5e1fef43ed76de9ac65df95ae6ee9a4affbd306e5dd5f01a7175872624cf0d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8838,
+      "sha256": "df1d4dce707e02ec18858f439b87a96b259595369e484131c677ea1a54ed766c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "e9fa58428e8b252504c40e087dd2b7f3795a501daad86a7ddaa3f946a3b118fd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3952,
+      "sha256": "1a2d50ade21608c4ce7d8560a49ec7836f1cae09fe2253b1edd75970911cdde5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "code-terminal"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SN-W04147",
+  "title": "3D Interactive Grand Piano Model",
+  "summary": "Renders an interactive 3D grand piano with detailed geometry, lighting, and orbit controls using Three.js and WebGL.",
+  "tags": [
+    "3D Model",
+    "Three.js",
+    "WebGL",
+    "Interactive",
+    "Piano",
+    "Lighting",
+    "OrbitControls"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2169,
+      "sha256": "e1e12251b774071f1d280d4e7d33400180dc158dd5163096894014f6773ef6d1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1584,
+      "sha256": "b01ed90a6a67813880054ebac53bf4388b12e5631ecdf66cf654639e34365e6a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "0a03c7ad7a29e0e344d01423ad5045b9bf6d60e6ef4cfe3faf4c158ffed17492"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9810,
+      "sha256": "f9328a241e1219ac2fdf7d2f7fb7e81728206243d2818eab7c4f25d231cdda47"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

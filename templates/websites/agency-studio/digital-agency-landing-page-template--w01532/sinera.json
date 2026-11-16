@@ -1,0 +1,91 @@
+{
+  "id": "SN-W01532",
+  "title": "Digital Agency Landing Page Template",
+  "summary": "A reusable digital agency template for showcasing creative work, services, team expertise, and contact CTAs with a bold premium portfolio feel.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Portfolio",
+    "Technology",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3547,
+      "sha256": "4b4a9489ca783fd4e187e28c2b5e6c11b2116834b1db69e1c38c9ebcf876090e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17480,
+      "sha256": "a28b1713868d14009484fd3468485ba4a9ffe7669e310e354253c93898c2cb36"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1658,
+      "sha256": "9d0a3a5c28db1df993c380e4c7a9485f8a899bbb450dced174339665aa2f10e4"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 699,
+      "sha256": "f0ad4e90eb5d5e41129a20f3296e1212b1c3afa2a9e825cfa0506beda4350605"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 442,
+      "sha256": "5a89f1165b578eeff4894b4dcd84a0d988ff0bbeaf1874825470b527beb8baa7"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 465,
+      "sha256": "6e6b66126087f0ef678deddffe5452385823dc350e0be54a99326aa028c93060"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 805,
+      "sha256": "621fcb9694b6c4a6a6d3755271daca2f890cd5fce1c5ef71152b4a1ed30aa835"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 575,
+      "sha256": "55ae198905d3dda29667b6b897eed74838970a2a7bff74327b16cbcfe230fd00"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29147,
+      "sha256": "93d6c7fd10f43c1b680f637480c9378467cd84ef82dbeff804bda1eb6128aff8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "team",
+    "services",
+    "marquee",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

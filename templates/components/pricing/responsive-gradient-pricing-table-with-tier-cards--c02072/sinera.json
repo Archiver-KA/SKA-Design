@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02072",
+  "title": "Responsive Gradient Pricing Table with Tier Cards",
+  "summary": "Four-tier pricing grid styled with Tailwind CSS. Each card shows plan name, price toggle data, feature list, CTA button, and highlights the popular plan. Ideal for SaaS or subscription pages and adapts from single to four-column layouts.",
+  "tags": [
+    "pricing table",
+    "card",
+    "tailwind",
+    "responsive",
+    "gradient",
+    "subscription",
+    "cta",
+    "saas ui"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 24522,
+      "sha256": "689b0c6aa43e8a0d56ee8e5e5060f5df8c3c97d6ecf7e4e73b440a7157f4d9cc"
+    },
+    {
+      "path": "component.html",
+      "bytes": 17526,
+      "sha256": "74ad54c5ae32d87b34ea5d23705ad8f8aa1c381bad0b4d0fa80ff6b0c414654f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18526,
+      "sha256": "53feca900fce18f24b288147f203b8ba0d5536c6b0d9f8393026177b56467d23"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "SN-W03661",
+  "title": "Yoka Web Media & Community Template",
+  "summary": "A professional news and community portal template designed for diasporas, featuring editorial grids, interactive hero sections, and category-driven content modules.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Social",
+    "Culture",
+    "Clean",
+    "Grid",
+    "Blog",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3370,
+      "sha256": "f3df80c9fd253ffdc0ed9d9f4511d37eef2b1113a3ddc80656b19396b5726002"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14142,
+      "sha256": "e3d6f38eee3ced3493dc18c5544be548a682d27099f9279f5335ddee77856e62"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 865,
+      "sha256": "18d417d4be06db02df1c7813175be1cdacd8f8f0871a96a2534fea14d59478ac"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1824,
+      "sha256": "3a0ac97e16c4131f6f3d185b3707905c456734dc9f5ecb0ecea064690e4ccfb5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 78773,
+      "sha256": "9e5635776d78fc98d0fb0548bbd8ed9b74d0c7f3095d67a66d26017f78f05175"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "features",
+    "cta",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

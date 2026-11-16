@@ -1,0 +1,66 @@
+{
+  "id": "SN-W00645",
+  "title": "Product Launch Landing Page Template",
+  "summary": "A clean, modern Product Hunt–style landing page template for showcasing product launches, social proof, and CTAs to drive early adopters.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3549,
+      "sha256": "4bd0cd7548e1b86c4a7e1019a4794d1175227d09026b5a1c9973a18be846e3ac"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15456,
+      "sha256": "c89928ecd1b3b436d5c137b81eca2dbe9cf07341534c20ea996ade0a3d7b32a8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 875,
+      "sha256": "9c01602a70ae7363334da50106fe9d93ba27d54bdf84d5a141025f9ac998e286"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 866,
+      "sha256": "fae509b3f3823cd0a16c033e3c1cce24bbbecbb99b7a6fa379a36b3e997fb7f4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18261,
+      "sha256": "e9d7473422b5e7a1ac1ab757bd7ab4ca62d7840ce1f5f4e810985709d94d946f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

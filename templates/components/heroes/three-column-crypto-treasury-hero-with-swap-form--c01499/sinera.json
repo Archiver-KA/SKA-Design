@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01499",
+  "title": "Three-Column Crypto Treasury Hero with Swap Form",
+  "summary": "Full-screen three-column hero layout for a digital treasury/crypto platform, featuring sidebar navigation, central brand storytelling with imagery, and an interactive USDC–INR swap form with live calculation. Styled with Tailwind-like utility classes.",
+  "tags": [
+    "hero",
+    "section",
+    "ui",
+    "form",
+    "interactive",
+    "responsive",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26334,
+      "sha256": "671609dce1649c2161fd18599983b58bcf4f03d4a6b1752c6737690cbdf86cd0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7354,
+      "sha256": "f1abff2b42d9adf9c44effdcd9654dd865798a79df8b0c3190b934bf405ff04b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8223,
+      "sha256": "20d31b955583375b16c3642e169f81fbfb85d54121e4d760dd3658b25ff5348d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

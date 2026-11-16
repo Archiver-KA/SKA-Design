@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02305",
+  "title": "Live Telemetry Dashboard Section",
+  "summary": "A full-width dark telemetry showcase section with glassmorphism stat cards, animated orbital visualization, and real-time system metrics. Built with Tailwind CSS for futuristic dashboards, SaaS platforms, and product feature presentations.",
+  "tags": [
+    "feature",
+    "section",
+    "tailwind",
+    "dashboard",
+    "analytics",
+    "glassmorphism",
+    "dark",
+    "animated"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11350,
+      "sha256": "e9c25a8410cbd9e34f5e97c27f6cf992df058a3ae315b611ca9d1ba8fab184c1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10295,
+      "sha256": "01cadd2b09b609f09bce394eb7145db5c6eff615c1f84d42cde4263988dc328a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11238,
+      "sha256": "c6a25140bf96352c3b1069914d7810a589c7315703d4a6b8126e2fed0299fc0f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

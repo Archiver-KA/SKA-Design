@@ -1,0 +1,71 @@
+{
+  "id": "SN-W01110",
+  "title": "Barber Shop Landing Page Template",
+  "summary": "A modern dark-style barber shop landing page template for grooming studios to showcase services, reviews, and bookings with a premium Tel Aviv-inspired aesthetic.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Barber",
+    "Grooming",
+    "Tel Aviv"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3559,
+      "sha256": "feaac7035876cda9a480d80f06eb4754a53412f02e45348fa29fcc306de57e76"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12854,
+      "sha256": "2f6e250f1acbf48867074f91d67caeebf086016a3bf0fe1bb4dc052eb85c45cf"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 806,
+      "sha256": "7b2fdcaa767d4f8a057095daf5c592dc7ec21614b0959bebcfbd73799578ed3d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23217,
+      "sha256": "d7cf0ddc3c09446fa566dc2d9b3bd5b7afcd027fce396edc5110f96eedc7037a"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "timeline",
+    "map-location",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "SN-W03667",
+  "title": "AETHERIA Game Landing Page Template",
+  "summary": "Cinematic, Three.js-powered landing page template for a tactical sci‑fi shooter or game launch, ideal for showcasing features, classes, and pre-order offers.",
+  "tags": [
+    "Landing Page",
+    "Entertainment",
+    "Technology",
+    "Dark",
+    "Futuristic",
+    "Animated",
+    "Large Type",
+    "Gradient",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3788,
+      "sha256": "870db9a1643882a3ecf59756610fedc67c24be35d1cd4cd7a94bc437e6706a5b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2650,
+      "sha256": "1752726a4ba8d87e8044f8d049c13af164baf52270d9a5524e93d364d24c629b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 867,
+      "sha256": "0ea921999dfdc985296e100a0712675e17d614a923d5f9180f08bec9f301c04f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34118,
+      "sha256": "0a8da9d40d5e05cf2a45741242ffdd1706dcf897e9b082d7bd9ed87ac360f4ad"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "services",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

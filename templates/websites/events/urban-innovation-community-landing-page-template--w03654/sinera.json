@@ -1,0 +1,55 @@
+{
+  "id": "SN-W03654",
+  "title": "Urban Innovation Community Landing Page Template",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3896,
+      "sha256": "f229deb4e0cee160de2a6974169893cd9e12e43f72da05e1a895c235044c0776"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17080,
+      "sha256": "0ee81dd89b0eddba57cd48d0ee8b5412c361895d5288495ad84a3de78eb17991"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "14d29a6b1d9bce94a0a4319e31943de0188d252eceb8e20279f61a357b36ff32"
+    },
+    {
+      "path": "index.html",
+      "bytes": 66710,
+      "sha256": "3dc0a0532e7cd892ebc0df8a11552ee020828bc4a0bb4ba698680f95a57e5e1a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "timeline",
+    "logo-cloud",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

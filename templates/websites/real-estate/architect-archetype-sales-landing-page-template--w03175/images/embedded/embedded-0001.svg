@@ -1,0 +1,69 @@
+<svg viewBox="0 0 100 100" class="w-full h-full overflow-visible">
+                <polygon
+                  points="50,25 75,50 50,75 25,50"
+                  fill="none"
+                  stroke="#2A2F38"
+                  stroke-width="0.5"
+                  stroke-dasharray="1,1"
+                ></polygon>
+                <polygon
+                  points="50,10 90,50 50,90 10,50"
+                  fill="none"
+                  stroke="#2A2F38"
+                  stroke-width="0.5"
+                ></polygon>
+                <line
+                  x1="50"
+                  y1="10"
+                  x2="50"
+                  y2="90"
+                  stroke="#2A2F38"
+                  stroke-width="0.5"
+                ></line>
+                <line
+                  x1="10"
+                  y1="50"
+                  x2="90"
+                  y2="50"
+                  stroke="#2A2F38"
+                  stroke-width="0.5"
+                ></line>
+                <polygon
+                  points="50,20 85,50 50,65 30,50"
+                  fill="rgba(91, 124, 141, 0.3)"
+                  stroke="#5B7C8D"
+                  stroke-width="1.5"
+                ></polygon>
+                <text
+                  x="50"
+                  y="6"
+                  text-anchor="middle"
+                  class="text-[5px] font-mono fill-[#E6E8EB]"
+                >
+                  Anchor
+                </text>
+                <text
+                  x="93"
+                  y="51.5"
+                  text-anchor="start"
+                  class="text-[5px] font-mono fill-[#E6E8EB]"
+                >
+                  Systemize
+                </text>
+                <text
+                  x="50"
+                  y="97"
+                  text-anchor="middle"
+                  class="text-[5px] font-mono fill-[#E6E8EB]"
+                >
+                  eXert
+                </text>
+                <text
+                  x="7"
+                  y="51.5"
+                  text-anchor="end"
+                  class="text-[5px] font-mono fill-[#E6E8EB]"
+                >
+                  Invest
+                </text>
+              </svg>

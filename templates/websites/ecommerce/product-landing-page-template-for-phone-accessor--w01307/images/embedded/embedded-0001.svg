@@ -1,0 +1,19 @@
+<svg style="width:0;height:0;position:absolute;" aria-hidden="true" focusable="false">
+        <defs>
+            <linearGradient id="silver-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                <stop offset="0%" stop-color="#a1a1aa" /> <!-- zinc-400 -->
+                <stop offset="25%" stop-color="#e4e4e7" /> <!-- zinc-200 (Highlight) -->
+                <stop offset="50%" stop-color="#d4d4d8" /> <!-- zinc-300 -->
+                <stop offset="75%" stop-color="#52525b" /> <!-- zinc-600 (Shadow) -->
+                <stop offset="100%" stop-color="#a1a1aa" />
+            </linearGradient>
+            <!-- Animated Shine Gradient -->
+            <linearGradient id="silver-animated" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#71717a" />
+                <stop offset="50%" stop-color="#ffffff">
+                    <animate attributeName="offset" values="-1; 2" dur="3s" repeatCount="indefinite" />
+                </stop>
+                <stop offset="100%" stop-color="#71717a" />
+            </linearGradient>
+        </defs>
+    </svg>

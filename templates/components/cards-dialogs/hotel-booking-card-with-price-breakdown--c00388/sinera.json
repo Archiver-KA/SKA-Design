@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00388",
+  "title": "Hotel Booking Card with Price Breakdown",
+  "summary": "Stylish hotel booking summary card featuring image, location badge, like toggle, availability tag, amenity grid, selected dates, detailed cost breakdown, guest rating and reserve CTA. Tailwind-styled; ideal for travel or accommodation listing previews.",
+  "tags": [
+    "card",
+    "booking",
+    "hotel",
+    "tailwind",
+    "responsive",
+    "price-breakdown",
+    "listing",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18400,
+      "sha256": "2241f7af70cb9737dfffbc3a05ebd2b23f4605a12ec7405b46c726cad5179b2b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8993,
+      "sha256": "b905558bf442e5836c4f5930cb993702f54c8201c414c48b323554eb1c882c0f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9853,
+      "sha256": "9bb3a731b7333cb5a952c33acb5fae0d12f6992c7ff22ce0fcb9c98bc87944d3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

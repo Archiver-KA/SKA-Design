@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01287",
+  "title": "Browser-Style Hero with Glow Background and Dock",
+  "summary": "A full-width hero showcasing a faux browser window with glow background, bold headline text, product logo, and an app dock-style icon row. Built with Tailwind-style utility classes, ideal for landing pages highlighting creative design tools or UI demos.",
+  "tags": [
+    "hero",
+    "section",
+    "ui",
+    "tailwind",
+    "responsive",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19600,
+      "sha256": "9542231c2adca2064b323c76972ac82502ce0fd3548994f07e96de47f846d9a8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13351,
+      "sha256": "3f60f8260f381d7e8cb774db402fc019546d9d5c7ef1b0497f9549f82e79595a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14220,
+      "sha256": "7b9791908be5cb2853f3c9bdb7e8cafa6179b3f6bb81afbcedada7487da4aa95"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

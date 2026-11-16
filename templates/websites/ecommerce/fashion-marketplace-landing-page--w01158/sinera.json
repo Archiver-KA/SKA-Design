@@ -1,0 +1,110 @@
+{
+  "id": "SN-W01158",
+  "title": "Fashion Marketplace Landing Page",
+  "summary": "Responsive landing page with header, hero section, animated cards, and call-to-action buttons using Tailwind CSS.",
+  "tags": [
+    "Landing Page",
+    "Hero Section",
+    "Cards",
+    "Tailwind CSS",
+    "Responsive Design",
+    "Animation"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3463,
+      "sha256": "ad1ba1b638ffcde91530b40b51a9c7232042231f7b06a0ae2621c4f869a2197d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22510,
+      "sha256": "51c3de2a182c06ebb1e9756c446236c61fed6255a072d9975e592cc764ef8f4e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2666,
+      "sha256": "3ea0b725cb63ada28123c036b8b648f9bd58ad37c69a6498358f5630fd26177f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 312,
+      "sha256": "0bdf915d6f4d80b74600e57e5c436d630261f1053ff7c155b18400e21e170685"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 324,
+      "sha256": "275c3e5e75d3bb959442c080d7bc41a35c230d3087b1681edb1f8d99d46429fc"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 341,
+      "sha256": "c6feeb51a77bce85e327fc7a04df2f5e6a6966bebb5286c78cb3b4158f7f2802"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 967,
+      "sha256": "757bcdca6c75019ebb89527b69f569262efca67ad2096750f03710b21f124f86"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 386,
+      "sha256": "43b373e6f5e145a86fade1f73e4ef3ef2af1d8c92e0dd845e0320623f5da83e4"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 402,
+      "sha256": "90815c28f0a73e02e692d673c816a3f68389cefc21652649014791e4aa76e5fe"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 522,
+      "sha256": "9595f6fd4eb48a7a363d9239d4c75548da0912f6061c90f1918d3b86d8113130"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 300,
+      "sha256": "1ca75c963aa80b8314e9e7d0c56658a0523f94fc2ae1d515e26c0c57e1a643b8"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 533,
+      "sha256": "28a29e2924491461998b45ccfa42f361e75c66112a86a658b6a34bebbeecc109"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 417,
+      "sha256": "dae824df7ff2ee6ee469f95a306703c52b2eb3dba4d638039e35e3e947530c95"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22074,
+      "sha256": "58efe1f0bd7ef1163b718388a563897b9c4e7342463271df710350b3c8669bd4"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "listings",
+    "stats"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

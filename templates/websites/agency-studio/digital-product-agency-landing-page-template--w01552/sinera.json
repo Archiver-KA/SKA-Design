@@ -1,0 +1,74 @@
+{
+  "id": "SN-W01552",
+  "title": "Digital Product Agency Landing Page Template",
+  "summary": "A dark, minimalist digital product agency landing page template for UX, branding, and Framer-focused service studios to showcase work, pricing, and contact.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Minimal",
+    "Dark",
+    "Large Type",
+    "Portfolio",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3580,
+      "sha256": "7082c69508214306df70a4e8a34bcc437b003c7e6d13c5c3b06946f576e80231"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15938,
+      "sha256": "b8c07de1db5c1aa0c012c3caa13c800163198a91b81d18b682e4b88c5fade963"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 821,
+      "sha256": "4abd028e80cfc6322b89f39c43aa3d13694d72325c98acf8b1b6ecf3535f89a3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37477,
+      "sha256": "854c6e4252abf4bd972a30fef20885a2a5fb3b3da418c324aee86ff96ce758f8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "stats",
+    "services",
+    "product-grid",
+    "dashboard-preview",
+    "cta",
+    "pricing",
+    "faq",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SN-W04209",
+  "title": "Interactive 3D Globe Visualization",
+  "summary": "Renders a customizable 3D globe made of lines with adjustable parameters and animated breathing and rotation effects.",
+  "tags": [
+    "3D Globe",
+    "Interactive UI",
+    "Animation",
+    "JavaScript",
+    "TailwindCSS",
+    "Sliders",
+    "Visualization"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2561,
+      "sha256": "5f3bd6769c05095cca107fe80d64d79b7c85e335ddb4ab2a240d42a9f7b1b4a0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7768,
+      "sha256": "898b3d5fe2f475ed37bd353fa35a70afe3d0a5048699aa130a26745ab252edf8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 727,
+      "sha256": "2840c749026d39609d0450bad617f9be16080b2414ba621ce623ac793ed16f8d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9584,
+      "sha256": "c13fa2c4c52bbe24bffac7083928c65fb22f23479c1460bda9657df2a6997b1b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

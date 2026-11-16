@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01213",
+  "title": "AI Budget Hero Section with Chart.js Financial Visuals",
+  "summary": "Responsive hero section built with Tailwind CSS featuring an AI budget assistant. Includes radar, bar, and doughnut charts via Chart.js, gradient card, fade-slide animation, and KPI stats—perfect for fintech dashboards or landing pages.",
+  "tags": [
+    "hero",
+    "landing",
+    "tailwind",
+    "chartjs",
+    "dashboard",
+    "financial",
+    "responsive",
+    "animated",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22514,
+      "sha256": "34096fa8e2ec0ec925864ec2b034be5a10611fa9ee89cb524afd50b858475004"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12577,
+      "sha256": "14298e1ac3e99f0a909af7745c5eeec2d1fc99d6f34290b4e4ce4672d8f08f2a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13452,
+      "sha256": "8779c70261caff2df56dd11974f6da3c865953618f9a85f509c4ad4b581bb450"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

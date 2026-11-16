@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00259",
+  "title": "Responsive CTA Banner with Dual Action Buttons",
+  "summary": "Compact call-to-action banner featuring a headline, subtitle and two icon-enhanced buttons. Built with Tailwind CSS, it adapts from column to row layout, making it ideal for landing pages, onboarding flows or product dashboards.",
+  "tags": [
+    "call-to-action",
+    "banner",
+    "tailwind",
+    "responsive",
+    "buttons",
+    "icons",
+    "marketing",
+    "ui-component"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6904,
+      "sha256": "c85ef5d7be0c21a97df287a6344a71f5f25e8a0ebd33040d2c89b36bd87ee5c0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1939,
+      "sha256": "b808737f554430fdd91630dfbed487f5f617c2156d6b59123490841383b5a433"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2936,
+      "sha256": "a066fda167163816ff4df0151c4dab1d41d3be34e0fa95824baaa3054b4d5d46"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

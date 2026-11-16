@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01809",
+  "title": "Arquitetura & Interiores Landing Page Template",
+  "summary": "Landing page template for architecture and interior design studios, showcasing services, principles, and projects with a dark, editorial-inspired aesthetic.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Art & Design",
+    "Portfolio",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Grid",
+    "3D"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3298,
+      "sha256": "d1811c3700441c11d7dceaddb41dd449772422580723a83cdee530454459b4f7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 38236,
+      "sha256": "c2d40cdc96ab80e89dd42b582b2d286f27768a2045b991f4cdb79ab715c2e901"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "d88fa620f2b38f3b712d0ef754130d37da0e318077a21731eb62b9df734d75be"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23288,
+      "sha256": "02f790e998844d1463edb98854ed44c2264855e343b2bff94eb62fa665a2e57f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

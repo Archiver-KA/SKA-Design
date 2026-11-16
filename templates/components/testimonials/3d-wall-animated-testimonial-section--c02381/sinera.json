@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02381",
+  "title": "3D Wall Animated Testimonial Section",
+  "summary": "Dark-themed testimonial section with vertically scrolling image cards, hover-reveal quotes, and a mobile horizontal carousel. Built with Tailwind-style utilities and custom CSS animations for showcasing client stories and social proof.",
+  "tags": [
+    "testimonial",
+    "section",
+    "tailwind",
+    "animated",
+    "responsive",
+    "social-proof",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22090,
+      "sha256": "f035524a51a88217c3dd972aafb6bf065a907392c5def35007f0e959e657136f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 25772,
+      "sha256": "a3003e1a6eef75ca9c0e544d220deb6f3c2e93231fcbfc6393795fb22086dffd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26629,
+      "sha256": "b474f5d0cea40eec7b7b35c8a75cc4224dcbad4db2c574af1a2abc44724c2c2d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

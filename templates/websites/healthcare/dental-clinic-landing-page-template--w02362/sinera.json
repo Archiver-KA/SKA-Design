@@ -1,0 +1,68 @@
+{
+  "id": "SN-W02362",
+  "title": "Dental Clinic Landing Page Template",
+  "summary": "A modern Dental Clinic Landing Page Template for aesthetic dentistry practices to showcase services, smile transformations, and book patient appointments.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Dental",
+    "Medical",
+    "Clinic"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3679,
+      "sha256": "a79cad1758dfbda7306699cd537a0e7adac355490f0fcdd3dfbb576e322d29b8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15038,
+      "sha256": "9fca34a1451d9f48559b465df85714bd710425c4473af50e2019fbab84a0c196"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "955d8063e78b61030708e9cee6ab2c7e6ed2a6b9b4c205aca28d9103e2ffbf87"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24759,
+      "sha256": "33f74117884ca90376f4330a0bc5eb1b1377cf7136583c8dd2f411ee1ca76592"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "services",
+    "testimonials",
+    "gallery-portfolio",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

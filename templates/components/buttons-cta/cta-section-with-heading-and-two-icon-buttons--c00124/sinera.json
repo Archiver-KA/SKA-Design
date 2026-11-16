@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00124",
+  "title": "CTA Section with Heading and Two Icon Buttons",
+  "summary": "Responsive Tailwind call-to-action block featuring heading, subheading, and primary/secondary rounded buttons with SVG icons. Ideal for landing pages or marketing sites to prompt discovery calls or downloads.",
+  "tags": [
+    "call-to-action",
+    "section",
+    "tailwind",
+    "responsive",
+    "icon",
+    "marketing",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 34080,
+      "sha256": "d7ee2a1b30e346a09ff7196c55829500a9f1da397a66ce96d9f1fa95e0eece5f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2371,
+      "sha256": "ba6e55ba3eaf108120be8b24a2e71cf41a6916caaa1ab2615a66a348aa5b837f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3367,
+      "sha256": "8a9ec4124cccaf888a2c28209df58ee4ca880b514171d68b6fe5a88184d999b8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

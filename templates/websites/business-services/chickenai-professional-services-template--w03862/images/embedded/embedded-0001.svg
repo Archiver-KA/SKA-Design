@@ -1,0 +1,16 @@
+<svg class="absolute inset-0 w-full h-full opacity-[0.15]" preserveAspectRatio="none">
+        <path d="M0,200 C400,300 600,0 1000,100 C1400,200 1800,500 2000,400" fill="none" stroke="url(#noodle-grad)" stroke-width="2" class="noodle-path"></path>
+        <path d="M0,600 C500,400 800,800 1200,600 C1600,400 1900,900 2000,800" fill="none" stroke="url(#noodle-grad-2)" stroke-width="1.5" class="noodle-path" style="animation-direction: reverse; animation-duration: 25s;"></path>
+        <defs>
+            <linearGradient id="noodle-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="transparent"></stop>
+                <stop offset="50%" stop-color="rgba(150,150,150,0.8)"></stop>
+                <stop offset="100%" stop-color="transparent"></stop>
+            </linearGradient>
+            <linearGradient id="noodle-grad-2" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="transparent"></stop>
+                <stop offset="50%" stop-color="rgba(59,130,246,0.6)"></stop>
+                <stop offset="100%" stop-color="transparent"></stop>
+            </linearGradient>
+        </defs>
+    </svg>

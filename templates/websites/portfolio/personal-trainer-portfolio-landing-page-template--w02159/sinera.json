@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02159",
+  "title": "Personal Trainer Portfolio Landing Page Template",
+  "summary": "Dark personal trainer (Marcus Fit) landing page with oversized stacked type, goal-based program rows, a weekly schedule grid, three plans and a lime sign-up block.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Health",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Portfolio",
+    "Personal Trainer",
+    "Fitness Coach"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3131,
+      "sha256": "e138ed9ed67c8961e80544526b4fd929b68eee5f1c2e5f998ed4cc5370030937"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15830,
+      "sha256": "5d6d8cb5a05d3bb9587a33ac37fabbd4a16c4fa615b4967a5fbe3ea8426695ca"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 818,
+      "sha256": "5a4056c2e1c13034199cd384228d72ab87d2f6bcf7804258b9e4554b6c7aa3a1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17515,
+      "sha256": "4f89583d6ff3568550ebc42de0f1da5cf37cc6844a36f919ae380c2120551ecf"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud"
+  ],
+  "quality": {
+    "status": "rebuilt",
+    "issues": [],
+    "rendered": true
+  },
+  "language": "en",
+  "designSystem": "sinera-atlas@1.0.0",
+  "design": "DESIGN.md"
+}

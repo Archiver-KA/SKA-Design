@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01370",
+  "title": "Hero About Section",
+  "summary": "Large heading section with descriptive text and location info, perfect for about pages with dramatic typography and minimal layout.",
+  "tags": [
+    "about",
+    "typography",
+    "location",
+    "divider",
+    "dark-theme"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6614,
+      "sha256": "4e56d64292a3459cbc342f8713f47893e90edd57bd277c927e86dff3251b0ded"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1151,
+      "sha256": "5d9383ccea0129628e0e9dd348c47c210699ba810e0909a095906e69618c2f61"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1990,
+      "sha256": "c10acd119dfee90a076161eb1934112f5f6bdd44a4b4b45a7d6ed2260981a87f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

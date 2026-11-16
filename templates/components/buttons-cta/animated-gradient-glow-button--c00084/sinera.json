@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00084",
+  "title": "Animated Gradient Glow Button",
+  "summary": "A Tailwind CSS button with rotating gradient glow border, sweep hover effect, and subtle scale/shadow animations. Ideal for prominent call-to-action elements like contact, signup, or purchase buttons.",
+  "tags": [
+    "button",
+    "tailwind",
+    "animated",
+    "interactive",
+    "hover",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1770,
+      "sha256": "f2a4b21ea5bbaf6f5e00e7e4bb91cd10bd1812bee6b249350800a7460bfef1a1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1294,
+      "sha256": "aa1d3e3939ca938fe839853b203c66ec4d62829ea0e3a75fe2187c37f7de4c9e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2144,
+      "sha256": "2681f7ac4982ad3a9ac75bfcfe98427bff92ce9e204a7c70b8cfb54f719d897c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

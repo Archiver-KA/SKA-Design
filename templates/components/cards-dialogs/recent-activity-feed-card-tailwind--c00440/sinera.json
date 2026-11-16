@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00440",
+  "title": "Recent Activity Feed Card (Tailwind)",
+  "summary": "Glassmorphic card displaying a list of recent user events with avatars, icons, timestamps plus Filter and View-all actions. Built with Tailwind CSS; great for dashboards, admin panels or project overviews.",
+  "tags": [
+    "card",
+    "activity-feed",
+    "tailwind",
+    "dashboard",
+    "list",
+    "widget",
+    "interactive",
+    "glassmorphism"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10364,
+      "sha256": "0069cae846494f4352977a85a1c2cff13861c19e47ae2ab1a418c6b340d020f9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7551,
+      "sha256": "79c19937a96b13955fefd85a12bed0ec2e5d8df61d81d52c2d561a7ff136e84f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8538,
+      "sha256": "a996367c9e95d2a43b6c6915fdedaa393937a30f830711833a24570b03c330b0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

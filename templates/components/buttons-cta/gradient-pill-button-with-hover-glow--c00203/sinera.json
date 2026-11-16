@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00203",
+  "title": "Gradient Pill Button with Hover Glow",
+  "summary": "A rounded pill-shaped submit button with orange-yellow gradient background, subtle hover brightness, and glow shadow effect. Ideal for primary CTAs like “Get Started” or signup actions in modern, attention-grabbing interfaces.",
+  "tags": [
+    "button",
+    "cta",
+    "gradient",
+    "hover",
+    "interactive",
+    "tailwind",
+    "rounded"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1894,
+      "sha256": "91e42b7e65318de72e48157afd9f9100ae508954fc9467d171a431aad641791a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 521,
+      "sha256": "8a0a8312e29d36d5356c96cd19007d6605d2c37b8f445077273f85751108a811"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1378,
+      "sha256": "a331c79571135424154f4bf3da384a1458f843712050af46312b14cde37fd9e8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

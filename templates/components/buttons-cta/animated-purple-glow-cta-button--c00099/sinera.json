@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00099",
+  "title": "Animated Purple Glow CTA Button",
+  "summary": "Interactive call-to-action button with sliding purple glow overlay, gradient vignette, and subtle top line on hover. Built with Tailwind CSS utilities and custom keyframe animation, perfect for contact links or hero sections needing an eye-catching CTA.",
+  "tags": [
+    "button",
+    "tailwind",
+    "animated",
+    "hover",
+    "cta",
+    "glow",
+    "gradient",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1572,
+      "sha256": "dc4d0f38e6480ff000c18956345b5d3c4881e94683dad5132cd8c861457cf178"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1582,
+      "sha256": "61d35a701f6a5fd501f6b843cfef01818e20a2406d21d1288db5447a3ca09797"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2434,
+      "sha256": "0c649213e7f8ac6158e7ae42811e997b5497ca9f8c8543d9368bfb5411726ed1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "SN-W00583",
+  "title": "Nexus Idea Arcade SaaS Template",
+  "summary": "A high-performance landing page template featuring a retro-futuristic arcade aesthetic with integrated physics-based visual elements and gamified sections.",
+  "tags": [
+    "Technology",
+    "Animated",
+    "Dark",
+    "Futuristic",
+    "Portfolio",
+    "Clean",
+    "Brutal"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3329,
+      "sha256": "a0b92292dc14a5f360927d8a09d688f6997a32218a87ca1036f6621b747ac587"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 23826,
+      "sha256": "c848de81d6a94eb4535c242f02d9b2e1541213693e9775257d540af8f50f448e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "cbffed0ff87381f193c66c4440c38033680de9d9017893f42623579bbf2461cb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 213338,
+      "sha256": "08f7d2bb45e44776c4b03e14fb428cd4c8ff0c3f60d818be21c06713380fbf31"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "stats",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

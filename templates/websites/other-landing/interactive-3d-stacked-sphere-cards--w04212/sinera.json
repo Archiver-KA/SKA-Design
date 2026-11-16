@@ -1,0 +1,73 @@
+{
+  "id": "SN-W04212",
+  "title": "Interactive 3D Stacked Sphere Cards",
+  "summary": "Displays a 3D perspective stack of interactive sphere-themed cards with layered shadows and a dynamic background.",
+  "tags": [
+    "3D Cards",
+    "Interactive UI",
+    "Stacked Layout",
+    "SVG Graphics",
+    "Tailwind CSS",
+    "Perspective Effect"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2549,
+      "sha256": "c9b6d0de941f53e2ebdefc58e0354ec0291c5d3147efe34adfac00e3986f7a02"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9656,
+      "sha256": "f5f6ae6fb656b529842a4ecc88101231ab324943e393afd95a5faa344e23ef18"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1266,
+      "sha256": "f19cb839cbe78bba746b2f2e01f4fc73fb44c47afa4ce11a42e6a13e5019e981"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1175,
+      "sha256": "f14bb131e39ec853e0199a63a7c6fc9e03aba825b09c419375d949bcd001d48b"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 1175,
+      "sha256": "a6e02e7da9de525d8fb68a882783de249408ed1fa6d3c244ec931f52a04f8a3c"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 1175,
+      "sha256": "fea76af447477c633bfefadff89df9047eef8c3436140288e05f8337e3a2d7f8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9783,
+      "sha256": "302f6876a05b3526c335b242a6640a80f61a9fdf2ba191ab059e7c32f4847766"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "video-media"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

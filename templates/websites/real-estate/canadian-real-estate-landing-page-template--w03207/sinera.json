@@ -1,0 +1,72 @@
+{
+  "id": "SN-W03207",
+  "title": "Canadian Real Estate Landing Page Template",
+  "summary": "A premium Golden Vertex-inspired Canadian real estate landing page template for showcasing luxury listings, agents, and services across major cities.",
+  "tags": [
+    "Landing Page",
+    "Real Estate",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Portfolio",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3755,
+      "sha256": "d173325339f890639131fd6979ceff83597a3018ecdc65a3e936744c1c3fd2ca"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 51752,
+      "sha256": "63c1d6504fc3cb245d0b96abbdcc80b746461ac238e83d6074300c9b468fc589"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 815,
+      "sha256": "9439489700b4113d3c7103aa3afa4f9bce4ad58c62d0c4533b7f7551f35f8fce"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39256,
+      "sha256": "9dd170ada71d8ea697841833f8c5572365cae9befaf558409530492aa62f472e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "listings",
+    "map-location",
+    "features",
+    "product-grid",
+    "testimonials",
+    "team",
+    "timeline",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

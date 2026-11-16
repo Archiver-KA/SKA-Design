@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01419",
+  "title": "Landing Hero Section with Code Demo and CTAs",
+  "summary": "Responsive Tailwind hero section featuring beta badge, headline, sub-text, primary & secondary CTAs, avatar trust badges, code/terminal showcase, product screenshot, and sponsor logos—perfect for SaaS or developer-tool landing pages.",
+  "tags": [
+    "hero",
+    "landing-page",
+    "cta",
+    "tailwind",
+    "responsive",
+    "saas",
+    "marketing",
+    "code-demo"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 36736,
+      "sha256": "8aa0b2fdbead748ec86c61ef213fc38127f4e3a59f1b49498ffb2880a9a4233c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8760,
+      "sha256": "dc8339bce8cdd00367f27f8e6191909d17ce34c09d77ee5ebcc0d99ac3acf6f8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9755,
+      "sha256": "2fd88b80509e135b8042508d98a9699bc28d15de31a87586720d152228612251"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03721",
+  "title": "MacOS Desktop Simulation Landing Page Template",
+  "summary": "This template simulates a MacOS desktop environment with interactive apps and utilities, ideal for showcasing app demos or UI concepts.",
+  "tags": [
+    "Landing Page",
+    "Desktop UI",
+    "Interactive Apps",
+    "Music Player",
+    "Games",
+    "Virus Scanner",
+    "Photo Gallery",
+    "Calculator",
+    "Settings"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3716,
+      "sha256": "bada8a9b63b482e03e56eb77c61ff322972e9a90281155c33d53875d31764143"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5462,
+      "sha256": "eda32948ea84ed1ef40c6f0eb800994fe6b08af00d63daf7094571771298f236"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 739,
+      "sha256": "08ea12c0e220244efe92b490ae6007a2d793dbe19c7c84ef53a89099453c4dae"
+    },
+    {
+      "path": "index.html",
+      "bytes": 248558,
+      "sha256": "a95138071cc9654d2daaa6742bd0aa2805ceb3bb127a546621f32733393c2c5b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "app-download",
+    "navbar",
+    "cta",
+    "hero",
+    "3d-canvas",
+    "gallery-portfolio",
+    "features",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

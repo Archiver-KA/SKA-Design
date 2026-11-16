@@ -1,0 +1,142 @@
+{
+  "id": "SN-W00507",
+  "title": "Lumimotion | AI Prompt Engineering Landing Page Template",
+  "summary": "A high-performance landing page template for premium AI prompt libraries, featuring structured UI patterns and designer-crafted system prompts.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Clean",
+    "Dark",
+    "Futuristic",
+    "Animated",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "react",
+  "entry": "package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3306,
+      "sha256": "e1aa3760b67fc0706063a322c2fc22a23837134dc7a86615438186b960d2e322"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12612,
+      "sha256": "df2946387eb6171e2f847540a051ef794a65e604c39697d41d6b005923aa3ede"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 753,
+      "sha256": "a73f7481a796d7e753b2a228b76176c054ede4ae961d9869763451f20f1a23df"
+    },
+    {
+      "path": "index.html",
+      "bytes": 787,
+      "sha256": "1cf594e501685d0929929ff1bffaeba11686dd81a5fb2237bb64c4bd9469699b"
+    },
+    {
+      "path": "package.json",
+      "bytes": 648,
+      "sha256": "b90ac9146e6a6bcf7b2feb93531f93c2582245ebac6a42a436365e465948a7f8"
+    },
+    {
+      "path": "postcss.config.js",
+      "bytes": 79,
+      "sha256": "010e8774c76996e28b1f2290d690b3b64f56f2fbe26c747b4419ee0110d0a002"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 1402,
+      "sha256": "baf82b9753cafa6b827f264a2519def065da864e9fc6289aac0695704e0bf833"
+    },
+    {
+      "path": "src/components/hero/HeroMockup.jsx",
+      "bytes": 14652,
+      "sha256": "f715424b9a44fecc69b714bfad0e90b84f7c8feb9a27dddc5887ba29d12e534d"
+    },
+    {
+      "path": "src/components/hero/LandingHero.jsx",
+      "bytes": 2945,
+      "sha256": "6496c19eab5597019bf8c03f1e53ac7bbdae1d5503414f6b8bb8a5796da11e50"
+    },
+    {
+      "path": "src/components/layout/GridSystemLayout.jsx",
+      "bytes": 3226,
+      "sha256": "332aa7d5d08c9eca565c95d2b2a5de1cf7e7380059fcef03c3968aba270de256"
+    },
+    {
+      "path": "src/components/library/PromptCard.jsx",
+      "bytes": 5005,
+      "sha256": "6ebbd273b58bb3c84e21788f12ac04b3545ae5cd94e969d43c4a70aad369d330"
+    },
+    {
+      "path": "src/components/ui/SectionFrame.jsx",
+      "bytes": 993,
+      "sha256": "4e38808734d00799913e96f390b1f78ba5218a62d4114daef637dbe0cb68d77b"
+    },
+    {
+      "path": "src/components/ui/TextAnimations.jsx",
+      "bytes": 1045,
+      "sha256": "26d6708ad9eca61b463afd72691c17c165d6e8610475d335dbbdaac57c0887d9"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 4065,
+      "sha256": "df2c5de32f26e7b72656f8814db199a86a4cbca5803d9c5ab39f5c7f71232382"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 465,
+      "sha256": "bdb99e4086be11015147ddf0ab6f000a130fd3e2f2531a73acc2bdf7b7fd5bd3"
+    },
+    {
+      "path": "src/pages/LandingPage.jsx",
+      "bytes": 43957,
+      "sha256": "f24d0b5ea9dfe54103a5d82c8c87995b4dfcb750b71f3adf02522db526cf17da"
+    },
+    {
+      "path": "src/pages/LibraryPage.jsx",
+      "bytes": 10405,
+      "sha256": "965ecf1a7144fbe164edc96e2cc97a125427a3e547f0aa1c57c6ee2ef48eaeeb"
+    },
+    {
+      "path": "src/pages/PricingPage.jsx",
+      "bytes": 18604,
+      "sha256": "62b2a9bd754080f50b28834fac1b40d5ef423037872d778449ef3b6a4f7c851f"
+    },
+    {
+      "path": "src/pages/UnlockPage.jsx",
+      "bytes": 15052,
+      "sha256": "04606bd72c59c6e9ba2060d4d53bb6e0ff963d0353da277492803999e3c69306"
+    },
+    {
+      "path": "tailwind.config.js",
+      "bytes": 416,
+      "sha256": "2a15e6a2de65eaa0f6257cbacd40fb0d66106afdb59ff84bb50bacbed6b09a60"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 132,
+      "sha256": "7679dd2d1d73606860bf36d711ad385a18cda4412d6e105062570af4454d6b58"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

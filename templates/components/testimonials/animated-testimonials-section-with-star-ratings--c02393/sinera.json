@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02393",
+  "title": "Animated Testimonials Section with Star Ratings",
+  "summary": "Responsive three-card testimonials section using Tailwind CSS. Features star ratings, quote text, avatar initials, glassmorphic cards and fade-in on-scroll animations—ideal for landing pages or product marketing sites.",
+  "tags": [
+    "testimonials",
+    "reviews",
+    "tailwind",
+    "animated",
+    "responsive",
+    "grid",
+    "marketing",
+    "section",
+    "testimonial"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22224,
+      "sha256": "e2115f477c96964d77edd8c75b2834f46a8a47b00b6291197f38061062510f03"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8626,
+      "sha256": "e102ccfb733513c80670445044380a724e123b77e24ac317c1f5c12b9f285049"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9494,
+      "sha256": "9509f21c40a0c044dc8a693082c222d23219c65d763ceee556766e28b18f4c62"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

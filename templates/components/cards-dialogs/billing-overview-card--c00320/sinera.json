@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00320",
+  "title": "Billing Overview Card",
+  "summary": "Account billing overview showing trial status, credit remaining, and quick action buttons for payment management",
+  "tags": [
+    "billing",
+    "overview",
+    "account",
+    "card",
+    "credit",
+    "trial",
+    "responsive",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6232,
+      "sha256": "ca41f1cff79039f024ae2caf5225de88982e3d226af8fde4f4ef468570a5b546"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1209,
+      "sha256": "c903aa0846712934d71fd41dccacc0ff9df8ee0f013bc872eef7a8c5643c6cb4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2051,
+      "sha256": "23d831fd90d8d4a89a4275dcc422e8c2916a3d05d936e91e13bb76e014e41c72"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

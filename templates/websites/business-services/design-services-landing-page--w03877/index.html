@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="en" data-theme="route">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Stellar Design Studio | Brand identity, UI/UX and web development</title>
+<meta name="description" content="Stellar Design Studio creates brand identities, UI/UX and websites for growing businesses. A clear process, delivered milestone by milestone.">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config={theme:{extend:{colors:{ground:'#EEF1F3',surface:'#FFFFFF',ink:'#10212B',muted:'#4A5C68',line:'#CDD5DA',accent:'#F26B1D',accent2:'#1F5F8B'},fontFamily:{display:['"Barlow Condensed"','system-ui','sans-serif'],body:['Inter','system-ui','sans-serif']}}}};
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+[data-theme="route"]{--sa-ground:#EEF1F3;--sa-surface:#FFFFFF;--sa-ink:#10212B;--sa-muted:#4A5C68;--sa-line:#CDD5DA;--sa-accent:#F26B1D;--sa-on-accent:#10212B;--sa-accent-2:#1F5F8B;--sa-on-accent-2:#FFFFFF;--sa-font-display:"Barlow Condensed",system-ui,sans-serif;--sa-font-body:"Inter",system-ui,sans-serif;--sa-radius-control:0px;--sa-radius-card:0px;--sa-display-case:uppercase;color-scheme:light;background:var(--sa-ground);color:var(--sa-ink);font-family:var(--sa-font-body)}
+[data-theme] :is(h1,h2,h3){font-family:var(--sa-font-display);text-transform:var(--sa-display-case);text-wrap:balance;letter-spacing:.005em}
+body{background:var(--sa-ground);color:var(--sa-ink);font-family:var(--sa-font-body);-webkit-font-smoothing:antialiased}
+.sa-btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;padding:0 22px;border:0;border-radius:0;background:var(--sa-accent);color:var(--sa-on-accent);font:600 15px/1 var(--sa-font-body);text-decoration:none;cursor:pointer}
+.sa-btn:hover{background:#FF7F36}
+.sa-btn--ghost{background:transparent;box-shadow:inset 0 0 0 1px var(--sa-ink)}
+.sa-btn--ghost:hover{background:var(--sa-ink);color:#fff}
+:focus-visible{outline:2px solid var(--sa-ink);outline-offset:2px}
+.on-ink :focus-visible{outline-color:#fff}
+.fld{display:block;width:100%;min-height:48px;padding:0 12px;border:1px solid var(--sa-ink);border-radius:0;background:#fff;color:var(--sa-ink);font:400 15px var(--sa-font-body)}
+.lbl{display:block;margin-bottom:6px;font:600 12px/1 var(--sa-font-body);letter-spacing:.08em;text-transform:uppercase;color:var(--sa-muted)}
+details>summary{list-style:none;cursor:pointer;min-height:56px;display:flex;align-items:center;justify-content:space-between;gap:16px}
+details>summary::-webkit-details-marker{display:none}
+details[open] .plus{transform:rotate(45deg)}
+.plus{transition:transform .2s}
+.ph{display:flex;align-items:center;justify-content:center;text-align:center;font-size:13px;color:var(--sa-muted);background:repeating-linear-gradient(135deg,#E3E8EB 0 10px,#EEF1F3 10px 20px);border:1px solid var(--sa-line)}
+</style>
+<style>
+.gridbg{background-image:linear-gradient(var(--sa-line) 1px,transparent 1px),linear-gradient(90deg,var(--sa-line) 1px,transparent 1px);background-size:48px 48px}
+.row-link:hover .arr{transform:translateX(6px)}
+.arr{transition:transform .2s}
+</style>
+</head>
+<body>
+<header class="bg-ground border-b border-ink sticky top-0 z-40">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
+    <a href="#top" class="font-display text-2xl font-bold uppercase tracking-wide flex items-center gap-2" aria-label="Stellar Design Studio, back to top">
+      <svg width="26" height="26" viewBox="0 0 26 26" aria-hidden="true"><path d="M13 1l3.2 8.8L25 13l-8.8 3.2L13 25l-3.2-8.8L1 13l8.8-3.2z" fill="#10212B"/></svg>Stellar</a>
+    <nav class="hidden md:flex items-center gap-8 text-[15px] font-medium" aria-label="Main">
+      <a class="hover:underline underline-offset-4" href="#dich-vu">Services</a>
+      <a class="hover:underline underline-offset-4" href="#du-an">Projects</a>
+      <a class="hover:underline underline-offset-4" href="#quy-trinh">Process</a>
+      <a class="hover:underline underline-offset-4" href="#hoi-dap">FAQ</a>
+    </nav>
+    <div class="flex items-center gap-2">
+      <a href="#lien-he" class="sa-btn hidden sm:inline-flex">Get in touch</a>
+      <button id="mbtn" class="md:hidden w-11 h-11 inline-flex items-center justify-center border border-ink" aria-label="Open menu" aria-expanded="false" aria-controls="mnav">
+        <svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 6h16M3 11h16M3 16h16"/></svg>
+      </button>
+    </div>
+  </div>
+  <nav id="mnav" class="hidden md:hidden border-t border-line bg-ground" aria-label="Mobile menu">
+    <div class="px-4 py-2 flex flex-col">
+      <a class="min-h-[48px] flex items-center border-b border-line" href="#dich-vu">Services</a>
+      <a class="min-h-[48px] flex items-center border-b border-line" href="#du-an">Projects</a>
+      <a class="min-h-[48px] flex items-center border-b border-line" href="#quy-trinh">Process</a>
+      <a class="min-h-[48px] flex items-center border-b border-line" href="#hoi-dap">FAQ</a>
+      <a class="sa-btn my-3" href="#lien-he">Get in touch</a>
+    </div>
+  </nav>
+</header>
+
+<main id="top">
+<!-- HERO: coordinate grid + geometry -->
+<section class="gridbg border-b border-ink">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-14 lg:py-24 grid lg:grid-cols-12 gap-10 items-center">
+    <div class="lg:col-span-7 bg-ground/90 lg:pr-6">
+      <p class="lbl">Design studio · Brand · Interface · Web</p>
+      <h1 class="text-[64px] leading-[0.88] sm:text-8xl lg:text-[120px] font-bold">Design that makes a difference, measured in results</h1>
+      <p class="mt-6 max-w-xl text-lg text-muted">We build brand identities, app interfaces and websites for businesses that need to be seen more clearly. Every project is split into milestones, and you approve each one before we move on.</p>
+      <div class="mt-8 flex flex-wrap gap-3">
+        <a href="#lien-he" class="sa-btn">Start a project</a>
+        <a href="#du-an" class="sa-btn sa-btn--ghost">View our work</a>
+      </div>
+    </div>
+    <div class="lg:col-span-5" aria-hidden="true">
+      <svg viewBox="0 0 400 400" class="w-full max-w-md mx-auto">
+        <rect x="10" y="10" width="380" height="380" fill="#FFFFFF" stroke="#10212B" stroke-width="2"/>
+        <rect x="40" y="40" width="150" height="150" fill="#1F5F8B"/>
+        <circle cx="290" cy="115" r="75" fill="#F26B1D"/>
+        <path d="M40 360V220h150z" fill="#10212B"/>
+        <rect x="220" y="220" width="140" height="140" fill="none" stroke="#10212B" stroke-width="2"/>
+        <path d="M220 360L360 220M220 290h140M290 220v140" stroke="#10212B" stroke-width="1"/>
+      </svg>
+    </div>
+  </div>
+</section>
+
+<!-- SERVICES: numbered index -->
+<section id="dich-vu" class="max-w-6xl mx-auto px-4 sm:px-6 py-16 lg:py-24">
+  <h2 class="text-5xl sm:text-6xl font-bold leading-[0.95]">Three things we do well</h2>
+  <div class="mt-10 border-t-2 border-ink">
+    <article class="row-link grid md:grid-cols-12 gap-3 md:gap-6 py-7 border-b border-line">
+      <span class="md:col-span-1 font-display text-3xl font-bold text-accent2">01</span>
+      <h3 class="md:col-span-4 text-4xl sm:text-5xl font-bold leading-none">Brand identity</h3>
+      <p class="md:col-span-5 text-muted">Logo, colour palette, typography, usage guidelines and applications for stationery, packaging and social media. Source files included.</p>
+      <p class="md:col-span-2 text-sm font-semibold md:text-right">[YOUR PRICE]</p>
+    </article>
+    <article class="row-link grid md:grid-cols-12 gap-3 md:gap-6 py-7 border-b border-line">
+      <span class="md:col-span-1 font-display text-3xl font-bold text-accent2">02</span>
+      <h3 class="md:col-span-4 text-4xl sm:text-5xl font-bold leading-none">UI/UX design</h3>
+      <p class="md:col-span-5 text-muted">User research, flow maps, wireframes and finished interfaces for apps and websites, with a component system ready for your developers.</p>
+      <p class="md:col-span-2 text-sm font-semibold md:text-right">[YOUR PRICE]</p>
+    </article>
+    <article class="row-link grid md:grid-cols-12 gap-3 md:gap-6 py-7 border-b border-line">
+      <span class="md:col-span-1 font-display text-3xl font-bold text-accent2">03</span>
+      <h3 class="md:col-span-4 text-4xl sm:text-5xl font-bold leading-none">Web development</h3>
+      <p class="md:col-span-5 text-muted">Built from the design, responsive on mobile, tuned for speed and set up with analytics. Admin documentation handed over.</p>
+      <p class="md:col-span-2 text-sm font-semibold md:text-right">[YOUR PRICE]</p>
+    </article>
+  </div>
+</section>
+
+<!-- PROJECTS: asymmetric grid -->
+<section id="du-an" class="bg-surface border-y border-line">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-16 lg:py-24">
+    <div class="flex flex-wrap items-end justify-between gap-4">
+      <h2 class="text-5xl sm:text-6xl font-bold leading-[0.95]">Selected work</h2>
+      <p class="text-muted max-w-sm text-[15px]">Replace the blocks below with real images of the studio's projects.</p>
+    </div>
+    <div class="mt-10 grid md:grid-cols-6 gap-6">
+      <figure class="md:col-span-4"><div class="ph aspect-[16/10]">Project image 1 · brand identity · 16:10</div><figcaption class="pt-3 flex justify-between gap-4"><span class="font-display text-2xl uppercase font-semibold">[PROJECT NAME]</span><span class="text-sm text-muted">[INDUSTRY · YEAR]</span></figcaption></figure>
+      <figure class="md:col-span-2"><div class="ph aspect-[4/5] md:aspect-auto md:h-[calc(100%-3.5rem)]">Project image 2 · 4:5</div><figcaption class="pt-3 flex justify-between gap-4"><span class="font-display text-2xl uppercase font-semibold">[PROJECT NAME]</span><span class="text-sm text-muted">[INDUSTRY · YEAR]</span></figcaption></figure>
+      <figure class="md:col-span-2"><div class="ph aspect-[4/5]">Project image 3 · 4:5</div><figcaption class="pt-3 flex justify-between gap-4"><span class="font-display text-2xl uppercase font-semibold">[PROJECT NAME]</span><span class="text-sm text-muted">[INDUSTRY · YEAR]</span></figcaption></figure>
+      <figure class="md:col-span-4"><div class="ph aspect-[16/10]">Project image 4 · website interface · 16:10</div><figcaption class="pt-3 flex justify-between gap-4"><span class="font-display text-2xl uppercase font-semibold">[PROJECT NAME]</span><span class="text-sm text-muted">[INDUSTRY · YEAR]</span></figcaption></figure>
+    </div>
+    <blockquote class="mt-14 max-w-3xl font-display text-3xl sm:text-4xl uppercase font-semibold leading-[1.1]">“[CLIENT QUOTE ABOUT THE RESULTS OF WORKING WITH THE STUDIO]”<footer class="mt-3 font-body normal-case text-base font-normal text-muted">[NAME, JOB TITLE]</footer></blockquote>
+  </div>
+</section>
+
+<!-- PROCESS -->
+<section id="quy-trinh" class="max-w-6xl mx-auto px-4 sm:px-6 py-16 lg:py-24">
+  <h2 class="text-5xl sm:text-6xl font-bold leading-[0.95] max-w-3xl">You approve every milestone, so there are no surprises at the end</h2>
+  <ol class="mt-10 grid sm:grid-cols-2 lg:grid-cols-4 border-t-2 border-ink">
+    <li class="pt-5 pb-6 pr-6"><span class="font-display text-6xl font-bold text-accent2">01</span><h3 class="text-2xl font-semibold">Discover</h3><p class="mt-2 text-[15px] text-muted">A workshop on your goals, customers and competitors. Scope agreed in writing.</p></li>
+    <li class="pt-5 pb-6 pr-6"><span class="font-display text-6xl font-bold text-accent2">02</span><h3 class="text-2xl font-semibold">Explore</h3><p class="mt-2 text-[15px] text-muted">We present design directions to choose from, with the reasoning behind each.</p></li>
+    <li class="pt-5 pb-6 pr-6"><span class="font-display text-6xl font-bold text-accent2">03</span><h3 class="text-2xl font-semibold">Refine</h3><p class="mt-2 text-[15px] text-muted">We develop the chosen direction. Rounds of revisions included: [NUMBER OF ROUNDS].</p></li>
+    <li class="pt-5 pb-6 pr-6"><span class="font-display text-6xl font-bold text-accent2">04</span><h3 class="text-2xl font-semibold">Deliver</h3><p class="mt-2 text-[15px] text-muted">Source files, guidelines and a handover session for your team.</p></li>
+  </ol>
+</section>
+
+<!-- WAYS TO WORK TOGETHER -->
+<section class="bg-ink text-white on-ink">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-16 lg:py-20 grid lg:grid-cols-12 gap-10">
+    <h2 class="lg:col-span-4 text-5xl sm:text-6xl font-bold leading-[0.95]">Two ways to work with us</h2>
+    <div class="lg:col-span-8 grid sm:grid-cols-2 gap-px bg-[#2A3F4D]">
+      <div class="bg-ink p-6"><h3 class="text-3xl font-semibold">Fixed-scope project</h3><p class="mt-3 text-[#C9D3D9] text-[15px]">Scope and schedule fixed from day one. Ideal when you know exactly what you need.</p><p class="mt-4 font-semibold">[YOUR PRICE]</p></div>
+      <div class="bg-ink p-6"><h3 class="text-3xl font-semibold">Monthly retainer</h3><p class="mt-3 text-[#C9D3D9] text-[15px]">A design team on call for whatever comes up. Ideal when your product keeps evolving.</p><p class="mt-4 font-semibold">[YOUR PRICE] / month</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section id="hoi-dap" class="max-w-3xl mx-auto px-4 sm:px-6 py-16 lg:py-24">
+  <h2 class="text-5xl sm:text-6xl font-bold leading-[0.95]">Questions before we start</h2>
+  <div class="mt-8 border-t border-ink">
+    <details class="border-b border-line"><summary class="font-semibold">How long does a project take?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">It depends on scope. After the discovery session you receive a milestone schedule with delivery dates: [ESTIMATED TIMELINE].</p></details>
+    <details class="border-b border-line"><summary class="font-semibold">Do I own the work once I've paid?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">Yes. Ownership transfers to you on final payment, together with source files and licensed fonts.</p></details>
+    <details class="border-b border-line"><summary class="font-semibold">Do you make changes after handover?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">Yes, there is a free bug-fix period of [NUMBER OF DAYS]. New work is quoted separately.</p></details>
+    <details class="border-b border-line"><summary class="font-semibold">How are payments split?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">By milestone: [DEPOSIT PERCENTAGE] at the start, the rest as each milestone is approved.</p></details>
+  </div>
+</section>
+
+<!-- CONTACT -->
+<section id="lien-he" class="bg-accent">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-14 grid lg:grid-cols-12 gap-10">
+    <div class="lg:col-span-6">
+      <h2 class="text-5xl sm:text-7xl font-bold leading-[0.9]">Tell us about your project</h2>
+      <p class="mt-4 text-lg">We reply within [NUMBER OF DAYS] working days.</p>
+    </div>
+    <form class="lg:col-span-6 bg-surface border border-ink p-6 grid sm:grid-cols-2 gap-4" onsubmit="event.preventDefault();document.getElementById('f-ok').hidden=false">
+      <div><label class="lbl" for="f-name">Full name</label><input id="f-name" class="fld" type="text" autocomplete="name"></div>
+      <div><label class="lbl" for="f-mail">Email</label><input id="f-mail" class="fld" type="email" autocomplete="email"></div>
+      <div class="sm:col-span-2"><label class="lbl" for="f-type">What do you need?</label><select id="f-type" class="fld"><option>Brand identity</option><option>UI/UX design</option><option>Web development</option></select></div>
+      <div class="sm:col-span-2"><label class="lbl" for="f-msg">Short description</label><textarea id="f-msg" class="fld py-3 min-h-[96px]" rows="3"></textarea></div>
+      <div class="sm:col-span-2"><button class="inline-flex items-center justify-center min-h-[48px] px-8 bg-ink text-white font-semibold w-full sm:w-auto" type="submit">Get in touch</button></div>
+      <p id="f-ok" hidden class="sm:col-span-2 text-sm font-medium text-accent2" role="status">Request received. This is a template: connect the form to your studio's email.</p>
+    </form>
+  </div>
+</section>
+</main>
+
+<footer class="bg-ink text-[#C9D3D9] on-ink">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-10 grid md:grid-cols-3 gap-8 text-[15px]">
+    <div><p class="font-display text-2xl font-bold uppercase text-white">Stellar Design Studio</p><p class="mt-2">[YOUR ADDRESS]</p></div>
+    <div><p class="font-semibold text-white">Contact</p><p class="mt-2">[YOUR PHONE NUMBER] · [YOUR EMAIL]</p></div>
+    <div><p class="font-semibold text-white">Follow us</p><p class="mt-2">[SOCIAL MEDIA LINKS]</p></div>
+  </div>
+</footer>
+<script>
+var b=document.getElementById('mbtn'),n=document.getElementById('mnav');
+b.addEventListener('click',function(){var o=n.classList.toggle('hidden')===false;b.setAttribute('aria-expanded',o);b.setAttribute('aria-label',o?'Close menu':'Open menu')});
+n.addEventListener('click',function(e){if(e.target.tagName==='A'){n.classList.add('hidden');b.setAttribute('aria-expanded','false')}});
+</script>
+</body>
+</html>

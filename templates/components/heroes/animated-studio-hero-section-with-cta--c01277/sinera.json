@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01277",
+  "title": "Animated Studio Hero Section with CTA",
+  "summary": "Responsive hero banner for a creative studio. Includes slide-in headline, location & accolades list, full-width image with gradient overlay, stats grid, and “Watch Showreel” call-to-action. Built with Tailwind CSS and subtle animations for landing pages.",
+  "tags": [
+    "hero",
+    "banner",
+    "tailwind",
+    "responsive",
+    "animated",
+    "landing-page",
+    "cta",
+    "stats"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 44554,
+      "sha256": "c99d95dc5d881ea329931df43443a52d99ea8d0a13466393633547816893cde9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13178,
+      "sha256": "9a0d60ee11bbd0ad9b0c550b7f91f17674a8a81b7603511df424a2bf4c2d6f29"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14166,
+      "sha256": "4cdc1bbd9e002bd2b0bc26d1519ef6c14418976883b1b24eabb14967910bccfa"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

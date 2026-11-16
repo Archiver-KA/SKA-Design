@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00016",
+  "title": "Interactive Skills & Expertise Cards Section",
+  "summary": "Dark-themed Tailwind grid showcasing skill cards with hover animations, numbering, and a tools list—ideal for portfolio or resume pages to highlight competencies and technologies.",
+  "tags": [
+    "skills",
+    "card",
+    "grid",
+    "tailwind",
+    "hover-animations",
+    "portfolio",
+    "dark-mode",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "about",
+  "categoryLabel": "About & team",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21674,
+      "sha256": "35626407c2edc21d5cd42d80dc20e9b64ad76a234203c1c853c1272079bc9d42"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8955,
+      "sha256": "bfdf567ee92e7e6ba64c229cd7ef755412b5bcc37d244ae95662bc07293790ea"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9954,
+      "sha256": "7ef9c8f9ee59faab4465f02c7df1a2355a8221c4fd68559e95ad83f4232c76ab"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "SN-W01039",
+  "title": "Subscription Payment and Progress Panel",
+  "summary": "Displays subscription details, next payment date, progress bar, and options to change plan or cancel enrollment.",
+  "tags": [
+    "HTML",
+    "Tailwind CSS",
+    "Subscription UI",
+    "Progress Bar",
+    "Responsive Design"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3189,
+      "sha256": "5262e86dd82e703bbeb40e7545e6cfe6621ebf9aee6df41c5cbead097eb1c488"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5478,
+      "sha256": "2ceff02a8e020ef3802748aab5182f51a91fab58ae8eee0eb77d1f2ae6d4609f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1451,
+      "sha256": "3676f996cc3651741b0f6a9beb32484bcc19df7a178c39c3bafb7cf17b07a05e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 290,
+      "sha256": "405a31995a71f7b8245e9b33a60b2c809ed2016b4e9b756c0cd3335d540fe123"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 270,
+      "sha256": "5c72cce02f69199a95ca24b7a0b7b2307a27cde44cefcb7fa2ae5e631659b41f"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 176,
+      "sha256": "fd5b4c225ce7331c13404e2113654533ce89258de9ae2f08661c0bd734287f50"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 173,
+      "sha256": "8c791c19409f71ce80516a721a7863d69abc3794d0837f4587446a014242456f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3770,
+      "sha256": "46c6e8170366dbe8d0f13ae58445c0cc5879a1e3b859c2b99ca3d4087290a156"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "pricing"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "pricing",
+  "design": "DESIGN.md"
+}

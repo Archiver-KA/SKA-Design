@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00600",
+  "title": "UnicornStudio Embedded Background Canvas",
+  "summary": "Absolute-positioned full-page background container that loads and initializes a UnicornStudio project via external script. Ideal for embedding interactive or animated visual backgrounds behind page content.",
+  "tags": [
+    "background",
+    "embed",
+    "script",
+    "interactive",
+    "animated",
+    "full-screen",
+    "integration"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3054,
+      "sha256": "7fc2fd341f7a96e067102a30919c4b8f52035ca9ceae8011eb81c38111518599"
+    },
+    {
+      "path": "component.html",
+      "bytes": 530,
+      "sha256": "ee740eea3bd390fea4949120c0e4777a52bcc10dd1feb1be4632ea27115fcadd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1391,
+      "sha256": "ca719600ee1dc5e235633e3046ce33d2866cb4e2a612523f32d2dbd84db4eef5"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

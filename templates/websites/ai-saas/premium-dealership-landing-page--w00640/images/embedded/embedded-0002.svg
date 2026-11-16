@@ -1,0 +1,63 @@
+<svg viewBox="0 0 640 640" fill="none" class="w-full h-full">
+            <circle
+              cx="320"
+              cy="320"
+              r="310"
+              stroke="#C9A84C"
+              stroke-width="0.6"
+              stroke-dasharray="6 14"
+              style="animation: slowspin 55s linear infinite; transform-origin: center;"
+            ></circle>
+            <circle
+              cx="320"
+              cy="320"
+              r="248"
+              stroke="#C9A84C"
+              stroke-width="0.5"
+              opacity="0.5"
+              style="animation: slowspin-r 40s linear infinite; transform-origin: center;"
+            ></circle>
+            <circle
+              cx="320"
+              cy="320"
+              r="186"
+              stroke="#C9A84C"
+              stroke-width="0.4"
+              opacity="0.35"
+              style="animation: slowspin 55s linear infinite; transform-origin: center;"
+            ></circle>
+            <circle
+              cx="320"
+              cy="320"
+              r="124"
+              stroke="#C9A84C"
+              stroke-width="0.4"
+              opacity="0.25"
+              style="animation: slowspin-r 40s linear infinite; transform-origin: center;"
+            ></circle>
+            <line
+              x1="10"
+              y1="320"
+              x2="630"
+              y2="320"
+              stroke="#C9A84C"
+              stroke-width="0.3"
+              opacity="0.2"
+            ></line>
+            <line
+              x1="320"
+              y1="10"
+              x2="320"
+              y2="630"
+              stroke="#C9A84C"
+              stroke-width="0.3"
+              opacity="0.2"
+            ></line>
+            <circle
+              cx="320"
+              cy="320"
+              r="6"
+              fill="#C9A84C"
+              opacity="0.3"
+            ></circle>
+          </svg>

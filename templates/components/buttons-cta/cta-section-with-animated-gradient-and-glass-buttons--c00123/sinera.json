@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00123",
+  "title": "CTA Section with Animated Gradient and Glass Buttons",
+  "summary": "Dark hero banner featuring headline, sub-text and two interactive CTA buttons: a gradient button with floating points and arrow animation, and a glassmorphic ripple button. Built with Tailwind, custom CSS and JS for landing pages.",
+  "tags": [
+    "cta",
+    "hero",
+    "tailwind",
+    "animated",
+    "gradient",
+    "glassmorphism",
+    "responsive",
+    "javascript"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15364,
+      "sha256": "6fb048dc68c7d22dc731301a71d09d4e760e0156754e4c0fd5bbdbf11fd0ca21"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8388,
+      "sha256": "e185ac73d6b99b6a5298387a32d13b2fc7fe43a6626ddcdb300ceb07d9821558"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9261,
+      "sha256": "f1eb13c8f1a9ba61653b02702aff0d1cc347474ad894953abbfb07c6c94419b8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

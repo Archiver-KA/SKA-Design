@@ -1,0 +1,59 @@
+{
+  "id": "SN-W04261",
+  "title": "Pricing Plan Cards with Shader BG",
+  "summary": "Displays interactive pricing cards over a dynamic WebGL shader background with glassmorphism and gradient text styles.",
+  "tags": [
+    "Pricing",
+    "WebGL Shader",
+    "Glassmorphism",
+    "TailwindCSS",
+    "Responsive UI",
+    "Gradient Text"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2970,
+      "sha256": "51ccbca907d70ac945f724e959c3721e667a02f772356ba147cdbc14932f63f5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 23584,
+      "sha256": "84dcc5f7b21aacad051b2435d4c5268034f21d3ce7235df6be59899328c628bf"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 727,
+      "sha256": "4df32f6729b34396003f2cdc491e7c60f2666025967a70126c029ff5f08d3a44"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11560,
+      "sha256": "a43a8818e53250ecc2de6f2759983dfbf84e5f9ae54e34ca51c8e0871a582b5e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero",
+    "pricing"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "pricing",
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "SN-W02611",
+  "title": "Fitness Training Landing Page Template",
+  "summary": "A reusable landing page template for balance training products, rehab programs, and guided fitness video hubs with clear modules, benefits, and conversion CTAs.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Clean",
+    "Minimal",
+    "E-commerce",
+    "Fitness",
+    "Rehabilitation",
+    "Video Training"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3537,
+      "sha256": "984b33abf5ad3d0c23f6efdc7cdad6ec2afecc0ed815cddaa1e4353d29268495"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14810,
+      "sha256": "68f17861159b7a921302af2a8d1970f9a6b59beb5bbf66959b580b3a619c420e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1156,
+      "sha256": "84bbf3f90c04571740fca5146f756e4565904f8d853373bcf427151cfd1bae6e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 303,
+      "sha256": "acfaa0596e5ed93e4d263f7dbac86c0ea2d2168652c165bb805e0adc65989000"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 303,
+      "sha256": "815eea3ab3df1ad92740e971eec1db1dd9153d8fc56e0eefa4e1358af4218e25"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39294,
+      "sha256": "92990d14eb253dd6c42af98b68c3d2c4e5766402c48450886fb1da85b9e6cde4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "services",
+    "video-media",
+    "how-it-works",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

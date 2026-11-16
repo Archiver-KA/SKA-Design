@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01339",
+  "title": "Vietnamese Coffee E-commerce Landing Page Template",
+  "summary": "A refined e-commerce landing page template for specialty Vietnamese coffee brands to showcase origins, rituals, products, pricing, and subscriptions.",
+  "tags": [
+    "E-commerce",
+    "Food",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Coffee",
+    "Subscription"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3609,
+      "sha256": "10699c345e0a766f953bd0da77591b05bd43f12de412a1b28865e3aa75ae1bcc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13492,
+      "sha256": "1ceaade8c7e254ecfe9b97cb96a996d3683b4bd829f0ac03c448053776114b83"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 880,
+      "sha256": "dcedd013621d7b8f2628da3384296e0bd1afc7f0fa898375f1ee9156a9ccfcfa"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "ad1cfa7a2926f1ded0ddf3f9cbb3077358ff3abff7d7895e921c42b480e9e549"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20073,
+      "sha256": "db6766df4b9b4518fc39153e3ac3194ea06f6b132490a2d88f2510094352221f"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "features",
+    "product-grid",
+    "pricing",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

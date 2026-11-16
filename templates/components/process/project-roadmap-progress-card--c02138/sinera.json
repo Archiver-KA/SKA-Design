@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02138",
+  "title": "Project Roadmap Progress Card",
+  "summary": "A Tailwind CSS project roadmap card showing phase progress bars, assigned team avatars, and a compact date strip. Includes a primary \"New task\" button. Ideal for dashboards, project management, or learning progress UIs.",
+  "tags": [
+    "card",
+    "dashboard",
+    "progress",
+    "tailwind",
+    "project",
+    "ui",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6048,
+      "sha256": "84f299b674586d13209a12bdf27be29746debebfbdc954d1fda961bb0b228172"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4234,
+      "sha256": "001523a91668a6fe3da87acb45a2a1a9653fe576a3172517ba01757d109264ac"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5214,
+      "sha256": "8c2a2a768dd41902bf6e26dd5d2dcbb120cbf78283ff9d79f0b6772ce11a358d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

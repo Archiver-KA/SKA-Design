@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02291",
+  "title": "Voiceover Professional Landing Page Template",
+  "summary": "A clean, minimalist template designed for voice actors and artists to showcase narration, character work, and audio demos.",
+  "tags": [
+    "Portfolio",
+    "Services",
+    "Art & Design",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3408,
+      "sha256": "983c5ad7f317a2f48910d4f37e194a351f0c67d8162cbe6c03e53400c1d365ab"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15320,
+      "sha256": "d4c3d3fa79ae5464ed0d7db7da94a0b6df2ffc9ab6251cb130c7da9fa2d07110"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 732,
+      "sha256": "c845c2a0bd9fb7b766c607fbd1badebc9e4051c396eac9fc297c6d74269472e2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26934,
+      "sha256": "05dc09fc64579ef4b3c439cf34fa3e5b368ec112ff594454923f8a30c3dee240"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "about",
+    "case-studies",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

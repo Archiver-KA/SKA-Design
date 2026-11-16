@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02424",
+  "title": "Rotating Testimonial Section with Rating Cards",
+  "summary": "Full-width testimonial section featuring an animated rotating primary quote with avatar on the left and two 5-star rating testimonial cards on the right. Dark gradient background, Tailwind-style utility classes, ideal for SaaS landing pages.",
+  "tags": [
+    "testimonial",
+    "responsive",
+    "interactive",
+    "animated",
+    "tailwind",
+    "grid",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 30316,
+      "sha256": "a5e182f14fc4a156d7082708d6c8f99d525f4e31c3c3eb1fd986d1bdf6f7ba76"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13271,
+      "sha256": "e6cef67efbf9785cfd3e83972a12355974a40c3f50e7363e9cf89e73ec8fe789"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14268,
+      "sha256": "096053f8158b8530510bcc22af372f54c8b56bfda2db377ef2d74325a7ac319b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "SN-W01516",
+  "title": "Design Subscription Landing Page Template",
+  "summary": "A reusable landing page template for design subscription studios and creative services to showcase offers, pricing, testimonials, and booking CTAs.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Minimal",
+    "Clean",
+    "Large Type",
+    "Blog",
+    "design subscription",
+    "creative agency"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3707,
+      "sha256": "df3cd01c05ea36526716812a082ff7ec70cdbd475e757e9f3150c58bd6e023de"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13572,
+      "sha256": "248f9de8c436c13f7caa2c358b8e8adcc5ae681e165e9e91f39c0248c722aba4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "7dae985137977b66699812f30c038ea96eacf2306092cfcf2a7b880926501b26"
+    },
+    {
+      "path": "index.html",
+      "bytes": 54135,
+      "sha256": "d686855490efa8800e69fb5835225134fd154d36424c8d64b757fa0d3a767f3b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "pricing",
+    "logo-cloud",
+    "video-media",
+    "features",
+    "bento-grid",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

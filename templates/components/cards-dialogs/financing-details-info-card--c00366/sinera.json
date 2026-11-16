@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00366",
+  "title": "Financing Details Info Card",
+  "summary": "Dark-themed Tailwind CSS card showing key financing program details in a two-column, border-separated grid. Fits dashboards, checkout flows, or product pages needing credit term summaries.",
+  "tags": [
+    "card",
+    "finance",
+    "info",
+    "tailwind",
+    "responsive",
+    "grid",
+    "dashboard"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10420,
+      "sha256": "cb9d7ea21493a4f4e250b2b0bb119163bb0668ff0eea8470ff11cfaee2d3218b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2275,
+      "sha256": "cb6a5dfafb0c57608adf17bf040261f59516852cbd0a793c3fa991237167598f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3123,
+      "sha256": "423212ab6dbd3496fe840ee8d7958e1916893d2f8053c3580087d8da29554614"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

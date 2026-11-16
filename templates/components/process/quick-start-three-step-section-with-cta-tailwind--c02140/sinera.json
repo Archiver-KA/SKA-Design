@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02140",
+  "title": "Quick Start Three-Step Section with CTA (Tailwind)",
+  "summary": "Responsive landing page section showing three numbered quick-start steps with code snippets, animated on scroll, and a call-to-action button. Built with Tailwind CSS utility classes, ideal for product docs or onboarding pages.",
+  "tags": [
+    "steps",
+    "section",
+    "cta",
+    "tailwind",
+    "responsive",
+    "landing",
+    "animated"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14410,
+      "sha256": "ebec28edab1f4c6ed88fb1393d19913748c7fa4eb00d46e2cc99b6c89e83c367"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3742,
+      "sha256": "60159837c5679823dee078d486d09bd90ef69e2e3723119df7b71d45b57095d3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4613,
+      "sha256": "3bf00e7b68c43ac4729e9b6197ea0554ea6b585eb25c72606bbec94f7017db12"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

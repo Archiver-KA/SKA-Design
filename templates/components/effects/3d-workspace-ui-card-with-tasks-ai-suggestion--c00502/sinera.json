@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00502",
+  "title": "3D Workspace UI Card with Tasks & AI Suggestion",
+  "summary": "A 3D-tilted app UI card simulating a collaboration workspace with window header, sidebar nav, AI insight banner, and task list. Uses Tailwind-style classes, hover interactions, gradients, and floating badges for use in dashboards or hero UI mockups.",
+  "tags": [
+    "ui",
+    "card",
+    "3d",
+    "workspace",
+    "dashboard",
+    "tailwind",
+    "interactive",
+    "animated"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11700,
+      "sha256": "7308e8976986121e7082e1cf1b9587b3930ebbb68709a21216a6f4e6b07943dd"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13967,
+      "sha256": "74e41dfe0fbd8b39e747d2a529716f74d7b572d864039fefa2277f5795acdc1b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14839,
+      "sha256": "c60f6f28640942a4c170dd1f064c919f5352a1f93688049f684ae83b0cf51638"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

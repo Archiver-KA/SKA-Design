@@ -1,0 +1,41 @@
+{
+  "id": "SN-C00224",
+  "title": "Main button",
+  "summary": "Tailwind-styled gradient call-to-action button linking to a booking section, featuring hover overlay, subtle shadow, and inline right arrow icon. Ideal for appointment booking, sign-ups, or primary actions on landing pages.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "interactive",
+    "animated"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1896,
+      "sha256": "5cc2e1dff5c49936dec046884ca7bdeb663367f45bb59de898db02d6841844af"
+    },
+    {
+      "path": "component.html",
+      "bytes": 840,
+      "sha256": "ac3b32186fab5c5f1b134d9568e4e67a17880094f7ab91b4ae3ce5e959a234dd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1672,
+      "sha256": "b7e8ba5aab7332756de10fa894194bf7980eed04a0ecd81832dd671b8f631be7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

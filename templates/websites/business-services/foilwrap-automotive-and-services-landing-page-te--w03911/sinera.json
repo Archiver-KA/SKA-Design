@@ -1,0 +1,65 @@
+{
+  "id": "SN-W03911",
+  "title": "FoilWrap Automotive & Services Landing Page Template",
+  "summary": "A high-end, dark-themed template designed for automotive wrapping studios, detailing businesses, and premium service providers.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Dark",
+    "Clean",
+    "Futuristic",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3841,
+      "sha256": "72dd51b102faf9ac66280a78dc0281b084d165489373ba129675f96f2fb14c3d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20420,
+      "sha256": "db0bb1ad11514c468e61b40381888b3c3f49309593cfda586e015a4ae96499ce"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 747,
+      "sha256": "5afba4c647cb9cec8b87e8ba61336c87fd0d4ace220de3a41d79c4b6e56e7598"
+    },
+    {
+      "path": "index.html",
+      "bytes": 99623,
+      "sha256": "b5149263ff632120e243323bf50ccdf1d8500a7e4dbc9a0f8b7830eb2e11d1ef"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "bento-grid",
+    "gallery-portfolio",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

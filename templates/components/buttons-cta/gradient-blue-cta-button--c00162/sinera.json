@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00162",
+  "title": "Gradient Blue CTA Button",
+  "summary": "Interactive button with blue gradient background using Tailwind utility classes. Includes hover, active, focus, and disabled states, ideal for signup or primary call-to-action elements in responsive interfaces.",
+  "tags": [
+    "button",
+    "tailwind",
+    "gradient",
+    "cta",
+    "interactive",
+    "responsive",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3100,
+      "sha256": "4b69d6b13aedd434948de5dc559d13cb27c497c0ac0dd60f283c0bac244e9534"
+    },
+    {
+      "path": "component.html",
+      "bytes": 716,
+      "sha256": "ff3c3033173ede259351bf3a5635086ca201776ee0a6665883737ab61e9b0e53"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1561,
+      "sha256": "49c140203b839c38b55e5655f7c76a7e3193460131add26445b582d40662a4e8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00877",
+  "title": "Revenue & Analytics Feature Card with Tag Grid",
+  "summary": "Interactive Tailwind CSS card showcasing a category label, headline, description, and a grid of icon tags. Includes subtle hover lift and responsive styling—ideal for landing pages, product features, or service highlights.",
+  "tags": [
+    "card",
+    "feature",
+    "tailwind",
+    "responsive",
+    "hover",
+    "icons",
+    "grid"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16638,
+      "sha256": "385fd162ad52b1af817ff5cb556332d8a1aa4235c714ed421ef06bf2b52d62bb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3471,
+      "sha256": "fa3503f435fcb61da36f3712b8edfa2ae79fc42c531e1d02a1aaf60b034bcc9d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4472,
+      "sha256": "242e5a80d546f2675a16571bab0d2451e97e16eca03bd2925b7fc5c650f98232"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

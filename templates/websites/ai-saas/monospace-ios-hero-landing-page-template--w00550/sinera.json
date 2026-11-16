@@ -1,0 +1,68 @@
+{
+  "id": "SN-W00550",
+  "title": "Monospace iOS Hero Landing Page Template",
+  "summary": "A modern monospace hero landing page template for serverless or dev tooling products, featuring animated infrastructure visuals and bold technical branding.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Futuristic",
+    "Developer",
+    "SaaS"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3756,
+      "sha256": "c8e6229fe69a6e636e3592a1738c4cc67149116e45bb29c9e1f99ed3ebef1512"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11094,
+      "sha256": "21b27773a9db5ef3ecef176e0f28daed9203da95a7c57624e61178d4e23bba23"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "2eb7846f3a1b3d7c5a4ccb138186aaf46d022281f90deba137cb0ed3ff8ddec9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38011,
+      "sha256": "97e2ea3ce3fb07f2fe516b5135c3dad231c784b1b47323769125815e247c2de9"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "case-studies",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

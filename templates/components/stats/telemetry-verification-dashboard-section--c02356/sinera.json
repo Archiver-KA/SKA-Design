@@ -1,0 +1,37 @@
+{
+  "id": "SN-C02356",
+  "title": "Telemetry Verification Dashboard Section",
+  "summary": "Dark Tailwind dashboard-style section showcasing telemetry metrics, latency bars, error budget, admin testimonial, and system logs. Ideal for SaaS, infrastructure, AI ops, or observability landing pages.",
+  "tags": [
+    "ui",
+    "tailwind",
+    "dashboard",
+    "metrics",
+    "dark",
+    "responsive",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 17032,
+      "sha256": "c817d22a248a423858c73cb983e05f7c7a614dd682dd21da54e2c6b7fc79e88b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13685,
+      "sha256": "eaa71fc4881db66882068ce14a2a07f173bcc784c468ba533ff1bdde31b08944"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

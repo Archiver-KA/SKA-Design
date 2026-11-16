@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02335",
+  "title": "Real-time Analysis Dashboard & Live Coaching Component",
+  "summary": "Tailwind CSS dashboard for live speech analysis with scoring, progress bars, coaching tips, timeline, and benefit panels. Provides instant feedback and metrics—perfect for interview practice apps or any product needing dynamic real-time analytics UI.",
+  "tags": [
+    "dashboard",
+    "tailwind",
+    "real-time",
+    "analytics",
+    "coaching",
+    "metrics",
+    "responsive",
+    "feedback"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 29256,
+      "sha256": "22939802266cf450b59accb7882276996630ffa1b2be0a16996e6cd9fdaf7ffd"
+    },
+    {
+      "path": "component.html",
+      "bytes": 14325,
+      "sha256": "9f8cf6ef797e040aeebfd9de7583d3ad47377ff200d870d2400816eae12c110e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15204,
+      "sha256": "5f5c8220dcb39dd30bb7cbf67c21237816ead616c994ea7741d697dec817bade"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

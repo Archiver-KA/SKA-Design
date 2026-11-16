@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00049",
+  "title": "Animated CTA Link Button with Arrow Icon",
+  "summary": "Rounded pill-style anchor acting as a call-to-action button. Features float, pulse, shimmer and hover translate animations, integrated arrow SVG, and Tailwind CSS utility styling—perfect for portfolio or landing page sections.",
+  "tags": [
+    "button",
+    "link",
+    "cta",
+    "tailwind",
+    "animated",
+    "hover",
+    "icon"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1750,
+      "sha256": "440840b6179f94def639bb6b9ba7db4c8f0b48e1e28c1e9aadca9e6ebb45734b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 924,
+      "sha256": "983cd5217ce16c69f5544949ce69add4c3ceea3ad7e815294b5883c67c2d2511"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1785,
+      "sha256": "4b628208a6fa2cac73f58809205182415b9d20eb060d5d69851b24fc0aa564ba"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

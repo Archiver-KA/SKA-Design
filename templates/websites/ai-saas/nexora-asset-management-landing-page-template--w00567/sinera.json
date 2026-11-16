@@ -1,0 +1,77 @@
+{
+  "id": "SN-W00567",
+  "title": "Nexora Asset Management Landing Page Template",
+  "summary": "A high-end, futuristic landing page template for digital asset management and hedge funds featuring 3D animations and performance tracking.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Clean",
+    "Dark",
+    "Futuristic",
+    "Animated",
+    "3D",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3840,
+      "sha256": "3323e77127e80d7fcab0b8e16053025fc72b08236e5babadf8662a4207bc1932"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20750,
+      "sha256": "36b26dce5031208decb25e10b142e28c881b4f20e88d6423f4f13f4004370c57"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1080,
+      "sha256": "bf8073bce1609a96e002c984a38945f2e1c69e0347328518059e95aa1409ceaf"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 666,
+      "sha256": "ea1d072592997d092ca6335cc5265a424fba3ffb3dcbf42f72fae26b36ac8a34"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 341,
+      "sha256": "79748cbaac2e38ce5a0f9f65e6ca3d5fa3be0cdd10fd59a5ab49644fcad1bbe0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 71309,
+      "sha256": "a9e3e854715fee6545991b026d4c7daac7d296dac343c5a90e70706d4c154c28"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "navbar",
+    "hero",
+    "marquee",
+    "features",
+    "stats",
+    "gallery-portfolio",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "SN-W03392",
+  "title": "3D Geometry Visualiser",
+  "summary": "A dark, futuristic landing page template for an interactive 3D geometry visualizer app, ideal for showcasing Class 9 math concepts and educational tools.",
+  "tags": [
+    "Landing Page",
+    "Education",
+    "Technology",
+    "Dark",
+    "Futuristic",
+    "Large Type",
+    "Brand",
+    "Clean",
+    "3D",
+    "Interactive"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3796,
+      "sha256": "c50eb39210361237451cfc61002e1beb87d22bcd50520e99d97a3ecdeee42424"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13356,
+      "sha256": "b915cb73010edf69fe7c4b696dcf695067a380e5050f32dacaa0511735d41cc4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2506,
+      "sha256": "c2a0391602d96d2f09d46cca7aecfe479555ac9b971947387c5e18dcf00df1c1"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 335,
+      "sha256": "6850683092e87f642235dcc32c7ad9b236c2aa6477087e2ff59e1b7debb8dd48"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 398,
+      "sha256": "670e5563a660661d35bff21a3f676a049871afa158d17ef30c8c61b1f81f9d76"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 419,
+      "sha256": "c04839dafaca50d2171e66b64158f32e35c9665b5e0b6a8a9eb7d29bcd3862d1"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 423,
+      "sha256": "8b88a6e6f085d18507177e50d2e091e68fc005d0001b61d0f55b2c0a4c04d3cd"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 514,
+      "sha256": "4f348fa01dd6c19da877b9daba67701201318d5037f7947d057e0cafaccd3b8a"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 441,
+      "sha256": "f189aca521535f6a5555a86fd63d1ede09731b00f5ca3aef72375c10b566b219"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 500,
+      "sha256": "81f0be0b88f6be49b99e992bda79ca55f2e7a924b49527456ff5f08d7497c8f8"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 355,
+      "sha256": "c789a01765171110eae3efb535a6d2d8197de572b7f91276b5b455b67b82a383"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 402,
+      "sha256": "f12b4becc96a5d119a7f75e3883335dc3f66a6ee47ee8714a47d5a7282d2bf39"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42641,
+      "sha256": "deed824d6498ecd9a1e03641f37c150306161102cf692debdcdeeb223f8d298e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "3d-canvas",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

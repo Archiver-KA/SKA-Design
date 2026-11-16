@@ -1,0 +1,68 @@
+{
+  "id": "SN-W02400",
+  "title": "Healthcare Clinic Landing Page Template",
+  "summary": "A professional medical services landing page template designed for specialized clinics focusing on neurological and metabolic patient care.",
+  "tags": [
+    "Health",
+    "Services",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Professional"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3687,
+      "sha256": "50a350b01f753b2d8b8d716bda0cb1302f15559f761db09068298ccb80d7cf80"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18098,
+      "sha256": "db65c0b5c4fdb49de63e056cfecf5c419d35683b05265a4bb0e4be6b343cc348"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 811,
+      "sha256": "0c76e98fb673b5983458be5ba22c55b8700ab8fb9fd6f82b3fadf942c3543b8d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21908,
+      "sha256": "c30ada5028bb5690ce767944607cd67d1546f23a3ab60f8c24dd5b05e89acd3f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "video-media",
+    "how-it-works",
+    "testimonials",
+    "blog-articles",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "added-title"
+    ]
+  },
+  "design": "DESIGN.md"
+}

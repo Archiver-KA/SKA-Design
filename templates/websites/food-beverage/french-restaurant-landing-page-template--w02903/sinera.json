@@ -1,0 +1,79 @@
+{
+  "id": "SN-W02903",
+  "title": "French Restaurant Landing Page Template",
+  "summary": "Elegant French bistrot landing page template for showcasing menus, wine cellar, gallery, and reservations for upscale restaurants and bars.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Services",
+    "Brand",
+    "Minimal",
+    "Dark",
+    "Large Type",
+    "Restaurant",
+    "Reservation",
+    "Menu"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3894,
+      "sha256": "6479e1f1e3ce98ec5906c3eb08f55664254fd95bdae895f24c5efce1827b9918"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9244,
+      "sha256": "50ba68d8a3ae5c3accafb490e01cce5643429b1f6010475fd7f781da6e58c11a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1070,
+      "sha256": "ed5467e83d3464c8d722ac60bd552b2816cd08c22ba817b27b7205a2b9570454"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 242,
+      "sha256": "9e3c01b69ef386b04d8084501c989aee8d58470328e0709dbc1bb9617416321a"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 136,
+      "sha256": "c4708fde64c6b49f8cfebb7108fe3dc3c6a19e5f93fab14c5d1b0b5c6e7485f1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 66240,
+      "sha256": "d1265cc1ed58b8cf4be0e3948dd7ab26b72237c2804dcb9cfc8c64df5adb5474"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "gallery-portfolio",
+    "features",
+    "cta",
+    "map-location",
+    "modal-overlay",
+    "booking"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

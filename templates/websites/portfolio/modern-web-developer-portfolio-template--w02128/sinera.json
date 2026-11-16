@@ -1,0 +1,70 @@
+{
+  "id": "SN-W02128",
+  "title": "Modern Web Developer Portfolio Template",
+  "summary": "A professional dark-themed portfolio template for web developers and junior programmers featuring dynamic animations and responsive layouts.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Portfolio",
+    "Resume",
+    "Dark",
+    "Clean",
+    "Animated",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2665,
+      "sha256": "72d70226cbb7edc6a21afb46ee51634dc1d8da79e900ea3a66fe0358f5c1c702"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4080,
+      "sha256": "4f1748087611923b3c19ed8b2a50ca25aceae743b934598bdb024949d2eb3232"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 810,
+      "sha256": "06a30d63d25f0bc6966472983394b534e60fd654bf76f2b2d33596e2e061ecb1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33192,
+      "sha256": "089508017fe18b2441c2659d6bd8e011f22686d7a657c1463fbfaf75ba4192fe"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "3d-canvas",
+    "hero",
+    "about",
+    "cta",
+    "case-studies",
+    "timeline",
+    "features",
+    "contact-form"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

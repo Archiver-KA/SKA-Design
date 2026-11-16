@@ -1,0 +1,15 @@
+<svg
+                    class="absolute -inset-y-1.5 -inset-x-3 w-[calc(100%+24px)] h-[calc(100%+12px)] z-0 pointer-events-none"
+                    viewBox="0 0 100 100"
+                    preserveAspectRatio="none"
+                  >
+                    <path
+                      d="M2,10 C20,5 80,5 98,10 C99,50 99,50 98,90 C80,95 20,95 2,90 C1,50 1,50 2,10 Z"
+                      fill="none"
+                      stroke="currentColor"
+                      class="text-emerald-400/30"
+                      stroke-width="2"
+                      vector-effect="non-scaling-stroke"
+                      style="stroke-dasharray: 0 1000; animation: boxDraw 0.8s cubic-bezier(0.4, 0, 0.2, 1) 4s forwards;"
+                    ></path>
+                  </svg>

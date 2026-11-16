@@ -1,0 +1,61 @@
+{
+  "id": "SN-W04175",
+  "title": "Concentric Animated Dot Rings",
+  "summary": "Creates multiple staggered concentric rings of animated dots with expand-contract scaling effect using CSS and JavaScript.",
+  "tags": [
+    "Animation",
+    "Concentric Rings",
+    "Dots",
+    "CSS Keyframes",
+    "JavaScript",
+    "SVG Alternative"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2087,
+      "sha256": "8d1fab0d5d88a11151624774c55bf1319f5f2e43068e48107a5f51827fa70a36"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4884,
+      "sha256": "86b8af9f8ce36e3ad17251f03448fc60f75481396f8f81233246f429753906d8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 805,
+      "sha256": "70c5666a87b91f43fb4589068a2a39b5c31b93addd0ea6a2f8754f937399849a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2332,
+      "sha256": "245f95ebed739667e3915dad531c56bc74ff36d665ea1264fc115c31fda66e8f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "blank-render"
+    ],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "snippetType": "other",
+  "design": "DESIGN.md"
+}

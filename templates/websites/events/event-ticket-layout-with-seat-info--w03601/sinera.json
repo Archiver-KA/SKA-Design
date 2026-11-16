@@ -1,0 +1,58 @@
+{
+  "id": "SN-W03601",
+  "title": "Event Ticket Layout with Seat Info",
+  "summary": "HTML and Tailwind CSS code creating a detailed event ticket UI showing seat, pricing, teams, date, and guest info.",
+  "tags": [
+    "Ticket",
+    "Tailwind CSS",
+    "Layout",
+    "Event",
+    "Seat Info",
+    "Typography"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2912,
+      "sha256": "0d1f371086023d2f9d8babf68a598cb5609c5cadedbf706bc158a645d1c2668a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9954,
+      "sha256": "40545c167dec3f2d17ca247bccdc8f3490a88e428e40fa0f2302a218b0693f76"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 718,
+      "sha256": "255904525b0d95af78c160f074f35a663831a3fe9781de0584231220c46773c3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5889,
+      "sha256": "0014a8e342d92eed479d08c5dfa2f3ceabc52324d3bc1306c88b06786d06d2c7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "snippet",
+  "components": [
+    "features"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "cart-checkout",
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "SN-W04004",
+  "title": "Luxury Automotive Dealership Landing Page Template",
+  "summary": "A refined landing page template for high-end automotive curators and dealerships to showcase curated inventory, vetting standards, and concierge services.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Minimal",
+    "Large Type",
+    "Clean",
+    "Luxury",
+    "Automotive",
+    "Cars",
+    "Dealership"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3332,
+      "sha256": "69f7e1d50c4b659e3aa40b0867ab703b3d93323cff90901465d2fdcc077e43b5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 24228,
+      "sha256": "c6eeee3713e4c900da73c627e4cc8814cd99e8e6e80bb9f41226d9bd751a41b9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 885,
+      "sha256": "1833a3323fdc114e3bb31747b447436787b93723163855e12c431aab367be4ba"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20254,
+      "sha256": "09db3a1c71294c473deea9ff42cd6457e947271749a88dec2b3d70994b1f5882"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "listings",
+    "product-grid",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

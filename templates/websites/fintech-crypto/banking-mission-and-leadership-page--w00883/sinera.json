@@ -1,0 +1,76 @@
+{
+  "id": "SN-W00883",
+  "title": "Banking Mission and Leadership Page",
+  "summary": "Displays a banking mission statement, key values, team image, and leadership profiles with gradient and glow effects using Tailwind CSS.",
+  "tags": [
+    "About",
+    "Mission",
+    "Leadership",
+    "Tailwind CSS",
+    "Responsive Design",
+    "Gradient Text",
+    "Team Profiles"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3229,
+      "sha256": "7de3a1e07291c88cafb048718726cf0e5dcefe2408a9e45708b1fd0b65a362a8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18044,
+      "sha256": "dd4b7bbcdd7dd15fd9ee5fd5cb6e96161a9e4b86263778c9644a48ba2ba8a476"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1255,
+      "sha256": "359e52973a1a172efa217b5c4994e83ec1a1850b27150f306a25f236f6d49890"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 431,
+      "sha256": "9d456160ce596c82ef28dda843ba862176d49c1f62a3add3a2816294889b06f8"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 267,
+      "sha256": "80c6847d3ced71a4ba855eacb22320183464e77a4815ca78a5a0e3d0fcbceee4"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 412,
+      "sha256": "2e0528c603a58e8e84448f367db4e3215f80624ec1a23c24f8e954cb7bf314b7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11384,
+      "sha256": "1b20cf5f72dc32b0e8f3e9816944681cd477c31f4d9f21ff45d7b44ea9bfd191"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

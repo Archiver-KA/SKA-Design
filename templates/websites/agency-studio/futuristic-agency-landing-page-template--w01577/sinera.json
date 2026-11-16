@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01577",
+  "title": "Futuristic Agency Landing Page Template",
+  "summary": "A dark, high-impact landing page template for narrative-first agencies and Web3 studios to showcase capabilities, case studies, and conversion-focused CTAs.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Technology",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Web3 agency template",
+    "Case study layout"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3840,
+      "sha256": "b541cfe061ed94a0afb50d0c6af11cbd0f29ba0bec4f7090246753ff0c15a8a2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9812,
+      "sha256": "fb5e9de2251f314883197ff4a89a652fb64470e6deb7630ee678d212440e9915"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 873,
+      "sha256": "dca73d6a0cc366d9afede69ebb039f9e2ca7090fc958007232df26ec7edc816a"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "1d477c85a7ad0d3a741110a72123c23e8bdb35a659e27798b40c1804211d7d73"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36450,
+      "sha256": "9653398e422b9a39fd671a10c1498f6a969c5403f22ac1850d978818237075f8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "stats",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

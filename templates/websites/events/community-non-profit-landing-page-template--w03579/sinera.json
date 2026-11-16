@@ -1,0 +1,76 @@
+{
+  "id": "SN-W03579",
+  "title": "Community Non-profit Landing Page Template",
+  "summary": "A modern VillageCo-inspired landing page template for community-focused non-profits to showcase their mission, impact, and ways to get involved.",
+  "tags": [
+    "Landing Page",
+    "Non-profit",
+    "Community",
+    "Social",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3656,
+      "sha256": "ee59df5172566df87071cabb4905570dadd56303f6dddd8043c1aa60bb657b96"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15204,
+      "sha256": "6166d28a6e7e41514e38f42a2a20aa4d0e665efb1b5d28eaf8a880aa6a20d9f3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1066,
+      "sha256": "75c600fc2ed697b3a9e803365af8fe2cc8027bfb377f3f11bcf7c261dd0a9219"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 348,
+      "sha256": "fb1936e65d606b25fd17edace348f312e756739fbb86c5e073aebb02482cfb0c"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 352,
+      "sha256": "47c8abab8dd2c66b6a49d848cd2658aecf93c89678cc3d7d868c8992d53574a0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33520,
+      "sha256": "785dbcd9e1b727946576e9cd52483c1460aa5827227990b2cb61f39848c8f17b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "how-it-works",
+    "blog-articles",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

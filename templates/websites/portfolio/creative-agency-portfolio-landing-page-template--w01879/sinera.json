@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01879",
+  "title": "Creative Agency Portfolio Landing Page Template",
+  "summary": "A dark, futuristic creative agency portfolio landing page template for showcasing digital projects, services, and contact inquiries with a bold, modern aesthetic.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Services",
+    "Brand",
+    "Technology",
+    "Art & Design",
+    "Dark",
+    "Minimal",
+    "Gradient",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3487,
+      "sha256": "f29e541136999653ae4bab53cfc06d3ece658504bd2f7151839be9edfa7c52e4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12874,
+      "sha256": "8680c5a0a3bf15c0759f939cbd79edcb150bbc56f4b03a27ba1b1df3b4715a5c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "c75aedae85720907db5c7e3be5b1257e99494e6ffc62574876dae6cd6004b96d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27722,
+      "sha256": "58179b390359538989ca3e12f45954e2e215478eaa0ef8545e75619c5399bd78"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "video-media",
+    "navbar",
+    "hero",
+    "case-studies",
+    "services",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

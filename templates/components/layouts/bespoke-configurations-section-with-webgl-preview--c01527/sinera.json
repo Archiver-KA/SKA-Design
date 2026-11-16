@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01527",
+  "title": "Bespoke Configurations Section with WebGL Preview",
+  "summary": "Full-width marketing section highlighting bespoke configurations with consultation bullet list, testimonial card, CTA button, and an interactive WebGL-powered product image reveal using Tailwind-like utility classes.",
+  "tags": [
+    "feature",
+    "section",
+    "interactive",
+    "webgl",
+    "tailwind",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 27714,
+      "sha256": "0313c04614f2650392fd4592e45fc5ccd656f2b3096db7d87a48a77cd782f413"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7614,
+      "sha256": "d1fb67f2e76d84f9d99d3e24de5cf8f6304cfa796e29fa8b051a3fcdb24bf230"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8484,
+      "sha256": "32aa703709c6299b9e6f3082c771a24e5772eea5dd53752efd91043340ce1b64"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

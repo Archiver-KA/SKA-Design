@@ -1,0 +1,65 @@
+{
+  "id": "SN-W03982",
+  "title": "Legal and Public Security Congress Template",
+  "summary": "A sophisticated and authoritative landing page template designed for law institutes, academic conferences, and professional legal training events.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Conference",
+    "Education",
+    "Dark",
+    "Minimal",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3618,
+      "sha256": "6a14bc6516c630df67c66c1b9c5e6e5885095b37f9dcb62bf58d493f8de319f8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17404,
+      "sha256": "997a9710f86ce84e89be860bbe4af9c0fcb268b23d260829c19e276bc9daea98"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "4f0c4403a1925b250e7beb573a3e43862b054c067b9d2eb3be59770668132f11"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23445,
+      "sha256": "a3335c4b7b85285f19b79857ba5def9c9b1454599cdfd3957532ad837f0b4a7e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "bento-grid",
+    "features",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

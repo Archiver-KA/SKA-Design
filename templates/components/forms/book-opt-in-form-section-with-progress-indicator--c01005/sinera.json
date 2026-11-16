@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01005",
+  "title": "Book Opt-In Form Section with Progress Indicator",
+  "summary": "Full-width promotional section with a top progress indicator and a multi-field opt-in form to get a free book copy. Features background image, gradient progress bar, animated card-style form, and Tailwind-based responsive layout for lead capture.",
+  "tags": [
+    "form",
+    "section",
+    "opt-in",
+    "lead-generation",
+    "progress",
+    "tailwind",
+    "responsive",
+    "landing-page"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10722,
+      "sha256": "77a3f3fb9d96bb7707eec25686dbf039433cb27c7fead55613704a8859953635"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6184,
+      "sha256": "9c0551317e1894e925775d3b17e36eacf5b5e532c30e95550e38affabbd1b562"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7166,
+      "sha256": "47aa728b0c287d1fda9b99384620b5756ac015eee32b7daa0a4a901f377c2b28"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

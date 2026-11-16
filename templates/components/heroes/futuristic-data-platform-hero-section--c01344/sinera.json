@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01344",
+  "title": "Futuristic Data Platform Hero Section",
+  "summary": "A full-width dark hero section for a data orchestration platform with glassmorphism UI, animated text reveal, responsive navigation, CTA buttons, testimonial panel, and a Three.js WebGL particle background. Built with Tailwind CSS, GSAP, and Iconify.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "threejs",
+    "gsap",
+    "glassmorphism",
+    "animated",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 83310,
+      "sha256": "0fa0cb7dccd6da89c558db21ccebae761d3dad23b706470eeb0c758381dd937f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15838,
+      "sha256": "0138ac30068310b5063e34c7164f6384a8dd86fc5503d5c3d3f946e59e92a43a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SN-W04022",
+  "title": "Manufacturing and Industrial Corporate Template",
+  "summary": "A professional corporate template for manufacturing and supply chain businesses, focusing on design, research, and innovation.",
+  "tags": [
+    "Technology",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Business",
+    "Corporate",
+    "Industrial"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3315,
+      "sha256": "79fa5610ac3fe5fa5cc5486c53392d0996f6d65b57ed3d2386817a0c890e5ce1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 53412,
+      "sha256": "c311b01d5d15c067b2c97aa27ba89998aca5c08a164b578c8d5ce68a9234ae1a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 741,
+      "sha256": "3d5022c57bfddcef7342fa80a946f04cbe7f468360afb76a3f731786071c8d5f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 104069,
+      "sha256": "411bf785712f187011328b76e1d806f2eef36bf93c83e29c7362ec796157725e"
+    }
+  ],
+  "collection": "logistics",
+  "collectionCategory": "supply-chain",
+  "collectionLabel": "Logistics",
+  "collectionCategoryLabel": "Supply Chain",
+  "collectionConfidence": 0.88,
+  "collectionBasis": "business-keywords",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "broken-images"
+    ],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

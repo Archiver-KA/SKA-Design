@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01682",
+  "title": "Horizontal SVG Wordmark Logo (White)",
+  "summary": "Self-contained SVG rendering a white horizontal wordmark logo using multiple paths and clipPath. Ideal for headers, navbars, dark-theme footers or splash screens where scalable, hi-res branding is needed without external image assets.",
+  "tags": [
+    "svg",
+    "logo",
+    "wordmark",
+    "vector",
+    "branding",
+    "responsive",
+    "white"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2686,
+      "sha256": "a4cc11e3d31489453de715c96b5841cf645ee061d43052aa75bd9edbd47bf6eb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5483,
+      "sha256": "bb871b2be37514c39510137f22ed0d56730d247d197ad855c28961c1279771ce"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6340,
+      "sha256": "b98430fc318f56155211bf3d594cf91d8528ecc2506431fa2046ebdd488b2f4b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

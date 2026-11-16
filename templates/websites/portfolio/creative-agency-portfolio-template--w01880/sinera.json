@@ -1,0 +1,70 @@
+{
+  "id": "SN-W01880",
+  "title": "Creative Agency Portfolio Template",
+  "summary": "A reusable portfolio template for UI/UX agencies and creative studios to showcase services, experience, selected work, and a high-end digital brand presence.",
+  "tags": [
+    "Portfolio",
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Animated",
+    "3D"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3694,
+      "sha256": "f163c24260e87701e63383f2adb1916f70bb59aa3800c21594af28789be661a9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10756,
+      "sha256": "ade56e6439c33663cd4d0f58345fbda9b51a1cf22358bf06d9fa9ce6d09129b8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 722,
+      "sha256": "70a0bb2a22d8b71d92575fcff916f2abec61a48a63ed2e14f5f4466154011f8e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 46420,
+      "sha256": "4eb66f2afa641592c52d83e1cd3f035072380e4a5b40a30703d2c4e085ed4ed6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "about",
+    "features",
+    "how-it-works",
+    "case-studies",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

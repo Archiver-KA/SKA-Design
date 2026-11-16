@@ -1,0 +1,74 @@
+{
+  "id": "SN-W01469",
+  "title": "Communications Agency Landing Page Template",
+  "summary": "A premium landing page template for PR, branding, and communications agencies to showcase services, case studies, testimonials, and lead capture.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Technology",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Creative agency",
+    "PR",
+    "Marketing"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3453,
+      "sha256": "082916ac36b4d7cb4c137433a64a35b37448594e4cc6237654b7697d6ea36179"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20364,
+      "sha256": "227bcba19caa283bf7655e358db5e90dcf92194b3e237133fdc884d79ebb67b5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 876,
+      "sha256": "f6a9d5f72a66953fe0a8cf3f91ef9ef58fc36ae23ac7692e1ad57575d9178f74"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 4,
+      "sha256": "891b1e15b4ec667c0c14f05c3a5f415c3eee32fb15e2204d20cdc0e7a2168e7e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 43721,
+      "sha256": "d7cd672ee1dd7da7396977366c071c9fd79918f72312ed10cb9ffcb08141149d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "case-studies",
+    "logo-cloud",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00994",
+  "title": "Animated Email Signup CTA Card",
+  "summary": "Responsive call-to-action card with background image, animated headline, email input and submit button. Built with Tailwind utility classes and custom fade/scale effects, ideal for landing pages or onboarding sections to capture user emails.",
+  "tags": [
+    "card",
+    "cta",
+    "form",
+    "email signup",
+    "tailwind",
+    "animated",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 17938,
+      "sha256": "7c7daea8cbd221e71b5bf296a1480288fe2de4f744e05ad6d5699940f6dc80d4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1513,
+      "sha256": "32edda7bd1a8c0d2f0c9078014c56a0a5d4921af35717f11fedb54b2c3e4a1bd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2494,
+      "sha256": "9d5acda5ef02c949af9a8e134b5a3aa2de62f2ce0aa321bc427a0ad4b1bafceb"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

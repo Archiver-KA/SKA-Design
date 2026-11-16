@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00910",
+  "title": "Telemetry Dashboard Feature Section",
+  "summary": "A dark, futuristic telemetry showcase section with animated headline reveal and three analytics cards for revenue, sessions, and infrastructure load. Built with Tailwind CSS and GSAP-style scroll animation for SaaS, data, or monitoring landing pages.",
+  "tags": [
+    "feature",
+    "section",
+    "tailwind",
+    "dashboard",
+    "analytics",
+    "dark",
+    "animated",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16680,
+      "sha256": "2d64487eb2d2723625ee0904c8e92646ea8ba627edac033e42f026626fddc06a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 19013,
+      "sha256": "8d8fa39727dbadfa0f6823f8095cf5a4578dc5ce5d0b1ef32eee82f6f6f0fa85"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19869,
+      "sha256": "9922553de867902eff4b92ca277a6cf34e127aa2310e1a6024fe92edc3454f70"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

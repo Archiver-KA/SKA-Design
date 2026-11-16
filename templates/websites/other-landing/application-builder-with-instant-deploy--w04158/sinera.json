@@ -1,0 +1,76 @@
+{
+  "id": "SN-W04158",
+  "title": "Application Builder with Instant Deploy",
+  "summary": "UI for building and deploying applications instantly with zero-config optimization and real-time performance monitoring.",
+  "tags": [
+    "Hero",
+    "Features",
+    "Animation",
+    "Tailwind CSS",
+    "Performance Monitoring",
+    "Instant Deployment"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3672,
+      "sha256": "dda3bfc464d615e863859a0bee5ab8eab3e823cf2a2cf57dfd211c268d2cc34e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 23080,
+      "sha256": "9937c97352bd76c8de07496c0042830feeb1845180ef951e651468a6f7e5751f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1348,
+      "sha256": "79e717d4ac1ae727442426650ae9c9f444c22720c0ce4ce483ad5b953d3a6a26"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 620,
+      "sha256": "e6bce9114e422b5ca92b64b6ec2bfe6a5c2fe708b4fc0c756404e7c8a9cf9f94"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 821,
+      "sha256": "3ccd180fbf7eb38f9276543daa0602ad3731f39ef3f68b5586591e6f1c25b59d"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 889,
+      "sha256": "3ec08dc27c1eb6c34406549a79102207ffa7fb7bca0d36bb5cf5fd20a885c61f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15521,
+      "sha256": "cbb2f1a2986104870fbdfaa978900f6dd7da4a5b95ac11c0174673e412eae10f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "code-terminal"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,10 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none z-10 overflow-visible" preserveAspectRatio="none">
+                                                            <path d="M0 160 C 40 150, 80 120, 120 130 C 180 140, 240 80, 300 60 C 380 30, 460 40, 600 20" fill="none" stroke="#34d399" stroke-width="2" class="opacity-80 drop-shadow-[0_0_8px_rgba(52,211,153,0.4)]"></path>
+                                                            <defs>
+                                                                <linearGradient id="chartGradient" x1="0" y1="0" x2="0" y2="1">
+                                                                    <stop offset="0%" stop-color="rgba(52, 211, 153, 0.2)"></stop>
+                                                                    <stop offset="100%" stop-color="rgba(52, 211, 153, 0)"></stop>
+                                                                </linearGradient>
+                                                            </defs>
+                                                            <path d="M0 160 C 40 150, 80 120, 120 130 C 180 140, 240 80, 300 60 C 380 30, 460 40, 600 20 V 200 H 0 Z" fill="url(#chartGradient)" class="opacity-40"></path>
+                                                        </svg>

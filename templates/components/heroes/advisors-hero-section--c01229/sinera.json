@@ -1,0 +1,37 @@
+{
+  "id": "SN-C01229",
+  "title": "Advisors Hero Section",
+  "summary": "Hero Component",
+  "tags": [
+    "hero"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26352,
+      "sha256": "facd42f367b645907555ca87e9b1f920cf23eddb5cb71ac495dd57dc48d62cc2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 21674,
+      "sha256": "e84afff0e6dcaeaa5b9ff78392e6fa73dab56d927a01ee9dc89f695e483820a3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22646,
+      "sha256": "f1793e5872091a7628b9cd64737bdb3ed9f3a186edfb90b7579e80074994d344"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

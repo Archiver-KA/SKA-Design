@@ -1,0 +1,23 @@
+<svg viewBox="0 0 400 150" class="w-full h-full overflow-visible">
+                            <!-- Grid lines -->
+                            <line x1="0" y1="150" x2="400" y2="150" stroke="#2C221C" stroke-width="1" stroke-opacity="0.1" />
+                            <line x1="0" y1="100" x2="400" y2="100" stroke="#2C221C" stroke-width="1" stroke-opacity="0.05" stroke-dasharray="4 4" />
+                            <line x1="0" y1="50" x2="400" y2="50" stroke="#2C221C" stroke-width="1" stroke-opacity="0.05" stroke-dasharray="4 4" />
+                            
+                            <!-- Chart Line -->
+                            <path d="M0,120 C50,115 80,130 130,90 C180,50 220,70 270,60 C320,50 350,20 400,10" 
+                                  fill="none" 
+                                  stroke="#E05A38" 
+                                  stroke-width="3" 
+                                  stroke-linecap="round" />
+                            
+                            <!-- Area under curve (gradient simulation) -->
+                            <path d="M0,120 C50,115 80,130 130,90 C180,50 220,70 270,60 C320,50 350,20 400,10 V150 H0 Z" 
+                                  fill="#E05A38" 
+                                  fill-opacity="0.05" />
+                                  
+                            <!-- Points -->
+                            <circle cx="130" cy="90" r="4" fill="#FFFDF5" stroke="#E05A38" stroke-width="2" />
+                            <circle cx="270" cy="60" r="4" fill="#FFFDF5" stroke="#E05A38" stroke-width="2" />
+                            <circle cx="400" cy="10" r="4" fill="#E05A38" />
+                        </svg>

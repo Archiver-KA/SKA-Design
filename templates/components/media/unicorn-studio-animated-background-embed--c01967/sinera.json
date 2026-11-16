@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01967",
+  "title": "Unicorn Studio Animated Background Embed",
+  "summary": "Absolute-positioned full-screen background container that loads and initializes a Unicorn Studio project script. Ideal for adding animated visual backdrops to landing pages, heroes, or app interfaces. Uses utility classes consistent with Tailwind CSS.",
+  "tags": [
+    "ui",
+    "background",
+    "animated",
+    "embed",
+    "tailwind",
+    "unicornstudio",
+    "sun"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 73198,
+      "sha256": "07b5f9fb3704796ae7bc477bb310b0a72539ee8b4a3568820deed9d73eb0caa2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 711,
+      "sha256": "78b709c30337e9af9f6a10f93bf0ae13d7b9d7154afbdffcc86e663835c75086"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1572,
+      "sha256": "647c1a031e7c4a541571f01aa49cc75a70ca47488cb8ce575fa8236113be56b6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01203",
+  "title": "3D Design App Hero Section with UI Preview",
+  "summary": "Full-screen hero section for a 3D design tool featuring gradient background glows, bold headline, CTA button, social proof avatars, npm install snippet, and a MacOS-style window preview of the app UI. Built with Tailwind-style utility classes.",
+  "tags": [
+    "hero",
+    "section",
+    "landing",
+    "tailwind",
+    "responsive",
+    "ui",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19476,
+      "sha256": "e4b034145c7387a86d0e1f21f991d696c7ed09c53f762cebf7650c2dfe1dc50b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5401,
+      "sha256": "4160492abfb677fc8c0806521457d28365f94f7fa9d6769179db7c8af18833dd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6264,
+      "sha256": "fd5921f4a081abe4ad16f0391167f98a207418feaa5ea0f2d4a11c8773a62155"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

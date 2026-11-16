@@ -1,0 +1,69 @@
+{
+  "id": "SN-W02054",
+  "title": "Interior Design Portfolio Landing Page Template",
+  "summary": "A refined interior design studio landing page template for showcasing projects, services, and contact details for architects and interior designers.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Art & Design",
+    "Interior Design",
+    "Portfolio",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3723,
+      "sha256": "aee67e3b6ca8aeb99a8c6d0b509e1f855f8de6fbdb344577cbb663a396b27dca"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 32468,
+      "sha256": "2d75119b075358312ef155caa926b68cd81109f93af61d340d7ba93f0cf804a3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "583d0f0dc73614a9f9e43d37c133d12357ecb8748e4ca140f78a3c6a73ff03a2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38596,
+      "sha256": "73c4a1de0014349db332e2428432830d07336cc6e273c93a1f3669dc93b96ce9"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "gallery-portfolio",
+    "how-it-works",
+    "logo-cloud",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

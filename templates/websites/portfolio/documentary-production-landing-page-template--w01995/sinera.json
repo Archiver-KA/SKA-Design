@@ -1,0 +1,82 @@
+{
+  "id": "SN-W01995",
+  "title": "Documentary Production Landing Page Template",
+  "summary": "A cinematic, story-driven landing page template for documentary and brand-film studios to showcase projects, team, and invite high-intent clients to connect.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Services",
+    "Art & Design",
+    "Portfolio",
+    "Dark",
+    "Large Type",
+    "Minimal",
+    "Documentary",
+    "Film Studio"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3780,
+      "sha256": "f8e2cd9c85c513e445913e6f72aab2872631be153c34b2d2b0dffb83f88d5bd4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6162,
+      "sha256": "eb75ddd01a78768b2060d3a5a85cc26863e534cbdcc04c1906973961ef0a83b5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1345,
+      "sha256": "1873469424835c9dc8040b692055bc996cb0e8c3b357bb7a4e096e8afaf4fd37"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "f2c2382b2cee82ae912196f2e44ee845d21d31c7b7f3b01ec30db62e90325878"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 280,
+      "sha256": "b183f426c5399781c91f1eb49b931bb2956c2bd3c45fcd386107c7e5f50fce1f"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 449,
+      "sha256": "a37d16371ef9a1c046e2644f6f7b058fc7bab16665dbc90d4391348a0679850f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41114,
+      "sha256": "1f115de2e9b92bcfa6cf2c63292451060a9a6387a5a090bf2ac985c2f4325e30"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "features",
+    "about",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

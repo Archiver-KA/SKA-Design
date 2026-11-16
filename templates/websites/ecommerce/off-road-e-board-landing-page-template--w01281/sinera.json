@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01281",
+  "title": "Off-Road E‑Board Landing Page Template",
+  "summary": "A dark, performance-driven landing page template for showcasing off-road electric boards, curated trails, and accessories with bold specs and imagery.",
+  "tags": [
+    "Landing Page",
+    "E-commerce",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Electric skateboard",
+    "Outdoor"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3609,
+      "sha256": "ac4258089afbe9858c2a3af5b910bc343934720166e385d590dee8a767f4e6a8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14232,
+      "sha256": "21b0e868239e33a91a8cb8614ef817ccd5e68fea2fa00047b8e56ad6a04288db"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "138aa9926635d35c421e12c1bcd7a68c35a801d43e4f7a2f3ab0f2a7c9243a2e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27467,
+      "sha256": "98e2df550fa40f4f02151b809d5b8d5f8a554c04e0d78457780056a83040fba8"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "map-location",
+    "product-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

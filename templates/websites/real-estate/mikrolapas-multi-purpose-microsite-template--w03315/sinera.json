@@ -1,0 +1,71 @@
+{
+  "id": "SN-W03315",
+  "title": "Mikrolapas Multi-Purpose Microsite Template",
+  "summary": "A high-conversion landing page template designed for real estate, automotive, and professional service portfolios with rich media support.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Real Estate",
+    "Services",
+    "Dark",
+    "Animated",
+    "Minimal",
+    "Professional"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3670,
+      "sha256": "66e695961318f17ea53b2523555645b0dc3932146c272d99144d2daf8644df0a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15714,
+      "sha256": "b7c3bfffa414b3be137a90c63c58296ccd26a5e9cb594d40b833b2e65b1d336b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 878,
+      "sha256": "d51ffdc552ad002422c7dc09b80b7a3ab587d7a703043c57ff75d6413e8f91ef"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 674,
+      "sha256": "3504ea7ef2eb35d2459278e353a7dc6dc6ae1e4b9006f900d975b48be31ba0ab"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32715,
+      "sha256": "ed41eca76a09582823eddd314d227e29d0a8430cd9115152d865fadad12b1e35"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "features",
+    "cta",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

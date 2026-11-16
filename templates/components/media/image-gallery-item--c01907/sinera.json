@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01907",
+  "title": "Image Gallery Item",
+  "summary": "Minimalist gallery image component with clean borders and subtle shadow. Ideal for product catalogs, portfolios, and image grid layouts.",
+  "tags": [
+    "card",
+    "gallery",
+    "minimal",
+    "image",
+    "border"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7498,
+      "sha256": "c5c61a2277091d7098bea98ee0706053802727c6921804814fd397306b017e59"
+    },
+    {
+      "path": "component.html",
+      "bytes": 309,
+      "sha256": "528b612e140c02d92bccf0fd7fa837076b502abb4a67679c7dada201c268e2ba"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1148,
+      "sha256": "8a8767eec164b7d61c98aec14df5d2aff504f1d5ff44d07e24f589364255334f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

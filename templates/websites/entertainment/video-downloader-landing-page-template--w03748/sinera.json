@@ -1,0 +1,65 @@
+{
+  "id": "SN-W03748",
+  "title": "Video Downloader Landing Page Template",
+  "summary": "A modern dark-mode template for a universal video downloader landing page, perfect for apps or SaaS tools that let users download HD/4K content from major platforms.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Video Downloader",
+    "SaaS",
+    "Product"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3531,
+      "sha256": "774573685c9a32d60056441318cf77d32580c196e8be32b11d8d0042718fdbad"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12204,
+      "sha256": "6116309854a8d7b7c15edf4e12a668f93c35b46c45322a00bd6de69857a191aa"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "50031f649c1a0f679f81c91be697e390b505bd133cde7b175e74f25c9e5a239e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18032,
+      "sha256": "51232b6762d0a4eb41ba5bb937acfa8b1391f226c9c04cfbc6cf73750444ccc8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "integrations",
+    "app-download",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

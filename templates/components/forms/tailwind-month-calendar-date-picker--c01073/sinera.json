@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01073",
+  "title": "Tailwind Month Calendar Date Picker",
+  "summary": "Interactive month-view calendar featuring weekday headers, selectable date cells, current/selected-day highlight, and ARIA roles. Styled with Tailwind CSS grid utilities for use in booking forms, dashboards, or scheduling modules.",
+  "tags": [
+    "calendar",
+    "datepicker",
+    "grid",
+    "tailwind",
+    "interactive",
+    "accessible",
+    "ui",
+    "scheduler"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5132,
+      "sha256": "e5f531b5a50cfbaa8c4178ba465bb2cbead45a32938cf9b1e07468d0d3ac0598"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5896,
+      "sha256": "f97d762fb0c0824aa079d09207dd6522191990dfaad44b46801f016e907a3881"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6752,
+      "sha256": "5653117d8b997c964a082e0083bb78451ea75d16d567c8b185ce872cc14e06e4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

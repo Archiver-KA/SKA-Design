@@ -1,0 +1,58 @@
+{
+  "id": "SN-W04257",
+  "title": "Pricing Cards with Animated Shader",
+  "summary": "Displays interactive glass-effect pricing cards over a dynamic WebGL shader background using Tailwind CSS and custom shaders.",
+  "tags": [
+    "Pricing Cards",
+    "Glassmorphism",
+    "WebGL Shader",
+    "Tailwind CSS",
+    "Animation",
+    "UI Design"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3215,
+      "sha256": "eb762674a28d560aeaeb5ef816156d102310117db45b46a0303c5be5a3f3d7a5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15866,
+      "sha256": "59547b9153ae3b86a70655c824e76f5a8e3b47b7475e1e6c87c6edb6d3c0e6eb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "8ff9a999f6c69f01e289104edf800ed2f24864df4b4e8e0b1ee9fcd1374ea1f3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11598,
+      "sha256": "ff021f3f9e9e8a9906e08374834c7308f51e09b09edf2393029217bc69d4d0ee"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "pricing"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "pricing",
+  "design": "DESIGN.md"
+}

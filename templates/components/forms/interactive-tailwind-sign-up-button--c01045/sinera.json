@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01045",
+  "title": "Interactive Tailwind Sign Up Button",
+  "summary": "Tailwind-styled call-to-action button labeled “Sign Up” with hover, focus, and active state transitions, ring outline, and responsive touch support; suited for forms and CTAs in web apps.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "interactive",
+    "hover",
+    "focus",
+    "responsive",
+    "signup"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1384,
+      "sha256": "52b7b8c55658917a4cd09bddf17d440fe3f7b055c5051b99fd86ff7e7678398a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 665,
+      "sha256": "a646811ed737ee57e470d9a6c6374226a7ca3bfcb2a65bc2917d80bd05ec7340"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1521,
+      "sha256": "dc631e5fb3beef49aff809741be30218f82ecdf5770f800d944641637ae17007"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

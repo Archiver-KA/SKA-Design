@@ -1,0 +1,66 @@
+{
+  "id": "SN-W00061",
+  "title": "AI Booking Assistant Landing Page Template",
+  "summary": "A reusable landing page template for AI-powered booking assistants like BookFlow, optimized to showcase features, integrations, and lead-capture CTAs.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "AI booking"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3596,
+      "sha256": "f2288d1da028150ed27f59b404944a28b9d86332e71c10c9b325e4ab71f3bb4a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15214,
+      "sha256": "a5d8f4093dbc96df658dadccd701df61a9143d739cf070a37216989d650a3714"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "3d045930aee0e2fc23f82973814c9f1979bc4432405f43510557d54e63c3dbec"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24930,
+      "sha256": "ef7ed202e96dc071b9b0a5eb4f338c247f83743161be4ec602d82e7baa29989f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "testimonials",
+    "integrations",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

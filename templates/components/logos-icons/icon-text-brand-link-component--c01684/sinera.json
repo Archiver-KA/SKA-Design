@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01684",
+  "title": "Icon & Text Brand Link Component",
+  "summary": "Clickable anchor displaying a rounded SVG icon with subtle backdrop blur and adjacent brand name. Built with Tailwind utility classes, ideal for headers, navbars, or landing pages to represent company branding.",
+  "tags": [
+    "link",
+    "logo",
+    "navigation",
+    "tailwind",
+    "icon",
+    "branding",
+    "header"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2696,
+      "sha256": "bc768aeef5010c810f054cf43b1c7d16769b31633ed04f8281bc925404a2032f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1460,
+      "sha256": "e91eef543449522e217d2ec3a4084420cb64c123fc59b3e982f68c66e565a387"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2317,
+      "sha256": "4d19d49ab31873594e142f50f5b63ec1860dae6b6a253c2ab036604193c32f41"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

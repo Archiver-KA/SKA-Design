@@ -1,0 +1,97 @@
+{
+  "id": "SN-W04253",
+  "title": "Platform Features Overview",
+  "summary": "Displays a responsive features section with animated cards over an interactive 3D background using Tailwind CSS.",
+  "tags": [
+    "Features",
+    "Tailwind CSS",
+    "Interactive Background",
+    "Responsive Design",
+    "Hover Effects",
+    "3D Integration"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3346,
+      "sha256": "4a80cdc3ff31907e593a9da1fd411eb97e9c2ebdc9f564c55c7a9a203c986d52"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17864,
+      "sha256": "8afd80dd97c0388ba42f2f02d19093c14cf71cae1cbd6fda37520d48d8b73f8c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2413,
+      "sha256": "c7442f3f13a3cd79138dc87e938c6d57ce2d92ca189da49354557d07f3fa7206"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 388,
+      "sha256": "89d3218f369dda693f08f0d7a493f5d13d5a7644d35031a06b351fe6ef48a3c2"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 210,
+      "sha256": "d2611ea6a7181b8d366332cf6a3f1831af067f37400d4f6e427c4a9bf3d9844e"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 397,
+      "sha256": "14568d5149ed6b41c369b96254bb7946585088c64fa1f5399a170c479fd4d375"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 305,
+      "sha256": "b4d394a5d607ad82f5b11716d2422f036fbf6eb83d5daaf0771d409b387bbe55"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 287,
+      "sha256": "ea69aad8bae94841d16978edf4a08a32905fae33ab7cd9691d0df00994deac71"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 287,
+      "sha256": "c66a3f99c56bf20dc0a7d0109b39deccc3d0a07831b1b7397aca74cfe4a5796a"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 391,
+      "sha256": "1170ab9af80f198d7eb8cfe2c2c5a8234335fa607e84704cc899ae2937d971e6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12680,
+      "sha256": "3ba0c3f228f7e976c43e7fae35d264fab56d61d6341e8dea57a133c88f2622d5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "how-it-works",
+    "timeline"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

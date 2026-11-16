@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02208",
+  "title": "Retro Developer Portfolio Website Template",
+  "summary": "A bold retro-futuristic portfolio template for creative developers to showcase projects, skills, and contact details with a pixel-perfect CRT-inspired design.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Technology",
+    "Colorful",
+    "Futuristic",
+    "Grid",
+    "Large Type",
+    "Minimal",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3402,
+      "sha256": "7fd35c431541ec0be7f09ac12137ce156af0f0b210fcf21e34c07e551e706d17"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 32012,
+      "sha256": "1f8365344488da0e80028cd16798fa3a77b57d30176e6b9910c7e97c51d9ecf0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "49301a4a1be49d61b0f528ec620467ecf580d2330c262ae9a218986124613cdb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33142,
+      "sha256": "f45419796e7d63b8cc5cb117a810fd9ad5347243edcc3f1345fd91c4ec16780a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "case-studies",
+    "about",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

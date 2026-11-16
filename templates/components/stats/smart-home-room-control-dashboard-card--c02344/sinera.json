@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02344",
+  "title": "Smart Home Room Control Dashboard Card",
+  "summary": "Animated glassmorphism card displaying multiple room controls with toggles, progress bars and status text. Built with Tailwind utility classes; ideal for smart-home dashboards or IoT admin panels.",
+  "tags": [
+    "card",
+    "dashboard",
+    "smart home",
+    "tailwind",
+    "progress bar",
+    "interactive",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10588,
+      "sha256": "7ebbb4f11d48d6a378e1d461c47d57063052b30700f8a3fd9ab25297131997d7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8649,
+      "sha256": "08f42f0c998ecf6b4b39a5ca01ed07598a7676066fc71b0267a39aef006d1179"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9638,
+      "sha256": "c49f133a63d072a3d793a551a1b0859de311634e7b0ed667ee43272c3a9384e9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

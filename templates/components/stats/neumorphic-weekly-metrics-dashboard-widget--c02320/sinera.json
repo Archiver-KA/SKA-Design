@@ -1,0 +1,37 @@
+{
+  "id": "SN-C02320",
+  "title": "Neumorphic Weekly Metrics Dashboard Widget",
+  "summary": "Neumorphic dashboard widget showing weekly performance metrics with three animated metric cards and SVG line charts, a header with options button, and a CTA button. Built with Tailwind utilities and custom CSS for neuomorphic shadows and subtle animations.",
+  "tags": [
+    "card",
+    "dashboard",
+    "analytics",
+    "metrics",
+    "tailwind",
+    "animated",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8588,
+      "sha256": "13ea1a0c33fb63c2a01a0537a66645f7d8afefe7c31757dba3d16d839b87fd01"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12134,
+      "sha256": "43b4c1ad97a81c14e2f3104d41b4e548b538c262d52d75a3cdc6e30a3dcb2136"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

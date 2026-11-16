@@ -1,0 +1,69 @@
+{
+  "id": "SN-W01800",
+  "title": "Architectural Visualization Portfolio Template",
+  "summary": "A refined template for an architectural visualization portfolio website, ideal for showcasing 3D renders, workflows, pricing, and testimonials to clients.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Minimal",
+    "Grid",
+    "Brand",
+    "Architecture",
+    "3D visualization",
+    "Services",
+    "Dark"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3697,
+      "sha256": "cc9c38d62675229460899e4487ad97f2489b6f4627a92d30d84a5f01959d9446"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7180,
+      "sha256": "16e1f97fa3e067b5be0ba94fc13f248089a08f0f16e32d90fd1ac84922a6f415"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "658ce0bdd9bf8630347d7f28db710598ae901e110d25ec41f08e62e7bc1c52a5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40845,
+      "sha256": "b00190d706d8e7d438e57346ef09ae326712a56d8aff6c06a98f6d8609d2b484"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "code-terminal",
+    "hero",
+    "how-it-works",
+    "integrations",
+    "features",
+    "cta",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

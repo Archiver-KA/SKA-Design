@@ -1,0 +1,45 @@
+{
+  "id": "SN-C00610",
+  "title": "Constraint Analysis Accordion Grid with Search & Print",
+  "summary": "Responsive Tailwind component showing grouped criteria in accordions with status badges (ok/warn/block), search filter, legend, quick-nav chips, toggle/expand, and print–PDF export controls. Ideal for property or regulatory dashboards needing printable analytical grids.",
+  "tags": [
+    "accordion",
+    "list",
+    "search",
+    "filter",
+    "status-badge",
+    "tailwind",
+    "responsive",
+    "printable",
+    "dashboard"
+  ],
+  "kind": "components",
+  "category": "faq",
+  "categoryLabel": "FAQ & accordions",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22426,
+      "sha256": "6bd5ccd4cddb49c9c2dd8797b1f20ef1e6786a8a72ceedca5747656c295383c9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 40448,
+      "sha256": "3dfa88b977d81517e0d6a4be566e40374ed9c9d00897d98ce32a22bb328ab9e4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41457,
+      "sha256": "06a12c87bd893806ee40d91281d8075ea8e5636c03844df7ad07005d73d9aba9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

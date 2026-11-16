@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01139",
+  "title": "DiawStudio Web Agence",
+  "summary": "DiawStudio, conçu pour les agences web basées au Sénégal : création de sites vitrines, boutiques e-commerce, SEO, branding et design professionnel. Optimisé pour les entreprises à Dakar.",
+  "tags": [
+    "Création site web Dakar",
+    "Agence Web Sénégal",
+    "Site vitrine",
+    "Site e-commerce",
+    "SEO Dakar",
+    "Branding",
+    "Web Design Sénégal",
+    "DiawStudio"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3657,
+      "sha256": "5f55340b8017989195701e8912e36b7eba3f7a6cba641b3562747069312558cd"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12922,
+      "sha256": "42320d19c7006f8864311d9952c204f121d70aa061b04b282a15be52ac49370c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 711,
+      "sha256": "d22dd6598c4f63923dc3c99c9764200db08ed8f87153635833fdcfa3ad2a4791"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38329,
+      "sha256": "063a38c59cc4552379e8932d16b2b998757cc1a5910fa60e331dd72856dae896"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "pricing",
+    "case-studies",
+    "faq",
+    "testimonials",
+    "code-terminal",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

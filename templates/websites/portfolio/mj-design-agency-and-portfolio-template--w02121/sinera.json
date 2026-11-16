@@ -1,0 +1,68 @@
+{
+  "id": "SN-W02121",
+  "title": "MJ Design Agency & Portfolio Template",
+  "summary": "A high-end studio landing page template featuring vibe-coded visuals, horizontal scroll mechanics, and bento-style layouts for modern digital agencies.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Portfolio",
+    "Services",
+    "Clean",
+    "Animated",
+    "Futuristic",
+    "Dark"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3876,
+      "sha256": "bd041f088d410c1249a3c069a02c0b4b6930b945c8deb08c8b4f2aecf8d276a4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 27956,
+      "sha256": "ed8f04d9bf05ad59a455c44d97403057c684e84d2533cbd9a7804cafc37c056d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "b5a1933299e19aaf9ff339d40071dbc45dee4cf84d3e758e91b794aca6d0606b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 48987,
+      "sha256": "2dcacb6e4c4942f49bf73be25c518952a55222f52bb3313fa971bc359d192f8a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "bento-grid",
+    "how-it-works",
+    "dashboard-preview",
+    "stats",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

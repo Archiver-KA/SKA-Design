@@ -1,0 +1,74 @@
+{
+  "id": "SN-W02630",
+  "title": "Gym & Fitness Landing Page Template",
+  "summary": "A modern, high-impact gym and fitness center landing page template for showcasing programs, trainers, pricing, and driving membership signups.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Technology",
+    "Fitness"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3787,
+      "sha256": "ca2e6a7aee3f8c6fed5fe3e401c7c9d646cb25df96098e86d0b6325fd9c6e1d8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17724,
+      "sha256": "2c9c549e103804c3269c50a66ca63a739cbce8a6dc76d085b651ed3188cc17ce"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 813,
+      "sha256": "5d7dfa399a4b5f151d95e8e046989f500b1ebf41e424627ecfb1ba91185b19cf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 54652,
+      "sha256": "78d50e4e18f302df18ca6ec2badaa407a4a1a2b2d7177608d90a289c9b20a7b2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "team",
+    "about",
+    "services",
+    "pricing",
+    "stats",
+    "blog-articles",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

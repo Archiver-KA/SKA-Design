@@ -1,0 +1,69 @@
+{
+  "id": "SN-W02639",
+  "title": "Hardcore Gym Landing Page Template",
+  "summary": "A dark, hardcore gym landing page template for strength-focused fitness clubs to showcase facilities, membership plans, and training philosophy.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Fitness",
+    "gym",
+    "membership"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3535,
+      "sha256": "2d433b802eb3fc320da52c701171f6185335430543a3f3e30d58253cce48b5f9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11784,
+      "sha256": "dcb83aa89e7faeaf0f60222aef1ea9ffbff57768a0051dccd3ed12ec8b41eeea"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 812,
+      "sha256": "b05d662554db24b9f8f7aef7a01b7772d6a07aaabd7e6381b99dbedc36bd7bc9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24863,
+      "sha256": "2a7a425bc6a26ae1ff2b45ea95a8a3ea01be4cb095d59a202263e49b5521a402"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "pricing",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

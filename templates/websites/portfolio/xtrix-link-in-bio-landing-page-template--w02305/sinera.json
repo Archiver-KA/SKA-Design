@@ -1,0 +1,68 @@
+{
+  "id": "SN-W02305",
+  "title": "Xtrix Link-in-Bio Landing Page Template",
+  "summary": "A dark, futuristic Xtrix link-in-bio landing page template for creators and teams to promote hyper-fast, secure profiles, pricing, and analytics.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Technology",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Portfolio",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3703,
+      "sha256": "853caa12a725be82b9f556675745612360d0c49b713fcca8a30bf1e710c80e00"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12838,
+      "sha256": "8ce3f9fe1afcc6f8813a9c5649a315154da47b0336030108d26773d1ebdea931"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 727,
+      "sha256": "4a1a9f0a53125b349d6c297b70a822276efc8086e363dddfd0caf8377d882a65"
+    },
+    {
+      "path": "index.html",
+      "bytes": 48982,
+      "sha256": "c8ea9cf624cc6b4cb6d7abc8c1ba73e0e93a1267d233b6494344f74761fb86bc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "dashboard-preview",
+    "comparison",
+    "logo-cloud",
+    "pricing",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

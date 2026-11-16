@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01746",
+  "title": "3D Artist Portfolio Landing Page Template",
+  "summary": "A cinematic 3D artist portfolio landing page template for showcasing artworks, press, and a shoppable collection in an immersive gallery experience.",
+  "tags": [
+    "Landing Page",
+    "Art & Design",
+    "Artist",
+    "Portfolio",
+    "Entertainment",
+    "Dark",
+    "3D",
+    "Futuristic",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3271,
+      "sha256": "a1bdd95671b59b2259927f33d842dafa0f0e0f2437f558d68e14828323f4c8f0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1308,
+      "sha256": "e7aae8baffffb626c0222ce362d5632e10e2a84273661564e73fb1e0415c0730"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 812,
+      "sha256": "72477de5beff0a116dc621276d7e95706786b2b71a20f6a810b2d6ad7996cdff"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29601,
+      "sha256": "c9a8bee740ad3c9bd82398c51347888cfead6392b77c5a0ab34c6de6a2cbc48a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "timeline"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "banner-missing-or-tiny"
+    ],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

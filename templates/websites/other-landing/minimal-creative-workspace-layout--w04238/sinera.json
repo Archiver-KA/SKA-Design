@@ -1,0 +1,75 @@
+{
+  "id": "SN-W04238",
+  "title": "Minimal Creative Workspace Layout",
+  "summary": "Landing page with a minimal design showcasing creative tools like canvas editor, collaboration, and asset library. Hero.",
+  "tags": [
+    "Landing Page",
+    "Features",
+    "Collaboration",
+    "Canvas Editor",
+    "Asset Library",
+    "Tailwind CSS",
+    "Responsive"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3078,
+      "sha256": "37dd2c527f139dd98f8635d137d3d3f7f4966bcb47c2b352eb8b0d2f97bdc053"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12968,
+      "sha256": "0c5495b4319127d43ae903f13f624a460f27f094f4b2e7e5e1c2af5e4e47de21"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1260,
+      "sha256": "dfc8c9ec2991bbcaf6d77374d08fe79b3bfd8abf90f43a43a959d7c3e9b2f580"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 279,
+      "sha256": "e4ff1f9c0d0cb8313d9944b54b749713ae74e277051dfafb869d158b0b1e1788"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 268,
+      "sha256": "fe0d35cde4179c5915356df8a28e76e73d1790878dfe93f1acb002fb880f683b"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 281,
+      "sha256": "b9f5cf245e3f8dea3c987f49e7cfe039fa46906dde41210dbec93d86023df6a9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4274,
+      "sha256": "cf62f0e008fc2742708109349049a3254d6bc33d2fbc6b6ba87d0afc24d38e27"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero",
+    "3d-canvas"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

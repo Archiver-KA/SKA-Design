@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01273",
+  "title": "Animated SaaS Hero with WebGL Background",
+  "summary": "A full-screen dark SaaS landing hero with sticky navbar, animated Three.js particle background, CTA buttons, logo strip, feature sections, and interactive topology visualization. Built with Tailwind-style utility classes for futuristic product or infrastructure sites.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "threejs",
+    "animated",
+    "interactive",
+    "saas",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18780,
+      "sha256": "33feb4ceb8ac90c61ff4e8a66860969ac1dc8e287c1847ecef9dc9a41333fcd6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 14224,
+      "sha256": "bf21aab309d11461b084573c38ccf378932b93a7e7d10a2ef52494a5a247172f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15085,
+      "sha256": "3dae93b5963b8efda5d8670337af301457f4cea096db752091f0590c82147fb6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "SN-W01416",
+  "title": "AI Marketing Agency Landing Page Template",
+  "summary": "A high-converting template for AI-driven marketing agencies to showcase services, case studies, and contact CTAs—ready to customize for your own agency brand.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Minimal",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Marketing Agency",
+    "AI Automation"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3976,
+      "sha256": "d2051148c29fe7534dda57e996bf83041c290ffa46c62e124b522c953255162a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 23918,
+      "sha256": "7b6bffe54968e601e408a03c271bbdbb73b61d678d86998e9ab2fee0422e588f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 818,
+      "sha256": "000fcc6029ae649e49c563b8c288a855399700e4e020f1523b0816b46ca0fc18"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33103,
+      "sha256": "5abc6cd53d941bea7833eac0e80215d2968f44d6109c9e31461f377d42752a41"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "stats",
+    "about",
+    "services",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

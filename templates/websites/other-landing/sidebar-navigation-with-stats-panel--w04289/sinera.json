@@ -1,0 +1,125 @@
+{
+  "id": "SN-W04289",
+  "title": "Sidebar Navigation with Stats Panel",
+  "summary": "Responsive dark-themed sidebar UI featuring user info, quick stats, workspace navigation, and connected apps list.",
+  "tags": [
+    "Sidebar",
+    "Navigation",
+    "Dark Theme",
+    "Responsive",
+    "Tailwind CSS",
+    "User Profile",
+    "Quick Stats"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3443,
+      "sha256": "cfe803c14b601ab1a0c4a1349fb6254f3abc5d5a38dad4d3dc5cb5dc20952081"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14752,
+      "sha256": "f7f5ca011d3c916b5749af4bb690fb60a7f082ee92924543de9811823be9b1b3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 3526,
+      "sha256": "e53b9c60000975ce0df456e8caee0dd31faf638b8773c3a0a9ad4e083f86ae0a"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 564,
+      "sha256": "2e3fb7782cc37a61712c748882c8c1f0f222e567be96198cee4d23b3951a1b8a"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 428,
+      "sha256": "ce6ae9d00249a41dde369df125a6a5b85efcc38cfc3ce86e8b2e2c4bce320cd9"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 347,
+      "sha256": "6fc59875724727eb14cde0a2f47b4461a4c92eeca997b08b3f7e4397824739a2"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 428,
+      "sha256": "385b99b21625403892af60425c2cb1c8b91d2fecbf332fdab1edaf4a0e7d1ee4"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 553,
+      "sha256": "9927b8f5a87acd862c2bccc8467604c3af1f73f3ee1ccad44d772fe7c0b8e751"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 389,
+      "sha256": "7d183a3677ae2389eaac4800a91e17913072471b34cbccd06aa449e0fdba45b3"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 428,
+      "sha256": "fb4955cd94ebdd05a931bcc380f43726ce881de165a6bde6c973644bc01f7f39"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 425,
+      "sha256": "b0cf8aed40093a468267886f5553a9ea951032ed38e58f5500fc942d2123c8b9"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 456,
+      "sha256": "187dc73c4c45fe49a2b7caf03c9e6f80816fe0b621e8532f79971696d2da0f24"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 419,
+      "sha256": "7f17737bedb71d68a09055bb7863174a3ea29c545d0b2718102c9d7884d48f89"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 293,
+      "sha256": "55dde876dbb5bd3201d6071ca38d90975f31b5f7c528a1f50f6af09d75323f46"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 428,
+      "sha256": "5399042962e71bd9c3ba7dbd70301e3403f0cad633fc0a54e76826435f17e9f7"
+    },
+    {
+      "path": "images/embedded/embedded-0013.svg",
+      "bytes": 347,
+      "sha256": "9947d658247c98e501c0fedad7819f2ede6899c3583f178cf9fcaa06f4f6304b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22533,
+      "sha256": "d97428044089d4cb8b74a93f21c5d7d472e9e239e7fb00b1335cf401af8bd0ee"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero",
+    "sidebar"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "sidebar",
+  "design": "DESIGN.md"
+}

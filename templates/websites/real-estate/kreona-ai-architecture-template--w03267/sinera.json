@@ -1,0 +1,60 @@
+{
+  "id": "SN-W03267",
+  "title": "Kreona AI Architecture Template",
+  "summary": "A high-fidelity dashboard template featuring a terminal-driven interface and system monitoring components for AI and technical command centers.",
+  "tags": [
+    "Technology",
+    "Dark",
+    "Futuristic",
+    "Grid",
+    "Animated",
+    "Clean",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3646,
+      "sha256": "1790ba1798fa5ca66f62f2b14ab4929253eb2805e5d7b79ff45650a8fa030edc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11446,
+      "sha256": "049342026dd65e3aa34a24b5ee592dc7d934de0c1c7448e30b60a5ef8c13b9e9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 721,
+      "sha256": "c363940e64c4fdeccf7e33b83479cee375e3a406fca592b1a295ec82cd6f3dfc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25798,
+      "sha256": "6d618b863c1026fefe90a3ad50e41a1353ed2e33be7e1d87220a1027d7a391b3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "stats",
+    "how-it-works"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

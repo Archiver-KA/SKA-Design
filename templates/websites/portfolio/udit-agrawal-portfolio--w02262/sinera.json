@@ -1,0 +1,64 @@
+{
+  "id": "SN-W02262",
+  "title": "Udit Agrawal Portfolio",
+  "summary": "An immersive 3D portfolio template for creative developers and designers to showcase About, Experience, and Projects in a futuristic neon city interface.",
+  "tags": [
+    "Portfolio",
+    "Art & Design",
+    "Technology",
+    "Futuristic",
+    "Dark",
+    "Gradient",
+    "Animated",
+    "Large Type",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3369,
+      "sha256": "65670b630bca0dc8fdcc1d19d2fd6661fcd699356022893dad5fde565eebb046"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2862,
+      "sha256": "e48a149947efd2a5fc4219e7bad7ad97245e9363cd1cab5d2032db5e127034c3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 710,
+      "sha256": "22a7b193c34c96ff285f920250ccdf058fc8c54e059b8e332177103ed9037b05"
+    },
+    {
+      "path": "index.html",
+      "bytes": 45139,
+      "sha256": "90bdb0cdfca935c0f25d61c874f13e41302fa0ffb4b50b3409b11bce08e0e1ac"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "3d-canvas",
+    "about",
+    "timeline",
+    "gallery-portfolio"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

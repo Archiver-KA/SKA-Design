@@ -1,0 +1,143 @@
+{
+  "id": "SN-W00345",
+  "title": "Digitize Ventures - Venture Capital Template",
+  "summary": "A sophisticated landing page template designed for venture capital firms, startup studios, and technology investment groups focusing on high-growth digital infrastructure.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Dark",
+    "Minimal",
+    "Futuristic",
+    "Clean",
+    "Large Type",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "react",
+  "entry": "package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2797,
+      "sha256": "3ecf47605018dad1d0b45a7f7d9ead052ff6c60a90b6658808286930f359e09e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2796,
+      "sha256": "c65b3549f4c6dd510cbae587ef885cea1ed456a4e69b0440174adde8bd95c8b2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 739,
+      "sha256": "035e3aed2c2b97e6d31c51135f06509c18961613d15f5ee01f9658a2897f1818"
+    },
+    {
+      "path": "index.html",
+      "bytes": 451,
+      "sha256": "a6ef97bb8211c43ddc2d0dd50a945da3f620789b4b4ac05d6db56ff05ceb620d"
+    },
+    {
+      "path": "package.json",
+      "bytes": 669,
+      "sha256": "7fb29e771c2c727e86ad811e47ea5d7a1da9f7ecf00f43db4514f5ba0ad2d03b"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 484,
+      "sha256": "dc205cc647c8cc79ec6220a8435195af6beebd8eb85a11699d6e5da848b0b5e3"
+    },
+    {
+      "path": "src/components/BlurText.jsx",
+      "bytes": 1226,
+      "sha256": "d58a67a3d8d1574bad6d88d62d929448602e27ff90a35eb72cff2d90d910db3f"
+    },
+    {
+      "path": "src/components/HlsVideo.jsx",
+      "bytes": 1286,
+      "sha256": "6001dd88e6d1fb5883d841f1b59a79336c394be81ff8ed789b2abba1cef6e028"
+    },
+    {
+      "path": "src/components/Navbar.jsx",
+      "bytes": 1741,
+      "sha256": "534e6dac2042e49431025906664c669f0cacdf2bf69856c0555a2332290fd529"
+    },
+    {
+      "path": "src/components/sections/CtaFooter.jsx",
+      "bytes": 4941,
+      "sha256": "7234fb5572920fe83ff53feb0d26b5a5e825f82d40da142d7dc99e1979f24ec7"
+    },
+    {
+      "path": "src/components/sections/FeaturesChess.jsx",
+      "bytes": 5221,
+      "sha256": "e66ae3b38f2c583158816d574f7332e9ba145c12741777cf0111cc97b8cf201c"
+    },
+    {
+      "path": "src/components/sections/FeaturesGrid.jsx",
+      "bytes": 2807,
+      "sha256": "e7f4bfac53bade3137782a85a91efca7fac6b4615e14a621c0c062a920550b84"
+    },
+    {
+      "path": "src/components/sections/Hero.jsx",
+      "bytes": 4990,
+      "sha256": "75388f711f9340d79f0ff52d8e1ba442f86dde86994ecae71d3b89665b5e9c92"
+    },
+    {
+      "path": "src/components/sections/StartSection.jsx",
+      "bytes": 2765,
+      "sha256": "3ad2e8a586ff5c0ea8670a86c0bf3f687ede5e45db1641bb9abfada6844e7a89"
+    },
+    {
+      "path": "src/components/sections/Stats.jsx",
+      "bytes": 2173,
+      "sha256": "6ae9192b01b71913e67c31dae46280a26da416f9ee87b06ef7ec03b01e09f1bb"
+    },
+    {
+      "path": "src/components/sections/Testimonials.jsx",
+      "bytes": 3207,
+      "sha256": "c990dd64ecae11f62309641a0f67cf477bbc19401578f410b36c00de70ecd1dd"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 2927,
+      "sha256": "57d5ce7d2a9c1be402f89635ae82d44ebbb494654f27a839ba126b8a4179925b"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 256,
+      "sha256": "15e60f21ff6a7cedd9dc6aa2364ae2891f1b34cd865b9b94485f05480c5f8c1a"
+    },
+    {
+      "path": "src/pages/Home.jsx",
+      "bytes": 809,
+      "sha256": "9805433960ce77178232a06ad1825668a740230eed7bbb8b7e01187dccb712fa"
+    },
+    {
+      "path": "tailwind.config.js",
+      "bytes": 1226,
+      "sha256": "0af8cae75bd97eb8c25d02d093bbd135458b9283bad1c50098eaeec8d35de5f9"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 132,
+      "sha256": "7679dd2d1d73606860bf36d711ad385a18cda4412d6e105062570af4454d6b58"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

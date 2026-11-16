@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00414",
+  "title": "Nutrition Summary Card with Progress Indicators",
+  "summary": "Tailwind CSS card showing daily calories, remaining amount via conic-gradient donut, and carbs/protein/fats bars. Ideal for fitness or diet dashboards and health tracking apps.",
+  "tags": [
+    "card",
+    "dashboard",
+    "tailwind",
+    "progress",
+    "nutrition",
+    "stats",
+    "health",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5954,
+      "sha256": "aaaba1eb22538c5d62f98a9e62140d9deb1976bbca239a45c6d8075d2131d8b3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2926,
+      "sha256": "d4934f1f286e18088754c2b9d8ff5da681ebb99cb7798fececf571531eb1c538"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3924,
+      "sha256": "3ecfa13889208809813ba42159107df0e7b90a9779a3271ce467f4ea012aa740"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

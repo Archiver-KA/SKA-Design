@@ -1,0 +1,72 @@
+{
+  "id": "SN-W01736",
+  "title": "Web3 PR Agency Landing Page Template",
+  "summary": "A dark, futuristic landing page template for Web3 PR and AI search optimization agencies to showcase services, process, results, and book client calls.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3667,
+      "sha256": "d39910130030e1bda2f5d76ef2f026a17c555abc64d3be6137ea3c4ec9fae06b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14924,
+      "sha256": "8534347b52ce3175cffe121169af0ef829213ce445a02e0f19226a5cb5cf56bd"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 875,
+      "sha256": "7cc90999e211dbed5b055dee42067afbe9b97bf395ad3e8e13a1e75f761c1525"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 668,
+      "sha256": "0fc17aade6cc1c0d5b3d7707694aa4da0747cb7e997f14c3c1d5bcc41f3238d0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42064,
+      "sha256": "cee8fa83b1d441d20b69156be095015a29137e342f13cdc57d6b8ab4936dd42e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "how-it-works",
+    "stats",
+    "pricing",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

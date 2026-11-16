@@ -1,0 +1,72 @@
+{
+  "id": "SN-W03576",
+  "title": "Community Events Landing Page Template",
+  "summary": "A reusable landing page template for community event brands, curated experiences, and social clubs to showcase stories, upcoming events, and custom bookings.",
+  "tags": [
+    "Landing Page",
+    "Social",
+    "Entertainment",
+    "Services",
+    "Brand",
+    "Clean",
+    "Editorial",
+    "Community",
+    "Events",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3677,
+      "sha256": "04bf0b1e986652dd23a34e6b7d6203802e69dfbc853a7246de16f7f297ed18dd"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20964,
+      "sha256": "8375f7986aee53cd56641a776710095acade7f3c4599c6179ed71a97c6650372"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 863,
+      "sha256": "5b992d405060d5e5f87e65cb172b26fe3f86de45e5e76462112e54d798f83379"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27927,
+      "sha256": "1ad52ac3669e9412b75103b9a8be890ac6a48a8a039acef104beea9816db81f2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "blog-articles",
+    "booking",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

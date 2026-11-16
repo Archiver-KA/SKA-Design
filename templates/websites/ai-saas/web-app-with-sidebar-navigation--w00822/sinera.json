@@ -1,0 +1,131 @@
+{
+  "id": "SN-W00822",
+  "title": "Web App with Sidebar Navigation",
+  "summary": "Responsive web layout featuring a sidebar menu and main content area styled with Tailwind CSS.",
+  "tags": [
+    "HTML",
+    "Tailwind CSS",
+    "Sidebar",
+    "Responsive Design",
+    "Navigation",
+    "UI Layout"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3122,
+      "sha256": "73409ab807a4c0fe21d51da5a48759561dc934e69c143e7c3a966431c2cdb5cf"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10524,
+      "sha256": "ae9df456cbe183b438e0bcb172c2e61f7d8b4086afaddd246f33f35b6a575d48"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 3514,
+      "sha256": "13ff73c9a9dc8e140fd120891102d4a6a3510e184a7dd3bfadac80327160a30c"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 302,
+      "sha256": "69f68990e5ceae1794e6de441872e1d329736bcbd3d90c69e354e0fc316ff64a"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 276,
+      "sha256": "77b857d4bfdd7c139e3b3849ecfe3bc4830b2ff7e1cf4f6672928c7427ee9bdb"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 307,
+      "sha256": "6c80282e447aba9d79c3ee506c960d7efc11d317d68291192da7a72d0d1c4046"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 347,
+      "sha256": "f5edf5762ebc3461de3bb81efe7510bb4c32db8efcdd135dbc2d18312fa50734"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 348,
+      "sha256": "86d09d99e9933dba340f8df64405866e6525fe3ea19c828cc6f13551df51fcfa"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 307,
+      "sha256": "42ed9f65ec84bb158da64ebe9c3b0258aacb6c63c3ff990b2984ec74dca70c2c"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 321,
+      "sha256": "dc287ce1f200e2ed663f770268029c31904ca642e9faae6e51261196f040b597"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 351,
+      "sha256": "3eed69d0e62e10285ddbfa91f8edd7066930e9bc69424902a22e373ff8bf7712"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 241,
+      "sha256": "eaf44318255957370b76b749a2d25760847260a8cb5bb39a1c546b0d51aa6464"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 322,
+      "sha256": "cb23c2871b74357526f8fc67553da834fd0b560e4906e7f6035e9e81d729682d"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 248,
+      "sha256": "59b060ea1cdd5363ceebc6963ea98dd858904112d84eab412cec38c22b701fd7"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 394,
+      "sha256": "5487de1b85b54b5c876a87f6b1bf0fa18d16294534d506e0c97fcf1d9b91b6d8"
+    },
+    {
+      "path": "images/embedded/embedded-0013.svg",
+      "bytes": 231,
+      "sha256": "98b952cbcea361a35886090a9c53d8bb01604ae989abd8a7bf0d28ecc098d7ff"
+    },
+    {
+      "path": "images/embedded/embedded-0014.svg",
+      "bytes": 341,
+      "sha256": "ed4515283b078e2add3dc840a2f89f03c65e2920e22101e781bea8c2ad05f3b3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15519,
+      "sha256": "7dc1aed080419f70923c91d2026919adaebc2dfd695711709166c8d3a38e5ef5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero",
+    "navbar",
+    "pricing",
+    "product-grid"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "sidebar",
+  "design": "DESIGN.md"
+}

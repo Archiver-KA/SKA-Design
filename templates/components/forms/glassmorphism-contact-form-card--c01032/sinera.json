@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01032",
+  "title": "Glassmorphism Contact Form Card",
+  "summary": "A compact contact form card with glassmorphism styling, including name, email, and message fields, subtle glow effects, and a full-width submit button. Built with Tailwind-style utility classes for use in contact or support sections.",
+  "tags": [
+    "form",
+    "contact",
+    "card",
+    "glassmorphism",
+    "tailwind",
+    "responsive",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6128,
+      "sha256": "cf3febaa0b3b7fc073a534b730c7cdeddcd36d2932211b492d46cee7e045f980"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3959,
+      "sha256": "830484762d0c4f7f08f2420c773ca5ed5690495d9f1dbd742e918b370dc33c38"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4860,
+      "sha256": "29f60b6c047ea93c4eeb3ee170346d3f616c5a26599b6cfb3d3be0d199bb21db"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

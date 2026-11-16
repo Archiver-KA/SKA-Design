@@ -1,0 +1,71 @@
+{
+  "id": "SN-W01958",
+  "title": "Developer Portfolio Landing Page Template",
+  "summary": "A reusable portfolio template for MERN stack developers and freelancers to showcase services, featured work, technical skills, and contact details.",
+  "tags": [
+    "Portfolio",
+    "Landing Page",
+    "Technology",
+    "Minimal",
+    "Clean",
+    "Dark",
+    "Large Type",
+    "Animated",
+    "Developer",
+    "Personal Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3272,
+      "sha256": "f320a0496a9117b400506bdc8941ad50da5f32b95c2439d123d20b99034d8d9d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9744,
+      "sha256": "8d45ae8c4ca4af3aa904d9f938b7b307436451ae0d0d794a4674bf8a45475b0b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 874,
+      "sha256": "896c97d3a0dd9cdd5e5f96369771cb7dd10456a118e63f4bd71ad3ca2008e6e2"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 467,
+      "sha256": "5fb6235b451811e9cd975c15fee49588176815a145d4edab9effd92c8b1d78da"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17361,
+      "sha256": "6de60ce9602a6f765d1e2195872d0d65d679fe4be09fa8ee9931df39a2fb36d3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "marquee",
+    "features",
+    "contact-form"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

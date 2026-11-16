@@ -1,0 +1,40 @@
+{
+  "id": "SN-C01891",
+  "title": "Image Component",
+  "summary": "A simple image component that displays a logo or graphic with responsive sizing and proper alt text for accessibility.",
+  "tags": [
+    "logo",
+    "image",
+    "responsive",
+    "simple"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2792,
+      "sha256": "4d42f235a5bd6184744d4147136aaf039d2812a4e49ae38d1d711c0fa420d778"
+    },
+    {
+      "path": "component.html",
+      "bytes": 487,
+      "sha256": "34e53ac84bc439878f41818eaf92dfbe88f0916cdfd679a78396b6f58de6e6d8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1323,
+      "sha256": "ae39d33f5b5756200cdffcd646ac72eeb99967a6a46e249d461b4ce76ef6eb77"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

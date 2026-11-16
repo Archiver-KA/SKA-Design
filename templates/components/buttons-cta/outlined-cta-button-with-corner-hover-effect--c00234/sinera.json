@@ -1,0 +1,41 @@
+{
+  "id": "SN-C00234",
+  "title": "Outlined CTA Button with Corner Hover Effect",
+  "summary": "Interactive call-to-action button wrapped in a link, featuring animated corner borders on hover and an arrow-up-right icon. Styled with Tailwind-like utility classes and ideal for primary actions such as starting a free trial or signups.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "interactive",
+    "animated"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1996,
+      "sha256": "e814cc6dadb49eef3636ffd6376119b6692d91e795147d8e71880614c7bfa05d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1382,
+      "sha256": "f1349e2ac3f7a5dab28da4ed7660ff9e55f0c7ef5f9170c5d33d9551b33d6b04"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2377,
+      "sha256": "cbba9ba2687b951dd02dd4975de39911de097ae854a2b96b112ed40320eb7672"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

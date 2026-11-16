@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00110",
+  "title": "Background Image Link Button with Hover Effects",
+  "summary": "Anchor element styled with Tailwind CSS as a compact button featuring a background image, blend modes, drop-shadow, and subtle hover overlay. Ideal for linking demo pages, galleries, or call-to-action areas where visual thumbnails are needed.",
+  "tags": [
+    "link",
+    "image",
+    "shadow",
+    "interactive",
+    "logo",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6542,
+      "sha256": "8ed71905776e3fcd9f98ea947d2f3c121c6431ac0e365a1d398759d443a8ee7a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 567,
+      "sha256": "770947494aec0233dab5ed00cdb6d08906fb4fa255c667cb04c8f6171ee66f53"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1435,
+      "sha256": "5a679ff22105f0655d27da5dbd00a98d1ace33662ed7d314706da832a4b3b5cd"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00972",
+  "title": "Responsive Tailwind Footer with Navigation & Social Links",
+  "summary": "Multi-column footer built with Tailwind CSS featuring brand message, store/support/legal links, copyright notice, and Twitter, YouTube, Discord icons. Fully responsive for desktop and mobile, suitable for gaming, SaaS, or e-commerce sites.",
+  "tags": [
+    "footer",
+    "tailwind",
+    "responsive",
+    "navigation",
+    "social-icons",
+    "ecommerce",
+    "gaming"
+  ],
+  "kind": "components",
+  "category": "footers",
+  "categoryLabel": "Footers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7544,
+      "sha256": "66c2dd9a3e2e2cbde0ac338287616f339f06b29f202b8dce565b94204b639e2a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4163,
+      "sha256": "12cffe17d5ff0223a9019d1f29929967b1000fdad1a2efca4fa52a40563929ed"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5175,
+      "sha256": "aa07a93d42adc3b58af162517d9cebdc4c7eb87b16c566c9be69dedcc77c41ca"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

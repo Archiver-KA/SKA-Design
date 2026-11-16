@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01266",
+  "title": "Modern Art Gallery E-commerce Landing Page Template",
+  "summary": "A refined modern art gallery e-commerce landing page template for showcasing collections, artists, and artworks with a built-in product detail and cart experience.",
+  "tags": [
+    "E-commerce",
+    "Art & Design",
+    "Portfolio",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Landing Page",
+    "Gallery"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3716,
+      "sha256": "1b703fb77990211f0c0ed7fcf83dc9d686f1867827ed7f86b7932983cae036f7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 91481,
+      "sha256": "18b87be827f9eba3fcf9d51fcef40366f4144af745110012e9d12205000120be"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 741,
+      "sha256": "b636da50ece19c85769e9e597250117b578d7c2200f18601d20ed38c498c42d6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33658,
+      "sha256": "ab90da267cdb64203863e5fe207d18635b6f9371eab61ad104392a19fb2a06a2"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "gallery-portfolio",
+    "cta",
+    "listings",
+    "footer",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

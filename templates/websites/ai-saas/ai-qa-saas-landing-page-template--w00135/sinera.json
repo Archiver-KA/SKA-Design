@@ -1,0 +1,72 @@
+{
+  "id": "SN-W00135",
+  "title": "AI QA SaaS Landing Page Template",
+  "summary": "A reusable landing page template for AI-powered QA, test automation, and developer tooling products that need bold product messaging, features, comparisons, and pricing.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "SaaS",
+    "AI",
+    "Developer Tools",
+    "Dark",
+    "Clean",
+    "Gradient",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3839,
+      "sha256": "3804679529bc9173bfa37a61cab42b57f0960c641261a921ecd4a37196367f2e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16934,
+      "sha256": "cb8c2ebd08e93f5d8e35f672e57c40c3bb02515719c10296427062a9b7e2b916"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 809,
+      "sha256": "a6783b5705b700e91ae6fc1ae81b83ab967f8676a717e31ecb146612db4e06f2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 70747,
+      "sha256": "678b0b8e708584ab2ad0c99a58eedc009ea9fa61d116b56038f3693bb738d81e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "how-it-works",
+    "features",
+    "code-terminal",
+    "comparison",
+    "pricing",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01010",
+  "title": "Custom Range Slider",
+  "summary": "A sophisticated dual-handle range slider with dynamic rotation and smooth animations. Features visual feedback, keyboard navigation, and customizable appearance.",
+  "tags": [
+    "slider",
+    "range",
+    "interactive",
+    "animated",
+    "form",
+    "input",
+    "control",
+    "custom"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5226,
+      "sha256": "e53aa6f8b725f8f41fa628fbc02c354101920110386786cceb25cdaf32b996f8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4563,
+      "sha256": "92bf45386447043fbb52b041a388327e8f979fc94593a47f0ae140f547eb8960"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5403,
+      "sha256": "d1c00114317f0fb6be94cecbcfd4a194598b0f4fadb870f2c167f94bb3c8ecd2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

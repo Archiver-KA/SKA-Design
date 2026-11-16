@@ -1,0 +1,36 @@
+{
+  "id": "SN-C00580",
+  "title": "Interactive 3D Boarding Pass Ticket Scene",
+  "summary": "Full-screen Three.js scene showing an interactive, cloth-simulated 3D boarding pass over a dynamic wave background. Users can grab and drag the ticket. Styled with Tailwind and custom canvas texture, ideal for hero visuals or experimental landing pages.",
+  "tags": [
+    "background",
+    "threejs",
+    "tailwind",
+    "interactive",
+    "animated",
+    "experimental"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10920,
+      "sha256": "39dbaa0b42f079aa7e4ef24e96f40e9cd97cce11b7940b6b2b59ded8f6d27bbb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14011,
+      "sha256": "36f7ca5150e70534aaa615eda63351e62d4f8e663ee64b44fec2ab0d834454e0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

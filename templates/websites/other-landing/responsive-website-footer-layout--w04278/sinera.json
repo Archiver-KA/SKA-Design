@@ -1,0 +1,78 @@
+{
+  "id": "SN-W04278",
+  "title": "Responsive Website Footer Layout",
+  "summary": "Creates a responsive footer with glassmorphism style, navigation links, social icons, and glowing background effects.",
+  "tags": [
+    "Footer",
+    "Glassmorphism",
+    "Tailwind CSS",
+    "Responsive Design",
+    "Navigation",
+    "Social Icons"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2630,
+      "sha256": "f37897769599c233b4f6003d470c15addfe40a88951fb95d17ab4901ea3688e3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7606,
+      "sha256": "9ade21548858e172582e68cd8588643d710d42b2bcad51a386ca1f814167e793"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1454,
+      "sha256": "91759eb734eaec7c1c71d38061f2230559928f20f1d8f61cb4638150664f6494"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 219,
+      "sha256": "7e883cef445ff96e546f52b44cd19c02c42e3f516ced7fbec5d8f84b2dd3a2fa"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 576,
+      "sha256": "0ebdea682915c36f43ca7739552bdd476d705023b72968fb8e1fbfe9f779ed3a"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 680,
+      "sha256": "11b121d2707179cde6d0328f56865dbd5e2065c91e5ea8b68f1b05c81a62229e"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 400,
+      "sha256": "3edaedcaade14316282a7759ca87a34559db7e11ecdfdfa32d28243e1951ac41"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6221,
+      "sha256": "ee4560b1b11af3a3d548b373f41802082ba93c11c40033aed86e10a42c778d0c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "footer",
+  "design": "DESIGN.md"
+}

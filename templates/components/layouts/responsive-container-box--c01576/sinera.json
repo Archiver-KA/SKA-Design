@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01576",
+  "title": "Responsive Container Box",
+  "summary": "A responsive container with 21:9 aspect ratio that clips overflow content. Useful for media containers, image placeholders, or content frames.",
+  "tags": [
+    "container",
+    "responsive",
+    "placeholder",
+    "modern",
+    "minimal"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1144,
+      "sha256": "7ab1d7fc35c4c2c862363f4929ab9dca8431cc600403a8bd5a44b1aff3a2aad8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 136,
+      "sha256": "c41e9c64a2a2a73a0aae0a8c38ca93d737ae04b4aefeaf5a5e19c9b8555bc6d1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 981,
+      "sha256": "b236cbb87cec4ae68efa2566686bebf01a8b7ae768fde54eb6b5ff4dd8c8d418"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

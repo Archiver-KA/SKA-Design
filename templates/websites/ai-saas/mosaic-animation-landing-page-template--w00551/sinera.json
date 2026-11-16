@@ -1,0 +1,63 @@
+{
+  "id": "SN-W00551",
+  "title": "Mosaic Animation Landing Page Template",
+  "summary": "A high-impact landing page template featuring a custom canvas-based particle matrix animation and modern dark aesthetic.",
+  "tags": [
+    "Technology",
+    "Animated",
+    "Dark",
+    "Clean",
+    "Futuristic",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3119,
+      "sha256": "48cf312304e6fc8b2c06670528de0f109c7faf9e2f5db2d3ff861d5642b19056"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1622,
+      "sha256": "f33cd175c7274521abae1ed1527fb00f0985cbafeadbc14300bf729b12cc7776"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 874,
+      "sha256": "4031043b0f2d4b046760db282f4e46f73a667d39cb91411b18d83789bb40d7b0"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 362,
+      "sha256": "2199e6b11b9c2ec9a1136215f676b3af9ed0def378a1733efafacdbe4e9c448e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9558,
+      "sha256": "a230d51b32998ce1e66f60cd67a226fa0fce0e6d5e0c7e8aba8586db6112ede8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "3d-canvas"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

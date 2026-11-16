@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00038",
+  "title": "Team Collaboration Card with Avatar Stack",
+  "summary": "Interactive Tailwind card spotlighting a collaboration hub. Features category badge, heading, description, stacked member avatars, and online status. Perfect for project dashboards and team management interfaces.",
+  "tags": [
+    "card",
+    "tailwind",
+    "avatars",
+    "team",
+    "dashboard",
+    "interactive",
+    "badge"
+  ],
+  "kind": "components",
+  "category": "about",
+  "categoryLabel": "About & team",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15932,
+      "sha256": "eb161a5a7bf6b4233b506e84673a6b802d60b58c68f7a207b1ebe301aeea631f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2196,
+      "sha256": "fd72f3b62625b6d52ff052bd6a343670e751eaa228e944927c0074a56b80785a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3058,
+      "sha256": "e27713dfa786619c76f9b44e2a5f6ca1ee46c1060d5582ae1140454e1a31873c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

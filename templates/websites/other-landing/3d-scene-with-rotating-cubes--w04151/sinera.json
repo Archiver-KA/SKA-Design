@@ -1,0 +1,59 @@
+{
+  "id": "SN-W04151",
+  "title": "3D Scene with Rotating Cubes",
+  "summary": "Interactive 3D scene displaying multiple rotating cubes controlled by mouse-driven camera rotation.",
+  "tags": [
+    "Three.js",
+    "3D Animation",
+    "WebGL",
+    "JavaScript",
+    "Interactive UI",
+    "Mouse Interaction",
+    "Tailwind CSS"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2343,
+      "sha256": "07925a96ddcd2a7cb18c7957f0d51824c923990e9a10609eaab465dcb842fff5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3960,
+      "sha256": "0fc7d6052c4f30bed6da3826bc667d90b9fa23168c18a1c0bf1d154ed9551c4c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 721,
+      "sha256": "a0b595f3b1a9b29ecbc93d5132e8b617101c36829e826f1442c40630551d1258"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4418,
+      "sha256": "9fe5fc8476ab7d94e7842c1bb42d6dfd54184f66d16010af52aebcdea3539d36"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

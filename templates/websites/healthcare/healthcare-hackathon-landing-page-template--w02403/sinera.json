@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02403",
+  "title": "Healthcare Hackathon Landing Page Template",
+  "summary": "A modern, developer-focused landing page template for promoting a healthcare innovation or hackathon event, featuring APIs, judges, FAQs, and clear CTAs.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Technology",
+    "Brand",
+    "Gradient",
+    "Dark",
+    "Large Type",
+    "Minimal",
+    "Conference",
+    "Hackathon"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3692,
+      "sha256": "63fecacedb70f5ef42b98d7f99eff80eecd991cbce23d86262bcf74679720582"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9704,
+      "sha256": "f9e8a6d8a9bab7fda73e1de04d9acf9c152991f7ab583c47e11aa02ffb830cde"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 731,
+      "sha256": "b2542e9fc0ad4ba4ba2661341b0143c5e46166518def1d54dcbe393bae34e46c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32559,
+      "sha256": "dc782cb0815629a6c858ae9516850f7a925a929f4d59564fe0aa04dfdc8dc463"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "code-terminal",
+    "features",
+    "map-location",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

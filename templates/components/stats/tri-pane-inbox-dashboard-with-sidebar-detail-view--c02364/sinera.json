@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02364",
+  "title": "Tri-Pane Inbox Dashboard with Sidebar & Detail View",
+  "summary": "Stylized 3-column layout showing sidebar navigation, threaded inbox list and detail panel in a 3D glassmorphism window. Built with TailwindCSS classes and lucide icons, ideal for issue trackers, email clients or project management dashboards.",
+  "tags": [
+    "dashboard",
+    "layout",
+    "inbox",
+    "split-view",
+    "tailwindcss",
+    "glassmorphism",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22806,
+      "sha256": "ed3c59b11229110cc470ca41ba457a24a6550f17ceefe4fad0dbf3b8f3f36096"
+    },
+    {
+      "path": "component.html",
+      "bytes": 21046,
+      "sha256": "c2cea26568d889cc738dc0298f9176dc36e27f6541dc73e374f5046577756631"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21922,
+      "sha256": "c10633bdc1c454cda517d42badc2fe4ba1875a4a676117c478091e15eb3f38d0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

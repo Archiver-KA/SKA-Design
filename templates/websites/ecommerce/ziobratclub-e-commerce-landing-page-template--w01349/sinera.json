@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01349",
+  "title": "ZioBratClub E-commerce Landing Page Template",
+  "summary": "A bold, satire-driven e-commerce landing page template for merch-led brands and clubs to showcase products, lore, and community with a rebellious aesthetic.",
+  "tags": [
+    "E-commerce",
+    "Landing Page",
+    "Brand",
+    "Entertainment",
+    "Colorful",
+    "Brutal",
+    "Large Type",
+    "Gradient",
+    "Streetwear",
+    "Merch"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3957,
+      "sha256": "c589214fa23edcec54af122e2b139355de89c04bca30ddd86e21dae8f55e64c6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 25244,
+      "sha256": "c38aa6af1a4ee49c7d62dce35e47ed4d9d4f71f42dad8aa49441fab8ca974396"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 874,
+      "sha256": "e7310c07af8f02c74cdfc16c8e5a93dce1c61e6a2d5ff68662cfdd57d64d2161"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "6d7f47cc04d290ef4abac372150068099aee31617cc15da366306e3307a84d33"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25594,
+      "sha256": "88e2594d4ce7a754515945cc2b12abcfee60eb97f7bf6a6dccf1a4e999ccd92f"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "product-grid",
+    "cta",
+    "faq",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

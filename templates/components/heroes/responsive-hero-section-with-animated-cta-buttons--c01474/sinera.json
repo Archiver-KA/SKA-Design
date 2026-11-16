@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01474",
+  "title": "Responsive Hero Section with Animated CTA Buttons",
+  "summary": "Full-width SaaS hero banner featuring headline, tagline, product mockup, overlay card, and two interactive Tailwind buttons with floating dots and ripple effects. Ideal for landing pages.",
+  "tags": [
+    "hero",
+    "landing page",
+    "tailwind",
+    "responsive",
+    "animated",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 33362,
+      "sha256": "d4e2c858355caa00718bd004035e0cdc32249b606c09956948bc3352d4da94ef"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11282,
+      "sha256": "2bb9d28d7071b03c5d18dabcef66d6b0049c8c853676f34c741539959c65c5ae"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12282,
+      "sha256": "1819e312c2524d9124301424a7c019446f9c822d9af983fc56e069fdc6f4afd1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

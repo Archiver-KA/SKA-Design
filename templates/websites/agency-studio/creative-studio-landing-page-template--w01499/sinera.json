@@ -1,0 +1,84 @@
+{
+  "id": "SN-W01499",
+  "title": "Creative Studio Landing Page Template",
+  "summary": "A high-performance digital studio landing page template designed for agencies building premium websites and custom applications.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Portfolio",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Gradient",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "react",
+  "entry": "package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3525,
+      "sha256": "da73db8d045fb0bc632de7b35fee102f68289b4e58c957aab6ce4bfd8dc13b5c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20882,
+      "sha256": "5052e579933481b42d07296c4334693bc8231f634f11ac79b14829aaa627f948"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 731,
+      "sha256": "dfe0a2d95c29ca83a9188edbc5d70f21b93073c4314d87aae87cb0dc3e163470"
+    },
+    {
+      "path": "index.html",
+      "bytes": 790,
+      "sha256": "53b8c7446c0eb1adf650b7ff88d400505bebad54b7907467a8199f89d3fcfa23"
+    },
+    {
+      "path": "package.json",
+      "bytes": 411,
+      "sha256": "ec4346f11c9a9eca0f05d082cea0686f60ce2fbdd3d0c10aa43d9701f0a56409"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 40914,
+      "sha256": "835b7cee34d26dc8e2232d5e22f168ac5f0c17f9b68fe2308bb66d1bf2092065"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 4842,
+      "sha256": "5bde07c99ad20b90b089eb8825836d8e5b1e22ee23b77f10054c992640ccb20d"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 256,
+      "sha256": "15e60f21ff6a7cedd9dc6aa2364ae2891f1b34cd865b9b94485f05480c5f8c1a"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 132,
+      "sha256": "7679dd2d1d73606860bf36d711ad385a18cda4412d6e105062570af4454d6b58"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

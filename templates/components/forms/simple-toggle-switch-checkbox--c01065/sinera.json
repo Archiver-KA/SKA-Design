@@ -1,0 +1,37 @@
+{
+  "id": "SN-C01065",
+  "title": "Simple Toggle Switch Checkbox",
+  "summary": "Basic HTML toggle switch using a checkbox with data attributes to display \"On\" and \"Off\" states. Ideal for settings toggles or feature switches; styling can be customized with CSS or utility frameworks.",
+  "tags": [
+    "toggle",
+    "switch",
+    "checkbox",
+    "html",
+    "css",
+    "interactive",
+    "settings"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1708,
+      "sha256": "7251972951047161036328b97cc61b7673fb0171495c7b1ed5b149983e20b617"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8381,
+      "sha256": "d804520c399f02aac99d111bb78c1951768c898fa3e00a1bdf666b938a241481"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

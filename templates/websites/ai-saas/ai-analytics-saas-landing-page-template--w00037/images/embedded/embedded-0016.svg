@@ -1,0 +1,28 @@
+<svg viewBox="0 0 900 360" class="absolute inset-0 w-full h-full" fill="none">
+                            <defs>
+                                <linearGradient id="line-gradient" x1="0" y1="0" x2="1" y2="0">
+                                    <stop offset="0%" stop-color="#c6f91f" stop-opacity="0"></stop>
+                                    <stop offset="50%" stop-color="#c6f91f" stop-opacity="0.8"></stop>
+                                    <stop offset="100%" stop-color="#c6f91f" stop-opacity="0"></stop>
+                                </linearGradient>
+                            </defs>
+                            <!-- Connecting Lines with Dash Animation -->
+                            <path d="M450 300 C 450 200, 300 120, 150 30" stroke="url(#line-gradient)" stroke-width="1" stroke-linecap="round" fill="none" style="stroke-dasharray: 600; stroke-dashoffset: 600">
+                                <animate attributeName="stroke-dashoffset" values="600;0;600" dur="4s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1; 0.42 0 0.58 1"></animate>
+                            </path>
+                            <path d="M450 300 C 450 210, 360 130, 270 30" stroke="url(#line-gradient)" stroke-width="1" stroke-linecap="round" fill="none" style="stroke-dasharray: 520; stroke-dashoffset: 520">
+                                <animate attributeName="stroke-dashoffset" values="520;0;520" dur="4s" begin="0.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1; 0.42 0 0.58 1"></animate>
+                            </path>
+                            <path d="M450 300 C 450 150, 420 80, 390 30" stroke="url(#line-gradient)" stroke-width="1" stroke-linecap="round" fill="none" style="stroke-dasharray: 450; stroke-dashoffset: 450">
+                                <animate attributeName="stroke-dashoffset" values="450;0;450" dur="4s" begin="0.4s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1; 0.42 0 0.58 1"></animate>
+                            </path>
+                            <path d="M450 300 C 450 150, 480 80, 510 30" stroke="url(#line-gradient)" stroke-width="1" stroke-linecap="round" fill="none" style="stroke-dasharray: 450; stroke-dashoffset: 450">
+                                <animate attributeName="stroke-dashoffset" values="450;0;450" dur="4s" begin="0.6s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1; 0.42 0 0.58 1"></animate>
+                            </path>
+                            <path d="M450 300 C 450 210, 540 130, 630 30" stroke="url(#line-gradient)" stroke-width="1" stroke-linecap="round" fill="none" style="stroke-dasharray: 520; stroke-dashoffset: 520">
+                                <animate attributeName="stroke-dashoffset" values="520;0;520" dur="4s" begin="0.8s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1; 0.42 0 0.58 1"></animate>
+                            </path>
+                            <path d="M450 300 C 450 200, 600 120, 750 30" stroke="url(#line-gradient)" stroke-width="1" stroke-linecap="round" fill="none" style="stroke-dasharray: 600; stroke-dashoffset: 600">
+                                <animate attributeName="stroke-dashoffset" values="600;0;600" dur="4s" begin="1s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1; 0.42 0 0.58 1"></animate>
+                            </path>
+                        </svg>

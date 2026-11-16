@@ -1,0 +1,48 @@
+<svg viewBox="0 0 100 100" class="w-full h-full overflow-visible">
+                <line
+                  x1="50"
+                  y1="10"
+                  x2="50"
+                  y2="90"
+                  stroke="#2A2F38"
+                  stroke-width="0.5"
+                ></line>
+                <line
+                  x1="10"
+                  y1="50"
+                  x2="90"
+                  y2="50"
+                  stroke="#2A2F38"
+                  stroke-width="0.5"
+                ></line>
+                <text
+                  x="50"
+                  y="98"
+                  text-anchor="middle"
+                  class="text-[4px] font-mono fill-[#E6E8EB]"
+                >
+                  Low Systemize → High Systemize
+                </text>
+                <text
+                  x="-50"
+                  y="5"
+                  text-anchor="middle"
+                  transform="rotate(-90)"
+                  class="text-[4px] font-mono fill-[#E6E8EB]"
+                >
+                  High eXert → Low eXert
+                </text>
+                <circle cx="25" cy="25" r="1.5" fill="#3A4048"></circle>
+                <circle cx="65" cy="35" r="1.5" fill="#3A4048"></circle>
+                <circle cx="35" cy="65" r="1.5" fill="#3A4048"></circle>
+                <circle cx="45" cy="45" r="1.5" fill="#3A4048"></circle>
+                <circle cx="80" cy="75" r="2.5" fill="#5B7C8D"></circle>
+                <text
+                  x="80"
+                  y="82"
+                  text-anchor="middle"
+                  class="text-[4px] font-mono fill-[#E6E8EB]"
+                >
+                  The Architect
+                </text>
+              </svg>

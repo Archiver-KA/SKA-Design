@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00177",
+  "title": "Gradient CTA Button with Leading & Trailing Icons",
+  "summary": "Rounded-full anchor styled as a call-to-action button featuring left play icon, right arrow icon, blue-to-indigo gradient, Tailwind utility classes, and hover scale/shadow effects. Ideal for landing pages or promo sections requiring an eye-catching CTA.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "gradient",
+    "hover",
+    "interactive",
+    "icons",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2580,
+      "sha256": "ab77e1b7cd8bdcaa6ac3d897eb45b323f85308ee179cedcc6131b05b7b144a8c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1336,
+      "sha256": "495cd74e5a27ad1fe795c2f6d2e3890a5ca85091a6c26f14ee09b0587013a26a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2340,
+      "sha256": "ffb7f509168856fe535eca1edfddd531a20a34eb119b31d62ea46bf166cb2c18"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

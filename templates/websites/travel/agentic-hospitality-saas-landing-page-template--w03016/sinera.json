@@ -1,0 +1,58 @@
+{
+  "id": "SN-W03016",
+  "title": "Agentic Hospitality SaaS Landing Page Template",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3765,
+      "sha256": "eab45130c0f0f650af39776a3a386acaeab3bfede27b9c7d2b15c50eb1439481"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18176,
+      "sha256": "c5b7619be5b2366da178b49421f8e3e8abe17ab8ece61b0f3794ad56a401392c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "197cdc48a28dd14af2781e56b55414ac84c80d766e87433e3444ac11717af2e3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 50253,
+      "sha256": "89a125e5513ccc99966f6d0d3f04daf146a9a0ba3618d15c17914090d781b08a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "testimonials",
+    "comparison",
+    "features",
+    "pricing",
+    "blog-articles",
+    "cta"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

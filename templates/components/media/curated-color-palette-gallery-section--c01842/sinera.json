@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01842",
+  "title": "Curated Color Palette Gallery Section",
+  "summary": "Responsive Tailwind section displaying cards of accessible color palettes with swatch previews, WCAG labels and action buttons; suitable for design tools, dashboards or landing pages.",
+  "tags": [
+    "section",
+    "palette",
+    "gallery",
+    "card",
+    "tailwind",
+    "responsive",
+    "accessibility",
+    "grid"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18074,
+      "sha256": "6dfd98b76129a7e358bd8f41ee3411f508884b6891ddb8dcf7f4d220a50d75d2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5417,
+      "sha256": "5c2fac687f1782f45cd20dc90ad232398c9caa4f5c48e966b641796be582aefa"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6405,
+      "sha256": "ee46c0a2f60649e907ffb3e986862b0f8b726cddfd341222fc32caa5616aa456"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

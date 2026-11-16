@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00776",
+  "title": "Gradient Feature Card with Automation Preview",
+  "summary": "Stylized card with gradient border, blur backdrop and hover shadow. Shows automation schedule preview, title, description and CTA link. Great for highlighting product features on dashboards or landing pages. Built with Tailwind CSS.",
+  "tags": [
+    "card",
+    "feature",
+    "tailwindcss",
+    "gradient",
+    "hover",
+    "interactive",
+    "dashboard",
+    "component"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8698,
+      "sha256": "f95f9660bf02bd2fb22113ab19e6d791988ffc3cf968e037fbd0ffb9c8106252"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5077,
+      "sha256": "f0110b54cf4b8eb5feef8d8b491b667b54c17919a91be1b425713de492ab7be0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6073,
+      "sha256": "65186558f7dba5e47c62654383177c5f68ed5c093d50fae7f72bf929727040df"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01121",
+  "title": "Gradient Navigation Bar with CTA Button",
+  "summary": "Responsive navigation bar with logo, desktop links, prominent gradient CTA button, and mobile hamburger icon. Uses Tailwind-style utility classes, blur and shadow effects. Suitable for site headers and app navigation layouts.",
+  "tags": [
+    "menu",
+    "navigation",
+    "header",
+    "responsive",
+    "tailwind",
+    "gradient",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3116,
+      "sha256": "7e38c0e4a90d84fec7eec7699ba8dff2ff74dd2e465bb9601a3f18dab31e84b3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3960,
+      "sha256": "f9e38c085836d0b1d50ed42d084d16e255b294aa95233c02f68c917566e3492c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4997,
+      "sha256": "d44b3891295ac14e5cd3437c65aac52217bf9d50d6213fe9b2b0e6b9b7acd5e4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

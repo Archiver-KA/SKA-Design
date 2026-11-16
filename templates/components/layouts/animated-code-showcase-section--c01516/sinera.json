@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01516",
+  "title": "Animated Code Showcase Section",
+  "summary": "Responsive hero section with headline, tagline, smooth-scrolling code editor window and feature highlights. Built with Tailwind CSS, perfect for SaaS or developer tool landing pages to demonstrate CLI or code features in action.",
+  "tags": [
+    "hero",
+    "code-editor",
+    "animated",
+    "tailwind",
+    "responsive",
+    "landing",
+    "showcase",
+    "scrolling",
+    "section"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14460,
+      "sha256": "4fdf4e1b2e35ee00ad6e68c569024095116fe2651f9c8b294efddeeb3889fe0c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 14927,
+      "sha256": "480da6ce356b4d0faf9e24114d536657e6d91fd1278b5e17511398674e397914"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15778,
+      "sha256": "d299a50bf8214b29938964485c9b4d4602155cdc1a4520a5f19a7b7bca36a493"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

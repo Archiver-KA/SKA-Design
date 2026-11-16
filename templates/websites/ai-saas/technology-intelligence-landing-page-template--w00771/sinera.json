@@ -1,0 +1,86 @@
+{
+  "id": "SN-W00771",
+  "title": "Technology Intelligence Landing Page Template",
+  "summary": "A reusable landing page template for digital trust, identity, fraud, and compliance intelligence platforms showcasing benchmarks, research, and strategic CTAs.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Documentation",
+    "Dark",
+    "Minimal",
+    "Grid",
+    "Brand",
+    "benchmark",
+    "research"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3608,
+      "sha256": "ef665fad5e66fc3521d0fbd0d2ca20e8faa5679bb504087aee11b02a652a434a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19488,
+      "sha256": "b566a76c7ea645c1a965b119ae9c326c0fe53f96ebb68350f0b230f4a3a2c1a6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1353,
+      "sha256": "7e24d2588eb5d9f5c6c2d639ee7bf28d05b0a2c2b7d6ea456744d74baa828fe3"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 234,
+      "sha256": "6995109af20b975ec788650bb0025fcbe9f6b75e6ccbf53032ae952359c58eeb"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 462,
+      "sha256": "00e19a6f54c1942b224d86886474edb682c9505ce0b98fec510a35487eb031d3"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 431,
+      "sha256": "0bf79a3f1aed99f41e6f2377fa60a9d4c8ef25df661ec9f40e63dca7cb83e04f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 44862,
+      "sha256": "409c2dc42a362c8b62dabcf536c042d4659ae366beedf835b6e4cd799cdd08e8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "map-location",
+    "testimonials",
+    "features",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

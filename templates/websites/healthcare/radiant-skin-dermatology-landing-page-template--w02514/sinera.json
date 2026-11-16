@@ -1,0 +1,70 @@
+{
+  "id": "SN-W02514",
+  "title": "Radiant Skin Dermatology Landing Page Template",
+  "summary": "A premium dermatology clinic landing page template for showcasing services, testimonials, and appointment requests for cosmetic and medical practices.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Medical",
+    "Dermatology"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3877,
+      "sha256": "9fabf1c7dd1af154ca28e271163bdaebf52cbdc34b3b3ecab9d093b0808f8be6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19284,
+      "sha256": "25cbfc243faab4d8e45848293cd069d7bb624de3ccd4357ea54c513e7bbee444"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "2524f42c02608ada76c28c42fa0eeafbeaa6806bbef9ed527ec34038f08a53d3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36080,
+      "sha256": "584aae1de2cd36268b085818ea9c615b3b5cac6150ffb1c6745fbf302c28d1ff"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "gallery-portfolio",
+    "testimonials",
+    "map-location",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

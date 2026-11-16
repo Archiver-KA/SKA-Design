@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01780",
+  "title": "Trusted Partners Logo Grid with Animated Data Flow",
+  "summary": "Full-width Trusted Partners section featuring a responsive logo grid with Lottie-like SVG icon animations and an animated data-flow visualization background. Built with Tailwind-style utility classes for modern security/SaaS landing pages.",
+  "tags": [
+    "feature",
+    "section",
+    "logo",
+    "animated",
+    "responsive",
+    "tailwind",
+    "svg",
+    "grid"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8756,
+      "sha256": "4852e606bdc3f040b4bf760ed4e7f8978cc7131e2ec1bce69d56bddb32c2638b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 24326,
+      "sha256": "f624e366e60151efdc22f4dad60d4ab40fc887eacd6d95f01c0db3164d8c018b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25197,
+      "sha256": "1abf7bc917b67a0910788b7479a05bdac395d0ba1ae6835391b0ea5fdb916fcb"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

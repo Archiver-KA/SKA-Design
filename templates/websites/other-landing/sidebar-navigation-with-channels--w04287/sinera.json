@@ -1,0 +1,72 @@
+{
+  "id": "SN-W04287",
+  "title": "Sidebar Navigation with Channels",
+  "summary": "Responsive sidebar UI featuring workspace header, channel and direct message lists, and a user status bar using Tailwind CSS.",
+  "tags": [
+    "Sidebar",
+    "Channels",
+    "Direct Messages",
+    "Tailwind CSS",
+    "Navigation",
+    "User Status"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3183,
+      "sha256": "8b3f1c522c7e88654eaf932d93206cadaa01b7e1f066a02af7edaaa555a4eb7c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5822,
+      "sha256": "0a0bf0b377d403e948f1a8f89c9e50041fb3beae5d9a44e558357b8af59bf400"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1180,
+      "sha256": "ee38a96e0c40d96d201592540dacef5e01bfddd11c83e57d0d808c40c9c84b3b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 199,
+      "sha256": "f454a58ca287c4462898b589065f3f01933d2cb22da17f5c4e87f169df9ecc30"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 216,
+      "sha256": "bcfa6f8e177103ff2603c9e312ef7d5585252707ae0cf43e6d6f159832f06d4b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5335,
+      "sha256": "217abefc05cea83601ddf6b35f27b42308aa7c7c012f5b35d732ff6cef22aa94"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "sidebar"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "added-viewport"
+    ]
+  },
+  "snippetType": "sidebar",
+  "design": "DESIGN.md"
+}

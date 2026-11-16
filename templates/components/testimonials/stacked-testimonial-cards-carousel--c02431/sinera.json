@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02431",
+  "title": "Stacked Testimonial Cards Carousel",
+  "summary": "Responsive testimonial section featuring three stacked testimonial cards with ratings, avatars, and job titles, plus navigation arrows. Uses Tailwind-style utility classes, subtle background glow, and animated card transitions for a polished testimonials showcase.",
+  "tags": [
+    "testimonial",
+    "section",
+    "carousel",
+    "cards",
+    "responsive",
+    "interactive",
+    "tailwind",
+    "animated"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18430,
+      "sha256": "2ef0a97f3c93284abfd0564d08e1d87ad31a0d460360bb43344ebd9399ec3363"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12215,
+      "sha256": "bd7e42243933ffe6dfcef3a01711053b5fea2a70899f08b3358c8cb3dab3fa00"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13070,
+      "sha256": "d224ab4ca164313d6ca604791dcfb87697cedf3620fb6a72af93b28b65e5e2b8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

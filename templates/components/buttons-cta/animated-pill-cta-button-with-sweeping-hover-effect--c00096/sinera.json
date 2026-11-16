@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00096",
+  "title": "Animated Pill CTA Button with Sweeping Hover Effect",
+  "summary": "Tailwind-styled call-to-action link shaped as a rounded pill. Hover expands an emerald background via ::before, shifts text to white, and rotates the arrow icon, with glassy blur and shadow. Perfect for landing or signup prompts.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "animated",
+    "hover",
+    "link",
+    "icon",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3816,
+      "sha256": "9e9769c57aa1b47a9c3d1265a902a2c5e5ec7023f3ef205f470f117a1033674a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1289,
+      "sha256": "5123fd87f0be2b06f3dfa2e1ac9d5572cf4478bf9297f142b4d9904ae12b9277"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2161,
+      "sha256": "c7e5decf3479150afd226746a8fa41005da074bb0b7b031e2a83e1ff2310bb88"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

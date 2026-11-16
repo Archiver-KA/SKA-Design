@@ -1,0 +1,20 @@
+<svg viewBox="0 0 400 150" class="w-full h-full overflow-visible preserve-3d">
+                        <defs>
+                           <linearGradient id="grad1" x1="0%" y1="0%" x2="0%" y2="100%">
+                              <stop offset="0%" style="stop-color:rgb(16,185,129);stop-opacity:0.2"></stop>
+                              <stop offset="100%" style="stop-color:rgb(16,185,129);stop-opacity:0"></stop>
+                           </linearGradient>
+                        </defs>
+                        
+                        <!-- Area Fill (Optimized) -->
+                        <path d="M0,120 C50,110 100,90 150,60 C200,30 250,50 300,40 C350,30 400,10 400,150 L0,150 Z" fill="url(#grad1)"></path>
+                        
+                        <!-- Mining Line (Baseline - Orange Dashed) -->
+                        <path d="M0,120 C50,110 100,100 150,85 C200,65 250,70 300,55 C350,45 400,30" fill="none" stroke="#f97316" stroke-width="2" stroke-dasharray="4 4" class="opacity-60"></path>
+                        
+                        <!-- Optimized Line (Green Solid) -->
+                        <path d="M0,120 C50,110 100,90 150,60 C200,30 250,50 300,40 C350,30 400,10" fill="none" stroke="#10b981" stroke-width="3" stroke-linecap="round" filter="drop-shadow(0 0 8px rgba(16,185,129,0.5))"></path>
+                        
+                        <!-- Current Point -->
+                        <circle cx="400" cy="10" r="4" fill="white" stroke="#10b981" stroke-width="2" class="animate-pulse"></circle>
+                     </svg>

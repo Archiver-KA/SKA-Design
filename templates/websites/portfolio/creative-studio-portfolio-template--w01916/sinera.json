@@ -1,0 +1,105 @@
+{
+  "id": "SN-W01916",
+  "title": "Creative Studio Portfolio Template",
+  "summary": "A clean, modern portfolio template designed for visual artists and generative designers to showcase 3D art and visual systems.",
+  "tags": [
+    "Art & Design",
+    "Portfolio",
+    "Creative",
+    "Clean",
+    "Minimal",
+    "3D",
+    "Technology",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3533,
+      "sha256": "00b176b2038ed5aa7c2da365c7d56bea9e5a144844f43cdb233ee26eff55cbba"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7520,
+      "sha256": "3b8699d68987a6bb338d62f841289fcc9e7e1ccec726bacfaaa04f5a5933bbad"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2268,
+      "sha256": "c3a34d248ac5337f82ef0ec6b721e27286559a082918e9868b08886885dc2014"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 637,
+      "sha256": "33598319dab37abfcd08e644d58c798aeafa10840396c3a165a228f43ce949f4"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 519,
+      "sha256": "ad4f418e7eda867067d1b6b598c5f8f73ec9432be805f69b0ed86f983655f16b"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 335,
+      "sha256": "b775f3e1364874d8c22a7f8183e54b25e9682c06cefd04c24882885eef4e1f58"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 490,
+      "sha256": "348154397f3e24e6c9351d422f7c3dc2e3acf403fcfc874d5ff365806bbe1437"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 449,
+      "sha256": "4e4d896e23f761b5b4dd18207551e12606d71df932bf29810fec6e43fe29661e"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 331,
+      "sha256": "37120e2f6d2692c0549528c97457cf0ae1723448ab2a9d09a7895f8a0f0009cd"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 415,
+      "sha256": "ca09c6d9e33f374b32b8bca2a24633b82dd3d5c61ea2fcf9135d4d7d413bc35e"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 516,
+      "sha256": "14077a0f2148a0a545feee3fcd5c495f06d0ac3ce8a2f763db24675b2ad02704"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28544,
+      "sha256": "c6998f0cd5031e328a33f387029bd443dac542314ea7f67406f9d41690ee6bc3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "video-media",
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "cta",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

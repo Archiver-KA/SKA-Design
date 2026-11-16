@@ -1,0 +1,74 @@
+{
+  "id": "SN-W03643",
+  "title": "Religious Conference Landing Page Template",
+  "summary": "A reusable landing page template for promoting church camp meetings or faith-based conferences, with schedule, trailer, registration, contact, and app CTA sections.",
+  "tags": [
+    "Landing Page",
+    "Religious",
+    "Conference",
+    "Services",
+    "Dark",
+    "Clean",
+    "Large Type",
+    "Event",
+    "Church"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3653,
+      "sha256": "0db2c04076e93b222b0ceb6440bf0289546ea0aa088ce223d37892ce8a9e2c29"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15216,
+      "sha256": "14ee7e93ddd97a054c2b60a25fa0ff47b45c2b46d0670f794e23c5290c2a07a5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 869,
+      "sha256": "140ca08bbf0aff0f4925d913302ba81701ca111bc48bb330a6ca58663bc314e7"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "910c900a7a4784bba3a545f45cd25f1d36f95d97c692018fa09cb6a465e3f9ea"
+    },
+    {
+      "path": "index.html",
+      "bytes": 44208,
+      "sha256": "983f73be9997e6b924202712822d0792b7c1d4d9fc6012c048e344cdeca524ff"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "features",
+    "video-media",
+    "schedule-agenda",
+    "contact-form",
+    "app-download",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

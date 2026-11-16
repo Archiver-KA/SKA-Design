@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02172",
+  "title": "Payment Transactions Status Card",
+  "summary": "Tailwind-styled card displaying a payments header and a list of user transactions with avatar, email and colored status badges (approved, pending). Ideal for dashboards or finance apps to show recent payment activity.",
+  "tags": [
+    "card",
+    "list",
+    "tailwind",
+    "transactions",
+    "payments",
+    "status",
+    "badge",
+    "dashboard"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11966,
+      "sha256": "4ec3bcb279eae2c3317d900b3beea2a8883c9b83a7d5ce76b93723ebf0b53fe9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2932,
+      "sha256": "d95c0b0ccc2d25aff0eee3d4e6e7f9ff6fcfd36ced329d93d31ae316cedbc373"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3915,
+      "sha256": "b8a6a4c6ef7915a2c9d5e2898b84299c2d53edf8e825f6934d17162a7d74e057"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

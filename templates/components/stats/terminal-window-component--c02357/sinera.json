@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02357",
+  "title": "Terminal Window Component",
+  "summary": "MacOS-style terminal window with traffic light controls, title bar, and content area. Features backdrop blur, border styling, and shader execution info.",
+  "tags": [
+    "terminal",
+    "window",
+    "macos",
+    "glassmorphism",
+    "code",
+    "status"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6482,
+      "sha256": "7cb42fac2f13d41780b93856b9548e14e1619e8347c9f6aaffd708763b3e3db2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1911,
+      "sha256": "e1e02557ee4c23a3503169265a550f4bd68af182c94501fbd68a40993f9fb67e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2887,
+      "sha256": "12f5e73dd4e9f612cca33623f3df845172f20ee7b22eda5cda7ff6fd9629b69e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

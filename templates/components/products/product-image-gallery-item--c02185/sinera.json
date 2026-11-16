@@ -1,0 +1,41 @@
+{
+  "id": "SN-C02185",
+  "title": "Product Image Gallery Item",
+  "summary": "A product image component with hover effects and smooth transitions. Ideal for e-commerce galleries, product catalogs, or portfolio showcases with interactive elements.",
+  "tags": [
+    "card",
+    "product",
+    "hover",
+    "animated",
+    "shadow"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20480,
+      "sha256": "040cda1e97ad35c5e786082f4ce482585c500028637e4c6c487f5385a15eb001"
+    },
+    {
+      "path": "component.html",
+      "bytes": 346,
+      "sha256": "538b13813afc22c1a46b2cbc4db96c2dd062a690f0f6e5a3b40f6733a349e586"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1193,
+      "sha256": "474afde2d59363a7b7ac3e1f0d8724b879cf64f26caf6e05d37c7c36c178f9aa"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

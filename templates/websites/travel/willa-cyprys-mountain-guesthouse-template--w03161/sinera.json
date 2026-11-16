@@ -1,0 +1,62 @@
+{
+  "id": "SN-W03161",
+  "title": "Willa Cyprys - Mountain Guesthouse Template",
+  "summary": "A refined hotel and hospitality template designed for guesthouses and mountain retreats seeking a clean, high-end presentation.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3604,
+      "sha256": "ea0d89958b7e84c1ab139750794a849f3c3a82df8cc285c0e043ae79df6733d1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 38920,
+      "sha256": "cd124a5377a17517bcef3ea28896f28edff8e74c8467c1987380b1d82356a972"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "f6404dde9a8602e1ec1efcd4ee644eb20a4e7499bf55fbfa2319b9f6663ee94c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 48477,
+      "sha256": "a11c712207ab925332df55da102eccfe3d13eed5d5a679eb7d2c7e91fa34a87d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "features",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02453",
+  "title": "Responsive Tailwind Heading",
+  "summary": "H3 heading component styled with Tailwind CSS. Includes responsive font sizing, tight letter tracking, and smooth color transitions—ideal for hero banners, section headers, and marketing highlights.",
+  "tags": [
+    "heading",
+    "typography",
+    "tailwindcss",
+    "responsive",
+    "transition",
+    "h3",
+    "text"
+  ],
+  "kind": "components",
+  "category": "typography",
+  "categoryLabel": "Text & typography",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9278,
+      "sha256": "7512c3d017f612c01b33d149a859c6a80538a1a85aa8208263deaff57b1ae82d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 167,
+      "sha256": "c7c7f1f4c49f581139da8ffb8bd3f5cdcd1596bc1d06a8eda375f0abdd84b68c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1015,
+      "sha256": "c90a871dcc59ee4cde339b78e0eeaa19afc16ee5040cfb25244c6265edd64082"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

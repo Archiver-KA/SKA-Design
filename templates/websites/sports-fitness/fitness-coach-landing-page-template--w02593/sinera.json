@@ -1,0 +1,76 @@
+{
+  "id": "SN-W02593",
+  "title": "Fitness Coach Landing Page Template",
+  "summary": "A bold, reusable landing page template for online fitness coaches to promote programs, showcase results, answer FAQs, and drive coaching sign-ups.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Dark",
+    "Clean",
+    "Large Type",
+    "fitness coach",
+    "personal training",
+    "testimonials"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3589,
+      "sha256": "30fb0657e5c1c2be66e72604eb371db84b2eb8f47e0abc3c783cb7e9d58c90f6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13200,
+      "sha256": "4b0910b96347fa2a5525d953beec624efc7259f784283222daebf6da06d01f03"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 958,
+      "sha256": "7ca183a952a5de2608dbf269502899626bc730bb7569c5df3f30910e3a25686c"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 445,
+      "sha256": "1b2611b0f0bc5ba389c31c00f15e3e4ee9189ce6a0340f624bbba6a76fa0bdfc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42030,
+      "sha256": "73b71996f4a2269e4f70d3869c43653997a7e70501b288ec71c59446fe866470"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "benefits",
+    "stats",
+    "faq",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "SN-C00352",
+  "title": "Error - No HTML Provided",
+  "summary": "A file path to an image was provided instead of HTML code. Please provide actual HTML markup for analysis.",
+  "tags": [
+    "card",
+    "error",
+    "notification",
+    "alert"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6676,
+      "sha256": "be05b2c02781f6d6db07badb2ec5cb6e5add45edaabf2b939fa2a6922a67e27d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 679,
+      "sha256": "8ef9b12ed51db419256c20e4dab544ff3c9826c2d002c0d0766072467d2f30cd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1524,
+      "sha256": "c0eecec58c352af716abb7c8ae887dfe5282b05280281a539135639f3a01e4e3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

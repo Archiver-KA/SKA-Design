@@ -1,0 +1,68 @@
+{
+  "id": "SN-W02987",
+  "title": "Restaurant Landing Page Template",
+  "summary": "A modern dark-themed restaurant landing page template for showcasing menus, amenities, hours, and reservations for local dining venues.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Services",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Restaurant",
+    "Menu"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3491,
+      "sha256": "aa7c7b3f76ce8b58bac2d84bce24e27a577667c72441abddd3b7e7dc58ff6fe6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13552,
+      "sha256": "078395ff1d0b706b2fb672f2dff8369d759eea0bb6f0786f1bb37507427b21c3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "c9a2aebcf20a504904304b962ef7a2c03ff8b7ca7b197ae2969e8a5ae084904f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39333,
+      "sha256": "27170c0aa62906693388df50319d3113552fb7a72d954f8961bf2d00d1063bf4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "menu-list",
+    "features",
+    "booking",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "SN-W00685",
+  "title": "SaaS Founder Network Landing Page Template",
+  "summary": "A dark, conversion-focused template for private SaaS founder networks to showcase member benefits, matching workflows, and gated application access.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Dark",
+    "Minimal",
+    "Grid",
+    "SaaS",
+    "Startup",
+    "Community",
+    "Membership"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3644,
+      "sha256": "f66b4279af9b0414a87b1dfb380a1cb81272fb869d1e3452036b9c5c40190fc2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13820,
+      "sha256": "e5dea5e809b6fb5d5367de2fb2be1045e2f0652707ca4eb602da88a0559cd839"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "6eba0ef3652d5357f31a8306886ceadc7f7453a25a501ef92d3f26a4b3e5286b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 52194,
+      "sha256": "4ed33304c3c836ba3808556a8ddd97ffdbdd53a73cdd22646579d58b1129e530"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "stats",
+    "bento-grid",
+    "how-it-works",
+    "gallery-portfolio",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

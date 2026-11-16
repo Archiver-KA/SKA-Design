@@ -1,0 +1,141 @@
+{
+  "id": "SN-W01056",
+  "title": "Trading Platform Connection Status",
+  "summary": "Displays connection status gauges for major trading platforms with color-coded latency and status indicators using Tailwind CSS and SVG.",
+  "tags": [
+    "Trading Platforms",
+    "Connection Status",
+    "SVG Gauges",
+    "Tailwind CSS",
+    "Latency Indicators",
+    "Dark Mode",
+    "UI Dashboard"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3084,
+      "sha256": "47f2c79bfe06bcf65a6c09319fb5002af77e423cd10320e1111941f5a1f8ad56"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18652,
+      "sha256": "90bf936e7bfaf15f82f0a2a742591768f038a4933d4233e2eb668a7e899d23b3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 3886,
+      "sha256": "2086cc03735be4a90b79469527d6eb292e9461928c0aa6f90816fe46ee6c04b9"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 885,
+      "sha256": "dbf9f6280de64df83d7e69b91a29a592c5e1a9f435efefc77ff00799341b0192"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 640,
+      "sha256": "cb87cd3191a77e73fca436df828d76096c180210d6ec2d8b0f48aa79b5e85560"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 543,
+      "sha256": "4cb05b0ed1c2b75335323de4dd248c7ac0217c65dbea7a066561eaeff42d34b9"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 645,
+      "sha256": "79000bfb497e0250d485b4930ae0edd0445bff5344a175f93f8a5150a56c30c5"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 515,
+      "sha256": "ea4dce6074706e1ba5a2bc15ddcf7709b4c412cd4eaeeca2038a7888b7a9ed4b"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 646,
+      "sha256": "ff84ebfcdd04cfe774b9992c4b1920d1e051afa53dc2f2aa84f29a80dba258de"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 664,
+      "sha256": "369250f77451bc0fbf0b824a949ad184622630bc808f69907138e1b16f29a906"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 654,
+      "sha256": "d3b0f66e68bfd464eb191c3f92c2fe6aad811e1ffacab0dbd527265ed6646bd0"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 563,
+      "sha256": "93ddfa48b7b45323f11de4c0bb323ca24a1d7be7eb803df93f6d560c03072ca7"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 444,
+      "sha256": "98c21b70aa359ce76abb62e037623c4940fe8002a0c34621ca748e288210a1c1"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 423,
+      "sha256": "fe77d1efa99f7dc116829e31d89e22a48205d1f40d54dd873882788d090f0821"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 459,
+      "sha256": "f03b13ced0993e9144a9b1095050a0f846a0b407f97fc9c422387b7c58c822d2"
+    },
+    {
+      "path": "images/embedded/embedded-0013.svg",
+      "bytes": 476,
+      "sha256": "3fe44ba9e690c3368249611be5aa35ea8bef912112a94f078a0476e58b19290b"
+    },
+    {
+      "path": "images/embedded/embedded-0014.svg",
+      "bytes": 391,
+      "sha256": "0b99a1e31fc7fdfb3aafe09a37ea38588bf34fa4ea052da8775f8d81c7de8598"
+    },
+    {
+      "path": "images/embedded/embedded-0015.svg",
+      "bytes": 434,
+      "sha256": "709428632b70dd6785f2201debb8fde8537dd09606aca90ec6a12827550ab8b3"
+    },
+    {
+      "path": "images/embedded/embedded-0016.svg",
+      "bytes": 389,
+      "sha256": "7d183a3677ae2389eaac4800a91e17913072471b34cbccd06aa449e0fdba45b3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22224,
+      "sha256": "30aa1e629cc2334feaeb17f575379dcc63d5159d31f38c17fc6fcf2c3c8d84a5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "stats"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

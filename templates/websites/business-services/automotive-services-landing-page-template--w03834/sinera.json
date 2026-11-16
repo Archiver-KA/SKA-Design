@@ -1,0 +1,63 @@
+{
+  "id": "SN-W03834",
+  "title": "Automotive Services Landing Page Template",
+  "summary": "A professional and clean landing page template designed for automotive buy-back services, car dealerships, and vehicle recovery businesses.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Clean",
+    "Minimal",
+    "Black & White"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3492,
+      "sha256": "e6d4c37ff3e2a70f9ca799adcf480e36edb7a0a25a763affa5446e673baa9273"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 27968,
+      "sha256": "516daedf964a5ce16cb97e550b5e8638800b84f013c5b720a17757ba218bc31e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "5fa94c7672f5a3a403712018c3d0c223db94cd51f34fbcaad8ae1b39925c1711"
+    },
+    {
+      "path": "index.html",
+      "bytes": 49177,
+      "sha256": "4775614dbca3ef2011697c474e665b8527cdbd75a1428f91a1b0406a47ee1611"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "features",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

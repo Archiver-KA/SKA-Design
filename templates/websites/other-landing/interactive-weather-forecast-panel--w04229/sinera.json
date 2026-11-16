@@ -1,0 +1,57 @@
+{
+  "id": "SN-W04229",
+  "title": "Interactive Weather Forecast Panel",
+  "summary": "Responsive weather UI showing current conditions, weekly overview, hourly forecast, and expandable details with icons.",
+  "tags": [
+    "HTML",
+    "CSS",
+    "TailwindCSS",
+    "Weather UI",
+    "Responsive Design",
+    "Font Awesome",
+    "JavaScript"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3027,
+      "sha256": "234fccc62b0c83865fa2a5eca55d75b90b81f49cb7c98bdc6da3a414b29574ff"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4902,
+      "sha256": "d1b0381f7c0dec29d515948b61ebe641f0b2373d54119114bb2d6919b41b9214"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 727,
+      "sha256": "4fe5c5102b0514d550a2730dcfad2fe46e3525092af3d797f34056ceea09e02f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9922,
+      "sha256": "c3ca8739a88bb52cb75dbd40dd41cc14998659ebe8b8667099f8cb1987ea59f3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "other",
+  "design": "DESIGN.md"
+}

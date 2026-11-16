@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00121",
+  "title": "CTA Button with Right-Arrow SVG Icon",
+  "summary": "Custom CSS button combining a right-arrow SVG and label text for call-to-action flows like “Start project”. Provides icon container and text classes for flexible styling and reuse in navigation bars, forms, or onboarding steps.",
+  "tags": [
+    "button",
+    "svg icon",
+    "call-to-action",
+    "interactive",
+    "css",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1828,
+      "sha256": "2ead41106405f421ebb382a61f192e183ce71659c2f22f6805551b0ed44036ff"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2306,
+      "sha256": "58dcb72b920ed0caf25153d1e8204e2dea6deb9263fd0f74d60aaac3ef05efec"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3163,
+      "sha256": "ecca1ec6572815e533ef1226d67fa46350f0a5c5044a4f209a92ba08aaae8305"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

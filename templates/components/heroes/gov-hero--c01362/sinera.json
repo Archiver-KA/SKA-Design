@@ -1,0 +1,37 @@
+{
+  "id": "SN-C01362",
+  "title": "Gov Hero",
+  "summary": "test",
+  "tags": [
+    "hero"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 37684,
+      "sha256": "9bb2a12288a681d77054628e6e79b007099ebd9b23bf122d89c4ac5848a63bad"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9439,
+      "sha256": "e16ea243d7b3a690f8429b28645f0f2434e0393c2beb19c7ef19f5e7b5850c88"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10440,
+      "sha256": "72917f8a35d5048c17c151789560ecf2250b1aa3c183710efc990bbe48ec612d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

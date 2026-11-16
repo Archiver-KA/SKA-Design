@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00344",
+  "title": "Dark Inbox Panel with Search, Filters and Message List",
+  "summary": "Dark-themed inbox component featuring header controls, search bar, filter button, category chips, pinned items, and scrollable message list with avatars and status icons. Tailwind CSS styling with Lucide icons—ideal for email, notification, or chat dashboards.",
+  "tags": [
+    "inbox",
+    "list",
+    "card",
+    "tailwind",
+    "dark",
+    "dashboard",
+    "search",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16208,
+      "sha256": "5429f6a7b50f6ef72d92f5797e494d12a5599d1400a88c8501cfd937e2d177b5"
+    },
+    {
+      "path": "component.html",
+      "bytes": 15288,
+      "sha256": "f662c0d76846413d53706809743859fc3f35a31effa0e19775a824d759bd1c58"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16293,
+      "sha256": "4b09aafbc756daae16bc3d4c042e17a15ba821ffa45f5d96e1355b4f4a1b6b09"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

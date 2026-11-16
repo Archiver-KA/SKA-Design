@@ -1,0 +1,71 @@
+{
+  "id": "SN-W00595",
+  "title": "Notebook Workspace App Template",
+  "summary": "A reusable template for building a clean, Notion-style workspace and document editor UI with sidebar navigation, rich text controls, and collaborative actions.",
+  "tags": [
+    "Technology",
+    "Services",
+    "Documentation",
+    "Clean",
+    "Minimal",
+    "Landing Page",
+    "dashboard",
+    "editor",
+    "workspace"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3797,
+      "sha256": "431a5a5c86589a07772a8aa8833b95504c93d3dd3d507d929c5371c45d3abc64"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20374,
+      "sha256": "51d24cad8d8de1a2f92bfdad98ed4043af9265bfc7b2c4fd3242775a745e212f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1021,
+      "sha256": "629140532f8e9877b9586ff0690aa4fee22b3d22baea4e86809c2ab931c2030d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 319,
+      "sha256": "d081bc8b2b342fbcaa57c852a3f3209395cf55361a7e3e2a6eccdb2ab0d21ac5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32277,
+      "sha256": "8470b4096d696f3bca98a009b6d1e680621d0e7ad6827dbf899e157b4ced37d5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "sidebar",
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

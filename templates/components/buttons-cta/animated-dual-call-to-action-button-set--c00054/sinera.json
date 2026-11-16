@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00054",
+  "title": "Animated Dual Call-to-Action Button Set",
+  "summary": "Responsive flex container hosting two Tailwind-styled CTA buttons: an arrow-animated \"Start Building\" and a glassmorphic \"View Demo\" with hover slide overlay. Ideal for landing pages, hero sections, or product promos.",
+  "tags": [
+    "button",
+    "call-to-action",
+    "animated",
+    "glassmorphism",
+    "tailwindcss",
+    "responsive",
+    "hover"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1940,
+      "sha256": "81da416d1e2e375a7b6f2090dca3077274bb972afef0f8e33ce1c4253e327d42"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7820,
+      "sha256": "37e28037c98bf6dc423e70dc13616cd699fe94a27a059b5f0e3a37d21fc18dc5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8680,
+      "sha256": "bcd31eb324b564d482e8a30155d3f77638066d2cffceebc6c61335d819086522"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

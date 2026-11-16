@@ -1,0 +1,68 @@
+{
+  "id": "SN-W04220",
+  "title": "Interactive Monthly Calendar Picker",
+  "summary": "Renders a monthly calendar UI with navigation and date selection, highlighting today and showing the selected date.",
+  "tags": [
+    "Calendar",
+    "Date Picker",
+    "JavaScript",
+    "Tailwind CSS",
+    "Interactive UI",
+    "Responsive"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2678,
+      "sha256": "066cdffe2982c9d294b97d8e067bf8bccef7580a7f79c51407a2406d09e39a4e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3590,
+      "sha256": "9792ecb75015a3cc38a3a7693ada77da391e9b3d80261e6a776e0d6359b3d12c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1065,
+      "sha256": "277551c72935fcaaba71dcdef8e2c2a6904277498193e59f5e308736957e2473"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 198,
+      "sha256": "dc1225256458727bfd1fd1028968b5c55f5273944a6d3ac5d5313345aafa2075"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 195,
+      "sha256": "43fe948576e67d712285eca2cbbf47dbdbe6b6c9b795d60c3268c264f626071c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7556,
+      "sha256": "66c487474e83ad759fc9086c651b194b4f63242e4017d8d0481ec4a986f1abea"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "schedule-agenda"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "schedule-agenda",
+  "design": "DESIGN.md"
+}

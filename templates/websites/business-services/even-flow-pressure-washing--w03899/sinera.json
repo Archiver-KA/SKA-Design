@@ -1,0 +1,65 @@
+{
+  "id": "SN-W03899",
+  "title": "Even Flow Pressure Washing",
+  "summary": "A modern pressure washing services landing page template for local exterior cleaning businesses to showcase services, reviews, and capture quote requests.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Clean",
+    "Minimal",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3806,
+      "sha256": "d82e41353b7e33eb15ade0d397c7a051f0fd21e317a0da44924ec48cd8208378"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20256,
+      "sha256": "c401f7b73005a570c6a676909e37bc849b63752ff0b22fc9dbdac5054ebb59b9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 721,
+      "sha256": "56c5b818eb9850b9cb1204f6e279945a823075193028776f9ba03b4919f47168"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39387,
+      "sha256": "3161be0b90db6ce518a6d459826b60067589c375332b0cdf7160420e0ceebcc7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "about",
+    "testimonials",
+    "marquee",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

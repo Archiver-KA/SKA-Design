@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02158",
+  "title": "Personal Stylist Landing Page Template",
+  "summary": "A modern, clean personal stylist landing page template for showcasing services, client stories, and booking intro sessions for style consulting.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Fashion",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3715,
+      "sha256": "129a9ff6423f47f025dc1b6b2934b3b771bebea2d199b9a6e030dbaa93903442"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 31994,
+      "sha256": "25654945a91ecb06a6c80d0594110d9db3a029e90db909fd33b6fdcafcae1d0b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "065e0680a974a87923f5150538a73e742b097f31b889975eed85b8fcef8f6a9d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25819,
+      "sha256": "3960765f464bc4514ab244e5c639070a9dfedf207fe47aa5ff9fa0798de5520d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

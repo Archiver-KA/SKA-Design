@@ -1,0 +1,117 @@
+{
+  "id": "SN-W00301",
+  "title": "Core Infrastructure SaaS Landing Page Template",
+  "summary": "A dark, futuristic SaaS landing page template for Core-style high‑performance infrastructure platforms, built to showcase features, pricing, and developer-first tooling.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Large Type",
+    "Developer Tools",
+    "Infrastructure",
+    "SaaS"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3864,
+      "sha256": "a5bf50c67dd6d06b4fe3fc4a20ef2890e2c4e78e4a77e71cc5ea623169410f98"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12912,
+      "sha256": "a5ab68e027ae783ac73a2c5a7a016f6e0d2cc1b0bb8f26b85699765d019bf7b1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2977,
+      "sha256": "5d88a157bd7116e51043c1ff43d7513ae6f07fc2bb14c5e2c49422e2f9edeb47"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "975a27e374701d54758559a6b23424d93d97947431a5d8b54238cbf23d2b0972"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 791,
+      "sha256": "d3458f806f62c82b28347389582497a0651e924067f0268baa72431df003081d"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 319,
+      "sha256": "1513094df2dbcf538908381517835ec779b3d2af6c0454f4f1d520d366996ef5"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 336,
+      "sha256": "18a8a23e81f14f4500850c0aa23effe0b11eb14c29eebafe1c2051abe5e994f7"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 405,
+      "sha256": "0389c485a598f521afaef11c649cfc7f5a809aa9397ef9ef9d22e48fbf7d070c"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 253,
+      "sha256": "a3e41b06351b96374bf9f75a8b8dfa35923495d5da60ee2c192f28d16cfb79e5"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 338,
+      "sha256": "39fde14cf49a22c2b9478ec8ac6226c7bb1b497b4027bb06b3b5516442f1a208"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 680,
+      "sha256": "abf591e9efe60a862eb379036f56426f68ac0b343e70994cf5da90eef283154a"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 434,
+      "sha256": "1f585d1787250547ee16062e8cf06d208b9192b08e4162f1465b7c5bc56241dd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 52299,
+      "sha256": "6e0eaad413ffe88d7f76f0ad0d81e2242a4e8d8714a95c0200a5f369a75f61dc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "features",
+    "stats",
+    "integrations",
+    "pricing",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

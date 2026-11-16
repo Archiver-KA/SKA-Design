@@ -1,0 +1,63 @@
+{
+  "id": "SN-W04222",
+  "title": "Interactive Pie Chart with Legend",
+  "summary": "Displays a pie chart with segmented sales data and a matching color-coded legend using SVG and Tailwind CSS.",
+  "tags": [
+    "SVG",
+    "Tailwind CSS",
+    "Pie Chart",
+    "Data Visualization",
+    "HTML",
+    "CSS"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3052,
+      "sha256": "3531f54a403aa9f5a91af56d66927385f75eeff81e0956c8939d53fb15bb49e1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4452,
+      "sha256": "aa0a574c92d4ba501529fdb22dcb0a04bceab28a49f9ab5b5fd8b1509e2582f7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 869,
+      "sha256": "9c8bd8b91d1079fc027232e1a1e3430f688109e7dda02efb6f086a4b494596e2"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 813,
+      "sha256": "08bfe0e25d2a97afc81d130d775749c950f53c03d9eb89bdbac15bc8d5c22019"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2838,
+      "sha256": "e5e9d1449d5bacc994b3ec1636b528f69a06bbf9265ac2ef99062af186f6d749"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "stats"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "dashboard-preview",
+  "design": "DESIGN.md"
+}

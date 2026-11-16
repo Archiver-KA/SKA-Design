@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01885",
+  "title": "Gallery Thumbnail Grid Item",
+  "summary": "A grid-ready thumbnail component with rounded corners and shadow. Designed to work seamlessly in gallery layouts, image grids, or product listings.",
+  "tags": [
+    "card",
+    "gallery",
+    "grid",
+    "thumbnail",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9460,
+      "sha256": "0f5bd7c65f3eb20c935d7e8e5693253b4a46c0641dd64ba5c6fbd8431a99af15"
+    },
+    {
+      "path": "component.html",
+      "bytes": 344,
+      "sha256": "62c4b98ed39392fc81ed539c4e3912e36bd26a5e16b683046a0fe46b4206df9e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1192,
+      "sha256": "6df1dcfaee53ec72113c9378e1238390e17a56d1e98b20f0ebeba6d13da54e3d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

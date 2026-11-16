@@ -1,0 +1,74 @@
+{
+  "id": "SN-W01952",
+  "title": "Developer Portfolio Landing page",
+  "summary": "A high-interaction Creative Developer portfolio landing page template with cinematic visuals, motion effects, and contact CTA for showcasing digital work.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Animated",
+    "Large Type",
+    "Futuristic"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3449,
+      "sha256": "f360eb081b479d5ee3a5a2244824fb6c20c4cf3b6f45d5ba5ad7b82fe85abedf"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2094,
+      "sha256": "01e1dbdf62cabea1dd3a30a7b38c9813cc24f8900f07f5929eac0915cfb6e924"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 860,
+      "sha256": "427c3afb68849bf81311754d446861cf4a80020a5aee90ffaaf51d988b5a0931"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "845a8c33647082b21c3db87d511ee26caa07aa7a2c9bf6b015aad47a996ab97f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40252,
+      "sha256": "066fd4d823e5612008f965ee91c7d6fdabe54f68ebf2b2a3bdb0bb633be9852f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "about",
+    "marquee",
+    "features",
+    "3d-canvas",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

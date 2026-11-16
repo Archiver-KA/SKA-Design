@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00751",
+  "title": "Feature Highlight Card with Tags & CTA",
+  "summary": "Responsive card featuring image, title, description, selectable category chips, and a call-to-action button. Built with Tailwind CSS grid and flex utilities; ideal for showcasing product or service features in dashboards, landing pages, or marketing sections.",
+  "tags": [
+    "feature",
+    "tailwind",
+    "responsive",
+    "cta",
+    "tags",
+    "chip",
+    "image"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9882,
+      "sha256": "d70469398d6847722355aeef35c008dca356a30ae39ee867272ca84b5d3eddb3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2877,
+      "sha256": "d4e4e685bd327a28a73f0dfb741fecfb67979e824b3fbff0d1ea3ec06acfce14"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3870,
+      "sha256": "b1f48ca3aef15967d1eee3040f93da2193600906ff702ce8cfb8a31ac8a1fa22"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00830",
+  "title": "Prototype Design Service Card",
+  "summary": "Service card showcasing prototype design services with visual examples in a grid layout. Features interactive design capabilities.",
+  "tags": [
+    "service-card",
+    "prototypes",
+    "ux-design",
+    "portfolio",
+    "glassmorphism",
+    "dark-theme"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18936,
+      "sha256": "4a80cce7f6f4731eeeb4600746821baa97c8d05b094ab5769fa65b233ade0f0b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2298,
+      "sha256": "95caf11c70ac18045f9d60060a969d046665d6cd44253354730d0039f6bfae00"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3148,
+      "sha256": "12391f4f6da3aa6a98fbfda4f6e6f0c808302ac963cd2b087d12011ef1cc4128"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

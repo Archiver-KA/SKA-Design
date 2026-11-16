@@ -1,0 +1,76 @@
+{
+  "id": "SN-W04233",
+  "title": "Landing Page with Glassmorphism UI",
+  "summary": "Responsive landing page featuring navigation, hero, feature highlights, call-to-action, and footer using Tailwind CSS.",
+  "tags": [
+    "Landing Page",
+    "Glassmorphism",
+    "Tailwind CSS",
+    "Responsive Design",
+    "Features",
+    "Call to Action"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3016,
+      "sha256": "cedfc9ce3673add15a46db8a087f1787c32dcfb8cdb2b95c3b0de5b24f73fa87"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13620,
+      "sha256": "271695a95d6a1c90d121fd909c594aad10de1277325efd8a6fad0f323ce4ec54"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1261,
+      "sha256": "8945a0931321b2d6a4cf9426d9175c852872c24d5e8bf20c84e4ac78bdd2b024"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 284,
+      "sha256": "835e71e6ae76f8018c043ea0edaecbe59b3b4c3264ac1c6db4a313d10991f839"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 358,
+      "sha256": "8f06fa4f3f18c298f1488a11d5d205ae005eebe6451d0cd3aa661b5fc112eea5"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 450,
+      "sha256": "d2fd773087450d0c9e851216fe0dba9a55eea30ca484317055fa5dc7dcb3868f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6809,
+      "sha256": "087f518527d0332b4351a2e314b481bd3d0ca462486b1bf67953454c03b6090b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "timeline",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

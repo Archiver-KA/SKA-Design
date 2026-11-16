@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01468",
+  "title": "Responsive Hero Heading with Bio Paragraph",
+  "summary": "Prominent hero section featuring a large, fluidly scaling name header and supportive bio text. Built with Tailwind CSS utilities for responsive typography, spacing, and color. Ideal for personal portfolio intros or landing page hero banners.",
+  "tags": [
+    "hero",
+    "heading",
+    "typography",
+    "responsive",
+    "tailwindcss",
+    "portfolio",
+    "bio",
+    "intro"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20922,
+      "sha256": "372d2b47f2a7eb57d404fdce61346b7f0d342d3bc0425a62a9f82804aaa53cb2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 925,
+      "sha256": "4782ab2d60cb82bfdc35fda5997d701ed59e2b1191b9a0a25ce7a77500740860"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1788,
+      "sha256": "ef72517a017b455afdd36a1d32c21012a2af551bf5e00c40bb4f6bf93ec39dcd"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

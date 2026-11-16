@@ -1,0 +1,74 @@
+{
+  "id": "SN-W01861",
+  "title": "Cinematic Storytelling & Proposal Template",
+  "summary": "An immersive, 3D animated storytelling template designed for romantic proposals, wedding announcements, or personal journeys using Three.js and GSAP.",
+  "tags": [
+    "Landing Page",
+    "Animated",
+    "Dark",
+    "Minimal",
+    "Portfolio",
+    "Wedding",
+    "3D",
+    "Gradient",
+    "Creative",
+    "Social"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3906,
+      "sha256": "d2f3c9c7540da4692fc2883927592461dba39e97bbfc4f82d32af6559f5337cc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2060,
+      "sha256": "5885c0be713621b871e3a37404d0d128c0ac9bd9989b5f34c8dc3bf9bb0a85c4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 871,
+      "sha256": "75635eba073a4261cb07c44234dd4e7ae532f75e0b3cecc4e735cc74bfaaf65f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 247,
+      "sha256": "02f0ca5361ad0d39b8cc5f35c86427a9de3d4ea7add91486e174b354370ee870"
+    },
+    {
+      "path": "index.html",
+      "bytes": 71039,
+      "sha256": "b146b1b8f5853acc160dbbee041eecef99e020e96ce73675597bcff55d74a3e8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "features",
+    "testimonials",
+    "listings",
+    "cta",
+    "footer",
+    "services"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

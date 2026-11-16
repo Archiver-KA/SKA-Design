@@ -1,0 +1,68 @@
+{
+  "id": "SN-W02422",
+  "title": "IV Therapy Clinic Landing Page Template",
+  "summary": "A modern IV therapy clinic landing page template for wellness studios to showcase drips, health support, memberships, and bookings with a spa-like brand feel.",
+  "tags": [
+    "Health",
+    "Services",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Wellness",
+    "IV Therapy"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3756,
+      "sha256": "29bf803a33540c3fdc78dc857379c6d651efb3b09ba59cc3123c28277524e7d4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18680,
+      "sha256": "649f2e62182c5a4bcca104701d1d992f07825614d2e0aed08ec1fb04a1ec061b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "6e3a7cb8c3b4dcf33e77d3a0a74841f1a415981e5f005bb03e190cc48ce3385e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37954,
+      "sha256": "7d83d252901d5f50f1480d216d51a363246774e6aa97ccb4be4c76e0d967f892"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "product-grid",
+    "services",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

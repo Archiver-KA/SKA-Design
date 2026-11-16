@@ -1,0 +1,69 @@
+{
+  "id": "SN-W03182",
+  "title": "Architectural Visualization Landing Page Template",
+  "summary": "A reusable landing page template for architectural visualization studios to showcase premium renders, explain process, highlight savings, and drive inquiries.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Portfolio",
+    "Dark",
+    "Minimal",
+    "Animated",
+    "architectural visualization",
+    "studio",
+    "AI rendering"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3528,
+      "sha256": "6735b189c6b554927523a3de9bf2fae2be402344c0b03f0d9e77622b14a5bbc8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19761,
+      "sha256": "0d75955b65defd577de94b848afffbbbdd5a47d2605159cf9236cb800710106c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 739,
+      "sha256": "a3800b28d84288dda50ab6ab15e33887ab67fecc79f2db2a0d1c1d39c1ae3b8f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33267,
+      "sha256": "42e8ff9e71172f14ff1c7429c4ad4e4d4be0636487788b9beff0710bc7ee3104"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "how-it-works",
+    "product-grid",
+    "team",
+    "case-studies",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

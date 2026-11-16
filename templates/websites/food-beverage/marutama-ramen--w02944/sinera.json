@@ -1,0 +1,59 @@
+{
+  "id": "SN-W02944",
+  "title": "Marutama Ramen",
+  "summary": "A dark, premium restaurant template for ramen shops and modern dining brands to showcase menus, tell their story, and drive table reservations.",
+  "tags": [
+    "Ramen",
+    "Noodle",
+    "Restaurant",
+    "SS15"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3630,
+      "sha256": "08fbc1d8111ccb4070fd4ce518e9b14253d4a8d2a6a2739c1855c6f637437096"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4292,
+      "sha256": "11b0f37ebe34a56f093a0b7f84845812fdc5bb6a208a7b46f5389c2869346233"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 711,
+      "sha256": "ddc102cab6c99593261e9f84bbd039730c7670a2e56f5292adeba9ebfb5c34ae"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37044,
+      "sha256": "b917614d56ccd0a448c680dec3c399f53d67e0beb31129346d36b7ebaf743f4f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "menu-list",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

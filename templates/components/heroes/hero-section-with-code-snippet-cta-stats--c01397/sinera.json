@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01397",
+  "title": "Hero Section with Code Snippet, CTA & Stats",
+  "summary": "Responsive two-column hero section for developer products. Features animated headings, floating code preview card, dual call-to-action buttons, decorative gradients, and a stats grid. Built with Tailwind CSS and scroll animations for SaaS or open-source landing pages.",
+  "tags": [
+    "hero",
+    "landing",
+    "tailwind",
+    "responsive",
+    "animated",
+    "code-preview",
+    "cta",
+    "stats",
+    "section"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21926,
+      "sha256": "610324b3a766423310e3bc93d6afee4c353dd2b9204bfe24659d96147598741c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13387,
+      "sha256": "dfc1a3033cef2bcfe0c92340600d2705e5af3aff68969354a2b49d2b5de83e55"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14255,
+      "sha256": "65a44bfe4b5f187fcd7ae826591e7226f69ac23d9b78c9780b9a30abb68d2de6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01940",
+  "title": "Purple Wave Spline 3D Background Embed",
+  "summary": "Embeds a Spline scene in a full-viewport iframe positioned behind all content with Tailwind utilities, enabling interactive 3D backgrounds for hero sections or landing pages.",
+  "tags": [
+    "background",
+    "iframe",
+    "spline",
+    "tailwind",
+    "3d",
+    "full-screen",
+    "embed"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8574,
+      "sha256": "94b1741db2d48466c963fc9b2db26ad21887ea522578049e4f1d4e3ed98f8c3b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 235,
+      "sha256": "e7b192409bb9e4de91ec6dd02227b8b7093bae57343c5042d734aa5cd721ed11"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1094,
+      "sha256": "7caf9d05653f52e274b56df193fe7ea8fe3a2f1c362e467a49399cdca59eeb15"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

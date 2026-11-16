@@ -1,0 +1,65 @@
+{
+  "id": "SN-W04064",
+  "title": "Pressure Cleaning Services Landing Page Template",
+  "summary": "A modern landing page template for local pressure cleaning and surface restoration services, ideal for showcasing offerings, testimonials, and driving quote requests.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3775,
+      "sha256": "7916c84febb4e44ddb6b62b0b757673ea9b0881b72f30265d7e772018170742e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 31272,
+      "sha256": "9cfbd5063983ee97bc1eaf6ecbb3e7dd63442cb58909532ab819dfd40cdd5921"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 743,
+      "sha256": "f58c1ef8a10da4ccaf7ccff930efa32f675feb443c7f8dfab94b6cbeabdd00cf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 71943,
+      "sha256": "a38ec3fdfb59744fe0cd509d80cd57aca0f84a0cd6b68982fc994073c1edafcd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "how-it-works",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01253",
+  "title": "Animated Hero Section with Stats & Client Logos",
+  "summary": "Responsive landing-page hero featuring award badge, gradient headline, CTA buttons, glazed stats card, and marquee of client logos. Tailwind CSS styling with scroll-triggered animations; ideal for agency or portfolio sites seeking a dynamic first impression.",
+  "tags": [
+    "hero",
+    "landing",
+    "tailwind",
+    "animated",
+    "responsive",
+    "stats",
+    "marquee",
+    "cta",
+    "gradient"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 29520,
+      "sha256": "36b30d87d7517fc63acc23537def56759fee67512aa35ca410ee1c34cefe0a89"
+    },
+    {
+      "path": "component.html",
+      "bytes": 21122,
+      "sha256": "e8cb8ae784e964661dcf5d4bbe58a432960f14e6fcdef36839827e533135f795"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21994,
+      "sha256": "ceb147f89c8cbbea29358ed4048ca31aa7b9907a4c4191b812c8a8e6ddee357c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "SN-W04142",
+  "title": "3D Grass Field with Moving Clouds",
+  "summary": "Interactive 3D scene with animated grass blades and drifting clouds using Three.js and WASD + mouse controls.",
+  "tags": [
+    "Three.js",
+    "3D Animation",
+    "WebGL",
+    "Interactive",
+    "Grass",
+    "Clouds",
+    "JavaScript"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2322,
+      "sha256": "3f84fc759ba1581ed1dc536b88f717ecc83c625116caf571898648af9a85c152"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3380,
+      "sha256": "7d1aca64d57dddac8e0d0ee23d5bf8856c7a50dee5366b0e8761371702623c9b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 727,
+      "sha256": "19c368876c85c7edb21e83e730cd91846e93d42af169f91edcf9b23bcf8247c3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10117,
+      "sha256": "9f450f6f83e55d6f4faf1401559a130c5c764b15517f50c79b93b43e91bec4a4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

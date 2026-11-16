@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01972",
+  "title": "Unicorn Studio Project Embed",
+  "summary": "Embeds a Unicorn Studio project in a fixed 1920×1080 div and auto-loads the UnicornStudio CDN script for initialization. Ideal for adding interactive prototypes or rich media experiences to any webpage.",
+  "tags": [
+    "embed",
+    "widget",
+    "unicornstudio",
+    "interactive",
+    "javascript",
+    "cdn",
+    "script-loader",
+    "background"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 70960,
+      "sha256": "aa9aa0c6c39686e5d336f9454bb9f5d469580d55930c23d525529b18c8f9e640"
+    },
+    {
+      "path": "component.html",
+      "bytes": 535,
+      "sha256": "a3a9869bf6c8a0706836959fbdd9a67f2425ad9bc42a97f5767d1e9ea218183b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1384,
+      "sha256": "590e36ecb00bf489c00b3d6fb5ce957d1e5416668ae4849324ab9e4a6d63aeb9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

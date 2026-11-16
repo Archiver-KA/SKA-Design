@@ -1,0 +1,82 @@
+{
+  "id": "SN-W04186",
+  "title": "Digital Features Overview",
+  "summary": "Displays a features section with interactive cards highlighting design, organization, and notifications using Tailwind CSS.",
+  "tags": [
+    "Features",
+    "Tailwind CSS",
+    "Interactive Cards",
+    "UI Design",
+    "Scroll Animation",
+    "Responsive Layout"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2743,
+      "sha256": "7e42f8a0053cd370724b79d515eeb6ca7704718bfcc918cebfc4ddd15d722113"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13280,
+      "sha256": "964aa3521fe98480c107b0d66ff6a4d1b0f465b60b5de7901d3835679a9870d1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1781,
+      "sha256": "e49a4de6fa7316a39ea7a199c7fcaa58eaa83b958fe7927d99076d72cf1ff900"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 326,
+      "sha256": "4ccd21aabecf0e866687ab49ebe5250853fe141988cd997f5435b522fe24274b"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 281,
+      "sha256": "61025d4184bd82e1e45de661b47b2f4db8b9d02d603846c73883664224ef0677"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 488,
+      "sha256": "756763a4bde5b25f4a9e448df650143e7d4df5a0d5b7f5dc33bd280337c4c898"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 337,
+      "sha256": "c11245f387dc21226c1abaffad67fa3a4a95a078cf4119b6b7bcb5ae05dd438e"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 383,
+      "sha256": "7a47b6085a6a65e6269cbcba40f9e8b9430483e3fb9ce80a959cd9fe84e2ce4f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13139,
+      "sha256": "b6ffdc54daaf032ae954828cae6b543216ac2314ff4b5211d74872ee0391c2fc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "features"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

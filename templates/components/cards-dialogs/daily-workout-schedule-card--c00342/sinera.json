@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00342",
+  "title": "Daily Workout Schedule Card",
+  "summary": "Tailwind-styled card displaying today's workout sessions with icons, time details, status badges, and an add button. Ideal for fitness dashboards or planner apps to show completed, next, and pending workouts.",
+  "tags": [
+    "card",
+    "schedule",
+    "list",
+    "fitness",
+    "dashboard",
+    "tailwind",
+    "status",
+    "widget"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7974,
+      "sha256": "f1ec2b34caad94b188c1e159e79051439c9bb385b51a425d97e4bb0b734245be"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4193,
+      "sha256": "40797080678b2ddb04829b90b2a5c5ba4c73f3910cc6e92ad38610bb907c0230"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5171,
+      "sha256": "c8fc65bbb3bd0865f6d72f7577d52288be8df8348838f5d9cfafb77e2781b081"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

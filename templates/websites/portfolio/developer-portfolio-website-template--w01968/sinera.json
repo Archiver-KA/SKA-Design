@@ -1,0 +1,79 @@
+{
+  "id": "SN-W01968",
+  "title": "Developer Portfolio Website Template",
+  "summary": "A modern, animated developer portfolio website template for showcasing projects, skills, and contact links with a futuristic glassmorphism design.",
+  "tags": [
+    "Portfolio",
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Art & Design",
+    "Futuristic",
+    "Gradient",
+    "Animated",
+    "Clean",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3766,
+      "sha256": "943558a9f9767b8726330834b9e0663ca6f8cd4d803653e47540cc459ad13576"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16726,
+      "sha256": "33779c6d2927b5e9266fd746551e8c3cc6b34dcff2a00bde7209da67d6647937"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1061,
+      "sha256": "f3fe4bb215efb88093e0f21c8d63a779b5c518a1705143cd6431f7f79defec71"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 242,
+      "sha256": "9e3c01b69ef386b04d8084501c989aee8d58470328e0709dbc1bb9617416321a"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 672,
+      "sha256": "9b42984dca4b7120aab5cc23aeea181f6a3eb2a7c8ab296342dd9d27a9d54030"
+    },
+    {
+      "path": "index.html",
+      "bytes": 53707,
+      "sha256": "f14d15a24995257ec037c170eb2649ca73816e5ac79073558824612aeb64fcdd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "blog-articles",
+    "navbar",
+    "modal-overlay",
+    "about",
+    "case-studies",
+    "services",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

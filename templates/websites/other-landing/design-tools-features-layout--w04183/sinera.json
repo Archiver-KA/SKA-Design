@@ -1,0 +1,83 @@
+{
+  "id": "SN-W04183",
+  "title": "Design Tools Features Layout",
+  "summary": "Displays a dark-themed grid of interactive cards showcasing design tool capabilities like prototyping, version control, UI components, and collaboration. Bento.",
+  "tags": [
+    "Features",
+    "Cards",
+    "Dark Mode",
+    "Tailwind CSS",
+    "Responsive Grid",
+    "UI Components"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3113,
+      "sha256": "76a134e882e3f499fd788f7358a16fa83485efc092250ef4673958c2fbc5038a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11430,
+      "sha256": "123897161600cd82e05abbd98d31229ae38b998d90f2edf3b2ab2eefb534dbb6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1649,
+      "sha256": "5b540bb1efa18d3edc88c03d00282682fcb5705bfd939b2e5f1cc185080a89e5"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 472,
+      "sha256": "cbe86dfbd3cadcfe4d313c3d4171a1f5df5419c653400b3da8abc1333abdd802"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 286,
+      "sha256": "36ade9c52fde78d7c999c9bc1c8920fafd43e2f2a4f5570529b93b6fa7e68695"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 439,
+      "sha256": "512ad4bed7a1412502845485e0c28a4705d4fff81dfceddaa3dc2247e43222c5"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 505,
+      "sha256": "cb0ee02fe31904f1b38dd3353364473078dcb7a18efb721ef32309966f2a812d"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 435,
+      "sha256": "b7167878746460f8e9579529b40872c85e6b9a8e7b0df2a88b81dc6205c9ac39"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13049,
+      "sha256": "6924fed96e934a2cb0d8c3cccc43bf9bac8990a51c2e47473d68108726869322"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "bento-grid"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "auth-form",
+  "design": "DESIGN.md"
+}

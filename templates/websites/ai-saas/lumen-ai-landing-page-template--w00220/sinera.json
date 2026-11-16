@@ -1,0 +1,74 @@
+{
+  "id": "SN-W00220",
+  "title": "Lumen AI Landing Page Template",
+  "summary": "A sophisticated context-first AI builder template designed to turn design files and product notes into polished landing pages.",
+  "tags": [
+    "Technology",
+    "Services",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Animated",
+    "Business",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3656,
+      "sha256": "31acdb6f28af72ed1f33789580965456d2606b8efbb305a3a9d9713d985790ae"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16008,
+      "sha256": "bfdc62b9016d0e2ac99a5acb7b67d486de4f194903425b5671d1ffa4c4f2c227"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 869,
+      "sha256": "dfbab1f8b614da8cea51f67c19964f4b9f64f191c392b87e6ebf1e669522796e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 327,
+      "sha256": "5048437cd76b123eccc371c6cc0a3863f41fce023ece2be44f53e053429fc85a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 69420,
+      "sha256": "30a2603a299d0857a4cfa418874e98732a05cea0d0441ce606a1e31a3bde19d0"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "how-it-works",
+    "gallery-portfolio",
+    "product-grid",
+    "testimonials",
+    "pricing",
+    "team",
+    "faq",
+    "dashboard-preview",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

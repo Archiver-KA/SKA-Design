@@ -1,0 +1,70 @@
+{
+  "id": "SN-W02766",
+  "title": "Latin Barbershop Landing Page Template",
+  "summary": "A premium Latin barbershop website template with services, gallery, hours, and a multi-step booking flow, ready to customize for any grooming brand.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Style",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Barber",
+    "Grooming"
+  ],
+  "kind": "websites",
+  "category": "beauty-fashion",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3932,
+      "sha256": "1f8b2c1332e170885d15b213a5f34e96d8c4f9f6991c8a9cfd49ba4a0d7c7653"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14660,
+      "sha256": "43045e90c2e8c490f53c84ab21c503677f5230c370598609ebe76ff9f9daf6db"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "203311b0dcb2e9e45cc02e6d89cbc0cd6f23594610433ca45cd9b832b1c795f1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 60293,
+      "sha256": "8a070f410f0ab250e97a73d8ea2600b974d89f8e515c9a6e0d2e45147b167335"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "beauty",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Beauty / Fashion",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "cta",
+    "services",
+    "booking",
+    "map-location",
+    "gallery-portfolio",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

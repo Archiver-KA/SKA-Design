@@ -1,0 +1,71 @@
+{
+  "id": "SN-W02010",
+  "title": "Evolution Design + Build Landing Page Template",
+  "summary": "A high-end, editorial-style landing page template for residential design-build firms and custom home renovation studios.",
+  "tags": [
+    "Services",
+    "Real Estate",
+    "Portfolio",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2619,
+      "sha256": "22f7568b2b3b872f8187ef4950b0a984d6c32654ecae2a31919c6c704aa4a964"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17342,
+      "sha256": "0f79cbace0d21435493c4f35136d89453126dab5156b3211d86d36db7c512051"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 879,
+      "sha256": "083cb1a86dfdfddcbefa372b14dfb4e4285e0a227987b26437c9a69b06e20f7e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 215,
+      "sha256": "58f20ad164f5ea26a682e0fbf161e81ec52a5fc295a4b78add67565d3e68d9eb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 53726,
+      "sha256": "4718a9b070f55359ac966d3154ae8517ad0a15be361e22984762e19591645efa"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "sidebar",
+    "hero",
+    "services",
+    "case-studies",
+    "how-it-works",
+    "testimonials",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

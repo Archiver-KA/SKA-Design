@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01162",
+  "title": "Responsive Header with Logo, Nav Links & CTA",
+  "summary": "Slide-down header featuring branded logo, four navigation links and a gradient call-to-action button. Built with Tailwind CSS, fully responsive from mobile to desktop—ideal for website top bars needing stylish, interactive navigation.",
+  "tags": [
+    "header",
+    "navigation",
+    "responsive",
+    "tailwind",
+    "animated",
+    "cta",
+    "gradient",
+    "logo"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3696,
+      "sha256": "380409feb0e08cb346dcdf8b722b4ad03efc337528e3e236fd709f1c555fcde3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2671,
+      "sha256": "54992bdd6c15992657b2f1908b505fefe3f1151ef0d675fc01dca9ea4cb90d63"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3540,
+      "sha256": "a369244a41fa6d9cfe91add4f7b0f82b0f84b62cac517272248b0a954c518bb7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

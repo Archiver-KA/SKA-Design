@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01071",
+  "title": "3D Footwear E-commerce Landing Page Template",
+  "summary": "A futuristic 3D footwear e-commerce landing page template designed for showcasing premium sneaker collections with interactive product views and specs.",
+  "tags": [
+    "E-commerce",
+    "Landing Page",
+    "Fashion",
+    "Art & Design",
+    "Brand",
+    "3D",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3658,
+      "sha256": "b7a9818bce7daa75aa781cf4db6ffa6650e4b514aa7f1d166abcfe0f070f627d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10816,
+      "sha256": "b1607bf76b9f6c39dcf01c2e3a37829a44e4a4babd7538bd1a8d556522bffc01"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 817,
+      "sha256": "2c9f8bde8d2d8f13703326e98ce6c561bf89d463f847e4aad6f566954be74e48"
+    },
+    {
+      "path": "index.html",
+      "bytes": 56954,
+      "sha256": "85d8528fbc48ecc312bfb254d787f0b793625f30ad6cb67fedaa725ddf3afd86"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "product-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

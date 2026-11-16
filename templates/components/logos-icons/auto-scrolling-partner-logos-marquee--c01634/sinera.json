@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01634",
+  "title": "Auto-Scrolling Partner Logos Marquee",
+  "summary": "Horizontal marquee that continuously scrolls client logos with gradient edge mask and hover-pause. Built with Tailwind CSS, shadowed cards, and SVG icons. Ideal for landing pages or testimonials to show brand trust and social proof.",
+  "tags": [
+    "logo",
+    "marquee",
+    "slider",
+    "testimonial",
+    "tailwind",
+    "scrolling",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5194,
+      "sha256": "5ee507ce92bd27e56a567d72ea110e51f618816a7a04ec2e88009f3f68e46612"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8516,
+      "sha256": "d2a7a419a59c6c2ebefb9dbc4ce6a4f1daad396cb021beb4a0e2b7bb83e870fe"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9373,
+      "sha256": "45b8e42ab7cc367246d38a8acceaf0905669e962e329323b4d3b888f29417e1d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

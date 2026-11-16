@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01268",
+  "title": "Animated Product Hero Section with Color Wheel",
+  "summary": "Responsive landing hero built with Tailwind CSS featuring rotating conic-gradient color wheels, slide-in animations, feature highlight pills and dual CTAs—ideal for promoting hardware or SaaS products on marketing pages.",
+  "tags": [
+    "hero",
+    "landing page",
+    "product showcase",
+    "tailwind",
+    "animated",
+    "responsive",
+    "cta",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 25316,
+      "sha256": "f0d898f2c2fbde8d62357954d8fd8bd383660327427cb1552ccaf3f290aae39f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6746,
+      "sha256": "2871ce6ded252bef22952e6ea51867f271fa2ddfef2b8ac06f631c11f3929640"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7613,
+      "sha256": "515013162aeed680c765415d35d2f49886d6bc5b6716ca7af0067530da4d8451"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

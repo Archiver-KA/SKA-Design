@@ -1,0 +1,64 @@
+{
+  "id": "SN-W01754",
+  "title": "3D Interactive Portfolio Template",
+  "summary": "A cinematic 3D portfolio template that lets creatives showcase their bio, experience, and projects in an immersive open-world city interface.",
+  "tags": [
+    "Portfolio",
+    "Art & Design",
+    "Technology",
+    "3D",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3331,
+      "sha256": "84dce202673020ca533a550de5beacb152e7be84897037d9ad26d589d1b8b208"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2220,
+      "sha256": "c50f3fd104d34bda29fdf29d17fff8c27a9335adf904641d2d5164987ff5ec10"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 721,
+      "sha256": "7c0fbd6cda25da5546a741236afa0502156bd432db00543e8eb60d0f0421c93d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33118,
+      "sha256": "cc66e4f0f60ff3db7a439f7728b42fd4661e7ffffa362ff144ce7d76b6e86e4a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "snippet",
+  "components": [
+    "hero",
+    "3d-canvas",
+    "about",
+    "timeline",
+    "gallery-portfolio"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

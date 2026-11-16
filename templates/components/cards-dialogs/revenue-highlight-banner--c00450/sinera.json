@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00450",
+  "title": "Revenue Highlight Banner",
+  "summary": "Eye-catching revenue result banner with gradient background, large monetary figure, and descriptive text. Perfect for showcasing financial achievements and ROI.",
+  "tags": [
+    "banner",
+    "revenue",
+    "highlight",
+    "gradient",
+    "financial",
+    "results"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4420,
+      "sha256": "0ae718e549e1f0abe3556c0616debe0964eafdd4ba6d588572113dc948024ca6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 518,
+      "sha256": "90db4317c2b23b666b2d610bbbaf4a511e67f072b78f26c52ad9cd975af1de1d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1363,
+      "sha256": "5d3ed79e6219ef0efa0ebc5cf4792dc54e5b72e7fd9013e04b9a735e6e0c00df"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

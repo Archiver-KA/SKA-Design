@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02299",
+  "title": "Interactive Performance Chart",
+  "summary": "Weekly performance chart with animated bars, statistics display, and interactive controls. Includes trend indicators and percentage changes for financial dashboards.",
+  "tags": [
+    "chart",
+    "analytics",
+    "interactive",
+    "financial",
+    "animated-bars",
+    "statistics"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14582,
+      "sha256": "295480201b931598573c2a34906ff7e8be34236c173c83488867906740a1e736"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5550,
+      "sha256": "a5d3b0c6a6088b0be3630a1e7ba7eeee685a6db0dca0741808b6c76ea37f3585"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6400,
+      "sha256": "1591ae0ef78f86b0427a97083b7e2905fd99bb4ccc71ad0e715fc9304ba06472"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

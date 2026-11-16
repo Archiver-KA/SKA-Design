@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01369",
+  "title": "Headphone Product Hero with Stats and Features",
+  "summary": "Full-width hero section for a Bluetooth headphone product featuring large headline, product image, CTA button, sales stats, promo card, and sound/connection feature highlights. Styled with Tailwind-style utility classes and subtle animated hover effects.",
+  "tags": [
+    "hero",
+    "section",
+    "product",
+    "ecommerce",
+    "landing",
+    "tailwind",
+    "responsive",
+    "animated"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20274,
+      "sha256": "834948659bd4ac446e1bd7f2eb2f743193c1ecca45b7e80a61b2a5ccaf296910"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7097,
+      "sha256": "12b6437fa879f581feaef3cabc61486410e7ebdd4df7d033f2d604ba8b53b5a9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8054,
+      "sha256": "64e6e4e582137574a38a62c6ec39c750c1af35c41ea1892ca9c9ba9c7e12f9a9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

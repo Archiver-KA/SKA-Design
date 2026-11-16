@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00665",
+  "title": "Animated Approach Feature Section with Node Grid",
+  "summary": "Full-width “Our Approach” feature section with headline, supporting copy, CTA button, and an animated node grid connected by glowing SVG wires. Uses Tailwind-style utility classes and scroll-triggered animations to visualize a focused productivity system.",
+  "tags": [
+    "feature",
+    "section",
+    "animated",
+    "responsive",
+    "tailwind",
+    "svg",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15656,
+      "sha256": "91554395788197869738dfe290bb5474c52c3ad8e19aff7eb87fbf226d7612c8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 18519,
+      "sha256": "be22f83f4254da0c3d577161571ccf98fd847673e5c5125596daec56139ed31d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19388,
+      "sha256": "9af4b52409a555be384599bc6100ef249bce160669a547c399c9a1c214ef9daf"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

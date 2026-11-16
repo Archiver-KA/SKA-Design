@@ -1,0 +1,62 @@
+{
+  "id": "SN-W00881",
+  "title": "Velora Fintech Mobile App Template",
+  "summary": "A professional mobile UI system template for modern financial management, featuring minimal design and a comprehensive component library.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Graphic Design",
+    "Services",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3507,
+      "sha256": "80410d314dff176ceb7b464674967e55dea82c423fc2ef0d9786fe2c98c4e4c3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22766,
+      "sha256": "73f0fa49dc2b8d29be565136027843a2f155ae889b5fad3c8c50b982afa5462c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 720,
+      "sha256": "4fadd2b70adbd1f41286e8f6fd42318c094eafd3ee3892a5dc3d474664b0a25f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 46069,
+      "sha256": "b3e7bb47986ec062b4cb208be7e151c0c6212404613a90a549d7c8b2300cceb6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "features",
+    "auth-form"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

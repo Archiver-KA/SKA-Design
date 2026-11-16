@@ -1,0 +1,71 @@
+{
+  "id": "SN-W01333",
+  "title": "TrustKart Electronics Marketplace Landing Page Template",
+  "summary": "A dark, futuristic landing page template for a verified pre-owned electronics marketplace with escrow, inspections, and product detail flows.",
+  "tags": [
+    "Landing Page",
+    "E-commerce",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Grid",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3931,
+      "sha256": "39d178828be2a2f6d8de5ca9cb359750670676223569a078b7748f8f3704dfe1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16276,
+      "sha256": "c3187f9b40fd380f059bde2ce117a29e06de37f2307f1ec92336245bed1f9204"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 891,
+      "sha256": "7e87a73cb5e33579f2afb0498689a457faad2c99a4f5cb2ef27b95f49b9299a9"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1650,
+      "sha256": "16c6726765e4e8aa2307ba3160dbec7d154647e5e9f849832636f5e9c6958ab8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40352,
+      "sha256": "6487a6092389bf0014811eb37ceb0cc27e2beb9edf7889cf5c7933dcc56d66cb"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "stats",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

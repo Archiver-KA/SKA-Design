@@ -1,0 +1,72 @@
+{
+  "id": "SN-W03765",
+  "title": "Editorial Archive Landing Page Template",
+  "summary": "Editorial archive landing page with oversized headline, numbered issue index rows, membership tiers and a full-bleed blue sign-up block.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Art & Design",
+    "Minimal",
+    "Dark",
+    "Large Type",
+    "Editorial",
+    "Newsletter",
+    "Archive",
+    "Membership"
+  ],
+  "kind": "websites",
+  "category": "news-blog",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3159,
+      "sha256": "36c75cfc6c9999058366d686decb20b2c27e9e2519a2d19f1b07c93c5db36b5e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16694,
+      "sha256": "17d7cad08c2a0620938f4dfc34797b66be8e67d2fa5695c6953d2127e6ec94b1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 954,
+      "sha256": "1e11c78234ceee8a365ec2f3289a28ab96bd52d41a6c911932be589eb3f6cf03"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "b2f67d2966c0ebb4f5da84ab62bb05fa3ecfa79307361bff1ea2f696a877c650"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19032,
+      "sha256": "6004b66366d47a5c0960b6ed6ffd0b8920b64ca09a3921d8b53203294791a81a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "content",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Content / News",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "rebuilt",
+    "issues": [],
+    "rendered": true
+  },
+  "language": "en",
+  "designSystem": "sinera-atlas@1.0.0",
+  "design": "DESIGN.md"
+}

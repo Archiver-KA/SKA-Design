@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00088",
+  "title": "Animated Gradient Hover CTA Button",
+  "summary": "Rounded 'Get Started' button using Tailwind CSS with 1s cubic-bezier hover lift, color shift, drop shadow and gradient underline. Serves as an eye-catching call-to-action for landing pages, hero sections or forms.",
+  "tags": [
+    "button",
+    "cta",
+    "animated",
+    "hover",
+    "tailwind",
+    "gradient",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1552,
+      "sha256": "6387bc040ef42e6a712ec8e212e5cbcf25686fe35aa779377d5d07d3922b642f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 873,
+      "sha256": "fbb6e6d1295062bd33ecad840ec60fc063780939852a98b5170f160a8b56145f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1728,
+      "sha256": "72fa4b7d5c946f0f065b10ce74a7e9930b0c5dd52c6d44b2b11e49eaed0c8616"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

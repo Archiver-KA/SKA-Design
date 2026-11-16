@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01120",
+  "title": "Champagne Winery Landing Page Template",
+  "summary": "Elegant champagne winery landing page template for showcasing vintages, terroir, and direct-to-consumer or B2B wine sales online.",
+  "tags": [
+    "Landing Page",
+    "E-commerce",
+    "Brand",
+    "Food",
+    "Minimal",
+    "Dark",
+    "Large Type",
+    "Grid",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3660,
+      "sha256": "8e85ede34e78ca23d6085322b1dd45510a66b5b50bfa9050230309aa36981f77"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9084,
+      "sha256": "d0865bf46a308ad065419e0a371544d18b1c8ea6a83ffc5c18a5f09800d2bb69"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 811,
+      "sha256": "60eeac9e9c29b80616938b999c9d1a2ab095c050b555e486cc37eb778c78ac6e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 49825,
+      "sha256": "fe1d1675323e20ef7a0148a6060837603caa47725c2242a84b4a42b18c018f2d"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "product-grid",
+    "cta",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

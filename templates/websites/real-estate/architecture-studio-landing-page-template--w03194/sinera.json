@@ -1,0 +1,73 @@
+{
+  "id": "SN-W03194",
+  "title": "Architecture Studio Landing Page Template",
+  "summary": "A modern architecture studio landing page template for showcasing projects, philosophy, process, and awards with a clean, editorial aesthetic.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Art & Design",
+    "Portfolio",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Architecture",
+    "Studio"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3457,
+      "sha256": "62442b0353c9e69cd65bad9e41edfd7bbbb6335d7f8ec8ae0d9079763df64d8e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8612,
+      "sha256": "3fe9be4016b9e5672d3c3cf2b1aabef0a3bef75a6e3f08f99eec8270c447c581"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 814,
+      "sha256": "05548f7e3ce9fb7b3915b7e692e764a9b4fcea8192ca71dfd9e26b49a122415f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23806,
+      "sha256": "a59fb98f7da03298ca624f3749e095d8e8a2ead34c1d0d19202f7c90f2b323ec"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "integrations",
+    "gallery-portfolio",
+    "features",
+    "awards-press",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "broken-images"
+    ],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

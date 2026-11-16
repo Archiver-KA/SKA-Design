@@ -1,0 +1,61 @@
+{
+  "id": "SN-W03149",
+  "title": "Travel Package Pricing Plans",
+  "summary": "Responsive pricing UI showcasing travel plans with monthly/annual toggle and feature lists using Tailwind CSS.",
+  "tags": [
+    "HTML",
+    "Tailwind CSS",
+    "Responsive Design",
+    "Pricing UI",
+    "Web Development"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2774,
+      "sha256": "6311fab93383b1ec60c0e15522213eb59cbae816ce275bbf141c944ff51a6dc4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17764,
+      "sha256": "e08a1c2ca1dd382b8b5da46b12974be989dc3a314162d0f6c57845753ee0d9d9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1238,
+      "sha256": "f89b914525fa9e6d9d98e1d0e359c4c18dbd683a83590ccab0e35b0e46746200"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 358,
+      "sha256": "be1e83ef4cdac9654e960dcdd6eb2285b8d494efec94587d4de9fd2e61e26a74"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10831,
+      "sha256": "9af028714675e8efedf0b8cc521883b8aa612327260ff9932e6bf019e0387d28"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "pricing"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

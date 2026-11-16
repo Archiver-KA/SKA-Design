@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00418",
+  "title": "Phase Detail Card with Navigation Controls",
+  "summary": "Responsive Tailwind card presenting system phase details, metric highlight, and previous/next arrow buttons with page indicator—ideal for roadmaps, onboarding steps, or feature sliders.",
+  "tags": [
+    "card",
+    "tailwind",
+    "responsive",
+    "navigation",
+    "slider",
+    "metric",
+    "ui",
+    "component"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20422,
+      "sha256": "11bdd17c6be9126477c1a17ac458c8a4b97a337f7e3f20c479ca24993f51429d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2991,
+      "sha256": "7b86f062b84ac29223df53092107299bad06546a03ab91c21978206fccf7099a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3984,
+      "sha256": "036164c12b7c46a88df6234571a1c258a6140a7cdbed742f15580be73e7fea49"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

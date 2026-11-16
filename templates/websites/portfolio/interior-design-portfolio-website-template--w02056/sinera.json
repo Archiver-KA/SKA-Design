@@ -1,0 +1,64 @@
+{
+  "id": "SN-W02056",
+  "title": "Interior Design Portfolio Website Template",
+  "summary": "A clean, modern portfolio website template for interior designers and studios to showcase curated projects and tranquil spaces with a refined gallery layout.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Interior Design",
+    "Art & Design",
+    "Brand",
+    "Minimal",
+    "Clean",
+    "Grid",
+    "Large Type",
+    "Style"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3383,
+      "sha256": "c8f05712597d3a30ae92650c3a32005e50951974f8878ab9076b34d36c57c278"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 29506,
+      "sha256": "716bcf580eb5d120c7579419ea0c8e3a40c14d45994797fb965b00ec4605b77b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "cc7ed9eb33fa85fb9014661ea670847e74aa68ef5a5049f60f638d19d478d3da"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13755,
+      "sha256": "f610d53865b014e875f25eb9048691a253d59f765b0076c5012d30ce69b2504a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

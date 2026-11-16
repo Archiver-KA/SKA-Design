@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01941",
+  "title": "Real Estate Listing Image",
+  "summary": "Simple image component rendering a real estate listing photo using a direct image URL, suitable for property galleries, cards, and listing detail views.",
+  "tags": [
+    "card",
+    "image",
+    "media",
+    "real-estate",
+    "static",
+    "minimal"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 38920,
+      "sha256": "c457e0c8aeb6dacc32b88ddd3d3bf506d4faf0f6869823fdd8a77da2f9a80c13"
+    },
+    {
+      "path": "component.html",
+      "bytes": 100,
+      "sha256": "636bb7acaf23c3ee457cf7c2de05f558aebfe70ade2439931bac07b38eaae58e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 946,
+      "sha256": "f07ce2f2bacf463597ad8a78af0e8844f186a8c9d344e95c3e97faf8471ddaba"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

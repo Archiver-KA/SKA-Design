@@ -1,0 +1,71 @@
+{
+  "id": "SN-W03464",
+  "title": "Executive Coaching Landing Page Template",
+  "summary": "A premium Webflow-ready landing page template for executive and business coaches to showcase programs, build authority, and convert visitors into booked calls.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Portfolio",
+    "Executive Coaching",
+    "Webflow Template"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3840,
+      "sha256": "cd52b75b0540485eb1077dd039cec5805a457ed07e3ee20d3d6f91038328b85f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16602,
+      "sha256": "8db70fd6c02eabcf6f107563a7d09b32d0225916e837debf7dd13f127d4d168c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "0c3be7d33caf4a706163d4d8fb90c30b7d2f78d8001a7a762759a1e4bfed341b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38113,
+      "sha256": "f6619585c8b5f4166389541b76a235eb43f0fa5ff4eeefd45a26af216609d386"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "testimonials",
+    "services",
+    "stats",
+    "timeline",
+    "faq",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

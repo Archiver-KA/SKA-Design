@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00398",
+  "title": "Interactive Category Card with Image and Hover Blur",
+  "summary": "Clickable image card built with Tailwind CSS featuring backdrop-blur, gradient icon badge, and subtle hover overlay; ideal for category links, article previews, or feature highlights.",
+  "tags": [
+    "card",
+    "tailwind",
+    "hover",
+    "image",
+    "interactive",
+    "category",
+    "gradient"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 27468,
+      "sha256": "0a0df7f3dd4d7f8c4eadb9ea609396192463cf2b1aeca91c026f29a7cb533754"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1621,
+      "sha256": "ac8edb7e6074aa48174583c55191d7b671c4d64a2eea9b9841a737c70f10c304"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2493,
+      "sha256": "d92a6e303a0b5f83b223fd66441422041cfe6b1d57ef08e396c9c053fa942c87"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

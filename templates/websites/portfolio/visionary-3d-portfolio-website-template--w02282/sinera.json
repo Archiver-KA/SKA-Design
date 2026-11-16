@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02282",
+  "title": "Visionary 3D Portfolio Website Template",
+  "summary": "A dark, futuristic portfolio template for engineers and designers, featuring 3D Three.js backgrounds, case studies, and contact form ready to customize.",
+  "tags": [
+    "Portfolio",
+    "Technology",
+    "Art & Design",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Landing Page",
+    "Brand",
+    "Large Type",
+    "3D"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3768,
+      "sha256": "ba11a4cc4f227933748405a299bf66ed2912dbc128770721d9add892719c5e44"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13946,
+      "sha256": "b47c2dfbe897456dbab962fae5598108caf94e1629cb8c61dc8e468d3ab18a89"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 727,
+      "sha256": "e000e1c67f1a295bf38fc38d4c3fd1e458d71c260010813f8a14366fb1919f90"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26288,
+      "sha256": "11bb88423f9c0dc010031d71335ae44babc43030b5615db08657b6426f068f49"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

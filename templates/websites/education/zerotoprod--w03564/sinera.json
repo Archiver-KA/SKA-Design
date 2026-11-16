@@ -1,0 +1,72 @@
+{
+  "id": "SN-W03564",
+  "title": "ZeroToProd",
+  "summary": "A reusable landing page template for AI education platforms, product-building communities, or startup resources teaching users how to go from idea to production.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Education",
+    "Brand",
+    "Brutal",
+    "Grid",
+    "Large Type",
+    "Animated",
+    "AI",
+    "SaaS"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3749,
+      "sha256": "de0258fad1ec26f586b28ba36d51ddbb9ccc89a71592d73c2a4939ca7fc9001b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 26022,
+      "sha256": "0bfa65fab2838be2302a0638841eca4f2e9b051c25ce684877b31529276daff5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 781,
+      "sha256": "62d43ad0a1ffa0ab2fb9151c024dc4bfeecf663356365cc7a659ca4c00bed398"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40006,
+      "sha256": "7c60bb96c4134d0360291a895b8cf6e63f525a14d24de8378169bfb8b1a6e5f3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "timeline",
+    "how-it-works",
+    "cta",
+    "code-terminal",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

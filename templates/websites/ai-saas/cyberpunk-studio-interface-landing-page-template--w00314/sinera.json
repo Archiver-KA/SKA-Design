@@ -1,0 +1,63 @@
+{
+  "id": "SN-W00314",
+  "title": "Cyberpunk Studio Interface Landing Page Template",
+  "summary": "A cyberpunk-inspired studio landing page template for showcasing advanced digital services, workflows, and project archives in a futuristic interface.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Futuristic",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Portfolio",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3359,
+      "sha256": "83388c2a1041a99e416ced18a4a06bd2c8f78a532f3771386f23691c3def97d7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16744,
+      "sha256": "3cf9108b5d4ecc4cc2aee9d75b6453354eb321069cc2a7f90ddbbd5e70490a76"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 742,
+      "sha256": "4e3935bcc6c1f7a571c5754feddd34cbba7e618fbc1e25d0461fa487beb8abab"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30925,
+      "sha256": "2d1c764b919068d16a1677ad1abf6cc8a204ecbac9141e04c3af577ce2013fee"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "services",
+    "how-it-works",
+    "case-studies"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

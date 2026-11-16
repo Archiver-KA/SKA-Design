@@ -1,0 +1,75 @@
+{
+  "id": "SN-W02139",
+  "title": "Neon Restoration Portfolio Template",
+  "summary": "A high-end, cinematic landing page template featuring advanced scroll-driven animations designed for artisans and boutique restoration studios.",
+  "tags": [
+    "Portfolio",
+    "Technology",
+    "Services",
+    "Clean",
+    "Dark",
+    "Animated",
+    "Futuristic",
+    "Large Type",
+    "Graphic Design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3097,
+      "sha256": "31a94c2676941a93de5fc8b622bdcfcb19853854006603db392602a130e790b7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2870,
+      "sha256": "82299def31b481f69bc1dcbedb0f4a7d7000168548839db9ab112eb2340e8d13"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1059,
+      "sha256": "79361378e169f75f7a0231e05e2c6941be469c2f74411e42116b84d93deb1d42"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 251,
+      "sha256": "db698ca7c55c7b7dbe71c3c6e0391ff36da40901f3bc3da528297eaeeffe5ef8"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 334,
+      "sha256": "43faec237485bf1dd4d6601fe9097ed531264392f37c708d364f4fab080a9fce"
+    },
+    {
+      "path": "index.html",
+      "bytes": 112729,
+      "sha256": "abff5b753e6ef9cef92aa81e657dec844020233f68c1d84ae60bb912f065c165"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "3d-canvas",
+    "hero",
+    "listings",
+    "services",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

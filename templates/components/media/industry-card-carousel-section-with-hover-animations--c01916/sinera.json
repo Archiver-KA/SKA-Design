@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01916",
+  "title": "Industry Card Carousel Section with Hover Animations",
+  "summary": "Responsive Tailwind section featuring a headline and grid/slider of four industry cards. Each card has icon, number, text, and animated hover effects; section fades in and includes prev/next controls for carousel navigation. Ideal for landing pages showcasing sectors or features.",
+  "tags": [
+    "carousel",
+    "grid",
+    "tailwind",
+    "responsive",
+    "hover-animation",
+    "marketing-section",
+    "icon"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20078,
+      "sha256": "4fd08ddecb5731c884d2eddf21b517e8dcf58075ba3af4f3cd0387fe6b24c998"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9626,
+      "sha256": "97ec2c52243ec2a24620e9ff796676c966cf555b184d29ec598eb54926cfa0af"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10629,
+      "sha256": "47bb77931270169beeb8225141363e2f725438746d97c6272a8e7829ca08150d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,24 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none text-white/10" style="z-index: 0;">
+    <defs>
+      <linearGradient id="lineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:rgba(124, 102, 255, 0.05)"></stop>
+        <stop offset="50%" style="stop-color:rgba(124, 102, 255, 0.4)"></stop>
+        <stop offset="100%" style="stop-color:rgba(124, 102, 255, 0.05)"></stop>
+      </linearGradient>
+    </defs>
+    
+    <!-- Main Trunk from Left -->
+    <path d="M56,96 L140,96" stroke="url(#lineGradient)" stroke-width="1.5" stroke-dasharray="4,4" class="transition-all duration-700 opacity-60 group-hover:opacity-100 group-hover:stroke-[#7c66ff]/40"></path>
+    
+    <!-- Vertical Branch Line -->
+    <path d="M140,36 L140,156" stroke="url(#lineGradient)" stroke-width="1.5" stroke-dasharray="4,4" class="transition-all duration-700 opacity-60 group-hover:opacity-100 group-hover:stroke-[#7c66ff]/40"></path>
+
+    <!-- Top Branch -->
+    <path d="M140,36 L400,36" stroke="url(#lineGradient)" stroke-width="1.5" stroke-dasharray="4,4" class="transition-all duration-700 opacity-60 group-hover:opacity-100 group-hover:stroke-[#7c66ff]/40"></path>
+
+    <!-- Middle Branch -->
+    <path d="M140,96 L400,96" stroke="url(#lineGradient)" stroke-width="1.5" stroke-dasharray="4,4" class="transition-all duration-700 opacity-60 group-hover:opacity-100 group-hover:stroke-[#7c66ff]/40"></path>
+
+    <!-- Bottom Branch -->
+    <path d="M140,156 L400,156" stroke="url(#lineGradient)" stroke-width="1.5" stroke-dasharray="4,4" class="transition-all duration-700 opacity-60 group-hover:opacity-100 group-hover:stroke-[#7c66ff]/40"></path>
+  </svg>

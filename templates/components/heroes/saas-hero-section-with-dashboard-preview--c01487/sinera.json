@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01487",
+  "title": "SaaS Hero Section with Dashboard Preview",
+  "summary": "Full-width SaaS hero section featuring social proof avatars, headline, supporting copy, dual call-to-action buttons, and a rich dashboard-style preview card showing projects and activity. Styled with Tailwind-style utility classes for modern, responsive landing pages.",
+  "tags": [
+    "hero",
+    "saas",
+    "dashboard",
+    "landing",
+    "responsive",
+    "tailwind",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21522,
+      "sha256": "5167bfd99b5baedf9658de3e2fe00d97870604869369241d0116c3438472f4e0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 19510,
+      "sha256": "60100c07476e872c95cd6c35e8610c8435483d318693aecad514c50c57bf8665"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20371,
+      "sha256": "a868fd8bd66d52f1f4961e95353827cc571556206a07cbb428346bfe9388d86e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "SN-W03050",
+  "title": "Green Hills Reserve Landing Page Template",
+  "summary": "A clean and serene landing page template for nature reserves, national parks, and outdoor tourism destinations focusing on eco-conservation.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Environmental",
+    "Services",
+    "Clean",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3588,
+      "sha256": "7b50987d5a2fa8333b750f2a4c2a06a298cb8ceaae028a5ab7b51a77b41f8978"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14944,
+      "sha256": "959939514c521cf54319134516ff68f1f81b7ff9e7ac26f12398cdc59435397d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "c5793f8179dbe8e925e61e9721bf2d0c38cf04310e2f30acafbaf20c7946b8cb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21781,
+      "sha256": "7d1ac1572a7d879186e486346eb76fab05791478c82f57d39a2d490247924897"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "timeline",
+    "features",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

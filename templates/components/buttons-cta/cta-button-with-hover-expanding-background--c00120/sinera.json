@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00120",
+  "title": "CTA Button with Hover Expanding Background",
+  "summary": "Rounded Tailwind CSS anchor button featuring a teal radial expand animation on hover, optional arrow icon, and bold CTA text. Ideal for call-to-action sections, landing pages, or marketing banners.",
+  "tags": [
+    "button",
+    "call-to-action",
+    "tailwind",
+    "hover-animation",
+    "icon-button",
+    "rounded",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2190,
+      "sha256": "054d777f4176a41e0468aa5911a1cc610e21d6349d6bce1f5fb7253eccddff4f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 760,
+      "sha256": "a271bdbdff2e29dc90e4aca5c172ad8817f59f99de4048e0a7a70753371b719e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1753,
+      "sha256": "1b21f53a6db5f09840af446e5acf4bcf3564043a5897e51eea3ef870fd030537"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

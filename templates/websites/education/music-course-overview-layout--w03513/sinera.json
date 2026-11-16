@@ -1,0 +1,60 @@
+{
+  "id": "SN-W03513",
+  "title": "Music Course Overview Layout",
+  "summary": "Responsive music course overview with three content cards and a dynamic WebGL animated background.",
+  "tags": [
+    "Music Course",
+    "Cards",
+    "Responsive Design",
+    "WebGL Background",
+    "Tailwind CSS",
+    "FontAwesome",
+    "Animation"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3053,
+      "sha256": "bf86541a8b668efefcf4fed122b238b13fef4e1ee912eae9d349741be25e9356"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15698,
+      "sha256": "8bdce7b710e8c4cdc16b32c8d09fa6920d1211214f7cc0f54946ca8f3a731c57"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 716,
+      "sha256": "b0a745040fbe0a0fe5b6f7a7bf76616a82be96d387edc5ae70a00f61089cfaef"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11157,
+      "sha256": "40e8a50711496f767f31fa26b6968b0f62d41ef5346a29b97aa8295cfc05bfb2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "snippet",
+  "components": [
+    "timeline",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "timeline",
+  "design": "DESIGN.md"
+}

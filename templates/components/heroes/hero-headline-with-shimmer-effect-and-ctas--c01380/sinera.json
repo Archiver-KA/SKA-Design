@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01380",
+  "title": "Hero Headline with Shimmer Effect and CTAs",
+  "summary": "Hero content block featuring an animated shimmer headline, supporting subheading, and two call-to-action buttons. Uses custom CSS keyframes and Tailwind-style utility classes. Ideal for landing pages highlighting product value propositions.",
+  "tags": [
+    "hero",
+    "section",
+    "animated",
+    "heading",
+    "cta",
+    "tailwind",
+    "landing",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20504,
+      "sha256": "c93fdc872015d8cd478f20bda0d00e0eef738b981dae7206207fe7e714ead8bd"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1811,
+      "sha256": "34d8970a09789a1fddbcd1903ccf6470581a251dc6aa513c1cd31ce1594ded35"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2674,
+      "sha256": "cfffb51a8132db45457f7453c2432fae54153a281744fde89e6fd18e11faac46"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

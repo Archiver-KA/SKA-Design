@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00281",
+  "title": "Shop Collection Button with Arrow Icon",
+  "summary": "Rounded call-to-action button labeled “Shop Collection” with an inline arrow icon. Features hover transitions that invert colors and slide the icon right, using utility classes for spacing, border, and backdrop blur. Ideal for ecommerce CTAs.",
+  "tags": [
+    "button",
+    "cta",
+    "icon",
+    "hover",
+    "animated",
+    "responsive",
+    "ecommerce"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3102,
+      "sha256": "34aaf240138f5d40154687c75a1f91754dddec71ec442d1149e562fd9218519f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 709,
+      "sha256": "9be0e3e69680fdc4c2fc89b511c7834bac2bd778dc0930402e41f23376c06b4a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1741,
+      "sha256": "432de7608e749f2016237091f43dd9bfdb805536a53dc090056c1d20da4ad244"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

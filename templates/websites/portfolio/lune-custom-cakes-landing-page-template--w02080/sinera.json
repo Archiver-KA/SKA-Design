@@ -1,0 +1,77 @@
+{
+  "id": "SN-W02080",
+  "title": "Lune Custom Cakes Landing Page Template",
+  "summary": "A high-end, brand-forward landing page template designed for artisan bakers and luxury confectioneries to showcase bespoke creations.",
+  "tags": [
+    "Services",
+    "Food",
+    "Minimal",
+    "Clean",
+    "Portfolio",
+    "Style",
+    "Business",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3784,
+      "sha256": "caf37af05eb65dd0a6bb8547e32400e9f049fbaa2602bdcf25c5a68b84dd267f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 24620,
+      "sha256": "68f813a4113eb385d9a45a441a2a462a11be139593f2168cb0fdd1315b2d3eef"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1068,
+      "sha256": "1c31df29796de9ea4b6a4d36855aa342571edba2397d256861c8e6221b384197"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 543,
+      "sha256": "5da058c8f19bd700cf164763d2a8af33f19bce6d85e7b92c75d5ce5af9f8c1e5"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 319,
+      "sha256": "afda40a0c0d1171985547646e1743cde10a395cde0d89e2849d27ce7f6d5d177"
+    },
+    {
+      "path": "index.html",
+      "bytes": 43900,
+      "sha256": "3fda5854db4d2e66146cc7913c5c8cc918d965ee7e45e17be2479dfcdf484d0c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "about",
+    "gallery-portfolio",
+    "how-it-works",
+    "features",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

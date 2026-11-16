@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01933",
+  "title": "Neural Audio Control Panel UI",
+  "summary": "Highly detailed audio processor control panel with master dial, VU meter, toggle switches, and sliders. Styled with Tailwind utility classes, ideal for dashboard widgets, audio tools, or showcasing hardware-inspired UI.",
+  "tags": [
+    "card",
+    "dashboard",
+    "audio",
+    "tailwind",
+    "ui",
+    "interactive",
+    "control",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9726,
+      "sha256": "fcbd044fc885d1d78fa003603a4dcd8f59ff460d501a4ee379b99b84910c5fed"
+    },
+    {
+      "path": "component.html",
+      "bytes": 15084,
+      "sha256": "7fa42607623a61ae90c79647bce879aed7f9412fa9735e9a85e77176c03ac886"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15934,
+      "sha256": "4bed79b2d36389e0a0c781b23ad7016f0107308761e2f266ce8ddb8cbf876227"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

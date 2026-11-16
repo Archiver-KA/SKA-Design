@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00713",
+  "title": "Code Snippet Feature Card with Gradient Background",
+  "summary": "Stylized feature card showing a deployment config snippet inside a frosted glass panel over a gradient grid. Uses Lucide icons and Tailwind CSS; perfect for landing pages or docs to highlight code-driven features.",
+  "tags": [
+    "card",
+    "code snippet",
+    "tailwind",
+    "feature",
+    "gradient",
+    "landing page",
+    "lucide"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6884,
+      "sha256": "4c7e26cf58e747df3b85e0502754ee7d13c64471d64b83ad20b94f41741ff08f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2815,
+      "sha256": "1a8e042e651e335a159a6e0924921f53cad2169018a3e41f5ae54793ac68e0d5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3686,
+      "sha256": "754c81b2c1d27ce101adc5d7d79e111305222e8452a94db132ccf74c62814e39"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

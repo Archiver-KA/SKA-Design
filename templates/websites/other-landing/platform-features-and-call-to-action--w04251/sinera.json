@@ -1,0 +1,83 @@
+{
+  "id": "SN-W04251",
+  "title": "Platform Features and Call to Action",
+  "summary": "Responsive feature section showcasing key platform benefits with icons, navigation, and call-to-action buttons using Tailwind CSS.",
+  "tags": [
+    "Features",
+    "Responsive",
+    "Tailwind CSS",
+    "UI Components",
+    "Call to Action",
+    "Navigation"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2990,
+      "sha256": "d9411333cfa1e7d52c6ea31a1b399cc3e7ff70f951e2e42c2d191b87f6f5336a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16288,
+      "sha256": "d40f7ccbd90e7dce0daa49f63693b0d9277a4351931da3b30b4422d240e0d98e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1722,
+      "sha256": "13b4bbcfd02b287e5c0d9577fda88ef0e78f30da9fe52899fa488d4367efda70"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 193,
+      "sha256": "e13a4dee5722cd8c3f7249274f413bccc1e16210707ddaa756fc763cef106cca"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 253,
+      "sha256": "35e92e0bf6eaadb355be61b786da696231497bd9b33173e3ec513f8e54dce0be"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 241,
+      "sha256": "32d29e2c5925fc639771188eb9317e67169090dd01f641551825085f693dd8a2"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 327,
+      "sha256": "266904aa00a7ee9aebd8b06ccaa1b8ad3c7a20d6f48d786983c6fec83bd400e9"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 489,
+      "sha256": "7cb85b7654d3f1dde1892e7409ccc490cf3d21762a3fc6d7920880cffa3abfe7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8431,
+      "sha256": "7346f00632a10e4c3c1f4d3e7b97f0d8fe33d130f311cbebb291575b4d47e5a3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "features"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

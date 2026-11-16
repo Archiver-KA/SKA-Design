@@ -1,0 +1,91 @@
+{
+  "id": "SN-W03682",
+  "title": "Coin Clicker Game Template",
+  "summary": "A high-performance incremental clicker game template featuring a sophisticated upgrade system and real-time stat tracking for web developers.",
+  "tags": [
+    "Technology",
+    "Entertainment",
+    "Animated",
+    "Dark",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "react",
+  "entry": ".config/opencode/package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": ".config/opencode/package.json",
+      "bytes": 65,
+      "sha256": "89eedeb9057a3465202c9844aa534f6c8c5f4c0fbd8cfc7875f8b2edbd289ebb"
+    },
+    {
+      "path": ".npm-cache/_npx/1d6e82a4126006c4/package.json",
+      "bytes": 48,
+      "sha256": "78ce47a927b8e59829d3ec5592691bde89850606e7c049a5494da85130e0ec0d"
+    },
+    {
+      "path": "DESIGN.md",
+      "bytes": 2185,
+      "sha256": "ab8ff729fc67ac0f973ad2f147e52c8d3023f11c02c68418c01754687cdfb04c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7740,
+      "sha256": "10fb2e8d56f04e043c83d04a94e79b911d887533bb31de9f5510f601731bc135"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 718,
+      "sha256": "8ddb872db3b790b604e0df0fbab13c5376b8db5d49f1fa143a51f27a98d7627d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 304,
+      "sha256": "98db30ce198bfd546879b1e6d542f4cb7921b416aa44f9577d262722f135de29"
+    },
+    {
+      "path": "package.json",
+      "bytes": 691,
+      "sha256": "51f0aac8dd0e5ab7e4a447cceab1d72890cc5ffc20d0045645121787eb46a837"
+    },
+    {
+      "path": "src/App.tsx",
+      "bytes": 7382,
+      "sha256": "e69f6534a50dcf123c177af886b0f2a9603a058e5eae6e98e2ee7178e8cb84e0"
+    },
+    {
+      "path": "src/main.tsx",
+      "bytes": 239,
+      "sha256": "cd0047b7cef0b82ccebb77c6117033351e1f47a4610f16185c98a76f989c0f84"
+    },
+    {
+      "path": "src/styles.css",
+      "bytes": 5774,
+      "sha256": "12d0c6ab715efa4f152c7d11540537aff2e700c26e535e3916b0d3ce737de5cb"
+    },
+    {
+      "path": "vite.config.ts",
+      "bytes": 163,
+      "sha256": "2d8b8a9c0291a6635f5efef200ae0fae8bfd0f5d57b3e456125e71aea661be6a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "snippet",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "snippetType": "other",
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

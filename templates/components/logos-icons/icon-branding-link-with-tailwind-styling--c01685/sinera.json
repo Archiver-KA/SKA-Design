@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01685",
+  "title": "Icon Branding Link with Tailwind Styling",
+  "summary": "Anchor link featuring a Lucide icon in a rounded badge and bold label, styled with Tailwind classes. Provides accessible focus states and suits header branding or navigation to overview/landing sections.",
+  "tags": [
+    "link",
+    "navigation",
+    "icon",
+    "branding",
+    "tailwind",
+    "accessible",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2222,
+      "sha256": "a6bff7dfd572437867a2c38c38afe9dd5a60b8ce735affa6e47cc977d13c4aac"
+    },
+    {
+      "path": "component.html",
+      "bytes": 940,
+      "sha256": "ae9adc839ea7027179d037b1a3d44f97d601b1b7e2d4be3be94505248c03d54e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1931,
+      "sha256": "e395e490be76753a49ca3d5fa2a0569cdd457a5148dddaaccec82afc3b8cf8b8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

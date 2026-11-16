@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02175",
+  "title": "Product Card with Gradient Overlay & Hover Zoom",
+  "summary": "Tailwind-styled product card showing a 3:4 image with a dark gradient overlay, title, and price. On hover the image subtly zooms, creating an interactive catalog or shop grid element suitable for fashion or e-commerce listings.",
+  "tags": [
+    "card",
+    "product",
+    "image",
+    "overlay",
+    "hover",
+    "tailwind",
+    "responsive",
+    "ecommerce"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26588,
+      "sha256": "10a80f3a92a14e5821e70e6663d989b8e3d40e9b25865bebeada246e01ff0629"
+    },
+    {
+      "path": "component.html",
+      "bytes": 673,
+      "sha256": "143dc5653078a0cbab34c246161ebf31c223ff5febe22100a01e4d3c27b542ac"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1545,
+      "sha256": "9e4d697270de777903ad7c7540efafa68c4b9566e9ce4ef63da41c56e8f469d0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

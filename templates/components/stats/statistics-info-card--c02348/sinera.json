@@ -1,0 +1,41 @@
+{
+  "id": "SN-C02348",
+  "title": "Statistics Info Card",
+  "summary": "An informational card with icon header, description, and grid layout for displaying key statistics or company metrics with visual emphasis.",
+  "tags": [
+    "statistics",
+    "info-card",
+    "grid",
+    "metrics",
+    "global"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6328,
+      "sha256": "f8cc99cb9ceaceea67be4c78edd63fe5d634efd9e8f926f2e393855fc14d08ea"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1171,
+      "sha256": "9e7303833ae21a206e8dea023b83e1fd9470e0a93564d2aa0379ee5db48cb1f6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2012,
+      "sha256": "3421c96447f18f9db107af1d32a2da0c7a47745a4505f189b33e28565a1b08ad"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

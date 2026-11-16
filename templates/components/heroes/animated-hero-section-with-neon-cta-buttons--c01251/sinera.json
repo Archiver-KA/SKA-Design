@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01251",
+  "title": "Animated Hero Section with Neon CTA Buttons",
+  "summary": "Full-screen hero banner with 3-D animated heading, pill highlight, subtitle and dual call-to-action buttons wrapped by neon SVG tracer. Styled with Tailwind CSS, perfect for SaaS or AI landing pages seeking a striking first impression.",
+  "tags": [
+    "hero",
+    "landing page",
+    "tailwind",
+    "animated",
+    "cta",
+    "responsive",
+    "svg"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19474,
+      "sha256": "fa007efea543f11d618b33456128ac08bc86d090899621ee4af3d5926cb9719e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4442,
+      "sha256": "c95698e48744d0e54d8bc462d3306a6510cf8c8328e9e4aaa1ab74af4554508c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5436,
+      "sha256": "8b3e42347a915313583411ef325188aa86be23f41b5ce9419336db96fa8f72f5"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "SN-W01615",
+  "title": "Landin Creative Agency Landing Page Template",
+  "summary": "A high-end dark mode template for creative studios and agencies to showcase portfolios, services, and subscription-based pricing models.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Portfolio",
+    "Services",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3263,
+      "sha256": "22341cab26042ff4121b3b10dc2168300aa221747e18951e6bd897d933578bcd"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11182,
+      "sha256": "84aa2a8c53fe7997484d5537aee4781038af7231adfb79abb0b5512af3d03061"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "9de9d548dcf9c3ad4fb08393005c964ec014eb58f71005fac2ef006d14b4beb0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29556,
+      "sha256": "7fa8b854666d06a6c3eda3f28681e6f46f4f18cb0b0a97d6e5ffb4bfb4f38b9e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "case-studies",
+    "bento-grid",
+    "product-grid",
+    "pricing",
+    "testimonials",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

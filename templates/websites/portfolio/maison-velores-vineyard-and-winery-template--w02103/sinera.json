@@ -1,0 +1,73 @@
+{
+  "id": "SN-W02103",
+  "title": "Maison Velorès Vineyard & Winery Template",
+  "summary": "A sophisticated, brand-forward template designed for premium vineyards and wineries to showcase their terroir, estate heritage, and wine collections.",
+  "tags": [
+    "Landing Page",
+    "Luxury",
+    "Brand",
+    "Agriculture",
+    "Minimal",
+    "Grid",
+    "Dark",
+    "Services",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3674,
+      "sha256": "ddd7e1583e973f8656a4bd708b88edb26aea131536b1e8db36b23f3611dcab9f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15364,
+      "sha256": "5fc6f032797abf2d276d281c4da1c50e0a08cf4a690b24fdb10b7a78db6d176b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 875,
+      "sha256": "a1c85fc80378c195f05e61241645d073378aeb6d40dd658680627eff9abb71b0"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 508,
+      "sha256": "e1728c8a2067cc29c1464a70bf7ba1b81d5c1a480eb57e936e0869841cb3fab6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33289,
+      "sha256": "568e9953a68faacf9dfd226e781a6b2e2ade0560b981c20356527da7a06c6aac"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "cta",
+    "stats",
+    "product-grid",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

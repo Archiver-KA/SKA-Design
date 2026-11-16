@@ -1,0 +1,66 @@
+{
+  "id": "SN-W03488",
+  "title": "K-12 Communications Platform Landing Page Template",
+  "summary": "A reusable landing page template for showcasing a K-12 district communications platform that streamlines multi-channel school messaging and demos.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Education",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3743,
+      "sha256": "435596fcf457c27d1e072c1d4258a42e6eb1988f9a3b278db7e94a4b14531561"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3236,
+      "sha256": "cca685b4a91afc6579c2ec7b7afe4350c6f34c2a79e8bec4180ed7784a41c1fd"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "10df00a1c7a40b23957714dab3625f56116eff967a02014e0c3b0acc7eefc864"
+    },
+    {
+      "path": "index.html",
+      "bytes": 45438,
+      "sha256": "e603624094712d5d6a492d618cca3e8cec1f895e70e8c70f023af74f8c10bb63"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "features",
+    "gallery-portfolio",
+    "pricing",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

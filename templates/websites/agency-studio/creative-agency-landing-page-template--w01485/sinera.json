@@ -1,0 +1,76 @@
+{
+  "id": "SN-W01485",
+  "title": "Creative Agency Landing Page Template",
+  "summary": "A high-end, dark-themed creative studio template designed for agencies and freelancers to showcase brand identity, digital products, and strategy work.",
+  "tags": [
+    "Brand",
+    "Technology",
+    "Portfolio",
+    "Services",
+    "Clean",
+    "Dark",
+    "Animated",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3864,
+      "sha256": "ddf026d2db966fb5a0251772b74586c6ee92eeb37f63c5152eb966a1d5b777b2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18844,
+      "sha256": "5efda41817632e97a2d802d8f6cee203f47e2131804e312f24c09c89bc1b75aa"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 874,
+      "sha256": "1a062a89cdeefdc4e0e19705d6ab6fda9f78c40edd173264b7f1a4021c86fe99"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 291,
+      "sha256": "bca19ef4aa8ba5f04165931865e0711d09cd5a2874ccb30bb42e697117fa7f67"
+    },
+    {
+      "path": "index.html",
+      "bytes": 50981,
+      "sha256": "f7dc89ff23ca643d872392ad20a153e62d6ba82fc6d2b1a0a7ca35ae1b428585"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "services",
+    "features",
+    "how-it-works",
+    "testimonials",
+    "case-studies",
+    "logo-cloud",
+    "blog-articles",
+    "faq",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00310",
+  "title": "Analog Rack Preamp UI Panel",
+  "summary": "Highly detailed analog-style rack preamp panel with toggle switches, rotary knobs, dual animated VU meters, and power indicator. Built with Tailwind-style utility classes for use as a decorative audio control UI block or hero UI showcase.",
+  "tags": [
+    "ui",
+    "interactive",
+    "animated",
+    "tailwind",
+    "audio",
+    "visual"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8162,
+      "sha256": "8fb180bb61778ac6af0e18e488354c8fdb89f534a01c2ba97816c9192e8733b8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 21633,
+      "sha256": "29433f7819016591ac8bd252f5c449f8b83a32e0de8978641d8b627a416c7056"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22571,
+      "sha256": "cc1d5a436b50594cfe5bc4a451f575f5682e4a2063a7f9b954e0102e0c6d3ace"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

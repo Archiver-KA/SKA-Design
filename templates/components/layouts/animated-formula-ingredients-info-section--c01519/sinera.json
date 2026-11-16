@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01519",
+  "title": "Animated Formula Ingredients Info Section",
+  "summary": "Full-width ingredients section with a parallax animated molecule graphic, large background title, and a responsive 3-column table listing ingredient names, chemical structures, and functions. Built with Tailwind-style utility classes for modern product or skincare landing pages.",
+  "tags": [
+    "feature",
+    "section",
+    "animated",
+    "responsive",
+    "tailwind",
+    "table",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5058,
+      "sha256": "dc837b9df06e259a97f9781f786bc1ef0eede232384b07e66d80fd01b61dc4f0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4146,
+      "sha256": "d5d0016f8ff548bdbe8ade733e0a6243cd610597b32bc4d46e18c4c0d9ffd327"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5008,
+      "sha256": "23eedb5fd46ab8ea1cacc9383b9218a1ecfa5e00dde53e8f57fc154062e71fc6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

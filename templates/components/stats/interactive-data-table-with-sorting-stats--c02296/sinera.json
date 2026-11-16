@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02296",
+  "title": "Interactive Data Table with Sorting & Stats",
+  "summary": "Tailwind-styled dark-mode data table featuring sortable columns, pagination, row/column badges, CSV export button, and a responsive side panel displaying column statistics. Ideal for dashboards or data explorer interfaces.",
+  "tags": [
+    "table",
+    "data table",
+    "sortable",
+    "pagination",
+    "tailwind",
+    "dark mode",
+    "stats panel",
+    "csv export",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16658,
+      "sha256": "0df8f8a1cef5a6a00ec9b4068f57620aa6913004afef213793dac2c0246ac09b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 25602,
+      "sha256": "22456602e774214051309266384e201d423851c0f353c644eac6c0c35224a493"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26470,
+      "sha256": "200890e8ffea56da6f07e9377d80aa8c0f5e0196bb512cb6c485487b99215359"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

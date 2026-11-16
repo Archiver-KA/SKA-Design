@@ -1,0 +1,64 @@
+{
+  "id": "SN-W03990",
+  "title": "LexVia Legal Services Landing Page Template",
+  "summary": "Modern LexVia-inspired law firm landing page template for Italian legal practices focused on insurance claims and personal injury compensation.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3679,
+      "sha256": "8debd2d7b85bcdfebefe7412809cf4927a7cf61ca7c18203bd6f73d47997beb2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14676,
+      "sha256": "4a6a9c2b98861d8bc81faf556e4ccf43376d23a797fb396cf069edf351c65972"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "aa9a2640baa0fa4f803f7990065efeff0eab7e334575d8cf1f275c944c2ac549"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28157,
+      "sha256": "66a760aaf8382a0fe6c3da15a41b38d0c4f04ac4c4f536cce72911350d4065e7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "how-it-works",
+    "features",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,37 @@
+<svg viewBox="0 0 400 350" class="w-full h-full drop-shadow-2xl">
+                                <!-- Background Elements -->
+                                <circle cx="50" cy="50" r="8" class="fill-red-400 opacity-60 anim-float" />
+                                <circle cx="350" cy="300" r="12" class="fill-blue-200 opacity-60 anim-float-delayed" />
+                                
+                                <!-- Back Folder -->
+                                <path d="M50 120 H250 V300 H50 Z" class="fill-indigo-500" rx="10" />
+                                <rect x="50" y="120" width="80" height="40" class="fill-indigo-600" />
+                                
+                                <!-- Main Document Sheet -->
+                                <g class="anim-float">
+                                    <path d="M150 50 H330 V280 H150 V50 Z" class="fill-indigo-100 shadow-xl" />
+                                    <!-- Folded Corner effect -->
+                                    <path d="M330 50 V90 H290" class="fill-white opacity-50" />
+                                    <!-- Lines -->
+                                    <rect x="180" y="100" width="120" height="6" class="fill-indigo-300" rx="3" />
+                                    <rect x="180" y="120" width="120" height="6" class="fill-indigo-300" rx="3" />
+                                    <rect x="180" y="140" width="80" height="6" class="fill-indigo-300" rx="3" />
+                                    
+                                    <!-- Signature Badge -->
+                                    <circle cx="290" cy="240" r="25" class="fill-rose-500 opacity-90" />
+                                    <path d="M280 240 L287 247 L300 234" stroke="white" stroke-width="3" fill="none" />
+                                </g>
+
+                                <!-- Floating Window Front -->
+                                <g transform="translate(40, 180)" class="anim-float-delayed">
+                                    <rect x="0" y="0" width="160" height="100" rx="6" class="fill-white shadow-lg border border-slate-100" />
+                                    <!-- Window Header -->
+                                    <rect x="0" y="0" width="160" height="24" rx="6" class="fill-blue-950" />
+                                    <circle cx="15" cy="12" r="3" class="fill-white opacity-50" />
+                                    <circle cx="25" cy="12" r="3" class="fill-white opacity-50" />
+                                    <!-- Window Body -->
+                                    <rect x="20" y="40" width="80" height="4" class="fill-slate-200" rx="2" />
+                                    <rect x="20" y="55" width="120" height="4" class="fill-slate-200" rx="2" />
+                                    <rect x="20" y="70" width="100" height="4" class="fill-slate-200" rx="2" />
+                                </g>
+                            </svg>

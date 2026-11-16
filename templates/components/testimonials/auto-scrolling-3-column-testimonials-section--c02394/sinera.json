@@ -1,0 +1,46 @@
+{
+  "id": "SN-C02394",
+  "title": "Auto-Scrolling 3-Column Testimonials Section",
+  "summary": "Responsive Tailwind CSS section displaying user testimonials in three vertical columns that auto-scroll (direction alternates) and pause on hover. Includes avatars, star rating summary, and gradient masking—ideal for landing or product pages needing social proof.",
+  "tags": [
+    "testimonials",
+    "carousel",
+    "auto-scroll",
+    "tailwind",
+    "responsive",
+    "rating",
+    "grid",
+    "animation",
+    "section",
+    "testimonial"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 35254,
+      "sha256": "ffda9bf3c514fe450e16cc1410bb52f5588c93f480083cf05b81cae274479669"
+    },
+    {
+      "path": "component.html",
+      "bytes": 22758,
+      "sha256": "2c8a9fe4547cb7ad5bcb6c95bf661aa160baaf303cb524db9f2d63eee32cc5fb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23753,
+      "sha256": "70f39ea4640271750b17e4a22cdea2e989b0cbd65059f952023985fc0d2daf32"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

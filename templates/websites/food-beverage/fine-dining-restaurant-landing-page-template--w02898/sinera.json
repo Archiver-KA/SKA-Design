@@ -1,0 +1,71 @@
+{
+  "id": "SN-W02898",
+  "title": "Fine Dining Restaurant Landing Page Template",
+  "summary": "A modern fine dining restaurant landing page template for showcasing menus, chef stories, and reservations with a luxurious, atmospheric design.",
+  "tags": [
+    "Food",
+    "Landing Page",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Clean",
+    "Gradient",
+    "Restaurant",
+    "Fine Dining"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3897,
+      "sha256": "d40d9a68bbfd29dd3d755165277eda85feb851fb79caccc06c1b06677f2c380f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22959,
+      "sha256": "99a14f3c0bd14b2ce1b4f88df1e1bfcbc4121bc89dd6407fa31e45148c23e894"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 824,
+      "sha256": "ea63f790ae04678c115275041608f879bcf4618400d63ce0a7a2cb2d0433e8ec"
+    },
+    {
+      "path": "index.html",
+      "bytes": 51925,
+      "sha256": "8160ec675342a5f0a8c5f396e47bc8d08a743ef9ceb0761f9ddf071309fdcada"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "bento-grid",
+    "menu-list",
+    "gallery-portfolio",
+    "listings",
+    "testimonials",
+    "cta",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

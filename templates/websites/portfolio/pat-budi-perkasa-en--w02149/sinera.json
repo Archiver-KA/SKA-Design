@@ -1,0 +1,71 @@
+{
+  "id": "SN-W02149",
+  "title": "Pat Budi Perkasa EN",
+  "summary": "A dark, futuristic digital agency landing page template for showcasing services, case studies, and a conversion-focused project inquiry form.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Services",
+    "Technology",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3716,
+      "sha256": "180d7a25bae931ec7c6fb847c49b0ebdaec45089f46b03f1964dd8f35fd9b454"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9682,
+      "sha256": "fce704c742afd407f2dd39d781326e35b45ca2a368b31f4f3dfa7a6f96485e41"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 847,
+      "sha256": "47df84116a67b0355e330677f3eed21d109b85cbb76f67e63db84496d0bea33a"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 206,
+      "sha256": "23f8760cb524faf96dedae06c15b5cab5ed6b5d9093cac9a9441cf601de59d75"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32061,
+      "sha256": "542431d46ed077c3efff7cc333e49b9516581e9bc5eba7e7bc2ed263749bc34b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "blog-articles",
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "gallery-portfolio",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

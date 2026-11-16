@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01540",
+  "title": "Featured Articles Section with Topic Sidebar",
+  "summary": "Responsive Tailwind section that showcases a highlighted article next to a filterable topic sidebar. Includes hover-lift effects, scroll animation, and tag chips—ideal for blog or landing pages spotlighting curated content.",
+  "tags": [
+    "section",
+    "articles",
+    "tailwind",
+    "responsive",
+    "hover",
+    "animated",
+    "blog",
+    "filter"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 32258,
+      "sha256": "bcbf285662f4c6226cb477273d2d9b3fec2e34b5568866f449c56ab617ec626f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5387,
+      "sha256": "1385b194e388f06749c9e3791b0b7764fab0e7e97836e1752b1ac1c883e3d2cf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6382,
+      "sha256": "41f1e13dbd013787e79395576c010e2bc2c06844b3680bfe07efdd307cfd30cb"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

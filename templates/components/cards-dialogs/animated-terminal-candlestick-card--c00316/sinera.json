@@ -1,0 +1,37 @@
+{
+  "id": "SN-C00316",
+  "title": "Animated Terminal Candlestick Card",
+  "summary": "A dark skeuomorphic dashboard card featuring an animated candlestick chart, hover tooltip, and telemetry-style content. Built with Tailwind CSS and vanilla JavaScript for finance, analytics, or monitoring UI displays.",
+  "tags": [
+    "card",
+    "tailwind",
+    "animated",
+    "dashboard",
+    "chart",
+    "interactive",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8210,
+      "sha256": "17c661d087d1903b539024a139b6dd1503e0e229a1bb28be924b622b3a3e537b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15945,
+      "sha256": "996ebf3fa5edb9719d5aee01d1f3a29fd113c5fae934f26c59b83d8cb15ec19e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

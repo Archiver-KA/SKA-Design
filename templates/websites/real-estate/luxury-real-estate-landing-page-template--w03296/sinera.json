@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03296",
+  "title": "Luxury Real Estate Landing Page Template",
+  "summary": "A premium real estate agency template for showcasing listings, neighborhoods, team expertise, testimonials, and property valuation services.",
+  "tags": [
+    "Real Estate",
+    "Landing Page",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Luxury",
+    "Premium",
+    "Listings",
+    "Local Agency"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3789,
+      "sha256": "bb06003090d80297aaae418eaf156653d4e7a1003cc76b8d3002544794968c09"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 66000,
+      "sha256": "b611212f710cc2a0532fdaef65a1469f42abecba3dfa08b43a8d784b34bdb29c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "435ccc141212648e8c2d42eacffecec7410bb558b85647eab3602f7e28d5222e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39855,
+      "sha256": "0f588655cac6d513319bb11e8af09373b035fde77a2f6001665962508fa08834"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "services",
+    "testimonials",
+    "gallery-portfolio",
+    "pricing",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

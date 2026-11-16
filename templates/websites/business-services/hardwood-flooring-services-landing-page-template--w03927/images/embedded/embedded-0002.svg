@@ -1,0 +1,14 @@
+<svg viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="1.2" class="w-full h-full">
+                        <!-- Outer Leaf Shape -->
+                        <path d="M20 38C20 38 35 28 35 14C35 8 30 2 20 2C10 2 5 8 5 14C5 28 20 38 20 38Z" class="opacity-100" stroke-linejoin="round"/>
+                        <!-- Center Vein -->
+                        <line x1="20" y1="2" x2="20" y2="38" />
+                        <!-- Left Veins -->
+                        <path d="M20 10L10 16" />
+                        <path d="M20 18L8 24" />
+                        <path d="M20 26L12 30" />
+                        <!-- Right Veins -->
+                        <path d="M20 10L30 16" />
+                        <path d="M20 18L32 24" />
+                        <path d="M20 26L28 30" />
+                    </svg>

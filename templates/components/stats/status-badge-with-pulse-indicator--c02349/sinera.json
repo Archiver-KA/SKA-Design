@@ -1,0 +1,41 @@
+{
+  "id": "SN-C02349",
+  "title": "Status Badge with Pulse Indicator",
+  "summary": "A compact status badge with an animated pulse dot, perfect for showing availability, booking status, or system health. Features emerald green theme with customizable text.",
+  "tags": [
+    "button",
+    "status",
+    "badge",
+    "animated",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1066,
+      "sha256": "975f71ed99bd309540122a08bb88be8920b43089c3c72cce2328e405a5dfe96e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 228,
+      "sha256": "179b46df2f5eaa304d2677e3a9e4adc39e3bee6eed5dcb1162cf619ebb9bafdb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1082,
+      "sha256": "0d9aedea8b50ca929b745474e954b0deef03f9f1aebb38d98cf52e4576f8e3a4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

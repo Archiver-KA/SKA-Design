@@ -1,0 +1,70 @@
+{
+  "id": "SN-W03238",
+  "title": "Forma Interior Design Landing Page Template",
+  "summary": "This reusable landing page template is designed for interior design studios aiming to showcase portfolio, services, and client testimonials with elegant visuals and user-friendly navigation.",
+  "tags": [
+    "Landing Page",
+    "Interior Design",
+    "Portfolio",
+    "Services",
+    "Testimonials",
+    "Contact Form",
+    "Parallax",
+    "Animation",
+    "Responsive",
+    "Consultation"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3904,
+      "sha256": "ae6c4a1b7ea7a8a91eb0028ed532908f94fee7859a9331e480b093c90ffe1bf4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14050,
+      "sha256": "25d237e8684fc0285d5d8d76b5acaa05b340fe14bcd322380031dc5ea5e874f2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "cc144edee0a9fd3aaefcb231b3d7cce24235b422cdba2164677316b4657b09da"
+    },
+    {
+      "path": "index.html",
+      "bytes": 87556,
+      "sha256": "f2b14ea3568286f7d91cd8f73f262fdc989e28f9cc1ec431e97fa71bd889c016"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "how-it-works",
+    "gallery-portfolio",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

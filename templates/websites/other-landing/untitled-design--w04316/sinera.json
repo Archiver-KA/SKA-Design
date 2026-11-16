@@ -1,0 +1,56 @@
+{
+  "id": "SN-W04316",
+  "title": "Untitled Design",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3513,
+      "sha256": "258177f173891051bd67336fcd9172c9c7389cabe3c51953000379e629793310"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19708,
+      "sha256": "71439b3fa805a046b9d1f6445f3b5da58a682dae43ef9645843a4ec6a499388c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 792,
+      "sha256": "ddad63c228739d96919e846a1e43866aa4f10f54611444d02b1576e11f3744e9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19687,
+      "sha256": "f2e5464b4bc486e8c610d9de56aed136fa09044718fd927dda4dcd36bcd77ea5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

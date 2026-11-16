@@ -1,0 +1,22 @@
+<svg viewBox="0 0 400 200" class="w-[582px] h-[302px]" preserveAspectRatio="none" stroke-width="2" data-icon-replaced="true" style="color: rgb(161, 161, 170); width: 582px; height: 302px;">
+                             <defs>
+                                 <linearGradient id="gradient" x1="0" x2="0" y1="0" y2="1">
+                                     <stop offset="0%" stop-color="#f97316" stop-opacity="0.3"></stop>
+                                     <stop offset="100%" stop-color="#f97316" stop-opacity="0"></stop>
+                                 </linearGradient>
+                                 <filter id="glow">
+                                    <feGaussianBlur stdDeviation="3" result="coloredBlur"></feGaussianBlur>
+                                    <feMerge>
+                                        <feMergeNode in="coloredBlur"></feMergeNode>
+                                        <feMergeNode in="SourceGraphic"></feMergeNode>
+                                    </feMerge>
+                                </filter>
+                             </defs>
+                             <path d="M0,150 C50,150 100,100 150,120 S250,50 300,80 S350,20 400,10 V200 H0 Z" fill="url(#gradient)" class=""></path>
+                             <path d="M0,150 C50,150 100,100 150,120 S250,50 300,80 S350,20 400,10" fill="none" stroke="#f97316" stroke-width="2.5" filter="url(#glow)" stroke-linecap="round" class=""></path>
+                             
+                             <!-- Data Points -->
+                             <circle cx="150" cy="120" r="3" fill="#080808" stroke="#f97316" stroke-width="2"></circle>
+                             <circle cx="300" cy="80" r="3" fill="#080808" stroke="#f97316" stroke-width="2"></circle>
+                             <circle cx="400" cy="10" r="3" fill="#080808" stroke="#f97316" stroke-width="2"></circle>
+                         </svg>

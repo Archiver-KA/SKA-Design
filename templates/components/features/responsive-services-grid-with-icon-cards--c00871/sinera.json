@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00871",
+  "title": "Responsive Services Grid with Icon Cards",
+  "summary": "Tailwind-styled section featuring headline, CTA button, and three service cards with icons, hover shadow, and check-list items. Ideal for landing pages or agency sites to present offerings clearly across all screen sizes.",
+  "tags": [
+    "services",
+    "grid",
+    "tailwind",
+    "responsive",
+    "cta",
+    "icon",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26418,
+      "sha256": "3cb8f138cbd6b95cc523456c8de0bb959e0c49aa99fe6b0366be2aebd41e8382"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7389,
+      "sha256": "6120f688b5f69c778ce80de6003a3d79fd0d0ba59009771e62b5e2e9ecdc31c0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8380,
+      "sha256": "b81f5d93b08ece9c474a58c36bfe0c6409a3044733ae06eb67efd92f1959a6ea"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

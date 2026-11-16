@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01463",
+  "title": "Responsive Hero Banner with CTA Button",
+  "summary": "Hero section featuring bold headline, supporting text and icon-enhanced play CTA that links to a showreel. Styled with Tailwind CSS utilities, responsive typography, backdrop blur and hover effects. Suited for landing pages, portfolios and marketing sites.",
+  "tags": [
+    "hero",
+    "banner",
+    "cta",
+    "tailwind",
+    "responsive",
+    "icon",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 28048,
+      "sha256": "f60c1460fd3d28ccc6c853b95e30dc9aae416274a0ea4ce5b051a65bf220da2f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1257,
+      "sha256": "85da5ee82272f345803f330812e4bb61cdbcb24749cd108c2ab766015e12f298"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2246,
+      "sha256": "ddb7670f9903035a6d6d8b6752cb85a2df2d8a5832530c67b660e4c405f905a8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

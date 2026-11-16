@@ -1,0 +1,76 @@
+{
+  "id": "SN-W03952",
+  "title": "Industrial Manufacturing Landing Page Template",
+  "summary": "A reusable landing page template for precision manufacturing and OEM component suppliers to showcase capabilities, certifications, and case study projects.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Large Type",
+    "Gradient",
+    "Portfolio",
+    "Industrial"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3826,
+      "sha256": "e58199da901371cae052c5262c2f22835132990b4cc07bc81475ff096dacafe8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21362,
+      "sha256": "4e20399692b80d00ee8034567f1b8bd9a76720195857b9dca5c05b1d58a390ad"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 972,
+      "sha256": "8c7a01005d5cbfd99fe099f97e450047e1c24c6b5f4086c5f2f50268a24c1704"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 637,
+      "sha256": "efc919fda442cb874ee2f71c7fdc7675171ba688ba130c5b05113152a1e05f6e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 46723,
+      "sha256": "c743f79570600c67a0bc68bf8261c4160936ac98290fc6f64ea3bcc5101c5ebe"
+    }
+  ],
+  "collection": "logistics",
+  "collectionCategory": "industry",
+  "collectionLabel": "Logistics",
+  "collectionCategoryLabel": "Industry / Energy",
+  "collectionConfidence": 0.88,
+  "collectionBasis": "business-keywords",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "bento-grid",
+    "how-it-works",
+    "case-studies",
+    "modal-overlay",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

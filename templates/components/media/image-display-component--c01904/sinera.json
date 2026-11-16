@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01904",
+  "title": "Image Display Component",
+  "summary": "A simple, responsive image container that displays an external image with proper aspect ratio and loading optimization. Ideal for product photos, featured images, or gallery items.",
+  "tags": [
+    "card",
+    "image",
+    "responsive",
+    "shadow",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 31712,
+      "sha256": "c1ee048e656f65aca2805e5faaaef3937259dbf68b4eb15b47527edc2eb19566"
+    },
+    {
+      "path": "component.html",
+      "bytes": 284,
+      "sha256": "33199725fc7723cfcff435ba9b43599ed0352ea310b3f98730f921b776c80eeb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1128,
+      "sha256": "5bd7770c0d4d3d54eeafb32fa4748a4fd8c45bff2ca46db88cb6f74507181a84"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

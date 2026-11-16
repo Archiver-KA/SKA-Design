@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00268",
+  "title": "Rounded Icon Action Button Toolbar",
+  "summary": "Horizontal flex container holding four circular icon buttons (link, shuffle, refresh, undo) styled with Tailwind CSS and Lucide icons. Provides compact, hover-responsive action controls for headers, cards, or tool panels.",
+  "tags": [
+    "button",
+    "toolbar",
+    "icon",
+    "tailwind",
+    "rounded",
+    "actions",
+    "lucide"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2452,
+      "sha256": "85e2420d0d3d51bc193dece672b3112a89caa77cf69f3041cb838e9bb4a3c42b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2600,
+      "sha256": "4126792c31ad10942db4e27e8a2d52cf85919a13184d25b884400dfaf73c430b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3585,
+      "sha256": "752b7848d19f26e403cf7cebd663a8dcbdc62bf25840c0047695236ea9236579"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

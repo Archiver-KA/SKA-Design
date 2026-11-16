@@ -1,0 +1,75 @@
+{
+  "id": "SN-W03871",
+  "title": "Corporate Comedy Booking Landing Page Template",
+  "summary": "A reusable landing page template designed for booking corporate entertainment services featuring comedy, emcee, and workshops to boost morale and engagement.",
+  "tags": [
+    "Landing Page",
+    "Booking",
+    "Comedy",
+    "Corporate Events",
+    "Services",
+    "Testimonials",
+    "Schedule",
+    "Contact Form",
+    "Video",
+    "Workshop"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3676,
+      "sha256": "ff1acccc13bbeba9238ce70f5a1cbe986db252d69063f5c892c76f4466053155"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16044,
+      "sha256": "ce74ea27c44a779beeab0a51dfef77a64a09ca29d56a66f1198091ae5dd8aedd"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 882,
+      "sha256": "93d6ea2acc6859a0d6f83d8139da69a3e1efc2a3eae716feb64a834d3c39027a"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 128,
+      "sha256": "26c93ac80fcc5f928a8e1e7d5aba78f30c2f4f578e189c9f43f2ce5e532c795a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37998,
+      "sha256": "52493b4688c8a8bc38e630c3806d04e5013fc55f0179a558a2fed845dbbe4ee2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "video-media",
+    "testimonials",
+    "schedule-agenda",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

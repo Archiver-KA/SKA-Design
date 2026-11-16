@@ -1,0 +1,78 @@
+{
+  "id": "SN-W03865",
+  "title": "Cleaning Services Landing Page Template",
+  "summary": "A refined cleaning services template for promoting domestic and office cleaning, showcasing services, testimonials, and quote requests.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Elegant",
+    "cleaning services",
+    "home services",
+    "quote form"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3551,
+      "sha256": "82266ab97b87ed266b2b82542627eddd1d4ae0586c14c076d1e697412f67ae3a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15200,
+      "sha256": "65ebf97a96089f9ab84e95135c73c43623cfd70818e312f38dae8e9255ba257b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1066,
+      "sha256": "539e84bf5b5702eb43c86b6c8b0788c4749d44afe61fcdc222c71606e66b9513"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "4c4dfe064469967eadcd16009f2a3d9bab3f67dc7c8b749677b940125743c017"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 311,
+      "sha256": "639fd38b991b19bbfd87fd71801e47147d72f2b0e42055cdc35e7a057121000b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 58931,
+      "sha256": "a71b5ca89fd390c8fe3fba8b3791f1f83cc616042cf3f119b39364cb6e4d614a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "about",
+    "features",
+    "stats",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

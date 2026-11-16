@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00768",
+  "title": "Glassmorphic Feature Grid with Hexagon Icons",
+  "summary": "Responsive three-column grid displaying product features. Each item shows a hexagon-clipped icon, title and text inside a glassmorphic card styled with Tailwind CSS—ideal for landing pages or pricing sections.",
+  "tags": [
+    "feature",
+    "grid",
+    "tailwind",
+    "card",
+    "glassmorphic",
+    "responsive",
+    "icon"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7744,
+      "sha256": "573e64a3b766bef6fe5a36d9e327b53d10899c3946be0679f9a7303540544f23"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3284,
+      "sha256": "6c67aba48203ebe202431cf5f31c85bb49eac0d352706c17bc0fd6c47c7d92c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4149,
+      "sha256": "75f938bbf0460a4219286aa23e5d632a0203762437641fa0fec3dee6a362f4ef"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

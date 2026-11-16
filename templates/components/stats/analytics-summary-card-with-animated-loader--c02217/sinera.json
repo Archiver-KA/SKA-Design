@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02217",
+  "title": "Analytics Summary Card with Animated Loader",
+  "summary": "Dashboard card showing earnings report, metric value, and radial animated progress loader with orbiting dots. Styled with Tailwind classes and custom CSS, ideal for analytics or finance dashboards to visualize KPIs and progress percentages.",
+  "tags": [
+    "card",
+    "dashboard",
+    "analytics",
+    "tailwind",
+    "animated",
+    "loader",
+    "progress",
+    "widget"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8330,
+      "sha256": "a89d009d9fe15267b22795bbee9af5febfba1d296fbcbff57594297e83e07db1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4745,
+      "sha256": "d44757df0f01a42386b120ab877b7c81abc2ad717766b754cfef74c4a30946dd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5609,
+      "sha256": "693de8266958811a596effe72a5adb05c91796f4faa8f59655ed8594f3ec6364"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

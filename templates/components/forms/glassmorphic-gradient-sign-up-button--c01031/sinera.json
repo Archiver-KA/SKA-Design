@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01031",
+  "title": "Glassmorphic Gradient Sign-Up Button",
+  "summary": "Animated call-to-action button with glassmorphic blur, diagonal gradient, hover lift/scale, and underline highlight. Built with Tailwind classes plus custom CSS; ideal for sign-up prompts or primary actions on modern UIs.",
+  "tags": [
+    "button",
+    "tailwind",
+    "gradient",
+    "glassmorphic",
+    "animated",
+    "hover",
+    "interactive",
+    "signup"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1444,
+      "sha256": "5ab76068b5386201d29f05589221b3878002ed5d3071a9b411aa73d103fade64"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1029,
+      "sha256": "7eb846e851c265350e7b6218fe50de2f68bce0f8caff6645b1af37431c80be43"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1886,
+      "sha256": "c0dee16ffeadb463ef7e1d54febc71d4b143950f4d78d0c1c3e6a396dbf80e0d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

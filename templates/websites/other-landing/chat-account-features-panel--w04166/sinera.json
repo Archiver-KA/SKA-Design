@@ -1,0 +1,62 @@
+{
+  "id": "SN-W04166",
+  "title": "Chat Account Features Panel",
+  "summary": "UI panel displaying chat account features with animated border and gradient upgrade button using Tailwind CSS.",
+  "tags": [
+    "Features",
+    "Animated Border",
+    "Gradient Button",
+    "Tailwind CSS",
+    "UI Panel"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2768,
+      "sha256": "f0c533c3adda432228c7fdbfc99ad23c663860e25bd20680b5ae03880017c2ac"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6750,
+      "sha256": "3b5375cd556e6b5822a7e56881681fe6c62d7199f62743153c38b358ca939f67"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 998,
+      "sha256": "4bc7bd1e379bf6020585d56699fdf063e78693367e213b8435f6c6e630b9ccbf"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 358,
+      "sha256": "1fd9ab1947b2a22d93ccd5fa2e30486677b2d2c05b19d9bb8c6fd26f8a368347"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7530,
+      "sha256": "73df193b3c24d6da5ad097f09ac7dd8e77cfdd1b8ed2c2addbc256a552ba160d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "features"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "features",
+  "design": "DESIGN.md"
+}

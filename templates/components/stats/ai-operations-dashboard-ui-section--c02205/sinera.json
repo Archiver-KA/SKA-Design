@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02205",
+  "title": "AI Operations Dashboard UI Section",
+  "summary": "A dark, animated dashboard-style section showcasing AI operations metrics, activity charts, logs, radar monitoring, and threat status. Built with Tailwind CSS-style utilities and Iconify icons, ideal for SaaS, admin, or cybersecurity product landing pages.",
+  "tags": [
+    "ui",
+    "dashboard",
+    "tailwind",
+    "dark",
+    "animated",
+    "monitoring",
+    "admin",
+    "cybersecurity"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14240,
+      "sha256": "2a343f38dd5cc66a14f9cbc2e2e64c80453dbd84703e4582ba4bf7b586457d21"
+    },
+    {
+      "path": "component.html",
+      "bytes": 14013,
+      "sha256": "66fa784cf265061f3475702cbe2f327def7bda49177227c2414a9cf6c4f83cb2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14868,
+      "sha256": "71d7afd4b90e12864caf424fdeb604e51e7088d546f94e09174b76cd763d3ad2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

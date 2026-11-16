@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01691",
+  "title": "Inline SVG Wordmark Logo Component",
+  "summary": "Scalable SVG logo/wordmark utilizing currentColor, ideal for headers, footers, or branding areas; responsive and style-agnostic for easy theme integration.",
+  "tags": [
+    "svg",
+    "logo",
+    "wordmark",
+    "icon",
+    "scalable",
+    "responsive",
+    "currentcolor",
+    "branding"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1926,
+      "sha256": "6bdf936443a7f5cc2b7af59bd5cdf6acf67c9ab2ae5326aaa67bade0ca6aade6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1664,
+      "sha256": "bc0e55db1cf707c78894bbc3ed9901dc28a2d37f5e02c807ec0998de32c2c770"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2519,
+      "sha256": "78f3a9a5a990d2d64d856e661043ad1169ead1c9be468da1a5aea093ec182135"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02270",
+  "title": "Featured Live Stream Dashboard Panel",
+  "summary": "Responsive Tailwind panel showcasing a featured live video with play overlay, real-time view count, active observation list, and quick stats—ideal for streaming dashboards, observatories, or media sites.",
+  "tags": [
+    "card",
+    "dashboard",
+    "video",
+    "live",
+    "tailwind",
+    "responsive",
+    "stream",
+    "grid",
+    "overlay"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 25616,
+      "sha256": "f77cd5a29adb9a7e8322a6a271f837f76054a225a758610f75eff4c90da960c4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9759,
+      "sha256": "f752cd82fb0ca4f2544322aac7e5bc49194725c7f77e656c50dfe6c07e31c6d4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10746,
+      "sha256": "871606a11576106192c4a79934d36fbaef979cc2f3542547c4486c759416e367"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

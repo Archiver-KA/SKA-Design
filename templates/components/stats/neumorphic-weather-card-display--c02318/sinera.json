@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02318",
+  "title": "Neumorphic Weather Card Display",
+  "summary": "Compact weather card with neumorphic styling showing current temperature, high/low range, location, and condition icon. Uses Tailwind utility classes and gradients for a dashboard-ready, interactive, hoverable UI element.",
+  "tags": [
+    "card",
+    "weather",
+    "neumorphic",
+    "tailwind",
+    "ui",
+    "dashboard",
+    "compact"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3294,
+      "sha256": "1b59ee222a065a984ccd0043bdc3188bce7f0d65ad7442670601552fd5007122"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1992,
+      "sha256": "eb84ebb37b672940f24cee9d764bd85e005b614cc302dda65c2315bc18641f4b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2934,
+      "sha256": "5826663935c336068f64499907016fb1612fcce8b0d698ab6e70b6c53b1bea64"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

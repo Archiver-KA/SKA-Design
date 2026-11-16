@@ -1,0 +1,71 @@
+{
+  "id": "SN-W03227",
+  "title": "Construction Supply Landing Page Template",
+  "summary": "A modern MATRL-inspired landing page template for construction material distributors to showcase inventory, logistics, projects, and quote requests.",
+  "tags": [
+    "Landing Page",
+    "Business",
+    "Services",
+    "Technology",
+    "Clean",
+    "Minimal",
+    "Grid",
+    "Large Type",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3877,
+      "sha256": "dcd99ceccf0f1618455eccaf5b42856fcc6c1f5848dcabadde6c935d9d060446"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 41296,
+      "sha256": "64b3b8b662dfbd1e1f24c7afe7ba88be92d67f54f85cff2571cc19f257e982e5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 822,
+      "sha256": "1d17063c3b3dbc5b566b5a94a86b586d78a45c81e22d16fdbfcbcb9156255e5f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34096,
+      "sha256": "78f589104902d44f324f2fd2a2de2c60b188b8efcdfbd122f4c2d229ba5b4557"
+    }
+  ],
+  "collection": "logistics",
+  "collectionCategory": "industry",
+  "collectionLabel": "Logistics",
+  "collectionCategoryLabel": "Industry / Energy",
+  "collectionConfidence": 0.88,
+  "collectionBasis": "business-keywords",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "listings",
+    "how-it-works",
+    "case-studies",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

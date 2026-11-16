@@ -1,0 +1,79 @@
+{
+  "id": "SN-W04104",
+  "title": "Sustainable Materials Landing Page Template",
+  "summary": "A reusable landing page template for eco-material brands showcasing recycled product innovation, applications, process, FAQs, and consultation requests.",
+  "tags": [
+    "Landing Page",
+    "Environmental",
+    "Services",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Sustainability",
+    "Materials",
+    "Manufacturing"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3678,
+      "sha256": "5c76462c408c75d05e5054fa97ed2b4678b74146a8ec2bbad18f25786a8d8c32"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10226,
+      "sha256": "cd0e229c82323261c2ff69b1091c680ada2710eaa3feb3fc87b794260108ae73"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1071,
+      "sha256": "2e03448165d4fcb959fff0753a4ce39f9e42592788c062909d5c66d4abb76b8d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "845a8c33647082b21c3db87d511ee26caa07aa7a2c9bf6b015aad47a996ab97f"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 206,
+      "sha256": "5c401d0439cf47c949a648fa65689979f3780255f5beeb80d0755978c18bbd08"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37253,
+      "sha256": "04e1661949ff52b9e50333c4b2b77c0327d0e9d6d9e553236e4e178ce08275a6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "features",
+    "how-it-works",
+    "faq",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

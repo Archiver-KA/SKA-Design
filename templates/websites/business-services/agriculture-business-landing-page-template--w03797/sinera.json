@@ -1,0 +1,71 @@
+{
+  "id": "SN-W03797",
+  "title": "Agriculture Business Landing Page Template",
+  "summary": "A reusable landing page template for agricultural and farming companies to showcase crop and livestock production, facilities, and contact information.",
+  "tags": [
+    "Landing Page",
+    "Business",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Brand",
+    "Large Type",
+    "Grid",
+    "Agriculture",
+    "Farming"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3644,
+      "sha256": "7d944eb8517f71e8d7ba0d14e08ec5e4df63d388959d6a9487a4a78e67feb0d3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11640,
+      "sha256": "cb2f634849a6c37166ec1027319cd78982664eaee44d6cee6c0c8409e9a00ab6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 820,
+      "sha256": "ebb517a3facac7e0ba9e974fa87c30ee118b97fbc1cabaea0480a21db4f161c7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 43992,
+      "sha256": "2b856a7d12009e9be696b2b0b552d247e7021cba0d365cf3d651ef2ab9b0c6fb"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "gallery-portfolio",
+    "product-grid",
+    "bento-grid",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

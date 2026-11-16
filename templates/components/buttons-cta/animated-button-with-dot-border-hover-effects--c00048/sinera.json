@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00048",
+  "title": "Animated Button with Dot & Border Hover Effects",
+  "summary": "Interactive button wrapped in an anchor featuring animated dots, drawing borders, and grid overlay on hover. Uses pure CSS custom properties and tailwind-compatible utility classes. Ideal for call-to-action or hero sections needing eye-catching micro-interactions.",
+  "tags": [
+    "button",
+    "animated",
+    "hover-effects",
+    "css",
+    "interactive",
+    "border-animation",
+    "dots",
+    "tailwind-compatible"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1868,
+      "sha256": "fda9acaea7ed1380c1d7f85016da50041e8bed4a87728f0de3586d40d369e4e6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8108,
+      "sha256": "8fc4d6f9ae4f7a2e3ec3ba26768c0fa4f9895a1ef49b68e7b05ca70c44bb08f5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8980,
+      "sha256": "07cc34f3e5480dbe24f546721631f3097b157606771c1db8972496e67990c35c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

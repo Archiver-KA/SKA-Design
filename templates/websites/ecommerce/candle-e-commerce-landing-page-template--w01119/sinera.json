@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01119",
+  "title": "Candle E-commerce Landing Page Template",
+  "summary": "A minimal landing page template for showcasing a small-batch candle collection and driving WhatsApp orders for boutique e-commerce brands.",
+  "tags": [
+    "E-commerce",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3498,
+      "sha256": "dd2aff229706b8771c72d35d1acfe525817d17958a1aea15101487b7082a6c16"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18589,
+      "sha256": "5227e21472a8aca249e54a22a3a0bef22d8e815769dec7a53676bb4c1b883dc7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 812,
+      "sha256": "1e5866b5bc096d4030a1dd7d8f4c7c9222d897c381e356ac7f66fe562beb418c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14046,
+      "sha256": "9415ba32ff38f7e8414da4362a864790bc6354c8837149b1ac82b635c20005b2"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

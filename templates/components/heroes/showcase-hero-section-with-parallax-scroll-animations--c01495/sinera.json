@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01495",
+  "title": "Showcase Hero Section with Parallax & Scroll Animations",
+  "summary": "Responsive hero/showcase section featuring full-width background, decorative grid, floating portrait, parallax image, and fade/slide scroll animations. Built with Tailwind CSS, ideal for tech landing pages or product highlights.",
+  "tags": [
+    "showcase",
+    "tailwind",
+    "responsive",
+    "animated",
+    "parallax",
+    "landing",
+    "marketing",
+    "background-image",
+    "grid"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 65034,
+      "sha256": "6dec2a9a5a678bb2539f9e8e4e715ebd029b8ad5e8f7311079d1fbb02c59a9b4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3963,
+      "sha256": "96dc32c3291c28f5a4d6543c8fc9a3a69bd505008e6606c8e631636299ffb631"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4973,
+      "sha256": "70b35ed39f78d45045373eaa76e41bdef68b778f2ea3f69dce456630d9d2c3b6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

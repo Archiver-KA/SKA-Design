@@ -1,0 +1,72 @@
+{
+  "id": "SN-W04075",
+  "title": "Renewable Energy Services Landing Page Template",
+  "summary": "A modern renewable energy services landing page template for showcasing solar, wind, IoT and industrial energy solutions, ready to customize for your brand.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Clean",
+    "Large Type",
+    "Energy",
+    "Renewable"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3613,
+      "sha256": "77006181cd3dc3e38adbaa5096bd26a09165debcdc21da8b0283b17181f70178"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2670,
+      "sha256": "2399313ef78c045fd0eac9ef6671850b398c79d2b4d4b78117067e8044abd945"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 828,
+      "sha256": "959ba30502fd844cb73568f510149c0f5f00b3f4c21d8d9ba420ab870098e7da"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40778,
+      "sha256": "ec8215fae167c7610d7bdeb7280ad0db5ec55b28f7e495c2340d10bd51845741"
+    }
+  ],
+  "collection": "logistics",
+  "collectionCategory": "industry",
+  "collectionLabel": "Logistics",
+  "collectionCategoryLabel": "Industry / Energy",
+  "collectionConfidence": 0.88,
+  "collectionBasis": "business-keywords",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "bento-grid",
+    "features",
+    "stats",
+    "about",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

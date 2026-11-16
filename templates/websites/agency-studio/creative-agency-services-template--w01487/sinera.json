@@ -1,0 +1,82 @@
+{
+  "id": "SN-W01487",
+  "title": "Creative Agency Services Template",
+  "summary": "A high-impact landing page template for web design and marketing agencies featuring a risk-free value proposition and strong visual hierarchy.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Dark",
+    "Clean",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3699,
+      "sha256": "265302ad06e141848143a23dd7f556985111e831ac2042bbc78a65c62b896cef"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19796,
+      "sha256": "bc9df480d318cd7ddbccb725311baf0c9afc81b53c694050010e013640f9e2df"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1541,
+      "sha256": "6efc5e9102305a1b11706e2790645bba4f27a92d2d2d6c86741bd880d1a827fd"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 307,
+      "sha256": "f04a9b60316c2486d6d4d050292881f18d4733fac10cf9078e367596bb9d5636"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 653,
+      "sha256": "7a40d93054ae177e0c60c6219753cac5cc4c211813c6b5c2760e1cb7afae52dd"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 268,
+      "sha256": "f326e637001398b18fd14f427e4e7028f592d29637d58c0817109a5916335a20"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 553,
+      "sha256": "9743c868fba3e545c7ea21d691cf6eec3f6b1d2bf96306a07c8b8e0a84b75d68"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15902,
+      "sha256": "6a00d001c1b916aabe649e47b47e572578fd978d5d5c98f8676eb4426c874449"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "cta",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

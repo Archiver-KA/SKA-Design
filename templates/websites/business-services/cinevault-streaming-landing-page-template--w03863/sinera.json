@@ -1,0 +1,124 @@
+{
+  "id": "SN-W03863",
+  "title": "CineVault Streaming Landing Page Template",
+  "summary": "A reusable landing page template designed for streaming services showcasing originals, library, pricing plans, and user testimonials.",
+  "tags": [
+    "Landing Page",
+    "Streaming",
+    "Originals",
+    "Library",
+    "Pricing",
+    "Testimonials",
+    "FAQ",
+    "Subscription Plans",
+    "4K HDR",
+    "Dolby Atmos"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3932,
+      "sha256": "f33d6f9fd93901aa93ada0a9de38a16e5d72e9815153839e76571f7b9b894552"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14088,
+      "sha256": "f5a6135975325bfd4b7cfd3e7648d2870673923143e480475baa168aaf0a19a5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 3319,
+      "sha256": "74dcd9cc116d2519d5a62b601e7875036b732e8a55e249094fb22ec847fa0dcb"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 280,
+      "sha256": "82abffc3779dd6195820972d0858398e530955b87cc23ad5584b4729012e6e2b"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 643,
+      "sha256": "65367d61ff50610e9ab50dab6cb11af151475d019023d45905fb1c61ffbe7abf"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 670,
+      "sha256": "76c2aba9b33d20feba515e9cf1117fb50e5780761f9fc0212dbbef20997cc768"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 443,
+      "sha256": "67e09ab3b4a30d8658776afd58e01460ffb349c5764fc4b5e5d5bd3e7834e36d"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 250,
+      "sha256": "6c7bd07204815254c9d6ba9df84dd628189fa254a42b358fa9bc0dfa8223857a"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 255,
+      "sha256": "59d1e38c73631f1b167e63206b33baba04361fac348bd717da8c09c2f8276639"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 259,
+      "sha256": "9f2364b9c696e00384c0f2b307c23f8aec431bfd11638e0cf1b0bf5cd103e26c"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 256,
+      "sha256": "d762eb431dedbb176483df0473a694c6d918a491992b677251c4e2226e8bf0af"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 263,
+      "sha256": "60af90782c329460fc454c4ac32678743ae6caf0c656754b559ac0881d1cbd2a"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 253,
+      "sha256": "86a3aacb814c2fac3acfe633c920105f803113fd1416d309e795b2809bef7457"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 255,
+      "sha256": "953ae85d031275f53a9b62da00bb468ab8d1e2aaa2326ed99d3f4e253026caa5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 58096,
+      "sha256": "455f60b0474b2fcd86db213e1ddc206f10ae1ee974cf718240f406f4278e04e5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "timeline",
+    "bento-grid",
+    "stats",
+    "pricing",
+    "testimonials",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

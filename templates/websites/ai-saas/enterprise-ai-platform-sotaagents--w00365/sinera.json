@@ -1,0 +1,67 @@
+{
+  "id": "SN-W00365",
+  "title": "Enterprise AI Platform SotaAgents",
+  "summary": "A reusable landing page template for an enterprise AI agents platform, ideal for showcasing data transformation, security, and multi-agent capabilities.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Futuristic",
+    "AI agents",
+    "Enterprise SaaS"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3430,
+      "sha256": "0536233326920bd602bf151f431ff0874babf3f60301476ebad542bebca7b5a4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5692,
+      "sha256": "9f60f0e0f581c2a43f230372599083b2b2ea76281a8a83f1126d8cfbf9f83251"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 727,
+      "sha256": "6cbeb871ac9fa0605af8591f15206c0d32e3b74725e8fd7b7112f492b9b35afe"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31791,
+      "sha256": "1396969bded0126102a5917500ec8b1cacaaecf7bea50ddb470b268a9ec75f54"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "features",
+    "bento-grid",
+    "stats",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

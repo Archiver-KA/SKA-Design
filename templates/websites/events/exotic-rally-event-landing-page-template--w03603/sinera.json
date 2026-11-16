@@ -1,0 +1,70 @@
+{
+  "id": "SN-W03603",
+  "title": "Exotic Rally Event Landing Page Template",
+  "summary": "A cinematic, dark-mode landing page template for high-end exotic rally or motorsport events, showcasing routes, daily stages, and premium experiences.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Clean",
+    "Entertainment"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3812,
+      "sha256": "4bc86ec115338f320422881073a47df2f67adcee5cbce16381a64824af678c85"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 38806,
+      "sha256": "aeafb2f585e2d8cf9abf438f6c6195380616af36f00de29323cedd3b4452384a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 867,
+      "sha256": "529a0ce08e75edcc54e2e103b42c1dea98ef2835b8b8cf09622d86ba310d94db"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 242,
+      "sha256": "b0f9a15febabe876c74ae4295bfefca3ebbd9d2f2d5f89ab38670851fbb5c953"
+    },
+    {
+      "path": "index.html",
+      "bytes": 77957,
+      "sha256": "970855af88bf2e46a3f893c88eb81dd3c6e26fd6fec20681510cdfe06c90cd3b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "bento-grid",
+    "gallery-portfolio",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

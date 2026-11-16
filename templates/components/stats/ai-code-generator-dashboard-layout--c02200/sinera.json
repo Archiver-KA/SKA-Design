@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02200",
+  "title": "AI Code Generator Dashboard Layout",
+  "summary": "Dark, glassmorphic dashboard with left nav, central chat-style prompt & code preview, plus right export sidebar. Built with Tailwind CSS, fully responsive and animated—ideal for AI coding tools or dev SaaS platforms.",
+  "tags": [
+    "dashboard",
+    "layout",
+    "tailwind",
+    "responsive",
+    "chat",
+    "code-preview",
+    "dark-theme",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 35360,
+      "sha256": "e5e399051372573e83202f262df177d9a4ad4ead8d95b070285d8b92daf4df1a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 26456,
+      "sha256": "98d4ae9946c7d30fb7d0da41086fab4bbbe4f84a6d8d36240958c7a8f427438e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27311,
+      "sha256": "b62f1310615c609c0fb5719c5251a0346647dc5250e3c46f379f6a295a1f9d47"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

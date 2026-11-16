@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01452",
+  "title": "Pricing Hero Section with CTA & Image Gallery",
+  "summary": "Translucent hero banner featuring headline, subtext, docs/sign-in buttons, and a 4-image feature gallery. Styled with Tailwind CSS, responsive and ideal for SaaS pricing or landing pages.",
+  "tags": [
+    "hero",
+    "landing",
+    "tailwind",
+    "gallery",
+    "cta",
+    "responsive",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 34836,
+      "sha256": "56c34507a2a99ae6f72b341dc7f4a61498a19dff64ae6fbe7367b689eb4727db"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5172,
+      "sha256": "45af8f9a46592f5004453549dc1429f3bcd37c8fa30e9cf449efc2d0fa741ee6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6172,
+      "sha256": "00bfb97bdc0af333972c541d2d83f1c7b242b73fcb29be99ae593606c6f7f5c8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

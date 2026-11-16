@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00212",
+  "title": "Hover-Animated Call-to-Action Button",
+  "summary": "A Tailwind-based CTA button with dashed hover outline, corner accent, and icon transitions. Ideal for primary actions like starting a project, signups, or redirects that need a visually engaging interactive state.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "interactive",
+    "animated",
+    "hover",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2098,
+      "sha256": "27e07a8f9a0282c1c9c1e65613ab3d388e1b734c67a940ddc568c6e42f4f2291"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1402,
+      "sha256": "e67b902dd96ab76f8b79ddc5267c35226a9f27c5a05bfb63166df73e2f1592f6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2479,
+      "sha256": "cbebdec6777651f7eb748fcdb6d2b59eaceb6dca8427a6cbe1f960c398eeed3e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

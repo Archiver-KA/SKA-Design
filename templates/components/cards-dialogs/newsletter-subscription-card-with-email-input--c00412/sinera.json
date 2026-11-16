@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00412",
+  "title": "Newsletter Subscription Card with Email Input",
+  "summary": "Responsive Tailwind card allowing users to subscribe via email; includes input with icon, privacy badge, glassmorphic styling, hover effects, and submit button. Ideal for blog or product site footers and pop-ups.",
+  "tags": [
+    "form",
+    "newsletter",
+    "subscription",
+    "email",
+    "card",
+    "tailwind",
+    "responsive",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5342,
+      "sha256": "38c5db593b1d2084490820c64cfd33ac4adf7f221c9cdda25eb536890ae955cd"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2032,
+      "sha256": "4ed4e254f0cffb407d81d3347332086af562287dcccdb2fa965906d55ff713b2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3028,
+      "sha256": "32dffcf2bb8915d445ea1570c3675d24ce73f79d309cdf08724d08312171b4a4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

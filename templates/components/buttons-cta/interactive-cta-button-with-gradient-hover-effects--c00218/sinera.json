@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00218",
+  "title": "Interactive CTA Button with Gradient Hover Effects",
+  "summary": "Stylized anchor button featuring radial gradient border, blur backdrop, hue-rotate click effect and sliding arrow icon. Built with Tailwind utility classes and inline CSS for vivid, responsive call-to-action links on landing pages or hero sections.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "gradient",
+    "animated",
+    "interactive",
+    "hover",
+    "link"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2054,
+      "sha256": "3de9ed54602896de07fdf25eb5c30acd07b0a0626f0ea9480cd5dab175e8a7d8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2206,
+      "sha256": "b352a57f4e7dd315ef6e2742e4364d03ece3a0ad78c07b8340b96b3d9135e421"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3207,
+      "sha256": "da8500c71b87e48d765fac71da40b18da8cf5b0cbad8fe83b267554355736764"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

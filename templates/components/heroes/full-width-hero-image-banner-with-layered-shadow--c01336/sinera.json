@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01336",
+  "title": "Full-Width Hero Image Banner with Layered Shadow",
+  "summary": "Absolute-positioned div featuring a full-width background image, rounded 40px corners, and multi-layer drop shadow. Ideal for hero sections, page headers, or decorative banners in Tailwind-styled layouts.",
+  "tags": [
+    "hero",
+    "banner",
+    "image",
+    "tailwind",
+    "shadow",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 38242,
+      "sha256": "bc5d1be94315e8fe8bcbd035632770eed5e0ad48c1535e71bd50c81ea864bd2d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 14319,
+      "sha256": "789b568cb7faa24c3da6b1ec8efd11574176976df68b7f9fbefee9d4976670f0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15318,
+      "sha256": "b92bb619cdc023293dfb1b89926992cd9cbd39756e1d1f46973e9323d3a4aa3f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

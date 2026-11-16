@@ -1,0 +1,13 @@
+<svg width="100%" height="100%" viewBox="0 0 600 450" fill="none">
+                            <rect width="600" height="450" fill="#E5E5EA"/>
+                            <!-- Roads -->
+                            <path d="M0 100H600" stroke="white" stroke-width="20"/>
+                            <path d="M0 250H600" stroke="white" stroke-width="20"/>
+                            <path d="M0 400H600" stroke="white" stroke-width="20"/>
+                            <path d="M150 0V450" stroke="white" stroke-width="20"/>
+                            <path d="M450 0V450" stroke="white" stroke-width="20"/>
+                            <!-- Route Line -->
+                            <path d="M450 100 C 450 250 150 250 150 400" stroke="#7847CB" stroke-width="6" stroke-dasharray="12 8"/>
+                            <!-- Pin -->
+                            <circle cx="150" cy="400" r="16" fill="#7847CB" stroke="white" stroke-width="4"/>
+                        </svg>

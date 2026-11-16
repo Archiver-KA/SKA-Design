@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01131",
+  "title": "Logo Header",
+  "summary": "A simple header component displaying a white logo SVG. Ideal for dark-themed navigation bars or hero sections requiring brand identity.",
+  "tags": [
+    "header",
+    "logo",
+    "navigation",
+    "dark",
+    "minimal"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2706,
+      "sha256": "94d132431bac2ee5308e38c4ddac8280a509abf6ee7cf856e982d48468e878b7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 568,
+      "sha256": "cef78231d7340a17977730bf57d7cce7fc927da5e9b829ac3cf4774c50105a92"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1400,
+      "sha256": "11a9c26d380a1e8c7ea4e2614f894b9b8000b6006c069fcef063cc540946a45a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

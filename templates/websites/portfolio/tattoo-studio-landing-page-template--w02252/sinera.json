@@ -1,0 +1,79 @@
+{
+  "id": "SN-W02252",
+  "title": "Tattoo Studio Landing Page Template",
+  "summary": "A dark, editorial-style tattoo studio landing page template for showcasing artists, services, reviews, and driving booking enquiries.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Art & Design",
+    "Portfolio",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3896,
+      "sha256": "1015dbf958a1d469d3ae8ccfce67ebd84460befb36d651b5207a0a0aee984f13"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13164,
+      "sha256": "cc5841cadf947c6da2c88c4903e3c46065c93aeb698dd17fa8742c4f827cce31"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 877,
+      "sha256": "62a9f57e0d229d4dbd97ab5800439cf7699d50fedf3938e292e7b9ce23e58e52"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 150,
+      "sha256": "d55bb55288c1d1b3585ad94e01ca194d1741871e7bf5f3a1321c0c65760a553e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 76463,
+      "sha256": "2aff48745b96ec7e872f1727e73848e3fb752b1cec7d834e07241fc595d64eb1"
+    },
+    {
+      "path": "sinera-fx-filter.js",
+      "bytes": 20821,
+      "sha256": "6b5f074b7d846e3a404deda089c33986eb540d0c5cd8c1c0730e314b4c68c287"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "testimonials",
+    "contact-form",
+    "team",
+    "features",
+    "cta",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

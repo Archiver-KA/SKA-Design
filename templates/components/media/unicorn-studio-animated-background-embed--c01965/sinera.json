@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01965",
+  "title": "Unicorn Studio Animated Background Embed",
+  "summary": "An absolute-positioned full-screen Unicorn Studio embed that loads and initializes an animated background effect via CDN script. Ideal for decorative page backdrops, landing pages, and immersive visual experiences.",
+  "tags": [
+    "background",
+    "unicorn",
+    "animated",
+    "embed",
+    "fullscreen",
+    "javascript",
+    "tailwind",
+    "laser beam"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26742,
+      "sha256": "ae05e3223acd0578e50a72d9b92926f0de581609f352796ae190234c89397313"
+    },
+    {
+      "path": "component.html",
+      "bytes": 715,
+      "sha256": "0a2d4997229e7b7a7b6ff589386c826b20a3e75fc6b3103ab1bbef8877307f16"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1576,
+      "sha256": "b6aa7105a83d6ba3251dc674682daed03a72226badc36a52d0770df0679bf08e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

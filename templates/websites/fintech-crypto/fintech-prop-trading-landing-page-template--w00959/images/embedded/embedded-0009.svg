@@ -1,0 +1,100 @@
+<svg
+                  class="w-full h-full overflow-visible"
+                  preserveAspectRatio="none"
+                  viewBox="0 0 200 100"
+                >
+                  <defs>
+                    <linearGradient id="chartFill" x1="0" x2="0" y1="0" y2="1">
+                      <stop
+                        offset="0%"
+                        stop-color="#F59E0B"
+                        stop-opacity="0.3"
+                      ></stop>
+                      <stop
+                        offset="100%"
+                        stop-color="transparent"
+                        stop-opacity="0"
+                      ></stop>
+                    </linearGradient>
+                  </defs>
+                  <!-- Grid -->
+                  <path
+                    d="M0 25 H200 M0 50 H200 M0 75 H200"
+                    stroke="rgba(255,255,255,0.05)"
+                    stroke-width="0.5"
+                  ></path>
+                  <!-- Candlesticks -->
+                  <rect
+                    x="10"
+                    y="60"
+                    width="4"
+                    height="20"
+                    fill="#10B981"
+                    rx="0.5"
+                    opacity="0.6"
+                  ></rect>
+                  <rect
+                    x="30"
+                    y="50"
+                    width="4"
+                    height="30"
+                    fill="#EF4444"
+                    rx="0.5"
+                    opacity="0.6"
+                  ></rect>
+                  <rect
+                    x="50"
+                    y="55"
+                    width="4"
+                    height="15"
+                    fill="#10B981"
+                    rx="0.5"
+                    opacity="0.6"
+                  ></rect>
+                  <rect
+                    x="70"
+                    y="40"
+                    width="4"
+                    height="25"
+                    fill="#10B981"
+                    rx="0.5"
+                    opacity="0.6"
+                  ></rect>
+                  <rect
+                    x="90"
+                    y="45"
+                    width="4"
+                    height="20"
+                    fill="#EF4444"
+                    rx="0.5"
+                    opacity="0.6"
+                  ></rect>
+                  <!-- Main Line -->
+                  <path
+                    d="M0 80 Q 30 70, 50 60 T 100 40 T 150 50 T 200 20"
+                    fill="none"
+                    stroke="#F59E0B"
+                    stroke-width="2"
+                    vector-effect="non-scaling-stroke"
+                    filter="drop-shadow(0 0 4px rgba(245,158,11,0.5))"
+                  ></path>
+                  <path
+                    d="M0 80 Q 30 70, 50 60 T 100 40 T 150 50 T 200 20 V 100 H 0 Z"
+                    fill="url(#chartFill)"
+                  ></path>
+                  <!-- Pulsing Dot -->
+                  <circle
+                    cx="200"
+                    cy="20"
+                    r="3"
+                    fill="white"
+                    class="animate-pulse"
+                  >
+                    <animate
+                      attributeName="r"
+                      values="3;5;3"
+                      dur="2s"
+                      repeatCount="indefinite"
+                    ></animate>
+                  </circle>
+                </svg>

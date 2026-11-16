@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01044",
+  "title": "Interactive Resume Builder with Live Preview",
+  "summary": "Tailwind-styled editor to create resumes: edit contact, title, summary, work, education, skills, interests; toggle inclusion, add items via modals, get AI suggestions, and see instant preview. Ideal for career portals or profile dashboards.",
+  "tags": [
+    "resume",
+    "builder",
+    "form",
+    "editor",
+    "tailwind",
+    "live preview",
+    "modal",
+    "interactive",
+    "dynamic list"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 43750,
+      "sha256": "3803d932a7cbae2ce67b5890ec0f7e6cd732cc6b9cfa475329f91ce120c46762"
+    },
+    {
+      "path": "component.html",
+      "bytes": 104205,
+      "sha256": "cfa8b8503de013a90b13e34b9e435f51deea70c951cde57df8355cfae4ea41cf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 105200,
+      "sha256": "bb79f2a98ebdaf9d103cdd6608935dbe3a2b8ca449d541efb15115fec39a2c47"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

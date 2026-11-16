@@ -1,0 +1,73 @@
+{
+  "id": "SN-W00573",
+  "title": "Nexus AI Automation Landing Page Template",
+  "summary": "A futuristic Nexus-themed landing page template for AI automation platforms to showcase features, pricing, and documentation in a sleek, conversion-focused layout.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Gradient",
+    "Dark",
+    "Minimal",
+    "Futuristic",
+    "Large Type",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4070,
+      "sha256": "3253488959287f4600c93493c5b4a72471a2481a72e0dc50138947976af30161"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16000,
+      "sha256": "f11c7ceb0196d8e0612eb328000960c4bf98ebe0babb475fa00e4cc23ef1ef1c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 881,
+      "sha256": "665eefa4d31832b2ea22a4b6f41bec09b35d172185f056bf470f155305d216d7"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1223,
+      "sha256": "16fcaa237cb530b07ebd289d75ef54d0bb562049a798313e0cf2f0232604d755"
+    },
+    {
+      "path": "index.html",
+      "bytes": 45229,
+      "sha256": "e99d56447689042bf2f9f102faff3ccce53e1a281340eaf096a42c9cb603d9bf"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "services",
+    "how-it-works",
+    "about",
+    "comparison",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

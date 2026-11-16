@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02103",
+  "title": "Three-Tier Pricing Section with Tailwind CSS",
+  "summary": "Dark-themed pricing section displaying Starter, Pro and Enterprise plans in a responsive grid. Features gradient highlight for popular tier, detailed benefit lists and call-to-action buttons. Built with Tailwind CSS for SaaS landing pages or product sites.",
+  "tags": [
+    "pricing",
+    "section",
+    "tailwindcss",
+    "responsive",
+    "dark",
+    "grid",
+    "saas",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 28234,
+      "sha256": "93d81f298b06360abe40202a75a63e96ac4f96a91cff53593b0dd23191b6943c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13165,
+      "sha256": "40cb983fbc034c221a6ee92c21dad24dd584544e39f8c62264a934805c3c20a3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14030,
+      "sha256": "38323d0dde2026ea2b54ef1fd078e4b09776b292ade418322541eb6cbe56a81b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

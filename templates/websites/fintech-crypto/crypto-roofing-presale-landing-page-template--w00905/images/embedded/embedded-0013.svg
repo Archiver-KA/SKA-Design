@@ -1,0 +1,19 @@
+<svg viewBox="0 0 100 100" class="w-full h-full overflow-visible">
+                <defs>
+                    <!-- Arrow pointing right (tangent for clockwise rotation at top) -->
+                    <path id="arrow-cw" d="M -2 -2 L 2 0 L -2 2" fill="none" stroke="#0052FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </defs>
+                <g transform="translate(50, 50)">
+                    <!-- 10 Arrows distributed along the circle radius approx 44% -->
+                    <use href="#arrow-cw" transform="rotate(0) translate(0, -44)"></use>
+                    <use href="#arrow-cw" transform="rotate(36) translate(0, -44)"></use>
+                    <use href="#arrow-cw" transform="rotate(72) translate(0, -44)"></use>
+                    <use href="#arrow-cw" transform="rotate(108) translate(0, -44)"></use>
+                    <use href="#arrow-cw" transform="rotate(144) translate(0, -44)"></use>
+                    <use href="#arrow-cw" transform="rotate(180) translate(0, -44)"></use>
+                    <use href="#arrow-cw" transform="rotate(216) translate(0, -44)"></use>
+                    <use href="#arrow-cw" transform="rotate(252) translate(0, -44)"></use>
+                    <use href="#arrow-cw" transform="rotate(288) translate(0, -44)"></use>
+                    <use href="#arrow-cw" transform="rotate(324) translate(0, -44)"></use>
+                </g>
+             </svg>

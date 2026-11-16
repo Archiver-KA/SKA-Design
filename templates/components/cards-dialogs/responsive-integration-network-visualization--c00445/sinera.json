@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00445",
+  "title": "Responsive Integration Network Visualization",
+  "summary": "Tailwind-styled widget displaying a pulsing core node surrounded by hoverable integration cards in an orbit layout, switching to a compact list on mobile. Great for SaaS landing pages to showcase ecosystem connectors or partner services.",
+  "tags": [
+    "integration",
+    "network",
+    "card",
+    "responsive",
+    "tailwind",
+    "animated",
+    "visualization",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10268,
+      "sha256": "8fd4160db322cbd849aea10f0122d8568945c5d27c5ed2070050a2ce9d386105"
+    },
+    {
+      "path": "component.html",
+      "bytes": 18505,
+      "sha256": "635a1492099d7fd5a3fc34f6192441c8fc116d44823a5a5ab0c1046e5ebdc3e9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19500,
+      "sha256": "46d9ef29ed55cdb60bba8a0be419ec41b955278f9744755ce9d07fd4467696ee"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

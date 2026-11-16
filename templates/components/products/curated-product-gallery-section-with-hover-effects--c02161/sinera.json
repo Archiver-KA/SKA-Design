@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02161",
+  "title": "Curated Product Gallery Section with Hover Effects",
+  "summary": "Responsive Tailwind section showcasing a headline and a grid of product category cards. Each card features a cover image, subtle opacity hover fade, and rounded styling—ideal for ecommerce landing pages or featured collection displays.",
+  "tags": [
+    "gallery",
+    "product",
+    "ecommerce",
+    "tailwind",
+    "responsive",
+    "hover",
+    "card",
+    "collection"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7932,
+      "sha256": "bdb06081bff1e8b726413a3ada27dfc28c329c7130f72aad2a97738ac071c36e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3618,
+      "sha256": "c1c60f576ecc48b3d9fe91ad7fe7b92be99cff027fab210eb4be689dae91c34e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4489,
+      "sha256": "a7f3c030dc150e9d54182ef0113e5097423bb77846ce67f7010c25d13552269c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

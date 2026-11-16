@@ -1,0 +1,21 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none" preserveAspectRatio="none">
+        <defs>
+          <linearGradient id="capLineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:#0071CE;stop-opacity:0"></stop>
+            <stop offset="50%" style="stop-color:#0071CE;stop-opacity:0.5"></stop>
+            <stop offset="100%" style="stop-color:#0071CE;stop-opacity:0"></stop>
+          </linearGradient>
+          <linearGradient id="capLineGradV" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#0071CE;stop-opacity:0"></stop>
+            <stop offset="50%" style="stop-color:#0071CE;stop-opacity:0.4"></stop>
+            <stop offset="100%" style="stop-color:#0071CE;stop-opacity:0"></stop>
+          </linearGradient>
+        </defs>
+        <path d="M0 180 Q400 160 800 200 T1600 180" stroke="url(#capLineGrad)" stroke-width="1" fill="none" class="line-animate" style="animation-delay: 0s;"></path>
+        <path d="M0 380 Q400 400 800 360 T1600 400" stroke="url(#capLineGrad)" stroke-width="1" fill="none" class="line-animate" style="animation-delay: 1.2s;"></path>
+        <path d="M0 580 Q400 560 800 600 T1600 560" stroke="url(#capLineGrad)" stroke-width="1" fill="none" class="line-animate" style="animation-delay: 2.4s;"></path>
+        <!-- Vertical connector lines -->
+        <line x1="25%" y1="0" x2="25%" y2="100%" stroke="url(#capLineGradV)" stroke-width="1" stroke-dasharray="4 8" opacity="0.4"></line>
+        <line x1="50%" y1="0" x2="50%" y2="100%" stroke="url(#capLineGradV)" stroke-width="1" stroke-dasharray="4 8" opacity="0.3"></line>
+        <line x1="75%" y1="0" x2="75%" y2="100%" stroke="url(#capLineGradV)" stroke-width="1" stroke-dasharray="4 8" opacity="0.4"></line>
+      </svg>

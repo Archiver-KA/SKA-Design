@@ -1,0 +1,40 @@
+{
+  "id": "SN-C01936",
+  "title": "On scroll image move",
+  "summary": "Portfolio images that move when you scroll down the page",
+  "tags": [
+    "Portfolio",
+    "images",
+    "onScroll",
+    "scroll"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 56194,
+      "sha256": "06023cd7f46f448eaf67b5a628e407a94c2fee7989e055572ac837e0495f2269"
+    },
+    {
+      "path": "component.html",
+      "bytes": 14480,
+      "sha256": "1970a449d94c2aaa90c9a7e6bfedb0009d8a3b8d0a7f9921d1fb35ee5a3a4f9a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15451,
+      "sha256": "6ef60bd3cb91034e9069d9fc4fed312bfdb66e3b476a9e4e5e9fbf0d8106cbd8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

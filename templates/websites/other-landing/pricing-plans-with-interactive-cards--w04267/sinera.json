@@ -1,0 +1,71 @@
+{
+  "id": "SN-W04267",
+  "title": "Pricing Plans with Interactive Cards",
+  "summary": "Responsive pricing section with three plans, featuring hover effects, icons, and a particle background animation.",
+  "tags": [
+    "Pricing",
+    "Interactive UI",
+    "Tailwind CSS",
+    "Responsive Design",
+    "Hover Effects",
+    "Particle Background"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3105,
+      "sha256": "f9704b5dfd20dfb4b6d030e9b8874246bd2ead841f5ae2c2ac3da9138fbf8488"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18928,
+      "sha256": "1cbc3c4eb6a98ac4484da07c187b0297ffe9642656fd42364a8e44dbc4c75be3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1589,
+      "sha256": "87d1d0cafa54ad7e7090363edf006462d281645cad87452092fcc6b391c963d2"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 197,
+      "sha256": "057812bfc4ebb01747b3d34083c58a22040db0ab440e2c2e5643295b8d90ba72"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 201,
+      "sha256": "6e61d256474c5dbbb67a4623dcfcb96958f83edcc31bc523027e3aca1ae27618"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10654,
+      "sha256": "8abe291a834f5b27ef1b385f22cfb124a06f98b12e71801d6cde7404749fcf4c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "pricing"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "added-viewport"
+    ]
+  },
+  "design": "DESIGN.md"
+}

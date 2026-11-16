@@ -1,0 +1,80 @@
+{
+  "id": "SN-W02669",
+  "title": "Prime Gym Fitness & Performance Template",
+  "summary": "A high-performance landing page template designed for luxury gyms and fitness centers featuring dark aesthetics and high-impact typography.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Health",
+    "Services",
+    "Clean",
+    "Dark",
+    "Animated",
+    "Minimal",
+    "Large Type",
+    "Futuristic"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3707,
+      "sha256": "936f663a0dee3b337d600d4784e3b60d53733eda30163f6a22e460bc54758e8d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18150,
+      "sha256": "0c814c1c609d1229cbfe4ff6a6ce24b1a59fe05122220e91d6c86e5e9c1b4b71"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 958,
+      "sha256": "8d85db10855e84411e323d29a509c3653d078446cd630908952441efd144c880"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 251,
+      "sha256": "13c9ade33a5604e7c65e622d3068c1c58ebf741a94ad6d53e9ac1463aa2550de"
+    },
+    {
+      "path": "index.html",
+      "bytes": 71988,
+      "sha256": "29dce7fab6c481e54425a0ca5ddf9fa027614cf2975e4399623bbdc47c4f73d2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "marquee",
+    "services",
+    "gallery-portfolio",
+    "testimonials",
+    "team",
+    "pricing",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "removed-missing-favicon-link",
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

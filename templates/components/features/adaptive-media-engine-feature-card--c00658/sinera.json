@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00658",
+  "title": "Adaptive Media Engine Feature Card",
+  "summary": "Feature card showcasing responsive design capabilities with animated device frames and performance metrics visualization.",
+  "tags": [
+    "feature-card",
+    "dark-theme",
+    "responsive-design",
+    "media-optimization",
+    "data-visualization",
+    "hover-effects",
+    "card"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10326,
+      "sha256": "f6e2038da519349a713b56bdee3a3aa6291b2333f3af502a63d561e4f3641d27"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4882,
+      "sha256": "22ecf318a03126383b54fb5923f79b2833994afbe0fb0c54bbb337ef3d3be2c2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5737,
+      "sha256": "3b80bedae981a86b4cb56d0b38162a6967d4a1bf7c576f6c48955094a5c07cd3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

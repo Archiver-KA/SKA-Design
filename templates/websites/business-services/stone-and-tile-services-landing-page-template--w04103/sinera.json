@@ -1,0 +1,74 @@
+{
+  "id": "SN-W04103",
+  "title": "Stone & Tile Services Landing Page Template",
+  "summary": "A premium stone and tile services landing page template for showcasing fabrication, installation projects, and lead-generation quote requests for contractors.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Portfolio",
+    "Construction",
+    "Home Improvement"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3783,
+      "sha256": "e5ab5df0ab29825f1b9744444deb416c307a4b1ee78a2709438cc73d72308662"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13456,
+      "sha256": "6667cee9576e59912a4ac74e2ea895a45771ae0bf54704696cf26ecd5b64aeac"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 880,
+      "sha256": "de76799fe5a767f3db0000aa3a675b7db1731bcab72cb9c2c3287831a70ecf0f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "0706e3bc303455531051eeda99b3ce734d21f2b5f9a558cae8ef63feac3e9b58"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39767,
+      "sha256": "11c02de5c01aab3b3ad71fc31c5e77936a65e1aa9f9e44a19bab8327c9fd71dd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "case-studies",
+    "about",
+    "testimonials",
+    "contact-form",
+    "footer",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

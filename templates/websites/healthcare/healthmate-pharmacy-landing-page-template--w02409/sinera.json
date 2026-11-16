@@ -1,0 +1,62 @@
+{
+  "id": "SN-W02409",
+  "title": "HealthMate Pharmacy Landing Page Template",
+  "summary": "A clean and community-focused pharmacy landing page template designed for local medicine delivery services and healthcare retail.",
+  "tags": [
+    "Health",
+    "Services",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3694,
+      "sha256": "619b66b19926ca65c403371f60e84b4c2e84aa4f6dd0b434ca79b3e333428d7d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18934,
+      "sha256": "9376e385083bf0655864c0d3f12c541ed015639d47ff03ffa9ba87e8c36383d2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 741,
+      "sha256": "45992b1fabaad9bbd7dd65145bb97972d8ce92f752658659c6361608fc4b2909"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19351,
+      "sha256": "7821c9974164a6d86789288c223d960addd1c2a38727c33256194f2af5d3293c"
+    }
+  ],
+  "collection": "logistics",
+  "collectionCategory": "shipping",
+  "collectionLabel": "Logistics",
+  "collectionCategoryLabel": "Shipping / Delivery",
+  "collectionConfidence": 0.88,
+  "collectionBasis": "business-keywords",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

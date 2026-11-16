@@ -1,0 +1,81 @@
+{
+  "id": "SN-W01435",
+  "title": "ArenaSite Agency Landing Page Template",
+  "summary": "Premium dark-mode ArenaSite agency landing page template for web design, branding, and digital services, ready to customize for your creative studio.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Portfolio",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3730,
+      "sha256": "6fd5aedf4a40d300545d0221caf92d70ea34b448fbfd9d7d4fb378fd5069cee2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14860,
+      "sha256": "35022d8abb1ae0db2e347715e7ce76083b8c42e684c6486af2858c1c1f7ef4f7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 969,
+      "sha256": "8f0eeca1067631cdb38badfcf0fe4cc57c7424179945e26a45b4b706a934ce6a"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 150,
+      "sha256": "d55bb55288c1d1b3585ad94e01ca194d1741871e7bf5f3a1321c0c65760a553e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 52448,
+      "sha256": "119f9b9dd235d37b604eadf5aac9a8858aca5281804b412149dd6734b1e11581"
+    },
+    {
+      "path": "sinera-fx-filter.js",
+      "bytes": 20821,
+      "sha256": "6b5f074b7d846e3a404deda089c33986eb540d0c5cd8c1c0730e314b4c68c287"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "features",
+    "gallery-portfolio",
+    "how-it-works",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

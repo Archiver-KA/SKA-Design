@@ -1,0 +1,145 @@
+<svg
+                    class="w-full h-full"
+                    viewBox="0 0 400 400"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <defs>
+                      <linearGradient
+                        id="pc-top"
+                        x1="0%"
+                        y1="0%"
+                        x2="100%"
+                        y2="100%"
+                      >
+                        <stop
+                          offset="0%"
+                          stop-color="#ffffff"
+                          stop-opacity="0.9"
+                        ></stop>
+                        <stop
+                          offset="100%"
+                          stop-color="#eef3f0"
+                          stop-opacity="0.3"
+                        ></stop>
+                      </linearGradient>
+                      <linearGradient
+                        id="pc-side-l"
+                        x1="0%"
+                        y1="0%"
+                        x2="0%"
+                        y2="100%"
+                      >
+                        <stop
+                          offset="0%"
+                          stop-color="#dce7e2"
+                          stop-opacity="0.9"
+                        ></stop>
+                        <stop
+                          offset="100%"
+                          stop-color="#a5b7b1"
+                          stop-opacity="1"
+                        ></stop>
+                      </linearGradient>
+                      <linearGradient
+                        id="pc-side-r"
+                        x1="0%"
+                        y1="0%"
+                        x2="0%"
+                        y2="100%"
+                      >
+                        <stop
+                          offset="0%"
+                          stop-color="#879f98"
+                          stop-opacity="0.7"
+                        ></stop>
+                        <stop
+                          offset="100%"
+                          stop-color="#4b615a"
+                          stop-opacity="0.9"
+                        ></stop>
+                      </linearGradient>
+                      <filter
+                        id="pc-shadow"
+                        x="-30%"
+                        y="-30%"
+                        width="160%"
+                        height="160%"
+                      >
+                        <feDropShadow
+                          dx="0"
+                          dy="25"
+                          stdDeviation="20"
+                          flood-color="#132a24"
+                          flood-opacity="0.08"
+                        ></feDropShadow>
+                      </filter>
+                    </defs>
+                    <g
+                      class="animate-[float_7s_ease-in-out_infinite]"
+                      style="animation-delay: -2s;"
+                    >
+                      <g filter="url(#pc-shadow)">
+                        <path
+                          d="M 200 210 L 300 260 L 200 310 L 100 260 Z"
+                          fill="url(#pc-top)"
+                          stroke="#ffffff"
+                          stroke-width="0.5"
+                        ></path>
+                        <path
+                          d="M 100 260 L 200 310 L 200 330 L 100 280 Z"
+                          fill="url(#pc-side-l)"
+                        ></path>
+                        <path
+                          d="M 300 260 L 200 310 L 200 330 L 300 280 Z"
+                          fill="url(#pc-side-r)"
+                        ></path>
+                      </g>
+                    </g>
+                    <g
+                      class="animate-[float_7s_ease-in-out_infinite]"
+                      style="animation-delay: -1s;"
+                    >
+                      <g filter="url(#pc-shadow)">
+                        <path
+                          d="M 200 150 L 280 190 L 200 230 L 120 190 Z"
+                          fill="url(#pc-top)"
+                          stroke="#ffffff"
+                          stroke-width="0.5"
+                        ></path>
+                        <path
+                          d="M 120 190 L 200 230 L 200 250 L 120 210 Z"
+                          fill="url(#pc-side-l)"
+                        ></path>
+                        <path
+                          d="M 280 190 L 200 230 L 200 250 L 280 210 Z"
+                          fill="url(#pc-side-r)"
+                        ></path>
+                      </g>
+                    </g>
+                    <g class="animate-[float_7s_ease-in-out_infinite]">
+                      <g filter="url(#pc-shadow)">
+                        <path
+                          d="M 200 90 L 250 115 L 200 140 L 150 115 Z"
+                          fill="url(#pc-top)"
+                          stroke="#ffffff"
+                          stroke-width="0.5"
+                        ></path>
+                        <path
+                          d="M 150 115 L 200 140 L 200 155 L 150 130 Z"
+                          fill="url(#pc-side-l)"
+                        ></path>
+                        <path
+                          d="M 250 115 L 200 140 L 200 155 L 250 130 Z"
+                          fill="url(#pc-side-r)"
+                        ></path>
+                      </g>
+                      <path
+                        d="M 175 115 L 200 127.5 L 225 115"
+                        stroke="#879f98"
+                        stroke-width="1"
+                        fill="none"
+                        opacity="0.4"
+                      ></path>
+                    </g>
+                  </svg>

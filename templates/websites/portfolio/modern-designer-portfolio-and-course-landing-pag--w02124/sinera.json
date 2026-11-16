@@ -1,0 +1,78 @@
+{
+  "id": "SN-W02124",
+  "title": "Modern Designer Portfolio & Course Landing Page Template",
+  "summary": "A high-converting reusable template designed for educators and creative professionals to showcase digital courses and design services.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Education",
+    "Dark",
+    "Clean",
+    "Futuristic",
+    "Technology",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3445,
+      "sha256": "2234b06d1f834732b7d1c26bea0398b3b5954cc132227602966abfdf6a34a24e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15010,
+      "sha256": "9ededecd7a66277719d3a238bd7a5289959216f6049d38cec3704558eb265301"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1168,
+      "sha256": "710f6c33576cdfeb479a123cc24013c581b1fd35ba112a394478672743817082"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 733,
+      "sha256": "38994cc04e9bff4f63868f7247ea0a3d87ea17cef53e58f756a9b0c725142cac"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 427,
+      "sha256": "5956d20161f6d4d190a07a410b25dde349e37ea2515a54fbddd5f15af2e40f4b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40304,
+      "sha256": "14e98f55f34f978dec6999568af7ca8f5f855f21532c5ef4700e8da5b9f0bd4d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "video-media",
+    "services",
+    "booking",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

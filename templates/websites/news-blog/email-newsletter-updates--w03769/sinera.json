@@ -1,0 +1,96 @@
+{
+  "id": "SN-W03769",
+  "title": "Email Newsletter Updates",
+  "summary": "Dark themed update panel showcasing identity protection, family plans, and wellbeing dashboard with Tailwind CSS styling.",
+  "tags": [
+    "Updates",
+    "Dark Mode",
+    "Tailwind CSS",
+    "Security",
+    "Digital Wellbeing",
+    "UI Panel",
+    "Responsive Design"
+  ],
+  "kind": "websites",
+  "category": "news-blog",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2815,
+      "sha256": "aa255e1abcdb32ebd3d45874e55ca871fd205f406bcc66eab5ead5d28d3911cc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16858,
+      "sha256": "5182f0efa6251c03322fd741e2e0436beab639b6ad8f64b13d246e404a13dac4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2034,
+      "sha256": "046c795e1dc86b33749ac71550ba80b75cbea9583dc003996f3fd792b24435d8"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 223,
+      "sha256": "910987cf54af5cf547a162b5a2839af4e1d67b25dde4df1e8a0695031f679a0d"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 303,
+      "sha256": "5ed2669f7034ce53ef68b23b17939152440656f39f8c392101c79a8faa59e20a"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 393,
+      "sha256": "f1a479bbc3a13e4920b2033c14c244bd6e73124da8a8eec6fe549f8b070deb08"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 230,
+      "sha256": "0809b7fcc4cced8d559476b5a18d098210e7eb79866912d30e5777223997bfa2"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 396,
+      "sha256": "dfb9103059515e487720d85d9daf741fc68c387cbfa00f67a7a3325dd162d188"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 535,
+      "sha256": "ad69b00bb4cfbad2e3ef7c37eb52777194577241aba85f20b59d50898a86ee77"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 1177,
+      "sha256": "7dfca34c324af7dab6f80c026ddac3532708f12e2143c44b8e3fa0136df17b6f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8260,
+      "sha256": "0989c0d042893f980d69e55ce3340dca317d263fdf5777935f8d005af47e56e4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "content",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Content / News",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "newsletter",
+  "design": "DESIGN.md"
+}

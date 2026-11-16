@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00091",
+  "title": "Animated Hover CTA Button with Rotating Icon",
+  "summary": "Tailwind CSS button that reveals an emerald backdrop and rotates its arrow icon on hover. Ideal for 'Learn More' or other call-to-action links, featuring smooth transition, responsive design, and modern glassy styling.",
+  "tags": [
+    "button",
+    "tailwind",
+    "animated",
+    "hover",
+    "cta",
+    "icon",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1538,
+      "sha256": "32db46a142fd29d251ce415eb6926c75832ca759b56d1fb2c2cdfa2aeb75d9a0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1344,
+      "sha256": "414f16e68387adaff5ea7ef7c2242163d555f61ba693fc4c9f6b5d56c83115cc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2209,
+      "sha256": "1a2723420bb5ae38246286aa0a3925c30f78d81324f8bdedc1cc017f6827f765"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

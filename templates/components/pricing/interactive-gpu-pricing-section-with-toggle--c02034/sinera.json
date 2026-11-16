@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02034",
+  "title": "Interactive GPU Pricing Section with Toggle",
+  "summary": "Full-width pricing section for compute/GPU plans featuring three tiered cards, an on-demand vs reserved pricing toggle with dynamic price updates, and a dark, glossy Tailwind-styled layout suitable for SaaS or cloud platforms.",
+  "tags": [
+    "pricing",
+    "section",
+    "responsive",
+    "interactive",
+    "tailwind",
+    "cards"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21064,
+      "sha256": "2d8d782a80129c79c06b4f0f4d4cb6fb487751bf8320ab47bbb80cf30cd4f831"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9750,
+      "sha256": "97cd25ac65f23447b99d76e43e80550d5bbfd36ba6b2b476c29dddf46158840b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10614,
+      "sha256": "b0ffeb9104891ce8a52be2cf194919a0e0d472b47f4f60d59df6e0752377d5b6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

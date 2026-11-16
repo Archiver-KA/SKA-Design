@@ -1,0 +1,70 @@
+{
+  "id": "SN-W01826",
+  "title": "Automation Architect Portfolio",
+  "summary": "A modern portfolio template for automation architects and AI systems designers to showcase projects, services, and contact details with a clean, tech-forward layout.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Futuristic",
+    "Large Type",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3719,
+      "sha256": "8864cd8c942e060b523bd58c8c57c70abd5cc65a5a197264cd0a4d27e7c5d672"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13904,
+      "sha256": "33eecfa16409d5e8d7568349f63390ce466daa105d597eebf7a8d4fe03d1ee0b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 718,
+      "sha256": "9d764882c462a93535ddb2ada3966d8f47d749318fc866eb663355e8fc27fe46"
+    },
+    {
+      "path": "index.html",
+      "bytes": 53976,
+      "sha256": "bd65f2d6ff2b66c9141871bfd7e345c1635ab558b0b50b0575d933c2e16b68b2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "bento-grid",
+    "code-terminal",
+    "stats",
+    "how-it-works",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01505",
+  "title": "Voice-Enabled Prompt Bar Hero Section",
+  "summary": "Responsive hero block with headline, mic toggle, text prompt input, run button, listening indicator, and suggestion chips. Tailwind-styled, perfect for AI assistant or automation landing pages seeking interactive command entry.",
+  "tags": [
+    "hero",
+    "prompt",
+    "input",
+    "voice",
+    "tailwind",
+    "interactive",
+    "landing",
+    "suggestion-chips"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19492,
+      "sha256": "35bc3d1c30242afac035b811630c7e2c5224fb56576d708ee8deb045c01eca49"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5317,
+      "sha256": "cc9d3ba0b936e28cd5aa40be47340f4c2d4d4dcae987844e74af7d2261652cb9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6305,
+      "sha256": "82abb89ce985c241ccd932efba039c40bd2f5b7fd1676f62f2a38a1bea7ffa31"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

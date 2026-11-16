@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02075",
+  "title": "Responsive Pricing Packages Section with CTA",
+  "summary": "Three-card pricing section displaying service packages with prices, feature lists, highlight badge, and full-width call-to-action buttons. Built with Tailwind CSS grid, responsive breakpoints, and hover effects—perfect for agency or SaaS pricing pages.",
+  "tags": [
+    "pricing",
+    "tailwind",
+    "responsive",
+    "cta",
+    "grid",
+    "badge"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 31494,
+      "sha256": "11935bad3d15651f41e4c5df54b91cfed5e9b48ddc0f12845f1240cb7cdd8fc6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11951,
+      "sha256": "4c3a144acc056631785c226ad4a208cf5f2ee187ef69328d8b83914a4e452a4c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12946,
+      "sha256": "04c975afff46f174ca87c08fe9c224a9d5567535e0f375e9c145f96785b6ad5e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

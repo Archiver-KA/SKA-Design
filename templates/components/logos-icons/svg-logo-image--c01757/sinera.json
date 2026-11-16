@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01757",
+  "title": "SVG Logo Image",
+  "summary": "A simple SVG logo image component that can be used in headers, navigation bars, or anywhere a logo is needed. Transparent background for flexible placement.",
+  "tags": [
+    "logo",
+    "image",
+    "navigation",
+    "header",
+    "branding",
+    "minimal",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1522,
+      "sha256": "9fc8dcfd3888c0aeae0b349db761fec5c595526c5000a9c21d7a61ac03ee1075"
+    },
+    {
+      "path": "component.html",
+      "bytes": 454,
+      "sha256": "0c65d03589bdac8fef49f995b02f754d08a4cabf32d875c5d2b784167581027b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1289,
+      "sha256": "1e28695b751df90ab0d0055df989d7b29547167083a1d07fb6a7589b8cac3864"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

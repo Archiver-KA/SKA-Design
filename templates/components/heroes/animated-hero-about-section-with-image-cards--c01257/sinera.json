@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01257",
+  "title": "Animated Hero/About Section with Image & Cards",
+  "summary": "Responsive two-column hero section featuring a parallax image, animated headings, badge, and auto-scrolling service cards. Built with Tailwind CSS and custom slide-in/scroll animations. Perfect for SaaS, agency, or product landing pages.",
+  "tags": [
+    "hero-section",
+    "about",
+    "tailwind",
+    "animated",
+    "responsive",
+    "landing-page",
+    "image",
+    "scrolling-cards"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 41380,
+      "sha256": "f99f0dd3e3b32729c85bcdd3612c73288558166258cb5b438ddfedbf8974d827"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10700,
+      "sha256": "62f1ff2674766137479fa1b97283dc8e8694f970242a52689a55228ba0ad3dd0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11571,
+      "sha256": "bff26e16c54fa132e5b636e51487b9ac217701a73cd2526efa331af1ba224bbc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

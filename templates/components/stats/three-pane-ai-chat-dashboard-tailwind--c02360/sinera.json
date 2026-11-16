@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02360",
+  "title": "Three-Pane AI Chat Dashboard (Tailwind)",
+  "summary": "Full-screen dark UI featuring left navigation, central chat with messages, file uploads and actions, and right tools panel. Built with Tailwind utility classes; suited for chatbot apps, team collaboration or AI assistants.",
+  "tags": [
+    "chat",
+    "dashboard",
+    "tailwindcss",
+    "ai",
+    "layout",
+    "dark-mode",
+    "interactive",
+    "section",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 29170,
+      "sha256": "1f2caf0c00e9d6cce8de59e09fac2c94c8073914592fdddcd9c83ed7e909fb53"
+    },
+    {
+      "path": "component.html",
+      "bytes": 28529,
+      "sha256": "30b945b49d597cce54eb24bf78e62cae497329ea11e616d9009662b1400458fc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29519,
+      "sha256": "fcc5d84df2973bc48397326deb2ba1cf6a38c089981a4fc423ecbacc17533091"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

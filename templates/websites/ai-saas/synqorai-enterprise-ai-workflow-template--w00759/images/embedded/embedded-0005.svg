@@ -1,0 +1,11 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none z-10">
+                <line x1="50%" y1="50%" x2="30%" y2="30%" stroke="url(#goldGradient)" stroke-width="1" stroke-dasharray="4 4" class="opacity-50"></line>
+                <line x1="50%" y1="50%" x2="70%" y2="70%" stroke="url(#goldGradient)" stroke-width="1" stroke-dasharray="4 4" class="opacity-50"></line>
+                <defs>
+                  <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+                    <stop offset="0%" stop-color="rgba(214, 191, 163, 0)"></stop>
+                    <stop offset="50%" stop-color="rgba(214, 191, 163, 0.5)"></stop>
+                    <stop offset="100%" stop-color="rgba(214, 191, 163, 0)"></stop>
+                  </linearGradient>
+                </defs>
+              </svg>

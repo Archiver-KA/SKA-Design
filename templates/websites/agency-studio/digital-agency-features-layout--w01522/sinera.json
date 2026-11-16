@@ -1,0 +1,93 @@
+{
+  "id": "SN-W01522",
+  "title": "Digital Agency Features Layout",
+  "summary": "Responsive features section showcasing brand identity, web design, UX, and motion design with interactive grid layout.",
+  "tags": [
+    "Features",
+    "Responsive Design",
+    "UX Design",
+    "Motion Design",
+    "Tailwind CSS",
+    "Grid Layout"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3112,
+      "sha256": "de6930a3e622909978c5205888f8929625d5f1a09e39009e64dc79a9ff4aa3e9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16518,
+      "sha256": "a0631b446c708067f50f34dd83438cbdeadf1d2052e737670042ea90b5602ace"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2041,
+      "sha256": "d9b07ef83d6f51810e9bf864cee94f1a5c018a5dd5e05ead5de5a8551c987112"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 245,
+      "sha256": "ff8a10995cd36d920ac1574ec0b2a78a19977135a94f7803a913331c06230e15"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 399,
+      "sha256": "c215c474ce779a1ded5e337f00c14da53e8fcf0556e89990dfc300c7afe33f42"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 312,
+      "sha256": "83ddadf488f00ec2631844c12cce5b284c70643eb12a319698f855eaf95c4295"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 342,
+      "sha256": "d11af7431cdf3338343ba89a15bf5c1ed1aaf9c78d98027411533b303f6f5825"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 323,
+      "sha256": "357001dcbc781951f38ce2b47a7ab4f8f65d253880fc83b45ccc8e23954e751f"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 244,
+      "sha256": "459b6f1a3f5fa44cde6b204dc82b2acf916604eb43ab09855778d72e55083933"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 403,
+      "sha256": "a2e9df9bdc5b410b960f5c4609810060107e890a4a3abd94e8382296b984f094"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10536,
+      "sha256": "2eafd9efe00a1dae5b7c66ad509c5be4063e2eb2761c644c870b497b5c13b283"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

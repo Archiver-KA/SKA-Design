@@ -1,0 +1,10 @@
+<svg class="w-[80vw] h-[80vw] md:w-[600px] md:h-[600px] text-gold" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="0.3">
+          <!-- Central Pillar -->
+          <path class="svg-scale-path" d="M 50 10 V 90 M 35 90 H 65 M 45 10 H 55"></path>
+          <!-- Beam -->
+          <path class="svg-scale-path" d="M 15 30 H 85"></path>
+          <!-- Strings and Bowls (Left) -->
+          <path class="svg-scale-path" d="M 15 30 L 5 65 M 15 30 L 25 65 M 5 65 Q 15 80 25 65 Z"></path>
+          <!-- Strings and Bowls (Right) -->
+          <path class="svg-scale-path" d="M 85 30 L 75 65 M 85 30 L 95 65 M 75 65 Q 85 80 95 65 Z"></path>
+        </svg>

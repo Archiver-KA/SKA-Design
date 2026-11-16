@@ -1,0 +1,90 @@
+{
+  "id": "SN-W04325",
+  "title": "User Account Settings Panel",
+  "summary": "Responsive settings panel with sidebar navigation, profile form, and particle background using Tailwind CSS and particles.js.",
+  "tags": [
+    "Settings Panel",
+    "Sidebar Navigation",
+    "Profile Form",
+    "Tailwind CSS",
+    "Particles.js",
+    "Responsive UI"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3331,
+      "sha256": "63fe7afdf6160c162f11545d98aac722dc70bb357786466c3593f9105e7ca902"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9264,
+      "sha256": "5e72d2025921aad531b5aae3ba1ee180597523a86dd08d3063ad32480dea6727"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1876,
+      "sha256": "bdc94b8265d77d29fb606ad6ff422783b2b77dc04b886cbb6edd342d965faf1f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 169,
+      "sha256": "56cdeebe961c3a5cb6dd5af1a31ca1ac90709fcd130cf78417249fbae1ce68c1"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 276,
+      "sha256": "ea7f3a0aab8f768e6ad030fb3df139e7cae18c46dd89bb0d33377928b2db7659"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 217,
+      "sha256": "59803dfac22f1b5a77a609abd05aba1336f235ef2f00fc4645c90963aa2e1c32"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 279,
+      "sha256": "058ed31bc8d5cf9f2b9d04ae60ada166894e3d90132ee434fd3bc1c8429ba74b"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 193,
+      "sha256": "2cdcd770ed58b3898df4586465769842246f95fdcf1dc6e965875b090529720b"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 292,
+      "sha256": "c4a2c00332a7470171e05bac9a63aded3c8eb0fdcae2856797c7ea1479360729"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13430,
+      "sha256": "47ad4bbe5809e9cf55b6f08bdf6c91ea939986e3648e1df7bdde280e840eef91"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "blog-articles",
+    "navbar",
+    "cta"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "blog-articles",
+  "design": "DESIGN.md"
+}

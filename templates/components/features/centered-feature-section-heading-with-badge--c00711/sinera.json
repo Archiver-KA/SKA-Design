@@ -1,0 +1,45 @@
+{
+  "id": "SN-C00711",
+  "title": "Centered Feature Section Heading with Badge",
+  "summary": "Displays a centered badge, headline, and subtitle for feature introductions. Uses Tailwind utility classes for responsive typography and dark theme styling, ideal for landing pages or section headers.",
+  "tags": [
+    "heading",
+    "section",
+    "feature",
+    "badge",
+    "tailwind",
+    "responsive",
+    "landing page",
+    "typography",
+    "text"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9858,
+      "sha256": "16a6f73b8c50f7294bdec210fb923cfb02c8a107eb6e0d572862eb070b88f058"
+    },
+    {
+      "path": "component.html",
+      "bytes": 530,
+      "sha256": "703c1f7ee0e79a944938eb5ebccfa00a3e7bf269414a88d295894b657a6203e6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1394,
+      "sha256": "2b5f1c698ee0b3279757c3439bf9a7ce8973d5c8a44928e69086b4b99050d230"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

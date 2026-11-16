@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02403",
+  "title": "Cyberpunk Testimonial Metrics Section",
+  "summary": "A full-width testimonial section with three evaluation cards and supporting performance stats. Styled with Tailwind CSS, it uses a dark futuristic aesthetic, responsive grid layout, and scroll-reveal interactions for product, tech, or case study pages.",
+  "tags": [
+    "testimonial",
+    "section",
+    "tailwind",
+    "responsive",
+    "dark",
+    "metrics",
+    "animated"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 25978,
+      "sha256": "496913df7634b30e1b802f4084d7333426f684bb50835a2835fad4c7dbe551a4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5754,
+      "sha256": "7594c19733b1e4302c6eb860f33ee843b13e5937b3860ae629df89514377e715"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6702,
+      "sha256": "4529ce9da4ce077c177f8d2f2c4ba215b792208e274a28a280dad48e912e65b3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

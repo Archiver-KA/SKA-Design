@@ -1,0 +1,115 @@
+{
+  "id": "SN-W04178",
+  "title": "Creative Professionals Landing Page",
+  "summary": "Responsive landing page with hero and feature card sections using TailwindCSS and custom animations.",
+  "tags": [
+    "Hero",
+    "Feature Cards",
+    "TailwindCSS",
+    "Animations",
+    "Responsive Design",
+    "Web Typography"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3379,
+      "sha256": "e79bde517f4641c989447f63ca7af8ba607516b9ee2cef5dcc5a6a039830ad26"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15544,
+      "sha256": "268b2bf6b7c2c876c4b947c1ddabaf7d79e5581a5f72c539d668c4b901d5219d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2837,
+      "sha256": "0dc365b0c2fce2377bfb10dc5ed0efd4bcc999a9d6a4519786bb0e7287213e4f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 363,
+      "sha256": "9f67476c3a379258a957cb43144ff8459d1647fbfe996c1fbf507cc72adaa754"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 619,
+      "sha256": "1654dd290b5ebbf0a3e66dc28734238aa50a28bc66cb9c1c670af1ec720fbdc6"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 412,
+      "sha256": "5d17f6e68a276b1e1a02573e6af1cc340b0cb7e197426b198b628760f4218a78"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 345,
+      "sha256": "e85b851af2897a06962eab9b364c795b00bdde29bd0f67947e287362944f8531"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 567,
+      "sha256": "3a1239b84bc3ef92f5cbf7af1f5ad9f0c9e08758e98aaa10846bcb24072f3895"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 443,
+      "sha256": "c52ce6f57245b16ba3754f637b7220285fe10439cbb24d5205214d689dc0c4c7"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 644,
+      "sha256": "5c613cb036c7e5a742f2d9b2cab01db08f96d8e8722ffed36b512eca1c061088"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 319,
+      "sha256": "b58ef616a5f677221a1c399f46087fb276e4252b8891af39cea71026b0a936fe"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 438,
+      "sha256": "6aeb42967d45322a93101b5833637f49551eaaa014e64525008d918f6b5e6118"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 326,
+      "sha256": "d2bf8728133e69524225cd5340b030d8d87ad2348b9f8943d7696e51420c6cb9"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 363,
+      "sha256": "77c0dcf6abd008487a926ba47aef021a13256937a29c2cbf967bb40ea27a81e1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19149,
+      "sha256": "b50a49c3bb7f182f59d63569a93afdcd45681ba573bb667329826f4e20641695"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "how-it-works",
+    "stats",
+    "code-terminal"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

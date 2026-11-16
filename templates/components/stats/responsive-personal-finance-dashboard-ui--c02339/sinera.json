@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02339",
+  "title": "Responsive Personal Finance Dashboard UI",
+  "summary": "Comprehensive finance dashboard layout built with Tailwind CSS featuring animated window frame, dual sidebars, spending charts, recent transactions, budget alerts, and quick actions. Ideal for fintech apps, admin panels, or SaaS analytics screens.",
+  "tags": [
+    "dashboard",
+    "finance",
+    "tailwind",
+    "responsive",
+    "charts",
+    "transactions",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 24808,
+      "sha256": "421f590410c8bf386cfa2771c499010e1888c4904f16c34f53b13c1af97c545b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 33498,
+      "sha256": "ea078c238578626f1f39184530c3dec4c5d971e75ec4fadcc1c6f3fcb11040d7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34359,
+      "sha256": "57133db4d015e5b8c1dbf5dd9e82155da312163ae5635148c46fcfc1b688df00"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

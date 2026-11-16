@@ -1,0 +1,46 @@
+{
+  "id": "SN-C01104",
+  "title": "Fixed Blurred Header with Responsive Mobile Nav",
+  "summary": "Fixed top header with translucent blur, slide-down animation, brand logo, nav links, social icons, CTA button and hamburger-triggered mobile menu. Built with Tailwind CSS for responsive landing pages, SaaS or marketing sites.",
+  "tags": [
+    "header",
+    "navbar",
+    "tailwind",
+    "responsive",
+    "mobile-menu",
+    "animation",
+    "fixed",
+    "navigation",
+    "cta",
+    "social-icons"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3288,
+      "sha256": "8273bcfb72c0937c6c723964d9cd68f5fd0c509e4451e5f61adee0d9e84d1d89"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6793,
+      "sha256": "ce6f597b9ffbe6dcc5d17ac40da8fc4fc3198de75acadce9184fa393ca4ba5d0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7791,
+      "sha256": "462211288e8717ad09e87cc84cf274d52f834c276cbea516c6d2bb65a3cf5173"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

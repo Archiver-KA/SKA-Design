@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00290",
+  "title": "Stylized CTA Button with Press Effect",
+  "summary": "Interactive call-to-action button styled with Tailwind utility classes. Features rounded corners, uppercase bold text, hover brightness, and a 3D pressed state using dynamic borders—ideal for prominent actions like “Start Now”.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "interactive",
+    "hover",
+    "pressed",
+    "rounded"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1630,
+      "sha256": "b33d8d5c7366cca61da3288d394f438fd0ea6805cabac033eeb9e7eb8855dd92"
+    },
+    {
+      "path": "component.html",
+      "bytes": 717,
+      "sha256": "b15ad29cf2c19be3cdf4aecada84ec8e616f4c32a834621b3c75570ba54c1bd4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1575,
+      "sha256": "39674827c7e4519719f6fa7bc2a1ab5fc2b201c5bd9a6ccecc1a975c80af16cd"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

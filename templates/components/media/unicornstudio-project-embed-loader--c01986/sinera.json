@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01986",
+  "title": "UnicornStudio Project Embed Loader",
+  "summary": "Embeds a UnicornStudio interactive project via data attribute, auto-loads the library once, and displays it in a full-screen absolute container. Ideal for adding animated or 3D experiences to pages with minimal setup.",
+  "tags": [
+    "embed",
+    "widget",
+    "script loader",
+    "overlay",
+    "javascript",
+    "html",
+    "responsive",
+    "unicornstudio",
+    "background"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15322,
+      "sha256": "3dcbe4b829df752b1f52ad4725dd8afe5a4a8d1e61753c5d297437d22e9948bb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 535,
+      "sha256": "0958a33a98b648f3e1b9ae9666c257dba7cbcfbe63dcf67629671f5fb80af8ca"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1390,
+      "sha256": "39e4dce4c839a5538df636eed2ccbd2675b17d32fbc541040fa0ba588c135db8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

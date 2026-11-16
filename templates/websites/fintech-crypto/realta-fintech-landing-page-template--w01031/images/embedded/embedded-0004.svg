@@ -1,0 +1,96 @@
+<svg
+                    class="w-full h-full"
+                    viewBox="0 0 400 400"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <defs>
+                      <filter
+                        id="sv-glow"
+                        x="-50%"
+                        y="-50%"
+                        width="200%"
+                        height="200%"
+                      >
+                        <feGaussianBlur
+                          stdDeviation="12"
+                          result="blur"
+                        ></feGaussianBlur>
+                      </filter>
+                      <linearGradient
+                        id="sv-line"
+                        x1="0%"
+                        y1="0%"
+                        x2="100%"
+                        y2="100%"
+                      >
+                        <stop
+                          offset="0%"
+                          stop-color="#879f98"
+                          stop-opacity="0.1"
+                        ></stop>
+                        <stop
+                          offset="50%"
+                          stop-color="#4b615a"
+                          stop-opacity="0.4"
+                        ></stop>
+                        <stop
+                          offset="100%"
+                          stop-color="#879f98"
+                          stop-opacity="0.1"
+                        ></stop>
+                      </linearGradient>
+                    </defs>
+                    <g
+                      stroke="url(#sv-line)"
+                      stroke-width="0.5"
+                      class="opacity-60"
+                    >
+                      <line x1="200" y1="200" x2="200" y2="20"></line>
+                      <line x1="200" y1="200" x2="355.9" y2="110"></line>
+                      <line x1="200" y1="200" x2="355.9" y2="290"></line>
+                      <line x1="200" y1="200" x2="200" y2="380"></line>
+                      <line x1="200" y1="200" x2="44.1" y2="290"></line>
+                      <line x1="200" y1="200" x2="44.1" y2="110"></line>
+                    </g>
+                    <polygon
+                      points="200,60 321.2,130 321.2,270 200,340 78.8,270 78.8,130"
+                      fill="rgba(255,255,255,0.4)"
+                      stroke="#a5b7b1"
+                      stroke-width="1"
+                      class="animate-[pulse_6s_ease-in-out_infinite]"
+                    ></polygon>
+                    <polygon
+                      points="200,120 269.3,160 269.3,240 200,280 130.7,240 130.7,160"
+                      fill="rgba(255,255,255,0.6)"
+                      stroke="#879f98"
+                      stroke-width="1.5"
+                      class="animate-[pulse_4s_ease-in-out_infinite]"
+                      style="animation-delay: 1s;"
+                    ></polygon>
+                    <g
+                      fill="#4b615a"
+                      class="animate-[pulse_2s_ease-in-out_infinite]"
+                    >
+                      <circle cx="200" cy="120" r="3"></circle>
+                      <circle cx="269.3" cy="160" r="3"></circle>
+                      <circle cx="269.3" cy="240" r="3"></circle>
+                      <circle cx="200" cy="280" r="3"></circle>
+                      <circle cx="130.7" cy="240" r="3"></circle>
+                      <circle cx="130.7" cy="160" r="3"></circle>
+                    </g>
+                    <polygon
+                      points="200,165 230.3,182.5 230.3,217.5 200,235 169.7,217.5 169.7,182.5"
+                      fill="#4b615a"
+                      opacity="0.4"
+                      filter="url(#sv-glow)"
+                    ></polygon>
+                    <polygon
+                      points="200,165 230.3,182.5 230.3,217.5 200,235 169.7,217.5 169.7,182.5"
+                      fill="#4b615a"
+                      stroke="#ffffff"
+                      stroke-width="1"
+                      class="animate-[pulse_3s_ease-in-out_infinite]"
+                    ></polygon>
+                    <circle cx="200" cy="200" r="4" fill="#ffffff"></circle>
+                  </svg>

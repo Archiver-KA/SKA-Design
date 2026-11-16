@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01755",
+  "title": "Rounded PNG Logo",
+  "summary": "Anchor element styled with Tailwind as a small pill-shaped button featuring a cover-fit background image. Provides a clickable logo or icon link with responsive sizing for sm screens. Ideal for social media badges or compact call-to-action links.",
+  "tags": [
+    "link",
+    "button",
+    "tailwind",
+    "background-image",
+    "responsive",
+    "rounded",
+    "icon",
+    "png"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3094,
+      "sha256": "ab58efc8499ae28f5c6efec433df1b90ab0e2fc63d1d2f48eed6f4ea0195c44a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 511,
+      "sha256": "d27719dbdc6e1d8f6060b8cf968604f4a70ebacb4c143b4ee19195062b5f99c6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1348,
+      "sha256": "356ab126531c2fed1d3b4133e5008ff08ef30bdcc0e865964a1e399c9e1f757c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00118",
+  "title": "CTA Button with Arrow Icon (Tailwind)",
+  "summary": "Pill-shaped anchor styled as a call-to-action button featuring text and an animated arrow icon. Built with Tailwind CSS, it adds a subtle translate effect on hover—ideal for hero sections or linking to contact and project start pages.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "anchor",
+    "icon",
+    "hover",
+    "interactive",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1906,
+      "sha256": "ad20615b9b147ea0ff193a51106c8ad9b968eb6de7e0fa05f0dc0753ba3fa0ca"
+    },
+    {
+      "path": "component.html",
+      "bytes": 665,
+      "sha256": "200ad0037fb4d636f6137e30c5f638d7859a54f38274115f2568f15e3ec47dd8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1653,
+      "sha256": "14ad375b07d1076b2e656859c9dd93bda2ecd02dd6ef9367a5d9d95ae3774bbe"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

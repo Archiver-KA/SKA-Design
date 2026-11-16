@@ -1,0 +1,69 @@
+{
+  "id": "SN-W00544",
+  "title": "Modern Interface Landing Page Template",
+  "summary": "A reusable landing page template designed for showcasing advanced digital products with interactive animations, workflow automation, and developer-focused features.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "Animations",
+    "Features",
+    "Testimonials",
+    "Workflow Automation",
+    "Developer Tools",
+    "UI Components",
+    "Marquee",
+    "Dark Theme"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3425,
+      "sha256": "9c3898c419a2e638d3f8bffe86d006bd2e97405b7e0d2984dc15d8fe7c90d391"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8046,
+      "sha256": "a9b4e7079aeb855486cf2eb3fd845005a6036e92705cbc1503cfd62d560a8fa4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 815,
+      "sha256": "4a08d89699958dec5275a2194f73c4398a26a446f27069ffec9d4abb0770d5f8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38932,
+      "sha256": "f2a5acfb26fc9436854076ecd69699fb51ee756d8e0e8923a87c775864bb5d9d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "how-it-works",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

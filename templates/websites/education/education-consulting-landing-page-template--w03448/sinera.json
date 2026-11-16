@@ -1,0 +1,66 @@
+{
+  "id": "SN-W03448",
+  "title": "Education Consulting Landing Page Template",
+  "summary": "A modern, brandable landing page template for education consulting practices serving school boards and First Nations, ready to customize and launch.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Education",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3600,
+      "sha256": "17f0424c9c0f89b7659621a295d985f433cf9efa46100716816aed39d2e6982c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15894,
+      "sha256": "ac94fb127ee8682ff17abf19a689d610d2855aca2e3d3705efef7171a7f04481"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "c96f28314503743fa33ec19185982cc8fd77a8b3b4b4bc437f28ee2ff68e8fa1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30168,
+      "sha256": "eb259b49fa054b881414ea01d1b7fff498e460b07ae7ff137665fe4f23b4b5af"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "stats",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

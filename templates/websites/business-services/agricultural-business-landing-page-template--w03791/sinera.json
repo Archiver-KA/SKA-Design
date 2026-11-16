@@ -1,0 +1,71 @@
+{
+  "id": "SN-W03791",
+  "title": "Agricultural Business Landing Page Template",
+  "summary": "A modern agricultural business website template for showcasing feed production, commodity storage, and laboratory services with contact and gallery sections.",
+  "tags": [
+    "Landing Page",
+    "Business",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Brand",
+    "Large Type",
+    "Technology",
+    "Portfolio",
+    "Agriculture"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3802,
+      "sha256": "0db4550cc63ba660165470fa7bbc9e59f7175c5b6e08a966bbdc198ba15001c1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11686,
+      "sha256": "9b2c5072cf03bcfad176d87d427b8be6126ee6c2bbfdce7357d64f4635d92a68"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 882,
+      "sha256": "c3edd5c0607c97061de57923c71bb7620a3b545d9aa54bd1101fc8f28390632d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 737,
+      "sha256": "dd0d16b45f1fbb7f9f8ac8f768c25f14b4fd7517e6e7452bb187e1f12890f1b9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 48141,
+      "sha256": "89dfc9e12b40d11529252b6968e13492b2fda9bd51663d15ab9a125cb0e16774"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "gallery-portfolio",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00254",
+  "title": "Prompt Composer with Toolbar and Send Button",
+  "summary": "Multi-line prompt input UI featuring Tailwind styling, quick-access toolbar (builder, model picker, attach, Figma) and floating send action. Ideal for chatbots, AI design tools or any app needing rich prompt composition.",
+  "tags": [
+    "textarea",
+    "prompt",
+    "toolbar",
+    "chat",
+    "tailwind",
+    "ai",
+    "input",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16220,
+      "sha256": "06e2510fe92885a0e9cea6181e87653754826b9e0f01e301aab652f88b95d5a8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5183,
+      "sha256": "3e44ec44a1534a976dd56dca98af75f391ad0c75c3f3cab8ee98db401eb3f261"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6178,
+      "sha256": "f3c8c6a5de66430593f5187aebd942b9825b678cc65653eae3c2b49e1f775162"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "SN-C02220",
+  "title": "Animated Circular Progress Loader",
+  "summary": "A futuristic Tailwind CSS progress component featuring rotating SVG rings, an animated percentage counter, arc indicator, striped progress bar, and loading status text. Ideal for dashboards, preloaders, and data-processing UI states.",
+  "tags": [
+    "ui",
+    "tailwind",
+    "animated",
+    "progress",
+    "loader",
+    "svg",
+    "dashboard"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11416,
+      "sha256": "349f37893f7b39e7ac5a4d502b0877f4a142f636e4dd0d57662800d62dbf2e8d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9674,
+      "sha256": "fb2c7b087e50a5b9a9e9ebf973ed04ea19d3620f5213d844b5dfe17c6fc3e390"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

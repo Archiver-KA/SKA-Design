@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01454",
+  "title": "Product Hero Section with CTA & Newsletter Signup",
+  "summary": "Responsive Tailwind hero banner featuring background image, headline, feature list, order buttons, floating newsletter card, and video teaser. Ideal for SaaS or hardware landing pages seeking impactful first-view engagement.",
+  "tags": [
+    "hero",
+    "landing page",
+    "tailwind",
+    "responsive",
+    "cta",
+    "newsletter",
+    "marketing",
+    "video teaser"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 60832,
+      "sha256": "4ff4a9bb06d61c9472890c466c610d0e81370fb7c45559d5a89925e7cbab0154"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10347,
+      "sha256": "da3301ed2b06ee35c201cee1292910a3ab4f9de515acc0589ff789ec5f0de746"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11351,
+      "sha256": "3c688bfe8ab7d35835cb1f3c231b60ecce3984f6471ed8fa59941d9824e52659"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

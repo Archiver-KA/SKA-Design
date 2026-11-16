@@ -1,0 +1,78 @@
+{
+  "id": "SN-W04200",
+  "title": "Full Screen Features Layout",
+  "summary": "Responsive full-screen layout showcasing three key data management features with icons and call-to-action button.",
+  "tags": [
+    "Features",
+    "Responsive Design",
+    "Tailwind CSS",
+    "SVG Icons",
+    "Call to Action",
+    "Grid Layout"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3080,
+      "sha256": "db2a567eeb49c2474a5fc044037024fc17b9f7bdd25c5916d16494e5fc7d838a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14154,
+      "sha256": "918e531fef7bc4ec542177daeb0a9fbf3633a0927cce39696a985bfcffb1a991"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1449,
+      "sha256": "2cbd91badc8bc1fcb99ad6c3771b1b6949b32c81fe74088a37371820fd0b4dfa"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 717,
+      "sha256": "2ac0da04a3903534a5ac1d947db39e50e4b5413a3bc97b3e64ce63d65ef3d308"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 565,
+      "sha256": "7771bcf93d187ced08bc912d8c3a60eccb14f05a1621232a206ddf84bae6d068"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 443,
+      "sha256": "732ae226a238ffc9bad9c9c8a269385daeae0a6b073a61cc21a1bea2abe33d53"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 207,
+      "sha256": "b037a8d65b4eae94dbd4e3c6c709cf3e5e6ca01dc99e6ef40c089eb118f8a8f8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5426,
+      "sha256": "6297c55898b68e49cebce4b36a55864ad23eb770c35919d2fe43c7d4b181a0b0"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

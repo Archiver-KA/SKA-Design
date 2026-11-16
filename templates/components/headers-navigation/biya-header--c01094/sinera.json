@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01094",
+  "title": "Biya Header",
+  "summary": "Top header component featuring brand logo, nav links, CTA button, and hamburger toggle. Sticks to top with backdrop blur, switches between full nav and slide-down mobile menu. Built with Tailwind CSS for easy styling across marketing or SaaS sites.",
+  "tags": [
+    "navbar",
+    "navigation",
+    "mobile menu",
+    "sticky",
+    "responsive",
+    "tailwind",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3922,
+      "sha256": "d02aca36a24d15a2c93a3f066bfd48896d548980536a50898f411a1c10a6e345"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9743,
+      "sha256": "11e36bdd4ffe6d8f8089f731b13e130491edf8aff13b8e4d637cae12621be283"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10705,
+      "sha256": "3d50634c64c9812c3b7edd9837821bcb3669497569b4ccc9e1fb8037e78ea62e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01750",
+  "title": "Responsive Logo Grid Section",
+  "summary": "Centered tagline with a responsive grid of SVG brand logos styled via Tailwind CSS. Perfect for landing pages to showcase client, partner, or sponsor brands across screen sizes.",
+  "tags": [
+    "logo",
+    "grid",
+    "section",
+    "tailwind",
+    "responsive",
+    "branding",
+    "landing page",
+    "svg"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5500,
+      "sha256": "f43b1c4b7b3cdc86ac645ddd5941e9f8f7049fe21868a7612784ba6aad736b94"
+    },
+    {
+      "path": "component.html",
+      "bytes": 31154,
+      "sha256": "9ccc941227b36919986f9978a5ff0e718938fb776e5068d8576a1725b5eeca18"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32003,
+      "sha256": "9751a5d05bd8af5be13fc8ccddc580cf2d03b7d6c43ece8881e91c0ae49ea2c4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

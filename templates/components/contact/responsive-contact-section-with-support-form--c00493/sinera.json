@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00493",
+  "title": "Responsive Contact Section with Support Form",
+  "summary": "Contact/support section featuring a styled name-email-message form, highlight cards, and a direct contact profile. Uses Tailwind CSS grid, backdrop blur, and icons for a modern, responsive layout—ideal for landing pages or SaaS help centers.",
+  "tags": [
+    "contact",
+    "form",
+    "section",
+    "tailwind",
+    "responsive",
+    "support",
+    "grid"
+  ],
+  "kind": "components",
+  "category": "contact",
+  "categoryLabel": "Contact & maps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19304,
+      "sha256": "80d7e646695ba8b66c8ac88a9fc4215217951e7838983740bf27c54dea0c5162"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8630,
+      "sha256": "45a7663c28ab8cacccc1438431d7b97b1f3d5b6ed9756e0ec8c7df0fbc7e951e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9625,
+      "sha256": "d84cb9196e0a0dad2c9d464bbad03329b7d10b4354d9ec3e1f5676b5e8c3c61d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

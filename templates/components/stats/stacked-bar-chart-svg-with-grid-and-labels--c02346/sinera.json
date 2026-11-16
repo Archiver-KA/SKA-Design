@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02346",
+  "title": "Stacked Bar Chart SVG with Grid and Labels",
+  "summary": "SVG component rendering a multi-column stacked bar chart with red, purple and blue segments, dashed grid lines, and white axis labels. Suited for dark-themed dashboards or reports requiring scalable, framework-agnostic data visualization.",
+  "tags": [
+    "chart",
+    "bar-chart",
+    "stacked",
+    "svg",
+    "data-visualization",
+    "dashboard",
+    "dark-theme",
+    "static"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9722,
+      "sha256": "41d25362386f41e773939e8941672aef83c3aeab6762a68e0c08fc20eb8c02c4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 33956,
+      "sha256": "5eabcd89bac9224971e740c6e6c2ad9c1007ad8e1c9a4a9d81c91842d201ac6f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34819,
+      "sha256": "27016ed6ff85a3eba7a69e0085050902603559bafc42e15ff9d6bbffcb3aed6e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SN-W01085",
+  "title": "ARK Cellular Labs E-commerce Template",
+  "summary": "A professional research-grade product template designed for high-purity laboratory suppliers and scientific compound stores.",
+  "tags": [
+    "Technology",
+    "Health",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3670,
+      "sha256": "55196cd4627d311744b60d2cef8d07da0bda5bdcd1d24a8784632f3387da2180"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16370,
+      "sha256": "86f9df3221509e5e56254579ec24d3355ab2d86c39a26014697d83aae61d54aa"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 727,
+      "sha256": "21f760917a304a53419f3549f70f6828d3656d70a4ba577e8799a18eb6451113"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24423,
+      "sha256": "6328e35a75867c6c6dbd82e271b539621751e704d43e403a6199960dc85155f3"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "cta",
+    "how-it-works",
+    "team",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

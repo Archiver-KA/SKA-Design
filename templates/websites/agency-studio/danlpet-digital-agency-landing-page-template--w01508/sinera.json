@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01508",
+  "title": "Danlpet Digital Agency Landing Page Template",
+  "summary": "A reusable landing page template for creative digital agencies showcasing portfolio, services, and contact form to attract clients.",
+  "tags": [
+    "Landing Page",
+    "Digital Agency",
+    "Portfolio",
+    "Services",
+    "Contact Form",
+    "Hero",
+    "Features",
+    "Call to Action",
+    "Branding"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3888,
+      "sha256": "06c13e676035180c9cc42ca6871d302afc69448017f946a5907a5c903b87eb1d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16116,
+      "sha256": "acaa45abf424a4647b8e849a417cb8283a4de33b0a65f6fab87f0da67be1e627"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "a0b077f644daaca09b7404cda868f11dbb948ebb8648ccd4258e68a8435a4a09"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25139,
+      "sha256": "f339e1e6e16ede0254415332065b9d7ef634a3af81225b035560c46baf15f94a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "case-studies",
+    "services",
+    "logo-cloud",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

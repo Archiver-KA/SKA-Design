@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02190",
+  "title": "Responsive Analytics Product Showcase Grid",
+  "summary": "Tailwind CSS grid layout featuring a hero banner, accent panel and three image cards with overlays and CTA buttons. Ideal for SaaS or analytics landing pages to highlight products or modules in a responsive, visually rich dashboard style.",
+  "tags": [
+    "grid",
+    "hero",
+    "tailwind",
+    "responsive",
+    "showcase",
+    "landing-page",
+    "dashboard"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 58918,
+      "sha256": "3f40526c7fda21b17a5a3bc0a7668a7e7fae110d788d6b987c98dea2fdce81fc"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13235,
+      "sha256": "dccae28a8539cfadb752c3dfa8ff1d73bbd156c344a4887fa9b5c45d412f6545"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14228,
+      "sha256": "66e4eaf8c852bc96d87e082ee33e8c02501f7409ad09903d0e76f2199f8ad743"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

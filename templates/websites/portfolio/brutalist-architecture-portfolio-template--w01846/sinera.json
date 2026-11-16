@@ -1,0 +1,74 @@
+{
+  "id": "SN-W01846",
+  "title": "Brutalist Architecture Portfolio Template",
+  "summary": "AETHEREAL is a brutalist architecture portfolio template showcasing future-forward studio work and projects, ready to customize for your own practice.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Minimal",
+    "Dark",
+    "Large Type",
+    "Gradient",
+    "Brand",
+    "Technology",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3164,
+      "sha256": "bd852307a4c8fdf27f33f7ef4adb6dceb24da964624be7adb5e9c0db8d3cb465"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 81396,
+      "sha256": "fef14b753a5c2a3c1e05a7d9eac5e3b726d47b5bd877ccd2942aeb1d96cf8c26"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 870,
+      "sha256": "b16b489314ab271f93dc125c6a7b41e9a454b55c1bb9138b80fd6e2fe52fca10"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 267,
+      "sha256": "6c905d59716ce63cc5ffaa859075358d8c61a0c35b9942d725f59dce957051c5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17285,
+      "sha256": "4b3fe1f0bee48bf07cdd76c73eb7b82281c83330598bde40f71624ef4f3cf403"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "case-studies",
+    "auth-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

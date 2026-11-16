@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01791",
+  "title": "Aperture Design- Potential look!",
+  "summary": "A reusable architecture portfolio landing page template for showcasing residential and commercial design work, firm expertise, and client inquiries.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Services",
+    "Interior Design",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Architecture",
+    "Luxury",
+    "Residential"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3347,
+      "sha256": "8886b6213006a42b9aef0d82cf3fa52451246c1b6bba3da2a2117d8d22ead797"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9184,
+      "sha256": "c9ae64b971e1261961cf3ec6840c670d599eb29cd844c5ae5afdf7d4562dff51"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 720,
+      "sha256": "ed63a9d9d380191384102b53f9426aa974ec70215efc99843ad1c15f2b368913"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30663,
+      "sha256": "6a130dab0a376f78fd9de2429d32151ab665128509721f39ff75ec902015b48e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "gallery-portfolio",
+    "stats",
+    "about",
+    "services",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

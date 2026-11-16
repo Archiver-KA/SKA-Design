@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00406",
+  "title": "Invoice Creation Panel with Live Preview",
+  "summary": "A detailed invoice creation interface with customer selection, billing schedule, line items, toggles, and controls, alongside a live invoice preview layout. Built with Tailwind-style utility classes, ideal for finance or billing dashboards.",
+  "tags": [
+    "form",
+    "dashboard",
+    "invoice",
+    "billing",
+    "preview",
+    "layout",
+    "tailwind",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20738,
+      "sha256": "227c100c833cd764b2094ab2895c7dbf90c2ca4ce56e70d745df622980fcf6dc"
+    },
+    {
+      "path": "component.html",
+      "bytes": 17583,
+      "sha256": "13f74fe6f29ac3cd2a0b0bd0e46dd1d7177995a9b400adf0f77203e0fa5f9030"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18534,
+      "sha256": "774a33c4f844ff533ac31df3cb759ffa088e58d150bddbb99efb1fd489cc0a6b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

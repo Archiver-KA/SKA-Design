@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02354",
+  "title": "Tailwind Stats Banner with Image Background",
+  "summary": "Responsive Tailwind section featuring a bg image overlay that displays key metrics in a 4-column grid with icon and captions. Ideal for landing pages to highlight achievements or impact statistics.",
+  "tags": [
+    "stats",
+    "banner",
+    "tailwind",
+    "responsive",
+    "metrics",
+    "background-image",
+    "grid"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11802,
+      "sha256": "d76f257ef2ee8dbf80d410af85054ffae2b972f136936c572942b0fb424b6aa5"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1622,
+      "sha256": "f00255f9672e12060468ce58c63d1192fa1067058d03186eb6afd31eaf2e536e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2616,
+      "sha256": "cfa87562c602665c6a3778fc6b1f5aeb04746f2c6d8b728a3b2c6ad555d11235"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

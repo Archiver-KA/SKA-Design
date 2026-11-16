@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01831",
+  "title": "Backstage Horizontal Scroll Gallery Section",
+  "summary": "Full-width backstage gallery section with title, subtitle, arrow controls, and a horizontally scrollable row of snap-aligned image cards featuring gradient captions. Styled with Tailwind utility classes for responsive, media-focused layouts.",
+  "tags": [
+    "section",
+    "gallery",
+    "media",
+    "scrollable",
+    "responsive",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20494,
+      "sha256": "a0f7e0967f50740230dd8fe031e9c77553ae8bdf4957915a30b1685a43469ab9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11057,
+      "sha256": "8a0bd4f4843cee5494173ea56a58052784d3a8fdfa138768206d49ebc9f62b7e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12011,
+      "sha256": "8c9ab9416031066d1940b90047814684f56c9101b774b32da9ec053c3f7bc293"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

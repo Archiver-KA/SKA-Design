@@ -1,0 +1,60 @@
+{
+  "id": "SN-W04319",
+  "title": "Untitled Design",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4026,
+      "sha256": "295b2041c2521abd2b4c9b0de93697b62cc18c4e09ef0cfb9559d455a00362bc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16660,
+      "sha256": "c63e98830fe7790162acc8baba63fc7421e87ef9a22c52cef2beeff6a592dfa0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 709,
+      "sha256": "f0e4ba61b4ff081259c3ce372087a9ad5ebf4c8117fe3594fcfd25565e93deed"
+    },
+    {
+      "path": "index.html",
+      "bytes": 76199,
+      "sha256": "c45233bef457a4e2ce12577c7456d93fff423870aec30c884b4c3cde3e1de731"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "how-it-works",
+    "services",
+    "features",
+    "map-location",
+    "faq",
+    "contact-form",
+    "stats",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

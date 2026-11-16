@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03216",
+  "title": "Construction and Insulation Landing Page Template",
+  "summary": "A professional landing page template for construction services, featuring lead capture forms, service grids, and testimonial sections.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Clean",
+    "Minimal",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3582,
+      "sha256": "ac4087c040c0abca9cf9d8d7b009c3ebd0e8cf095e88a331c2fce05e99385511"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17552,
+      "sha256": "182678c1b18a03a9c2f0fc22b764c30397a4551aaa78c819464dc66276774dd8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 881,
+      "sha256": "a6365228fbb6a6042d7d62f7c8e10ec5e1ac2a72bcb84aed67fe963e6e74d155"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "498fdeed026db33c9c4df21d3a9883ab257dd4a1bb2b594ea1e7bf8566e0768a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34054,
+      "sha256": "8a6a59a7099998a1e335f3d12665f6615c98aa6950647a9491183a3afd744de4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "features",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "SN-W04021",
+  "title": "Managed Web Services Landing Page Template",
+  "summary": "A modern, conversion-focused landing page template for managed web services and local business websites, ready to customize and reuse for your agency.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3850,
+      "sha256": "bbe366972381ee21e0015abcd2e6238c169b9b265e2ddeaa027f729f13951c05"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19224,
+      "sha256": "b3bf4a076b8fe4b6c9eaada9b03cd74f2c8718692d0638c5f3ad3eacb3c229fa"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1700,
+      "sha256": "00dfdd9bdf0e5f1835d06ea3e99fbb12ff1913e243d566a7e2ff4689c416d952"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 291,
+      "sha256": "3cbee9ff2ad3df218be09f86ab37c6ae1dcbf9889d52f2fb701bca61bf5a0bab"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 681,
+      "sha256": "7d58fca0e599622500aba3ee20f47ba5c8164cc5415fb55e89383c10f31fffbe"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 403,
+      "sha256": "5caae3286aec4a8988b73d81aa2eeea81a7bdeb7c4f2fd2fccfe03a1a900a11b"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 396,
+      "sha256": "60df3863a5906ec40621deea59807b8b1360c905b9fb33d1a52f2683810c7996"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 863,
+      "sha256": "c4a7760b3b8d97062a10b7cf4ea27be15f1e7861ee1076d213cb6e00fb0149fc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 78703,
+      "sha256": "1017415757dd248a157ae87419414b6209794bab15306086f1426d14f64ad1e3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "gallery-portfolio",
+    "features",
+    "dashboard-preview",
+    "pricing",
+    "testimonials",
+    "faq",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

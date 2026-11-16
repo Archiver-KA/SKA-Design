@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01915",
+  "title": "Creative Studio Portfolio Template",
+  "summary": "A high-end design and creative direction template featuring innovative gesture-based interaction and sleek dark-mode aesthetics.",
+  "tags": [
+    "Portfolio",
+    "Art & Design",
+    "Technology",
+    "Dark",
+    "Animated",
+    "Clean",
+    "Graphic Design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3348,
+      "sha256": "1a4ec4e6db928dc71026c5205f3a25589ff674c23fc3d402bb4dd1ef7959f7b0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13422,
+      "sha256": "27571f954ff25d8c4e3311c2736cc7893c1189fb362033423f05b18fb7154f98"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 950,
+      "sha256": "341d51fa06daedaf13cb3e0973503ca369e915846d1381e10917b9154da26536"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 148,
+      "sha256": "0225b0cbdb34f4f8c52737bf8595c8e4a1e5a5b0a8b4a1f45e33772feee308f2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15392,
+      "sha256": "6ee97d16c56673d275a26e67e7cf05a799adb954f6d46424751e0bcc86990474"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "video-media"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

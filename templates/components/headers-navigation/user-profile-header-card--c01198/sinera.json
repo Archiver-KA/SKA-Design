@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01198",
+  "title": "User Profile Header Card",
+  "summary": "Compact dark profile card with avatar, user info, and action button. Perfect for testimonial headers or user lists in dark interfaces.",
+  "tags": [
+    "profile",
+    "card",
+    "user",
+    "dark",
+    "avatar",
+    "testimonial"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2176,
+      "sha256": "f8ac3c44df39222bdb97e3095b3cd4b4dbc8049197742c7e5ac4f703517793c0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1105,
+      "sha256": "3f7239b5a6323a37cf0cf48a1d478ef79a6612e93ca58b3c075410fe1fd9fc28"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1950,
+      "sha256": "4edce12bfe16f9d72102cc34c2a1e19d516a2cc35138ba7fd038a7a1f6493532"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

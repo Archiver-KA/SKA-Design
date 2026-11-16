@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00738",
+  "title": "Engineering & Design Manifesto Feature Section",
+  "summary": "Dark themed two-column feature section with manifesto copy, tool badges, and three competency cards for engineering, creative, and strategy. Uses Tailwind-style utility classes and subtle hover effects for modern agency or studio landing pages.",
+  "tags": [
+    "feature",
+    "section",
+    "landing",
+    "agency",
+    "cards",
+    "dark",
+    "responsive",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 31222,
+      "sha256": "7c1590b1add78b4b3731b9ee1225164ff8bfbcfd8c840edc63b4bce5a1518bd1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9047,
+      "sha256": "cbcb499d5298470accc33def18f32bc77296cc46f7b6d31bf0383d8f0bcff369"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9918,
+      "sha256": "a325007c5c047357915be5d1b900711404f8e88bca349d6500038c8f398f48eb"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

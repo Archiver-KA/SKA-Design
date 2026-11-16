@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00284",
+  "title": "Shopify Buy Button Product Embed",
+  "summary": "Embeds a Shopify product buy button with cart and modal product view using Shopify Buy SDK. Includes custom Montserrat typography, responsive layout, and localized button text for add-to-cart and checkout flows.",
+  "tags": [
+    "button",
+    "ecommerce",
+    "shopify",
+    "embed",
+    "cart",
+    "modal",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5350,
+      "sha256": "754c7025839e304cb9ac50805ca6c4147ec0573583c66c93fc0d4d5df52ff768"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2757,
+      "sha256": "502bf91b00f5803351c699dd0cd5220a5aa9a28739e7ba42e5a0b14330df12ef"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3732,
+      "sha256": "da21364805cbba7ce47342041fb7b338d08a875f96ffb7c1225ff70c2ed66640"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

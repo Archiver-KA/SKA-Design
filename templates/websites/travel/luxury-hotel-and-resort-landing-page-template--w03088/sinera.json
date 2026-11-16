@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03088",
+  "title": "Luxury Hotel & Resort Landing Page Template",
+  "summary": "A refined luxury hotel & resort landing page template for showcasing suites, dining, offers, and gallery experiences with a modern cinematic aesthetic.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Travel",
+    "Services",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3712,
+      "sha256": "c7bf7a352e98661b21522c7d7333e97437e8bb8fa8c3a42f7b39c05bf2c01367"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13532,
+      "sha256": "0e81fd8e2097f26e3be51144ad690d4f41e4881335732abf9c22f322866f3633"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "c860488608cfeff2fdbd34409ff96e0407e8fa657aad5174ceb36ca718bb11b5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 45122,
+      "sha256": "add28f272ffe02fc0a885e16e2ce32ca937013e99538642d98974f7c69738949"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "listings",
+    "features",
+    "services",
+    "gallery-portfolio",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

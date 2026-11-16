@@ -1,0 +1,45 @@
+{
+  "id": "SN-C00047",
+  "title": "Animated Border Button",
+  "summary": "A cyberpunk-style button with animated gradient borders that continuously flow around the edges. Perfect for call-to-action elements in dark-themed interfaces.",
+  "tags": [
+    "button",
+    "animated",
+    "cyberpunk",
+    "gradient",
+    "border",
+    "modern",
+    "dark",
+    "monospace",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2474,
+      "sha256": "eadec84e83271762aa50177197848ffad12457a2b602b47e702088d559b6c04b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1629,
+      "sha256": "cecc51beb527575300fbca52dc76c992ee886b3ad5ccb5c72c70ec67fb34517a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2472,
+      "sha256": "e39abf9fade55c962b0f07ed833a32c3cf5c6c46d0c993ace8ce06f37e7a7d14"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

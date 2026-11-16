@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00609",
+  "title": "Collapsible FAQ Section with CTA",
+  "summary": "Interactive FAQ accordion featuring six Tailwind-styled questions, expandable answers, and a concluding call-to-action panel with contact and demo buttons. Ideal for landing pages needing concise Q&A and conversion prompts.",
+  "tags": [
+    "faq",
+    "accordion",
+    "collapse",
+    "tailwind",
+    "section",
+    "cta",
+    "interactive",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "faq",
+  "categoryLabel": "FAQ & accordions",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18524,
+      "sha256": "530ce62e4be4ce1946361a26f21de5e8960d5a7d6eab659d0c5fc587676b1953"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8348,
+      "sha256": "6f3138288c62c499662d903f21c317261a10163c984db559d54cd19b70f4cb2e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9201,
+      "sha256": "88056e23741a7c48562df3e40880a662f0987d28f953e5b8572f344657d090cb"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

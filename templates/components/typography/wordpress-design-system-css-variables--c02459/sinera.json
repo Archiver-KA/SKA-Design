@@ -1,0 +1,41 @@
+{
+  "id": "SN-C02459",
+  "title": "WordPress Design System CSS Variables",
+  "summary": "Complete CSS custom properties system defining colors, typography, spacing, shadows, and theme variables for a WordPress site with WooCommerce integration.",
+  "tags": [
+    "ui",
+    "system",
+    "variables",
+    "theme",
+    "wordpress"
+  ],
+  "kind": "components",
+  "category": "typography",
+  "categoryLabel": "Text & typography",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3188,
+      "sha256": "57bc33dcdfe533936d63d17186188ef8c5e2f61bd589def4ccc38dee06fbdd1d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7791,
+      "sha256": "513400c556bdce94f1b0c735505764d97390f37c2aa677af381dd798804bb6c5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8649,
+      "sha256": "f6d76744f7c979564e53e251fe0d673e93a176167b461473662ae387a5db6027"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

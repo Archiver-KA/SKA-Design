@@ -1,0 +1,71 @@
+{
+  "id": "SN-W01843",
+  "title": "Brand Designer Portfolio Template",
+  "summary": "A premium portfolio template for branding designers and creative studios to showcase work, explain services, publish insights, and capture project inquiries.",
+  "tags": [
+    "Portfolio",
+    "Brand",
+    "Services",
+    "Landing Page",
+    "Art & Design",
+    "Minimal",
+    "Dark",
+    "Clean",
+    "Brand Guidelines"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3618,
+      "sha256": "941742ac160fe66102e7538b8a998438c878feaf4d092eb9c29749121e4040df"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20961,
+      "sha256": "72eeb4591a5d4c327e9d617e83d4659fea9c8a71623b98a98a004fe164fdaa88"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 804,
+      "sha256": "9b4f24bd6887adde3f731bda0b7f547eb6a4c4b9e6aac6fd76fb5fb31247d7f9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34988,
+      "sha256": "ec97591b371cd235129a632f91aa9cfb9451f44b3d49ca19924b0c448a6064a6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "case-studies",
+    "how-it-works",
+    "team",
+    "blog-articles",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

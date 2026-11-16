@@ -1,0 +1,60 @@
+{
+  "id": "SN-W03784",
+  "title": "Weekly Newsletter Summary Layout",
+  "summary": "Responsive newsletter UI displaying featured story, market summary, quick reads, upcoming events, and footer links.",
+  "tags": [
+    "Newsletter",
+    "TailwindCSS",
+    "Responsive",
+    "Market Summary",
+    "Featured Story",
+    "Events"
+  ],
+  "kind": "websites",
+  "category": "news-blog",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2974,
+      "sha256": "753855a74320e4e979e03f1a66fde0a93f4f1bcadd695866432db4918b343b53"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12888,
+      "sha256": "4da32a0c3c0a6366a57c17062192cdbdbe084fa0fbdf82e57e0ee14bf4b99577"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "403582ad9eb6316d42e05e1be9c118cf46a4b77c6a5362abd82610b31d918d3d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4610,
+      "sha256": "30a9dcf04a5f8bfa6660dad47e9b1b8fe9eade1cc27c8a97db83797148f82c63"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "content",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Content / News",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero",
+    "stats",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

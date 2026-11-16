@@ -1,0 +1,40 @@
+{
+  "id": "SN-C02456",
+  "title": "Simple Text Display",
+  "summary": "A basic text display component showing plain text content. Use this for displaying simple text snippets or messages.",
+  "tags": [
+    "text",
+    "simple",
+    "minimal",
+    "basic"
+  ],
+  "kind": "components",
+  "category": "typography",
+  "categoryLabel": "Text & typography",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2586,
+      "sha256": "95f06a9b70ce0b682c8f592367f62e621f72fdd202730926557a74fd2c3de693"
+    },
+    {
+      "path": "component.html",
+      "bytes": 82,
+      "sha256": "c22f2af437b9f5b3a8088d4a0d0898201ea598668f66b8f462ea32e8bad20e54"
+    },
+    {
+      "path": "index.html",
+      "bytes": 922,
+      "sha256": "5dc95bd67f0a6c911d85965351423260c2c82b168b8a386b98fa1939fe89c411"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

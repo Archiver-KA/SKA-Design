@@ -1,0 +1,37 @@
+{
+  "id": "SN-C01504",
+  "title": "Viral Score Hero Card with Animated Equalizer",
+  "summary": "Compact hero-style card showing a viral potential score with animated counter, equalizer-style framework breakdown, tooltips, and a shiny CTA button. Built with Tailwind and custom CSS/JS for scoring logic and intersection-based animations.",
+  "tags": [
+    "card",
+    "tailwind",
+    "animated",
+    "interactive",
+    "dashboard",
+    "analytics",
+    "statistics"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9180,
+      "sha256": "26ce93b9069fd91bd0435f6c1f1dddddc3a193ce00cd4700bc3317c75eaf0238"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16951,
+      "sha256": "a6c178b7a5735e076a522db5346f1800f52415bfb8cce79e19e887e93c63f6f9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

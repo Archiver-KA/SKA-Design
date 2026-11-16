@@ -1,0 +1,70 @@
+{
+  "id": "SN-W01963",
+  "title": "Developer Portfolio Landing Page Template",
+  "summary": "A dark, futuristic developer portfolio template for showcasing projects, tech stack, and blog content, ready to customize for your own personal brand.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Animated",
+    "Large Type",
+    "Minimal",
+    "Art & Design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3733,
+      "sha256": "8edec730b2e9f11109bd8cbc55db39319cce26fb0037b04bafd4f108bd3c8f66"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7956,
+      "sha256": "82dae527bcaccbeaeba03da03684dccac7f65737a7146a15affe9e16dee2cfef"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 812,
+      "sha256": "dd7495335481c81db00f8391be96d94e57ee81bd85d7d87bcbdd18afe483e1aa"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37323,
+      "sha256": "ee05b4291343ea0890fbca6b70fbf5a34057aac03a7aeb092bb7bd8064f686fe"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "about",
+    "bento-grid",
+    "gallery-portfolio",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02006",
+  "title": "Animated Pricing Section with Plan Toggle",
+  "summary": "Responsive Tailwind pricing section featuring monthly/annual toggle, two glassmorphic plan cards, fade-in scroll animation, gradient backgrounds, feature lists, and CTA buttons. Ideal for SaaS landing or product pages.",
+  "tags": [
+    "pricing",
+    "section",
+    "tailwind",
+    "animated",
+    "responsive",
+    "cards",
+    "glassmorphic",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 35282,
+      "sha256": "67bfd2f6e02f846881ce359c6b9ea8749e07359adb40f5a14d1353307504bb80"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11497,
+      "sha256": "055fd7b0cd43343efa33ff17d825e70042f0ba2c2e972ffb9d78308f0cbd08ac"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12359,
+      "sha256": "5049001cc57eb312fcc3a2052ffc791856197736d432ec472078c8da2e9663ee"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

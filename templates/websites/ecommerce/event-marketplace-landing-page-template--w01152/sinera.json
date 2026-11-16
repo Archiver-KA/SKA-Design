@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01152",
+  "title": "Event Marketplace Landing Page Template",
+  "summary": "A reusable landing page template for event vendor marketplaces that helps organizers discover, compare, and book vendors while vendors attract leads.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Clean",
+    "Gradient",
+    "Marketplace",
+    "Event Planning",
+    "Vendor Directory"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4017,
+      "sha256": "5fd8e3dcf7c3a091984147738b09f395a921cab88827a590c2207925aedd6daa"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17820,
+      "sha256": "77b260ecda5082d4f67e2471c10d1ce9a4e8a1547573f7067c4a2601fdc4ab71"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "62a29bfe2040623f593b82262efb5db47cc8ebf62250bd89fe7861932ca5c135"
+    },
+    {
+      "path": "index.html",
+      "bytes": 58021,
+      "sha256": "1f18232a1b2caddc7a193f67f41d5531afd705b662a2db7547d2defe4c137f3f"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "how-it-works",
+    "comparison",
+    "testimonials",
+    "pricing",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

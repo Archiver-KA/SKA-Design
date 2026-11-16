@@ -1,0 +1,40 @@
+{
+  "id": "SN-C01126",
+  "title": "Horizontal Navigation Menu",
+  "summary": "A clean horizontal navigation menu with hover effects. Responsive design hides on mobile and displays on medium screens and above.",
+  "tags": [
+    "navigation",
+    "menu",
+    "responsive",
+    "horizontal"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4240,
+      "sha256": "0bc0cbb2e9fefc48aeea2acec43adde3e00b301ced2de9d633eaa61748cc88f3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 534,
+      "sha256": "d9cbfeb7ad57c9a087d36c2b75e65485cf27c80759dab292a248422c31123b35"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1381,
+      "sha256": "4d445f926598ba56be07b39cf5fa6feaf9a7ec48bfea1ffa18829cdda7b9cbc3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

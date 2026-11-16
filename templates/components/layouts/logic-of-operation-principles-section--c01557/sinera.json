@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01557",
+  "title": "Logic of Operation Principles Section",
+  "summary": "Animated dark-themed principles section presenting five operational pillars plus a highlighted feature. Uses IntersectionObserver for reveal-on-scroll and hover highlighting. Ideal for AI, SaaS, or product philosophy pages.",
+  "tags": [
+    "feature",
+    "section",
+    "animated",
+    "interactive",
+    "responsive",
+    "philosophy",
+    "principles"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21214,
+      "sha256": "b55b6c60fcfa9f40ed96b4174fefe766a3c361ceb7d167cc84809e5a0d665764"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8373,
+      "sha256": "6d086e6ee68e0a2a5410ab604730b9567136d2e860cffe6f4737aafa4668960b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9231,
+      "sha256": "90f4a34d1df0e36389da0d2094c004a1a12bcf318c00f8448bf3f623f64d620e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

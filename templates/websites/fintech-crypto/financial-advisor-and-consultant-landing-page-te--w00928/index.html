@@ -1,0 +1,297 @@
+<!doctype html>
+<html lang="cs" data-theme="circuit">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Petr Pražák | Nezávislý finanční poradce</title>
+<meta name="description" content="Nezávislé finanční poradenství: hypotéky, pojištění a investice. Za 3 schůzky získáte jednostránkový plán – cash flow, penze i ochranu rodiny.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config = { theme: { extend: {
+  colors: { ground: "#F4F6FA", surface: "#FFFFFF", ink: "#0E1726", muted: "#556070", line: "#D9DFE8", accent: "#2B5CE6", accent2: "#F2A33A" },
+  fontFamily: { display: ['"Space Grotesk"', "system-ui", "sans-serif"], body: ["Inter", "system-ui", "sans-serif"] }
+}}};
+</script>
+<style>
+[data-theme="circuit"] {
+  --sa-ground: #F4F6FA; --sa-surface: #FFFFFF; --sa-ink: #0E1726; --sa-muted: #556070; --sa-line: #D9DFE8;
+  --sa-accent: #2B5CE6; --sa-on-accent: #FFFFFF; --sa-accent-2: #F2A33A; --sa-on-accent-2: #0E1726;
+  --sa-font-display: "Space Grotesk", system-ui, sans-serif; --sa-font-body: "Inter", system-ui, sans-serif;
+  --sa-radius-control: 6px; --sa-radius-card: 6px; --sa-display-case: none;
+  color-scheme: light; background: var(--sa-ground); color: var(--sa-ink); font-family: var(--sa-font-body);
+}
+[data-theme] :is(h1,h2,h3){font-family:var(--sa-font-display);text-wrap:balance}
+html{scroll-behavior:smooth}
+body{font-size:16px;line-height:1.6;overflow-x:hidden}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;padding:0 22px;border-radius:6px;background:var(--sa-accent);color:#fff;font-weight:600;font-size:15px;text-decoration:none;border:0;cursor:pointer}
+.btn:hover{background:#2250d0}
+.btn-ghost{background:transparent;color:var(--sa-ink);box-shadow:inset 0 0 0 1px var(--sa-ink)}
+.btn-ghost:hover{background:var(--sa-ink);color:#fff}
+:focus-visible{outline:2px solid var(--sa-ink);outline-offset:3px;border-radius:4px}
+.sec{padding-block:56px}
+@media(min-width:768px){.sec{padding-block:96px}}
+.wrap{max-width:1160px;margin-inline:auto;padding-inline:20px}
+@media(min-width:768px){.wrap{padding-inline:32px}}
+.eyebrow{font:600 13px/1 var(--sa-font-body);letter-spacing:.08em;text-transform:uppercase;color:var(--sa-muted)}
+/* ledger grid: the signature layout idea */
+.ledger{background-image:linear-gradient(var(--sa-line) 1px,transparent 1px),linear-gradient(90deg,var(--sa-line) 1px,transparent 1px);background-size:32px 32px;background-position:-1px -1px}
+.rule-row{display:grid;gap:12px;padding-block:24px;border-top:1px solid var(--sa-line)}
+@media(min-width:768px){.rule-row{grid-template-columns:72px 1.1fr 1.5fr 140px;gap:32px;align-items:start}}
+details>summary{list-style:none;cursor:pointer;min-height:56px;display:flex;align-items:center;justify-content:space-between;gap:16px;padding-block:12px;font-weight:600}
+details>summary::-webkit-details-marker{display:none}
+details[open] .plus{transform:rotate(45deg)}
+.plus{transition:transform .2s}
+.ph{display:flex;align-items:center;justify-content:center;text-align:center;border:1px dashed #8995A8;color:var(--sa-muted);font-size:13px;background:repeating-linear-gradient(45deg,transparent 0 10px,rgba(14,23,38,.03) 10px 20px)}
+</style>
+</head>
+<body class="bg-ground text-ink font-body antialiased">
+
+<a href="#main" class="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:bg-surface focus:p-3">Přeskočit na obsah</a>
+
+<header class="sticky top-0 z-40 bg-ground/95 border-b border-line backdrop-blur-0">
+  <div class="wrap flex items-center justify-between h-16">
+    <a href="#" class="font-display font-bold text-lg tracking-tight flex items-center gap-2" aria-label="Petr Pražák – úvodní stránka">
+      <svg width="26" height="26" viewBox="0 0 26 26" fill="none" aria-hidden="true"><rect x="1" y="1" width="24" height="24" stroke="#0E1726" stroke-width="2"/><path d="M6 19V13M11 19V9M16 19V11M21 19V6" stroke="#2B5CE6" stroke-width="2.4"/></svg>
+      Petr Pražák
+    </a>
+    <nav class="hidden md:flex items-center gap-8 text-[15px] font-medium" aria-label="Hlavní">
+      <a href="#dich-vu" class="hover:text-accent py-3">Služby</a>
+      <a href="#quy-trinh" class="hover:text-accent py-3">Jak to funguje</a>
+      <a href="#phi" class="hover:text-accent py-3">Odměna</a>
+      <a href="#hoi-dap" class="hover:text-accent py-3">Dotazy</a>
+      <a href="#dat-lich" class="btn">Domluvit první schůzku</a>
+    </nav>
+    <button id="menuBtn" class="md:hidden w-11 h-11 inline-flex items-center justify-center border border-line rounded-md bg-surface" aria-label="Otevřít menu" aria-expanded="false" aria-controls="mobileNav">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+  </div>
+  <nav id="mobileNav" class="hidden md:hidden border-t border-line bg-surface" aria-label="Mobilní menu">
+    <div class="wrap flex flex-col py-2">
+      <a href="#dich-vu" class="py-3 min-h-[44px] font-medium">Služby</a>
+      <a href="#quy-trinh" class="py-3 min-h-[44px] font-medium">Jak to funguje</a>
+      <a href="#phi" class="py-3 min-h-[44px] font-medium">Odměna</a>
+      <a href="#hoi-dap" class="py-3 min-h-[44px] font-medium">Dotazy</a>
+      <a href="#dat-lich" class="btn my-3">Domluvit první schůzku</a>
+    </div>
+  </nav>
+</header>
+
+<main id="main">
+
+<!-- HERO: ledger paper + cash-flow sheet -->
+<section class="ledger border-b border-line">
+  <div class="wrap py-14 md:py-24 grid md:grid-cols-12 gap-10 md:gap-8 items-center">
+    <div class="md:col-span-7">
+      <p class="eyebrow mb-5">Nezávislé finanční poradenství a pojištění</p>
+      <h1 class="font-display font-bold text-[40px] leading-[1.05] sm:text-6xl lg:text-[72px] tracking-tight">Víte přesně, kam vaše peníze zamíří v příštích 20 letech.</h1>
+      <p class="mt-6 text-lg text-muted max-w-xl bg-ground/80">Během tří schůzek získáte jednostránkový plán: současný cash flow, cíl pro penzi, potřebné krytí pro rodinu a seznam kroků seřazených podle priority.</p>
+      <div class="mt-8 flex flex-col sm:flex-row gap-3">
+        <a href="#dat-lich" class="btn">Domluvit konzultaci zdarma</a>
+        <a href="#quy-trinh" class="btn btn-ghost bg-ground">Co se děje na 3 schůzkách</a>
+      </div>
+      <p class="mt-4 text-sm text-muted bg-ground/80 inline-block">První schůzka: [DÉLKA] minut, [FORMA: osobně / online]. Bez závazku podpisu smlouvy.</p>
+    </div>
+    <div class="md:col-span-5">
+      <figure class="bg-surface border border-line rounded-md p-5 shadow-[6px_6px_0_0_#0E1726]" aria-label="Ukázka jednostránkového finančního plánu">
+        <figcaption class="flex items-center justify-between eyebrow mb-4"><span>Ukázkový plán</span><span>Strana 1/1</span></figcaption>
+        <svg viewBox="0 0 360 200" class="w-full h-auto" role="img" aria-label="Ilustrační graf růstu majetku v čase s vyznačeným odchodem do penze">
+          <g stroke="#D9DFE8" stroke-width="1"><path d="M30 20H350M30 60H350M30 100H350M30 140H350M30 180H350"/></g>
+          <path d="M30 170 L90 160 L150 142 L210 118 L270 82 L350 36" fill="none" stroke="#2B5CE6" stroke-width="3"/>
+          <path d="M30 170 L90 166 L150 158 L210 148 L270 136 L350 120" fill="none" stroke="#556070" stroke-width="2" stroke-dasharray="5 5"/>
+          <line x1="270" y1="14" x2="270" y2="184" stroke="#0E1726" stroke-width="2"/>
+          <rect x="276" y="14" width="74" height="22" fill="#F2A33A"/>
+          <text x="282" y="30" font-family="Inter" font-size="12" font-weight="600" fill="#0E1726">Penze</text>
+          <text x="32" y="196" font-family="Inter" font-size="11" fill="#556070">Dnes</text>
+          <text x="300" y="196" font-family="Inter" font-size="11" fill="#556070">+20 let</text>
+        </svg>
+        <dl class="mt-4 text-sm grid grid-cols-[1fr_auto] gap-x-4 gap-y-0">
+          <dt class="py-2 border-t border-line text-muted">Čistý měsíční cash flow</dt><dd class="py-2 border-t border-line font-semibold">[ČÁSTKA]</dd>
+          <dt class="py-2 border-t border-line text-muted">Rezerva (počet měsíčních výdajů)</dt><dd class="py-2 border-t border-line font-semibold">[POČET MĚSÍCŮ]</dd>
+          <dt class="py-2 border-t border-line text-muted">Mezera v pojistném krytí</dt><dd class="py-2 border-t border-line font-semibold">[ČÁSTKA]</dd>
+        </dl>
+        <p class="mt-2 text-xs text-muted">Plná čára: upravený plán. Přerušovaná: beze změny návyků. Údaje jsou jen ilustrativní.</p>
+      </figure>
+    </div>
+  </div>
+</section>
+
+<!-- PROOF -->
+<section class="sec border-b border-line bg-surface" aria-labelledby="proof-h">
+  <div class="wrap">
+    <h2 id="proof-h" class="eyebrow mb-8">Licence, certifikace a profesní závazky</h2>
+    <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+      <div class="ph h-24">[CERTIFIKÁT / LICENCE 1]</div>
+      <div class="ph h-24">[CERTIFIKÁT / LICENCE 2]</div>
+      <div class="ph h-24">[PROFESNÍ ASOCIACE]</div>
+      <div class="ph h-24">[POČET LET PRAXE]</div>
+    </div>
+    <figure class="mt-10 grid md:grid-cols-[1fr_2fr] gap-6 items-start">
+      <div class="ph aspect-[4/3]">Portrét poradce 4:3</div>
+      <blockquote>
+        <p class="font-display text-2xl md:text-3xl leading-snug">„[CITACE KLIENTA: jedna věta o tom, že po konzultaci lépe rozumí svým financím]“</p>
+        <figcaption class="mt-4 text-muted text-sm">[JMÉNO, FUNKCE]</figcaption>
+      </blockquote>
+    </figure>
+  </div>
+</section>
+
+<!-- DOUBTS -->
+<section class="sec" aria-labelledby="doubt-h">
+  <div class="wrap grid md:grid-cols-12 gap-10">
+    <div class="md:col-span-5">
+      <p class="eyebrow mb-4">Časté obavy</p>
+      <h2 id="doubt-h" class="font-display font-bold text-3xl md:text-5xl tracking-tight">Nepotřebujete další produkt. Potřebujete celkový obrázek.</h2>
+    </div>
+    <div class="md:col-span-7 grid gap-0">
+      <div class="py-6 border-t border-ink"><h3 class="font-display font-semibold text-xl">„Bojím se, že mi budou jen prodávat pojištění nebo fondy.“</h3><p class="mt-2 text-muted">První schůzka slouží jen ke sběru čísel a cílů. Doporučení produktů přicházejí až poté, s důvody a alternativami. Způsob odměny je jasně popsán níže.</p></div>
+      <div class="py-6 border-t border-line"><h3 class="font-display font-semibold text-xl">„Moje příjmy nejsou tak vysoké, abych potřeboval poradce.“</h3><p class="mt-2 text-muted">Dobrý plán obvykle začíná uspořádáním toho, co už máte: dluhy, rezerva, přiměřené pojištění. K tomu velký majetek nepotřebujete.</p></div>
+      <div class="py-6 border-t border-line"><h3 class="font-display font-semibold text-xl">„Už mám svého pojišťováka, v čem je rozdíl?“</h3><p class="mt-2 text-muted">Projdeme smlouvy, které máte, ukážeme, co se překrývá a co chybí, a vy se sami rozhodnete, zda je ponechat, změnit, nebo zrušit.</p></div>
+      <div class="py-6 border-t border-b border-line"><h3 class="font-display font-semibold text-xl">„Zůstanou mé finanční údaje důvěrné?“</h3><p class="mt-2 text-muted">Údaje slouží jen pro váš plán a nesdílíme je s třetími stranami. [VAŠE ZÁSADY OCHRANY OSOBNÍCH ÚDAJŮ].</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- SERVICES as ruled ledger -->
+<section id="dich-vu" class="sec bg-surface border-y border-line" aria-labelledby="sv-h">
+  <div class="wrap">
+    <p class="eyebrow mb-4">Služby</p>
+    <h2 id="sv-h" class="font-display font-bold text-3xl md:text-5xl tracking-tight max-w-3xl">Čtyři činnosti, každá s konkrétním výstupem.</h2>
+    <div class="mt-12 border-b border-line">
+      <div class="rule-row">
+        <span class="font-display font-bold text-3xl text-accent" aria-hidden="true">01</span>
+        <h3 class="font-display font-semibold text-xl">Plánování cash flow</h3>
+        <p class="text-muted">Roztřídíme příjmy a výdaje za poslední 3 měsíce, najdeme úniky a nastavíme pravidelné spoření, které udržíte.</p>
+        <p class="text-sm font-semibold">Výstup: rozpočtová tabulka</p>
+      </div>
+      <div class="rule-row">
+        <span class="font-display font-bold text-3xl text-accent" aria-hidden="true">02</span>
+        <h3 class="font-display font-semibold text-xl">Penze a budování majetku</h3>
+        <p class="text-muted">Spočítáme, kolik budete potřebovat podle plánovaného věku odchodu do penze, a to ve více scénářích výnosů místo jednoho optimistického čísla.</p>
+        <p class="text-sm font-semibold">Výstup: model se 3 scénáři</p>
+      </div>
+      <div class="rule-row">
+        <span class="font-display font-bold text-3xl text-accent" aria-hidden="true">03</span>
+        <h3 class="font-display font-semibold text-xl">Revize pojištění</h3>
+        <p class="text-muted">Porovnáme stávající smlouvy se skutečnými riziky vaší rodiny: příjem, závislé osoby, úvěry. Zbytečné vyřadíme, chybějící doplníme.</p>
+        <p class="text-sm font-semibold">Výstup: mapa krytí</p>
+      </div>
+      <div class="rule-row">
+        <span class="font-display font-bold text-3xl text-accent" aria-hidden="true">04</span>
+        <h3 class="font-display font-semibold text-xl">Poradenství pro drobné podnikatele</h3>
+        <p class="text-muted">Oddělíme soukromé a firemní peníze, nastavíme vlastní odměnu, rezervu a pojištění klíčových osob.</p>
+        <p class="text-sm font-semibold">Výstup: pravidla rozdělení peněz</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PROCESS: horizontal timeline -->
+<section id="quy-trinh" class="sec" aria-labelledby="pr-h">
+  <div class="wrap">
+    <p class="eyebrow mb-4">Jak to funguje</p>
+    <h2 id="pr-h" class="font-display font-bold text-3xl md:text-5xl tracking-tight max-w-3xl">Tři schůzky, každá končí krokem, který můžete udělat hned.</h2>
+    <ol class="mt-12 grid md:grid-cols-3 gap-0 border-t-2 border-ink">
+      <li class="pt-6 md:pr-8 pb-8 md:pb-0">
+        <span class="inline-flex w-10 h-10 items-center justify-center bg-ink text-white font-display font-bold -mt-12 mb-4">1</span>
+        <h3 class="font-display font-semibold text-xl">Naslouchání a sběr čísel</h3>
+        <p class="mt-2 text-muted">Popíšete cíle a obavy a pošlete podklady podle seznamu, který dostanete před schůzkou.</p>
+        <p class="mt-3 text-sm font-semibold">Získáte: seznam příprav</p>
+      </li>
+      <li class="pt-6 md:px-8 pb-8 md:pb-0 md:border-l border-line">
+        <span class="inline-flex w-10 h-10 items-center justify-center bg-ink text-white font-display font-bold -mt-12 mb-4">2</span>
+        <h3 class="font-display font-semibold text-xl">Představení plánu</h3>
+        <p class="mt-2 text-muted">Ukážeme současný stav, scénáře a doporučení podle priority. Ptáte se, dokud všemu nerozumíte.</p>
+        <p class="mt-3 text-sm font-semibold">Získáte: jednostránkový plán</p>
+      </li>
+      <li class="pt-6 md:pl-8 md:border-l border-line">
+        <span class="inline-flex w-10 h-10 items-center justify-center bg-ink text-white font-display font-bold -mt-12 mb-4">3</span>
+        <h3 class="font-display font-semibold text-xl">Realizace a revize</h3>
+        <p class="mt-2 text-muted">Společně začneme prvními kroky a domluvíme pravidelné revize [FREKVENCE], abychom plán upravili, když se změní život.</p>
+        <p class="mt-3 text-sm font-semibold">Získáte: harmonogram revizí</p>
+      </li>
+    </ol>
+  </div>
+</section>
+
+<!-- FEES -->
+<section id="phi" class="sec bg-ink text-white" aria-labelledby="fee-h">
+  <div class="wrap">
+    <p class="eyebrow mb-4" style="color:#B7C0CF">Transparentní odměna</p>
+    <h2 id="fee-h" class="font-display font-bold text-3xl md:text-5xl tracking-tight max-w-3xl">Ještě před začátkem víte, kolik platíte a za co.</h2>
+    <div class="mt-12 grid md:grid-cols-3 gap-4">
+      <article class="border border-[#3A4659] p-6 rounded-md">
+        <h3 class="font-display font-semibold text-xl">Finanční prohlídka</h3>
+        <p class="mt-1 text-[#B7C0CF] text-sm">Pro ty, kdo začínají</p>
+        <p class="mt-6 font-display font-bold text-3xl">[VAŠE CENA]</p>
+        <ul class="mt-4 space-y-2 text-[#DCE2EC] text-[15px]"><li>1 schůzka, [DÉLKA] minut</li><li>Zhodnocení cash flow a stávajícího pojištění</li><li>Seznam 5 prioritních kroků</li></ul>
+      </article>
+      <article class="bg-surface text-ink p-6 rounded-md relative">
+        <span class="absolute -top-3 left-6 bg-accent2 text-ink text-xs font-bold px-3 py-1 rounded-sm">Nejoblíbenější</span>
+        <h3 class="font-display font-semibold text-xl">Kompletní finanční plán</h3>
+        <p class="mt-1 text-muted text-sm">3 schůzky podle postupu výše</p>
+        <p class="mt-6 font-display font-bold text-3xl">[VAŠE CENA]</p>
+        <ul class="mt-4 space-y-2 text-muted text-[15px]"><li>Jednostránkový plán a model se 3 scénáři</li><li>Revize všech pojistných smluv</li><li>[POČET] dotazů po konzultaci</li></ul>
+        <a href="#dat-lich" class="btn w-full mt-6">Vybrat tento balíček</a>
+      </article>
+      <article class="border border-[#3A4659] p-6 rounded-md">
+        <h3 class="font-display font-semibold text-xl">Roční doprovod</h3>
+        <p class="mt-1 text-[#B7C0CF] text-sm">Pravidelné revize a úpravy</p>
+        <p class="mt-6 font-display font-bold text-3xl">[VAŠE CENA]</p>
+        <ul class="mt-4 space-y-2 text-[#DCE2EC] text-[15px]"><li>[POČET] revizí ročně</li><li>Aktualizace při změně práce, svatbě či narození dítěte</li><li>Podpora přes [KONTAKTNÍ KANÁL]</li></ul>
+      </article>
+    </div>
+    <p class="mt-6 text-sm text-[#B7C0CF] max-w-2xl">Uveďte, pokud pobíráte provize od partnerů: [VAŠE PROHLÁŠENÍ O STŘETU ZÁJMŮ].</p>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section id="hoi-dap" class="sec" aria-labelledby="faq-h">
+  <div class="wrap grid md:grid-cols-12 gap-10">
+    <h2 id="faq-h" class="md:col-span-4 font-display font-bold text-3xl md:text-4xl tracking-tight">Otázky před první schůzkou</h2>
+    <div class="md:col-span-8 border-t border-ink">
+      <details class="border-b border-line"><summary>Co si mám na první schůzku připravit?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">Výpisy z účtu za poslední 3 měsíce, přehled úvěrů, stávající pojistné smlouvy a pár vět o vašich cílech. Podrobný seznam pošleme po domluvení termínu.</p></details>
+      <details class="border-b border-line"><summary>Prodáváte finanční produkty?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">[POPIS VAŠEHO MODELU ODMĚNY: pouze poplatek za poradenství / provize]. V každém případě uvidíte před rozhodnutím nejméně dvě varianty.</p></details>
+      <details class="border-b border-line"><summary>Funguje poradenství na dálku?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">Ano. Celý postup lze zvládnout přes video a bezpečně sdílené dokumenty. Můžete se také sejít osobně na adrese [ADRESA].</p></details>
+      <details class="border-b border-line"><summary>Co když plán nezačnu plnit hned?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">Plán je váš a použijete ho, i když ho budete realizovat sami. Kroky jsou seřazeny podle naléhavosti, takže postupujete tempem, které zvládnete.</p></details>
+      <details class="border-b border-line"><summary>Je výnos investic zaručen?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">Výnos nemůže zaručit nikdo. Zaručujeme jasný postup, transparentní předpoklady a zohlednění nepříznivých scénářů.</p></details>
+    </div>
+  </div>
+</section>
+
+<!-- FINAL CTA -->
+<section id="dat-lich" class="sec ledger border-t border-line" aria-labelledby="cta-h">
+  <div class="wrap">
+    <div class="bg-surface border border-ink rounded-md p-6 md:p-12 grid md:grid-cols-2 gap-8 items-center shadow-[8px_8px_0_0_#2B5CE6]">
+      <div>
+        <h2 id="cta-h" class="font-display font-bold text-3xl md:text-5xl tracking-tight">Domluvte první schůzku a seznam příprav dostanete ještě ten den.</h2>
+        <p class="mt-4 text-muted">Zanechte kontakt, ozveme se do [DOBA ODPOVĚDI] a navrhneme tři vhodné termíny.</p>
+      </div>
+      <form class="grid gap-4" onsubmit="event.preventDefault();this.querySelector('output').textContent='Děkujeme. Toto je ukázkový formulář.'">
+        <div><label for="n" class="block text-sm font-semibold mb-1">Jméno a příjmení</label><input id="n" name="n" type="text" autocomplete="name" required class="w-full h-12 px-3 border border-ink rounded-md bg-ground"></div>
+        <div><label for="e" class="block text-sm font-semibold mb-1">E-mail nebo telefon</label><input id="e" name="e" type="text" autocomplete="email" required class="w-full h-12 px-3 border border-ink rounded-md bg-ground" placeholder="[TELEFON]"></div>
+        <button type="submit" class="btn">Domluvit konzultaci</button>
+        <output class="text-sm text-muted" aria-live="polite"></output>
+      </form>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer class="bg-ink text-[#DCE2EC]">
+  <div class="wrap py-12 grid md:grid-cols-4 gap-8 text-sm">
+    <div class="md:col-span-2"><p class="font-display font-bold text-lg text-white">Petr Pražák</p><p class="mt-2 max-w-sm">Nezávislé osobní finanční poradenství a pojištění. Obsah stránky je informativní a nepředstavuje individuální investiční doporučení.</p></div>
+    <div><p class="font-semibold text-white mb-2">Kontakt</p><p>[TELEFON]</p><p>[E-MAIL]</p><p>[ADRESA]</p></div>
+    <div><p class="font-semibold text-white mb-2">Právní informace</p><p>[ČÍSLO LICENCE]</p><a href="#" class="underline py-2 inline-block">Ochrana osobních údajů</a></div>
+  </div>
+</footer>
+
+<script>
+(function(){var b=document.getElementById('menuBtn'),m=document.getElementById('mobileNav');
+b.addEventListener('click',function(){var o=m.classList.toggle('hidden')===false;b.setAttribute('aria-expanded',o);b.setAttribute('aria-label',o?'Zavřít menu':'Otevřít menu');});
+m.addEventListener('click',function(e){if(e.target.tagName==='A'){m.classList.add('hidden');b.setAttribute('aria-expanded','false');}});})();
+</script>
+</body>
+</html>

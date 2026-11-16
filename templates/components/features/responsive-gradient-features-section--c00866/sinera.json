@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00866",
+  "title": "Responsive Gradient Features Section",
+  "summary": "Tailwind-styled section showcasing product features with a header and four gradient cards. Each card has an icon, title, description, hover effects, and responsive two-column grid—ideal for SaaS or landing pages.",
+  "tags": [
+    "section",
+    "features",
+    "tailwind",
+    "responsive",
+    "gradient",
+    "grid",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 23288,
+      "sha256": "52c0989ee8697479e071ad6f261a66b27681984b33bfdd64ccaa1b961c5e206d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6353,
+      "sha256": "12af9105880b475dfbdc633747a5a7abf23fb74db6d8a6acde242944ee6913b3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7340,
+      "sha256": "c1a9d63d488954325dd2a3234707d78fa9dfedb706711ce99c210f0512c40821"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

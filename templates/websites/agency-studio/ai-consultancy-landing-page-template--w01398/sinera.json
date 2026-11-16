@@ -1,0 +1,76 @@
+{
+  "id": "SN-W01398",
+  "title": "AI Consultancy Landing Page Template",
+  "summary": "A reusable landing page template for AI consulting and professional services firms to showcase offerings, process, and capture consultation leads.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Business",
+    "Minimal",
+    "Clean",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3727,
+      "sha256": "9253371d88e4172440f859ffb424fe7e2da7cc1b58b8159301795008e2564d28"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17784,
+      "sha256": "f51700c8cbf290a278fa599eb19136977acacedc36283dc1f279e9719d6751a9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1072,
+      "sha256": "7578fcedd0201d922848c31d3fd9193dc98ab33a13fa9072412def489f903b73"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1714,
+      "sha256": "f0d5c979e293bd06acd5c4c218420e58399ff913a8c33bc78ecf447b763be186"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 1052,
+      "sha256": "c7ca0fc2357434d0454c75c2e9dade4d90197720e89fbc05a245cb142077a48b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42220,
+      "sha256": "8b72701aacfc8b143ed4f431ad4d19de21640109d2f1db56aca3dcfee1df68fe"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "services",
+    "features",
+    "how-it-works",
+    "about",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md"
+}

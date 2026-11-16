@@ -1,0 +1,70 @@
+{
+  "id": "SN-W02253",
+  "title": "Tattoo Studio Landing Page Template",
+  "summary": "A dark, editorial tattoo studio landing page template for showcasing black & grey realism portfolios, studio details, and enquiry bookings.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Art & Design",
+    "Portfolio",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3803,
+      "sha256": "2795a152c4222e3b1c51bd97915467e47ca996761d4776c27f4a0b2cc7587b30"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14194,
+      "sha256": "d3de6278089af9ecbce543419b6fd4d3c51f81be58be2d0139aeef2916a90dae"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 806,
+      "sha256": "e806099f1daada5af43fe48ef18bc6de7a670e96f2a01427652ba0c9690e7dd1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23850,
+      "sha256": "5fa563eae173d6b60800954c0251e0c966a54ae5fb8d5bee390afe6e9907d06d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "how-it-works",
+    "map-location",
+    "team",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

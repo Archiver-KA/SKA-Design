@@ -1,0 +1,63 @@
+{
+  "id": "SN-W01215",
+  "title": "Luxury E-commerce Storefront Template",
+  "summary": "A modern luxury e-commerce template for fashion and lifestyle brands, ready to customize as your own online store experience.",
+  "tags": [
+    "E-commerce",
+    "Fashion",
+    "Style",
+    "Brand",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3571,
+      "sha256": "38584b0f2366c33e83d82c9d52b9c36e9fb81ae1b86ce42b9a76cbd5580b1a9b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12424,
+      "sha256": "f68775eb380834ce7c20d56129d77587de06168fc2ef4a01fb770e1176b6a5ed"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 810,
+      "sha256": "75aa435cbf6d95c2bf2b119ddfe5012fc32751b71c7c354ca90be3cae60182a7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29733,
+      "sha256": "4d2da9e71f6475dc5c89e28b493246bc75b699ddfdca80dab06fb28c22fec7c1"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

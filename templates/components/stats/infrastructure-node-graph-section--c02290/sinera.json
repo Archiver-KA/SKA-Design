@@ -1,0 +1,38 @@
+{
+  "id": "SN-C02290",
+  "title": "Infrastructure Node Graph Section",
+  "summary": "A full-width dark-themed infrastructure showcase section with animated connection paths, glassmorphism node cards, and a pulsing central core. Uses custom CSS and Iconify icons to visualize data orchestration, platform architecture, or system topology.",
+  "tags": [
+    "feature",
+    "section",
+    "infrastructure",
+    "architecture",
+    "animated",
+    "dark",
+    "css",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11452,
+      "sha256": "f4a1e1e8c629934811bbcd9cc6b940548b401d9cc373314831ca8774b5c703f2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23380,
+      "sha256": "2f46ce7230e0f36a0464c3dadc75b545fc43e8b15080fe256334e44d3b62080a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

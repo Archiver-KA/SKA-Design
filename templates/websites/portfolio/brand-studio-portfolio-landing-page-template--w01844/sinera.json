@@ -1,0 +1,70 @@
+{
+  "id": "SN-W01844",
+  "title": "Brand Studio Portfolio Landing Page Template",
+  "summary": "A polished brand studio portfolio landing page template for designers and studios to showcase services, case studies, pricing, and contact in a modern layout.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Art & Design",
+    "Portfolio",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3661,
+      "sha256": "cf296e2e4bdcafb96bd1802f10b4cca217ec5f324b1ffa634f90c2bef8fcc45b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16926,
+      "sha256": "92a2d7a74d181c1d72bfe076ab0ecc3f3b27dead24ddb7c258bf85aace9bdd3c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 732,
+      "sha256": "3326ae6f347cfc162d6aea40356019d646d771c78e698fbfaea370eca4d42788"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33722,
+      "sha256": "ec0919110cf4b9f592bdd6b516a1c71420f1aa9d7233c1a2212a4a8173648b99"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "about",
+    "services",
+    "how-it-works",
+    "pricing",
+    "faq",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

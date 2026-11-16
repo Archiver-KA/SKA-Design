@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00330",
+  "title": "Chat Panel with Link Preview and Message Composer",
+  "summary": "Stylish Tailwind-powered chat card featuring a header, image preview, rich link embed, user message, and full composer with attachments, GIF, emoji and send actions. Ideal for dashboards or collaboration apps requiring in-context messaging.",
+  "tags": [
+    "chat",
+    "card",
+    "panel",
+    "composer",
+    "link preview",
+    "tailwind",
+    "messaging",
+    "collaboration"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20122,
+      "sha256": "929c137dc890645a4d3d94564d8277a4fd26b75d925678963cbe55bddbbac634"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9614,
+      "sha256": "865833aa6054953ec97c694c880b19a37aa894bf363adc0d4c4df7f47574d72d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10614,
+      "sha256": "4013a5b13325d61cb19da963cc994d0e21ef26e5aea0615f3899a45aa1e18b68"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "SN-W01432",
+  "title": "AI-Native Software Agency Template",
+  "summary": "A high-performance, dark-themed agency template designed for software developers and creative technologists building AI-powered products.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Clean",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4308,
+      "sha256": "dc29a7debf2984ff847c642a245e12cc94655a1d7ab7e20b390283f777f7103a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19408,
+      "sha256": "bd90805d0c113cd318f050c7146b9090cbb3c1f5908380fafe990ece71746ff8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "79def98588b178fd166037d5207e339c154f33100d3a6bac518a193e38d73d92"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35750,
+      "sha256": "c1eb52633a69d383b9996a39aebcc96fe699fab2dea5d268262892ac6259c750"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

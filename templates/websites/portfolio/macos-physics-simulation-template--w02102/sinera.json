@@ -1,0 +1,61 @@
+{
+  "id": "SN-W02102",
+  "title": "macOS Physics Simulation Template",
+  "summary": "An interactive macOS-inspired desktop environment template featuring real-time physics, gravity, and item spawning mechanics.",
+  "tags": [
+    "Technology",
+    "Animated",
+    "Dark",
+    "Futuristic",
+    "Portfolio",
+    "Clean",
+    "Style"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3329,
+      "sha256": "9add91260a439bd64c4baf99e7ba823345d2a80eaa6161877add7a6bef503fdf"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6864,
+      "sha256": "da8425561bb27789066f51f38feb4dfc4fce682cb971c55790378824640d6e64"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 721,
+      "sha256": "b456a21e9378bb4a69ae754b9c1b5b12b7f82b86f4566a7361d198b9cfab51b2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32237,
+      "sha256": "0cda66db752adc04b4230806432020b71706f59ad205339ef7d1acc8cc447090"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "snippet",
+  "components": [
+    "navbar",
+    "case-studies",
+    "code-terminal"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "case-studies",
+  "design": "DESIGN.md"
+}

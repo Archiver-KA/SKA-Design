@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01374",
+  "title": "AI Agency Outreach Landing Page Template",
+  "summary": "A reusable landing page template for AI outreach and lead generation tools, built to showcase automation, features, pricing, and conversion-focused CTAs.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "SaaS",
+    "AI",
+    "Automation",
+    "Lead Generation"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3772,
+      "sha256": "dc4a16d96bb5d20515590d4a6429e13e8936b04426f6b952480f778a5e176d7c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15274,
+      "sha256": "87938fb45524b3b81044781f4ad7fb33ef4b7e325da7be73c19a90dd1d9c109d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "79495d0d181241e0c3cd6ae8d1f623323f09bcfc0aed3989439677e22b4f358e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 44465,
+      "sha256": "0908ff163f7a57f487ddf49519ac5a481875e77a598b5888753754c22c270a47"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "product-grid",
+    "features",
+    "pricing",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02260",
+  "title": "Dark AI Operations Dashboard UI",
+  "summary": "Futuristic dark-themed dashboard interface with sidebar navigation, throughput metrics, animated activity chart, network radar, system log, and threat status panel. Built with Tailwind-style utility classes for admin, monitoring, or cybersecurity UI showcases.",
+  "tags": [
+    "ui",
+    "dashboard",
+    "tailwind",
+    "dark",
+    "analytics",
+    "monitoring",
+    "animated",
+    "cybersecurity"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12706,
+      "sha256": "496decdb7a619b182936ea8e39ed0e35fed24598ee6cfae9cac0903ad7ab7427"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10729,
+      "sha256": "8c9acfcd8a00510253a53944f94bb8a7bddedc9a146b5d402a45e186b5e8d5d5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11581,
+      "sha256": "096018ad2292e0bd2abac3bfe1a16134dcc886f60153598da9f8d35ebcbf03b6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

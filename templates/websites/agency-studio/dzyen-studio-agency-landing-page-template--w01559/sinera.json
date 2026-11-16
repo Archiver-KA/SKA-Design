@@ -1,0 +1,71 @@
+{
+  "id": "SN-W01559",
+  "title": "Dzyen Studio Agency Landing Page Template",
+  "summary": "A dark, futuristic agency landing page template for creative studios and web designers to showcase services, portfolio, process, and testimonials with bold Indian-focused branding.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Art & Design",
+    "Portfolio",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3796,
+      "sha256": "4cc74053b9aa59468b9b767d0f99504ed33c38e492d8d6057af7f06444d96a03"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17508,
+      "sha256": "5643913445ac4eeadb214c8c14c0f13a94c2922c797f874cd6e933a428d8eeb7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "85c9d166c6760e6f12ce31f1bbd2d8cb3fbaff0b28226bbe0fa2cf65cd6d87c0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42053,
+      "sha256": "b7257bd2c60cf4a292752a0be4778ab78e67fc7e9c1cfc104d828922a63f566f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "logo-cloud",
+    "services",
+    "gallery-portfolio",
+    "how-it-works",
+    "stats",
+    "testimonials",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

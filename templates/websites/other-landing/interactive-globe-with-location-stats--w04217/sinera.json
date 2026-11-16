@@ -1,0 +1,58 @@
+{
+  "id": "SN-W04217",
+  "title": "Interactive Globe with Location Stats",
+  "summary": "Displays an interactive 3D globe with location markers and percentage stats using Vanta.js and Tailwind CSS.",
+  "tags": [
+    "Interactive Globe",
+    "Location Markers",
+    "Vanta.js",
+    "Tailwind CSS",
+    "3D Visualization",
+    "Stats Display"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3197,
+      "sha256": "cb528ba0ddb87bb55ef85ce6ba1a00eb9e00f2e04e844b74271d80993501cfb4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3674,
+      "sha256": "2222e4c910d91f4d6296aa76148836a8d26e945c3c7cbe9a3362d90ff18c1b77"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "98aef4ef6cc908b7917b6958935df6cf88ebaaacf49449f9b19fd50c957b377e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5006,
+      "sha256": "928981f664e3e75631df71987451ca0673ab11c9917b728102a988c3bf9c8516"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "map-location",
+    "stats"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

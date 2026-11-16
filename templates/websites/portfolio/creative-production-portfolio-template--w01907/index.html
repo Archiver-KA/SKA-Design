@@ -1,0 +1,153 @@
+<!doctype html><html lang="en" data-theme="workshop"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Creative Production Portfolio</title><meta name="description" content="Video production company: commercials, corporate films, events and post-production, from script to final cut.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>tailwind.config={theme:{extend:{colors:{ground:'#121212',surface:'#1C1C1C',ink:'#F2F0EB',muted:'#A8A49D',line:'#2A2A2A',accent:'#C6F135',accent2:'#FF5C39'},fontFamily:{display:['"Bricolage Grotesque"','system-ui','sans-serif'],body:['Inter','system-ui','sans-serif']},borderRadius:{DEFAULT:'0px',md:'0px',lg:'0px'}}}}</script>
+<style>
+[data-theme="workshop"]{--sa-ground:#121212;--sa-surface:#1C1C1C;--sa-ink:#F2F0EB;--sa-muted:#A8A49D;--sa-line:#2A2A2A;--sa-accent:#C6F135;--sa-on-accent:#121212;--sa-accent-2:#FF5C39;--sa-on-accent-2:#121212;--sa-font-display:"Bricolage Grotesque",system-ui,sans-serif;--sa-font-body:"Inter",system-ui,sans-serif;--sa-radius-control:0px;--sa-radius-card:0px;--sa-display-case:none;color-scheme:dark;background:var(--sa-ground);color:var(--sa-ink);font-family:var(--sa-font-body)}
+*,*::before,*::after{box-sizing:border-box;border-radius:0}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--sa-ground);color:var(--sa-ink);font-family:var(--sa-font-body);line-height:1.6;overflow-x:hidden;-webkit-font-smoothing:antialiased}
+h1,h2,h3,h4{font-family:var(--sa-font-display);margin:0;line-height:1.02;letter-spacing:-.02em;font-weight:800;text-wrap:balance}
+p{margin:0;text-wrap:pretty}
+a{color:inherit}
+img,svg{max-width:100%}
+.wrap{max-width:1240px;margin:0 auto;padding:0 20px}
+@media(min-width:768px){.wrap{padding:0 40px}}
+.muted{color:var(--sa-muted)}
+.acc{color:var(--sa-accent)}.acc2{color:var(--sa-accent-2)}
+.eyebrow{font:600 12px/1 var(--sa-font-body);letter-spacing:.14em;text-transform:uppercase;color:var(--sa-muted);display:flex;align-items:center;gap:10px}
+.eyebrow::before{content:"";width:22px;height:2px;background:var(--sa-accent-2)}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:48px;padding:0 24px;font:600 15px var(--sa-font-body);text-decoration:none;border:1.5px solid var(--sa-ink);background:transparent;color:var(--sa-ink);cursor:pointer;transition:background .2s,color .2s,border-color .2s}
+.btn:hover{background:var(--sa-ink);color:var(--sa-ground)}
+.btn-p{background:var(--sa-accent);color:var(--sa-on-accent);border-color:var(--sa-accent)}
+.btn-p:hover{background:var(--sa-ink);border-color:var(--sa-ink);color:var(--sa-ground)}
+:focus-visible{outline:3px solid var(--sa-accent-2);outline-offset:3px}
+.nav{position:sticky;top:0;z-index:50;background:var(--sa-ground);border-bottom:1px solid var(--sa-line)}
+.nav .in{display:flex;align-items:center;justify-content:space-between;min-height:64px;gap:16px}
+.logo{font:800 22px var(--sa-font-display);letter-spacing:-.03em;text-decoration:none;display:flex;align-items:center;gap:8px;min-height:44px}
+.logo i{width:12px;height:12px;background:var(--sa-accent);display:block}
+.links{display:none;gap:28px;align-items:center}
+.links a{text-decoration:none;font-size:14px;font-weight:500;color:var(--sa-muted);min-height:44px;display:inline-flex;align-items:center}
+.links a:hover{color:var(--sa-ink)}
+.burger{width:48px;height:48px;border:1.5px solid var(--sa-line);background:transparent;color:var(--sa-ink);display:inline-flex;align-items:center;justify-content:center;cursor:pointer}
+.mnav{display:none;border-top:1px solid var(--sa-line);padding:8px 20px 20px}
+.mnav.open{display:block}
+.mnav a{display:flex;align-items:center;min-height:52px;border-bottom:1px solid var(--sa-line);text-decoration:none;font:700 20px var(--sa-font-display)}
+@media(min-width:900px){.links{display:flex}.burger,.mnav{display:none!important}}
+section{padding:72px 0}
+@media(min-width:900px){section{padding:112px 0}}
+.rule{border-top:1px solid var(--sa-line)}
+.h2{font-size:clamp(34px,5.5vw,68px)}
+.ph{background:repeating-linear-gradient(135deg,#1C1C1C 0 14px,#212121 14px 28px);border:1px solid var(--sa-line);display:flex;align-items:flex-end;padding:12px;color:var(--sa-muted);font:500 12px var(--sa-font-body);letter-spacing:.04em}
+details{border-top:1px solid var(--sa-line)}
+details:last-of-type{border-bottom:1px solid var(--sa-line)}
+summary{list-style:none;cursor:pointer;min-height:64px;display:flex;align-items:center;justify-content:space-between;gap:16px;font:700 clamp(18px,2.4vw,24px) var(--sa-font-display);letter-spacing:-.01em;padding:12px 0}
+summary::-webkit-details-marker{display:none}
+summary::after{content:"+";font:500 28px var(--sa-font-body);color:var(--sa-accent);flex:none;width:32px;text-align:center}
+details[open] summary::after{content:"\2212"}
+details p{padding:0 48px 24px 0;color:var(--sa-muted);max-width:62ch}
+.foot{border-top:1px solid var(--sa-line);padding:40px 0;font-size:14px;color:var(--sa-muted)}
+.foot .in{display:flex;flex-wrap:wrap;gap:20px 40px;justify-content:space-between}
+.foot a{display:inline-flex;min-height:44px;align-items:center;text-decoration:none}
+.foot a:hover{color:var(--sa-ink)}
+label{display:block;font:600 13px var(--sa-font-body);margin-bottom:8px}
+input,textarea,select{width:100%;min-height:48px;background:var(--sa-surface);border:1.5px solid #4a4a4a;color:var(--sa-ink);font:400 16px var(--sa-font-body);padding:12px 14px}
+input::placeholder,textarea::placeholder{color:#8f8b85}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important;scroll-behavior:auto!important}}
+</style></head><body id="top">
+<header class="nav"><div class="wrap"><div class="in"><a class="logo" href="#top"><i></i>[PRODUCTION COMPANY]</a><nav class="links" aria-label="Main navigation">
+<a href="#tac-pham">Work</a>
+<a href="#dich-vu">Services</a>
+<a href="#quy-trinh">Process</a>
+<a href="#faq">FAQ</a>
+<a class="btn btn-p" style="color:#121212;min-height:44px;padding:0 18px" href="#lien-he">Book a call</a></nav><button class="burger" id="burger" aria-label="Open menu" aria-expanded="false" aria-controls="mnav"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 7h18M3 12h18M3 17h18"/></svg></button></div></div><div class="mnav" id="mnav">
+<a href="#tac-pham">Work</a>
+<a href="#dich-vu">Services</a>
+<a href="#quy-trinh">Process</a>
+<a href="#faq">FAQ</a>
+<a href="#lien-he" style="color:var(--sa-accent)">Book a call</a></div></header>
+<main>
+<section style="padding:32px 0 72px">
+<style>
+.reel{position:relative;aspect-ratio:16/8.2;min-height:240px;background:#0b0b0b;border:1px solid var(--sa-line);overflow:hidden;display:flex;align-items:center;justify-content:center}
+.reel::before{content:"";position:absolute;inset:0;background:repeating-linear-gradient(135deg,#141414 0 18px,#181818 18px 36px)}
+.reel .tc{position:absolute;font:600 12px ui-monospace,Menlo,monospace;letter-spacing:.08em;color:var(--sa-ink)}
+.reel .tl{top:14px;left:16px}.reel .tr{top:14px;right:16px;color:var(--sa-accent-2)}.reel .bl{bottom:14px;left:16px}.reel .br{bottom:14px;right:16px}
+.reel .cross{position:absolute;inset:14% 6%;border:1px dashed #3a3a3a}
+@media(max-width:700px){.reel{aspect-ratio:auto;height:260px;min-height:0}}
+.play{position:relative;width:84px;height:84px;background:var(--sa-accent);color:#121212;border:0;display:flex;align-items:center;justify-content:center;cursor:pointer;transition:background .2s}
+.play:hover{background:var(--sa-ink)}
+.rec{display:inline-block;width:8px;height:8px;background:var(--sa-accent-2);margin-right:6px}
+.hd3{display:grid;gap:28px;margin-top:40px}
+@media(min-width:900px){.hd3{grid-template-columns:8fr 4fr;gap:64px;align-items:end;margin-top:56px}}
+.strip{height:22px;background:repeating-linear-gradient(90deg,transparent 0 10px,#2a2a2a 10px 22px,transparent 22px 36px);border-top:1px solid var(--sa-line);border-bottom:1px solid var(--sa-line);margin:0}
+</style>
+<div class="wrap">
+<div class="reel" role="img" aria-label="Placeholder for the showreel video, 16:9"><span class="cross"></span>
+<span class="tc tl"><span class="rec"></span>REEL · [YEAR]</span><span class="tc tr">00:00:48:12</span><span class="tc bl">Showreel cover image, 16:9</span><span class="tc br">4K · 24 fps</span>
+<button class="play" type="button" aria-label="Play showreel (placeholder)"><svg width="30" height="30" viewBox="0 0 24 24" fill="currentColor"><path d="M7 4.5v15l13-7.5z"/></svg></button></div>
+<div class="hd3">
+<h1 style="font-size:clamp(46px,9.5vw,150px);letter-spacing:-.045em;line-height:.88">Images<br>people <span class="acc">remember.</span></h1>
+<div><p style="font-size:18px" class="muted">Video production for brands and events, from concept and shoot to post. One team, one point of contact, delivered on time.</p>
+<div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:24px"><a class="btn btn-p" href="#lien-he">Book a call</a><a class="btn" href="#tac-pham">See our work</a></div></div></div>
+</div></section>
+<p class="strip" aria-hidden="true"></p>
+
+<section id="tac-pham">
+<div class="wrap">
+<div style="display:flex;justify-content:space-between;align-items:end;flex-wrap:wrap;gap:16px;margin-bottom:48px"><h2 class="h2">Selected work</h2><p class="muted">[REPLACE WITH YOUR FILMS]</p></div>
+<style>.fr3{display:grid;gap:40px 20px}.fr3 figure{margin:0}.fr3 figcaption{display:grid;gap:2px;margin-top:12px}.fr3 .t{font:700 22px var(--sa-font-display)}.fr3 .m{font:500 12px ui-monospace,Menlo,monospace;color:var(--sa-muted);letter-spacing:.06em}
+@media(min-width:900px){.fr3{grid-template-columns:repeat(3,1fr)}.fr3 figure:nth-child(2){margin-top:72px}.fr3 figure:nth-child(3){margin-top:36px}}</style>
+<div class="fr3">
+<figure><div class="ph" style="aspect-ratio:4/5">Film frame 4:5 · brand commercial</div><figcaption><span class="t">[FILM TITLE 1]</span><span class="m">COMMERCIAL · [DURATION] · [YEAR]</span></figcaption></figure>
+<figure><div class="ph" style="aspect-ratio:4/5">Film frame 4:5 · corporate film</div><figcaption><span class="t">[FILM TITLE 2]</span><span class="m">CORPORATE · [DURATION] · [YEAR]</span></figcaption></figure>
+<figure><div class="ph" style="aspect-ratio:4/5">Film frame 4:5 · event</div><figcaption><span class="t">[FILM TITLE 3]</span><span class="m">EVENT · [DURATION] · [YEAR]</span></figcaption></figure>
+</div></div></section>
+
+<section class="rule" id="dich-vu" style="background:var(--sa-surface)">
+<div class="wrap">
+<style>.tbl{width:100%;border-collapse:collapse}.tbl th,.tbl td{text-align:left;padding:22px 12px 22px 0;border-top:1px solid #333;vertical-align:top}.tbl th{font:700 clamp(22px,3vw,34px) var(--sa-font-display);width:34%}.tbl td{color:var(--sa-muted)}.tbl tr:last-child th,.tbl tr:last-child td{border-bottom:1px solid #333}
+@media(max-width:700px){.tbl,.tbl tbody,.tbl tr,.tbl th,.tbl td{display:block;width:100%}.tbl th{padding-bottom:6px;border-bottom:0}.tbl td{border-top:0;padding-top:0}}</style>
+<h2 class="h2" style="margin-bottom:44px">What we produce</h2>
+<table class="tbl"><caption style="position:absolute;left:-9999px">Types of video production</caption><tbody>
+<tr><th scope="row">Commercials</th><td>Script, direction, shooting and editing for 15 to 60 second spots, with vertical cut-downs for social media.</td></tr>
+<tr><th scope="row">Corporate films</th><td>Company, process and team stories. On-site interviews with broadcast-standard lighting and sound.</td></tr>
+<tr><th scope="row">Events and conferences</th><td>Multi-camera coverage, with a highlight reel delivered in [NUMBER OF DAYS] days and the full cut after.</td></tr>
+<tr><th scope="row">Post, colour and sound</th><td>Bring us your existing footage for editing, colour grading, sound design and export to each platform's spec.</td></tr>
+</tbody></table>
+</div></section>
+
+<section id="quy-trinh">
+<div class="wrap">
+<h2 class="h2" style="margin-bottom:48px">Three stages, one clear schedule</h2>
+<style>.ph3{display:grid;gap:0}.ph3>div{padding:28px 0;border-top:2px solid var(--sa-ink);position:relative}.ph3 .tag{font:600 12px ui-monospace,Menlo,monospace;letter-spacing:.1em;color:var(--sa-accent-2)}.ph3 h3{font-size:30px;margin:10px 0}.ph3 ul{margin:14px 0 0;padding:0;list-style:none;display:grid;gap:6px;color:var(--sa-muted);font-size:15px}.ph3 li::before{content:"\2192  ";color:var(--sa-accent)}
+@media(min-width:900px){.ph3{grid-template-columns:1fr 1.4fr 1fr;gap:32px}}</style>
+<div class="ph3">
+<div><span class="tag">PRE-PRODUCTION · WEEKS 1-2</span><h3>Concept and script</h3><p class="muted">We lock the message, the audience and the channels. You approve the script before the camera rolls.</p><ul><li>Script, storyboard</li><li>Location scouting</li><li>Detailed shooting schedule</li></ul></div>
+<div><span class="tag">SHOOT · WEEK 3</span><h3>Shoot days</h3><p class="muted">A lean crew with gear sized to the job. You watch live on the monitor and sign off every key scene.</p><ul><li>Director, camera, lighting</li><li>On-location sound</li><li>Same-day footage backup</li></ul></div>
+<div><span class="tag">POST-PRODUCTION · WEEKS 4-5</span><h3>Edit and finish</h3><p class="muted">Two rounds of revisions are included in the price.</p><ul><li>Edit, colour grade</li><li>Music, sound mix</li><li>Exports for each platform</li></ul></div>
+</div></div></section>
+
+<section class="rule" id="faq">
+<div class="wrap" style="max-width:900px;margin:0 auto">
+<h2 class="h2" style="margin-bottom:40px">What clients often ask</h2>
+<details><summary>How much does a commercial cost?</summary><p>Price depends on length, number of shoot days and talent. We give a fixed quote after the first conversation, starting at [YOUR PRICE].</p></details>
+<details><summary>How many revisions do I get?</summary><p>Two post-production revision rounds are included in the quote. Extra rounds are billed by editing hour, and we tell you before we start.</p></details>
+<details><summary>How long until I receive the film?</summary><p>A short film usually takes [NUMBER OF WEEKS] weeks from script approval. Events get a faster highlight cut.</p></details>
+<details><summary>Who owns the footage and the music?</summary><p>The footage is yours once you have paid. Music is commercially licensed, as stated in the contract.</p></details>
+</div></section>
+
+<section id="lien-he" class="rule" style="padding-bottom:64px">
+<div class="wrap">
+<p class="eyebrow">Ready to roll</p>
+<h2 style="font-size:clamp(44px,10vw,150px);letter-spacing:-.045em;line-height:.9;margin:24px 0 36px">Tell us the idea.<br><span class="acc">We will shoot it.</span></h2>
+<div style="display:flex;flex-wrap:wrap;gap:16px;align-items:center"><a class="btn btn-p" href="mailto:[YOUR EMAIL]">Book a call</a><span class="muted">[YOUR EMAIL] · [YOUR PHONE]</span></div>
+</div></section>
+</main>
+<footer class="foot"><div class="wrap in"><span>© [YEAR] [PRODUCTION COMPANY]. [ADDRESS]</span><span style="display:flex;gap:24px;flex-wrap:wrap"><a href="#">Vimeo</a><a href="#">Instagram</a><a href="#tac-pham">Work</a></span></div></footer>
+<script>
+(function(){var b=document.getElementById('burger'),m=document.getElementById('mnav');if(b&&m){b.addEventListener('click',function(){var o=m.classList.toggle('open');b.setAttribute('aria-expanded',o)});m.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){m.classList.remove('open');b.setAttribute('aria-expanded','false')})})}})();
+</script>
+</body></html>

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00730",
+  "title": "Dark Gradient Feature Section with Responsive Cards",
+  "summary": "Responsive marketing section showcasing three product features—AI storytelling, custom illustrations, publishing options—each in a styled card with icons, stats and CTAs. Built with TailwindCSS, ideal for SaaS or landing pages.",
+  "tags": [
+    "feature-section",
+    "card",
+    "tailwind",
+    "responsive",
+    "marketing",
+    "grid",
+    "dark-theme",
+    "icons"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 37806,
+      "sha256": "d9196b6db6fada0f66911641626932d2ecaecb1c0afdbdb342e8a277a521275a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 21689,
+      "sha256": "d5c176d45bb7b9f14c2c7fe5d3ec865a8ff724c60320e1af11591f601403f50c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22691,
+      "sha256": "17d93993618c83dd9f03b083184e7781406f1a347bac1461e5e15e6ad72186fd"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

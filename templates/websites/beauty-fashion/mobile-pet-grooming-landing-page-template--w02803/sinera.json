@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02803",
+  "title": "Mobile Pet Grooming Landing Page Template",
+  "summary": "A clean, modern service-based template designed for mobile pet grooming businesses looking to showcase services and drive appointment requests.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Health",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "beauty-fashion",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3758,
+      "sha256": "ccbc50a9fb7d33a2360a0729446b7c800da6bfc6e0f4ae4cb33318b36e64de88"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16610,
+      "sha256": "f1c61357b737f7d933efa99f9421ab5c7792f6b82f9447ce341646f33ea685bd"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "08390c2729a37c3c8d86c16a79c9c0f9c9b8d9d4defc8d295e3ef9552a4bcfb0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32235,
+      "sha256": "7382027c9baa34709d16023590da01eedcbf1da7288aec73f973b65b97bcd81d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "beauty",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Beauty / Fashion",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "services",
+    "testimonials",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

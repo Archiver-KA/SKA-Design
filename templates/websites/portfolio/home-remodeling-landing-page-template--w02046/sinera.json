@@ -1,0 +1,66 @@
+{
+  "id": "SN-W02046",
+  "title": "Home Remodeling Landing Page Template",
+  "summary": "A reusable landing page template for local home remodeling and construction contractors showcasing services, process, projects, and strong consultation CTAs.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Real Estate",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Brand",
+    "Technology",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3728,
+      "sha256": "16fcdfca5b4805136781b65e30892cf752f3b4ce5ac370f76001281e2ea52b5a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17860,
+      "sha256": "f1ac6b01b35ee3a4dc7fb9fb00611d529f1042827d44906c0432ff249c94d973"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 808,
+      "sha256": "569d3121f5e39f2631d54a19abe0539207686933719d366311f068bbdf1bde81"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38634,
+      "sha256": "59f45ff0ab395829cb49139049abe2498001d609ab70d613ed81ebcb9ff8a625"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "cta",
+    "services",
+    "case-studies",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

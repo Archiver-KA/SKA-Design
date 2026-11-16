@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00856",
+  "title": "Responsive Feature Grid Section with Icons",
+  "summary": "Six-item feature section displaying headings, icon badges and brief text in a gradient, rounded panel. Tailwind-styled responsive grid with hover highlights, ideal for SaaS landing pages or product marketing sites.",
+  "tags": [
+    "feature",
+    "grid",
+    "icons",
+    "tailwindcss",
+    "responsive",
+    "hover",
+    "landing-page",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12072,
+      "sha256": "c4452e183d04338ea8fbfc23d5b49b240834ef31c5cdf4ab55294f4dc1b82b82"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5792,
+      "sha256": "0efa83f93ef7bdf98f506214ead44c3cebec02904031929ac2f5273947284258"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6785,
+      "sha256": "4505ef668d3229f922d63a074dde210b4db99a8f51e506bf5dd59e8ddeb04f73"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

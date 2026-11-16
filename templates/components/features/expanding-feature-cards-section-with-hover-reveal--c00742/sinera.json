@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00742",
+  "title": "Expanding Feature Cards Section with Hover Reveal",
+  "summary": "Responsive section with animated expanding cards that unveil more info on hover. Uses Tailwind CSS utility classes; perfect for highlighting product features, services, or image galleries on landing or marketing pages.",
+  "tags": [
+    "feature",
+    "hover",
+    "expanding",
+    "tailwindcss",
+    "responsive",
+    "animated",
+    "gallery",
+    "section"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 55100,
+      "sha256": "da26022785ee83058e5b193d13a32c0aea1534bd92ac035f5fd9963961d350e8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9088,
+      "sha256": "f443ca022524fbc5d9b373027b57509eb7e1ee951f3062a66ad4e1fa095d4906"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9958,
+      "sha256": "6f70960fcb08db55a521e99d67576ffb7f8170b3d97054f79c139b7717da9fff"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

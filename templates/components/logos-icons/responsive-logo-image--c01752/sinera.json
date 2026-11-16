@@ -1,0 +1,40 @@
+{
+  "id": "SN-C01752",
+  "title": "Responsive Logo Image",
+  "summary": "A responsive logo image component with multiple srcset options for optimal loading across different screen sizes. Features automatic lazy loading skip and proper alt text.",
+  "tags": [
+    "logo",
+    "image",
+    "responsive",
+    "branding"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6306,
+      "sha256": "64b89c474170943b562648a1e4bfe66d8c91c5188c284c32abd1c7f8e0c46436"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3023,
+      "sha256": "1f91e3ac7bd67b78a21999ec8697566a8c9842dede827567aec112779cf43de1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3865,
+      "sha256": "89485864140f8a88c94a56338742814dfe9100f22d0aeb5678c9c1a457f4a05f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

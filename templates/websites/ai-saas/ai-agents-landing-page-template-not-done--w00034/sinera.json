@@ -1,0 +1,74 @@
+{
+  "id": "SN-W00034",
+  "title": "Ai Agents Landing Page Template (not done) ",
+  "summary": "A futuristic WebGL landing page template for showcasing AI agents, real-time dashboards, and experimental interfaces with immersive, cyber-lab styling.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Gradient",
+    "Dark",
+    "Futuristic",
+    "Animated",
+    "Large Type",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4036,
+      "sha256": "d385d1dd4978111acd977ba91fba24c226dcbfb9d7b840e47868284189733b79"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12174,
+      "sha256": "888213341ce02c2604fb006ee4b6ea95eabfc37cf9e86c9c23a8ceea0b4247eb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 883,
+      "sha256": "cc1e504d8d6e2c935f3cff2225f79db71e36568cfa0018da130c22d87dbc5331"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1099,
+      "sha256": "536e95cb5092a53c01fccc119fc11306ff3d711a9ed963ef30615c0ff283dda4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 73300,
+      "sha256": "d291ae44ccba691810a019b3d6987010681f0b94762ea7af4d90752cf1984e38"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "blog-articles",
+    "video-media",
+    "stats",
+    "how-it-works",
+    "3d-canvas",
+    "team",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

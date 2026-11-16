@@ -1,0 +1,72 @@
+{
+  "id": "SN-W00331",
+  "title": "Data Enrichment SaaS Landing Page Template",
+  "summary": "This reusable landing page template showcases a data enrichment SaaS product designed to simplify complex data workflows for GTM teams and agencies.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "Features",
+    "Pricing",
+    "Comparison",
+    "SaaS",
+    "Data Enrichment",
+    "API",
+    "GDPR",
+    "Automation"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3669,
+      "sha256": "2547936b987f6d01266f634e9ffa65b54ab89ae64430c3d3d86a641e1232e195"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14668,
+      "sha256": "1aefa2daf3abaa8c0f14a1802548402f1328917d5ddf5ab67c1ed95b59e0a40e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 881,
+      "sha256": "fb656f3602e7d6cabfc37d3c9015f230a3530d0f364f9143a6e8f11c5bdec6d8"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 698,
+      "sha256": "b7800d9e53e10cf35f754e5de02c133a7cd5a58b4f4a7519e978c994ab308864"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31317,
+      "sha256": "88c7dc61addb00923931962da141b36f7dbad81dd8aa877dbb181e7a1868f3e7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "cta",
+    "features",
+    "bento-grid",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

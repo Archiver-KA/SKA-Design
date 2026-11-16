@@ -1,0 +1,20 @@
+<svg viewBox="0 0 300 90" class="w-full h-20 sm:h-24 text-neutral-700">
+            <defs class="">
+              <pattern id="dots1" x="0" y="0" width="4" height="4" patternUnits="userSpaceOnUse" class="">
+                <circle cx="1" cy="1" r="0.5" fill="currentColor" opacity="0.3" class=""></circle>
+              </pattern>
+            </defs>
+            <rect width="100%" height="100%" fill="url(#dots1)" class=""></rect>
+            <!-- Candlestick-style bars -->
+            <rect x="20" y="45" width="3" height="20" fill="#EF4444" class=""></rect>
+            <rect x="40" y="35" width="3" height="25" fill="#10B981" class=""></rect>
+            <rect x="60" y="50" width="3" height="15" fill="#EF4444" class=""></rect>
+            <rect x="80" y="30" width="3" height="30" fill="#10B981" class=""></rect>
+            <rect x="100" y="40" width="3" height="20" fill="#10B981" class=""></rect>
+            <rect x="120" y="25" width="3" height="35" fill="#10B981" class=""></rect>
+            <rect x="140" y="45" width="3" height="18" fill="#EF4444" class=""></rect>
+            <rect x="160" y="20" width="3" height="40" fill="#10B981" class=""></rect>
+            <rect x="180" y="35" width="3" height="25" fill="#10B981" class=""></rect>
+            <rect x="200" y="15" width="3" height="45" fill="#10B981" class=""></rect>
+            <polyline points="22,55 42,47 62,57 82,45 102,50 122,42 142,54 162,40 182,47 202,37" fill="none" stroke="#10B981" stroke-width="1.5" stroke-linecap="round" class=""></polyline>
+          </svg>

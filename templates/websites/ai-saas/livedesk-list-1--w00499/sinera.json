@@ -1,0 +1,66 @@
+{
+  "id": "SN-W00499",
+  "title": "livedesk-list-1",
+  "summary": "A high-performance iOS-style dashboard and application launcher template designed for organizing productivity tools and widgets.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Dark",
+    "Clean",
+    "Animated",
+    "Minimal",
+    "Portofolio",
+    "Style"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3646,
+      "sha256": "917ddb7038316c24c340d90bfb538a8715a67e3f69d3b5e03ebf726dd2baaf51"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14229,
+      "sha256": "a8de232a167b85d0cf6f26e26301c6b44a04c9e4121bcdaf9d164d336dfd8387"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 793,
+      "sha256": "efb9c3f2d6bbc68800bc029759fa61ec531f898388534e099a89a254df42012e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 125712,
+      "sha256": "39a849e085ebd1c2a54570d0f25576f1f151e23db5d08f3a64480163ebbe5313"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "gallery-portfolio",
+    "cta",
+    "video-media",
+    "contact-form"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

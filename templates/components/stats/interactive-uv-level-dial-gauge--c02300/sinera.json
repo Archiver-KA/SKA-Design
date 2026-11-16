@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02300",
+  "title": "Interactive UV Level Dial Gauge",
+  "summary": "Circular UV level dial with SVG arc, ticks, and numeric labels. Drag the central knob to adjust value from 0–12, animating the gradient arc, indicator rotation, and fill bar. Styled with Tailwind-style utility classes for dashboard or monitoring UIs.",
+  "tags": [
+    "card",
+    "gauge",
+    "dashboard",
+    "svg",
+    "interactive",
+    "animated",
+    "tailwind",
+    "uv",
+    "weather"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3360,
+      "sha256": "4fcbf608f8bb2010a82da20adfaeb638fa1310ae56918d4b12f35ad239306e91"
+    },
+    {
+      "path": "component.html",
+      "bytes": 74583,
+      "sha256": "70ff8a67877f5772523349f3813da75e4f420b7675f4d58a2672a3422c5ad73b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 75435,
+      "sha256": "6cd76badf15ef6ebec336c218c19da1eaca1c2bc32c1bcb02db94f0a319bae46"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

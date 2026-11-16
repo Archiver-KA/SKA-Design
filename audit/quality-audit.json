@@ -1,0 +1,6676 @@
+{
+ "summary": {
+  "templates": 4278,
+  "rendered": 4200,
+  "status": {
+   "ok": 3528,
+   "fixed": 582,
+   "react-project": 100,
+   "needs-review": 44,
+   "rebuilt": 24
+  },
+  "issues": {
+   "broken-images": 22,
+   "banner-missing-or-tiny": 10,
+   "blank-render": 6,
+   "huge-file": 4,
+   "heavy-inline-base64": 4,
+   "mobile-overflow": 2,
+   "lorem-ipsum": 1
+  },
+  "themes": {
+   "xuong": 1118,
+   "tuyen": 451,
+   "mach": 1230,
+   "cho": 270,
+   "tru": 654,
+   "an": 555
+  },
+  "fixes": {
+   "removed-source-editor-tracking-iframe": 2,
+   "removed-browser-extension-tags": 7,
+   "removed-missing-favicon-link": 9,
+   "removed-cloudflare-cdn-cgi-script": 3,
+   "added-title": 8,
+   "added-viewport": 5
+  },
+  "repaired": 607,
+  "rebuilt": 24,
+  "agentFixed": 589,
+  "unverified": 568,
+  "imagesReplaced": 126,
+  "duplicates": 0,
+  "snippetTypes": {
+   "3d-canvas": 41,
+   "hero": 38,
+   "other": 14,
+   "sidebar": 10,
+   "pricing": 9,
+   "footer": 8,
+   "dashboard-preview": 7,
+   "navbar": 4,
+   "newsletter": 4,
+   "cart-checkout": 3,
+   "auth-form": 3,
+   "blog-articles": 2,
+   "modal-overlay": 2,
+   "how-it-works": 2,
+   "timeline": 2,
+   "cta": 2,
+   "product-grid": 2,
+   "case-studies": 1,
+   "stats": 1,
+   "features": 1,
+   "code-terminal": 1,
+   "schedule-agenda": 1,
+   "contact-form": 1,
+   "team": 1
+  },
+  "kinds": {
+   "page": 4118,
+   "snippet": 160
+  }
+ },
+ "templates": [
+  {
+   "id": "SN-W01355",
+   "path": "templates/websites/agency-studio/agencia-de-marketing-e-ia-landing-page-template--w01355",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01360",
+   "path": "templates/websites/agency-studio/agency-website-landing-page-template--w01360",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01373",
+   "path": "templates/websites/agency-studio/ai-agency-landing-page-template-for-luxury-barbe--w01373",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01376",
+   "path": "templates/websites/agency-studio/ai-automation-agency--w01376",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "removed-source-editor-tracking-iframe",
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01377",
+   "path": "templates/websites/agency-studio/ai-automation-agency-landing-page-template--w01377",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01399",
+   "path": "templates/websites/agency-studio/ai-consulting-and-cloud-services-landing-page-te--w01399",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01406",
+   "path": "templates/websites/agency-studio/ai-creative-agency-landing-page-template--w01406",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "removed-browser-extension-tags",
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01409",
+   "path": "templates/websites/agency-studio/ai-design-agency-landing-page-template--w01409",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W01416",
+   "path": "templates/websites/agency-studio/ai-marketing-agency-landing-page-template--w01416",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01433",
+   "path": "templates/websites/agency-studio/ai-native-software-agency-template--w01433",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W01420",
+   "path": "templates/websites/agency-studio/ai-powered-seo-and-aeo-intelligence--w01420",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W01435",
+   "path": "templates/websites/agency-studio/arenasite-agency-landing-page-template--w01435",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01436",
+   "path": "templates/websites/agency-studio/arithmify-digital-agency-template--w01436",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01438",
+   "path": "templates/websites/agency-studio/atech-vortex-agency-landing-page-template--w01438",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01448",
+   "path": "templates/websites/agency-studio/b2b-growth-agency-landing-page-template--w01448",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01449",
+   "path": "templates/websites/agency-studio/b2b-growth-agency-landing-page-template--w01449",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01457",
+   "path": "templates/websites/agency-studio/brandinglab-webflow-agency-landing-page-template--w01457",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01466",
+   "path": "templates/websites/agency-studio/chatgpt-atlas-hero-landing-page-template--w01466",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01478",
+   "path": "templates/websites/agency-studio/creative-agency-landing-page-template--w01478",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01481",
+   "path": "templates/websites/agency-studio/creative-agency-landing-page-template--w01481",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01483",
+   "path": "templates/websites/agency-studio/creative-agency-landing-page-template--w01483",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01486",
+   "path": "templates/websites/agency-studio/creative-agency-landing-page-template--w01486",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01487",
+   "path": "templates/websites/agency-studio/creative-agency-services-template--w01487",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01488",
+   "path": "templates/websites/agency-studio/creative-ai-marketing-landing-page-template--w01488",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01492",
+   "path": "templates/websites/agency-studio/creative-studio-and-brand-agency-template--w01492",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01494",
+   "path": "templates/websites/agency-studio/creative-studio-landing-page-template--w01494",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01496",
+   "path": "templates/websites/agency-studio/creative-studio-landing-page-template--w01496",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01497",
+   "path": "templates/websites/agency-studio/creative-studio-landing-page-template--w01497",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01499",
+   "path": "templates/websites/agency-studio/creative-studio-landing-page-template--w01499",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W01507",
+   "path": "templates/websites/agency-studio/cyber-noir-agency-landing-page-template--w01507",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01518",
+   "path": "templates/websites/agency-studio/digital-agency--w01518",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01528",
+   "path": "templates/websites/agency-studio/digital-agency-landing-page-template--w01528",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01539",
+   "path": "templates/websites/agency-studio/digital-creative-studio-landing-page-template--w01539",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01540",
+   "path": "templates/websites/agency-studio/digital-echo-content-agency-template--w01540",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01545",
+   "path": "templates/websites/agency-studio/digital-marketing-agency-landing-page-template--w01545",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01547",
+   "path": "templates/websites/agency-studio/digital-marketing-agency-landing-page-template--w01547",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01552",
+   "path": "templates/websites/agency-studio/digital-product-agency-landing-page-template--w01552",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01557",
+   "path": "templates/websites/agency-studio/digitalarc-creative-agency--w01557",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W01566",
+   "path": "templates/websites/agency-studio/empyre-communications-pr-and-marketing-template--w01566",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01568",
+   "path": "templates/websites/agency-studio/enterprise-software-agency-landing-page-template--w01568",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01573",
+   "path": "templates/websites/agency-studio/focal-point-landing-page--w01573",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01580",
+   "path": "templates/websites/agency-studio/gaming-accelerator-marketing-landing-page-templa--w01580",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W01582",
+   "path": "templates/websites/agency-studio/genesis-design-studio--w01582",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "removed-missing-favicon-link",
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01587",
+   "path": "templates/websites/agency-studio/google-ads-dtc-agency-landing-page-template--w01587",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01593",
+   "path": "templates/websites/agency-studio/gtmverse-go-to-market-agency-landing-page-templa--w01593",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01598",
+   "path": "templates/websites/agency-studio/humain-demand-outbound-agency-landing-page-templ--w01598",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "removed-browser-extension-tags"
+   ]
+  },
+  {
+   "id": "SN-W01600",
+   "path": "templates/websites/agency-studio/influencer-marketing-landing-page-template--w01600",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01603",
+   "path": "templates/websites/agency-studio/instagram-carousel-funnel-template--w01603",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01613",
+   "path": "templates/websites/agency-studio/konvix-agency-landing-page-template--w01613",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01614",
+   "path": "templates/websites/agency-studio/la-vision-studio-agence-marketing-web--w01614",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01617",
+   "path": "templates/websites/agency-studio/lead-gen-agency-landing-page-template--w01617",
+   "status": "needs-review",
+   "issues": [
+    "broken-images"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01624",
+   "path": "templates/websites/agency-studio/local-seo-landing-page-template--w01624",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01626",
+   "path": "templates/websites/agency-studio/locallead-io--w01626",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01628",
+   "path": "templates/websites/agency-studio/lumina-studio-creative-landing-page-template--w01628",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01634",
+   "path": "templates/websites/agency-studio/marketing-agency-collective-landing-page-templat--w01634",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01639",
+   "path": "templates/websites/agency-studio/marqait-marketing-automation-landing-page-templa--w01639",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01642",
+   "path": "templates/websites/agency-studio/morph-animator-creative-studio-template--w01642",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W01646",
+   "path": "templates/websites/agency-studio/neura-marketing-intelligence-landing-page-templa--w01646",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01647",
+   "path": "templates/websites/agency-studio/newprompt-software-agency-landing-page-template--w01647",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01648",
+   "path": "templates/websites/agency-studio/nexa-creative-agency-template--w01648",
+   "status": "rebuilt",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W01649",
+   "path": "templates/websites/agency-studio/nexura-creative-agency-landing-page-template--w01649",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01657",
+   "path": "templates/websites/agency-studio/orison-creative-studio-agency-template--w01657",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01667",
+   "path": "templates/websites/agency-studio/positiv-digital-agency-landing-page-template--w01667",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01671",
+   "path": "templates/websites/agency-studio/premium-recruitment-agency-landing-page-template--w01671",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "removed-browser-extension-tags"
+   ]
+  },
+  {
+   "id": "SN-W01679",
+   "path": "templates/websites/agency-studio/revoxly-ai-agency-landing-page-template--w01679",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01688",
+   "path": "templates/websites/agency-studio/scalepage-performance-marketing-landing-page-tem--w01688",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01692",
+   "path": "templates/websites/agency-studio/seo-and-marketing-agency-landing-page-template--w01692",
+   "status": "rebuilt",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W01694",
+   "path": "templates/websites/agency-studio/seo-gso-web-development-agency-template--w01694",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W01725",
+   "path": "templates/websites/agency-studio/voice-over-agency-landing-page-template--w01725",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01732",
+   "path": "templates/websites/agency-studio/web3-agency-landing-page-template--w01732",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01731",
+   "path": "templates/websites/agency-studio/web3-and-ai-agency-landing-page-template--w01731",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00011",
+   "path": "templates/websites/ai-saas/aegis-command-tactical-operations-template--w00011",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00013",
+   "path": "templates/websites/ai-saas/aether-futuristic-saas-landing-page-template--w00013",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00017",
+   "path": "templates/websites/ai-saas/agent-ai--w00017",
+   "status": "needs-review",
+   "issues": [
+    "huge-file"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00019",
+   "path": "templates/websites/ai-saas/agentic-ai-mlm-saas-landing-page-template--w00019",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00020",
+   "path": "templates/websites/ai-saas/agentic-ai-systems-and-business-automation-templ--w00020",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00031",
+   "path": "templates/websites/ai-saas/ai-agent-privacy-landing-page-template--w00031",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00054",
+   "path": "templates/websites/ai-saas/ai-automation-saas-landing-page-template--w00054",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00060",
+   "path": "templates/websites/ai-saas/ai-awards-landing-page-template--w00060",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00068",
+   "path": "templates/websites/ai-saas/ai-cloud-platform-landing-page-template--w00068",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00069",
+   "path": "templates/websites/ai-saas/ai-cms-saas-landing-page-template--w00069",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00082",
+   "path": "templates/websites/ai-saas/ai-cybersecurity-saas-landing-page-template--w00082",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00085",
+   "path": "templates/websites/ai-saas/ai-developer-platform-landing-page-template--w00085",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00101",
+   "path": "templates/websites/ai-saas/ai-hiring-landing-page-template--w00101",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00120",
+   "path": "templates/websites/ai-saas/ai-no-code-backend-landing-page-template--w00120",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00123",
+   "path": "templates/websites/ai-saas/ai-outreach-saas-landing-page-template--w00123",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00200",
+   "path": "templates/websites/ai-saas/ai-powered-visual-intelligence-template--w00200",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00131",
+   "path": "templates/websites/ai-saas/ai-product-photography-landing-page-template--w00131",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "removed-cloudflare-cdn-cgi-script"
+   ]
+  },
+  {
+   "id": "SN-W00132",
+   "path": "templates/websites/ai-saas/ai-product-photography-landing-page-template--w00132",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "removed-cloudflare-cdn-cgi-script",
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00133",
+   "path": "templates/websites/ai-saas/ai-productivity-landing-page-template--w00133",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00135",
+   "path": "templates/websites/ai-saas/ai-qa-saas-landing-page-template--w00135",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00136",
+   "path": "templates/websites/ai-saas/ai-receptionist-and-lead-automation-landing-page--w00136",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00143",
+   "path": "templates/websites/ai-saas/ai-research-landing-page-template--w00143",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00152",
+   "path": "templates/websites/ai-saas/ai-search-analytics-landing-page-template--w00152",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00160",
+   "path": "templates/websites/ai-saas/ai-startup-idea-generator-landing-page-template--w00160",
+   "status": "needs-review",
+   "issues": [
+    "blank-render"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00167",
+   "path": "templates/websites/ai-saas/ai-translation-saas-landing-page-template--w00167",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00185",
+   "path": "templates/websites/ai-saas/ai-voice-agent-landing-page-template--w00185",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00187",
+   "path": "templates/websites/ai-saas/ai-voice-cloning-landing-page-template--w00187",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00188",
+   "path": "templates/websites/ai-saas/ai-watermark-remover-landing-page--w00188",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00189",
+   "path": "templates/websites/ai-saas/ai-web3-swarm-landing-page-template--w00189",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00191",
+   "path": "templates/websites/ai-saas/ai-website-builder-landing-page-template--w00191",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "removed-browser-extension-tags",
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00194",
+   "path": "templates/websites/ai-saas/ai-website-translator-landing-page-template--w00194",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00203",
+   "path": "templates/websites/ai-saas/alris-ai-landing-page-template--w00203",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00206",
+   "path": "templates/websites/ai-saas/antegen-ai-compliance-landing-page-template--w00206",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00208",
+   "path": "templates/websites/ai-saas/apexsignal-decision-intelligence-landing-page-te--w00208",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00212",
+   "path": "templates/websites/ai-saas/arijapi-ai-automation-platform-template--w00212",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00215",
+   "path": "templates/websites/ai-saas/askvalor--w00215",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00221",
+   "path": "templates/websites/ai-saas/halcyon-ai-personal-assistant-template--w00221",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00223",
+   "path": "templates/websites/ai-saas/vireo-communication-app-landing-page-template--w00223",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00227",
+   "path": "templates/websites/ai-saas/northwind-unified-workspace-landing-page-templat--w00227",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00228",
+   "path": "templates/websites/ai-saas/corvin-vision-ai-landing-page-template--w00228",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00231",
+   "path": "templates/websites/ai-saas/authority-lab--w00231",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00239",
+   "path": "templates/websites/ai-saas/autonomous-drone-systems-landing-page-template--w00239",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00254",
+   "path": "templates/websites/ai-saas/bridgechat-speech-to-text-landing-page-template--w00254",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00255",
+   "path": "templates/websites/ai-saas/bt-y-asociados-asesores-de-seguros--w00255",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00263",
+   "path": "templates/websites/ai-saas/ca-firm-landing-page-template--w00263",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00268",
+   "path": "templates/websites/ai-saas/carbon-mine-bitcoin-revenue-program-template--w00268",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00269",
+   "path": "templates/websites/ai-saas/carbon-revenue-landing-page-template--w00269",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00272",
+   "path": "templates/websites/ai-saas/cerebros-ai--w00272",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00276",
+   "path": "templates/websites/ai-saas/cherry-note-ai-study-companion-landing-page-temp--w00276",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00278",
+   "path": "templates/websites/ai-saas/chromamax-pro-precision-sensor-landing-page-temp--w00278",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00279",
+   "path": "templates/websites/ai-saas/chronom-ai-microsoft-365-optimization-platform--w00279",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00285",
+   "path": "templates/websites/ai-saas/cloud-suite-landing-page-ui--w00285",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00286",
+   "path": "templates/websites/ai-saas/coach-and-team-management-app-template--w00286",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00290",
+   "path": "templates/websites/ai-saas/commute-and-expense-tracker-template--w00290",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00293",
+   "path": "templates/websites/ai-saas/connect-kinetic-saas-landing-page-template--w00293",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00294",
+   "path": "templates/websites/ai-saas/conquer-growth--w00294",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00295",
+   "path": "templates/websites/ai-saas/consensus-cloud-apps-saas-landing-page-template--w00295",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00299",
+   "path": "templates/websites/ai-saas/conversational-automation-landing-page--w00299",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00300",
+   "path": "templates/websites/ai-saas/coolsite-ui-design-landing-page-template--w00300",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00301",
+   "path": "templates/websites/ai-saas/core-infrastructure-saas-landing-page-template--w00301",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00315",
+   "path": "templates/websites/ai-saas/cyberpunk-technology-studio-landing-page-templat--w00315",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00317",
+   "path": "templates/websites/ai-saas/cybersecurity-advisory-landing-page-template--w00317",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00318",
+   "path": "templates/websites/ai-saas/cybersecurity-landing-page-template--w00318",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00320",
+   "path": "templates/websites/ai-saas/cybersecurity-saas-landing-page-template--w00320",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00324",
+   "path": "templates/websites/ai-saas/cybersecurity-saas-landing-page-template--w00324",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00332",
+   "path": "templates/websites/ai-saas/dating-app-landing-page-template--w00332",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00336",
+   "path": "templates/websites/ai-saas/defense-technology-landing-page-template--w00336",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00339",
+   "path": "templates/websites/ai-saas/developer-saas-landing-page-template--w00339",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00343",
+   "path": "templates/websites/ai-saas/digital-strategy-and-design-template--w00343",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00345",
+   "path": "templates/websites/ai-saas/digitize-ventures-venture-capital-template--w00345",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00361",
+   "path": "templates/websites/ai-saas/enterprise-ai-infrastructure-landing-page-templa--w00361",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00362",
+   "path": "templates/websites/ai-saas/enterprise-ai-infrastructure-landing-page-templa--w00362",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00363",
+   "path": "templates/websites/ai-saas/enterprise-ai-infrastructure-landing-page-templa--w00363",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00364",
+   "path": "templates/websites/ai-saas/enterprise-ai-operations-platform-template--w00364",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00376",
+   "path": "templates/websites/ai-saas/evangelical-digital-ministry-landing-page-templa--w00376",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00380",
+   "path": "templates/websites/ai-saas/executive-search-landing-page-template--w00380",
+   "status": "rebuilt",
+   "issues": [],
+   "fixes": [
+    "added-title"
+   ]
+  },
+  {
+   "id": "SN-W00385",
+   "path": "templates/websites/ai-saas/fantasy-football-draft-order-wheel-template--w00385",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00389",
+   "path": "templates/websites/ai-saas/flowbook-ai-virtual-receptionist--w00389",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00391",
+   "path": "templates/websites/ai-saas/flowforge-saas-landing-page-template--w00391",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00392",
+   "path": "templates/websites/ai-saas/flowline-bpmn-process-designer-template--w00392",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00395",
+   "path": "templates/websites/ai-saas/fluxora-ai-saas-landing-page-template--w00395",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00397",
+   "path": "templates/websites/ai-saas/fluxtify-ai-strategy-dash-landing-page-template--w00397",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00401",
+   "path": "templates/websites/ai-saas/founder-mvp-validation-landing-page-template--w00401",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00402",
+   "path": "templates/websites/ai-saas/framewise-ai-cinematography-landing-page-templat--w00402",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00405",
+   "path": "templates/websites/ai-saas/freestyle-silesia--w00405",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00408",
+   "path": "templates/websites/ai-saas/futuristic-ai-startup-landing-page-template--w00408",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00412",
+   "path": "templates/websites/ai-saas/futuristic-saas-infrastructure-landing-page-temp--w00412",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00413",
+   "path": "templates/websites/ai-saas/futuristic-sci-fi-landing-page-template--w00413",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00414",
+   "path": "templates/websites/ai-saas/futuristic-technology-landing-page-template--w00414",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00415",
+   "path": "templates/websites/ai-saas/futuristic-technology-landing-page-template--w00415",
+   "status": "needs-review",
+   "issues": [
+    "banner-missing-or-tiny"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00416",
+   "path": "templates/websites/ai-saas/galactic-product-studio-landing-page-template--w00416",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00421",
+   "path": "templates/websites/ai-saas/geometry-wave-arcade-landing-page-template--w00421",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00428",
+   "path": "templates/websites/ai-saas/graphos-visual-scripting-saas-landing-page-templ--w00428",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00429",
+   "path": "templates/websites/ai-saas/growthhub-freelance-membership-landing-page-temp--w00429",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00431",
+   "path": "templates/websites/ai-saas/gtmlab-detection-de-signaux-d-achat-and-prospect--w00431",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "removed-missing-favicon-link"
+   ]
+  },
+  {
+   "id": "SN-W00432",
+   "path": "templates/websites/ai-saas/gymbot-ai-landing-page-template--w00432",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00435",
+   "path": "templates/websites/ai-saas/hardware-spoofer-setup-guide-template--w00435",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "removed-missing-favicon-link"
+   ]
+  },
+  {
+   "id": "SN-W00436",
+   "path": "templates/websites/ai-saas/hardware-spoofer-setup-landing-page-template--w00436",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "removed-missing-favicon-link"
+   ]
+  },
+  {
+   "id": "SN-W00444",
+   "path": "templates/websites/ai-saas/home-services-saas-landing-page-template-calls--w00444",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00446",
+   "path": "templates/websites/ai-saas/hova-ai-development-platform-template--w00446",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00448",
+   "path": "templates/websites/ai-saas/hubsleek-client-management-landing-page-template--w00448",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00449",
+   "path": "templates/websites/ai-saas/hubsleek-client-management-saas-template--w00449",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00450",
+   "path": "templates/websites/ai-saas/humanoid-robotics-landing-page-template--w00450",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00453",
+   "path": "templates/websites/ai-saas/imaginova-ai-visuals-library-landing-page-templa--w00453",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00454",
+   "path": "templates/websites/ai-saas/imaginova-gallery-landing-page-template--w00454",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00464",
+   "path": "templates/websites/ai-saas/insights-mobile-app-template--w00464",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00466",
+   "path": "templates/websites/ai-saas/intelligent-plant-care-landing-page-template--w00466",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00469",
+   "path": "templates/websites/ai-saas/ios-music-app-landing-page-template--w00469",
+   "status": "needs-review",
+   "issues": [
+    "mobile-overflow"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00473",
+   "path": "templates/websites/ai-saas/irrigation-and-outdoor-lighting-landing-page-tem--w00473",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00477",
+   "path": "templates/websites/ai-saas/juststartai--w00477",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00480",
+   "path": "templates/websites/ai-saas/kerf-k1-cinematic-3d-chip-launch-page--w00480",
+   "status": "needs-review",
+   "issues": [
+    "huge-file"
+   ],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00484",
+   "path": "templates/websites/ai-saas/kinetic-engine-physics-simulator-template--w00484",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00489",
+   "path": "templates/websites/ai-saas/langfuse-llm-platform-landing-page-template--w00489",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00490",
+   "path": "templates/websites/ai-saas/lead-fix-ai-contractor-voice-agent-landing-page--w00490",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00499",
+   "path": "templates/websites/ai-saas/livedesk-list-1--w00499",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00507",
+   "path": "templates/websites/ai-saas/lumimotion-ai-prompt-engineering-landing-page-te--w00507",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00520",
+   "path": "templates/websites/ai-saas/make-a-app-where-you-can-paint-paintings-and--w00520",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00526",
+   "path": "templates/websites/ai-saas/matter-kinetic-3d-experience-template--w00526",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00527",
+   "path": "templates/websites/ai-saas/mcp-server-development-landing-page-template--w00527",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00529",
+   "path": "templates/websites/ai-saas/medora-infrastructure-saas-landing-page-template--w00529",
+   "status": "needs-review",
+   "issues": [
+    "broken-images"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00543",
+   "path": "templates/websites/ai-saas/modern-coming-soon-concepts-landing-page-templat--w00543",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00544",
+   "path": "templates/websites/ai-saas/modern-interface-landing-page-template--w00544",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00559",
+   "path": "templates/websites/ai-saas/nebula-saas-landing-page-template--w00559",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "added-title",
+    "added-viewport"
+   ]
+  },
+  {
+   "id": "SN-W00576",
+   "path": "templates/websites/ai-saas/nexus-ai-conversational-saas-landing-page-templa--w00576",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00578",
+   "path": "templates/websites/ai-saas/nexus-ai-saas-landing-page-template--w00578",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00580",
+   "path": "templates/websites/ai-saas/nexus-creative-mind-management-landing-page-temp--w00580",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00582",
+   "path": "templates/websites/ai-saas/nexus-funnel-page-builder-template--w00582",
+   "status": "needs-review",
+   "issues": [
+    "broken-images"
+   ],
+   "fixes": [
+    "removed-missing-favicon-link",
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00587",
+   "path": "templates/websites/ai-saas/nexus-saas-landing-page-template--w00587",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00595",
+   "path": "templates/websites/ai-saas/notebook-workspace-app-template--w00595",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00598",
+   "path": "templates/websites/ai-saas/nova-chat-messaging-landing-page-template--w00598",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00600",
+   "path": "templates/websites/ai-saas/nova-enterprise-quoting-saas-landing-page-templa--w00600",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00601",
+   "path": "templates/websites/ai-saas/nova-notes-app-landing-page-template--w00601",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00609",
+   "path": "templates/websites/ai-saas/offensive-security-and-ai-red-teaming-landing-pa--w00609",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00610",
+   "path": "templates/websites/ai-saas/offerti-saas-landing-page-template--w00610",
+   "status": "react-project",
+   "issues": [
+    "banner-missing-or-tiny"
+   ],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00612",
+   "path": "templates/websites/ai-saas/operational-intelligence-landing-page-template--w00612",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00614",
+   "path": "templates/websites/ai-saas/orbit-saas-landing-page-template--w00614",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00617",
+   "path": "templates/websites/ai-saas/ordermatic-operations-landing-page-template--w00617",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00618",
+   "path": "templates/websites/ai-saas/organic-fertilizer-product-landing-page-template--w00618",
+   "status": "rebuilt",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00628",
+   "path": "templates/websites/ai-saas/pitchbot-ai-saas-landing-page-template--w00628",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00636",
+   "path": "templates/websites/ai-saas/practical-ai-for-business-landing-page-template--w00636",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00640",
+   "path": "templates/websites/ai-saas/premium-dealership-landing-page--w00640",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00641",
+   "path": "templates/websites/ai-saas/premium-saas-landing-page-template--w00641",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00647",
+   "path": "templates/websites/ai-saas/prossium-ai-saas-landing-page-template--w00647",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00649",
+   "path": "templates/websites/ai-saas/pulseframe-mobile-app-landing-page-template--w00649",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00655",
+   "path": "templates/websites/ai-saas/quietpilot-logistics-and-saas-landing-page-templ--w00655",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00656",
+   "path": "templates/websites/ai-saas/quietpilot-operations-dashboards-template--w00656",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00657",
+   "path": "templates/websites/ai-saas/quietpilot-operations-saas-landing-page-template--w00657",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00659",
+   "path": "templates/websites/ai-saas/raven-brain-data-analysis-and-visualztion--w00659",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00661",
+   "path": "templates/websites/ai-saas/readflow-digital-library-landing-page-template--w00661",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00676",
+   "path": "templates/websites/ai-saas/runlyx-ai-saas-landing-page-template--w00676",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00677",
+   "path": "templates/websites/ai-saas/runlyx-automation-saas-landing-page-template--w00677",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00683",
+   "path": "templates/websites/ai-saas/saas-chaos-management-landing-page-template--w00683",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00691",
+   "path": "templates/websites/ai-saas/saas-wrapped-story-builder-template--w00691",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00699",
+   "path": "templates/websites/ai-saas/sector-gateway-landing-page-template--w00699",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "added-title"
+   ]
+  },
+  {
+   "id": "SN-W00712",
+   "path": "templates/websites/ai-saas/signalworks-ai-engineering-template--w00712",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00715",
+   "path": "templates/websites/ai-saas/smart-home-app-landing-page-template--w00715",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00717",
+   "path": "templates/websites/ai-saas/smart-pilot-os-ai-automation-landing-page-templa--w00717",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00718",
+   "path": "templates/websites/ai-saas/sme-operational-systems-landing-page-template--w00718",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00720",
+   "path": "templates/websites/ai-saas/social-link-hub-landing-page-template--w00720",
+   "status": "rebuilt",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00721",
+   "path": "templates/websites/ai-saas/solana-privacy-protocol-landing-page-template--w00721",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00722",
+   "path": "templates/websites/ai-saas/solaris-ai-saas-and-tech-startup-template--w00722",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00725",
+   "path": "templates/websites/ai-saas/sora-ai-ui-design-landing-page-template--w00725",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00734",
+   "path": "templates/websites/ai-saas/startup-idea-voting-landing-page-template--w00734",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00742",
+   "path": "templates/websites/ai-saas/strategic-planning-summit-landing-page-template--w00742",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00750",
+   "path": "templates/websites/ai-saas/sumon-infinity-ad-creative-landing-page-template--w00750",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00756",
+   "path": "templates/websites/ai-saas/synapplink-ai-recruitment-landing-page-template--w00756",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00759",
+   "path": "templates/websites/ai-saas/synqorai-enterprise-ai-workflow-template--w00759",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00767",
+   "path": "templates/websites/ai-saas/tech-conference-landing-page-template--w00767",
+   "status": "needs-review",
+   "issues": [
+    "broken-images"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00768",
+   "path": "templates/websites/ai-saas/tech-ecosystem-and-saas-landing-page-template--w00768",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00769",
+   "path": "templates/websites/ai-saas/techcode-analytics-saas-landing-page-template--w00769",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00771",
+   "path": "templates/websites/ai-saas/technology-intelligence-landing-page-template--w00771",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00777",
+   "path": "templates/websites/ai-saas/themailmachine-cold-email-saas-template--w00777",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00779",
+   "path": "templates/websites/ai-saas/tradeai-operational-saas-landing-page-template--w00779",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00780",
+   "path": "templates/websites/ai-saas/trinity-os-ai-saas-landing-page-template--w00780",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00788",
+   "path": "templates/websites/ai-saas/upstar-social-growth-landing-page-template--w00788",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00790",
+   "path": "templates/websites/ai-saas/vacance-solitude-booking-template--w00790",
+   "status": "needs-review",
+   "issues": [
+    "banner-missing-or-tiny"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00794",
+   "path": "templates/websites/ai-saas/vehicle-security-and-tracking-saas-template--w00794",
+   "status": "rebuilt",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00795",
+   "path": "templates/websites/ai-saas/velocent-ai-chatbot-platform-template--w00795",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00800",
+   "path": "templates/websites/ai-saas/venture-capital-landing-page-template--w00800",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00806",
+   "path": "templates/websites/ai-saas/vesper-space-observatory-landing-page-template--w00806",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00810",
+   "path": "templates/websites/ai-saas/visioncom--w00810",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00811",
+   "path": "templates/websites/ai-saas/visualkit-ai-video-conferencing-template--w00811",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00814",
+   "path": "templates/websites/ai-saas/vortex-next-gen-digital-landing-page-template--w00814",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00816",
+   "path": "templates/websites/ai-saas/vybe-ai-music-creation-landing-page-template--w00816",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00823",
+   "path": "templates/websites/ai-saas/web-design-custom-apps-and-ai-systems-project-d--w00823",
+   "status": "needs-review",
+   "issues": [
+    "mobile-overflow"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00826",
+   "path": "templates/websites/ai-saas/web3-infrastructure-landing-page-template--w00826",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00827",
+   "path": "templates/websites/ai-saas/web3-saas-landing-page-template--w00827",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00835",
+   "path": "templates/websites/ai-saas/wordpress-developer-landing-page-template--w00835",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00836",
+   "path": "templates/websites/ai-saas/wordpress-speed-optimization-landing-page-templa--w00836",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00838",
+   "path": "templates/websites/ai-saas/worldbuilding-wiki-web-app-template--w00838",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00839",
+   "path": "templates/websites/ai-saas/writer-saas-landing-page-template--w00839",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00842",
+   "path": "templates/websites/ai-saas/yoo--w00842",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00845",
+   "path": "templates/websites/ai-saas/zynq-web3-infrastructure-landing-page-template--w00845",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "removed-browser-extension-tags"
+   ]
+  },
+  {
+   "id": "SN-W02827",
+   "path": "templates/websites/food-beverage/91-degree--w02827",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02833",
+   "path": "templates/websites/food-beverage/artisan-coffee-landing-page-template--w02833",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02838",
+   "path": "templates/websites/food-beverage/larkspur-cafe-experience-template--w02838",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02839",
+   "path": "templates/websites/food-beverage/authentic-italian-restaurant-landing-page-templa--w02839",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02840",
+   "path": "templates/websites/food-beverage/authentic-ivorian-cuisine-restaurant-template--w02840",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02841",
+   "path": "templates/websites/food-beverage/bakery-brand-story-template--w02841",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02848",
+   "path": "templates/websites/food-beverage/beer-hall-and-global-pizza-restaurant-landing-pa--w02848",
+   "status": "needs-review",
+   "issues": [
+    "broken-images"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02851",
+   "path": "templates/websites/food-beverage/burger-heaven-restaurant-landing-page-template--w02851",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02858",
+   "path": "templates/websites/food-beverage/cafe-and-restaurant-landing-page-template--w02858",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02860",
+   "path": "templates/websites/food-beverage/cafe-landing-page-template--w02860",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02863",
+   "path": "templates/websites/food-beverage/cafe-restaurant-landing-page-template--w02863",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02878",
+   "path": "templates/websites/food-beverage/coffee-roastery-landing-page-template--w02878",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02883",
+   "path": "templates/websites/food-beverage/dinevo-restaurant-landing-page-template--w02883",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02895",
+   "path": "templates/websites/food-beverage/fine-dining-restaurant-landing-page-template--w02895",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02904",
+   "path": "templates/websites/food-beverage/french-restaurant-landing-page-template--w02904",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02913",
+   "path": "templates/websites/food-beverage/grego-restaurant-landing-page-template--w02913",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02921",
+   "path": "templates/websites/food-beverage/italian-restaurant-landing-page-template--w02921",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02934",
+   "path": "templates/websites/food-beverage/luxury-restaurant-and-hotel-landing-page-templat--w02934",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02935",
+   "path": "templates/websites/food-beverage/luxury-restaurant-and-hotel-landing-page-templat--w02935",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02958",
+   "path": "templates/websites/food-beverage/pizza-restaurant-landing-page-template--w02958",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02971",
+   "path": "templates/websites/food-beverage/restaurant-bar-and-lounge-landing-page-template--w02971",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03008",
+   "path": "templates/websites/food-beverage/waterfront-pizza-restaurant-landing-page-templat--w03008",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03165",
+   "path": "templates/websites/real-estate/accra-real-estate-landing-page-template--w03165",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03169",
+   "path": "templates/websites/real-estate/ai-property-lab-homepage--w03169",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "removed-source-editor-tracking-iframe"
+   ]
+  },
+  {
+   "id": "SN-W03176",
+   "path": "templates/websites/real-estate/architect-exchange-landing-page-template--w03176",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03179",
+   "path": "templates/websites/real-estate/architectural-3d-concept-landing-page-template--w03179",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03184",
+   "path": "templates/websites/real-estate/architecture-and-interior-design-agency-template--w03184",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03187",
+   "path": "templates/websites/real-estate/architecture-and-interior-design-landing-page-te--w03187",
+   "status": "rebuilt",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W03186",
+   "path": "templates/websites/real-estate/architecture-and-interior-design-studio-landing--w03186",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03188",
+   "path": "templates/websites/real-estate/architecture-and-real-estate-template--w03188",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03194",
+   "path": "templates/websites/real-estate/architecture-studio-landing-page-template--w03194",
+   "status": "needs-review",
+   "issues": [
+    "broken-images"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03196",
+   "path": "templates/websites/real-estate/architecture-studio-landing-page-template--w03196",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03201",
+   "path": "templates/websites/real-estate/halden-estates-real-estate-landing-page-template--w03201",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03212",
+   "path": "templates/websites/real-estate/commercial-construction-landing-page-template--w03212",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03218",
+   "path": "templates/websites/real-estate/construction-and-renovation-landing-page-templat--w03218",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W03215",
+   "path": "templates/websites/real-estate/construction-and-steel-reinforcement-landing-pag--w03215",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03227",
+   "path": "templates/websites/real-estate/construction-supply-landing-page-template--w03227",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03231",
+   "path": "templates/websites/real-estate/darhaya-architectural-landing--w03231",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03239",
+   "path": "templates/websites/real-estate/futuristic-architecture-landing-page-template--w03239",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03248",
+   "path": "templates/websites/real-estate/home-remodeling-landing-page-template--w03248",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03251",
+   "path": "templates/websites/real-estate/housing-risk-intelligence-saas-landing-page-temp--w03251",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03268",
+   "path": "templates/websites/real-estate/landscape-architecture-and-garden-design-templat--w03268",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03284",
+   "path": "templates/websites/real-estate/luxury-real-estate-and-architectural-landing-pag--w03284",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03291",
+   "path": "templates/websites/real-estate/luxury-real-estate-landing-page-template--w03291",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03293",
+   "path": "templates/websites/real-estate/luxury-real-estate-landing-page-template--w03293",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03301",
+   "path": "templates/websites/real-estate/luxury-real-estate-landing-page-template--w03301",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03307",
+   "path": "templates/websites/real-estate/luxury-real-estate-landing-page-template--w03307",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W03310",
+   "path": "templates/websites/real-estate/luxury-residential-real-estate-template--w03310",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03311",
+   "path": "templates/websites/real-estate/luxury-swimming-pool-landing-page-template--w03311",
+   "status": "needs-review",
+   "issues": [
+    "broken-images"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03323",
+   "path": "templates/websites/real-estate/opulent-architect-sustainable-design-template--w03323",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03335",
+   "path": "templates/websites/real-estate/real-estate-agency-landing-page-template--w03335",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03336",
+   "path": "templates/websites/real-estate/real-estate-agency-landing-page-template--w03336",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03345",
+   "path": "templates/websites/real-estate/real-estate-branding-landing-page-template--w03345",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "removed-missing-favicon-link"
+   ]
+  },
+  {
+   "id": "SN-W03350",
+   "path": "templates/websites/real-estate/real-estate-landing-page-template--w03350",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03351",
+   "path": "templates/websites/real-estate/real-estate-landing-page-template--w03351",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03366",
+   "path": "templates/websites/real-estate/real-estate-project-development-landing-page-tem--w03366",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03376",
+   "path": "templates/websites/real-estate/real-estate-rental-platform-template--w03376",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03382",
+   "path": "templates/websites/real-estate/solflare-real-estate-landing-page-template--w03382",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03388",
+   "path": "templates/websites/real-estate/ve-be-interiors--w03388",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03389",
+   "path": "templates/websites/real-estate/vectr-structural-development-landing-page-templa--w03389",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03794",
+   "path": "templates/websites/business-services/agriculture-and-global-export-landing-page-templ--w03794",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03797",
+   "path": "templates/websites/business-services/agriculture-business-landing-page-template--w03797",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03806",
+   "path": "templates/websites/business-services/aluminium-manufacturer-landing-page-template--w03806",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03812",
+   "path": "templates/websites/business-services/atlantic-multimarcas-automotive-landing-page-tem--w03812",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03815",
+   "path": "templates/websites/business-services/auto-detailing-landing-page-template--w03815",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03818",
+   "path": "templates/websites/business-services/auto-detailing-services-landing-page-template--w03818",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03825",
+   "path": "templates/websites/business-services/automotive-archive-website-template--w03825",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03830",
+   "path": "templates/websites/business-services/automotive-service-and-car-buyback-template--w03830",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W03840",
+   "path": "templates/websites/business-services/axis-automotive-auction-landing-page-template--w03840",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03851",
+   "path": "templates/websites/business-services/car-dealership-landing-page-template--w03851",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03855",
+   "path": "templates/websites/business-services/car-detailing-service-landing-page-template--w03855",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03860",
+   "path": "templates/websites/business-services/chauffeur-service-landing-page-template--w03860",
+   "status": "rebuilt",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W03864",
+   "path": "templates/websites/business-services/cleaning-services-landing-page-template--w03864",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03872",
+   "path": "templates/websites/business-services/counteros-service-workflow-template--w03872",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03874",
+   "path": "templates/websites/business-services/criminal-law-firm-landing-page-template--w03874",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03877",
+   "path": "templates/websites/business-services/design-services-landing-page--w03877",
+   "status": "rebuilt",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W03888",
+   "path": "templates/websites/business-services/electrical-services-landing-page-template--w03888",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03894",
+   "path": "templates/websites/business-services/emergency-plumbing-services-landing-page-templat--w03894",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W03896",
+   "path": "templates/websites/business-services/energy-brokerage-landing-page-template--w03896",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03898",
+   "path": "templates/websites/business-services/environmental-services-landing-page-template--w03898",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03915",
+   "path": "templates/websites/business-services/freight-logistics-landing-page-template--w03915",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03928",
+   "path": "templates/websites/business-services/heavy-industrial-and-trucking-services-template--w03928",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03938",
+   "path": "templates/websites/business-services/hvac-supplies-and-equipment-landing-page-templat--w03938",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03946",
+   "path": "templates/websites/business-services/industrial-electrical-services-landing-page-temp--w03946",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03952",
+   "path": "templates/websites/business-services/industrial-manufacturing-landing-page-template--w03952",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03956",
+   "path": "templates/websites/business-services/industrial-printing-services-landing-page-templa--w03956",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W03974",
+   "path": "templates/websites/business-services/laundry-services-landing-page-template--w03974",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "removed-cloudflare-cdn-cgi-script",
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03987",
+   "path": "templates/websites/business-services/legal-mediation-and-dispute-resolution-template--w03987",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03994",
+   "path": "templates/websites/business-services/locksmith-services-landing-page-template--w03994",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04008",
+   "path": "templates/websites/business-services/luxury-car-rental-landing-page-template--w04008",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04009",
+   "path": "templates/websites/business-services/luxury-car-rental-landing-page-template--w04009",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04016",
+   "path": "templates/websites/business-services/luxury-locksmith-landing-page-template--w04016",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04018",
+   "path": "templates/websites/business-services/luxury-taxi-service-landing-page-template--w04018",
+   "status": "rebuilt",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W04019",
+   "path": "templates/websites/business-services/luxury-yacht-charter-landing-page-template--w04019",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04022",
+   "path": "templates/websites/business-services/manufacturing-and-industrial-corporate-template--w04022",
+   "status": "needs-review",
+   "issues": [
+    "broken-images"
+   ],
+   "fixes": []
+  },
+  {
+   "id": "SN-W04032",
+   "path": "templates/websites/business-services/nova-product-design-and-growth-studio-landing-pa--w04032",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04047",
+   "path": "templates/websites/business-services/planet-explorer-3d-solar-system-template--w04047",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04048",
+   "path": "templates/websites/business-services/plumbing-services-landing-page-template--w04048",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04049",
+   "path": "templates/websites/business-services/plumbing-services-landing-page-template--w04049",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04055",
+   "path": "templates/websites/business-services/pool-services-landing-page-template--w04055",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04056",
+   "path": "templates/websites/business-services/premiere-underground-utility-contractor-north-te--w04056",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04063",
+   "path": "templates/websites/business-services/premium-taxi-service-landing-page-template--w04063",
+   "status": "rebuilt",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W04072",
+   "path": "templates/websites/business-services/recruitomatic-plumbing-pricing-page-template--w04072",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04075",
+   "path": "templates/websites/business-services/renewable-energy-services-landing-page-template--w04075",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04078",
+   "path": "templates/websites/business-services/responsive-website-footer-layout--w04078",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "added-viewport"
+   ]
+  },
+  {
+   "id": "SN-W04085",
+   "path": "templates/websites/business-services/roofing-services-landing-page-template--w04085",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04091",
+   "path": "templates/websites/business-services/seaint-business-os-landing-page-template--w04091",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04092",
+   "path": "templates/websites/business-services/security-and-cctv-services-landing-page-template--w04092",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04109",
+   "path": "templates/websites/business-services/talenthub-recruitment-landing-page-template--w04109",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W04121",
+   "path": "templates/websites/business-services/used-car-dealership-landing-page-template--w04121",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04122",
+   "path": "templates/websites/business-services/van-rental-service-landing-page--w04122",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04130",
+   "path": "templates/websites/business-services/vpn-service-landing-page-template--w04130",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03013",
+   "path": "templates/websites/travel/adventure-travel-landing-page-template--w03013",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03022",
+   "path": "templates/websites/travel/ark-care-afh-adult-family-home-landing-page-temp--w03022",
+   "status": "rebuilt",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W03057",
+   "path": "templates/websites/travel/holiday-web-agency-landing-page-template--w03057",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03070",
+   "path": "templates/websites/travel/jejuair-travel-planning-template--w03070",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03072",
+   "path": "templates/websites/travel/kairo-luxury-travel-expedition-template--w03072",
+   "status": "needs-review",
+   "issues": [
+    "banner-missing-or-tiny"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03074",
+   "path": "templates/websites/travel/karnak-backer-s-circle--w03074",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03079",
+   "path": "templates/websites/travel/luxury-chauffeur-landing-page-template--w03079",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03081",
+   "path": "templates/websites/travel/luxury-concierge-landing-page-template--w03081",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03083",
+   "path": "templates/websites/travel/luxury-desert-retreat-landing-page-template--w03083",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W03085",
+   "path": "templates/websites/travel/luxury-holiday-retreat-landing-page-template--w03085",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03086",
+   "path": "templates/websites/travel/luxury-hospitality-and-hotel-landing-page-templa--w03086",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "removed-missing-favicon-link"
+   ]
+  },
+  {
+   "id": "SN-W03095",
+   "path": "templates/websites/travel/luxury-hotel-landing-page-template--w03095",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03098",
+   "path": "templates/websites/travel/luxury-travel-agency-landing-page-template--w03098",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03104",
+   "path": "templates/websites/travel/luxury-travel-landing-page-template--w03104",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03107",
+   "path": "templates/websites/travel/luxury-travel-landing-page-template--w03107",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03108",
+   "path": "templates/websites/travel/luxury-travel-landing-page-template--w03108",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W03112",
+   "path": "templates/websites/travel/luxury-vineyard-resort-landing-page-template--w03112",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03118",
+   "path": "templates/websites/travel/molow-alpine-expedition-landing-page-template--w03118",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03119",
+   "path": "templates/websites/travel/moon-river-luxury-resort-template--w03119",
+   "status": "needs-review",
+   "issues": [
+    "broken-images"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03121",
+   "path": "templates/websites/travel/morocco-travel-landing-page-template--w03121",
+   "status": "needs-review",
+   "issues": [
+    "broken-images"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03123",
+   "path": "templates/websites/travel/oppa-travel-booking-landing-page-template--w03123",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03137",
+   "path": "templates/websites/travel/travel-adventure-landing-page-template--w03137",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03145",
+   "path": "templates/websites/travel/travel-booking-landing-page-template--w03145",
+   "status": "rebuilt",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W03152",
+   "path": "templates/websites/travel/travelon-tourism-landing-page-template--w03152",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00862",
+   "path": "templates/websites/fintech-crypto/ai-financial-consulting-landing-page-template--w00862",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00871",
+   "path": "templates/websites/fintech-crypto/altara-automated-trading-landing-page-template--w00871",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00873",
+   "path": "templates/websites/fintech-crypto/altara-automated-trading-landing-page-template--w00873",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00875",
+   "path": "templates/websites/fintech-crypto/alternative-asset-management-landing-page-templa--w00875",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00876",
+   "path": "templates/websites/fintech-crypto/argos-commodity-index-vyvoj-komodit-v-ceske-ekon--w00876",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00895",
+   "path": "templates/websites/fintech-crypto/crypto-banking-hero-landing-page-template--w00895",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00905",
+   "path": "templates/websites/fintech-crypto/crypto-roofing-presale-landing-page-template--w00905",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00907",
+   "path": "templates/websites/fintech-crypto/crypto-sports-betting-landing-page-template--w00907",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00916",
+   "path": "templates/websites/fintech-crypto/defi-protocol-landing-page-template--w00916",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00917",
+   "path": "templates/websites/fintech-crypto/defi-security-landing-page-template--w00917",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00921",
+   "path": "templates/websites/fintech-crypto/elite-wins-trading-community-landing-page-templa--w00921",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00927",
+   "path": "templates/websites/fintech-crypto/financeflow-analytics-landing-page-template--w00927",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00928",
+   "path": "templates/websites/fintech-crypto/financial-advisor-and-consultant-landing-page-te--w00928",
+   "status": "rebuilt",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00932",
+   "path": "templates/websites/fintech-crypto/financial-intelligence-saas-landing-page-templat--w00932",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00933",
+   "path": "templates/websites/fintech-crypto/financial-invoice-document-template--w00933",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00934",
+   "path": "templates/websites/fintech-crypto/financial-mobile-app-landing-page-template--w00934",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00935",
+   "path": "templates/websites/fintech-crypto/financial-psychology-and-moneysign-landing-page--w00935",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00944",
+   "path": "templates/websites/fintech-crypto/fintech-app-landing-page-template--w00944",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00947",
+   "path": "templates/websites/fintech-crypto/fintech-banking-landing-page-template--w00947",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00949",
+   "path": "templates/websites/fintech-crypto/fintech-banking-landing-page-template--w00949",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00954",
+   "path": "templates/websites/fintech-crypto/fintech-landing-page--w00954",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00956",
+   "path": "templates/websites/fintech-crypto/fintech-payments-landing-page-template--w00956",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00960",
+   "path": "templates/websites/fintech-crypto/fintech-prop-trading-landing-page-template--w00960",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00963",
+   "path": "templates/websites/fintech-crypto/fintech-saas-landing-page-template--w00963",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00964",
+   "path": "templates/websites/fintech-crypto/fintech-stablecoin-landing-page-template--w00964",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00975",
+   "path": "templates/websites/fintech-crypto/fundedx-fintech-trading-landing-page-template--w00975",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00978",
+   "path": "templates/websites/fintech-crypto/hacker-retro-crypto-landing-page-template--w00978",
+   "status": "rebuilt",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00980",
+   "path": "templates/websites/fintech-crypto/horus-contabilidade--w00980",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00981",
+   "path": "templates/websites/fintech-crypto/insurance-agency-operating-system-template--w00981",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W00986",
+   "path": "templates/websites/fintech-crypto/iot-investor-platform-landing-page-template--w00986",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W00992",
+   "path": "templates/websites/fintech-crypto/luxury-investment-resort-landing-page-template--w00992",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01006",
+   "path": "templates/websites/fintech-crypto/nuvera-cross-border-fintech-landing-page-templat--w01006",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01007",
+   "path": "templates/websites/fintech-crypto/paradigm-crypto-trading-platform-template--w01007",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01019",
+   "path": "templates/websites/fintech-crypto/programmable-privacy-agent-landing-page-template--w01019",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01020",
+   "path": "templates/websites/fintech-crypto/prop-trading-world-cup-landing-page-template--w01020",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01046",
+   "path": "templates/websites/fintech-crypto/tax-relief-lead-generation-landing-page-template--w01046",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01056",
+   "path": "templates/websites/fintech-crypto/trading-platform-connection-status--w01056",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01058",
+   "path": "templates/websites/fintech-crypto/usda-asset-backed-stablecoin-template--w01058",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01059",
+   "path": "templates/websites/fintech-crypto/user-account-management-panel--w01059",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03670",
+   "path": "templates/websites/entertainment/atlas-music-venue-and-creative-space-template--w03670",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03671",
+   "path": "templates/websites/entertainment/audio-video-events-landing-page-template--w03671",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03680",
+   "path": "templates/websites/entertainment/cinemavision-pro-entertainment-booking-template--w03680",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03682",
+   "path": "templates/websites/entertainment/coin-clicker-game-template--w03682",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W03687",
+   "path": "templates/websites/entertainment/deadzone-survival-game-template--w03687",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W03697",
+   "path": "templates/websites/entertainment/esports-tournament-landing-page-template--w03697",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03701",
+   "path": "templates/websites/entertainment/flowchat-communication-landing-page-template--w03701",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03702",
+   "path": "templates/websites/entertainment/frontier-letters-subscription-landing-page-templ--w03702",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03706",
+   "path": "templates/websites/entertainment/gaming-boosting-service-landing-page-template--w03706",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03707",
+   "path": "templates/websites/entertainment/gaming-landing-page-template--w03707",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W03713",
+   "path": "templates/websites/entertainment/gold-miner-play-to-earn-game-template--w03713",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03717",
+   "path": "templates/websites/entertainment/loopi-music-streaming-landing-page-template--w03717",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03719",
+   "path": "templates/websites/entertainment/luxury-cinema-landing-page-template--w03719",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03725",
+   "path": "templates/websites/entertainment/mtee-music-studio-landing-page-template--w03725",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W03729",
+   "path": "templates/websites/entertainment/music-studio-landing-page-template--w03729",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03731",
+   "path": "templates/websites/entertainment/neon-dash-arcade-game-template--w03731",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W03740",
+   "path": "templates/websites/entertainment/podcast-weekly-trending-list--w03740",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03750",
+   "path": "templates/websites/entertainment/virtual-reality-gaming-landing-page-template--w03750",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03392",
+   "path": "templates/websites/education/3d-geometry-visualiser--w03392",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03394",
+   "path": "templates/websites/education/a-copy-of-timedoor-academy-isnt-the-real-website--w03394",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03398",
+   "path": "templates/websites/education/adaptive-learning-platform-landing-page-template--w03398",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W03413",
+   "path": "templates/websites/education/aspire-academy-rwanda--w03413",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03419",
+   "path": "templates/websites/education/blockchain-bootcamp-landing-page-template--w03419",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03420",
+   "path": "templates/websites/education/bootcamp-hero-education-landing-page-template--w03420",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03424",
+   "path": "templates/websites/education/childcare-center-landing-page-template--w03424",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03438",
+   "path": "templates/websites/education/cultural-presentation-landing-page-template--w03438",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03443",
+   "path": "templates/websites/education/dreamtales-kids-story-landing-page-template--w03443",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W03450",
+   "path": "templates/websites/education/education-editorial-landing-page-template--w03450",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W03466",
+   "path": "templates/websites/education/exo9-observatory-landing-page-template--w03466",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03467",
+   "path": "templates/websites/education/expert-led-learning-sessions-list--w03467",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03468",
+   "path": "templates/websites/education/expose-the-record-social-justice-template--w03468",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W03473",
+   "path": "templates/websites/education/funnel-design-course-landing-page-template--w03473",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03476",
+   "path": "templates/websites/education/higher-ed-roadmap-template--w03476",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03483",
+   "path": "templates/websites/education/international-school-landing-page-template--w03483",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "added-title"
+   ]
+  },
+  {
+   "id": "SN-W03494",
+   "path": "templates/websites/education/learning-platform-landing-page-template--w03494",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03495",
+   "path": "templates/websites/education/linear-course-progress-tracker--w03495",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03498",
+   "path": "templates/websites/education/macrolens-academy-landing-page-template--w03498",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03505",
+   "path": "templates/websites/education/metodo-a-triade--w03505",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03515",
+   "path": "templates/websites/education/officemastery-online-course-landing-page-templat--w03515",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03518",
+   "path": "templates/websites/education/outbound-sales-coaching-by-eoin-murphy--w03518",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "removed-missing-favicon-link"
+   ]
+  },
+  {
+   "id": "SN-W03520",
+   "path": "templates/websites/education/performing-arts-academy-landing-page-template--w03520",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W03522",
+   "path": "templates/websites/education/premium-landing-page-course-template--w03522",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03530",
+   "path": "templates/websites/education/sapling-education-landing-page-template--w03530",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03549",
+   "path": "templates/websites/education/thinking-partner-coaching-landing-page-template--w03549",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03551",
+   "path": "templates/websites/education/ui-ux-learning-platform-landing-page-template--w03551",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03556",
+   "path": "templates/websites/education/vertex-online-learning--w03556",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03564",
+   "path": "templates/websites/education/zerotoprod--w03564",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02698",
+   "path": "templates/websites/beauty-fashion/a-demo-salon-website--w02698",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02705",
+   "path": "templates/websites/beauty-fashion/aure-natural-skincare-landing-page-template--w02705",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02709",
+   "path": "templates/websites/beauty-fashion/barbershop-basri--w02709",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02718",
+   "path": "templates/websites/beauty-fashion/beauty-product-ios-style-landing-page-template--w02718",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02725",
+   "path": "templates/websites/beauty-fashion/beauty-salon-landing-page-template--w02725",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02728",
+   "path": "templates/websites/beauty-fashion/beauty-salon-saas-landing-page-template--w02728",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02730",
+   "path": "templates/websites/beauty-fashion/beauty-studio-landing-page-template--w02730",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02738",
+   "path": "templates/websites/beauty-fashion/factolink-premier-jewelry-production-in-asia--w02738",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02745",
+   "path": "templates/websites/beauty-fashion/fashion-inventory-saas-landing-page-template--w02745",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02749",
+   "path": "templates/websites/beauty-fashion/footsie-reflexology-spa-landing-page-template--w02749",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02754",
+   "path": "templates/websites/beauty-fashion/hair-salon-landing-page-template--w02754",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02762",
+   "path": "templates/websites/beauty-fashion/infiniteluxury5--w02762",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02763",
+   "path": "templates/websites/beauty-fashion/ivy-studio-beauty-landing-page-template--w02763",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02765",
+   "path": "templates/websites/beauty-fashion/korean-head-spa-landing-page-template--w02765",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02767",
+   "path": "templates/websites/beauty-fashion/lumiere-beauty-and-cosmetics-landing-page-templa--w02767",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02768",
+   "path": "templates/websites/beauty-fashion/lumiere-beauty-and-cosmetics-template--w02768",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02769",
+   "path": "templates/websites/beauty-fashion/lumiere-premium-cosmetics-landing-page-template--w02769",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02777",
+   "path": "templates/websites/beauty-fashion/luxury-hair-salon-landing-page-template--w02777",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02783",
+   "path": "templates/websites/beauty-fashion/luxury-perfume-landing-page-template--w02783",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02790",
+   "path": "templates/websites/beauty-fashion/luxury-salon-landing-page-template--w02790",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02796",
+   "path": "templates/websites/beauty-fashion/luxury-skincare-studio-landing-page-template--w02796",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02814",
+   "path": "templates/websites/beauty-fashion/selene-luxury-fragrance-landing-page-template--w02814",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "added-title"
+   ]
+  },
+  {
+   "id": "SN-W02817",
+   "path": "templates/websites/beauty-fashion/silin-salon--w02817",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04158",
+   "path": "templates/websites/other-landing/application-builder-with-instant-deploy--w04158",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04163",
+   "path": "templates/websites/other-landing/brutalist-design-system-layout--w04163",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04175",
+   "path": "templates/websites/other-landing/concentric-animated-dot-rings--w04175",
+   "status": "needs-review",
+   "issues": [
+    "blank-render"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04176",
+   "path": "templates/websites/other-landing/concentric-expanding-dot-rings--w04176",
+   "status": "needs-review",
+   "issues": [
+    "blank-render"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04191",
+   "path": "templates/websites/other-landing/eduit-desk-it--w04191",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04193",
+   "path": "templates/websites/other-landing/email-client-sidebar-navigation--w04193",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04202",
+   "path": "templates/websites/other-landing/gerador-de-lead-b2b--w04202",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "removed-browser-extension-tags"
+   ]
+  },
+  {
+   "id": "SN-W04214",
+   "path": "templates/websites/other-landing/interactive-camping-experience-selector--w04214",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04215",
+   "path": "templates/websites/other-landing/interactive-collaboration-landing-page--w04215",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04219",
+   "path": "templates/websites/other-landing/interactive-keyboard-shortcut-cards--w04219",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04224",
+   "path": "templates/websites/other-landing/interactive-shadow-wave-scroll--w04224",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04227",
+   "path": "templates/websites/other-landing/interactive-tunnel-shader-effect--w04227",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04234",
+   "path": "templates/websites/other-landing/lumina-studio-creative-landing-page-template-hom--w04234",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04246",
+   "path": "templates/websites/other-landing/nexus-pro-x-landing-page-template--w04246",
+   "status": "needs-review",
+   "issues": [
+    "heavy-inline-base64",
+    "huge-file"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04247",
+   "path": "templates/websites/other-landing/oasis-tibasosa--w04247",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W04252",
+   "path": "templates/websites/other-landing/platform-features-for-productivity--w04252",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04267",
+   "path": "templates/websites/other-landing/pricing-plans-with-interactive-cards--w04267",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "added-viewport"
+   ]
+  },
+  {
+   "id": "SN-W04282",
+   "path": "templates/websites/other-landing/rotating-cluster-of-pulsing-dots--w04282",
+   "status": "needs-review",
+   "issues": [
+    "blank-render"
+   ],
+   "fixes": [
+    "added-viewport",
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04283",
+   "path": "templates/websites/other-landing/rotisserie-segar--w04283",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04302",
+   "path": "templates/websites/other-landing/team-analytics-sidebar-navigation--w04302",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04310",
+   "path": "templates/websites/other-landing/titan-recovery-heavy-duty-towing-and-recovery--w04310",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W04313",
+   "path": "templates/websites/other-landing/untitled-design--w04313",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "removed-browser-extension-tags"
+   ]
+  },
+  {
+   "id": "SN-W04316",
+   "path": "templates/websites/other-landing/untitled-design--w04316",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04318",
+   "path": "templates/websites/other-landing/untitled-design--w04318",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04321",
+   "path": "templates/websites/other-landing/untitled-design--w04321",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W04343",
+   "path": "templates/websites/other-landing/workspace-sidebar-with-timer-and-nav--w04343",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01746",
+   "path": "templates/websites/portfolio/3d-artist-portfolio-landing-page-template--w01746",
+   "status": "needs-review",
+   "issues": [
+    "banner-missing-or-tiny"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01748",
+   "path": "templates/websites/portfolio/3d-artist-portfolio-template--w01748",
+   "status": "needs-review",
+   "issues": [
+    "banner-missing-or-tiny"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01756",
+   "path": "templates/websites/portfolio/3d-portfolio-landing-page-template--w01756",
+   "status": "needs-review",
+   "issues": [
+    "banner-missing-or-tiny"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01757",
+   "path": "templates/websites/portfolio/3d-portfolio-website-template--w01757",
+   "status": "needs-review",
+   "issues": [
+    "banner-missing-or-tiny"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01780",
+   "path": "templates/websites/portfolio/ai-portfolio-website-template--w01780",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01786",
+   "path": "templates/websites/portfolio/alba-studio--w01786",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01790",
+   "path": "templates/websites/portfolio/anna-gao-portfolio--w01790",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01805",
+   "path": "templates/websites/portfolio/architecture-studio-portfolio-landing-page-templ--w01805",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01807",
+   "path": "templates/websites/portfolio/architecture-studio-portfolio-website-template--w01807",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01814",
+   "path": "templates/websites/portfolio/artist-portfolio-landing-page-template--w01814",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01821",
+   "path": "templates/websites/portfolio/linnea-studio-portfolio-and-designer-landing-pag--w01821",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "added-title",
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01829",
+   "path": "templates/websites/portfolio/barbershop-landing-page-template--w01829",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01835",
+   "path": "templates/websites/portfolio/best-production-forever--w01835",
+   "status": "needs-review",
+   "issues": [
+    "broken-images"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01838",
+   "path": "templates/websites/portfolio/black-and-white-portfolio-website-template--w01838",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01843",
+   "path": "templates/websites/portfolio/brand-designer-portfolio-template--w01843",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01846",
+   "path": "templates/websites/portfolio/brutalist-architecture-portfolio-template--w01846",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01847",
+   "path": "templates/websites/portfolio/brutalist-designer-portfolio-template--w01847",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01850",
+   "path": "templates/websites/portfolio/build-with-john-ghl-specialist--w01850",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01878",
+   "path": "templates/websites/portfolio/creative-agency-portfolio-landing-page-template--w01878",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01884",
+   "path": "templates/websites/portfolio/creative-developer-collective-portfolio-template--w01884",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01886",
+   "path": "templates/websites/portfolio/creative-developer-portfolio-template--w01886",
+   "status": "needs-review",
+   "issues": [
+    "huge-file"
+   ],
+   "fixes": []
+  },
+  {
+   "id": "SN-W01907",
+   "path": "templates/websites/portfolio/creative-production-portfolio-template--w01907",
+   "status": "rebuilt",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W01909",
+   "path": "templates/websites/portfolio/creative-strategist-portfolio-website-template--w01909",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01915",
+   "path": "templates/websites/portfolio/creative-studio-portfolio-template--w01915",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01925",
+   "path": "templates/websites/portfolio/cyberos-tech-portfolio-template--w01925",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W01931",
+   "path": "templates/websites/portfolio/dark-developer-portfolio-template--w01931",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01932",
+   "path": "templates/websites/portfolio/dark-minimalist-engineer-portfolio-template--w01932",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01937",
+   "path": "templates/websites/portfolio/dark-portfolio-landing-page-template--w01937",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01938",
+   "path": "templates/websites/portfolio/dark-portfolio-landing-page-template--w01938",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01940",
+   "path": "templates/websites/portfolio/deckingleads-growth-landing-page-template--w01940",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01942",
+   "path": "templates/websites/portfolio/demo-v1--w01942",
+   "status": "needs-review",
+   "issues": [
+    "broken-images"
+   ],
+   "fixes": []
+  },
+  {
+   "id": "SN-W01946",
+   "path": "templates/websites/portfolio/designer-portfolio-landing-page-template--w01946",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01951",
+   "path": "templates/websites/portfolio/designstudio-web-design-landing-page-template--w01951",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01953",
+   "path": "templates/websites/portfolio/developer-portfolio-landing-page--w01953",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01957",
+   "path": "templates/websites/portfolio/developer-portfolio-landing-page-template--w01957",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01963",
+   "path": "templates/websites/portfolio/developer-portfolio-landing-page-template--w01963",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01967",
+   "path": "templates/websites/portfolio/developer-portfolio-website-template--w01967",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01979",
+   "path": "templates/websites/portfolio/digital-artist-portfolio-landing-page-template--w01979",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01987",
+   "path": "templates/websites/portfolio/digital-specialist-portfolio-template--w01987",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01990",
+   "path": "templates/websites/portfolio/digital-studio-portfolio-landing-page-template--w01990",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02003",
+   "path": "templates/websites/portfolio/editorial-creative-portfolio-landing-page-templa--w02003",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "added-title",
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02014",
+   "path": "templates/websites/portfolio/finance-and-ai-portfolio-landing-page-template--w02014",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02024",
+   "path": "templates/websites/portfolio/full-stack-developer-portfolio-template--w02024",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02026",
+   "path": "templates/websites/portfolio/full-stack-developer-portfolio-template--w02026",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02033",
+   "path": "templates/websites/portfolio/gravity-well-3d-interactive-template--w02033",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02040",
+   "path": "templates/websites/portfolio/harrison-and-co-home-improvement-landing-page-te--w02040",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02041",
+   "path": "templates/websites/portfolio/hassan-irshad-portfolio--w02041",
+   "status": "needs-review",
+   "issues": [
+    "broken-images"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02050",
+   "path": "templates/websites/portfolio/instagram-carousel-content-strategy-template--w02050",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02052",
+   "path": "templates/websites/portfolio/interface-designer-portfolio-website-template--w02052",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02055",
+   "path": "templates/websites/portfolio/interior-design-portfolio-landing-page-template--w02055",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02063",
+   "path": "templates/websites/portfolio/jomar-madarico-portfolio--w02063",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02066",
+   "path": "templates/websites/portfolio/junior-data-analyst-portfolio-template--w02066",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02074",
+   "path": "templates/websites/portfolio/lime-green-studios-product-studio-landing-page-t--w02074",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02075",
+   "path": "templates/websites/portfolio/liquid-systems-ui-landing-page-template--w02075",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02088",
+   "path": "templates/websites/portfolio/luxury-home-remodeling-landing-page-template--w02088",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02093",
+   "path": "templates/websites/portfolio/luxury-niche-perfumery-landing-page-template--w02093",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02098",
+   "path": "templates/websites/portfolio/luxury-real-estate-investment-portfolio-template--w02098",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02105",
+   "path": "templates/websites/portfolio/marcel-creative-portfolio-template--w02105",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02109",
+   "path": "templates/websites/portfolio/marqait-v2-0--w02109",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02118",
+   "path": "templates/websites/portfolio/minimalist-distraction-free-writing-template--w02118",
+   "status": "needs-review",
+   "issues": [
+    "banner-missing-or-tiny",
+    "blank-render"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02119",
+   "path": "templates/websites/portfolio/minimalist-furniture-landing-page-template--w02119",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02124",
+   "path": "templates/websites/portfolio/modern-designer-portfolio-and-course-landing-pag--w02124",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02128",
+   "path": "templates/websites/portfolio/modern-web-developer-portfolio-template--w02128",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02130",
+   "path": "templates/websites/portfolio/motogp-motorsports-landing-page-template--w02130",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02132",
+   "path": "templates/websites/portfolio/museumlite-cms-and-collections-management-templa--w02132",
+   "status": "needs-review",
+   "issues": [
+    "broken-images"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02145",
+   "path": "templates/websites/portfolio/one-slide-website-landing-page-template--w02145",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02155",
+   "path": "templates/websites/portfolio/personal-portfolio-landing-page-template--w02155",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02159",
+   "path": "templates/websites/portfolio/personal-trainer-portfolio-landing-page-template--w02159",
+   "status": "rebuilt",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02163",
+   "path": "templates/websites/portfolio/photography-portfolio-landing-page-template--w02163",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02181",
+   "path": "templates/websites/portfolio/presentation-design-and-brand-guidelines-templat--w02181",
+   "status": "react-project",
+   "issues": [
+    "lorem-ipsum"
+   ],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02186",
+   "path": "templates/websites/portfolio/product-designer-portfolio-landing-page-template--w02186",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02192",
+   "path": "templates/websites/portfolio/product-designer-portfolio-template--w02192",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02213",
+   "path": "templates/websites/portfolio/sacha-d-houwer-systeme-nerveux-equin-and-entrepr--w02213",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02214",
+   "path": "templates/websites/portfolio/sakura-portfolio-landing-page-template--w02214",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02233",
+   "path": "templates/websites/portfolio/software-studio-portfolio-and-landing-page-templ--w02233",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02234",
+   "path": "templates/websites/portfolio/sohweiyu-com--w02234",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02236",
+   "path": "templates/websites/portfolio/sonphan-home--w02236",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02239",
+   "path": "templates/websites/portfolio/spirograph-infinity-harmonograph-template--w02239",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02245",
+   "path": "templates/websites/portfolio/sustainable-architecture-portfolio-template--w02245",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02247",
+   "path": "templates/websites/portfolio/system-architect-developer-portfolio-template--w02247",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02253",
+   "path": "templates/websites/portfolio/tattoo-studio-landing-page-template--w02253",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02261",
+   "path": "templates/websites/portfolio/twenty-two-media--w02261",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02264",
+   "path": "templates/websites/portfolio/ui-ux-designer-portfolio-landing-page-template--w02264",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02265",
+   "path": "templates/websites/portfolio/ui-ux-designer-portfolio-landing-page-template--w02265",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02271",
+   "path": "templates/websites/portfolio/urso-product-designer-portfolio-template--w02271",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02272",
+   "path": "templates/websites/portfolio/uzbekcha-asmr-content-creator-template--w02272",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02276",
+   "path": "templates/websites/portfolio/vibra-son-arts-and-expression-landing-page-templ--w02276",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02284",
+   "path": "templates/websites/portfolio/visual-artist-portfolio-landing-page-template--w02284",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02286",
+   "path": "templates/websites/portfolio/visual-artist-portfolio-website-template--w02286",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02296",
+   "path": "templates/websites/portfolio/web-developer-portfolio-template--w02296",
+   "status": "rebuilt",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02306",
+   "path": "templates/websites/portfolio/zoon-society-creative-collective-landing-page-te--w02306",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03567",
+   "path": "templates/websites/events/algeriarise-community-landing-page-template--w03567",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W03568",
+   "path": "templates/websites/events/apiary-community-landing-page-template--w03568",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03587",
+   "path": "templates/websites/events/devboard-community-forum-template--w03587",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W03591",
+   "path": "templates/websites/events/elegant-wedding-invitation-landing-page-template--w03591",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03613",
+   "path": "templates/websites/events/interactive-event-cards-layout--w03613",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03614",
+   "path": "templates/websites/events/international-congress-event-landing-page-templa--w03614",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03620",
+   "path": "templates/websites/events/luxury-wedding-invitation-landing-page-template--w03620",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03629",
+   "path": "templates/websites/events/non-profit-donation-landing-page-template--w03629",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03636",
+   "path": "templates/websites/events/padel-community-landing-page-template--w03636",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03645",
+   "path": "templates/websites/events/romantic-event-landing-page-template--w03645",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03650",
+   "path": "templates/websites/events/spiritual-movement-landing-page-template--w03650",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03651",
+   "path": "templates/websites/events/strategic-conference-landing-page-template--w03651",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03660",
+   "path": "templates/websites/events/yesboba-all-natural-bubble-tea-landing-page-temp--w03660",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02307",
+   "path": "templates/websites/healthcare/a-go-preview--w02307",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02337",
+   "path": "templates/websites/healthcare/cognit-psychology-ai-saas-landing-page-template--w02337",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02338",
+   "path": "templates/websites/healthcare/compounding-pharmacy-landing-page-template--w02338",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02348",
+   "path": "templates/websites/healthcare/dental-clinic-landing-page-template--w02348",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02377",
+   "path": "templates/websites/healthcare/family-therapy-landing-page-template--w02377",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02382",
+   "path": "templates/websites/healthcare/grabgo-delivery-landing-page-template--w02382",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02387",
+   "path": "templates/websites/healthcare/healing-quiz-landing-page-template--w02387",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02391",
+   "path": "templates/websites/healthcare/health-and-science-saas-landing-page-template--w02391",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02397",
+   "path": "templates/websites/healthcare/health-services-landing-page-template--w02397",
+   "status": "rebuilt",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02400",
+   "path": "templates/websites/healthcare/healthcare-clinic-landing-page-template--w02400",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "added-title"
+   ]
+  },
+  {
+   "id": "SN-W02428",
+   "path": "templates/websites/healthcare/kynare-ecosystem--w02428",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02440",
+   "path": "templates/websites/healthcare/luxury-dental-clinic-landing-page-template--w02440",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02441",
+   "path": "templates/websites/healthcare/luxury-dental-clinic-landing-page-template--w02441",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02453",
+   "path": "templates/websites/healthcare/medical-aesthetic-surgery-landing-page-template--w02453",
+   "status": "needs-review",
+   "issues": [
+    "broken-images"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02448",
+   "path": "templates/websites/healthcare/medical-and-aesthetic-clinic-landing-page-templa--w02448",
+   "status": "rebuilt",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02450",
+   "path": "templates/websites/healthcare/medical-and-plastic-surgery-clinic-landing-page--w02450",
+   "status": "needs-review",
+   "issues": [
+    "broken-images"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02452",
+   "path": "templates/websites/healthcare/medical-and-plastic-surgery-landing-page-templat--w02452",
+   "status": "needs-review",
+   "issues": [
+    "broken-images"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02471",
+   "path": "templates/websites/healthcare/medical4u-healthcare-template--w02471",
+   "status": "needs-review",
+   "issues": [
+    "broken-images"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02482",
+   "path": "templates/websites/healthcare/mimiya-circadian-color-system-template--w02482",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02488",
+   "path": "templates/websites/healthcare/neural-interface-landing-page-template--w02488",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02489",
+   "path": "templates/websites/healthcare/nura-health-bio-optimization-landing-page-templa--w02489",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02492",
+   "path": "templates/websites/healthcare/nutritionist-landing-page-template--w02492",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02507",
+   "path": "templates/websites/healthcare/proposta-instituto-mineiro-de-servicos-odontolog--w02507",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02515",
+   "path": "templates/websites/healthcare/reboot-accompagnement-enseignant--w02515",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02516",
+   "path": "templates/websites/healthcare/regenerative-medicine-program-landing-page-templ--w02516",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02548",
+   "path": "templates/websites/healthcare/virk-dental-modern-medical-practice-template--w02548",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02559",
+   "path": "templates/websites/healthcare/wellness-and-nutrition-landing-page-template--w02559",
+   "status": "rebuilt",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02557",
+   "path": "templates/websites/healthcare/wellness-and-spa-landing-page-template--w02557",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02575",
+   "path": "templates/websites/sports-fitness/apex-fit-gym-landing-page-template--w02575",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02579",
+   "path": "templates/websites/sports-fitness/atlas-fitness-app-template--w02579",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02584",
+   "path": "templates/websites/sports-fitness/cyberpunk-fitness-landing-page-template--w02584",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02587",
+   "path": "templates/websites/sports-fitness/elite-basketball-sports-landing-page-template--w02587",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02593",
+   "path": "templates/websites/sports-fitness/fitness-coach-landing-page-template--w02593",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02599",
+   "path": "templates/websites/sports-fitness/fitness-coaching-saas-landing-page-template--w02599",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02603",
+   "path": "templates/websites/sports-fitness/fitness-gym-landing-page-template--w02603",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02606",
+   "path": "templates/websites/sports-fitness/fitness-personal-trainer-landing-page-template--w02606",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02611",
+   "path": "templates/websites/sports-fitness/fitness-training-landing-page-template--w02611",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02612",
+   "path": "templates/websites/sports-fitness/fitness-transformation-coaching-landing-page-tem--w02612",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02613",
+   "path": "templates/websites/sports-fitness/flexova-high-performance-fitness-landing-page-te--w02613",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02616",
+   "path": "templates/websites/sports-fitness/force-flow-fitness-landing-page-template--w02616",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02620",
+   "path": "templates/websites/sports-fitness/forgee-elite-gym-and-performance-template--w02620",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02621",
+   "path": "templates/websites/sports-fitness/forgee-fitness-and-performance-landing-page-temp--w02621",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02622",
+   "path": "templates/websites/sports-fitness/forgee-fitness-and-performance-landing-page-temp--w02622",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02618",
+   "path": "templates/websites/sports-fitness/forgee-gym-and-fitness-center-landing-page-templ--w02618",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02619",
+   "path": "templates/websites/sports-fitness/forgee-high-performance-fitness-landing-page-tem--w02619",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02627",
+   "path": "templates/websites/sports-fitness/golf-tournament-landing-page-template--w02627",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02629",
+   "path": "templates/websites/sports-fitness/gym-and-fitness-landing-page-template--w02629",
+   "status": "needs-review",
+   "issues": [
+    "broken-images"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02630",
+   "path": "templates/websites/sports-fitness/gym-and-fitness-landing-page-template--w02630",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02639",
+   "path": "templates/websites/sports-fitness/hardcore-gym-landing-page-template--w02639",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02642",
+   "path": "templates/websites/sports-fitness/inclusive-sports-events-landing-page-template--w02642",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02649",
+   "path": "templates/websites/sports-fitness/lute-academy-fitness-and-gym-landing-page-templa--w02649",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02656",
+   "path": "templates/websites/sports-fitness/motorsport-racing-landing-page-template--w02656",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02667",
+   "path": "templates/websites/sports-fitness/physio-and-pilates-app-landing-page-template--w02667",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02669",
+   "path": "templates/websites/sports-fitness/prime-gym-fitness-and-performance-template--w02669",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "removed-missing-favicon-link",
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02671",
+   "path": "templates/websites/sports-fitness/pulsefit-fitness-coaching-landing-page-template--w02671",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W02691",
+   "path": "templates/websites/sports-fitness/vita-flow-premium-pilates-studio-template--w02691",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W02696",
+   "path": "templates/websites/sports-fitness/yoga-retreat-landing-page-template--w02696",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01071",
+   "path": "templates/websites/ecommerce/3d-footwear-e-commerce-landing-page-template--w01071",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01079",
+   "path": "templates/websites/ecommerce/ali-mobile-zone--w01079",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01083",
+   "path": "templates/websites/ecommerce/apple-reseller-ecommerce-template--w01083",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W01094",
+   "path": "templates/websites/ecommerce/artisanal-pastry-shop-landing-page-template--w01094",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01097",
+   "path": "templates/websites/ecommerce/audio-e-commerce-landing-page-template--w01097",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01110",
+   "path": "templates/websites/ecommerce/barber-shop-landing-page-template--w01110",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01117",
+   "path": "templates/websites/ecommerce/campushub-marketplace-landing-page-template--w01117",
+   "status": "needs-review",
+   "issues": [
+    "blank-render"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01119",
+   "path": "templates/websites/ecommerce/candle-e-commerce-landing-page-template--w01119",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01131",
+   "path": "templates/websites/ecommerce/coffee-shop-landing-page-template--w01131",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01135",
+   "path": "templates/websites/ecommerce/d2c-cpg-landing-page-template--w01135",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W01144",
+   "path": "templates/websites/ecommerce/e-commerce-product-detail-page-template--w01144",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01070",
+   "path": "templates/websites/ecommerce/e-commerce-sun-studio-tan-online-shop--w01070",
+   "status": "rebuilt",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W01150",
+   "path": "templates/websites/ecommerce/etevila-premium-e-commerce-template--w01150",
+   "status": "rebuilt",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W01154",
+   "path": "templates/websites/ecommerce/exery-leather-e-commerce-landing-page-template--w01154",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01160",
+   "path": "templates/websites/ecommerce/fitness-supplement-e-commerce-landing-page-templ--w01160",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01162",
+   "path": "templates/websites/ecommerce/flavoring--w01162",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01170",
+   "path": "templates/websites/ecommerce/futuristic-coffee-shop-landing-page-template--w01170",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01171",
+   "path": "templates/websites/ecommerce/gamers-bangladesh-e-commerce-template--w01171",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01179",
+   "path": "templates/websites/ecommerce/handmade-jewelry-e-commerce-template--w01179",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01196",
+   "path": "templates/websites/ecommerce/k-beauty-e-commerce-template--w01196",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01197",
+   "path": "templates/websites/ecommerce/kairo-heat-with-intent--w01197",
+   "status": "react-project",
+   "issues": [
+    "banner-missing-or-tiny"
+   ],
+   "fixes": []
+  },
+  {
+   "id": "SN-W01206",
+   "path": "templates/websites/ecommerce/luno-k-beauty-e-commerce-template--w01206",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01216",
+   "path": "templates/websites/ecommerce/luxury-fashion-e-commerce-landing-page-template--w01216",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01218",
+   "path": "templates/websites/ecommerce/luxury-fashion-e-commerce-landing-page-template--w01218",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01223",
+   "path": "templates/websites/ecommerce/luxury-fashion-e-commerce-website-template--w01223",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01224",
+   "path": "templates/websites/ecommerce/luxury-footwear-e-commerce-landing-page-template--w01224",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01228",
+   "path": "templates/websites/ecommerce/luxury-jewelry-e-commerce-landing-page-template--w01228",
+   "status": "needs-review",
+   "issues": [
+    "broken-images"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01231",
+   "path": "templates/websites/ecommerce/luxury-living-e-commerce-template--w01231",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01237",
+   "path": "templates/websites/ecommerce/luxury-qipao-e-commerce-landing-page-template--w01237",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01239",
+   "path": "templates/websites/ecommerce/luxury-skincare-e-commerce-landing-page-template--w01239",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01246",
+   "path": "templates/websites/ecommerce/luxury-watch-e-commerce-landing-page-template--w01246",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W01257",
+   "path": "templates/websites/ecommerce/mini-lady-kidswear-landing-page-for-gcc-boutique--w01257",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01258",
+   "path": "templates/websites/ecommerce/minimal-e-commerce-landing-page-template--w01258",
+   "status": "needs-review",
+   "issues": [
+    "broken-images"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01272",
+   "path": "templates/websites/ecommerce/natural-products-export-landing-page-template--w01272",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01274",
+   "path": "templates/websites/ecommerce/natural-skincare-e-commerce-landing-page-templat--w01274",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01276",
+   "path": "templates/websites/ecommerce/noir-luxury-fashion-e-commerce-template--w01276",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01277",
+   "path": "templates/websites/ecommerce/noth-streetwear-e-commerce-landing-page-template--w01277",
+   "status": "needs-review",
+   "issues": [
+    "heavy-inline-base64"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01278",
+   "path": "templates/websites/ecommerce/noth-urban-athletics-and-streetwear-e-commerce-t--w01278",
+   "status": "needs-review",
+   "issues": [
+    "heavy-inline-base64"
+   ],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01290",
+   "path": "templates/websites/ecommerce/party-favors-e-commerce-product-detail-template--w01290",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01304",
+   "path": "templates/websites/ecommerce/premium-leather-e-commerce-landing-page--w01304",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01310",
+   "path": "templates/websites/ecommerce/real-estate-marketplace-landing-page-template--w01310",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W01319",
+   "path": "templates/websites/ecommerce/skincare-e-commerce-landing-page-template--w01319",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01321",
+   "path": "templates/websites/ecommerce/skinpock-digital-collectibles-landing-page-templ--w01321",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01322",
+   "path": "templates/websites/ecommerce/solvea-wellness-e-commerce-template--w01322",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01323",
+   "path": "templates/websites/ecommerce/specialty-coffee-shop-landing-page-template--w01323",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01326",
+   "path": "templates/websites/ecommerce/streetwear-e-commerce-landing-page-template--w01326",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01328",
+   "path": "templates/websites/ecommerce/sustainable-fashion-e-commerce-landing-page-temp--w01328",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W01332",
+   "path": "templates/websites/ecommerce/tide-retail-commerce-system-template--w01332",
+   "status": "react-project",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W01342",
+   "path": "templates/websites/ecommerce/vow-atelier-diamond-ring-experience--w01342",
+   "status": "needs-review",
+   "issues": [
+    "heavy-inline-base64"
+   ],
+   "fixes": []
+  },
+  {
+   "id": "SN-W01344",
+   "path": "templates/websites/ecommerce/wellness-marketplace-and-e-commerce-template--w01344",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03758",
+   "path": "templates/websites/news-blog/digital-journal-layout-with-sidebar--w03758",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03764",
+   "path": "templates/websites/news-blog/documentation-sidebar-layout--w03764",
+   "status": "fixed",
+   "issues": [],
+   "fixes": [
+    "repaired-broken-markup-or-script"
+   ]
+  },
+  {
+   "id": "SN-W03765",
+   "path": "templates/websites/news-blog/editorial-archive-landing-page-template--w03765",
+   "status": "rebuilt",
+   "issues": [],
+   "fixes": []
+  },
+  {
+   "id": "SN-W03783",
+   "path": "templates/websites/news-blog/wedding-team-journal-landing-page-template--w03783",
+   "status": "needs-review",
+   "issues": [
+    "broken-images"
+   ],
+   "fixes": []
+  }
+ ]
+}

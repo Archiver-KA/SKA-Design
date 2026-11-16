@@ -1,0 +1,68 @@
+{
+  "id": "SN-W02355",
+  "title": "Dental Clinic Landing Page Template",
+  "summary": "A modern dental clinic landing page template for showcasing services, specialists, testimonials, and appointment CTAs for local healthcare practices.",
+  "tags": [
+    "Health",
+    "Services",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Clinic",
+    "Medical",
+    "Healthcare"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3591,
+      "sha256": "f573354ab14e9803e73eb73fae4d1613400042fab503be9d9d139b5fbf9970c9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14270,
+      "sha256": "3b109c9801650d00f2a8066362045d4f1981ef0191334e2a1d9610a9ae50c61d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "fc378711d327b2fe649ef6791ae7e62fae0b1f9e53a728d0a001b82b3c76d112"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25980,
+      "sha256": "975f38ed8ea7f900c704dad16cbc7d348468e372d233bd2d8a7af93c3fa541f1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "bento-grid",
+    "team",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

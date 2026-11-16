@@ -1,0 +1,70 @@
+{
+  "id": "SN-W04308",
+  "title": "TheCodeCompany",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3378,
+      "sha256": "c678b834d06a09c2637be029b4af4272618d30e6f0d0d40a526c7f9397423f97"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21242,
+      "sha256": "dd71f22832365fac37359d22786b87f3bb8a19c3ee895b52294a8c58becc9543"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1243,
+      "sha256": "df4d7734be61ada235a124f6e0db4a9cc20d09a54ed22a18bf1e7d9cd578f290"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 242,
+      "sha256": "9f137ffece0bcf8b2df7a15caf4601ae350d92aee3f6d15167bd05e5a20f8a4c"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 662,
+      "sha256": "01aca40d417d1d7556d5305be91652b4e4283abee6816a367173edb3c0b6c4ee"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 520,
+      "sha256": "cbc508c197661dce53af64e61e911cb0de4415ba20aa2feac1c3986f60824a88"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29439,
+      "sha256": "54f62e687932b4eacf65255f71422c284cf7b0e8ed96852cc64b517cda053443"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "gallery-portfolio",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

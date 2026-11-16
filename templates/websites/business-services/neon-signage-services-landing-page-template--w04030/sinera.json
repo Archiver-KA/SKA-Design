@@ -1,0 +1,67 @@
+{
+  "id": "SN-W04030",
+  "title": "Neon Signage Services Landing Page Template",
+  "summary": "A premium landing page template for bespoke neon and LED signage services, ideal for showcasing lighting expertise, installations, and client testimonials.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Art & Design",
+    "Portfolio",
+    "Clean",
+    "Dark",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3572,
+      "sha256": "871f12e7d3a9aa678d760d4b8d9ad46752959d2432185378fdb117d0460c8271"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14902,
+      "sha256": "1f8143c90ecb4197f4c3f6dbe4fac315338d96d1794dd8c2209caa2f50e5a2c3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "49620e344880882bdc5a6b36e39a01a2b81f5db20b3bc665fef0d9d809c001f1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 54656,
+      "sha256": "b33567b187f1a513ea434c2921949036d744efb21808a2b6c640926b4b5483b6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "features",
+    "case-studies",
+    "testimonials",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

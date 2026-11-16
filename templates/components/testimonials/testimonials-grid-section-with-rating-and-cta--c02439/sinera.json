@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02439",
+  "title": "Testimonials Grid Section with Rating and CTA",
+  "summary": "Responsive Tailwind section displaying heading, average rating badge, three testimonial cards (light & dark), and a call-to-action button. Ideal for landing pages or product sites to showcase customer feedback.",
+  "tags": [
+    "testimonial",
+    "section",
+    "tailwind",
+    "responsive",
+    "rating",
+    "grid",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 24562,
+      "sha256": "59d0e0bb04ffbcb12f00f5413e93dd43196d93524e2a8cc02b1dcbd5224a1008"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8310,
+      "sha256": "526f2af9a63a8f50042b1c33373883aa3aa585e60f1de8bd33ab14ae70c7dd47"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9306,
+      "sha256": "4ba2a756ab4225119817e1635a00a0bb24e0525c3ce8182b892e6e2e0d49c8ba"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00488",
+  "title": "Location & Live Time Info Bar",
+  "summary": "Responsive Tailwind flex bar displaying user location, worldwide availability, local GMT offset, and a live-updating clock with Lucide icons. Ideal for headers, profiles, or dashboards needing real-time timezone info.",
+  "tags": [
+    "info-bar",
+    "tailwind",
+    "clock",
+    "timezone",
+    "location",
+    "responsive",
+    "widget",
+    "lucide"
+  ],
+  "kind": "components",
+  "category": "contact",
+  "categoryLabel": "Contact & maps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5092,
+      "sha256": "f7643172f7ba53f2684df99ec08a269defe09317a42570284f033a7417b6f537"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4514,
+      "sha256": "df3313f2cd79dfd5289d0918ffbdbafe26247cecac44982bf75eeccc578cd0c7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5498,
+      "sha256": "66bacff26874670cfe244a6e0bea71e75c8bcac75d58aa9b0ed71091c9bb9527"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

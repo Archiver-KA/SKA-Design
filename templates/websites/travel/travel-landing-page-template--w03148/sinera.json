@@ -1,0 +1,72 @@
+{
+  "id": "SN-W03148",
+  "title": "Travel Landing Page Template",
+  "summary": "A reusable travel landing page template for beach resorts, island getaways, and luxury vacation brands to showcase destinations, activities, and booking inquiries.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Luxury travel",
+    "Beach resort",
+    "Booking",
+    "Gallery"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3801,
+      "sha256": "2c4d75224fddc48b103a1e71dd6623ba5c09de4515e3195412988ba4d83558ab"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19872,
+      "sha256": "444a54aec73593785106c0909741ed70413a37810e269216f88622c6cdf2b786"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 860,
+      "sha256": "c15ed199c60b1798a9e3796322c1411ffe4e4e277ae7a4274af692a8800dde6d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 128,
+      "sha256": "96091ad199ee136e36f01ee9913a8372036ee0e1197c1cbf0d415b79ae6e11b7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 46596,
+      "sha256": "4387ba953501041558cb09ff1c180af8cc6e6065cb47ede16c2550b59ff795ac"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "features",
+    "comparison",
+    "pricing",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

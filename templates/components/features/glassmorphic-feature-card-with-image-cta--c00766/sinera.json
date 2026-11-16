@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00766",
+  "title": "Glassmorphic Feature Card with Image & CTA",
+  "summary": "Tailwind CSS card showcasing a feature with header image, gradient overlay, frosted glass effect, hover zoom, icon button and primary CTA. Ideal for landing pages or dashboards to promote collaboration tools or product highlights.",
+  "tags": [
+    "card",
+    "feature",
+    "tailwind",
+    "glassmorphic",
+    "gradient",
+    "image",
+    "hover",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18580,
+      "sha256": "c9d4c390af301fb5a35aca2c54a1cf004ceb004be83879f41f1883cd940a66c7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2591,
+      "sha256": "7ee8e8708ca858dc8d826e4be290a994eb1167a40e0494144f67a5c71219fccf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3458,
+      "sha256": "8426a6ea3a1c33fe687cffcc560ea0c3bf26725e1336cfd20e43948a460c493c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": "SN-W01966",
+  "title": "Developer Portfolio Layout",
+  "summary": "Responsive portfolio UI with 3D background, profile sidebar, navigation menu, and contact details using Tailwind CSS.",
+  "tags": [
+    "Portfolio",
+    "Sidebar",
+    "Navigation",
+    "Tailwind CSS",
+    "Responsive",
+    "3D Background"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3238,
+      "sha256": "66cc8f0a8a2e1825938ea946e9b127e8faf3f6ec56af1b914a57b288a6bdad66"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15778,
+      "sha256": "5ade7615ba2f90359e4b6557538ba364d26016190adab9460b75460efcedfdbe"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2814,
+      "sha256": "cca037bd9691c10cc80acaf8e590c077c09bbb0423d0028fc270958db89a83a6"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 820,
+      "sha256": "eb46a4431810c5302b081f5afc8098146fd9fd54c524eb6966c16583bfa8e816"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 430,
+      "sha256": "5ec795e398b62067f82358e78e8c0256c5653dc7bf806e1f5c9d0a84013309f2"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 611,
+      "sha256": "ab8af6c7e53f874593608737772e438d82cec5fe1738bc5bce8e882a4955d5c1"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 327,
+      "sha256": "c96386d48ca1fcef507cd1d248fde38ddd3c82bb86b957c1eb7a0e1510c30f4c"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 226,
+      "sha256": "013233148313666339a62228457f22716727ddcf4e65c410d9488b0f611da9a2"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 372,
+      "sha256": "498754926735a5c7da236718ae80b5c880ea7bf662d6273eafaae8be2080e31b"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 614,
+      "sha256": "341b076beffdc90e7ee3161d60cbd079ba0696f7da7201f254b5e20b0bea88cd"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 300,
+      "sha256": "6e6238f323c0a7b213d0a32491f600a268fa134c75d7aaf84443f5acc48eef2e"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 296,
+      "sha256": "4548132c9c91e6ab9c326a8cb482a345092ea00ed73700ad5e4484c7ab6d862e"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 409,
+      "sha256": "a78a7e64b3f2d6490ccb5ef8496137038a51ffd8085615de1753c62dd2571daa"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 407,
+      "sha256": "2e993bfc9b93b13a181ab3794b6f795ae9921284c7744d9c76442e45a88bcfa5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11730,
+      "sha256": "9e0af71c2b5ca3d6ed1ad609655c5573543b353b8ee9bba6ad5710b29718b3ff"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "snippet",
+  "components": [
+    "3d-canvas",
+    "modal-overlay",
+    "hero",
+    "navbar",
+    "dashboard-preview"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

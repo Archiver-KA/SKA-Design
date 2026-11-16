@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00304",
+  "title": "AI Chat Assistant Card with Floating Popover",
+  "summary": "Dark Tailwind card simulating an AI chat assistant, featuring online status, user and bot message bubbles, input field with send button, and dismissible top-right info popover. Ideal for dashboards, support widgets, or landing pages.",
+  "tags": [
+    "card",
+    "chat",
+    "popover",
+    "tailwind",
+    "dark",
+    "interactive",
+    "messaging",
+    "assistant"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15394,
+      "sha256": "925d78608dbfae8d14c1c3d66f758f68af7928afbe98a19344edc3ba9a455c94"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5618,
+      "sha256": "75d2343bad0b31168d688897c2ba1214693b187f449cb379414f9d95e0ef5b4c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6613,
+      "sha256": "a73b2fe59288a902f58ea586bae0d5624a285710df382dd8245a2a93087f2671"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "SN-W03353",
+  "title": "Real Estate Landing Page Template",
+  "summary": "A premium real estate landing page template for showcasing gated estates, investment opportunities, and lead capture for property developers.",
+  "tags": [
+    "Real Estate",
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Luxury",
+    "Investment",
+    "Lead Generation"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3627,
+      "sha256": "43dabfbc9ec80b86c307768dc18b5698d62456aeb451aba14dd315295859d686"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15516,
+      "sha256": "1ec33f4222a38553d7f2cdb88b83b085cf6a51c99e39eaedfe8e21a11dc4a860"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "01e3c641939981750abf6de2783c8324e0f355734511dfaa483a480138dfddbc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 55378,
+      "sha256": "8e9c91908ab96c7506d33d8c1a44ea0b5d77ad7ebd963f6628788cf4ff65b058"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "bento-grid",
+    "how-it-works",
+    "stats",
+    "team",
+    "faq",
+    "auth-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00969",
+  "title": "Responsive Tailwind Footer with Contact & CTA",
+  "summary": "Reusable website footer built with Tailwind CSS featuring company logo, description, social icons, service and company link columns, detailed contact info, call-to-action button and bottom legal links. Responsive grid adapts to mobile and desktop screens.",
+  "tags": [
+    "footer",
+    "tailwind",
+    "responsive",
+    "navigation",
+    "contact",
+    "cta",
+    "social-links"
+  ],
+  "kind": "components",
+  "category": "footers",
+  "categoryLabel": "Footers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13230,
+      "sha256": "4a534b5333a1595174df28addd174febbddcea6508c9b27eadebcc9f5a687f2b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8893,
+      "sha256": "16277a4ef8a26c1b8f32b2d4981258443d3226b0ae0ef88d3a886087243c65a4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9763,
+      "sha256": "99cea945f4c206f5022f80dec8986c179d401a879b4ac6f2077453835e75ad9f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

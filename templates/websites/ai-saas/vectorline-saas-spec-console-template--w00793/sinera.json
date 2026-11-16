@@ -1,0 +1,76 @@
+{
+  "id": "SN-W00793",
+  "title": "Vectorline SaaS Spec Console Template",
+  "summary": "A high-performance technical landing page template designed for complex SaaS products, mapping systems, and data-driven infrastructure.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Dark",
+    "Futuristic",
+    "3D",
+    "Clean",
+    "Professional",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3536,
+      "sha256": "c178c22d1d96986135343c5704665e0c8cb6f601fb419f028372338eb6df569c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18387,
+      "sha256": "e5f1331929a13a2c7d6051e82175f58c5837f738a1fabb3ff3f2a1fabe301147"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1067,
+      "sha256": "2daa8e5791e008e06236f94db42a2c7f34ea2def7045b526e8f7e9f05e502fd6"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "2b07fd6bdb9fac52f5f7f1f19b01f6f4bfcd81cd9ca7dd79c7b5e95042ef659a"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 893,
+      "sha256": "5c63bb776c9168b11d9abf944a3a6c7ddfa7a1720ab9691ddd9b0ba47b245437"
+    },
+    {
+      "path": "index.html",
+      "bytes": 69560,
+      "sha256": "35b093c5e672fa2e3cc36d196fb6febd35e92b63bf4060bd126b588f8e1e028a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "features",
+    "gallery-portfolio",
+    "product-grid",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

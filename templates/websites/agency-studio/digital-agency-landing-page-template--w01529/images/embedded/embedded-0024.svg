@@ -1,0 +1,32 @@
+<svg class="absolute inset-[1.75rem] w-[calc(100%-3.5rem)] h-[calc(100%-3.5rem)] -rotate-90" viewBox="0 0 240 240" aria-hidden="true">
+                <!-- Fine guide ring -->
+                <circle cx="120" cy="120" r="92" fill="none" stroke="#E2E8F0" stroke-width="1.25" opacity="0.75"></circle>
+
+                <!-- Tick ring -->
+                <circle cx="120" cy="120" r="76" fill="none" stroke="#CBD5E1" stroke-width="7" stroke-linecap="round" stroke-dasharray="1 13.2" opacity="0.35"></circle>
+
+                <!-- Progress background -->
+                <circle cx="120" cy="120" r="92" fill="none" stroke="#E9EEF5" stroke-width="10" stroke-linecap="round" class=""></circle>
+
+                <!-- Animated progress -->
+                <circle id="progress-ring" cx="120" cy="120" r="92" fill="none" stroke="url(#luminaProgressGradient)" stroke-width="10" stroke-linecap="round" stroke-dasharray="578" stroke-dashoffset="578" filter="url(#luminaGlow)" style="stroke-dasharray: 578.053;"></circle>
+
+                <!-- Floating endpoint -->
+                <circle id="progress-dot" cx="120" cy="28" r="7.5" fill="#5B58F6" opacity="0" filter="url(#luminaGlow)"></circle>
+
+                <defs>
+                  <linearGradient id="luminaProgressGradient" x1="20" y1="120" x2="220" y2="120" gradientUnits="userSpaceOnUse">
+                    <stop offset="0%" stop-color="#C7D2FE"></stop>
+                    <stop offset="55%" stop-color="#818CF8"></stop>
+                    <stop offset="100%" stop-color="#5B58F6"></stop>
+                  </linearGradient>
+
+                  <filter id="luminaGlow" x="-50%" y="-50%" width="200%" height="200%">
+                    <feGaussianBlur stdDeviation="4" result="blur"></feGaussianBlur>
+                    <feMerge>
+                      <feMergeNode in="blur"></feMergeNode>
+                      <feMergeNode in="SourceGraphic"></feMergeNode>
+                    </feMerge>
+                  </filter>
+                </defs>
+              </svg>

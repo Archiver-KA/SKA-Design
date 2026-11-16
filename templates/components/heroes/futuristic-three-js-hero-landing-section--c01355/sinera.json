@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01355",
+  "title": "Futuristic Three.js Hero Landing Section",
+  "summary": "A full-screen sci-fi landing section built with Tailwind CSS, Three.js, GSAP, and Iconify. Features animated 3D shader background, reveal text, system-style UI details, interactive content card, and network visualization for tech, AI, or product showcases.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "threejs",
+    "gsap",
+    "animated",
+    "interactive",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16774,
+      "sha256": "cb18dd1c2dccb2ce99968fa4fae51c77532848fceac6209f57c931558d5cfb4f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31091,
+      "sha256": "fc2d57182238b59eda2848c6b66a24c6c236ae263189819eacb1fe47977f2da2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

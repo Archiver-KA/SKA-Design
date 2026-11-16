@@ -1,0 +1,74 @@
+{
+  "id": "SN-W03629",
+  "title": "Non-profit Donation Landing Page Template",
+  "summary": "A reusable nonprofit landing page template for sports-led fundraising campaigns, helping charities showcase impact, featured causes, and drive donations.",
+  "tags": [
+    "Landing Page",
+    "Non-profit",
+    "Social",
+    "Services",
+    "Dark",
+    "Clean",
+    "Gradient",
+    "Brand",
+    "fundraising",
+    "charity"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3863,
+      "sha256": "a67896dd06a1edc944f0c972879e432f8638192cd37c56145f2e6f466763319b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 27776,
+      "sha256": "debaccaaefa1aefea742ff90d6e32536bd59a75030ca6f05d81cba90ca75eed5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1226,
+      "sha256": "8c0b34a15668df6a9b281981d77ed61a1a74d1946493ddebd31da02e66e7f995"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 306,
+      "sha256": "d30c0c296d693fb74cd9d258986af029bdf047553a9292d6f9e6e21871386921"
+    },
+    {
+      "path": "index.html",
+      "bytes": 57104,
+      "sha256": "c63b819da5444dd2c0f2fd0d3d351a23d271502b6d974b8dee3b2071bb225c4d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "product-grid",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

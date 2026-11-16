@@ -1,0 +1,72 @@
+{
+  "id": "SN-W01606",
+  "title": "Interactive Design Studio Landing Page Template",
+  "summary": "A sleek, dark interactive studio landing page template for agencies showcasing immersive services, process, metrics, and testimonials to win premium clients.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Futuristic",
+    "Minimal",
+    "Large Type",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3735,
+      "sha256": "cdd5369a4948ab1f3e75fd88b07b766c771e72d32af46eaaf82e1b4a1b1d5eb2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 35736,
+      "sha256": "72389fb7857b71f3e5122d275a73395ee0ecef7234296fc6cec5789e61ef915c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 881,
+      "sha256": "a58cad3d1815cdfb22030c4fbf309ad615178bc1a75e470566b45cf6db51b322"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30508,
+      "sha256": "2a2f043fc4456fd3a1a21fee443b1a72a6d2265526c26065994a2d9d78ef654f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "stats",
+    "product-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

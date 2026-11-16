@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00562",
+  "title": "Full-Screen Spline Background Animation",
+  "summary": "Embeds a responsive Spline iframe with space-particle animation, absolutely positioned to cover the entire viewport for decorative, dynamic backgrounds on landing pages or hero sections. Utilizes Tailwind utility classes.",
+  "tags": [
+    "background",
+    "animation",
+    "spline",
+    "iframe",
+    "tailwind",
+    "responsive",
+    "decorative"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4682,
+      "sha256": "05ab42a9838281d7449d3449bb1057aefff6b378e47a7b07fe3c3c5b41d16d8b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 231,
+      "sha256": "e1b384e06243d52721dfa94a7b3771ef6ae0d11784f1b31d0ade1d03cbb70e61"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1134,
+      "sha256": "f7f7bd4d34d72384fedcbfab523147f9e3b9da386a67c0d365a5169fe3f09a2c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

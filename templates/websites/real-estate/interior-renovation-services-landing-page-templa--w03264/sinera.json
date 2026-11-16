@@ -1,0 +1,79 @@
+{
+  "id": "SN-W03264",
+  "title": "Interior Renovation Services Landing Page Template",
+  "summary": "A reusable landing page template for interior finishing and renovation businesses to showcase services, projects, trust signals, FAQs, and lead capture.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "local business",
+    "renovation",
+    "interior finishing"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4160,
+      "sha256": "9c7ee3575ec1c31860ab761c7dc1f0f3f50eeef6dfda91a9616c61aa058e2d3c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15836,
+      "sha256": "5a6daf489678c86fd7903d9c784d5a14f877a4821f3f2c52a4e7b0a02a5808a0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 881,
+      "sha256": "39f86b904d186cfb98f26e672adc6e5067c3f9f88491cf2d51485ed85c4b071d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 249,
+      "sha256": "bc940590fce6596c376aeae7d0d05b2cdc93bbfc7739c3e4f4d87187a9b01f7e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 76770,
+      "sha256": "6df4cb02555f673cec5ba8313f1891a722ac57edb79b87d69b5256678058ead7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "stats",
+    "about",
+    "services",
+    "how-it-works",
+    "gallery-portfolio",
+    "features",
+    "testimonials",
+    "map-location",
+    "faq",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

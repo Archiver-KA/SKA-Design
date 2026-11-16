@@ -1,0 +1,63 @@
+{
+  "id": "SN-W02852",
+  "title": "Burger Nation Food & Restaurant Template",
+  "summary": "A high-performance restaurant landing page template featuring multi-location management, dynamic menu sections, and WhatsApp ordering integration for local businesses.",
+  "tags": [
+    "Food",
+    "Landing Page",
+    "Services",
+    "Clean",
+    "Dark",
+    "Animated",
+    "Responsive"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3543,
+      "sha256": "cbd0f481fd5d905dc4c27bcf0a2a78c8b964c038e4215d758a75686c5a040095"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22198,
+      "sha256": "16be81b403fa2f9738bc10ea9e03a72f8b1c3a6e8ff3a34c16fa75c7bccd165d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 737,
+      "sha256": "636a68d2cd7b7cbc7f4478f78600a84931c84ecff9eb3d2cb10626d260231d3f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 58685,
+      "sha256": "dc06bcb057167e716e9a219df5ff7959291efea7f96217a29adf30879b8e9d28"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "cta",
+    "navbar",
+    "hero",
+    "menu-list",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

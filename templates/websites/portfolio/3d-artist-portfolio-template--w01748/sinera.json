@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01748",
+  "title": "3D Artist Portfolio Template",
+  "summary": "A reusable portfolio template for artists to showcase collections, share bio and press coverage, and sell artwork through an immersive 3D browsing experience.",
+  "tags": [
+    "Portfolio",
+    "Artist",
+    "Art & Design",
+    "E-commerce",
+    "3D",
+    "Dark",
+    "Futuristic",
+    "Animated",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3264,
+      "sha256": "77af93ce5714e67b1c065e69a51a9f265f6931a557edd0faf8410f017f064b3b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1308,
+      "sha256": "e7aae8baffffb626c0222ce362d5632e10e2a84273661564e73fb1e0415c0730"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 716,
+      "sha256": "4e4d7784679548f47e02cf7eaa6a6fa5756f3b7072872016cb9d0b1ff9554535"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29462,
+      "sha256": "c6ec9cafc9af27f800c29aeaf90011b0d06edac5aaaaa9dc74e8a62c81042902"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "snippet",
+  "components": [
+    "timeline"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "banner-missing-or-tiny"
+    ],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

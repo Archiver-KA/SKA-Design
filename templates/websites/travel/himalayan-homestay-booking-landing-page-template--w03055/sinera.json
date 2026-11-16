@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03055",
+  "title": "Himalayan Homestay Booking Landing Page Template",
+  "summary": "A modern template for Himalayan homestay owners to showcase rooms, food, location, and reviews with built-in booking and availability UI components.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Hospitality",
+    "Homestay",
+    "Booking"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3899,
+      "sha256": "ecb62c39cf0515c568fafceed810d1391fca42d26e5260c1693b7ed80509dd82"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16144,
+      "sha256": "fe68ded02f360136f674e4902142e7081e2c34097ebc0ea87575310e4167045a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 740,
+      "sha256": "6a6504f21e3732e1cd1a09102126edce3779c4be77b8a42c3dcc52647edf8591"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41737,
+      "sha256": "9f9e8ddf74b6f7a76140d7fb55b3fc18981ee5b8fa46b158a15447b4ae223818"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "booking",
+    "listings",
+    "timeline",
+    "map-location",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

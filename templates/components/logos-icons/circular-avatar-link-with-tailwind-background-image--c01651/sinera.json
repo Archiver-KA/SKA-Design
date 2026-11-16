@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01651",
+  "title": "Circular Avatar Link with Tailwind Background Image",
+  "summary": "Anchor element styled with Tailwind to display a 40×40 px rounded background image using bg-cover and mix-blend-multiply, ideal for clickable profile avatars, icon buttons, or thumbnail links in navigation bars or user cards.",
+  "tags": [
+    "avatar",
+    "link",
+    "tailwind",
+    "image",
+    "rounded",
+    "profile",
+    "logo"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1408,
+      "sha256": "1d6fa1025d96791c787aebc943a0ad4b202cbbb7652b890c22fd64f7d3abda63"
+    },
+    {
+      "path": "component.html",
+      "bytes": 584,
+      "sha256": "0bbef2a4219e6419b8a75cd7e4488674abeace4530aa06cecc8d72b302cd258b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1456,
+      "sha256": "67b3b3fcbcf565dfc29e083252e85ea0742c3c15b94fdbc8c3b9411760b92aba"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

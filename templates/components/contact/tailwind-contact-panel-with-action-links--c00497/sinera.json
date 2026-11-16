@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00497",
+  "title": "Tailwind Contact Panel with Action Links",
+  "summary": "Stylized contact section displaying email, call booking, and LinkedIn links with lucide icons, hover transitions, and responsive Tailwind utility classes—ideal for portfolios or landing pages.",
+  "tags": [
+    "contact",
+    "panel",
+    "tailwind",
+    "card",
+    "links",
+    "icons",
+    "responsive",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "contact",
+  "categoryLabel": "Contact & maps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7108,
+      "sha256": "cb37b96c7c6977542d6e7fb3baa5c1e33d976b4ace6ae0f58d924feaac8014ac"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4720,
+      "sha256": "86db5199396165d0c3a2cc65f6292c3fd6d2de0f73384b7c8332be6125eee61c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5711,
+      "sha256": "43f8c33648f3eb4d5f2ca7a2d027e2cba26012b9016492e2e1d0b4ced4b0e9ee"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

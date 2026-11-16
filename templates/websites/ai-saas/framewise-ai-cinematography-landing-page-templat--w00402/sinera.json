@@ -1,0 +1,77 @@
+{
+  "id": "SN-W00402",
+  "title": "Framewise AI Cinematography Landing Page Template",
+  "summary": "A high-end SaaS template for AI-driven filmmaking tools, featuring cinematic dark mode visuals and smooth GSAP animations for visual creators.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Dark",
+    "Animated",
+    "Minimal",
+    "Portfolio",
+    "Futuristic",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3667,
+      "sha256": "9e28f48eeee89badb21b98addbaeaa2bb1347d92302bab9cb6e618f262308c80"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1648,
+      "sha256": "853ff13a8cf17306f3bf13167a31f8ff0d4f16f5d395d2f5858479e21de64f22"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 967,
+      "sha256": "67c6d09d3b4c69badf9454192875337a31fc59e68c924bfc00d6beec2a7b09ed"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 246,
+      "sha256": "dcc3d2e7cbfae0a0b8ae12e0b2162c8479f42e1556e1c8031a10e0ef0240c18b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 78946,
+      "sha256": "5375a97d98ed1a1392f36404edaaac517cf2bc31ae0411af9942a77ac4303350"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "bento-grid",
+    "features",
+    "cta",
+    "faq",
+    "blog-articles",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

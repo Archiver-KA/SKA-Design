@@ -1,0 +1,11 @@
+<svg viewBox="0 0 1000 3000" preserveAspectRatio="none" class="w-full h-full text-rose-200/50">
+        <path d="M 100,0 C 400,400 900,300 800,800 C 700,1300 100,1500 200,2000 C 300,2500 900,2800 500,3000" fill="none" stroke="currentColor" stroke-width="1.5" stroke-dasharray="8 8" vector-effect="non-scaling-stroke"/>
+        <path d="M 100,0 C 400,400 900,300 800,800 C 700,1300 100,1500 200,2000 C 300,2500 900,2800 500,3000" fill="none" stroke="url(#noodle-beam)" stroke-width="4" stroke-linecap="round" vector-effect="non-scaling-stroke" style="stroke-dasharray: 200 3000; animation: beam-flow-noodle 10s linear infinite;" />
+        <defs>
+          <linearGradient id="noodle-beam" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="transparent"/>
+            <stop offset="50%" stop-color="#F164F7"/>
+            <stop offset="100%" stop-color="transparent"/>
+          </linearGradient>
+        </defs>
+      </svg>

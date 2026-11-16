@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03783",
+  "title": "Wedding Team Journal Landing Page Template",
+  "summary": "Elegant wedding services directory landing page template for showcasing curated specialists, editorial stories, and inquiries for premium celebrations.",
+  "tags": [
+    "Wedding",
+    "Landing Page",
+    "Brand",
+    "Minimal",
+    "Clean",
+    "Portfolio",
+    "Services",
+    "Style",
+    "Large Type",
+    "Editorial"
+  ],
+  "kind": "websites",
+  "category": "news-blog",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3503,
+      "sha256": "99f2141c704963e89ddfce4a6081954486e28a619774835d14c3c3b5a0ab86f2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14158,
+      "sha256": "5d3ac509dec83a1a8e846d1956bdfcd8831c12ff97947c3b483b41370e214397"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 818,
+      "sha256": "d9d9e86fec2a1bcaa188e2e33ae1f2f0c0407da4dca8584a1c42a6297dc1ad1f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29436,
+      "sha256": "b7d14ad4735d8d51c7936fe8004787a3f00d69648d8deec67dc4fcbfd63caccb"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "content",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Content / News",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "features",
+    "footer",
+    "cta"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "broken-images"
+    ],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

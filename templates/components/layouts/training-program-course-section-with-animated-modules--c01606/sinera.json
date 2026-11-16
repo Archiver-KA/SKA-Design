@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01606",
+  "title": "Training Program Course Section with Animated Modules",
+  "summary": "Responsive Tailwind section showcasing a free training program: pricing card, module list, animated on-scroll reveal via IntersectionObserver, and full-width CTA button. Ideal for landing pages promoting courses or membership perks.",
+  "tags": [
+    "course",
+    "section",
+    "module-list",
+    "tailwind",
+    "responsive",
+    "animated",
+    "cta",
+    "intersection-observer"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 35942,
+      "sha256": "5caa71e68a2ab347a3e59dca051ad212b61324d2b70f3c9f47a993ea771b5ac7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 17927,
+      "sha256": "ad6e4e6be6189570e7adc013151a396a87bf022214aaf1080ddfcb12b8ed1e0b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18801,
+      "sha256": "0281cb489c4c428772dd18b0d2caf34c92ea395c7beea348ac635cd8e0686331"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

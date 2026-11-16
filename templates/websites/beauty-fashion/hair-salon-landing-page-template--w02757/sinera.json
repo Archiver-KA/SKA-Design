@@ -1,0 +1,77 @@
+{
+  "id": "SN-W02757",
+  "title": "Hair Salon Landing Page Template",
+  "summary": "A polished hair salon template for showcasing services, testimonials, location details, and online appointment booking for local beauty businesses.",
+  "tags": [
+    "Services",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Fashion",
+    "Beauty salon",
+    "Hair salon",
+    "Booking"
+  ],
+  "kind": "websites",
+  "category": "beauty-fashion",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3646,
+      "sha256": "e4e624f3e80e58db831c581e175bb89707e0ebc3080f225d5dca5da2faff267d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15352,
+      "sha256": "612eaf78ca29aaedf147daa53d6229be24e61e69f6331909ece2dd6ee25688ae"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1204,
+      "sha256": "092404e141b88e12026ebbd632dd77e97367979ec592bd447c40b104632374eb"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 640,
+      "sha256": "e0317c3628ddf84009e457c443a78cd12b59ef2c21c4a9e13255da1b74b903cd"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 600,
+      "sha256": "cf63c464c1bd27bd7fd5fc1beb935a5c56a5ab774548a8430dc7d50c6a20cb3c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 63125,
+      "sha256": "cedaffa9a84af46ea49a86b4bf64c027171fd5fa7c9954fce923a295c662dbee"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "beauty",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Beauty / Fashion",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "about",
+    "services",
+    "product-grid",
+    "logo-cloud",
+    "map-location",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

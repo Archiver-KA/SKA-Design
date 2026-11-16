@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02332",
+  "title": "Bona Forma Demo",
+  "summary": "A modern dark-mode gym website template for 24/7 fitness clubs to showcase services, facilities, and contact options with a premium, brand-forward design.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Services",
+    "Health",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Gym"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3551,
+      "sha256": "68a95b021171475b87eb1d40c08671daaf4c08d74d54349855f3d35dda81b8b2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14030,
+      "sha256": "aed68c0b6e90a02b07dd6c2e3d7542117dfe5e3fc112f9f232fcf2e9dd28adfc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 787,
+      "sha256": "04b906c65590849e31cdfe0677537906d3739841409f84d4b69901dc590f62bf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30829,
+      "sha256": "364063180ea95e5cb79fe6d51b11b309e436bd8b8f0a209355fab00c8e0652fa"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

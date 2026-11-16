@@ -1,0 +1,45 @@
+{
+  "id": "SN-C00404",
+  "title": "Interactive Vehicle Specs Grid Cards",
+  "summary": "Glassmorphic Tailwind grid displaying car specs with gradient icons, hover scaling and optional counter animation; perfect for vehicle detail sections or dashboards.",
+  "tags": [
+    "card",
+    "grid",
+    "tailwind",
+    "glassmorphism",
+    "interactive",
+    "vehicle",
+    "specs",
+    "hover",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3212,
+      "sha256": "2dbc2b42e24bb2ebee4d419806d7d75f49da49ac04c28abc0197a6366a6b67fb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4788,
+      "sha256": "9bd63cff73aca6930a501bb8c0b44b6a27a2389f18196b1b1ae49c0952f1ee13"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5645,
+      "sha256": "bdc18bec981b21108c61b955c39bc6a8d02951a8aa8e99fc60572c87c39b773d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

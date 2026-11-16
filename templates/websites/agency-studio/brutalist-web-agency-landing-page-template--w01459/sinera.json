@@ -1,0 +1,71 @@
+{
+  "id": "SN-W01459",
+  "title": "Brutalist Web Agency Landing Page Template",
+  "summary": "A reusable landing page template for web design agencies and local business service studios to showcase conversion-focused websites, SEO, and free audit offers.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Brutal",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "SEO",
+    "Agency"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3149,
+      "sha256": "8797ef7142cc0ca103a2b6635c8c6bd81e0da58657ebe28336b408b1f3a55499"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 25726,
+      "sha256": "f393bb760467247855801af7aa924ddac3f7e30d24e14c8c5414be375c2dc344"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 877,
+      "sha256": "cc56e9fb43e64734768b6235d6f47c0cb56ccab99b6a77ebab9cb1b23927d6fe"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 121,
+      "sha256": "b95f3b2ade1c0e1b8d5b84cbb8b8d5cc8a19b5b90e64249c65a1154e56df7226"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29779,
+      "sha256": "4f0a0d690b5c0eb4cae64c594dbf749f4abfb741ce1381622e5af41a8cf49b75"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "marquee",
+    "hero",
+    "features",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "SN-W00093",
+  "title": "AI Era Immersive Landing Page",
+  "summary": "Landing page with animated background, parallax storytelling, and interactive sections showcasing AI innovation and community features.",
+  "tags": [
+    "Landing Page",
+    "Hero Section",
+    "Parallax",
+    "Storytelling",
+    "Features",
+    "Tailwind CSS",
+    "Animated Background"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3486,
+      "sha256": "26539c20007d930b9d86f028e28a0da3b5f5730a5858a8f75a956a2baad0d13c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17673,
+      "sha256": "b693b0c84765f9b06f43f33d301b6b5e4d2a02e45c5bd1ffb2db4dfd4728196c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1645,
+      "sha256": "eb8447012cf5b84ef7838f62fbd069ed6b9daecc61cdb7a292faffa46095c25a"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 269,
+      "sha256": "f75d145c692d31ddfee060ec2f84e9de8eb71ef48f99d76b4cbd2632f10deb02"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 211,
+      "sha256": "ab40a416711b172023f243bfe6bcec5f045014a29f11943b10323d42cadd3cde"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 178,
+      "sha256": "e89a9729ae77f3fb39fa3cb4eca8714c588a96e5840550882c666c454db6658a"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 213,
+      "sha256": "2e04ade12a56d77fe05fc2717a0b9a93f3cea208e1c76ffce07ac97d8d05bb48"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 362,
+      "sha256": "86cde3c627a1904f4815551489c2eedb6f95a395ab215546bd9bdfaafb4b5cd8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14663,
+      "sha256": "36d45fdf8263f4f3bab7c35da8c1b2a927cef1726aa0998bbca8fb71c4022477"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "video-media",
+    "features",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

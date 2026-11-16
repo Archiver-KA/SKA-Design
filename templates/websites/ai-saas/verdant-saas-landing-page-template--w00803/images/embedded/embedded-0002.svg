@@ -1,0 +1,23 @@
+<svg class="w-full h-full overflow-visible" preserveAspectRatio="none" viewBox="0 0 200 100">
+                <defs>
+                  <linearGradient id="chartGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+                    <stop offset="0%" stop-color="#D6F866" stop-opacity="0.2"></stop>
+                    <stop offset="100%" stop-color="#D6F866" stop-opacity="0"></stop>
+                  </linearGradient>
+                  <linearGradient id="chartGradient2" x1="0%" y1="0%" x2="0%" y2="100%">
+                    <stop offset="0%" stop-color="#ffffff" stop-opacity="0.05"></stop>
+                    <stop offset="100%" stop-color="#ffffff" stop-opacity="0"></stop>
+                  </linearGradient>
+                </defs>
+
+                <!-- Background wave -->
+                <path d="M 0 80 Q 25 70, 50 85 T 100 80 T 150 90 T 200 75 L 200 100 L 0 100 Z" fill="url(#chartGradient2)"></path>
+                <path d="M 0 80 Q 25 70, 50 85 T 100 80 T 150 90 T 200 75" fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="2"></path>
+
+                <!-- Main wave -->
+                <path d="M 0 60 Q 30 80, 70 50 T 130 65 T 150 20 Q 170 50, 200 40 L 200 100 L 0 100 Z" fill="url(#chartGradient)"></path>
+                <path d="M 0 60 Q 30 80, 70 50 T 130 65 T 150 20 Q 170 50, 200 40" fill="none" stroke="#D6F866" stroke-width="2"></path>
+
+                <!-- Point -->
+                <circle cx="150" cy="20" r="4" fill="#D6F866" class="shadow-[0_0_10px_#D6F866]"></circle>
+              </svg>

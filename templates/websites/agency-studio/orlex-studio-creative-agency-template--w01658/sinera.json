@@ -1,0 +1,62 @@
+{
+  "id": "SN-W01658",
+  "title": "Orlex Studio Creative Agency Template",
+  "summary": "A high-end digital agency landing page template featuring premium typography, immersive mask reveals, and a custom interactive cursor experience.",
+  "tags": [
+    "Technology",
+    "Portfolio",
+    "Art & Design",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3119,
+      "sha256": "0eea5e3e6b5e8880827ff1845708f48093b29e4114d46b8bd34743978686aaa9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10186,
+      "sha256": "d08d5cf0935842f1efd432cfa62b15bea2ac620a2fd3aac7630f6f1e19be81a6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 731,
+      "sha256": "c5e63f889d0e342cc2c55fabd1ed418a066caf7205cd8f07c7466add11f9729a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20190,
+      "sha256": "466878c25fb86598fa6663919395b23d744ce60eb0b05311fedd07b714669008"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "timeline",
+    "navbar",
+    "hero",
+    "cta",
+    "case-studies"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en" data-theme="circuit">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Executive Search Landing Page Template</title>
+<meta name="description" content="Executive search firm bridging elite talent and visionary organizations across North America, Australia and the Middle East: sectors, a four-stage process and confidential conversations.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config = { theme: { extend: {
+  colors: { ground:'#F4F6FA', surface:'#FFFFFF', ink:'#0E1726', muted:'#556070', line:'#D9DFE8', accent:'#2B5CE6', accent2:'#F2A33A' },
+  fontFamily: { display:['"Space Grotesk"','system-ui','sans-serif'], sans:['Inter','system-ui','sans-serif'] },
+  borderRadius: { ctl:'6px' }
+} } }
+</script>
+<style>
+[data-theme="circuit"] {
+  --sa-ground: #F4F6FA; --sa-surface: #FFFFFF; --sa-ink: #0E1726; --sa-muted: #556070; --sa-line: #D9DFE8;
+  --sa-accent: #2B5CE6; --sa-on-accent: #FFFFFF; --sa-accent-2: #F2A33A; --sa-on-accent-2: #0E1726;
+  --sa-font-display: "Space Grotesk", system-ui, sans-serif; --sa-font-body: "Inter", system-ui, sans-serif;
+  --sa-radius-control: 6px; --sa-radius-card: 6px; --sa-display-case: none;
+  color-scheme: light; background: var(--sa-ground); color: var(--sa-ink); font-family: var(--sa-font-body);
+}
+html { scroll-behavior:smooth; }
+body { background:var(--sa-ground); color:var(--sa-ink); font-family:var(--sa-font-body); font-size:16px; line-height:1.6; -webkit-font-smoothing:antialiased; overflow-x:hidden; }
+h1,h2,h3,.font-display { font-family:var(--sa-font-display); letter-spacing:-0.02em; line-height:1.08; }
+:focus-visible { outline:3px solid var(--sa-accent); outline-offset:3px; border-radius:4px; }
+.btn { display:inline-flex; align-items:center; justify-content:center; gap:8px; min-height:48px; padding:0 24px; border-radius:6px; font-weight:600; font-family:var(--sa-font-body); transition:background-color .15s, color .15s; }
+.btn-p { background:var(--sa-accent); color:var(--sa-on-accent); }
+.btn-p:hover { background:#1F49C0; }
+.btn-o { border:1px solid var(--sa-ink); color:var(--sa-ink); background:transparent; }
+.btn-o:hover { background:var(--sa-ink); color:#fff; }
+.sec { padding:56px 0; }
+@media (min-width:1024px) { .sec { padding:96px 0; } }
+.wrap { max-width:1200px; margin:0 auto; padding:0 20px; }
+@media (min-width:768px) { .wrap { padding:0 32px; } }
+.kicker { font-size:13px; font-weight:600; letter-spacing:.08em; text-transform:uppercase; color:var(--sa-muted); }
+details > summary { list-style:none; cursor:pointer; min-height:56px; display:flex; align-items:center; justify-content:space-between; gap:16px; }
+details > summary::-webkit-details-marker { display:none; }
+details[open] .plus { transform:rotate(45deg); }
+.plus { transition:transform .2s; flex:none; }
+@media (prefers-reduced-motion: reduce) { * { animation:none !important; transition:none !important; scroll-behavior:auto !important; } }
+
+.trow{display:grid;grid-template-columns:1fr;gap:6px;padding:22px 0;border-top:1px solid var(--sa-line);transition:background-color .15s}
+@media(min-width:768px){.trow{grid-template-columns:80px 1fr 1.4fr 40px;gap:24px;align-items:center}}
+.trow:hover{background:var(--sa-surface)}
+.mega{font-family:var(--sa-font-display);font-weight:700;letter-spacing:-0.045em;line-height:.9}
+
+</style>
+</head>
+<body>
+<a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-50 focus:bg-ink focus:text-white focus:px-4 focus:py-3 focus:rounded-ctl">Skip to content</a>
+<header class="sticky top-0 z-40 bg-surface/95 border-b border-line ">
+<div class="wrap flex items-center justify-between h-16">
+<a href="#" class="font-display font-bold text-xl min-h-[44px] inline-flex items-center">accsensia<span class="text-accent">&gt;</span></a>
+<nav aria-label="Main" class="hidden md:flex items-center gap-1"><a href="#linh-vuc" class="px-3 min-h-[44px] inline-flex items-center text-sm font-medium hover:text-accent">Sectors</a><a href="#phuong-phap" class="px-3 min-h-[44px] inline-flex items-center text-sm font-medium hover:text-accent">Method</a><a href="#vi-tri" class="px-3 min-h-[44px] inline-flex items-center text-sm font-medium hover:text-accent">C-Suite</a><a href="#faq" class="px-3 min-h-[44px] inline-flex items-center text-sm font-medium hover:text-accent">FAQ</a></nav>
+<div class="flex items-center gap-2">
+<a href="#cta" class="btn btn-p hidden md:inline-flex !min-h-[44px] !px-5">Partner with us</a>
+<button id="menu-btn" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="menu-panel" class="md:hidden w-11 h-11 inline-flex items-center justify-center border border-line rounded-ctl">
+<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+</div></div>
+<div id="menu-panel" class="hidden md:hidden border-t border-line bg-surface"><div class="wrap py-2"><a href="#linh-vuc" class="block py-3 min-h-[44px] font-medium border-b border-line">Sectors</a><a href="#phuong-phap" class="block py-3 min-h-[44px] font-medium border-b border-line">Method</a><a href="#vi-tri" class="block py-3 min-h-[44px] font-medium border-b border-line">C-Suite</a><a href="#faq" class="block py-3 min-h-[44px] font-medium border-b border-line">FAQ</a><a href="#cta" class="btn btn-p w-full my-3">Partner with us</a></div></div>
+</header>
+
+<main id="main">
+<section class="pt-12 pb-10 lg:pt-20 border-b border-ink">
+<div class="wrap">
+<p class="kicker mb-6">Strategic leadership &middot; North America, Australia, Middle East</p>
+<h1 class="mega text-[64px] sm:text-[112px] lg:text-[168px]">Find<br>the one<br><span class="text-accent">to lead.</span></h1>
+<div class="mt-10 grid lg:grid-cols-12 gap-8 items-end">
+<p class="lg:col-span-6 text-lg text-muted">A specialist executive search firm bridging the gap between elite talent and visionary organizations. We place the right leaders with companies at an inflection point, from identifying the person to the day they start.</p>
+<div class="lg:col-span-6 lg:justify-self-end flex flex-wrap gap-3"><a href="#cta" class="btn btn-p">Book a confidential conversation</a><a href="#phuong-phap" class="btn btn-o">See our method</a></div>
+</div></div></section>
+
+<section class="py-8 bg-surface border-b border-line"><div class="wrap grid sm:grid-cols-3 gap-6 text-sm">
+<p><span class="font-display font-semibold text-base block">Regions</span><span class="text-muted">North America &middot; Australia &middot; Middle East</span></p>
+<p><span class="font-display font-semibold text-base block">Roles we fill</span><span class="text-muted">Boards, the C-suite and senior executives</span></p>
+<p><span class="font-display font-semibold text-base block">Our promise</span><span class="text-muted">Total confidentiality for organizations and candidates alike</span></p></div></section>
+
+<section id="linh-vuc" class="sec"><div class="wrap">
+<div class="grid lg:grid-cols-12 gap-6 mb-8"><div class="lg:col-span-4"><p class="kicker mb-3">Sectors</p><h2 class="text-3xl sm:text-4xl font-bold">Know the industry before we introduce anyone.</h2></div></div>
+<div>
+<div class="trow"><span class="font-display font-bold text-accent">01</span><h3 class="text-xl font-semibold">Technology &amp; software</h3><p class="text-muted">CTOs, chief product officers and engineering leaders for scaling companies.</p><span aria-hidden="true">&rarr;</span></div>
+<div class="trow"><span class="font-display font-bold text-accent">02</span><h3 class="text-xl font-semibold">Finance &amp; financial services</h3><p class="text-muted">CFOs, chief risk officers and compliance leaders.</p><span aria-hidden="true">&rarr;</span></div>
+<div class="trow"><span class="font-display font-bold text-accent">03</span><h3 class="text-xl font-semibold">Healthcare &amp; life sciences</h3><p class="text-muted">Leaders in operations, regulatory affairs and business development.</p><span aria-hidden="true">&rarr;</span></div>
+<div class="trow"><span class="font-display font-bold text-accent">04</span><h3 class="text-xl font-semibold">Energy &amp; industrial</h3><p class="text-muted">Leaders in supply chain, operations and the energy transition.</p><span aria-hidden="true">&rarr;</span></div>
+<div class="trow border-b"><span class="font-display font-bold text-accent">05</span><h3 class="text-xl font-semibold">Other sectors</h3><p class="text-muted">[YOUR SECTOR]</p><span aria-hidden="true">&rarr;</span></div>
+</div></div></section>
+
+<section id="phuong-phap" class="sec bg-ink text-white"><div class="wrap">
+<p class="kicker !text-[#B8C4D8] mb-3">Method</p><h2 class="text-3xl sm:text-5xl font-bold max-w-3xl">Four stages, one partner accountable from start to finish.</h2>
+<ol class="mt-12 grid md:grid-cols-4 gap-0 border-t border-white/30">
+<li class="py-6 md:pr-6 md:border-r border-white/30"><span class="mega text-6xl text-accent2">1</span><h3 class="text-xl font-semibold mt-4">Define the role</h3><p class="text-[#C9D3E3] mt-2">Clarify the business goals and leadership criteria before the search begins.</p></li>
+<li class="py-6 md:px-6 md:border-r border-white/30"><span class="mega text-6xl text-accent2">2</span><h3 class="text-xl font-semibold mt-4">Discreet outreach</h3><p class="text-[#C9D3E3] mt-2">Approach high performers directly, including those who are not looking.</p></li>
+<li class="py-6 md:px-6 md:border-r border-white/30"><span class="mega text-6xl text-accent2">3</span><h3 class="text-xl font-semibold mt-4">Assess &amp; present</h3><p class="text-[#C9D3E3] mt-2">A shortlist with capability assessments and cultural-fit insight.</p></li>
+<li class="py-6 md:pl-6"><span class="mega text-6xl text-accent2">4</span><h3 class="text-xl font-semibold mt-4">Close &amp; onboard</h3><p class="text-[#C9D3E3] mt-2">Support with negotiation and a 100-day plan for the incoming leader.</p></li>
+</ol></div></section>
+
+<section id="vi-tri" class="sec"><div class="wrap grid lg:grid-cols-12 gap-10">
+<div class="lg:col-span-5"><p class="kicker mb-3">Roles we recruit</p><h2 class="text-3xl sm:text-4xl font-bold">From the boardroom to the C-suite.</h2><p class="mt-4 text-muted max-w-md">Each search is led by one partner rather than passed between many hands.</p></div>
+<ul class="lg:col-span-7 grid sm:grid-cols-2 gap-3">
+<li class="bg-surface border border-line rounded-[6px] p-5 font-display font-semibold">Chief Executive Officer (CEO)</li>
+<li class="bg-surface border border-line rounded-[6px] p-5 font-display font-semibold">Chief Financial Officer (CFO)</li>
+<li class="bg-surface border border-line rounded-[6px] p-5 font-display font-semibold">Chief Operating Officer (COO)</li>
+<li class="bg-surface border border-line rounded-[6px] p-5 font-display font-semibold">Chief Technology Officer (CTO)</li>
+<li class="bg-surface border border-line rounded-[6px] p-5 font-display font-semibold">Board director</li>
+<li class="bg-surface border border-line rounded-[6px] p-5 font-display font-semibold">Other roles: [YOUR ROLE]</li></ul></div></section>
+
+<section class="sec pt-0"><div class="wrap"><figure class="border-t border-ink pt-8 grid lg:grid-cols-12 gap-6"><blockquote class="lg:col-span-9 font-display text-2xl sm:text-4xl font-semibold leading-tight">&ldquo;[CLIENT QUOTE]&rdquo;</blockquote><figcaption class="lg:col-span-3 text-muted lg:self-end">[NAME, TITLE], [ORGANIZATION]</figcaption></figure></div></section>
+
+<section id="faq" class="sec pt-0"><div class="wrap grid lg:grid-cols-12 gap-10"><h2 class="lg:col-span-4 text-3xl sm:text-4xl font-bold">Questions clients ask.</h2><div class="lg:col-span-8 border-t border-line"><details class="border-b border-line"><summary class="font-display font-semibold text-lg py-2">How long does a search take?<svg class="plus" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 pr-8 text-muted max-w-2xl">It depends on seniority and region. Expected: [NUMBER OF WEEKS]. We report progress at regular intervals.</p></details><details class="border-b border-line"><summary class="font-display font-semibold text-lg py-2">How are fees structured?<svg class="plus" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 pr-8 text-muted max-w-2xl">[YOUR FEE MODEL]. The terms are set out in an engagement letter before we begin.</p></details><details class="border-b border-line"><summary class="font-display font-semibold text-lg py-2">Is our organization's information kept confidential?<svg class="plus" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 pr-8 text-muted max-w-2xl">Yes. Many senior searches need to stay quiet, and we sign a confidentiality agreement before discussing details.</p></details><details class="border-b border-line"><summary class="font-display font-semibold text-lg py-2">What if the chosen leader leaves early?<svg class="plus" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 pr-8 text-muted max-w-2xl">Replacement policy: [YOUR GUARANTEE POLICY].</p></details></div></div></section>
+
+<section id="cta" class="sec bg-accent text-white"><div class="wrap grid lg:grid-cols-12 gap-8 items-center">
+<h2 class="lg:col-span-8 mega text-5xl sm:text-7xl">The first conversation is always private.</h2>
+<div class="lg:col-span-4 lg:justify-self-end"><a href="mailto:[EMAIL]" class="btn bg-white text-ink hover:bg-ground">Book a confidential conversation</a><p class="text-sm mt-3">[EMAIL] &middot; [PHONE NUMBER]</p></div></div></section>
+</main>
+<footer class="py-10"><div class="wrap flex flex-col md:flex-row gap-3 justify-between text-sm text-muted"><p><span class="font-display font-bold text-ink">accsensia</span> Executive Search &middot; [OFFICE ADDRESS]</p><p>&copy; [YEAR] &middot; Privacy policy</p></div></footer>
+<script>
+(function(){
+  var b=document.getElementById('menu-btn'),p=document.getElementById('menu-panel');
+  if(!b||!p)return;
+  b.addEventListener('click',function(){
+    var o=p.classList.toggle('hidden')===false;
+    b.setAttribute('aria-expanded',o?'true':'false');
+  });
+  p.addEventListener('click',function(e){ if(e.target.tagName==='A'){p.classList.add('hidden');b.setAttribute('aria-expanded','false');} });
+})();
+</script>
+</body>
+</html>

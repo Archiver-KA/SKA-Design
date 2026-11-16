@@ -1,0 +1,10 @@
+<svg viewBox="0 0 100 100" class="w-[46px] h-[46px]" stroke-width="2" data-icon-replaced="true" style="width: 46px; height: 46px; color: rgb(248, 250, 252)">
+                            <defs>
+                                <linearGradient id="sphereGrad" x1="20%" y1="20%" x2="100%" y2="100%">
+                                    <stop offset="0%" class="stop-color-orange-300" style="stop-color:#fdba74"></stop>
+                                    <stop offset="50%" class="stop-color-orange-500" style="stop-color:#f97316"></stop>
+                                    <stop offset="100%" class="stop-color-red-600" style="stop-color:#dc2626"></stop>
+                                </linearGradient>
+                            </defs>
+                            <circle cx="50" cy="50" r="40" fill="url(#sphereGrad)" class=""></circle>
+                        </svg>

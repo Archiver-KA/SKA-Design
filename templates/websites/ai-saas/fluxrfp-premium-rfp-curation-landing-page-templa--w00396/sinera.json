@@ -1,0 +1,69 @@
+{
+  "id": "SN-W00396",
+  "title": "FluxRFP Premium RFP Curation Landing Page Template",
+  "summary": "This reusable landing page template showcases a premium RFP curation service designed to deliver high-quality, vetted RFP opportunities and private network access to agencies and consultants.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "Features",
+    "Pricing",
+    "Testimonials",
+    "Email Digest",
+    "Scheduling",
+    "SaaS",
+    "Private Network",
+    "RFP"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3701,
+      "sha256": "2002ea87a5bec5bab19f02ccb015ccd8c5478ae16dd075fe02170734ad902f20"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2876,
+      "sha256": "49b2583f0284dff4cdf248383559b1a486553cd18861a9a74b6b030b6e2eac8e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 744,
+      "sha256": "b68dd26af8deaae11aa9829f4b049a91503f216326d0240dee285ccd7118a4ec"
+    },
+    {
+      "path": "index.html",
+      "bytes": 47755,
+      "sha256": "e08e9365c39e9c1fa1b42686ae3f6c6eddb86a82f247ef05d15c4c1bc6cdffdc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "features",
+    "stats",
+    "testimonials",
+    "pricing",
+    "schedule-agenda",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

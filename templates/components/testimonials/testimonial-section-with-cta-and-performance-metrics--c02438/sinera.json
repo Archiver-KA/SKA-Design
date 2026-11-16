@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02438",
+  "title": "Testimonial Section with CTA and Performance Metrics",
+  "summary": "Responsive Tailwind section showcasing client testimonials in a 3-column grid with fade/scale animations, headline and CTA button, plus project KPIs. Ideal for landing pages, portfolios or agency sites.",
+  "tags": [
+    "testimonial",
+    "section",
+    "tailwind",
+    "grid",
+    "animated",
+    "responsive",
+    "cta",
+    "metrics"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26626,
+      "sha256": "c5c3c8b1bb8caa37cfbbe380d53c830f19183c1730ac411daa54cc0b3d19bce4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10045,
+      "sha256": "d9170606ac0e8de3b99ef00747e94ae9bcda3103aca8039a0c255c236c460144"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10918,
+      "sha256": "0031176e080f59ed5710f8379b38fb9bc3496cab62cccb5ee1e8acac83ad949c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

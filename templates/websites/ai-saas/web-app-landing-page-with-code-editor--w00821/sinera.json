@@ -1,0 +1,69 @@
+{
+  "id": "SN-W00821",
+  "title": "Web App Landing Page with Code Editor",
+  "summary": "Responsive landing page featuring navigation, hero section, glowing code editor, terminal, and usage statistics.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "Code Editor",
+    "Terminal",
+    "Tailwind CSS",
+    "Responsive Design",
+    "Animation"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3319,
+      "sha256": "213a2ad15f63b6626429154597d32c26636c88857ebdb6765b87654368a87ab8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13852,
+      "sha256": "796c82e425fb24a69766b1fedfa811e3e27f1fbaede85d864ad9be26d82c2421"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1069,
+      "sha256": "752611e57c1b5ba33a693917b4ad7dc40a7153512e9f45bec43ab2cb7f6810c8"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 192,
+      "sha256": "d3778f7c7adb433914e0bc5766768117de80505cf27d463eef048639f145be11"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 405,
+      "sha256": "be8d624bc0a436eb76856d463c1777fc3863ca297427dd1e2b7b138626188d7f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8800,
+      "sha256": "72981c4cbcfc46a2936ce45f67ba98d1be9063da7c2e12c4d86a117f77f620ce"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

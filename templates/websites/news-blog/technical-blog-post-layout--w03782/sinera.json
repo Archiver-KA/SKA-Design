@@ -1,0 +1,55 @@
+{
+  "id": "SN-W03782",
+  "title": "Technical Blog Post Layout",
+  "summary": "Responsive blog UI with annotations, metadata, and content sections styled using Tailwind CSS and custom fonts.",
+  "tags": [
+    "Blog",
+    "Annotations",
+    "Responsive UI",
+    "Tailwind CSS",
+    "Metadata",
+    "Typography"
+  ],
+  "kind": "websites",
+  "category": "news-blog",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2896,
+      "sha256": "3a2ccd64edfd993398bc1ba99c3b8e571c32aa9a91e9c94f02b3ab8ac1a089df"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19311,
+      "sha256": "6a2d41a3caf98f31a046057443b6e429e9fd31ac65548b87e972e13770fe827c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 719,
+      "sha256": "81d5cc2fb5dada22a23f530524470c93b19b3f689952bc3c601adbe8463ad74c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11170,
+      "sha256": "90d285e37e222daf86e942a97875ac2c494c39d0ed23ef1ca3aecb3a1e6bce46"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "content",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Content / News",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

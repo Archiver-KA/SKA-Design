@@ -1,0 +1,13 @@
+<svg class="absolute bottom-0 left-0 w-full h-3/4 overflow-visible" preserveAspectRatio="none">
+                                    <path d="M0,80 C40,80 60,60 100,60 C140,60 180,75 300,80" 
+                                          fill="none" stroke="#B4925A" stroke-width="3" vector-effect="non-scaling-stroke"/>
+                                    <!-- Area under curve -->
+                                    <path d="M0,80 C40,80 60,60 100,60 C140,60 180,75 300,80 L300,100 L0,100 Z" 
+                                          fill="url(#gradient)" opacity="0.2"/>
+                                    <defs>
+                                        <linearGradient id="gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+                                            <stop offset="0%" style="stop-color:#B4925A;stop-opacity:1" />
+                                            <stop offset="100%" style="stop-color:#B4925A;stop-opacity:0" />
+                                        </linearGradient>
+                                    </defs>
+                                </svg>

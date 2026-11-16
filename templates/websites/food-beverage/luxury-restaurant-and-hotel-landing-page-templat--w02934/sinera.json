@@ -1,0 +1,81 @@
+{
+  "id": "SN-W02934",
+  "title": "Luxury Restaurant & Hotel Landing Page Template",
+  "summary": "A premium, fully designed template for luxury restaurant and boutique hotel brands to showcase dining, rooms, gallery, blog, and online reservations.",
+  "tags": [
+    "Food",
+    "Services",
+    "Landing Page",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Clean",
+    "Restaurant",
+    "Hotel"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3848,
+      "sha256": "b046d61903dbbd3172db3ce33ad33ba7b1e70768e6ab0259aea3072f9bfdf9fb"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18560,
+      "sha256": "1f749229c8c411de26b57bc1adcbdc5f2dd87e4f82b2de82a506b2767abdd86e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 969,
+      "sha256": "7ee0229dc499030e4023aa1c27490a5895f4b79478b7e20fd42b7b4252f1709a"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 329,
+      "sha256": "73634b756ec718beee2eaad5ef402d45e1161f40e2e21eb27a301f95168ccbde"
+    },
+    {
+      "path": "index.html",
+      "bytes": 129397,
+      "sha256": "ff47066a29c58b1b11e103ded54a0d94b71bccb6624e8de4ff197384062a7d7d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "menu-list",
+    "listings",
+    "gallery-portfolio",
+    "modal-overlay",
+    "testimonials",
+    "blog-articles",
+    "booking",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

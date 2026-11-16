@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00446",
+  "title": "Responsive Invoice Details Card with Actions",
+  "summary": "Gradient-styled invoice card displaying client, totals, status, key dates, line items and balance, plus buttons to record payments or send reminders. Tailwind CSS, animated, responsive grid—perfect for dashboards, billing portals or SaaS finance sections.",
+  "tags": [
+    "card",
+    "invoice",
+    "dashboard",
+    "tailwind",
+    "responsive",
+    "table",
+    "financial",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22286,
+      "sha256": "1666e64ee1cad0850106d078cdfb84090e3a557d0ed3174210b1f9ed536db3a2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13571,
+      "sha256": "34c14fdb4d2a2f34a3344f204ccf741b408351ba3fce8721d1198fc1d801ce6d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14566,
+      "sha256": "59b2703a9408d95080be1dc84d83f30c43a757b0d9abdea2ee323d61331971aa"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

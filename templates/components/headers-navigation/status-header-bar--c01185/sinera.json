@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01185",
+  "title": "Status Header Bar",
+  "summary": "Comprehensive header with time display, connection status, system indicators, and user profile. Features connectivity indicators and status badges.",
+  "tags": [
+    "header",
+    "status",
+    "time",
+    "connectivity",
+    "profile",
+    "indicators",
+    "system",
+    "navigation"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3960,
+      "sha256": "81108135ce2ea8dc5bf00b428ad7c624d42c58c271ca95318b4768ee23927ab4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2702,
+      "sha256": "d36450b877c9e4a965b9aacd50529fad5c98f0bc798e626c7df0c841335a90ac"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3540,
+      "sha256": "f0ec028e96461190ce3386cff71751aa765c443cc91de9eadc08045d3dd1bcf2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

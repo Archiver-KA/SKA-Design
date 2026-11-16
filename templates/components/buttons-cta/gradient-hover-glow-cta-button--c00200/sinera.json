@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00200",
+  "title": "Gradient Hover Glow CTA Button",
+  "summary": "Interactive call-to-action button with multicolor gradient, blurred glow, and lift effect on hover. Built with Tailwind CSS and accessible attributes, perfect for landing pages, forms, or promotional sections needing an eye-catching CTA.",
+  "tags": [
+    "button",
+    "tailwindcss",
+    "gradient",
+    "hover",
+    "animated",
+    "call-to-action",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2292,
+      "sha256": "fe005873ec51fd728cd1d6b4db1d000054df0359a3b6ca9beb3e788f9edd7f7c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1177,
+      "sha256": "4629b510654f27da5901f13ec14ef94fdf25e45b0f8fac4e7382c45b24e4cae7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2028,
+      "sha256": "5eb573d4a3453978cca6968ac5ab9401bb4909455a04c4873c7e217f12eadacb"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

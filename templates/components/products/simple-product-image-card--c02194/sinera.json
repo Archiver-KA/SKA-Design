@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02194",
+  "title": "Simple Product Image Card",
+  "summary": "Minimal product image card with white background and subtle shadow. Perfect for clean product displays in catalogs or grids.",
+  "tags": [
+    "card",
+    "product",
+    "image",
+    "hover",
+    "animated",
+    "minimal",
+    "ecommerce"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13066,
+      "sha256": "11c94ab9413ae314e09a9337fbacfb835356ca74acbc946dae8732706d766089"
+    },
+    {
+      "path": "component.html",
+      "bytes": 374,
+      "sha256": "ebb1b2123b61748babb758654198e9cf2c6c88a167eabee79c90920d1aa85dfd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1220,
+      "sha256": "bb2e618069af1bc6aa52158e24f3f3efc91b818cf7cfe39572d35ae14b0030af"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

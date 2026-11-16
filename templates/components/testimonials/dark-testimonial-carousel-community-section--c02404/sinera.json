@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02404",
+  "title": "Dark Testimonial Carousel Community Section",
+  "summary": "Full-width community testimonial section with headline, CTA button, and interactive testimonial carousel. Features image, quote, name, role switching via prev/next controls, animated fades, and Tailwind-based dark gradient styling for SaaS or product pages.",
+  "tags": [
+    "testimonial",
+    "section",
+    "interactive",
+    "carousel",
+    "tailwind",
+    "responsive",
+    "dark",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 25692,
+      "sha256": "b13c76e9751b35fb92270e060298b17f840ac1e4055db89cff2ec0af3a921df4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12131,
+      "sha256": "82f1489ec1c6eea3840fe46cc3d0eddf888f537389afa8a047571a94f82565e8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12995,
+      "sha256": "e7eda7211ac5845ef50680a84f31a2fa4b5682ffe8cd294a2e1eb950d8de84a9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

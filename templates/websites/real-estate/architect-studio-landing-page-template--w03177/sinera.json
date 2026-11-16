@@ -1,0 +1,71 @@
+{
+  "id": "SN-W03177",
+  "title": "Architect Studio Landing Page Template",
+  "summary": "A sleek, minimalist architect studio landing page template for showcasing projects, services, and testimonials with a cinematic, dark-glass aesthetic.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Art & Design",
+    "Portfolio",
+    "Minimal",
+    "Dark",
+    "Clean",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3718,
+      "sha256": "00736900bc106b78b2aa18c3f4f7e0a4a1d8e0f48b8bfc23eb9a08226681d0fe"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11620,
+      "sha256": "32089f0f17c29f74cf0124ec091f7ab0e5ca2ca8f890eb3f7fe9d9fcf52c1480"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 872,
+      "sha256": "2778becd1458bb88d1a257fcddaaf6a4f7396245f3c272ac147eaff3465ecdfc"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 551,
+      "sha256": "ae941303d864829fec5392eac848666e6eb389a50c1c1a7e12a77a8b5b7be03f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30052,
+      "sha256": "830367439515c4de63aecf51df07ae426e360714efcc61f6947c001e16b0d508"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "timeline",
+    "case-studies",
+    "services",
+    "testimonials",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

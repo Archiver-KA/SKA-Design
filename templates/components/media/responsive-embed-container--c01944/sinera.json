@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01944",
+  "title": "Responsive Embed Container",
+  "summary": "A responsive iframe embed container with 1:1 aspect ratio (square), rounded corners, and shadow. Perfect for embedding Canva designs, videos, or interactive content.",
+  "tags": [
+    "card",
+    "embed",
+    "responsive",
+    "iframe",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5212,
+      "sha256": "ec36a2bea540f30b8f532bffe13174e9347bd01bc7e8fc4cd867d7cf12bafed9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 361,
+      "sha256": "6e79b2b4f4298cb03dd79a16f6700b0cac14e34ab8d0e9ff8cf58ad9cf6209fb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1208,
+      "sha256": "1f27169378e6c52d45787bdbe07cd77ff4d69b5673f306a28a344539db542b7c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

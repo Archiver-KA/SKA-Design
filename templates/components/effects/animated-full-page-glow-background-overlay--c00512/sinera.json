@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00512",
+  "title": "Animated Full-Page Glow Background Overlay",
+  "summary": "Absolute-positioned component that injects Unicorn Studio script to render a full-width, full-height animated glow backdrop behind page content; ideal for hero sections or immersive landing pages, styled with Tailwind utility classes.",
+  "tags": [
+    "background",
+    "animated",
+    "overlay",
+    "tailwind",
+    "effect",
+    "unicornstudio"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8782,
+      "sha256": "d2575dbabacf4e0494c3df67acca0c6eeb2f2352a8710574868c8a8b24b23ecc"
+    },
+    {
+      "path": "component.html",
+      "bytes": 627,
+      "sha256": "2dfd9e11455628fe5d9b998ad62002916722cce4a6401e17d5a0329fe7749884"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1490,
+      "sha256": "e653f0df3b554f02c9e108b40b2c5a6a9b22d856ae8da50581cf16955dad5772"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

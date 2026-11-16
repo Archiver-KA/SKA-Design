@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01996",
+  "title": "YouTube Shorts Embed Player",
+  "summary": "A responsive YouTube Shorts video embed component with a 9:16 aspect ratio optimized for mobile viewing. Perfect for showcasing short-form video content.",
+  "tags": [
+    "card",
+    "video",
+    "embed",
+    "youtube",
+    "responsive",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1118,
+      "sha256": "ab31309fdea814ea7120bdaac067a480f3350d472f2b1b9d5d1513a1816674a7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 450,
+      "sha256": "0adf184eff8af5c6ce1c21c83dacf03242223cc86052f63ab6b9a4b09007f7bf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1298,
+      "sha256": "024b16b91b0aa6fa55c432b72e52e474306587f2c6689415551587ae612e5c6b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

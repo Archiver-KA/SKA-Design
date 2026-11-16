@@ -1,0 +1,40 @@
+{
+  "id": "SN-C00533",
+  "title": "Embedded Unicorn Studio Canvas",
+  "summary": "Embeds a Unicorn Studio project canvas via script, loading an external interactive or animated experience into a fixed 1440x900 container. Useful for adding rich visual or interactive backgrounds or showcases to a page.",
+  "tags": [
+    "embedded",
+    "interactive",
+    "canvas",
+    "integration"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16146,
+      "sha256": "1eb7379f768282f02aeade5283a1e1d93efc552ae5bec56464249e681ef4c37c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 520,
+      "sha256": "dabfdac8aafe2e565bf9145c399ce0da6b94abe2c61dd5b6197d6682e078659a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1371,
+      "sha256": "ab7bf01ab7d61194f9501aa1d921ac3036101646442937246523edca6379f580"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

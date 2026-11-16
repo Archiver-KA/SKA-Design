@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02020",
+  "title": "Dark SaaS Pricing Section with Two Plans",
+  "summary": "Full-width dark pricing section featuring monthly/yearly toggle UI and two interactive pricing cards (Starter and Growth) with hover accents, feature lists, and call-to-action buttons. Styled with Tailwind-like utility classes for modern SaaS landing pages.",
+  "tags": [
+    "pricing",
+    "section",
+    "responsive",
+    "interactive",
+    "landing",
+    "saas",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16104,
+      "sha256": "3ca0d16d8b4a6d81b8a50ab9c82acb04b778a795085d9a38848c407cf21318d9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10837,
+      "sha256": "60825bc2be5931be3d897ca1567f9c1321a2ff494702d354340daee1c3887780"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11698,
+      "sha256": "2f76259e6e5d5656d7a49a8867609128d03bcda1d16792c9c63ea36a0bb4f880"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

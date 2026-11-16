@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00035",
+  "title": "Skills Tag Card with Icon and Tailwind Chips",
+  "summary": "Card component showcasing a heading with an icon and a flexible list of pill-style tags. Built with Tailwind CSS utility classes, ideal for displaying skills, categories, or filters in portfolios, dashboards, or profile sections.",
+  "tags": [
+    "card",
+    "tag",
+    "chip",
+    "tailwind",
+    "icon",
+    "list",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "about",
+  "categoryLabel": "About & team",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5330,
+      "sha256": "06e14a80f78ce3fd2e1c0e7d6953b0e1eb191f91173657a208b08eab5fd746ba"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2168,
+      "sha256": "6d7d44908c6d779119e46bc552c0f8ed477b69af8bfdab74e25874b1ecc669c2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3163,
+      "sha256": "66f04a01ed493f038976a96a9d0d062e04973eff72cd05538b04f4ff612ae221"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

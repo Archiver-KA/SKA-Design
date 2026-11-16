@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00490",
+  "title": "Presenter and WhatsApp Info Bar",
+  "summary": "Horizontal info bar showing a presenter label and a pill-shaped WhatsApp contact chip. Uses Tailwind utility classes, responsive flex layout, subtle hover effect, and accent dot for status or emphasis. Ideal for headers or hero sublines with contact details.",
+  "tags": [
+    "card",
+    "contact",
+    "badge",
+    "inline",
+    "responsive",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "contact",
+  "categoryLabel": "Contact & maps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3078,
+      "sha256": "cc3e619348e0a30713fc4f69abb40a472327d4dfc2eab5ff68522670ec76488c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 743,
+      "sha256": "bbd4a67e285f725f96d8944e888688875c4855c5ac82c7a2182d9e2634d11feb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1595,
+      "sha256": "f2f0b49b1e91574e4a2cd895afb22d9084e135bf8074c164fd7256c6aa6de46b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

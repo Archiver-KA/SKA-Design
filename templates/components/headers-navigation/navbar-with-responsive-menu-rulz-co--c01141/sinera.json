@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01141",
+  "title": "Navbar with Responsive Menu - Rulz&Co",
+  "summary": "Fixed top navigation bar featuring glassmorphic backdrop, brand label, desktop links, mobile burger button, and optional external link. Styled with Tailwind utility classes, fully responsive for landing pages or SaaS sites.",
+  "tags": [
+    "navbar",
+    "header",
+    "tailwind",
+    "glassmorphic",
+    "responsive",
+    "menu",
+    "fixed",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2772,
+      "sha256": "3c9a8870f7284ab72db25d640b7c230dc3a8ecf1064f3f3dea4d67bda3a26021"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3090,
+      "sha256": "e73ad186ec305d45ab7102d7a741a170a52d955805656080882d4b369cfab9c7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3952,
+      "sha256": "9ff41c4efb6bb60eea16a6b6af21a3b57a4cfcc680cb818fbc4ee25d49a8b8dc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

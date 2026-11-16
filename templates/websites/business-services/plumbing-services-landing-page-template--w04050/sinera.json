@@ -1,0 +1,63 @@
+{
+  "id": "SN-W04050",
+  "title": "Plumbing Services Landing Page Template",
+  "summary": "A modern plumbing services landing page template for local tradies to showcase services, reviews, and capture quote requests with a built-in contact form.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Clean",
+    "Minimal",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3539,
+      "sha256": "8b34e492ad59bf0366a7c255ce7c1b50e2531d5a02fcc86e4617e12eb30fe5be"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17162,
+      "sha256": "9d6db2dcae1efa2ef6267b051579185f7f7b4b52b1f11ee8cbea18a7ab419110"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "55bf318632da5b2ce8329a876772ff39fa04c1e230afc03075d3532befa871ab"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29795,
+      "sha256": "d0115312f3e257f821a76f92bed4d5d211b492f13e01bda93bc48fcfe27202bc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "features",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

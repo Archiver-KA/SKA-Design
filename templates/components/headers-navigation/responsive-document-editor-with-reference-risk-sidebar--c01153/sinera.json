@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01153",
+  "title": "Responsive Document Editor with Reference & Risk Sidebar",
+  "summary": "Interactive editor featuring reference links with copy/open actions, autosave and char counter. A sticky sidebar lists risk cards that expand to detailed embeds with insert/copy options. Fully responsive and styled with Tailwind CSS.",
+  "tags": [
+    "editor",
+    "textarea",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "copy",
+    "popover",
+    "sticky",
+    "card"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20278,
+      "sha256": "c70a94345513ef91cd9a8a206d7a5a4adeaeb285acd87078a8c99dba0d77d0c8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 27679,
+      "sha256": "924fbfef6a7312ce8435ec6058e9796a66a2a8acc6155cac41e04ad5d4417cbf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28690,
+      "sha256": "5c9bfa917a4c03c39cba8705513d397dd90dad76f3215f0572e8395c85a27e17"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

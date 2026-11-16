@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01866",
+  "title": "Cinematographer Portfolio Template",
+  "summary": "A reusable portfolio template for filmmakers, photographers, and visual storytellers to showcase work, services, biography, and contact details.",
+  "tags": [
+    "Portfolio",
+    "Artist",
+    "Photography",
+    "Services",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Large Type",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3305,
+      "sha256": "dc473af3df8b0ed8e13addd0ba7b3591287d89019102090cb74330d6711f97d0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10786,
+      "sha256": "dd1e21e1b05871148c31b82330ef6f6de081504a740902377802acf752da2a4d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 722,
+      "sha256": "15115bc2ab7f4bcab2321fa56f649153f292bf276120ea3941436e55908a19de"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25669,
+      "sha256": "2468ba2875f49c1ed667cd50e0929cc9a30ec9c864a996fae3fc533060864881"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "modal-overlay",
+    "about",
+    "case-studies",
+    "bento-grid",
+    "services",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

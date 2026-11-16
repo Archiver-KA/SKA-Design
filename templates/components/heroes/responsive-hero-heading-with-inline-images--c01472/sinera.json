@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01472",
+  "title": "Responsive Hero Heading with Inline Images",
+  "summary": "Tailwind-styled H1 hero heading featuring dynamic font sizing and two inline, rounded images—ideal for personal branding or portfolio landing pages to introduce a photographer or creative professional.",
+  "tags": [
+    "heading",
+    "tailwind",
+    "responsive",
+    "image",
+    "branding",
+    "portfolio"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22456,
+      "sha256": "2e07a6a3da720e26a711e9f481bb38c6156d632f75119b20b96dd7ecd8014850"
+    },
+    {
+      "path": "component.html",
+      "bytes": 786,
+      "sha256": "d9b03cd57b9c19fd666543dd53d9a5489a60319421499b09ef5e62cd5f7b2235"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1649,
+      "sha256": "adab48820c124edd234863c44332e91f0454f9634a1738d355bb4d5edc318b18"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SN-W03714",
+  "title": "Interactive Idle Game Template",
+  "summary": "A high-performance interactive incremental game template featuring a dark UI, floating animations, and real-time shop mechanics.",
+  "tags": [
+    "Entertainment",
+    "Dark",
+    "Clean",
+    "Animated",
+    "Futuristic",
+    "Graphic Design",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3136,
+      "sha256": "52a50ac36b3c0f2080fb3564ac13101deac5e365688882b4cf918b6e8addd9ea"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6688,
+      "sha256": "50800f7d9151d99c8ccebbd43c3dd900c49ecd4b0168cd2ab2e4d8eb1410bfa4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 867,
+      "sha256": "faddffbe2bd3771ca921c32facd06d4590350b7931adbb3cda505a0babfe8bf0"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 2578,
+      "sha256": "1ebe0cd997f79d987d19bef5993d277781cf34ebb2b18938882196e8b7006499"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17926,
+      "sha256": "74914e1d7ff3f79d2cfeb5362513195496d9e96b80d833a7907b42a24e9ed2e5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "snippet",
+  "components": [
+    "hero",
+    "sidebar"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,30 @@
+<svg class="absolute inset-0 z-[1] h-full w-full overflow-visible" viewBox="0 0 360 380" preserveAspectRatio="none">
+              <defs>
+                <path id="tree-path-0" d="M180 44 C180 73,105 73,105 102"></path>
+                <path id="tree-path-1" d="M180 44 C180 73,255 73,255 102"></path>
+                <path id="tree-path-2" d="M105 140 C105 166,105 166,105 192"></path>
+                <path id="tree-path-3" d="M255 140 C255 166,255 166,255 192"></path>
+                <path id="tree-path-4" d="M180 44 C180 171,180 171,180 298"></path>
+                <path id="tree-path-5" d="M180 334 C180 347,180 347,180 360"></path>
+              </defs>
+              <g class="tree-line" opacity="0">
+                <path d="M180 44 C180 73,105 73,105 102" stroke="rgba(255,255,255,.35)" stroke-width="1" fill="none"></path>
+                <path d="M180 44 C180 73,255 73,255 102" stroke="rgba(255,255,255,.35)" stroke-width="1" fill="none"></path>
+                <path d="M105 140 C105 166,105 166,105 192" stroke="rgba(255,255,255,.35)" stroke-width="1" fill="none"></path>
+                <path d="M255 140 C255 166,255 166,255 192" stroke="rgba(255,255,255,.35)" stroke-width="1" fill="none"></path>
+                <path d="M180 44 C180 171,180 171,180 298" stroke="rgba(255,255,255,.35)" stroke-width="1" fill="none"></path>
+                <path d="M180 334 C180 347,180 347,180 360" stroke="rgba(255,255,255,.35)" stroke-width="1" fill="none"></path>
+                <circle cx="105" cy="102" r="2.5" fill="rgba(255,255,255,.9)"></circle>
+                <circle cx="255" cy="102" r="2.5" fill="rgba(255,255,255,.9)"></circle>
+                <circle cx="105" cy="192" r="2.5" fill="rgba(255,255,255,.9)"></circle>
+                <circle cx="255" cy="192" r="2.5" fill="rgba(255,255,255,.9)"></circle>
+                <circle cx="180" cy="298" r="2.5" fill="rgba(255,255,255,.9)"></circle>
+                <circle cx="180" cy="360" r="2.5" fill="rgba(255,255,255,.9)"></circle>
+                <circle r="3" fill="#fff" style="filter:drop-shadow(0 0 4px rgba(255,255,255,.8));"><animateMotion dur="2.4s" repeatCount="indefinite" begin=".85s"><mpath href="#tree-path-0"></mpath></animateMotion></circle>
+                <circle r="3" fill="#fff" style="filter:drop-shadow(0 0 4px rgba(255,255,255,.8));"><animateMotion dur="2.4s" repeatCount="indefinite" begin="1s"><mpath href="#tree-path-1"></mpath></animateMotion></circle>
+                <circle r="3" fill="#fff" style="filter:drop-shadow(0 0 4px rgba(255,255,255,.8));"><animateMotion dur="2.4s" repeatCount="indefinite" begin="1.2s"><mpath href="#tree-path-2"></mpath></animateMotion></circle>
+                <circle r="3" fill="#fff" style="filter:drop-shadow(0 0 4px rgba(255,255,255,.8));"><animateMotion dur="2.4s" repeatCount="indefinite" begin="1.38s"><mpath href="#tree-path-3"></mpath></animateMotion></circle>
+                <circle r="3" fill="#fff" style="filter:drop-shadow(0 0 4px rgba(255,255,255,.8));"><animateMotion dur="2.4s" repeatCount="indefinite" begin="1.55s"><mpath href="#tree-path-4"></mpath></animateMotion></circle>
+                <circle r="3" fill="#fff" style="filter:drop-shadow(0 0 4px rgba(255,255,255,.8));"><animateMotion dur="2.4s" repeatCount="indefinite" begin="1.75s"><mpath href="#tree-path-5"></mpath></animateMotion></circle>
+              </g>
+            </svg>

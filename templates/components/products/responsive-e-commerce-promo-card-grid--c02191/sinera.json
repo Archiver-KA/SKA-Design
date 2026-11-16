@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02191",
+  "title": "Responsive E-commerce Promo Card Grid",
+  "summary": "Tailwind-powered grid displaying multiple promotional cards with images, headings and call-to-action links. Ideal for storefront landing pages to highlight categories, deals or memberships in a responsive, marketing-focused layout.",
+  "tags": [
+    "card",
+    "grid",
+    "promo",
+    "ecommerce",
+    "tailwind",
+    "responsive",
+    "marketing",
+    "category"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 65340,
+      "sha256": "c555b525a4b0c588acb8e086781851937d95261437b0dc22ed17c7425ef42cfb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 15176,
+      "sha256": "cb302b6e48f23c61cc9ee70e957b178501f1ad1187554876e03694be94f7d7ac"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16164,
+      "sha256": "0f4f0a7ba74af9a779618a928c8b28224bfb80d74a4ce7dcd756ce05d69332b3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

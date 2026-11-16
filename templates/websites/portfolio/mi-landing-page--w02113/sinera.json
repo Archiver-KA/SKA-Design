@@ -1,0 +1,156 @@
+{
+  "id": "SN-W02113",
+  "title": "MI Landing Page",
+  "summary": "A clean, data-driven agency landing page template for Variant-style digital services, ideal for showcasing web architecture, audits, and project inquiries.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Portfolio",
+    "Agency"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4032,
+      "sha256": "865414f751070bb8e6adc869cfe00a76dac990a51ecbd7e7f35b78d248cd7101"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15272,
+      "sha256": "6ebb5641bbe0509326829bc3194a6d0d76668c22dbb8458791b804667a788bdc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 4289,
+      "sha256": "873eb3b14429d8e34eea3e6a0eec8a305928b14455e8b8b7ed290937b0f7e0e0"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 185,
+      "sha256": "8f9013254ff3fcbe17bdcfe621ccb43f5477440eaa011153674347ccf65a2de1"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 457,
+      "sha256": "e994effbb05771392ef08ddc8fd646671a106ad4dfaf984bdfca3d2add27d108"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 358,
+      "sha256": "2f737521d554471b2bc3c464ec6f7e188ddbc9c7466c6aad4f9c6a1b7e1c8937"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 305,
+      "sha256": "bfdd09b3534be38192f4095e0153d62daedc6413ac3f727c2fb2065c83005263"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 308,
+      "sha256": "1a4b4cf4692f71da734e7c2972c9883547fa6ad82623815abdbc74b605252318"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 263,
+      "sha256": "4ced6a73276298574feb156335f54bd5d3bc283ffb22de9b67e301808cf08eb1"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 414,
+      "sha256": "41417379bc686861ff695bbdd50ee3176a07db16960af5469a0d57baae3f4366"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 409,
+      "sha256": "0ddf3b908827d0d6bec719b5a5e3e187d5e304b012d61ceb7fb132dc73305f77"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 418,
+      "sha256": "6a995c487072dadffbb7ea4b499449a0803f85ae14ef6fd5afc03ef7fa37fb19"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 489,
+      "sha256": "7390b62406306961406824e5e5b0459195f4ff4da9d5a29b6d0b07a9076bf2c5"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 295,
+      "sha256": "71f9fd7e6dd3dd5a0f735f7b196cb2e9e52b4ba8ef5dc5582f82e30bb0333cf4"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 311,
+      "sha256": "1857f45c59b4eb7cded7cce5ac0517e63eedae101ccecad4c32dc8d70e1e6bbe"
+    },
+    {
+      "path": "images/embedded/embedded-0013.svg",
+      "bytes": 376,
+      "sha256": "2ea927e432cf11794ddbcd3a34128eacad172a044e34f660c57fa95664cdbb5d"
+    },
+    {
+      "path": "images/embedded/embedded-0014.svg",
+      "bytes": 297,
+      "sha256": "26ff46b5b6ed51942d2f74481cc69f6e37de0f1d2a975c2fe6428549d2922c9b"
+    },
+    {
+      "path": "images/embedded/embedded-0015.svg",
+      "bytes": 294,
+      "sha256": "375504d9bb68d3e2d18b58b0f1fc29083b12faee182891f8f6fc005e240de62e"
+    },
+    {
+      "path": "images/embedded/embedded-0016.svg",
+      "bytes": 330,
+      "sha256": "69f4b97662305a7e57c72446597aaa6bd3573df84d52ddb9ff769eb509b37948"
+    },
+    {
+      "path": "images/embedded/embedded-0017.svg",
+      "bytes": 564,
+      "sha256": "49cb70e337eca26058d633d8f5684083cd849555197b21806003e7989195c6dd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 64016,
+      "sha256": "25324070e54319a97c965f72741363951cc2045ab7cec8d055916a0fb8df7a36"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "features",
+    "stats",
+    "how-it-works",
+    "testimonials",
+    "newsletter",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

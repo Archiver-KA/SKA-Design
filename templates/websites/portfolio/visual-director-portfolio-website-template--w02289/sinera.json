@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02289",
+  "title": "Visual Director Portfolio Website Template",
+  "summary": "A clean, minimal portfolio website template for visual directors, designers, and digital artists to showcase work, logos, and digital art online.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Minimal",
+    "Clean",
+    "Brand",
+    "Graphic Design",
+    "Technology",
+    "Large Type",
+    "Dark"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3388,
+      "sha256": "3825c6e074235a00db8ce7681685a88fd3753829479f14cda557629ea9296a47"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8140,
+      "sha256": "10f9f605c09e6f78bea04825cff7aa72cbe5a4f5939a97c0779e55e40cd3e6cd"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "3dd48fc92856c4152eba598e0fb6df5dedbdb1cd15d2a4071e9438b284511e2e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37185,
+      "sha256": "becc13b758a045300e2cf6924cccb735367f9c499672968400c8987e40e1fb7a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "gallery-portfolio",
+    "logo-cloud",
+    "3d-canvas",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

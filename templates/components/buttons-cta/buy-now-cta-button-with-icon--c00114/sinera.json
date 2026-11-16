@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00114",
+  "title": "Buy Now CTA Button with Icon",
+  "summary": "A rounded CTA button labeled “Buy Now” featuring a right-arrow icon. Uses Tailwind-style utility classes for hover scale, subtle glow shadow, and icon slide animation. Ideal for purchase, upgrade, or checkout actions in product and pricing interfaces.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "interactive",
+    "animated",
+    "ecommerce"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2218,
+      "sha256": "69b3c39312e9eb5cc99f7ca777ebc8705f55f29d5255e9e97ce616c07188b8fb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 746,
+      "sha256": "0530c29ebbcfab4e677af9547588a5ba31096d2209ac0e30e6bd7cdee12c189d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1595,
+      "sha256": "2975227bffc009338023f69f06ff787c957377fc1ed9326634f71cb58a539c73"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

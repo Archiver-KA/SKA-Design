@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01364",
+  "title": "Gradient Hero Layout with Apps Dock",
+  "summary": "Full-width hero section featuring a navbar, bold gradient headline, SVG ribbon background, feature blurbs, and a bottom floating dock of app icons. Built with Tailwind-style utility classes for landing pages or design tools.",
+  "tags": [
+    "hero",
+    "section",
+    "responsive",
+    "tailwind",
+    "landing",
+    "navigation",
+    "layout"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26692,
+      "sha256": "080601923257f8f95b50357b21faf32374a43d6f67eda91c540dbccd82aa9ace"
+    },
+    {
+      "path": "component.html",
+      "bytes": 25368,
+      "sha256": "f34e9922caaf0a942d3a7e7dee52a2d17689d868d78f1600816dd36a107407ad"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26224,
+      "sha256": "ba7432f104e5279358ff4cc811dc95ae6613483216a3ab423b380d0f774e5a82"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "SN-W04260",
+  "title": "Pricing Plan Cards with Aurora BG",
+  "summary": "Interactive pricing cards with monthly/annual toggle over a dynamic WebGL aurora background in dark mode.",
+  "tags": [
+    "Pricing",
+    "WebGL Background",
+    "Toggle Switch",
+    "Dark Mode",
+    "Tailwind CSS",
+    "Shader Animation"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3118,
+      "sha256": "bff9c3fa29d42dec9a7588de86e0e8dd00e7ef9ab801aa301152d3ebb24ae699"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16646,
+      "sha256": "cabf84413b122c745e2ee69426d55074fd94a310ba1cb1ea7809ee17024283f2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 727,
+      "sha256": "e243244559178283b4552ffde374fa71298024fc837e1252893afd2843333e3e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17318,
+      "sha256": "7d6d7a6c5a8a489691df7205fb33dc2fefb053a386698431d613deb868a53a28"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "pricing"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

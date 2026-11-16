@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01507",
+  "title": "WebGL Geometry Hero Section",
+  "summary": "A full-screen futuristic hero section with a responsive navigation bar, animated text reveals, and an interactive Three.js geometric mesh background. Built with Tailwind CSS, GSAP, and Iconify for immersive landing pages or product showcases.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "threejs",
+    "gsap",
+    "animated",
+    "interactive",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14312,
+      "sha256": "d8b457caf13390eab5229aa291e1020e2263779319c6a06fc1c59760ccce1327"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12768,
+      "sha256": "0e149e7676c3dbd23243f9eff09d8aa171150dd1ab07bc68c3ce2588e44f236d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

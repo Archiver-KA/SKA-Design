@@ -1,0 +1,38 @@
+{
+  "id": "SN-C02230",
+  "title": "Animated Neon Statistic Card",
+  "summary": "Dark-themed card showing a large metric with gradient text, animated dot accent, and radial-gradient background. Built with Tailwind utilities and inline styles, ideal for dashboards or hero sections to highlight downloads, users, or other key figures.",
+  "tags": [
+    "card",
+    "statistic",
+    "dashboard",
+    "animated",
+    "tailwind",
+    "gradient",
+    "metric",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2972,
+      "sha256": "4a174059c47cc3b4819afa6856f8c3d048071448636141a33fb8936d59193e4c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2694,
+      "sha256": "3d2acff4001df8bc85be7c017f7f5037ca39a1dacc38b461bb3f8610c68b1f0e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

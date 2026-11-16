@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01171",
+  "title": "Responsive Navigation Bar with Logo and Actions",
+  "summary": "A responsive top navigation bar featuring a logo, primary menu links, and right-aligned actions including Sign In and a highlighted Contact Sales button. Built with Tailwind-style utility classes, suitable for app or marketing site headers.",
+  "tags": [
+    "menu",
+    "navigation",
+    "header",
+    "responsive",
+    "tailwind",
+    "layout"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3664,
+      "sha256": "efac28aa1d74431451f0b5b1232448938ff662081d168d4348b51e87c4ca0ecd"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2861,
+      "sha256": "acb410254f8660803e19af6946a8cf56f93c956b247dda9465f0187463b74661"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3729,
+      "sha256": "fcd1b333339f625442ed6eeefb910df4225019571df0df3a8a11b604524f34c6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

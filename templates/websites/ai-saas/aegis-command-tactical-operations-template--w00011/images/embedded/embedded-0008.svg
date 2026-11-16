@@ -1,0 +1,21 @@
+<svg viewBox="0 0 240 240" className="radar__svg">
+              <circle cx="120" cy="120" r="110" className="radar__ring" />
+              <circle cx="120" cy="120" r="74" className="radar__ring" />
+              <circle cx="120" cy="120" r="38" className="radar__ring" />
+              <path d="M120 10v220M10 120h220" className="radar__axis" />
+              <text x="120" y="24" className="map__coord" textAnchor="middle">000</text>
+              <text x="226" y="124" className="map__coord">090</text>
+              <text x="120" y="234" className="map__coord" textAnchor="middle">180</text>
+              <text x="6" y="124" className="map__coord">270</text>
+              {/* sweep */}
+              <g transform={`rotate(${sweep} 120 120)`} className="radar__sweep-g">
+                <path d="M120 120 L120 12 A108 108 0 0 1 158 19 Z" className="radar__sweep" />
+              </g>
+              {/* blips */}
+              <circle cx="164" cy="86" r="3.5" className="radar__blip radar__blip--cyan" />
+              <circle cx="92" cy="152" r="3.5" className="radar__blip radar__blip--ok" />
+              <circle cx="146" cy="168" r="3.5" className="radar__blip radar__blip--ok" />
+              <circle cx="72" cy="76" r="3.5" className="radar__blip radar__blip--crit" />
+              <text x="172" y="82" className="map__id">RVN-04</text>
+              <text x="60" y="66" className="map__id map__id--crit">ECH-07</text>
+            </svg>

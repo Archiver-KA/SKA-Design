@@ -1,0 +1,67 @@
+{
+  "id": "SN-W00146",
+  "title": "AI SaaS Landing Page Template",
+  "summary": "A dark, futuristic AI SaaS landing page template with hero, interactive chat demo, pricing, and auth modals for showcasing artificial intelligence platforms.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "AI",
+    "Startup",
+    "SaaS"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3741,
+      "sha256": "45f650e25e94e1740d878a6a7c5d65ac577cdff84b036b02e2ca6a688bdc371a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15096,
+      "sha256": "5ef6c869c64508d61ef904d29412caade65cccd0e96665b4e7d7d4411e10d444"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "eac5ddf133f0e5f4505bf2a0a70bb1a8ba71c146341d6053ca4d342525b56c91"
+    },
+    {
+      "path": "index.html",
+      "bytes": 43213,
+      "sha256": "6e7a66f6ba58f14dd6cf3a59ff13f0a62ef5bfaa5713666b5c55bcabe57c3728"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "features",
+    "video-media",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "SN-W04116",
+  "title": "Tree Service Landing Page Template",
+  "summary": "A modern tree service landing page template for local arborists and home service businesses to showcase services, testimonials, and capture free estimate leads.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Home Services",
+    "Tree Care",
+    "Local Business"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3600,
+      "sha256": "1b2508ec332f49078d71af151978755448277881dbfa6311ccd1603a3906fbeb"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21710,
+      "sha256": "905e072e28c9f3fb7f5edb46daf55ffca6d49d38ac4e4fc1ab109a496a5cc06a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "7de71ca793ee30ad95fdd1be70a151141267f32f24a475f020a178d21a1fa642"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28876,
+      "sha256": "5ebd134ad04c203e18da41f7c4e30a2566fa3f3b088e467eb9d442707b21c470"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "about",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

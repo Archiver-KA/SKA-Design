@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01708",
+  "title": "Strategy and Branding Content Layout",
+  "summary": "Responsive UI showcasing strategic branding services with interactive cards and a dynamic 3D background effect.",
+  "tags": [
+    "Branding",
+    "Strategy",
+    "Responsive Layout",
+    "Tailwind CSS",
+    "Interactive Cards",
+    "3D Background",
+    "Web Design"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3087,
+      "sha256": "f0d247b2f1df4ab15fdec20d8bea5b59e5d0657590cc1f01af91f6239921fcc7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 33530,
+      "sha256": "901131d01c9ab543663d9541a9965b9fdd23d242392ed4168b4c79f8ce1ac0f3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 973,
+      "sha256": "ca0e76149f21dd06033506d23720587c9e140c9abc0c23178ca14baf2492154e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 348,
+      "sha256": "dea85ec626ec5961ccd89ff2c173efc2fddec00f6b66463c96a4e23f51fe5d08"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15481,
+      "sha256": "67ac035f359ac5459fdb3e336892e7dbeb72c05747717b27d04c4ddc19894cbc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

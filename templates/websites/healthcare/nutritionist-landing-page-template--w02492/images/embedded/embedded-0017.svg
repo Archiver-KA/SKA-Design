@@ -1,0 +1,28 @@
+<svg viewBox="0 0 560 140" preserveAspectRatio="none" id="chartSvg">
+                <defs>
+                  <linearGradient id="areaGrad" x1="0" y1="0" x2="0" y2="1">
+                    <stop offset="0%" stop-color="#FF5C1A" stop-opacity="0.25"/>
+                    <stop offset="100%" stop-color="#FF5C1A" stop-opacity="0"/>
+                  </linearGradient>
+                </defs>
+
+                <!-- Grid lines -->
+                <line x1="0" y1="20" x2="560" y2="20" class="chart-grid-line"/>
+                <line x1="0" y1="60" x2="560" y2="60" class="chart-grid-line"/>
+                <line x1="0" y1="100" x2="560" y2="100" class="chart-grid-line"/>
+
+                <!-- Y labels -->
+                <text x="0" y="18" font-family="DM Mono, monospace" font-size="9" fill="var(--text-muted)" text-anchor="start">120</text>
+                <text x="0" y="58" font-family="DM Mono, monospace" font-size="9" fill="var(--text-muted)" text-anchor="start">80</text>
+                <text x="0" y="98" font-family="DM Mono, monospace" font-size="9" fill="var(--text-muted)" text-anchor="start">40</text>
+
+                <!-- Resolved (area + line) -->
+                <path id="areaPath" class="chart-area-fill" d=""/>
+                <path id="linePath" class="chart-line" d=""/>
+
+                <!-- Escalated (dashed blue) -->
+                <path id="linePathBlue" class="chart-line chart-line-blue" d=""/>
+
+                <!-- Dots -->
+                <g id="dotsGroup"></g>
+              </svg>

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00005",
+  "title": "Animated About Us Stats & Logos Section",
+  "summary": "Full-width About Us section featuring animated badge, headline, stat grid, and trusted-by logo row. Built with Tailwind utility classes and scroll-triggered fade/slide animations, ideal for SaaS or creative studio landing pages.",
+  "tags": [
+    "feature",
+    "section",
+    "about",
+    "stats",
+    "logos",
+    "animated",
+    "responsive",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "about",
+  "categoryLabel": "About & team",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 36756,
+      "sha256": "9d6b946c6c99574c6c18cc4aa8e2febebf3ef1f69127ab7512f194c5e2512fac"
+    },
+    {
+      "path": "component.html",
+      "bytes": 21177,
+      "sha256": "bcd6e6af4bc80f0d4444610c9405aed7904dde7df3e383d6ee4f38acb280ce36"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22041,
+      "sha256": "d80baaa08d6153d08a4418005222fa188ca804f96247817f5ae213e8f51ef342"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

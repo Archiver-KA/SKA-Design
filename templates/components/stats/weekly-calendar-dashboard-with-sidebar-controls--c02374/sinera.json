@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02374",
+  "title": "Weekly Calendar Dashboard with Sidebar & Controls",
+  "summary": "Responsive Tailwind-styled calendar dashboard: week grid, mini month view, task list, AI suggestions, search, prev/next, workspace dropdown, avatar, and share/export actions. Dark glassmorphic look fits scheduling or productivity apps.",
+  "tags": [
+    "calendar",
+    "dashboard",
+    "tailwind",
+    "responsive",
+    "planner",
+    "dark",
+    "scheduling",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26624,
+      "sha256": "47fba8a7c6635d5b68fd630f03dd6e68df5a187caf01b397367428bbe4a263d3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 25308,
+      "sha256": "4361bba1e1b47841a6ac70224f8fb6f7eafa81e5fd9399037a4e6bc19052c752"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26312,
+      "sha256": "afc5acfc66eb029c1015c1f2f54d4618381a82ad357cf973265af38b4856aeb7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

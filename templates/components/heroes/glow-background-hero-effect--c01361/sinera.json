@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01361",
+  "title": "Glow Background Hero Effect",
+  "summary": "Full-width glow background component that embeds a UnicornStudio animated project with gradient masking and visual filters. Ideal for enhancing hero sections, landing pages, or headers with a dynamic, animated backdrop.",
+  "tags": [
+    "background",
+    "animated",
+    "responsive",
+    "css",
+    "integration"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2518,
+      "sha256": "986aec9b4d48b68c70b1fe1b95d6a65e0f0cb0af10aba231125ebf31f1593974"
+    },
+    {
+      "path": "component.html",
+      "bytes": 871,
+      "sha256": "6857ac99d3b9fda0f0d11d7308960749f65ed69a274ea5e021a12438c7fa8498"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1719,
+      "sha256": "0418c845daa136ca42ae30bc79b6dac62f3bf133d16f95d3ff32ab35af70e1a8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

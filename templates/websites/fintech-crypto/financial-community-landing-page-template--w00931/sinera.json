@@ -1,0 +1,63 @@
+{
+  "id": "SN-W00931",
+  "title": "Financial Community Landing Page Template",
+  "summary": "A clean and professional landing page template designed for private financial communities, advisory services, and exclusive membership groups.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Clean",
+    "Minimal",
+    "Membership"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3656,
+      "sha256": "9816a889d241f7ad188471f9fbea3adc5c9a0cb453604223041c6b06dbbb4e2f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12316,
+      "sha256": "4310e19537b5eba07fb4ec544be02f98499c3b18916540c03a81f0fc5ca2d1cf"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 727,
+      "sha256": "2451920a9508a75b53edd26874cfa2b404b5209fd1513eeccdc066e409c962db"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34267,
+      "sha256": "5e53a89c30159aee703d85c4ec57ee18b5879a9e960edf5dc8ef8dd2aa0e45c9"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "bento-grid",
+    "team",
+    "cta",
+    "features",
+    "testimonials"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

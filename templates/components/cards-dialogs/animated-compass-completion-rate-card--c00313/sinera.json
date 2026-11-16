@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00313",
+  "title": "Animated Compass Completion Rate Card",
+  "summary": "Dashboard metric card showcasing a rotating SVG compass gauge with percentage, status text, and sub-metrics. Uses Tailwind CSS, glassmorphism backdrop, and keyframe animations—ideal for displaying completion or progress stats in analytics panels.",
+  "tags": [
+    "card",
+    "dashboard",
+    "progress",
+    "gauge",
+    "animated",
+    "svg",
+    "tailwind",
+    "metric"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6396,
+      "sha256": "1728f8a1624b0b58ea9b4a81d79512b42e46ddac4220d7080e01d71cc8a0a09a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3491,
+      "sha256": "3571c118091b930e02bca4897feb9f9bdca07c86e0b1ba11e291c3c9706bf5f7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4349,
+      "sha256": "ff7be4870ab7ca8ec691fae8e3870c92b34ab3ce17e1e0c86ba7329db5326b46"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

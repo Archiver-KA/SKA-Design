@@ -1,0 +1,153 @@
+{
+  "id": "SN-W00227",
+  "title": "Northwind Unified Workspace Landing Page Template",
+  "summary": "A reusable landing page template designed to showcase a unified digital workspace with keyboard-first automation and integrations.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "Features",
+    "Pricing",
+    "Testimonials",
+    "Dark Mode",
+    "Automation",
+    "Integrations",
+    "API",
+    "Focus Mode"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3763,
+      "sha256": "f9f7b32a327a20c87439b813c14cd3b27fcd9102366059dde38573543903ea13"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19742,
+      "sha256": "a66e84c927434839e97d45d0ada38880a2728eb93ec4e1a29d437aa4223c6cb9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 4691,
+      "sha256": "59378176c4c2cc82cc5c957b13fe2f7dd0b298c03f95126a59de74a7fc83d3d3"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 235,
+      "sha256": "4c51bb01fcba7ee9881cf0c3041dbaad2b9ec958d2828752a96c230979f57ad7"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 172,
+      "sha256": "6da4511f1e522c4b87f9da89932d51fc467f0db55834f8162d2059e1f9f87e91"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 178,
+      "sha256": "c844bc64d47f59cda49f405ebaa589ba8e6c4c2505b9b8e37dfcb7a572b6141f"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 193,
+      "sha256": "8ceb986aa2218f56770a565a32daccf7132856c7352b77de109e5e2ad946f618"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 174,
+      "sha256": "e591e37732d6c9773001c6d1ae2a9194459f663feff2be541fa2ec722aa6ac4e"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 212,
+      "sha256": "ccd834158a5e51a32f272519d526e8b587600927c76bf8d3db8c5cd354eb4f79"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 580,
+      "sha256": "71de64d3758ade978440a381d249dee0375d49a829f065c8208b107007e524be"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 102,
+      "sha256": "a55e382cb9f9790d62f82d8eb061dac985e5709676ebce48d8ab2e9794a860ae"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 99,
+      "sha256": "7a38aa206a2ab52d7d308d1ae1642c8a731a28cf052cf4fd11f6cb454f360253"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 313,
+      "sha256": "93898e96cb28a364dfc505660dc626b0024f45e5714fe39537c2e9862fd9e3ca"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 186,
+      "sha256": "0c167146232077c30ed398e505aa40feb3dffbf069a831b9324979399ca0bbe8"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 346,
+      "sha256": "7388f900207ef7ededbb55d4354b552028ecd204680020092123563d8598748d"
+    },
+    {
+      "path": "images/embedded/embedded-0013.svg",
+      "bytes": 1169,
+      "sha256": "691fa9fe0ff1eff2518a9574832d59b3ee819e739e523e5443c31ea3968cfd65"
+    },
+    {
+      "path": "images/embedded/embedded-0014.svg",
+      "bytes": 170,
+      "sha256": "bde820a21cf8924aadb24bdba7b700627fc26d61644f3787510a047c66d59b37"
+    },
+    {
+      "path": "images/embedded/embedded-0015.svg",
+      "bytes": 655,
+      "sha256": "0a6235233886e79e8c688c7a0ad03bbc2058a374f49e06fcb375092b1a0c2e22"
+    },
+    {
+      "path": "images/embedded/embedded-0016.svg",
+      "bytes": 160,
+      "sha256": "76c8f1ac80bdcbd722b5b70c9d7928157adaad82be6d766290ff365295d6f984"
+    },
+    {
+      "path": "images/embedded/embedded-0017.svg",
+      "bytes": 205,
+      "sha256": "ba8b89cfc0b72f1dbc721dbff3e04935dea9a0ceab30e6e1dcc29bee928ad2f7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37183,
+      "sha256": "cc4cba25cbc6446858d1d380d7fbba5c9ab030f5ef2e4c155e657141e76ba65d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "marquee",
+    "features",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "SN-W00686",
+  "title": "SaaS Growth Platform Template",
+  "summary": "A high-converting auth-focused landing page template designed for social media SaaS tools and growth services.",
+  "tags": [
+    "Technology",
+    "Services",
+    "Landing Page",
+    "Gradient",
+    "Clean",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3634,
+      "sha256": "5c985da8b89a9af7dd3ff926527b90b98cd348aa96ddc845adbab284274e8f33"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17390,
+      "sha256": "1d57abbb3f1f2c6148c891dd202132c76ccfbb83c2188e95438424170acdfa3a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "23a0fa9f312a13a8d0263f74d609878d51acad7a2f45a1af046bb0b23c61338d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22669,
+      "sha256": "e19503d6bbdf9ef5c6a0ddcb842ff22149838037a3f97d30f27408a2283a245f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "auth-form"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

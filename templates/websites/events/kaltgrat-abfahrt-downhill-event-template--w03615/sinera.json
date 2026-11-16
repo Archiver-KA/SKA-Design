@@ -1,0 +1,73 @@
+{
+  "id": "SN-W03615",
+  "title": "Kaltgrat Abfahrt Downhill Event Template",
+  "summary": "A high-performance sports event template designed for downhill racing, featuring interactive maps, athlete start lists, and equipment specs.",
+  "tags": [
+    "Technology",
+    "Brand",
+    "Dark",
+    "Animated",
+    "Futuristic",
+    "Clean",
+    "Services",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2470,
+      "sha256": "40a8ab20eca866f969bb4083dc2c209c74ad660cbc3116e63b4a8e15a3d0b976"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9174,
+      "sha256": "cb8b67f678896a9aad5605084aacb521a1f0e16921845338df90ba28d272c57b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1065,
+      "sha256": "c7790a4322be84bff8e11ef9407e2072bc67d49686ad3a1283c67e126a229bdf"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 573,
+      "sha256": "393f8d82f1db9d81e3f0d6a3bd473b79fec78e411330a05e13f2fe3b80e8e949"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 152,
+      "sha256": "0dd254ef3b0a88e3b43e4eecc2e5ade210fdefe54415ce944a73de6566c92ccc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 69588,
+      "sha256": "71661f9fb8cbe5b7ca663d81516194c7fbf5d0c0663a8ae4d7001b9fbbfb11e4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "services",
+    "3d-canvas",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

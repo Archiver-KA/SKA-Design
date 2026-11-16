@@ -1,0 +1,70 @@
+{
+  "id": "SN-W03676",
+  "title": "Cinema Archive Interface Landing Page Template",
+  "summary": "A reusable landing page template designed to showcase a vintage cinema archive collection with interactive 3D carousel and detailed movie info.",
+  "tags": [
+    "Landing Page",
+    "Carousel",
+    "3D Effects",
+    "Vintage",
+    "Movie Archive",
+    "Interactive",
+    "Filter Navigation",
+    "Responsive",
+    "TailwindCSS",
+    "Animation"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3339,
+      "sha256": "713b07579122d5c5f6ddcb2693468c2a325fce7f799dd8136811b2ec2f7d4944"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4740,
+      "sha256": "be60fc280593639df06b720c85bdd0f033b70a23fc71017e88687c035d669b34"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 878,
+      "sha256": "3d2756b11dabfbdc42705b5e29af689dc3fb97017e6d116d8a74c28e125aa74f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 269,
+      "sha256": "eb37485557fc74c475a09c1e8cb5ff695f26c1aa4074ddae4e6619636f3221fd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20395,
+      "sha256": "7358b93c7dabadda8b33fd4d01cd12b67079ebb1aa7a0700ddb4c9c0b3d77c71"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "snippet",
+  "components": [
+    "hero",
+    "navbar",
+    "gallery-portfolio",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

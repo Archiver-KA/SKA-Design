@@ -1,0 +1,67 @@
+{
+  "id": "SN-W00735",
+  "title": "Startup Network Landing Page Template",
+  "summary": "A reusable landing page template for curated startup communities that connect founders, operators, investors, and early hires.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Social",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Animated",
+    "Community",
+    "startup network",
+    "membership"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3719,
+      "sha256": "20ab16adb9a69afa0cfccec42dee3bc1fdb55457cc9fe684362947ec27755df0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14708,
+      "sha256": "d63a038a0c3807276abc2d7b26f8bef54a13ab5c5f3b1cdac1e801229e4acb1d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 731,
+      "sha256": "e4a5cf566da87518d99fade19e6a7e278ca45179956963dc4b0f1a84d15a9927"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22300,
+      "sha256": "c467a5e9094fc178a14681a6a430bbb5190238d76cda90d8e2db9225a1b75cc6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "testimonials",
+    "how-it-works",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

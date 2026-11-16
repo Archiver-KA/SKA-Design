@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02062",
+  "title": "Pricing Section",
+  "summary": "Complete pricing section with billing toggle, three-tier pricing cards (Starter, Pro, Enterprise), feature lists, and clear CTAs. Includes monthly/yearly toggle.",
+  "tags": [
+    "pricing",
+    "plans",
+    "billing-toggle",
+    "feature-comparison",
+    "cta",
+    "enterprise"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 23012,
+      "sha256": "ffb709eae6628d7bae402025b3e7b3d760020e6d896c1c830202afea57297662"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11367,
+      "sha256": "e1a165bd1358da544fe016b89a071925fc2fc336f48bbbe59ae912d956992140"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12203,
+      "sha256": "3647d4a5478b0a96b2875a57ce51f64eff0e0d9f0a9eec793e35812a054b4394"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

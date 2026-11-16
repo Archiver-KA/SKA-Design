@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03090",
+  "title": "Luxury Hotel Landing Page Template",
+  "summary": "A premium luxury hotel landing page template for showcasing rooms, amenities, event facilities, and bookings for upscale hospitality brands.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Travel",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Hotel",
+    "Hospitality"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3580,
+      "sha256": "fc83768c272a39cc8c81eb51f32370af5ae8a2e29bc59491641eb6bff68a53b8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 33838,
+      "sha256": "0ee7b40eb80a880b610b5e8334e8abd65071cdfdb7aff5b598959d4cd3e17431"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "e5611ba4379edb5ba46a14dfc7a0157a16055c6f2798cd89e4ab7157e5a11b07"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32410,
+      "sha256": "35d846a9192e2a1245c61ec2d3493c2c66871ec126fb0242c4f0476fc0db1114"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "listings",
+    "bento-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

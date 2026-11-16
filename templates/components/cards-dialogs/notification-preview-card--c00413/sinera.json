@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00413",
+  "title": "Notification Preview Card",
+  "summary": "A glassmorphism-styled card displaying a phone notification preview with gradient background, icon, and content. Perfect for showcasing app features or notification systems.",
+  "tags": [
+    "notification",
+    "card",
+    "glassmorphism",
+    "gradient",
+    "mobile",
+    "preview",
+    "feature",
+    "showcase"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15516,
+      "sha256": "5b5887223c58f04d40c53836b88f28f41bd1009ce2427285d1b2d257e07e15e6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2559,
+      "sha256": "e67542aa5c355843d70f33c3c8c757f98aa8895c2d9ef79b8c85d8f8d8b0df10"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3405,
+      "sha256": "d427a2fd883ca0d7fabf136326b00e6b833967bca4bb0c020d8073e40648c394"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

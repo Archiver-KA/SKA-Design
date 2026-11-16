@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02009",
+  "title": "Animated Tailwind Pricing Plans Section",
+  "summary": "Responsive pricing section displaying Starter, Growth, and Enterprise cards with hover, fade, and scale animations, gradient highlight for popular plan, and CTA buttons. Ideal for SaaS or product landing pages using Tailwind CSS.",
+  "tags": [
+    "pricing",
+    "section",
+    "tailwind",
+    "responsive",
+    "animated",
+    "hover",
+    "cta",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15898,
+      "sha256": "93c0f45ce0ebd5ed39a072339e777e2a0afed162a0a64320f5b4723ade320c4b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10680,
+      "sha256": "785fc54a080a653750dd509f691ba15e63d2b3c77bb61e5ba7baeff7072544ba"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11670,
+      "sha256": "2498231df102767b908878b79b8b20e024d0eac3dcd025ba680a14f2ee8f9b25"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

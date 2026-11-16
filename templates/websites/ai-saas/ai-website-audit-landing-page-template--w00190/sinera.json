@@ -1,0 +1,72 @@
+{
+  "id": "SN-W00190",
+  "title": "AI Website Audit Landing Page Template",
+  "summary": "A reusable landing page template for AI-powered website audit tools that helps agencies and SaaS teams showcase instant SEO, performance, and UX analysis.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Animated",
+    "Clean",
+    "SEO",
+    "AI"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3736,
+      "sha256": "e0c48853a17e9d9eee4166d7b6fcc37424ac9f14dabff1ff7ad9a7ad255077e4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12938,
+      "sha256": "5c378d0430111c8d3cf7d4e1e3b782dc498e5326ee9ef69ed586e6f5e1966c04"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 872,
+      "sha256": "af54575c77503cdb142f9419df4c284bbd32c27b7970eac0fca770ee08ae1002"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "ec7f8106634cc1e6800f3419db098917d9e23efe4336d1a26af8c2bada9dbabf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34528,
+      "sha256": "d76294bd070cea85267bb812c310498caae523d27cc695d9c4bd12659e9192eb"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "benefits",
+    "bento-grid",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

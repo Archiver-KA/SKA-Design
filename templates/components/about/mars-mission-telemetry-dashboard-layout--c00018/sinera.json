@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00018",
+  "title": "Mars Mission Telemetry Dashboard Layout",
+  "summary": "Full-screen split layout with a mission telemetry sidebar and a scrollable main panel showing imagery and scientific logs. Styled with Tailwind-style utility classes and custom CSS, ideal for sci‑fi dashboards, data monitoring UIs, or narrative mission views.",
+  "tags": [
+    "ui",
+    "dashboard",
+    "layout",
+    "tailwind",
+    "responsive",
+    "data",
+    "sci-fi"
+  ],
+  "kind": "components",
+  "category": "about",
+  "categoryLabel": "About & team",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 29112,
+      "sha256": "0fa985aa1e7e461de7dd541872970a2e616291fcb61180feec72793275fce103"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9921,
+      "sha256": "f21ac8a3c55b873336b41cd2561aa7837ca865cfd0d1d3deee441a7fcb03ae3e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10781,
+      "sha256": "83bf133b76b44ec9bca3880c6fef1fceda384284d52dba383c887cb006d4ba76"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

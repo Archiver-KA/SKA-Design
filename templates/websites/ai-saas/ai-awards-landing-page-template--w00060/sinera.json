@@ -1,0 +1,70 @@
+{
+  "id": "SN-W00060",
+  "title": "AI Awards Landing Page Template",
+  "summary": "A reusable landing page template designed to showcase AI awards, featuring nomination phases, categories, and event highlights for AI communities.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "Categories",
+    "Awards",
+    "CTA",
+    "Nomination",
+    "Stats",
+    "3D Background",
+    "Scroll Animation",
+    "Dark Theme"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3549,
+      "sha256": "f94052ebe334ed5d440db2f273d3a474ea9bed8c437f3e5e64583e045543b197"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11112,
+      "sha256": "2c88e70ae64a4340ba05514b1e40bebe4c5d8adcf5d411c8082bcd8ad85b4f30"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 808,
+      "sha256": "71122a9e0ae643707f4b3aaecf19a2a5dd21124214fd0203b8f0284e23aefcf1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26486,
+      "sha256": "3e4c5d6253d832d6661dc86e127b2af9fb91d81178449b75a6be374ff74fa465"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "navbar",
+    "hero",
+    "awards-press",
+    "stats",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

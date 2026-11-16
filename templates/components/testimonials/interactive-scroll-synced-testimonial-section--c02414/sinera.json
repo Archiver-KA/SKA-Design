@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02414",
+  "title": "Interactive Scroll-Synced Testimonial Section",
+  "summary": "Full-width testimonial section with animated quotes and sticky avatar navigation. Uses IntersectionObserver to sync active testimonial with scroll, smooth scrolling on avatar click, and Tailwind-style utility classes. Ideal for showcasing client feedback.",
+  "tags": [
+    "testimonial",
+    "section",
+    "responsive",
+    "interactive",
+    "animated",
+    "scroll",
+    "avatar",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21104,
+      "sha256": "39c33a1b6a18b604480bbf53398d265fd1285c0a4cfa54e290b644090d223c3d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12265,
+      "sha256": "8420b756834c2c12d209d070125fe020019c16befe5d6b15b37cf4b7dc56dfa3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13131,
+      "sha256": "b11c804dfa3252cb56f85b886c30c3c4b90e8c3ae783587b7ce656ac5699af30"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

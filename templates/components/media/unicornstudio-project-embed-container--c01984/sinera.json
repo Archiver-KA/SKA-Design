@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01984",
+  "title": "UnicornStudio Project Embed Container",
+  "summary": "HTML snippet that embeds a UnicornStudio project by loading its SDK and initializing the experience within a fixed-size div. Ideal for integrating interactive UnicornStudio content into web pages or React apps.",
+  "tags": [
+    "embed",
+    "widget",
+    "unicornstudio",
+    "interactive",
+    "html",
+    "script",
+    "integration",
+    "background"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3972,
+      "sha256": "a9124165d04f7c86bdf9859b139e3b39b7bd9210c1bf0ad83f211bfa1cf149f2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 516,
+      "sha256": "770590d895abe730ea6e14e08455ff5df7df8948fa78fdc3644d68ab21746e58"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1374,
+      "sha256": "2a9b20ce3af7bc15a6a79c3eba16e1f9325107e93be5a20938d79b9ee17b5247"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

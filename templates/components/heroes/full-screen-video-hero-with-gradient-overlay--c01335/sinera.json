@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01335",
+  "title": "Full-Screen Video Hero with Gradient Overlay",
+  "summary": "A full-screen hero section with autoplay background video and bottom gradient overlay. Perfect for landing pages and immersive introductions.",
+  "tags": [
+    "hero",
+    "video",
+    "fullscreen",
+    "gradient",
+    "background"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 28896,
+      "sha256": "940c5c947ebb3567bd19ec8694797ce4524b0dbc52d082c88b82d81c37ac1227"
+    },
+    {
+      "path": "component.html",
+      "bytes": 553,
+      "sha256": "7e9ac765ef25d3c7f16ee4bb8bc75fed7e88d1d4568bddc35b3079c19aa18189"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1418,
+      "sha256": "748598cacc52add20e55e7ebcf6e3fa952800167ed11e11398c9475a764575e5"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

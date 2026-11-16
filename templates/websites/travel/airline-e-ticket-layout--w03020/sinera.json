@@ -1,0 +1,57 @@
+{
+  "id": "SN-W03020",
+  "title": "Airline E-Ticket Layout",
+  "summary": "HTML and Tailwind CSS code creating a digital airline e-ticket with flight details, passenger info, barcode, and styled vertical branding.",
+  "tags": [
+    "E-Ticket",
+    "Flight Details",
+    "Barcode",
+    "Tailwind CSS",
+    "Responsive Design",
+    "Vertical Text",
+    "Ticket UI"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2855,
+      "sha256": "638aab1e535b4a1635f854910f0ba87fae1cd50fc4942e0500b2c338e3f6b8d6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10394,
+      "sha256": "12f9691ce3dee38277510cea691f088d844a6f8a44d34afdf9d7a6551ac84d74"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 714,
+      "sha256": "d43af7c9b275715b52799b0b0e0f9ee987bb3bc724dd49e4622671ebff779d6e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5850,
+      "sha256": "62d6affd58a8844c6f4b03396c63d07cd4b0b0117823ec9cfa891120e8c46b2d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "snippet",
+  "components": [],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "cart-checkout",
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00074",
+  "title": "Animated Gradient CTA Button",
+  "summary": "A glossy, animated CTA button with spinning conic-gradient border, moving dot texture, hover glow, and arrow icon. Built with Tailwind-style utility classes and custom keyframes, ideal for prominent call-to-action placements.",
+  "tags": [
+    "button",
+    "cta",
+    "animated",
+    "gradient",
+    "hover",
+    "interactive",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2106,
+      "sha256": "d056b17fe6d5d2812303c07fae263f79dbaa820f2c4e579ec71cba7eb6284ca4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2830,
+      "sha256": "6fa67fd20fa763f2d25594a12309f3a573d1acac5db895643630a59d7e633de0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3679,
+      "sha256": "4bc6bc31f563dae5e6392a90f518ee9a025158b03c7d145d22ba8cc28be24d54"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02304",
+  "title": "Live Stream Dashboard with Stats Sidebar",
+  "summary": "Responsive Tailwind layout featuring a hero live video with play overlay, active observation list, real-time status badges, and observatory stats CTA. Ideal for streaming dashboards, media portals or monitoring panels.",
+  "tags": [
+    "dashboard",
+    "live stream",
+    "video",
+    "tailwind",
+    "responsive",
+    "overlay",
+    "stats",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 28448,
+      "sha256": "8fe8054913c5ea442617c01fd9bd4063559ed34c3221e0958fd1d29ac9a52d8a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10241,
+      "sha256": "e6098b7710fa5467f39fc8091018e5dd327092bf3d2a03dde689258e1958c33a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11232,
+      "sha256": "0c353d44758df37877b45ae3069eb93afa5f0d9ce352074521ea3e6e970c0dbb"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

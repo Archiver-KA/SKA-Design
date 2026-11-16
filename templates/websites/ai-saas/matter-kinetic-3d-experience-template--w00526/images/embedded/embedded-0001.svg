@@ -1,0 +1,9 @@
+<svg id="maskLayer" aria-hidden="true">
+  <defs>
+    <mask id="flatMask" maskUnits="userSpaceOnUse">
+      <rect width="100%" height="100%" fill="#000"></rect>
+      <text id="maskText" fill="#fff" text-anchor="middle" dominant-baseline="central">FEEL FLAT</text>
+    </mask>
+  </defs>
+  <rect id="maskFill" width="100%" height="100%" fill="#f3f2ee" mask="url(#flatMask)"></rect>
+</svg>

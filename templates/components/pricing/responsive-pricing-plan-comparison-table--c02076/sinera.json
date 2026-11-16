@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02076",
+  "title": "Responsive Pricing Plan Comparison Table",
+  "summary": "Tailwind-styled component displaying feature and price comparison for Solo, Team, and Enterprise plans. Includes monthly/yearly toggle, checkmark icons, and CTA buttons for contacting sales or downloading CSV—ideal for SaaS landing or pricing pages.",
+  "tags": [
+    "table",
+    "pricing",
+    "comparison",
+    "tailwind",
+    "responsive",
+    "saas",
+    "cta",
+    "feature-list"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20260,
+      "sha256": "ed70ed1c91dfcfe2299fa4661a0c08836043f4ccf33f6ca03e5e1c5ca80b0309"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8047,
+      "sha256": "1751fd6648e5c84e9d2ddf4cb021c2c967fb39a12c8dafee7683b6f2f04327a7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9038,
+      "sha256": "670bbb9bac54c5b7c370337c718ed5998b5b873938902dc288da3081bb3326ea"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

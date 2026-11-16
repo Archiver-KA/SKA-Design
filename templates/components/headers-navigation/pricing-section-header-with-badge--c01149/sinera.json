@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01149",
+  "title": "Pricing Section Header with Badge",
+  "summary": "Centered hero header for pricing pages featuring an icon badge, responsive headline, and supporting text. Uses Tailwind CSS utility classes, subtle glass background, and scalable typography. Ideal for section intros on SaaS or product pricing screens.",
+  "tags": [
+    "badge",
+    "pricing",
+    "tailwind",
+    "responsive",
+    "text",
+    "icon"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7408,
+      "sha256": "29449c2b5391d0bd502bab08dbc13bba27a003161f722b19eaca340542ef0c96"
+    },
+    {
+      "path": "component.html",
+      "bytes": 516,
+      "sha256": "f64e27b185d46833b546ef19f10c4b8b167bc2fa0803fa053f9c256bcae95143"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1370,
+      "sha256": "1e5e32a54479f85cc99272f0cee9bf3ba07c0271e5b2c2276f85fc9b155b3401"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01341",
+  "title": "Futuristic Bento Hero Section",
+  "summary": "A full-width hero section with a premium bento grid layout, animated headline reveal, interactive glassmorphism cards, and Three.js WebGL background/globe effects. Built with Tailwind CSS, GSAP, and Iconify for modern landing pages.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "bento",
+    "animated",
+    "webgl",
+    "glassmorphism",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 24714,
+      "sha256": "3b40672e20f13ee7bb60be5dba3ce50048f8cb5088e3f245f79a6210fbc720d7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21975,
+      "sha256": "2154476971cdc1065152b43ed59be3e9e2450abb8762999c3744d99fec868f87"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

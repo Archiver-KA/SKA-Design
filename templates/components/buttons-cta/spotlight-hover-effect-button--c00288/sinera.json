@@ -1,0 +1,40 @@
+{
+  "id": "SN-C00288",
+  "title": "Spotlight Hover Effect Button",
+  "summary": "Button with a spotlight beam hover effect using CSS variables for pointer position. Ideal for call-to-action elements needing a dynamic, attention-grabbing visual interaction.",
+  "tags": [
+    "button",
+    "interactive",
+    "animated",
+    "css"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2204,
+      "sha256": "8fda6c2c7d4fe16d647c54f85b28f7fef78aeb0310b3d083856eae824f051ec4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1578,
+      "sha256": "1c082b98547c67745f7900d6553cd62dd9e2566e608c4598c04aa2611e87019a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2428,
+      "sha256": "b0e4048af90297d13880a99162ea0f56fd2ec5798f0182cfe44cf0dd98e8755d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

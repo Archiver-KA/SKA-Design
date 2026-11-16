@@ -1,0 +1,132 @@
+{
+  "id": "SN-W04177",
+  "title": "Content Platform with Story Focus",
+  "summary": "Responsive content platform featuring hero section, featured authors, navigation, and animated UI using Tailwind CSS.",
+  "tags": [
+    "Hero",
+    "Featured Authors",
+    "Navigation",
+    "Tailwind CSS",
+    "Responsive",
+    "Animation",
+    "Glassmorphism"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3311,
+      "sha256": "7fd3602b41722812f0a67c7e77c6828555c6861b914ddee7232c9a2cea4b3b15"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 25916,
+      "sha256": "46b3c132140af061a75128138cc65ee1220715e16a0524d7e0025b4c79fe806b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 3993,
+      "sha256": "a2713a38e19f8105c6d2f692e545a2081ef2649b68664f2d471d4fc733e3d571"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 397,
+      "sha256": "4a8cfc6dd223c883de6fd489cb64be3e6940e8326112813cdfd19e7327d01e8e"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 619,
+      "sha256": "be6f4bcf0e668c4cf166dd27ba014ff2edfac7b236fab2d98131622569336f96"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 443,
+      "sha256": "600a657ba5a66d77242dace070af9344b4dcbe32599a6ef1cb053fcd62dffb23"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 364,
+      "sha256": "b9c54febf6530840e8bc9b97baeec2eccfa7547707fb66297efee7abe98dedb7"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 422,
+      "sha256": "5984928181bbceee21d64f0914933a08ab8c6fccef3901fbfc978a99b0fae557"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 449,
+      "sha256": "8cc711800b756b47d2fcf95cd78669de208afe7152b7e9c063d869d5a9b7fa03"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 636,
+      "sha256": "597ade4e67c21442b6eadf94f780cc342df51a250648e738edd74123c5eaf7ee"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 385,
+      "sha256": "863e2f04aa96f4e99cbb3f132ae74e9f2968ccfd5aba0a58d5e7ffff6418b863"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 606,
+      "sha256": "0a0192c635bd776331a043e387def3b7cfe3b403f11397b6ee01ebe23ad15513"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 412,
+      "sha256": "37d86b03e9ed87b929845563f7789062547e5aa2e1298efd9b44fe156f6e0ba1"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 310,
+      "sha256": "9617bae5857e81ebcb1b63d9ab827bd5a04e4826771e7caa4cba7dcacdd08d89"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 282,
+      "sha256": "be5830d93d026bdd6b9380751056d8cb0ab02cf8e87217ce79ff4ae2a19c07d2"
+    },
+    {
+      "path": "images/embedded/embedded-0013.svg",
+      "bytes": 610,
+      "sha256": "9c7e1630408c57c6f68613efcd8ae0441dffa5bb5b87474c480fad91f9d9b0eb"
+    },
+    {
+      "path": "images/embedded/embedded-0014.svg",
+      "bytes": 625,
+      "sha256": "c6aae4f2521b73ae1794ec409232e0d4db5eddfd3a88778309f2b6c3c3aa5916"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33533,
+      "sha256": "f66397df819afcd92f590451eb876c5c0f2b9aa0ee970a24c3e36d43fb443b74"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

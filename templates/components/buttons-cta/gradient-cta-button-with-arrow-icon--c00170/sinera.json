@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00170",
+  "title": "Gradient CTA Button with Arrow Icon",
+  "summary": "A rounded Tailwind-styled call-to-action button with gradient text, subtle hover shadow, and an arrow icon that shifts on hover. Ideal for signup, membership, or primary action prompts like joining a club or program.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "interactive",
+    "animated",
+    "gradient"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2668,
+      "sha256": "882b3c4af50d2647200b5aa0e667220b2317f37c59ffd2f7e50fd00686e22b83"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1011,
+      "sha256": "26b850713f1c48a5dd4c06f2f88a4d8736c3a9793e2eb140ef7cba90fd22ecc9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1997,
+      "sha256": "585c191ebbcced291c7f67ad65ea7f6228c2045ebf03733e8a0f6829fc480bbc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "SN-W03147",
+  "title": "Travel Education Landing Page Template",
+  "summary": "A reusable landing page template for travel agent education, recruitment, and career programs with training highlights, testimonials, and conversion-focused CTAs.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Education",
+    "Services",
+    "Dark",
+    "Clean",
+    "Large Type",
+    "recruitment",
+    "training",
+    "careers"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3367,
+      "sha256": "0e5609665b5b8508e721db22418303ce1cac8fb4ae7eb16d55c0623dd3d07edc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 31488,
+      "sha256": "1d1f0d184877de16b20838c446ddeafe3fee36f59ff30f3340b15091c6249925"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "80a51d994c9780c7f9da1d13dfd0f8abac8eff275aeef4f63e7419531420adde"
+    },
+    {
+      "path": "index.html",
+      "bytes": 44746,
+      "sha256": "3b1f1e65a1915f02f6411ec6b6c060f27e2220fd8d6bae97ebb1c7ee81922d57"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "stats",
+    "timeline",
+    "case-studies",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

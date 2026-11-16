@@ -1,0 +1,39 @@
+{
+  "id": "SN-C02307",
+  "title": "Marketing Analytics Dashboard with Chart.js",
+  "summary": "Interactive marketing analytics dashboard featuring tabbed views, date range selector, live KPI stats, channel legend, and animated Chart.js bar chart. Tailwind CSS glassmorphic styling for responsive traffic and campaign insights.",
+  "tags": [
+    "dashboard",
+    "analytics",
+    "chart",
+    "chart.js",
+    "tailwind",
+    "interactive",
+    "responsive",
+    "stats",
+    "tabs"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20366,
+      "sha256": "9add7d76edb830f529b5235a7d71f79c5d0f8c25d9ea8837eea5d9e4b42a0730"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35843,
+      "sha256": "118120bc980f11a8e4debe8e5fb994e038b287a8bdf4edce500d944ddd70824c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

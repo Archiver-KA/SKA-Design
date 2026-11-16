@@ -1,0 +1,15 @@
+<svg class="absolute w-[380px] h-[380px] sm:w-[620px] sm:h-[620px] max-w-[92vw] max-h-[92vw]" viewBox="0 0 620 620" fill="none">
+          <circle cx="310" cy="310" r="238" stroke="rgba(0,0,0,0.22)" stroke-width="1"></circle>
+          <circle cx="310" cy="310" r="238" stroke="rgba(255,255,255,0.28)" stroke-width="1" stroke-dasharray="6 10">
+          </circle>
+          <circle class="approach-progress" cx="310" cy="310" r="238" stroke="#ffffff" stroke-width="3" stroke-linecap="round" transform="rotate(-90 310 310)" style="stroke-dashoffset: 986;"></circle>
+          <circle cx="310" cy="72" r="7" fill="#000000"></circle>
+          <circle cx="516" cy="429" r="7" fill="#000000"></circle>
+          <circle cx="104" cy="429" r="7" fill="#000000"></circle>
+          <g transform="translate(310,310)">
+            <g class="approach-dot">
+              <circle cx="0" cy="-238" r="10" fill="#000000"></circle>
+              <circle cx="0" cy="-238" r="20" fill="rgba(0,0,0,0.18)"></circle>
+            </g>
+          </g>
+        </svg>

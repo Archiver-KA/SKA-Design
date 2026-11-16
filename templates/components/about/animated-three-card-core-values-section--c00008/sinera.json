@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00008",
+  "title": "Animated Three-Card Core Values Section",
+  "summary": "Responsive marketing section showcasing three core values in animated cards. Features slide-in effects, radial patterned background, gradient edge flares, and Tailwind CSS utilities. Ideal for landing pages, about sections, or feature highlights.",
+  "tags": [
+    "section",
+    "grid",
+    "tailwind",
+    "animated",
+    "responsive",
+    "marketing",
+    "features"
+  ],
+  "kind": "components",
+  "category": "about",
+  "categoryLabel": "About & team",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21464,
+      "sha256": "bc48940ed191d0c3c14c709053a5f923c7a58baf15af5314fd3772464d7f0e22"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8185,
+      "sha256": "2c5996ea4d322abca940bf61f8c7352cbb7d4c0352f43f3af5f44488aa9f97be"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9175,
+      "sha256": "e7bc938bf91bc933ed9bea093e371ae33938a977e2d41782d88921594143867b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "SN-C00582",
+  "title": "Interactive 3D Topology Color Grid",
+  "summary": "A full-screen experimental UI section featuring layered color cards on a tilted 3D topology plane with GSAP text reveals, hover-based depth extrusion, and a Three.js animated wireframe background. Built with Tailwind CSS for immersive portfolio or design showcase use.",
+  "tags": [
+    "ui",
+    "tailwind",
+    "threejs",
+    "gsap",
+    "interactive",
+    "animated",
+    "fullscreen",
+    "3d",
+    "cards",
+    "section"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 17338,
+      "sha256": "6015cdace9539db50ea25093d249f566c0d792e77173a96df87dd39b95d43aad"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16402,
+      "sha256": "3a72f13ba9a8e0a48ac585feae7ff26bb5f75e4d4b6de30fdb7247bf9b8e6bb1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

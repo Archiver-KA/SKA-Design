@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00645",
+  "title": "AI Feature Grid with Animated Benefit Cards",
+  "summary": "Responsive Tailwind-based grid of six animated feature cards highlighting AI capabilities. Each card combines an icon, title, description, and distinctive visual illustration with hover effects, ideal for product or platform benefits sections.",
+  "tags": [
+    "feature",
+    "section",
+    "grid",
+    "tailwind",
+    "animated",
+    "responsive",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21060,
+      "sha256": "98c764bb54c5c98d63e26d98b3e35b9eded2f829260fb9c9131a43947eed539f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 19768,
+      "sha256": "6a0bb20d8ecf3550d23be3cf023d520076e1aa63adc36f2522597d966275875b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20981,
+      "sha256": "ce033e9bf36b3bc3355f67fe3f2db085a6b220e8e212af02941bb2bae78f17a8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "SN-W01082",
+  "title": "Aphoria Beauty E-commerce Product Page Template",
+  "summary": "A refined e-commerce template for beauty brands, showcasing premium skincare products with rich imagery, reviews, and cart-ready product details.",
+  "tags": [
+    "E-commerce",
+    "Beauty",
+    "Skincare",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3283,
+      "sha256": "d7361b18d618ccf21d1eed4eb2ff11d06117a851ac4e013da2a5add40148fffa"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12816,
+      "sha256": "97858b1f1bd79c4dffefec3995f785b5f46ab3c317aac4195a869b2d50ff7c0f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 737,
+      "sha256": "0ee0dab70a992244b0dd8132af947c33e257fd58ba3af8a3406192c312a949ec"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29325,
+      "sha256": "2cd7a0b4a15c13063b29722cc6fb56abab6d8c91009fc3083c1fb5ea9482452b"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "logo-cloud",
+    "navbar",
+    "hero",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

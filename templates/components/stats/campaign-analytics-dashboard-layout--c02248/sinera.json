@@ -1,0 +1,46 @@
+{
+  "id": "SN-C02248",
+  "title": "Campaign Analytics Dashboard Layout",
+  "summary": "Responsive three-column dashboard with campaign list, key metrics, bar chart, and settings panel. Uses Tailwind CSS, scroll animation, filters, and widgets—ideal for SaaS admin or marketing platforms managing campaign analytics.",
+  "tags": [
+    "dashboard",
+    "analytics",
+    "tailwind",
+    "responsive",
+    "admin",
+    "campaign",
+    "chart",
+    "interactive",
+    "section",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15908,
+      "sha256": "7a48efd7dcdf6f65963a1d22242a91ab73ccb8166c44280f3c16032faa5f635e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 35870,
+      "sha256": "3b925fde01a9566a08eff12a65651c6b04722545b662c9267b32db7d67ebe85e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36726,
+      "sha256": "6a7ca286d9ff5c53609803339220bdb2d6f3465a25aa5e1e6f4d4758fd69e819"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

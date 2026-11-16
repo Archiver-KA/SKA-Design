@@ -1,0 +1,109 @@
+{
+  "id": "SN-W01494",
+  "title": "Creative Studio Landing Page Template",
+  "summary": "Premium dark-mode landing page template for a cinematic creative studio or strategic production partner, ready to customize for your own brand.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Art & Design",
+    "Portfolio",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3710,
+      "sha256": "e5c73ac3d80562c8795439fd2a8d272f418025a9ee0db45b63c4aa31cb37f70a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11908,
+      "sha256": "b25085a0ee9071635f0d5a43c2bf719b0d4aad74914ca0f4ded3c4e5ca8b56a2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2149,
+      "sha256": "ddb030f18d2617b83586d6921475d19339befd2e12897d58603d6381a378a09f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1343,
+      "sha256": "36b1d7c8f18652773f1b9e565a271efb7a7af194c81aa5679abdb78b83becd6b"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 269,
+      "sha256": "5122705810d37eba569eb351fe30cbdfa0e79e247b1373dbd9dd4c7423fa8ac4"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 414,
+      "sha256": "0eca2fd570084a3bf5a209ddbe434d31532c7b1009f5ff9693972b6a70b6d53d"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 246,
+      "sha256": "f4836164eccc3724940acafc057171eb5cbfbaf7d1476eba78bae3a0d038e29f"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 401,
+      "sha256": "2c2b0f06bb60800e59cbf94b285efab50c3d4920033704dc8104064513d042bc"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 381,
+      "sha256": "94b20bab1b0654c821d282f8eeb05081e216806cfce348c072353e079c35f5c5"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 150,
+      "sha256": "d55bb55288c1d1b3585ad94e01ca194d1741871e7bf5f3a1321c0c65760a553e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 90619,
+      "sha256": "790b7ee9ef568f87eae06842fe1b2533587d49f0f340a0bb6953db03364e87be"
+    },
+    {
+      "path": "sinera-fx-filter.js",
+      "bytes": 20821,
+      "sha256": "6b5f074b7d846e3a404deda089c33986eb540d0c5cd8c1c0730e314b4c68c287"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "video-media",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

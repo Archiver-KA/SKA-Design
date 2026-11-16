@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01587",
+  "title": "Responsive Portfolio Work Grid with Hover Cards",
+  "summary": "Tailwind-styled section showing 'Recent Work' with 3 image cards in a responsive grid. Each card features category icon, title, description, hover zoom effect, and gradient overlay. Ideal for portfolio or agency sites with a view-all link.",
+  "tags": [
+    "portfolio",
+    "card",
+    "grid",
+    "tailwind",
+    "responsive",
+    "hover",
+    "gallery",
+    "image"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 32194,
+      "sha256": "bd5cd4755ece5008c47510a839aa2a76aebd870bc067ab12aceabee6f1d89932"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6875,
+      "sha256": "11a2cada5f709ed1adccd4c54cea7d168fedaffd0e409654f9aff15efd3b39b1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7873,
+      "sha256": "2c3be6db65e02fdbb489834adb1410c98042d4a7e4f1321ee843acbf4bc3a452"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

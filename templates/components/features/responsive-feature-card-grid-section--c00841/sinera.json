@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00841",
+  "title": "Responsive Feature Card Grid Section",
+  "summary": "Section showcasing up to four feature cards with icons, headings, copy and CTA links. Uses Tailwind CSS, responsive grid, hover effects and subtle ring backgrounds—ideal for landing pages or product highlights.",
+  "tags": [
+    "feature",
+    "card",
+    "grid",
+    "section",
+    "tailwind",
+    "responsive",
+    "icon",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21570,
+      "sha256": "2f0217010e0809c994a0d8cade0449dfc3959d087ce0a55810119b9257347f57"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7389,
+      "sha256": "af8637ff4722e0cdcd6c008c8845d5cfed128262523fa0320872e06cb67bf2bb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8376,
+      "sha256": "957bf152f4dd51d4fe8366c29883fc4ba0244d0fdffc50a1dd2dd6ba23bd20a9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

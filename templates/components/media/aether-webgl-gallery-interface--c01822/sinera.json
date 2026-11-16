@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01822",
+  "title": "Aether WebGL Gallery Interface",
+  "summary": "Full-screen sci-fi interface with Three.js grayscale image carousel, animated sector readouts, system stats, and loading overlay. Uses custom grid layout and mono typography for immersive gallery or landing experiences.",
+  "tags": [
+    "ui",
+    "interactive",
+    "webgl",
+    "threejs",
+    "animated",
+    "fullscreen",
+    "dashboard"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12274,
+      "sha256": "943fcffd3918c464433c7e9aa5d7f2de83e5fe578072aa9cf31f68f85d165989"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7342,
+      "sha256": "49fdf2b909071a570fcdc9042f7454ee633fa550ec0acc9c04179a8a0b3d87d2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8193,
+      "sha256": "860e616ebbf9d479d4c5a1dac8835debab7d90f668d19b5a3839cf2996b83f9f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

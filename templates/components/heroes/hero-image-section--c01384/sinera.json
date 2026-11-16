@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01384",
+  "title": "Hero Image Section",
+  "summary": "Full-width responsive hero image section with centered layout, rounded corners, and shadow. Perfect for showcasing featured content or header images.",
+  "tags": [
+    "hero",
+    "image",
+    "responsive",
+    "centered",
+    "modern",
+    "shadow",
+    "rounded"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 32104,
+      "sha256": "7e5f4aae67fab15448a480a1a116183969956a5b8047547bf7c598fa49bbca85"
+    },
+    {
+      "path": "component.html",
+      "bytes": 288,
+      "sha256": "a6c8201f623810286ce35fe81bbae38ad15d4c0acd91e88f3f28ead1a1162cf1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1127,
+      "sha256": "a1908988a751c403bdd506836b9bf2372ada272cebd026ca0d97e86f8a11488e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

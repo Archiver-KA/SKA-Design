@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02058",
+  "title": "Price section for 3 different tiers",
+  "summary": "Pricing section for 3 different subscription tiers together with a full table explaining differences between them.",
+  "tags": [
+    "price",
+    "section",
+    "table",
+    "pricing",
+    "plan",
+    "subscription"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16704,
+      "sha256": "7774fbebf58ff97a995f00b8297456c397e9e79290ef40c2f429c3470ae89d5d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 22394,
+      "sha256": "85263accbc8668c24a4896a1ed5c1f02b7aff21bb170043bf6c4f47302859138"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23250,
+      "sha256": "effd278d0644d05e7da07f1c592d2a1a960d20b74e384ebafad1c83de34baf81"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

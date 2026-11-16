@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00019",
+  "title": "Mission Statement Section with Image",
+  "summary": "Responsive Tailwind CSS section featuring mission headline, supporting text, and a full-width image. Ideal for about pages or company overviews to communicate values with impactful typography and visuals.",
+  "tags": [
+    "section",
+    "about",
+    "hero",
+    "tailwind",
+    "responsive",
+    "image",
+    "content",
+    "typography"
+  ],
+  "kind": "components",
+  "category": "about",
+  "categoryLabel": "About & team",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 33806,
+      "sha256": "4a13a556cb0bf401f12a1bcc813ad7b70934bc623775ed9a5c46648962b041c3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1320,
+      "sha256": "3d2a71ae65a7dd4e422fa22c8b569c968cd78f7eba59066100f721099f3ed898"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2177,
+      "sha256": "2a9f20bea2d2507c6700584ad568873a8aef8591b67bea082dd7d5efc9d9e1d0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "SN-W03752",
+  "title": "Voice Artist Landing Page Template",
+  "summary": "A cinematic landing page template for voice actors and studios to showcase demo reels, AI voice experiences, testimonials, and booking CTAs.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Portfolio",
+    "Dark",
+    "Animated",
+    "Gradient",
+    "Technology",
+    "Entertainment",
+    "voice actor",
+    "audio demo"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3681,
+      "sha256": "74263e4e78a0c81cd6c769c10b2e5524eb5dba6af9951508054f4df80a8f7985"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9520,
+      "sha256": "6dcf7ec8473e362fcabc80acda22ecdad2316a10a15b24c54d32f7bc42f4289e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 866,
+      "sha256": "1f5724d3b8a49f891b4130969be17f00831e8c408f875aa1119f7f35165d8b97"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "845a8c33647082b21c3db87d511ee26caa07aa7a2c9bf6b015aad47a996ab97f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 44202,
+      "sha256": "a98e1d8c85bd5c3771b0aaf695346883235a8bef669de1b052704ff8326fdd43"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "video-media",
+    "services",
+    "timeline",
+    "testimonials",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

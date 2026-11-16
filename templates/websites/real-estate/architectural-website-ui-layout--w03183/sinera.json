@@ -1,0 +1,219 @@
+{
+  "id": "SN-W03183",
+  "title": "Architectural Website UI Layout",
+  "summary": "HTML layout with Tailwind CSS for a smooth-scrolling architectural website featuring glass effects, animations, and multiple font integrations.",
+  "tags": [
+    "Architecture",
+    "Tailwind CSS",
+    "Animations",
+    "Glassmorphism",
+    "Typography",
+    "Parallax"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3628,
+      "sha256": "96633c24ca3ada9e862501aad35d511b874fa06bcf2d500efbc1396deb7da375"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20204,
+      "sha256": "6f9b4d996e333f7a6868543729cd03ccfe909b75f4e16b95fda6cfbc6782658e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 7358,
+      "sha256": "b19ef01a4701c54425aaac58193326f0788b9b44a0e9f846b937bd969fad5e58"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 650,
+      "sha256": "6ed357531c8e901373503cbb56a997d517cd65155af11e8189791b1e0939472c"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 401,
+      "sha256": "24104f9c65d8529a2fad785f835c1ff99a8a90c8d199a6e7b00b3739816d750e"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 339,
+      "sha256": "26a1b4884ebc2eddf8332eedfb5fe8b272852998806644a02c7d92d6f4691fb5"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 345,
+      "sha256": "b7f780e90cdfe7312cd5c5aca8230e2971eabdf8e3b14f9e35269d2adadbf54b"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 424,
+      "sha256": "d9396c65d19f06aa1d240bd2bbbde32218e904a7b34ce07d22eb98400fb2aaee"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 406,
+      "sha256": "3daad3ceecf33e869059fc2ed05cbc66156161b4f314c38691fe06307c247058"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 359,
+      "sha256": "a41e7f3bdd033586845b24409cd429e4de609f15ea55f98b7aeddb8383e21ccd"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 442,
+      "sha256": "227ff9aa8547ad3ea2b8fee269d3542184d597bc7b9c1ae91baec30d1feb21b0"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 383,
+      "sha256": "bbacf32fb826abb3ee8889c2badf858e588f6c9209bced6c00e3e3d9af80af8d"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 432,
+      "sha256": "283d81b91a2502cc6d8cf167e8237476d449b8fc30a1ce303d70d97873ad5fae"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 375,
+      "sha256": "84d0c3cb0b8fe75e08cb5553b92c025db1c473095f9304768144dbf97a42f24d"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 423,
+      "sha256": "0dfeeef1c0041e36bc9700a6dbd5147940091d7572131ec42579f4fe402831d2"
+    },
+    {
+      "path": "images/embedded/embedded-0013.svg",
+      "bytes": 567,
+      "sha256": "95599b5646eaa5912484c0ff69b0473961e512191240fdae732a9e597380449c"
+    },
+    {
+      "path": "images/embedded/embedded-0014.svg",
+      "bytes": 312,
+      "sha256": "56c16e22a35aaacb1c90c483799ae950ea4fb2835953d4d956c742922144ffe9"
+    },
+    {
+      "path": "images/embedded/embedded-0015.svg",
+      "bytes": 386,
+      "sha256": "b1584a9fa178efa2b9e22aba918c4a7c71212bf0110c8854bfffbd65e13848bc"
+    },
+    {
+      "path": "images/embedded/embedded-0016.svg",
+      "bytes": 454,
+      "sha256": "7d8d68db4b770ee285d435c54abffde04f2c8a4faeaf656c3b9b4365a152b07d"
+    },
+    {
+      "path": "images/embedded/embedded-0017.svg",
+      "bytes": 558,
+      "sha256": "3c8cd2b656d9c1cd4e5c41717fb599655ba900e025ae0d9c684d49ad52c8684e"
+    },
+    {
+      "path": "images/embedded/embedded-0018.svg",
+      "bytes": 386,
+      "sha256": "e3fadbf8918c64c7b2694a8e53b6ad7b59dbf1c103ea4521869a5889c9f1a458"
+    },
+    {
+      "path": "images/embedded/embedded-0019.svg",
+      "bytes": 455,
+      "sha256": "bc5d4bec3e9c8acb5b8ed2cfe10e533d3f0a00eb785279a70189778ac1a1ff8e"
+    },
+    {
+      "path": "images/embedded/embedded-0020.svg",
+      "bytes": 679,
+      "sha256": "575f044c0401e90a6e0a7f8fb5aa5f7acab2f7b39b105f652e3b5f861ba50784"
+    },
+    {
+      "path": "images/embedded/embedded-0021.svg",
+      "bytes": 679,
+      "sha256": "d09024759862bf8deccb0b1bd049d83e578bcdd8660b83ff802933485484be1e"
+    },
+    {
+      "path": "images/embedded/embedded-0022.svg",
+      "bytes": 455,
+      "sha256": "437e1d02be7de8b4b3dfaf28b28fcc7e3e1ec3072dc3a273f2f13a7b891d5a78"
+    },
+    {
+      "path": "images/embedded/embedded-0023.svg",
+      "bytes": 433,
+      "sha256": "caa91a7bfcac4e9f0b698cde4b0a337b1325094d997b4c1baa6aa1473f34cff2"
+    },
+    {
+      "path": "images/embedded/embedded-0024.svg",
+      "bytes": 429,
+      "sha256": "a5ed3ea8f1cd1d90ccef70c8a8c2f39ba5de2d0f3aaa4a2087c4d015fb6b28a8"
+    },
+    {
+      "path": "images/embedded/embedded-0025.svg",
+      "bytes": 515,
+      "sha256": "e34602e836e8084734399134192e67eb88af3a4ad4bc8fcddd6ff23bf9363a4b"
+    },
+    {
+      "path": "images/embedded/embedded-0026.svg",
+      "bytes": 395,
+      "sha256": "165e669a2a2c823972d1fe4af4073e0ee3b705a5f4eb4d1b03169fbddb4c31a9"
+    },
+    {
+      "path": "images/embedded/embedded-0027.svg",
+      "bytes": 447,
+      "sha256": "fa11f819a2a3023a7ab75845446fe5a9e83aeb56aae0c300d1ea8d0012817964"
+    },
+    {
+      "path": "images/embedded/embedded-0028.svg",
+      "bytes": 674,
+      "sha256": "16e76f5814de6b7107c2dd4254e99e7deada3dabc0fe90c54d2761fc569467e0"
+    },
+    {
+      "path": "images/embedded/embedded-0029.svg",
+      "bytes": 427,
+      "sha256": "9f69441a18555fc92f550fc4c4513b707f8f7b4869813ebb6abadaff67a8e64d"
+    },
+    {
+      "path": "images/embedded/embedded-0030.svg",
+      "bytes": 457,
+      "sha256": "fa9966e2d7cebfe612bcb7d78e3e6a9c474b57db93d0d419fc76e8d562607045"
+    },
+    {
+      "path": "images/embedded/embedded-0031.svg",
+      "bytes": 456,
+      "sha256": "dd02eb72914e08a5e97cbc59d27cd69ed27517d914e0cebeccc0ee14b9941ff0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 69404,
+      "sha256": "49ae27ba37ab0ed685d57f04c5493d5645a4075ff5d3bc68f8f719259103fcb8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "about",
+    "case-studies",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

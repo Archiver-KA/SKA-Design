@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01285",
+  "title": "Aurelia Systems Industrial Hero Shell",
+  "summary": "A high-contrast skeuomorphic hero section featuring a WebGL plasma background, GSAP-powered text reveals, and tactile industrial UI components. Perfect for advanced technical frameworks, hardware telemetry, or futuristic system dashboards.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "webgl",
+    "gsap",
+    "skeuomorphic",
+    "industrial",
+    "animated"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13800,
+      "sha256": "b61ba1c862be609d4c6587b297078680984848d3ddaea41ecbfdbe52925ba5e9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23690,
+      "sha256": "565cd01c79a46a1afe4ba86479e778b4e5c81af37772842b6981909dea217d4c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

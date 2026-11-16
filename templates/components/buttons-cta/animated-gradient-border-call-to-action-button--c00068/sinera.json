@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00068",
+  "title": "Animated Gradient Border Call-to-Action Button",
+  "summary": "Interactive anchor button featuring a looping animated rainbow gradient border on hover. Combines Tailwind utility classes, inline CSS, and vanilla JS for motion, ideal for CTAs on landing pages or hero sections.",
+  "tags": [
+    "button",
+    "cta",
+    "gradient",
+    "animated",
+    "hover",
+    "tailwind",
+    "interactive",
+    "css"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2002,
+      "sha256": "76ca9a6301621d4f12536dffa296a60b62268fa06dba0f20476b398b39389cea"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1358,
+      "sha256": "2b0c3435e7136b6d8add88c2ef86723aaff2a17817de1343e928e5352dc6bc0e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2225,
+      "sha256": "1903d8b576d5681779aae7e6cdc9b9ae8ac8b72fb152b5be78cc96ddf50198d3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

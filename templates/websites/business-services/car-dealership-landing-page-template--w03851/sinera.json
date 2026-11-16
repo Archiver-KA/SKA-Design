@@ -1,0 +1,70 @@
+{
+  "id": "SN-W03851",
+  "title": "Car Dealership Landing Page Template",
+  "summary": "A premium automotive dealership template for showcasing inventory, imports, financing, and trade-ins—ready to customize for your car sales business.",
+  "tags": [
+    "Landing Page",
+    "Business",
+    "Services",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Automotive",
+    "Car Dealership",
+    "Imports",
+    "Financing"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3682,
+      "sha256": "b1300b945c45854728547340182466f1da2b9e01457bbcaf5a70280b4d5ea609"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12392,
+      "sha256": "bc6deda3b498858786e8d9dbfad6b25f3d832c8e018ceea89818a95515a03f1d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 814,
+      "sha256": "78bc2623e8b71253e951baa35de1b327331b9f6247dcad137788871cbd876a73"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36244,
+      "sha256": "c4b5aaa63e445cfe0145ed9ce736240ed233734adf2fe8c759f8d79af25c2a2b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "features",
+    "listings",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

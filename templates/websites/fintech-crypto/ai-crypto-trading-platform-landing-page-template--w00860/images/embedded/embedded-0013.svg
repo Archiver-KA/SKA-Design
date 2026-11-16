@@ -1,0 +1,44 @@
+<svg class="w-full h-full" viewBox="0 0 600 300" preserveAspectRatio="none">
+            <defs>
+                <filter id="neon-glow" x="-20%" y="-20%" width="140%" height="140%">
+                    <feGaussianBlur stdDeviation="3" result="coloredBlur"></feGaussianBlur>
+                    <feMerge>
+                        <feMergeNode in="coloredBlur"></feMergeNode>
+                        <feMergeNode in="SourceGraphic"></feMergeNode>
+                    </feMerge>
+                </filter>
+            </defs>
+
+            <!-- Connections -->
+            <!-- Start Y ~60 (below top row), End X 300 Y 220 (center of bottom node) -->
+            
+            <!-- Path 1 (Leftmost) -->
+            <path d="M60 65 C 60 160, 300 160, 300 220" stroke="#27272a" stroke-width="1.5" fill="none"></path>
+            <path d="M60 65 C 60 160, 300 160, 300 220" stroke="#87FE00" stroke-width="2" fill="none" stroke-dasharray="8 250" stroke-linecap="round" filter="url(#neon-glow)">
+                <animate attributeName="stroke-dashoffset" values="258; 0" dur="3s" repeatCount="indefinite"></animate>
+            </path>
+
+            <!-- Path 2 -->
+            <path d="M180 65 C 180 160, 300 160, 300 220" stroke="#27272a" stroke-width="1.5" fill="none"></path>
+            <path d="M180 65 C 180 160, 300 160, 300 220" stroke="#87FE00" stroke-width="2" fill="none" stroke-dasharray="8 250" stroke-linecap="round" filter="url(#neon-glow)">
+                <animate attributeName="stroke-dashoffset" values="258; 0" dur="2.5s" begin="0.2s" repeatCount="indefinite"></animate>
+            </path>
+
+            <!-- Path 3 (Center) -->
+            <path d="M300 65 C 300 160, 300 160, 300 220" stroke="#27272a" stroke-width="1.5" fill="none"></path>
+            <path d="M300 65 C 300 160, 300 160, 300 220" stroke="#87FE00" stroke-width="2" fill="none" stroke-dasharray="8 250" stroke-linecap="round" filter="url(#neon-glow)">
+                <animate attributeName="stroke-dashoffset" values="258; 0" dur="2s" begin="0.5s" repeatCount="indefinite"></animate>
+            </path>
+
+            <!-- Path 4 -->
+            <path d="M420 65 C 420 160, 300 160, 300 220" stroke="#27272a" stroke-width="1.5" fill="none"></path>
+            <path d="M420 65 C 420 160, 300 160, 300 220" stroke="#87FE00" stroke-width="2" fill="none" stroke-dasharray="8 250" stroke-linecap="round" filter="url(#neon-glow)">
+                <animate attributeName="stroke-dashoffset" values="258; 0" dur="2.8s" begin="0.1s" repeatCount="indefinite"></animate>
+            </path>
+
+            <!-- Path 5 (Rightmost) -->
+            <path d="M540 65 C 540 160, 300 160, 300 220" stroke="#27272a" stroke-width="1.5" fill="none"></path>
+            <path d="M540 65 C 540 160, 300 160, 300 220" stroke="#87FE00" stroke-width="2" fill="none" stroke-dasharray="8 250" stroke-linecap="round" filter="url(#neon-glow)">
+                <animate attributeName="stroke-dashoffset" values="258; 0" dur="3.2s" begin="0.7s" repeatCount="indefinite"></animate>
+            </path>
+        </svg>

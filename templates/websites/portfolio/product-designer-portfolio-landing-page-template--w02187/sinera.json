@@ -1,0 +1,63 @@
+{
+  "id": "SN-W02187",
+  "title": "Product Designer Portfolio Landing Page Template",
+  "summary": "A clean, conversion-focused product designer portfolio landing page template for showcasing projects, services, and driving call bookings.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Technology",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3413,
+      "sha256": "88564a2c20d68099d36ac8cab10f3f58c783c8f50b6ec2125bff4f9c1bc594b1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11354,
+      "sha256": "4ac9557bd8318c533b58e7e816901d96c1a75b64af40398253d8256e1745e47b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "00292c793907ef2c65c89c2299c840b7d5c6e858f232d0db8e9f3b08c667efbe"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19893,
+      "sha256": "30f1f6f86320a6fabf9286f030f31abd648299b229dc5cfcd4336b5ddb643f93"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "product-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

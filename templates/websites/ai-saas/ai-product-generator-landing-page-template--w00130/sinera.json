@@ -1,0 +1,67 @@
+{
+  "id": "SN-W00130",
+  "title": "AI Product Generator Landing Page Template",
+  "summary": "A dark, futuristic landing page template for AI-powered digital product generators, ideal for showcasing autonomous workflows, pricing, and downloads.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "SaaS",
+    "AI",
+    "Autonomous Workflow"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3739,
+      "sha256": "7acf4b070e4820932452945eedc3b9bd4f0d4acc05eb86b8fb2b92317cf5828f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12688,
+      "sha256": "ba57863cf5999ff4ad05e3718a41c000700ef954683189271b119e802535dc4c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "0908d1960dd618c2ffc5c2d3312ca5899faeb52482885b49cee1d14f6ae706c2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26097,
+      "sha256": "d191a2eba2566caa99d198e55fa1d1c6dcaa01fbcebd9961f0e4ab228a4230c1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "stats",
+    "bento-grid",
+    "code-terminal",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

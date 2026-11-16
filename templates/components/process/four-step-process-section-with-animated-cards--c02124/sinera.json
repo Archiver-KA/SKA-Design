@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02124",
+  "title": "Four-Step Process Section with Animated Cards",
+  "summary": "Responsive Tailwind CSS grid section showcasing a four-step workflow in numbered cards with optional background images and fade-in animations. Suited for portfolios, landing pages, and product walkthroughs.",
+  "tags": [
+    "process",
+    "tailwind",
+    "responsive",
+    "grid",
+    "animated",
+    "steps",
+    "portfolio"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 27222,
+      "sha256": "33ff0c9d33d6136aac2833d10a64e3ac33d50ba996d30acfb0842e09fb6080db"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5227,
+      "sha256": "8724cd1e847c14d872a987425caa18d4101fb834a3d961710118ef855659ba93"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6093,
+      "sha256": "68c395a3c4f40c35ae4d203198f5e50b5a96f67eed9aa8231e93bbcac31871db"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

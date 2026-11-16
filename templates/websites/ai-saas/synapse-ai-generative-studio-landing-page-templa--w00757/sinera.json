@@ -1,0 +1,66 @@
+{
+  "id": "SN-W00757",
+  "title": "Synapse AI Generative Studio Landing Page Template",
+  "summary": "A dark, futuristic landing page template for showcasing an AI generative content studio, featuring models, metrics, and infrastructure for modern AI platforms.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Futuristic",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3886,
+      "sha256": "973f718315a7166f4fb7f157d811461b498ea856b481c1ea51adc4cd48b5179d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12296,
+      "sha256": "9cb84b7e4aa0fa43cddde9acd084e11839fc1013ffabba3221f38c3ca4ba32b8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 744,
+      "sha256": "ee65c2e02c877c834b6d6dcbab89362036bca96bf86386a0b014285ee0788225"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41756,
+      "sha256": "83ac49a59cf75119a86f32fcfa54783f3b6ed8aa4d55ec26218c732568e3ff41"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "dashboard-preview",
+    "video-media",
+    "stats",
+    "bento-grid",
+    "3d-canvas",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

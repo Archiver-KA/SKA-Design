@@ -1,0 +1,82 @@
+{
+  "id": "SN-W03122",
+  "title": "Nature Retreat Landing Page Template",
+  "summary": "A reusable landing page template for glamping retreats, eco stays, and wilderness getaways, designed to showcase experiences, reviews, and direct booking CTAs.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Services",
+    "Dark",
+    "Animated",
+    "Nature retreat",
+    "Glamping",
+    "Eco stay",
+    "Booking"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3694,
+      "sha256": "ced3f21478138faaecc70356a9f874a3eda8c8c3cd479f6c0e4d20a7121856dc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9466,
+      "sha256": "faba4667003e38e698cfaf5599744d880469bfadb161efab9fe02399e9dfd062"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1265,
+      "sha256": "94ff0189cd2d67d37668510fec86b091d738c45cd421ae621d3c322eb928f050"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 417,
+      "sha256": "90972bc54b29374da5a0a25c85fb96fe82218843d1b5336fe8127fea372337d9"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 472,
+      "sha256": "bb9049899f48fcba7844709e7817e4c0c3b98ce58b292136451be282e674c650"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 169,
+      "sha256": "f7f0aa88846884b01a3849247ffc96a3858adabbed7bce0bda2e79a09a0b694d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 55350,
+      "sha256": "1e001da073b4e6ca5b6278c76693a152c3d54451306400b93dbe8a8752b0cc1f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "timeline",
+    "gallery-portfolio",
+    "testimonials",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

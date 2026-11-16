@@ -1,0 +1,75 @@
+{
+  "id": "SN-W01617",
+  "title": "Lead-Gen Agency Landing Page Template",
+  "summary": "A dark, high-converting agency landing page template for service-based businesses, optimized to showcase results and drive more leads and booked jobs.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Lead Generation",
+    "Agency"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3851,
+      "sha256": "29285449f3f21fb5b25c3eeaf059f6bed94f32c854c54e4cd266cda7ef3118ce"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 26844,
+      "sha256": "e86c6f1d7672bccd783aa0e34182a6458efefccee71d65ed26d8223e903c99d6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 814,
+      "sha256": "3c7d1b6462d08661f96f81d5bc95a55bd182660868f6b8e5758ef8ab10fd1c77"
+    },
+    {
+      "path": "index.html",
+      "bytes": 61760,
+      "sha256": "7af1918e73ba433e643a5bc666fb4ba8a2d235b41c90406fbb9217a11027ca3c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "testimonials",
+    "video-media",
+    "features",
+    "faq",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "broken-images"
+    ],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03818",
+  "title": "Auto Detailing Services Landing Page Template",
+  "summary": "A high-end, dark-themed website template for professional auto detailing, paint correction, and luxury car care services.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Dark",
+    "Clean",
+    "Portfolio",
+    "Luxury",
+    "Automotive"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3797,
+      "sha256": "59212fb594b6591d2e53c1abae236dfbd0c8ee4d7a83c2d89457cf64a95ecbdf"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20758,
+      "sha256": "2d5f9b9a824bfe059037563a73ca32094b757203014fea763cfccf66e6f26165"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 823,
+      "sha256": "2b7c1633390fa6138a87c0fc41d4aff43b1ff8993a5ada7f253c2c9c8e921ca3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 82120,
+      "sha256": "671e41999758554679bd196b4acb3886c40d9e27ecf109d3d8fdcf6f41d1e78d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "features",
+    "gallery-portfolio",
+    "testimonials",
+    "faq",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

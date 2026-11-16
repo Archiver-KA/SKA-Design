@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03004",
+  "title": "Vegetarian Restaurant Landing Page Template",
+  "summary": "A reusable restaurant website template for vegetarian eateries, featuring menu browsing, table booking, contact details, and a polished local dining presentation.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Animated",
+    "restaurant",
+    "vegetarian",
+    "menu",
+    "reservation"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3778,
+      "sha256": "4cab17995bb4df5d8c1b9d0bbfcfc593b877fc4328734d3e3a18949ad9b304b4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12300,
+      "sha256": "b79f322d4a41f6420235237960c751fafa664bed140b84047a82252b1af7e024"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 740,
+      "sha256": "4153347fc7bed72f93ecaee4e2241e456ef5911c7ef5dc4c8eacdb57972fdaec"
+    },
+    {
+      "path": "index.html",
+      "bytes": 49121,
+      "sha256": "f2c6a08c84de9bbf245022b90c2656de7618bfe74871419739ab85e1361d2919"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "navbar",
+    "modal-overlay",
+    "timeline",
+    "about",
+    "menu-list",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

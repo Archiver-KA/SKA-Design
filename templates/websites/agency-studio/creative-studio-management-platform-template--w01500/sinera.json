@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01500",
+  "title": "Creative Studio Management Platform Template",
+  "summary": "A high-performance reusable template for creative agencies and film production teams to manage projects, talent, and assets.",
+  "tags": [
+    "Technology",
+    "Portfolio",
+    "Services",
+    "Dark",
+    "Clean",
+    "Animated",
+    "Minimal",
+    "Community"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3692,
+      "sha256": "54db47e6b0682a49611adb11a5796fd1999daf309e546d11210b10a652d2c923"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15572,
+      "sha256": "18bbe61110d853adfe99d359b615eb43a650204d8b8665224663c865baf9e0ff"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "98be6cc6a20f9f24d43a143d24b2fd95628c115a4cd47006fdafc9136188b280"
+    },
+    {
+      "path": "index.html",
+      "bytes": 50511,
+      "sha256": "4049c3df7d217927d785ff874078cd08033746157b873c68739085cb7a6a4d5d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "bento-grid",
+    "product-grid",
+    "cta",
+    "features",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

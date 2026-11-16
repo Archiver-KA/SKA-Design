@@ -1,0 +1,14 @@
+<svg viewBox="0 0 100 100" class="w-8 h-8 drop-shadow-lg">
+             <defs>
+               <linearGradient id="navGold" x1="0%" y1="0%" x2="100%" y2="100%">
+                 <stop offset="0%" stop-color="#fef3c7" />
+                 <stop offset="100%" stop-color="#d97706" />
+               </linearGradient>
+               <linearGradient id="navPurple" x1="100%" y1="0%" x2="0%" y2="100%">
+                 <stop offset="0%" stop-color="#d8b4fe" />
+                 <stop offset="100%" stop-color="#7c3aed" />
+               </linearGradient>
+             </defs>
+             <path d="M50 85 L20 20 L40 20 L50 70 Z" fill="url(#navGold)" />
+             <path d="M50 85 L80 20 L60 20 L50 70 Z" fill="url(#navPurple)" />
+          </svg>

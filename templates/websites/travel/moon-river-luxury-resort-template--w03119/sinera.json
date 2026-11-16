@@ -1,0 +1,74 @@
+{
+  "id": "SN-W03119",
+  "title": "Moon River Luxury Resort Template",
+  "summary": "A high-end hospitality and travel template featuring cinematic video backgrounds, multilingual support, and a villa booking management system.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Services",
+    "Dark",
+    "Minimal",
+    "Animated",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3478,
+      "sha256": "992ca47f88b3f7ffb1a5a240a7c6f5464e71c650bdf2ca33b6d3442d25232f50"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7870,
+      "sha256": "41a41e7dbe467d4e649e478ea84af91cb1142ab080585cc86844fb90a8063d8a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 947,
+      "sha256": "a5263361b9291c2ff7d5a2215dbd8dfe8cbde7b0de8dcabde588ce17b19157fb"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 304,
+      "sha256": "25b3f0cb4a06fbf9c21c6acdfee4b92b3cae6d235af3558ab1111ad3fa463e96"
+    },
+    {
+      "path": "index.html",
+      "bytes": 86066,
+      "sha256": "0a90f0332ae3d5193d34a7d5db0fb3bc343d26b7e6f86dcaeb359934ee9910e4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "navbar",
+    "gallery-portfolio",
+    "cta",
+    "contact-form",
+    "footer",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "broken-images"
+    ],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

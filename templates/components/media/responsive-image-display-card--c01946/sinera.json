@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01946",
+  "title": "Responsive Image Display Card",
+  "summary": "A card component that displays an external image with a link reference. Features responsive design with shadow and rounded corners, suitable for gallery or portfolio displays.",
+  "tags": [
+    "card",
+    "image",
+    "gallery",
+    "responsive",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26176,
+      "sha256": "e024240ec518589ccf53ffdc5a37963b2ee72adbed02ece715d6dd70ccfb0759"
+    },
+    {
+      "path": "component.html",
+      "bytes": 408,
+      "sha256": "23b641444b3dd0dcca918e76649f68183c5f25a944401970ddd44a2834336da4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1258,
+      "sha256": "7eeef53abe944bb19115fa66a505e5fb3c9975bd9e13cb9f7d91111a9251f57a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

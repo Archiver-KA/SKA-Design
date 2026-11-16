@@ -1,0 +1,72 @@
+{
+  "id": "SN-W01600",
+  "title": "Influencer Marketing Landing Page Template",
+  "summary": "This reusable influencer marketing landing page template connects brands with talent through a talent-first approach, featuring case studies, services, and contact forms.",
+  "tags": [
+    "Landing Page",
+    "Influencer Marketing",
+    "Talent Network",
+    "Case Studies",
+    "Services",
+    "Contact Form",
+    "Brand Partnerships",
+    "Campaign Results",
+    "Social Media",
+    "Creator Management"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3431,
+      "sha256": "843f413b27fdbc05d52813b18a26f380adc28aa82a4bda5e055d40d7105c4ad8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10768,
+      "sha256": "d61717cdc690d1f84531c9ef65f558c6938dde5f892d134b922eb0a3686921b6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 819,
+      "sha256": "f6e971e3eaaec279d2a01619d3fa289b4ab2cea4315cb14eb5466a8c182ec253"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37868,
+      "sha256": "78df9b889e6258a4684b8dd596a38a07fe22020ead55e2c5037ae076c59c1253"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "features",
+    "services",
+    "stats",
+    "about",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

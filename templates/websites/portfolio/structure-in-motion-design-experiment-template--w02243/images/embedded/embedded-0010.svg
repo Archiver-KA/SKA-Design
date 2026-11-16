@@ -1,0 +1,18 @@
+<svg viewBox="0 0 200 160" class="w-48 h-auto drop-shadow-2xl">
+                  <g transform="translate(100, 100)">
+                    <path d="M0,-14 L24,0 L0,14 L-24,0 Z" fill="#e5e5e5" class="opacity-90"></path>
+                    <path d="M-24,0 L0,14 V40 L-24,26 Z" fill="#525252"></path>
+                    <path d="M0,14 L24,0 V26 L0,40 Z" fill="#262626"></path>
+                  </g>
+                  <g transform="translate(60, 80)" class="transition-transform duration-500 group-hover:-translate-x-2">
+                    <path d="M0,-14 L24,0 L0,14 L-24,0 Z" fill="#a3a3a3"></path>
+                    <path d="M-24,0 L0,14 V40 L-24,26 Z" fill="#404040"></path>
+                    <path d="M0,14 L24,0 V26 L0,40 Z" fill="#171717"></path>
+                  </g>
+                  <g transform="translate(140, 80)" class="transition-transform duration-500 group-hover:translate-x-2">
+                    <!-- Updated to Red-Orange Gradient tones -->
+                    <path d="M0,-14 L24,0 L0,14 L-24,0 Z" fill="#ef4444"></path>
+                    <path d="M-24,0 L0,14 V40 L-24,26 Z" fill="#b91c1c"></path>
+                    <path d="M0,14 L24,0 V26 L0,40 Z" fill="#991b1b"></path>
+                  </g>
+                </svg>

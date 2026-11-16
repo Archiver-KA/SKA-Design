@@ -1,0 +1,70 @@
+{
+  "id": "SN-W02833",
+  "title": "Artisan Coffee Landing Page Template",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3646,
+      "sha256": "7cac5374ade1ed1c60828abdc37674bcd8e596d81fb7418aa4e3101f1a23c0b1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16790,
+      "sha256": "8959f75ddb48577f1c2a84fa850fa879a604f02ef1efc2abe389f5efc1d3171f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 970,
+      "sha256": "badd80c986804fae026b2edef7b3f3e5f0abfce61605ddc42066bb52fed29622"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 150,
+      "sha256": "d55bb55288c1d1b3585ad94e01ca194d1741871e7bf5f3a1321c0c65760a553e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 52775,
+      "sha256": "17a414bd1cffbf95ba343f3849ad6d3edf00a1012eeba7d43b0b3805cd13a336"
+    },
+    {
+      "path": "sinera-fx-filter.js",
+      "bytes": 20907,
+      "sha256": "a3c8b040cad6c280e979d6a1609051c2b8dc064b313669d0b2842447a7ef77f9"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "code-terminal",
+    "marquee",
+    "pricing",
+    "faq",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

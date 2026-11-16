@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00150",
+  "title": "Glassmorphic CTA Button with Hover Animation",
+  "summary": "Translucent rounded button with backdrop-blur glassmorphism, slide-in hover overlay, icon and label. Built with Tailwind utility classes; ideal for eye-catching call-to-action links like “View Demo” in modern responsive UIs.",
+  "tags": [
+    "button",
+    "cta",
+    "glassmorphism",
+    "animated",
+    "hover",
+    "tailwind",
+    "icon",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1720,
+      "sha256": "eb04c68d225de2f7a09e67e80bd67b5f78074023e1237b5fe60bd7cebdc8c258"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1249,
+      "sha256": "005d5ad0d2da1835818bdd7298afcf7868611f346bc1059e206a47d9fa582da2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2114,
+      "sha256": "e826d5a4725dbfeb2f05741219cc424be08f9502a80b4ef6da3ee566158da4e2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

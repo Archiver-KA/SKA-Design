@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02263",
+  "title": "Dashboard Metrics Card with Embedded Mini Line Chart",
+  "summary": "Stylized dashboard card displaying real-time requests and latency via an embedded Chart.js line chart. Features Tailwind glassmorphic design, responsive layout and tooltip mock—ideal for analytics panels and monitoring dashboards.",
+  "tags": [
+    "card",
+    "chart",
+    "dashboard",
+    "tailwind",
+    "chart.js",
+    "stats",
+    "data visualization",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8130,
+      "sha256": "01b234fa5ad01ae4093382f5a169fc9e7dc83b36d442fd9734b5fe10b970dd0e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5056,
+      "sha256": "beffc707724ea4a2aa4474e45982ef58dbfc2ce124176ffdea93af0cea85090f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5929,
+      "sha256": "21c5376708c096e565a2f488be5e013c3fc75c5b3134f08e91f03efe83cee791"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

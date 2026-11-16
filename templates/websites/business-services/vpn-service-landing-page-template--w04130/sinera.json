@@ -1,0 +1,79 @@
+{
+  "id": "SN-W04130",
+  "title": "VPN Service Landing Page Template",
+  "summary": "A dark, modern landing page template for promoting a Telegram-based VPN service with pricing, FAQ, and clear one-click access CTAs.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Clean",
+    "VPN",
+    "Telegram bot"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3642,
+      "sha256": "ca3ec38e9093fa17a870f4f5eebbce3e26e6ad3289acc498c55547a174ecb803"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13360,
+      "sha256": "bd65a654b2dc810f6520a7359152503b68321d9c5679c145d356e8f890f52553"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1146,
+      "sha256": "062d51c99e486aff845cd431139130f24fd2ac098dac7d1ff8d05c13633bd795"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 392,
+      "sha256": "2c591ce93250ed9ac719d726a2d1de7a83545ce433fa99218b5e920eddcb3720"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 434,
+      "sha256": "f5339f25220bed59acef2932da4e4f1ea228cecc89b20b13bc43a25ff178ff67"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30888,
+      "sha256": "b7732ff8cb95bb5dc304c9a508cf116fb6c0b905a0bd8857d0f576dbbf17187e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "pricing",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

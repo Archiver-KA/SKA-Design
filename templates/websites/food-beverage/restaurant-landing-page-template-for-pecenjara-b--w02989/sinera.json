@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02989",
+  "title": "Restaurant Landing Page Template for Pečenjara Baralić",
+  "summary": "A bold restaurant landing page template for traditional roast houses to showcase menus, location, and calls-to-order with a modern Serbian-inspired design.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Services",
+    "Brand",
+    "Colorful",
+    "Large Type",
+    "Minimal",
+    "Restaurant",
+    "Roastery",
+    "Local Business"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3514,
+      "sha256": "efc323150768fcd0f79ae51edde5bf449c2bc1fe3f36b6f9dcc5fa4f05b7a963"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14542,
+      "sha256": "b89e1eab7e2abb51c2aec4fa624dbffa52812af375d2bb925f097572d88a5f94"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 753,
+      "sha256": "4b3b097f641d30a90004ca1277e4014d2c159a794418098424001036b7c30742"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30066,
+      "sha256": "5f0ca43db04c11a1531488da47bbe5f42bbefe1909f6a8013baf6fc4706b2e9a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "logo-cloud",
+    "bento-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

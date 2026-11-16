@@ -1,0 +1,65 @@
+{
+  "id": "SN-W03832",
+  "title": "Automotive Services Landing Page Template",
+  "summary": "Premium automotive services landing page template for car import, repairs, detailing, and rental businesses, ready to customize for your garage or workshop.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Automotive",
+    "Car Import",
+    "Garage",
+    "Detailing",
+    "Workshop"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3316,
+      "sha256": "9dba188440d341df581d63407b99e2660fc7ab5cfbbda10acb208692fb545cee"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15962,
+      "sha256": "5890185414e2944bd9010cdf6c260584faf1d34e4422738e1fec7fdcc11a8039"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "fcd9369a2315571c402f243539ffafa73300e960a601527ccae733d519d9f2fd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 56415,
+      "sha256": "d086cfb96151bd782a3c9389cf2946ac17d803d3e80f72986b74185f47105c62"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

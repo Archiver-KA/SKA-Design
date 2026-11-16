@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01553",
+  "title": "Digital Product Agency Landing Page Template",
+  "summary": "A dark, minimal digital product agency landing page template for showcasing UI design, web development, case studies, pricing, and contact inquiries.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Portfolio",
+    "Dark",
+    "Minimal",
+    "Grid",
+    "Large Type",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3223,
+      "sha256": "cfab49f93e8bd2ed55f03ec62b615edac032f220441c91d47ca421ecbbaec8a9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11658,
+      "sha256": "c7e3b68edd55ddd4f5908edb42b3dddbf85da814bbb85c013b8c2407df9acbbd"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 878,
+      "sha256": "6660a76cad74736afab73d35b5a48765ada1c17e586bfb5bba91a186bde4d798"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 185,
+      "sha256": "791cee1596ac65238be5b53e502c0a5bf03efb00a79ebcfd23d4855d3742b3f7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 50895,
+      "sha256": "435401d46664c6835c931482666fb0354ea8db0203dc559148775a0621f09807"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "case-studies",
+    "pricing",
+    "about",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

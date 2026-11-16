@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00241",
+  "title": "Pixel Measurement Overlay Button",
+  "summary": "Small span element that overlays a '21px' badge label, useful in design or dev tools to display pixel dimensions or spacing annotations within UI mockups.",
+  "tags": [
+    "badge",
+    "overlay",
+    "label",
+    "utility",
+    "css",
+    "measurement"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1734,
+      "sha256": "d92cbf855bffb07ba766912517bfb971bbaa3d46f6e07f30d54d86bfca06ca89"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2010,
+      "sha256": "6a180da5ea0e44a6bd683ba0ca2f15edb9c8813fb61e60195df99a50a7cf91d2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2863,
+      "sha256": "84600009b051e344452b24e96311f966b211d604e61ea74b7b82dbe37d23eae4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

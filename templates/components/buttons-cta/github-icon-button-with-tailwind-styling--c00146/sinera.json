@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00146",
+  "title": "GitHub Icon Button with Tailwind Styling",
+  "summary": "Clickable anchor displaying a GitHub SVG icon, styled with Tailwind classes for rounded edges, subtle border, and hover color transition. Ideal for social profile links or icon-only navigation.",
+  "tags": [
+    "icon button",
+    "github",
+    "tailwind",
+    "link",
+    "social",
+    "svg",
+    "hover",
+    "rounded"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1416,
+      "sha256": "7a8f5d326be2e3e1399bd7299d5bcab6e8c9eec165d02036ffb94614f2400dce"
+    },
+    {
+      "path": "component.html",
+      "bytes": 748,
+      "sha256": "6197ad608293c7f14c290ccbef013a554830777ff5db05b66b2497005c5d540b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1739,
+      "sha256": "2240fcaeb108a9a7c1d38ed392936fa11b4f35d88bbd56f8ffece05df013c775"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

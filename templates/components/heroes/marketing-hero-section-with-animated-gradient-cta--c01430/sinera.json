@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01430",
+  "title": "Marketing Hero Section with Animated Gradient CTA",
+  "summary": "Full-width landing hero built with Tailwind CSS. Features headline, sub-headline, trust avatars, two call-to-action buttons (one animated gradient), and an in-app screenshot preview. Ideal for SaaS/marketing sites seeking a stylish, responsive first impression.",
+  "tags": [
+    "hero",
+    "landing page",
+    "cta",
+    "animated",
+    "tailwind",
+    "responsive",
+    "saas",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 25704,
+      "sha256": "717f5c6bdb9b47a9dc075776008b36294a2a03e1e1403f91d890d84207267dbc"
+    },
+    {
+      "path": "component.html",
+      "bytes": 33657,
+      "sha256": "647b2d717eb105126d484e20237701da1441d44c5d3382783f3dcd0696ec4f7f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34657,
+      "sha256": "f6f73088d38bad0941dc1ad9f58bb1f72e06af2f6234dd81e51fe5513fa5ba2b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

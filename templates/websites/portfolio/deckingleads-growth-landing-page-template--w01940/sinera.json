@@ -1,0 +1,81 @@
+{
+  "id": "SN-W01940",
+  "title": "DeckingLeads Growth Landing Page Template",
+  "summary": "A high-converting template for DeckingLeads-style growth marketing pages, designed for deck builders and contractors to showcase lead generation and partner access.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Large Type",
+    "Gradient",
+    "Technology",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3806,
+      "sha256": "e204ff98053cc3814989e1dc650fd05dba6189f3de8776ffae5d588b8965a2e3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16078,
+      "sha256": "4f42d99da13c48fe5fa1da78437c6b50828e44c4a6d766bb5a4ff12f07bccbc6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1149,
+      "sha256": "40e5f4ec80708c1f4edb624f28401fb3564f927c4ab843a289783cfe5262c370"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 375,
+      "sha256": "27607477c645cb0b6d06304014b434ef87bd3823e30ab4e761afc449a749be49"
+    },
+    {
+      "path": "index.html",
+      "bytes": 47008,
+      "sha256": "bc8823b2e3f73b4a332271df324371c27c315199f8981658e15e7eb2df8926cb"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "stats",
+    "testimonials",
+    "how-it-works",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01436",
+  "title": "Neural Fibers WebGL Hero Section",
+  "summary": "Full-screen hero with animated Three.js WebGL strands background and sci‑fi UI overlay. Features status label, large headline, metric panel, descriptive copy, and two CTA buttons. Ideal for data, AI, or visualization-focused landing pages.",
+  "tags": [
+    "hero",
+    "section",
+    "animated",
+    "threejs",
+    "webgl",
+    "landing",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 48038,
+      "sha256": "977921256d757701a7966bb313c35ea454c31eac9d50d4bd030b59aab08e6b3c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6560,
+      "sha256": "68395a2585dd818e7d30c0f729e154f6881bdafd8e58ef39411ab0ed2871dba4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7413,
+      "sha256": "8686d334624b4909ae2f85175aa784738bcf6e6ae08d31ff23f30173a710365f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

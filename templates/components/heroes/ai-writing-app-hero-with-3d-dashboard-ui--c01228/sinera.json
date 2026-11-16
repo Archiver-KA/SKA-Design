@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01228",
+  "title": "AI Writing App Hero with 3D Dashboard UI",
+  "summary": "Hero section for an AI writing tool featuring a headline with typing effect, marketing copy, primary and secondary CTAs, social proof avatars, and a 3D tilted dashboard-style UI preview with floating status and metrics cards. Built with Tailwind-style utility classes.",
+  "tags": [
+    "hero",
+    "section",
+    "ui",
+    "tailwind",
+    "responsive",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 30980,
+      "sha256": "0e6a86d487a3d50c6f6004a7cd69a935199b299a70610d656564e6cb010b0904"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13615,
+      "sha256": "5ade3ec23c2338bb17b22f12d098ca6eabf166a3e5211420c2358a301aecd2fb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14606,
+      "sha256": "53a8b6d9e2d755294ccfc4a8a0c59d2ae40a9d4a4c4c2bfb7c53ec51975a19e9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

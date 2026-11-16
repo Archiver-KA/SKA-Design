@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03739",
+  "title": "Podcast Landing Page Template",
+  "summary": "A dark, editorial-style podcast website template for showcasing episodes, host stories, platform links, and companion blog content for builder-focused shows.",
+  "tags": [
+    "Landing Page",
+    "Blog",
+    "Entertainment",
+    "Technology",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "podcast",
+    "editorial"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3653,
+      "sha256": "7b7b6c8fa8ea48845dd8959a4da350167f837a01545e9a736c9c7f143ecbb636"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16266,
+      "sha256": "fd76266c3e487f5a9ccb1369fd0fa3b07c76643605c085bae711efa9581ab1b2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 721,
+      "sha256": "e8e35df8733c38d2cd9028ce2b99a89a2f16e89d293790a5fc3759ec1740531d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 48210,
+      "sha256": "9c7fcf722db3f5a47b34f29397a20677ed2896e73c0ffacff7e6c4681997a55e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "blog-articles",
+    "video-media",
+    "about",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

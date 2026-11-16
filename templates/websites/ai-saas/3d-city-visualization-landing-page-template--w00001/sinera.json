@@ -1,0 +1,63 @@
+{
+  "id": "SN-W00001",
+  "title": "3D City Visualization Landing Page Template",
+  "summary": "A cinematic 3D city visualization landing page template featuring an interactive digital twin environment with real-time lighting and environment controls.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Futuristic",
+    "Dark",
+    "3D",
+    "Interactive",
+    "Three.js",
+    "Digital Twin",
+    "Visualization"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3381,
+      "sha256": "3e6abe56a88e9688c3fcb7a568a0c840638a81795f58894429eab63d35c11833"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7200,
+      "sha256": "016691ee52d6a7b8d8f5d8fa175b61559b38b7164e3d672aedb2cacc34457546"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 737,
+      "sha256": "63b30faa3721b7ea9e2d2b1a308ee2f687fdff3133569499f6b7a8dfc0c94ee5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28320,
+      "sha256": "18ec13b574c4657cb5c0a114849071d332138e98fc0f4272dfd533aca60fb0a0"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

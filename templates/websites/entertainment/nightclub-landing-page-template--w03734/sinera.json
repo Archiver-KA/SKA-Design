@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03734",
+  "title": "Nightclub Landing Page Template",
+  "summary": "A reusable nightlife venue template for promoting club events, showcasing atmosphere, collecting reservations, and driving guestlist or VIP bookings.",
+  "tags": [
+    "Landing Page",
+    "Entertainment",
+    "Dark",
+    "Gradient",
+    "Grid",
+    "Colorful",
+    "Services",
+    "nightlife",
+    "events",
+    "reservation"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3637,
+      "sha256": "7effc88881acbb24325eed3832178e6f1f677634155b212ec5cd47080bfaafc1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10472,
+      "sha256": "9e8d79f3c2eb118aa3e211ea4fbe1e42e8d98ba1119191eaf0d9b8206828de60"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "898c37d9bd2a7bd2942ea897dbd77f525e4e4d6031fbfe0cc8dc101b754cedda"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33425,
+      "sha256": "86091bb4548e9e3c0f7dbabaceb65107c70b5df03b6c27f7afda4fd17b312104"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "timeline",
+    "gallery-portfolio",
+    "testimonials",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00338",
+  "title": "Compact Article Card with Author",
+  "summary": "A smaller article card component with image, author profile, categorization tags, and engagement metrics for blog listings and grids.",
+  "tags": [
+    "article",
+    "card",
+    "compact",
+    "author",
+    "tags",
+    "engagement",
+    "blog"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12496,
+      "sha256": "4393351857f221ce0283bdbf1d93e25190a8ed48f96c8f46094586376607c70b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3847,
+      "sha256": "de1939bdaeb65cf8a2feebb38585ad83b81685183cb3f46ed03f4d4727438538"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4700,
+      "sha256": "e1d682ff2d5758dc47488bd9525f179d8da38bb0b6aa0bf31e10a4890beee4df"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

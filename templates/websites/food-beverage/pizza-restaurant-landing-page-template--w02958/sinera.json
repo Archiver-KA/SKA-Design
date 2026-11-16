@@ -1,0 +1,69 @@
+{
+  "id": "SN-W02958",
+  "title": "Pizza Restaurant Landing Page Template",
+  "summary": "A reusable restaurant website template for pizza shops featuring a bold hero, detailed menu sections, location info, and online ordering CTAs.",
+  "tags": [
+    "Food",
+    "Landing Page",
+    "Services",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Restaurant",
+    "Pizza",
+    "Menu",
+    "Local Business"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3699,
+      "sha256": "ee0ef743e05de0271767092d9723110eb9725e9b7e9f20206caef9900ef512c6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11962,
+      "sha256": "aa2d2933233aacda43f08331fb2551f390326bc6ab8b11e26e6165d267508f9f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 818,
+      "sha256": "1c9bd9b2c51a8eedd7ce5deea97a8f7b586c5dce44fae0d44306b787ada41bc8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 55037,
+      "sha256": "b4461450628414aacb2233a6ab9f495cbf893ad7f0e5041fd6333f5df8cd4e95"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "menu-list",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

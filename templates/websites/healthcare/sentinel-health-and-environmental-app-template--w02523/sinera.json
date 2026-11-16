@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02523",
+  "title": "Sentinel Health & Environmental App Template",
+  "summary": "A sophisticated mobile-first template designed for sleep tracking, environmental monitoring, and bio-feedback data visualization.",
+  "tags": [
+    "Health",
+    "Technology",
+    "Dark",
+    "Minimal",
+    "Futuristic",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3128,
+      "sha256": "2edb39ac0fd03ea8f6bd3a89e09e5bbf314ce2bd6513107d7e74b34a926fe071"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7768,
+      "sha256": "52fc36e5d736b334bcc1c2c6d0eab4e8fc5ee77cda8bfe961f67b43f158b397f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 877,
+      "sha256": "5df619e09040ff2a6c2425030dcd9753c27c28e25046fed51d5b8bd88f37b574"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 2024,
+      "sha256": "f57cdc5d4aeb6c65ded5f21576e2642ccb45ee568299564d54b34bf565a7a7f4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9526,
+      "sha256": "bf2f025c54b828b6fb2eb7ec7d280cf988a1c9802c7f83cc141742c9f908e7fe"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "3d-canvas",
+    "footer",
+    "navbar"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

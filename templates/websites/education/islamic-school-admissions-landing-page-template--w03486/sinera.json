@@ -1,0 +1,64 @@
+{
+  "id": "SN-W03486",
+  "title": "Islamic School Admissions Landing Page Template",
+  "summary": "A modern Islamic school admissions landing page template for promoting PSB/PPDB timelines, requirements, and online registration in one clear flow.",
+  "tags": [
+    "Landing Page",
+    "Education",
+    "Religious",
+    "Clean",
+    "Minimal",
+    "Brand",
+    "Large Type",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3424,
+      "sha256": "0b49ae12b228c571292743903f5fee45f299a2ab65967d2aa228bb7145e13f95"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14322,
+      "sha256": "a125a8e34c995ad458f518c710b1021afb8df6165d61fb795ec012fff0cbda20"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "231561292cfbc883447c333e074e9387d8700f245fb0f9674b4fae99d58e6f23"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37273,
+      "sha256": "2e056d468b70ddeb0f85adad93050b68cf5c86fc84b4ac176dd10067486c2e4d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "bento-grid",
+    "timeline",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

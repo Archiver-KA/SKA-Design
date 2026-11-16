@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03249",
+  "title": "Home Renovation and Architecture Template",
+  "summary": "A premium and minimalist website template designed for home remodeling, interior design, and architectural firms to showcase portfolio works.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Real Estate",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Architecture",
+    "Design",
+    "Modern"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3700,
+      "sha256": "31f025568812be7d023384087b88b826fbb6a769b2fbd82e286bc11884448a3b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11776,
+      "sha256": "e92f421f0aadfd4a47548f090bbaa3bb0bab9f8b544d18f74cd3d7745e68c86f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 731,
+      "sha256": "d8e85d2e9f467c396fe463969801ffd8d0f607bb9f0e9f57d21f0c1a28952bdf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40434,
+      "sha256": "81f70ad687f1e68767d1d4bb0d0615d2435b1c62523d009a069ae9650d5a8b2f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "case-studies",
+    "about",
+    "bento-grid",
+    "faq",
+    "marquee",
+    "testimonials",
+    "blog-articles"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

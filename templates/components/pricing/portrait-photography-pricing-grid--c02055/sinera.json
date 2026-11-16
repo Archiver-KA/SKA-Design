@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02055",
+  "title": "Portrait Photography Pricing Grid",
+  "summary": "Responsive three-column pricing section for portrait services. Includes plan name, readiness time, price, feature list, CTAs, and a highlighted “most popular” badge. Styled with Tailwind utility classes for easy integration into service or agency landing pages.",
+  "tags": [
+    "pricing",
+    "grid",
+    "tailwind",
+    "responsive",
+    "services",
+    "plan",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22638,
+      "sha256": "5c918d749b5251696f8860fa667320bfdf213046aaff642954dc6214b140deb0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13416,
+      "sha256": "8d5905c7966e3d88a2cea99024d8d7e3e7c6d215bce1377d23a10baaf0b0262b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14400,
+      "sha256": "7ca368f8e466a87b0db62421bb5ee6aa5af409341150981f9e7617cc11b50804"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

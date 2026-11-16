@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01262",
+  "title": "Animated Motion Tech Hero Section",
+  "summary": "Immersive full-screen hero section for a futuristic tech product, featuring oversized typography, glassmorphism navigation, GSAP text reveals, and a Three.js particle wave background. Built with Tailwind CSS for landing pages and product showcases.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "threejs",
+    "gsap",
+    "animated",
+    "responsive",
+    "landing-page"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 46278,
+      "sha256": "d91f80de45f83d6767bd72bb73573108058a13658d055ecec5b5c5a493aedf98"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12457,
+      "sha256": "1437c89dc79d13368a85c681bc68edfb5d37fae8e87f7bb13851e472a8938a29"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

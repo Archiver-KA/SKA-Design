@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00427",
+  "title": "Productivity App Focus Scene UI Card",
+  "summary": "Full-width, three-column productivity app mockup card featuring flows list, central focus scene with imagery, and scene controls sidebar. Uses Tailwind-style utility classes, glassmorphism, and SVG filters. Ideal as a dashboard or app preview showcase component.",
+  "tags": [
+    "dashboard",
+    "preview",
+    "productivity",
+    "mockup",
+    "tailwind",
+    "responsive",
+    "glassmorphism",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19684,
+      "sha256": "d78bce96c15b6e8da1861a164c3e30d074353b3d98b1ea3d03fbd12074976d1c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 41146,
+      "sha256": "8ca45d5142dd0802ac5207cc9888d9a71d684246bdc500615a6a9d7d42da5e44"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42003,
+      "sha256": "7c88e94691fb8d2f35e8133bb6f514fd94d6ba6d5c61845396bf72a50a361f39"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

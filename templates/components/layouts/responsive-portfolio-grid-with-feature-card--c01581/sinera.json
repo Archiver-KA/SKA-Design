@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01581",
+  "title": "Responsive Portfolio Grid with Feature Card",
+  "summary": "Showcase recent projects in a responsive 3-column grid featuring a large hero card, supporting image cards, category pills, dates, and \"view all\" CTAs. Tailwind-styled, ideal for photography portfolios, blogs, or creative agency sites.",
+  "tags": [
+    "portfolio",
+    "gallery",
+    "grid",
+    "card",
+    "tailwind",
+    "responsive",
+    "image",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 48664,
+      "sha256": "dea5999bc6274885e162449524141e952538d087d705c14568f03d751d166d30"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7522,
+      "sha256": "79b6ae4a0178a52153a1858f05ca4b22e5c830e4089af12a292092ea5157f8e6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8516,
+      "sha256": "916a2f1163cca4fa7f1bca1279c1ffb9182e60ff54f24e8a3a5f51843aa659f3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

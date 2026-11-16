@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02391",
+  "title": "Animated Testimonials Grid Section",
+  "summary": "Full-width testimonials section displaying customer quotes in a responsive grid. Glassmorphic cards feature avatar, name, role, 5-star rating and quote, with hover and entry animations over blurred gradient backdrops. Built using Tailwind CSS.",
+  "tags": [
+    "testimonial",
+    "section",
+    "grid",
+    "cards",
+    "tailwind",
+    "animated",
+    "responsive",
+    "rating",
+    "glassmorphism"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 40248,
+      "sha256": "f6889204eed4b7f9d2d1e5152b6f2d0fb7142618d8f051ef72677314405ab495"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11642,
+      "sha256": "9a490f6079a2bd377bbfd03bb875796aa1d3742324a070ffd105433a89cf6b29"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12497,
+      "sha256": "0fcddb4223780e673fad455ebd69799b1a951f7cc5d8cf97a1241ec524df0806"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

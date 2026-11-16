@@ -1,0 +1,135 @@
+{
+  "id": "SN-W00324",
+  "title": "Cybersecurity SaaS Landing Page Template",
+  "summary": "A reusable landing page template for cybersecurity and cloud security platforms to showcase features, pricing, trust signals, and enterprise CTAs.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Clean",
+    "SaaS",
+    "Cybersecurity",
+    "AI"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "react",
+  "entry": "package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3694,
+      "sha256": "5d5ae569e8cd7fecd278c3c9f9bcb247968a310fd056973b3d5b0f37d5314031"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9334,
+      "sha256": "d70f18beae421232623d948e3641acd152343decf3adcc0abc554e7c19f358a0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "2eb925dfbbcbf1f05cb0399281a39f04a150792e533ba127f99fb80abc001746"
+    },
+    {
+      "path": "index.html",
+      "bytes": 749,
+      "sha256": "ffc7f72f5e190bd0f8eff6312a0648f6bea657b26ee1a5c83b7c6a436125b380"
+    },
+    {
+      "path": "package.json",
+      "bytes": 604,
+      "sha256": "67adf2b0995834edaa3aa97f41f28d7d3ff43a2223f09b5e0e97f16f3f565664"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 2518,
+      "sha256": "b3349b0069cb64636888385578e4145d97cad50c109a045275891403db58928d"
+    },
+    {
+      "path": "src/components/layout/Footer.jsx",
+      "bytes": 2780,
+      "sha256": "25dcf97220ffa174254123d11cacbe31e550b651d3721178ec3b77aaac2455e2"
+    },
+    {
+      "path": "src/components/layout/Navbar.jsx",
+      "bytes": 2772,
+      "sha256": "a6150349d37d7056dff9c5052316082036b003f7997f112f606eac1b84be491c"
+    },
+    {
+      "path": "src/components/sections/BottomBanner.jsx",
+      "bytes": 2285,
+      "sha256": "74413a46cee2ff1224a7d182bf87b696b09d5cebc127b97cafd0a6543b381749"
+    },
+    {
+      "path": "src/components/sections/Capabilities.jsx",
+      "bytes": 11445,
+      "sha256": "6481b13f7e8061983a2e53f00f9b50a938a15f199107a95f609d544c51cc820f"
+    },
+    {
+      "path": "src/components/sections/CoreTechnologies.jsx",
+      "bytes": 15097,
+      "sha256": "06f8a9a3494f8fc2bc73487f819324376583e91cbc87d432e467879aa6d8c0b1"
+    },
+    {
+      "path": "src/components/sections/Hero.jsx",
+      "bytes": 5941,
+      "sha256": "81f10b5d262af626ba3f3bdabbf2d5fcf0e2ca137f47edb64146db60ddb257d3"
+    },
+    {
+      "path": "src/components/sections/Pricing.jsx",
+      "bytes": 13668,
+      "sha256": "6679888dd783575d18304e691f4087289c5419dceaa37ee86dc8ee3a208dffaf"
+    },
+    {
+      "path": "src/components/sections/TechSpecs.jsx",
+      "bytes": 4465,
+      "sha256": "1132380397f7c4559dba5dcfb0c89ede5fc7f8e05773febc61bdb0455a7f710c"
+    },
+    {
+      "path": "src/components/ui/Button.jsx",
+      "bytes": 1075,
+      "sha256": "158f426af8e73ca4b8dd13de9d6b48924a24e39e1d6831819e2c21793f17ac18"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 2116,
+      "sha256": "56340d5fc871d55e25f49a53435d714b3922cc05903b671961c1f7422ff42a1e"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 326,
+      "sha256": "aa786bd80b810b78972c4e4c6fd74d846067cde3863fac6c8e7dda192f3d58e2"
+    },
+    {
+      "path": "src/pages/Landing.jsx",
+      "bytes": 815,
+      "sha256": "a5621c5614312b34ac26c97cb6af5d662fd4cd84c02c3204fd490452383170a2"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 162,
+      "sha256": "87ac60e3714684634c176021d3086b9717730ea98f44f7397036dc52dac98eca"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

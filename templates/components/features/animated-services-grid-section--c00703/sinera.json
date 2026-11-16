@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00703",
+  "title": "Animated Services Grid Section",
+  "summary": "Responsive Tailwind section showcasing multiple service cards in a 1-4 column grid. Each card includes icon, category tag, pricing, description, and bullet list with hover and scroll-fade animations—ideal for agency or SaaS sites to present capabilities.",
+  "tags": [
+    "section",
+    "grid",
+    "services",
+    "tailwind",
+    "animated",
+    "responsive",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19316,
+      "sha256": "96c2353d439bf34e28540594eec840f0502971315c5e67fb2e927f74bab3ab4f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12424,
+      "sha256": "a49970da34b0b30d5601c1159955d0a73434ab6cb79956aa76903ad83f1eb536"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13405,
+      "sha256": "92942998cfb2ddb8ca162d9b37ee03966d98bc8156cad9e6248c1afdf6ae12a1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

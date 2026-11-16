@@ -1,0 +1,63 @@
+{
+  "id": "SN-W04258",
+  "title": "Pricing Plan Cards Layout",
+  "summary": "Responsive pricing cards showing features and costs for Free, Pro, and Enterprise plans using Tailwind CSS.",
+  "tags": [
+    "HTML",
+    "Tailwind CSS",
+    "Responsive Design",
+    "Pricing UI",
+    "Web Layout",
+    "CSS Grid"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3085,
+      "sha256": "6f0d424ae5cf5a162e7f041200fcdd63b8c587bcb5924e4d0c43445c6116726f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19240,
+      "sha256": "684e80db83103a9dd075fc4571d4f76baa606a4622479769903e1de0ed3eb13f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1402,
+      "sha256": "900e90a4c151d40e3a177d7f1c2fa15c0f3c4abc772335bba12714ef8e73e026"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 276,
+      "sha256": "1c3f58136a7fe197d15008445153e6bad7d16090e56d04c557ab6ce115444a40"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10027,
+      "sha256": "530b9a44102fe385d4a9c342c686f719b9f24b60d97e12297930ec2c7ece716e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "pricing"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "pricing",
+  "design": "DESIGN.md"
+}

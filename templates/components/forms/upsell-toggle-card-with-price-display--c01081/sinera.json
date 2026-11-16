@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01081",
+  "title": "Upsell Toggle Card with Price Display",
+  "summary": "Dark-themed card presents an optional growth package add-on, showing title, brief description, price, and a switch to enable/disable it. Styled with Tailwind CSS; fits checkout flows, pricing tables, or service configurators.",
+  "tags": [
+    "card",
+    "upsell",
+    "pricing",
+    "tailwind",
+    "dark mode",
+    "checkout",
+    "addon"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3916,
+      "sha256": "d0704a76e96710ff8ccf0981c52edb53557a92b691cfe4a4a991ac0f16de78ec"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1064,
+      "sha256": "7912284d4a94a53b2c274e9f67211bcc79221f2df4ff687606e9c0d598ecdea1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1922,
+      "sha256": "349160b8788ae55113b5c4d24b12a0a92406c3e5905d0d647e6edf63df42b650"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

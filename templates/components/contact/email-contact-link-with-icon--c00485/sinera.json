@@ -1,0 +1,45 @@
+{
+  "id": "SN-C00485",
+  "title": "Email Contact Link with Icon",
+  "summary": "Displays an 'Email' label followed by a mailto link combining a mail icon and address. Tailwind-styled, responsive text sizes, ideal for contact sections in portfolios or business sites.",
+  "tags": [
+    "link",
+    "contact",
+    "email",
+    "icon",
+    "tailwind",
+    "responsive",
+    "ui",
+    "text",
+    "typography"
+  ],
+  "kind": "components",
+  "category": "contact",
+  "categoryLabel": "Contact & maps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5854,
+      "sha256": "d8be59ed62258846030190bc553627729ed2c7448e3480f6698dfca9eb471c43"
+    },
+    {
+      "path": "component.html",
+      "bytes": 709,
+      "sha256": "77539993d6d3f8d5c55b00a8a9ac62c539c6259e5a4616ccc9c09adef825f30e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1688,
+      "sha256": "a462898f5789fb91ffc2a8af10e4cb38957b32222f3b95d89b2f3d2b8d69575c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

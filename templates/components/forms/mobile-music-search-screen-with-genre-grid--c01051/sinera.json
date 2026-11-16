@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01051",
+  "title": "Mobile Music Search Screen with Genre Grid",
+  "summary": "Spotify-like mobile search interface featuring status bar, search input, scrollable genre cards, recent searches list and glowing bottom nav bar. Built with Tailwind CSS and lucide icons; perfect for music app prototypes or demos.",
+  "tags": [
+    "mobile",
+    "search",
+    "music",
+    "tailwind",
+    "grid",
+    "navigation",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16494,
+      "sha256": "a65059b03e72bec087fd562b8dcd36d07c49bc5e867afaa21ad6d286832a0c58"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13155,
+      "sha256": "eaa9e832543f7ace5b63eb6e2043015a703df5100f9edcc4af752d65a389ce5e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14148,
+      "sha256": "c8bb283cee5f13ce9e1780d8ad0d279d3bc7ff224c06e47d5accaaba63de1cf7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

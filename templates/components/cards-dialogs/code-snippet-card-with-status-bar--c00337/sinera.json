@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00337",
+  "title": "Code Snippet Card with Status Bar",
+  "summary": "Stylized code-window card displaying a syntax-highlighted HTML snippet, macOS-style header dots, and footer status bar, followed by a descriptive section. Built with Tailwind CSS for showcasing development skills or features in portfolios and landing pages.",
+  "tags": [
+    "card",
+    "code",
+    "snippet",
+    "syntax-highlight",
+    "tailwind",
+    "responsive",
+    "portfolio",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11566,
+      "sha256": "6064f0a7a9eadeca0831743a8d6011916a13a81dad78b2547ec7b4b55ba0b6df"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3710,
+      "sha256": "77dd6a1fd039341a4b42c52a91cc6645f8776d716611bc4f6ac1a57fb89b3da8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4564,
+      "sha256": "9e7b5bc0e9c67821770577ec5d998ed27fd6f17f6331f48a756687887e4083c8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

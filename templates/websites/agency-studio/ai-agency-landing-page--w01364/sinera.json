@@ -1,0 +1,70 @@
+{
+  "id": "SN-W01364",
+  "title": "AI Agency Landing Page",
+  "summary": "A modern AI agency landing page template for showcasing services, case studies, pricing, and lead capture for intelligence artificielle consultancies.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Dark",
+    "Large Type",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3927,
+      "sha256": "234e410e4c93c1dbd7c2f68b52b92fd9b31db165187cc8e9d6bc3154b39bb005"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22202,
+      "sha256": "7ad48e80c6a5c3ab4b5c563167e16f233e6e421cf3ca4e973ef3892c8c2e7fee"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 716,
+      "sha256": "d287e49f2096a4f736636bdb75e356ad6b3f8e74f47f45de178f424b8e3a75c2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 64988,
+      "sha256": "d12454493815280c9e98a92ea6cecf36fedc8e8faa4f1e62a1a8ad07d0f59b28"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "marquee",
+    "how-it-works",
+    "bento-grid",
+    "stats",
+    "newsletter",
+    "faq",
+    "pricing",
+    "contact-form"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

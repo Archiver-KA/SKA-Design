@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02359",
+  "title": "Dental Clinic Landing Page Template",
+  "summary": "A premium dental clinic template for showcasing treatments, doctor credibility, patient reviews, and booking consultations with a calm luxury feel.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Brand",
+    "luxury dental",
+    "medical clinic"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3738,
+      "sha256": "05172935e442ed4559c094c6c7bfe893791d8dd47b55943b8e0e365a41a4db6b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15826,
+      "sha256": "5e9f1d9022aadb55a4f009c7de3b1e11826e8dfdaeaedb0507fc89b8c4bfaf78"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "673f60724d699424df877b2ec801f71e24a0ddd01c06431007f48349d0bce373"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36244,
+      "sha256": "60027fe09c0ad2a168b627e5437f8a401b5b28dbefb24e36d329e34e632c4ad3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "testimonials",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

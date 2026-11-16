@@ -1,0 +1,65 @@
+{
+  "id": "SN-W00619",
+  "title": "OTT Streaming UI Landing Page Template",
+  "summary": "A sleek VisionOTT-inspired streaming interface template for OTT platforms, featuring hero playback, live channels, carousels, and cinematic dark-mode design.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Entertainment",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Streaming"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3689,
+      "sha256": "8b2d74c7b6f8df15f4a8ec909acbe6ab06ee83cb4b2cdbb66056dd85cbe5052c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 39812,
+      "sha256": "385da2520b6eeb2c641da96ae5767340bff9427d48c862a92da5c73fe669ad26"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 732,
+      "sha256": "2cceb209b9b05bbb685afd3b588086b736a40ffc571378b49b625b3c998a29ca"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32612,
+      "sha256": "4e86d71088a6d4e39396a2d2284fe03eeff855133ea73776940dcb366ca2bc07"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

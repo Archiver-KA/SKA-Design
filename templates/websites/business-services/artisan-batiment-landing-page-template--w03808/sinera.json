@@ -1,0 +1,66 @@
+{
+  "id": "SN-W03808",
+  "title": "Artisan Bâtiment Landing Page Template",
+  "summary": "Template moderne pour artisans et entreprises du bâtiment, idéal pour présenter services de rénovation, témoignages clients et formulaire de devis en ligne.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3675,
+      "sha256": "aae3f9eac834476969e050267dd4dd44d9b758462d22c4883abaf0918ee31fa2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14008,
+      "sha256": "048b7f32b7a83508deafd2f935d8c90650806198c2cd8112e5aa24ac5f1c4347"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "2945f3fa1e998409337e39b00039556e4779a18dd34eb96dd920e22906049898"
+    },
+    {
+      "path": "index.html",
+      "bytes": 45852,
+      "sha256": "af05b793fd2d04b9898d3488c4365180525622294330b4993247b109bd5c5656"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "services",
+    "pricing",
+    "faq",
+    "menu-list",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

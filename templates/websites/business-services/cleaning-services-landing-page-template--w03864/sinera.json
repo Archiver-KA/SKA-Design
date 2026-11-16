@@ -1,0 +1,65 @@
+{
+  "id": "SN-W03864",
+  "title": "Cleaning Services Landing Page Template",
+  "summary": "A modern, conversion-focused cleaning services landing page template for showcasing commercial and residential offerings and driving quote requests.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3594,
+      "sha256": "b033117d81afa5fad0e333c41c2e4b7f16892df9b2c9aedb56e38727a831edad"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16164,
+      "sha256": "8e8dbb33bae9ac68a4949cbebdd68d82e2de7542f8b57547b3abbbaaf04cb2ee"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 817,
+      "sha256": "4fa7a051297ab688308c947a9f4cec62767b4a92ae7b3339685010b232c52ca4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24505,
+      "sha256": "c87f910529ffb419c8d1447ee185394aed11adbc62b1c64d1b13bc1654236993"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "SN-C00039",
+  "title": "Team Invite & Role Management Card",
+  "summary": "Tailwind-styled card to invite teammates by email, choose custom roles via dropdown, view existing members and their permissions. Ideal for SaaS dashboards or admin panels that need granular team access controls.",
+  "tags": [
+    "card",
+    "form",
+    "dropdown",
+    "team management",
+    "invite",
+    "role selector",
+    "tailwind",
+    "dashboard",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "about",
+  "categoryLabel": "About & team",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14802,
+      "sha256": "f8a3df547804b73ad8d59ac7baafac0d7b21693f19170d8c1fdbafab98a94eb9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9367,
+      "sha256": "d886b511cda3f8a6fb157aafec679fd45a34aa58c4da843b110a0ae6aaa321d8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10356,
+      "sha256": "44ebc83e770d32d01767640ae58d6d106edfd51e3cb0c80c271c5ebb86a0c6ea"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

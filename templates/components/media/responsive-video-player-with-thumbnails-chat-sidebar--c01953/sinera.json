@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01953",
+  "title": "Responsive Video Player with Thumbnails & Chat Sidebar",
+  "summary": "Tailwind-styled component featuring a central video player with overlay controls, a selectable thumbnail rail, and a live activity/comment feed. Includes like/save actions, responsive grid layout, and blurred glassy backdrop—ideal for media, streaming, or course platforms.",
+  "tags": [
+    "video",
+    "player",
+    "layout",
+    "thumbnails",
+    "chat",
+    "tailwind",
+    "responsive",
+    "media",
+    "streaming"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 27038,
+      "sha256": "9530b7e2280ccbedc27a1e20b5f736bb3ddf6d68085e222abd956385fad709eb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8915,
+      "sha256": "a3aa3a4b49db4f83533de16c280f47a7299bb2d3a53d3b4499553e82705ade85"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9924,
+      "sha256": "fa1f5fee6ab43f3c6fd374b8b5d841c429262298935af140b1b8d72114df5597"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02240",
+  "title": "Animated System Overview Dashboard UI",
+  "summary": "A full-screen Tailwind CSS dashboard-style UI with gradient background, animated connection lines, metric cards, circular progress, and a reactive waveform orb. Ideal for hero UI demos, analytics showcases, or system monitoring visuals.",
+  "tags": [
+    "ui",
+    "tailwind",
+    "animated",
+    "dashboard",
+    "analytics",
+    "gradient",
+    "interactive",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10990,
+      "sha256": "c442ee0b371e963a52af32d287badefc6f36fee6ad4dad778aa6d0eb6112e256"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11217,
+      "sha256": "21d7368a3eb115b26be2fea83aa8edf7cc8c01ef26fe1b7aabee7defa1e8fb67"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12075,
+      "sha256": "2e35d8aa4c40b8bf9ab8a822627e8f2bdb07e2f692ac3fb64c4c284eb512abd8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

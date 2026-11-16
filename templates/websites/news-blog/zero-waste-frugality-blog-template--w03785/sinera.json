@@ -1,0 +1,77 @@
+{
+  "id": "SN-W03785",
+  "title": "Zero-Waste Frugality Blog Template",
+  "summary": "A reusable blog and content template for zero-waste living, household audits, and extreme frugality content with interactive ledgers and newsletter CTAs.",
+  "tags": [
+    "Blog",
+    "Environmental",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Editorial",
+    "Sustainability",
+    "Personal Finance",
+    "Interactive",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "news-blog",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3523,
+      "sha256": "aa801bf2df5cf278a008e70ad28f8416af036fc37ddfab8fe3395bebff016d33"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18212,
+      "sha256": "bc651f56e10c3a610d4634e280caa68369e4d1a54ce179bea48a862889e9e1d8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1060,
+      "sha256": "51197080a18dbeee8f2d679a37f5f24e6f6d193926ec754be4c8dbf868eeb5b8"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 117,
+      "sha256": "520db35be538f2fc110e03717755813b5e01ac74fec001ce4a108cf3bcfcb68b"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 118,
+      "sha256": "c5c913b2d2e044f9686202032c835850434cad3c4791e62e696b5a03bfd6ad16"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41610,
+      "sha256": "8837aa212b04f287422a2a8e3ac4e4c87b76b002cfd76dd107e1f8627024a3c5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "content",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Content / News",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "product-grid",
+    "pricing",
+    "hero",
+    "footer",
+    "newsletter"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

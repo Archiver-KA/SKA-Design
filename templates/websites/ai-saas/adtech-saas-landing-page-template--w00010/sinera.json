@@ -1,0 +1,75 @@
+{
+  "id": "SN-W00010",
+  "title": "AdTech SaaS Landing Page Template",
+  "summary": "Dark, futuristic AdTech SaaS landing page template for programmatic advertising platforms to showcase publisher solutions, advertiser outcomes, and case studies.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Futuristic",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3694,
+      "sha256": "99d19d48d7f92b346df6bb77138c3d63600a4e42ff15f9da037a8d5d9f30befa"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15590,
+      "sha256": "df78851f7dd422f2f8610c3f6b322d883d289ecff2a254bdddbc6316f9da4cd7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1064,
+      "sha256": "215e9a4ddd23a709a3d34296529244c9400365e39490ce380007fba9506ff585"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 1685,
+      "sha256": "b8570ff0319bae530a93272e19ea0dc5c4d89d35944682a2072000312f842b24"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24828,
+      "sha256": "aacd569dba6fdd84f283e06c26e42297e26c0f952246c49f2f397c430662af55"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "how-it-works",
+    "stats",
+    "footer",
+    "cta"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

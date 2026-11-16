@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth"><head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Digi Verse 360 | Complete Online Business Management</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&family=Unbounded:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+.scrolling-text {
+animation: scroll 20s linear infinite;
+}
+@keyframes scroll {
+from { transform: translateX(0); }
+to { transform: translateX(-50%); }
+}
+.grid-bg {
+background-size: 40px 40px;
+background-image: linear-gradient(to right, rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+linear-gradient(to bottom, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+}
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+width: 6px;
+}
+::-webkit-scrollbar-track {
+background: #050505;
+}
+::-webkit-scrollbar-thumb {
+background: #333;
+border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+background: #FF2A2A;
+}
+/* Transitions */
+.page-transition {
+transition: opacity 0.5s ease-in-out;
+}
+</style>
+
+
+
+</head>
+<body class="antialiased overflow-x-hidden selection:bg-[#FF2A2A] selection:text-black text-[#EAEAEA] font-['Space_Mono'] bg-[#050505] relative">
+
+    <!-- Background Layers -->
+    <div class="fixed inset-0 z-0 pointer-events-none grid-bg"></div>
+    <div class="fixed inset-0 z-0 pointer-events-none bg-gradient-to-t from-[#050505] via-transparent to-transparent h-48 bottom-0 w-full"></div>
+
+    <!-- Navigation -->
+    <nav class="fixed md:px-8 md:py-6 flex z-50 mix-blend-difference w-full pt-4 pr-4 pb-4 pl-4 top-0 left-0 items-center justify-between">
+        <a href="#" class="group flex items-center gap-2">
+            <div class="flex group-hover:rotate-180 transition-transform duration-500 font-semibold text-black font-['Unbounded'] bg-[#FF2A2A] w-8 h-8 rounded-sm items-center justify-center">s</div>
+            <span class="hidden md:block uppercase text-xl font-semibold tracking-tight font-['Unbounded']">SHORTSHIFTPARTS.AUTODETAIL</span>
+        </a>
+
+        <!-- Nav Links -->
+        <div class="hidden md:flex items-center gap-1 bg-white/5 backdrop-blur-md border border-white/10 rounded-full px-2 py-1">
+            <a href="#services" class="hover:text-black hover:bg-[#FF2A2A] transition-all text-xs rounded-full pt-2 pr-4 pb-2 pl-4">SERVICES</a>
+            <a href="#process" class="hover:text-black hover:bg-[#FF2A2A] transition-all text-xs rounded-full pt-2 pr-4 pb-2 pl-4">PROCESS</a>
+            <a href="#why-us" class="text-xs hover:text-black hover:bg-[#FF2A2A] px-4 py-2 rounded-full transition-all">WHY US</a>
+            <a href="#contact" class="text-xs hover:text-black hover:bg-[#FF2A2A] px-4 py-2 rounded-full transition-all">CONTACT</a>
+        </div>
+
+        <a href="tel:+923095610889" class="flex items-center gap-2 text-xs font-semibold border border-white/20 px-4 py-2 rounded-full hover:bg-[#FF2A2A] hover:text-black hover:border-[#FF2A2A] transition-all cursor-pointer group">
+            <iconify-icon icon="solar:phone-linear" stroke-width="1.5" class="w-4 h-4"></iconify-icon>
+            <span class="hidden md:block">+63 956 278 0222</span>
+        </a>
+    </nav>
+
+    <!-- Floating WhatsApp -->
+    <a href="https://wa.me/923095610889" target="_blank" rel="noopener noreferrer" class="fixed bottom-8 right-8 z-50 w-14 h-14 bg-[#FF2A2A] rounded-full flex items-center justify-center text-black shadow-[0_0_20px_rgba(255,42,42,0.3)] hover:scale-110 transition-transform duration-300">
+        <iconify-icon icon="solar:chat-round-line-linear" stroke-width="1.5" class="text-3xl"></iconify-icon>
+    </a>
+
+    <!-- MAIN HOME VIEW -->
+    <main class="page-transition z-10 pt-32 pb-20 relative" id="home-view">
+
+        <!-- Hero Section -->
+        <section class="md:px-8 max-w-[1800px] mr-auto mb-20 ml-auto pr-4 pl-4 relative">
+            <div class="md:right-8 hidden md:block opacity-20 absolute top-0 right-0">
+                <iconify-icon icon="solar:maximize-linear" stroke-width="1.5" class="animate-spin-slow text-9xl text-gray-500" style="animation-duration: 20s; color: rgb(107, 114, 128)" width="128" height="128"></iconify-icon>
+            </div>
+
+            <div class="flex flex-col gap-x-6 gap-y-6">
+    <img src="https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/917d6f93-fb36-439a-8c48-884b67b35381_1600w.jpg" alt="Shortshift Logo" class="md:h-14 self-start w-auto h-10 object-contain">
+    <div class="flex gap-3 mb-2 gap-x-3 gap-y-3 items-center">
+        <span class="w-2 h-2 bg-[#FF2A2A] rounded-full animate-pulse"></span>
+        <span class="uppercase text-xs text-gray-400 tracking-[0.2em]">CAR CARE SERVICE</span>
+    </div>
+    
+    <h1 class="md:text-7xl lg:text-8xl leading-[0.9] uppercase text-5xl font-extrabold tracking-tight font-['Unbounded'] max-w-5xl">Premium Auto Detailing<br> <span class="text-transparent" style="-webkit-text-stroke: 1px rgba(255,255,255,0.8)">Restore. Protect. Shine.</span> <br> Your <span class="italic text-[#FF2A2A] pr-4">CAR</span> DESERVES THE BEST CARE</h1>
+    
+    <div class="mt-4 max-w-2xl border-l-2 border-[#FF2A2A] pl-4">
+        <p class="md:text-base leading-relaxed text-sm text-gray-300 mb-8">Auto Detailing + Car TINT + Premium GYEON Ceramic Coating — All in One Place. We provide complete car care solutions from Car Tint, deep cleaning to long-term paint protection.</p>
+        <div class="flex flex-col sm:flex-row gap-4">
+            <a href="#contact" class="bg-[#FF2A2A] text-black font-['Unbounded'] font-semibold text-xs px-8 py-4 rounded-full hover:bg-white transition-colors flex items-center justify-center gap-2 uppercase tracking-wide">
+                Book a Free Consultation
+                <iconify-icon icon="solar:arrow-right-linear" stroke-width="1.5" class="text-lg"></iconify-icon>
+            </a>
+            <a href="#services" class="hover:bg-white hover:text-black transition-colors flex items-center justify-center gap-2 uppercase text-xs font-semibold text-white tracking-wide font-['Unbounded'] border-white/20 border rounded-full pt-4 pr-8 pb-4 pl-8">Get a Free Quote</a>
+        </div>
+    </div>
+</div>
+        </section>
+
+        <!-- Infinite Marquee -->
+        <div class="w-full border-t border-b border-white/10 py-4 mb-24 overflow-hidden bg-[#0A0A0A] relative">
+            <div class="whitespace-nowrap scrolling-text flex gap-8 items-center">
+                <span class="md:text-5xl uppercase text-4xl font-semibold text-transparent tracking-tight font-['Unbounded']" style="-webkit-text-stroke: 1px #333">ceramic coating</span>
+                <span class="font-['Unbounded'] text-4xl md:text-5xl text-[#FF2A2A] font-semibold uppercase">×</span>
+                <span class="md:text-5xl uppercase text-4xl font-semibold text-transparent tracking-tight font-['Unbounded']" style="-webkit-text-stroke: 1px #333">EXTERIOR detailing</span>
+                <span class="font-['Unbounded'] text-4xl md:text-5xl text-[#FF2A2A] font-semibold uppercase">×</span>
+                <span class="md:text-5xl uppercase text-4xl font-semibold text-transparent tracking-tight font-['Unbounded']" style="-webkit-text-stroke: 1px #333">CAR TINT</span>
+                <span class="font-['Unbounded'] text-4xl md:text-5xl text-[#FF2A2A] font-semibold uppercase">×</span>
+                <span class="font-['Unbounded'] text-4xl md:text-5xl text-transparent font-semibold uppercase tracking-tight" style="-webkit-text-stroke: 1px #333;">Google Ads</span>
+                <span class="font-['Unbounded'] text-4xl md:text-5xl text-[#FF2A2A] font-semibold uppercase">×</span>
+            </div>
+        </div>
+
+        <!-- Services Section (Bento Grid Layout) -->
+        <section class="md:px-8 scroll-mt-24 max-w-[1800px] mr-auto mb-32 ml-auto pr-4 pl-4" id="services">
+            <div class="flex items-end justify-between mb-8 border-b border-white/10 pb-4">
+                <h2 class="font-['Unbounded'] text-3xl uppercase tracking-tight">Our Services</h2>
+                <span class="text-xs text-[#FF2A2A] font-mono hidden md:block">[ALL UNDER ONE ROOF]</span>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-6 auto-rows-[minmax(350px,auto)]">
+                
+                <!-- Digital Marketing -->
+                <article class="bg-[#111] border border-white/10 p-8 flex flex-col group hover:border-[#FF2A2A] transition-colors rounded-sm">
+                    <div class="flex justify-between items-start mb-8">
+                        <iconify-icon icon="solar:star-circle-outline" stroke-width="1.5" class="text-4xl text-[#FF2A2A]" width="36" height="36" style="color: rgb(255, 42, 42);"></iconify-icon>
+                        <span class="font-mono text-xs text-gray-500">01</span>
+                    </div>
+                    <h3 class="uppercase text-2xl font-semibold tracking-tight font-['Unbounded'] mb-4">gyeon ceramic coating</h3>
+                    <ul class="flex-1 text-xs text-gray-400 font-mono space-y-3">
+                        <li class="flex gap-x-2 gap-y-2 items-start"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" class="text-base text-[#FF2A2A] mt-0.5" style="color: rgb(255, 42, 42)" data-icon-set="solar" data-solar="check-circle-linear"><g fill="none" stroke="currentColor" stroke-width="1.5" class=""><circle cx="12" cy="12" r="10"></circle><path stroke-linecap="round" stroke-linejoin="round" d="m8.5 12.5l2 2l5-5"></path></g></svg>Meta Ads (Facebook &amp; Instagram)</li>
+                        <li class="flex gap-2 gap-x-2 gap-y-2 items-start"><iconify-icon icon="solar:check-circle-linear" class="text-[#FF2A2A] text-base mt-0.5"></iconify-icon> Google &amp; YouTube Ads</li>
+                        <li class="flex gap-2 gap-x-2 gap-y-2 items-start"><iconify-icon icon="solar:check-circle-linear" class="text-[#FF2A2A] text-base mt-0.5"></iconify-icon> TikTok Ads &amp; Strategy</li>
+                        <li class="flex gap-2 gap-x-2 gap-y-2 items-start"><iconify-icon icon="solar:check-circle-linear" class="text-[#FF2A2A] text-base mt-0.5"></iconify-icon> Campaign Setup &amp; Optimization</li>
+                        <li class="flex gap-x-2 gap-y-2 items-start"><iconify-icon icon="solar:check-circle-linear" class="text-[#FF2A2A] text-base mt-0.5"></iconify-icon> Retargeting &amp; Tracking</li>
+                    </ul>
+                </article>
+
+                <!-- Shopify Services -->
+                <article class="bg-[#FF2A2A] text-black border border-[#FF2A2A] p-8 flex flex-col group rounded-sm shadow-[0_0_30px_rgba(255,42,42,0.1)]">
+                    <div class="flex justify-between items-start mb-8">
+                        <iconify-icon icon="solar:cart-large-minimalistic-linear" stroke-width="1.5" class="text-4xl"></iconify-icon>
+                        <span class="uppercase text-xs font-bold border-black border rounded-full pt-0.5 pr-2 pb-0.5 pl-2">exterior detailing</span>
+                    </div>
+                    <h3 class="uppercase text-2xl font-semibold tracking-tight font-['Unbounded'] mb-4">winshield restoration</h3>
+                    <ul class="flex-1 text-xs font-semibold font-mono opacity-80 space-y-3">
+                        <li class="flex gap-x-2 gap-y-2 items-start"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" class="text-xl w-[20px] h-[20px] mt-0.5" data-icon-set="solar" data-solar="check-circle-linear" stroke-width="2" data-icon-replaced="true" style="width: 20px; height: 20px; color: rgb(0, 0, 0)"><g fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="10"></circle><path stroke-linecap="round" stroke-linejoin="round" d="m8.5 12.5l2 2l5-5"></path></g></svg>Full Store Building &amp; Design</li>
+                        <li class="flex items-start gap-2"><iconify-icon icon="solar:check-circle-linear" class="text-xl mt-0.5"></iconify-icon> Winning Product Hunting</li>
+                        <li class="flex items-start gap-2"><iconify-icon icon="solar:check-circle-linear" class="text-xl mt-0.5"></iconify-icon> Complete Store Management</li>
+                        <li class="flex items-start gap-2"><iconify-icon icon="solar:check-circle-linear" class="text-xl mt-0.5"></iconify-icon> Fulfillment &amp; Payment Setup</li>
+                        <li class="flex items-start gap-2"><iconify-icon icon="solar:check-circle-linear" class="text-xl mt-0.5"></iconify-icon> Marketing Integration</li>
+                    </ul>
+                </article>
+
+                <!-- Influencer Marketing -->
+                <article class="flex flex-col group hover:border-[#FF2A2A] transition-colors bg-[#111] border-white/10 border rounded-sm pt-8 pr-8 pb-8 pl-8">
+                    <div class="flex justify-between items-start mb-8">
+                        <iconify-icon icon="solar:users-group-rounded-linear" stroke-width="1.5" class="text-4xl text-[#FF2A2A]"></iconify-icon>
+                        <span class="font-mono text-xs text-gray-500">03</span>
+                    </div>
+                    <h3 class="uppercase text-2xl font-semibold tracking-tight font-['Unbounded'] mb-4">paint correction</h3>
+                    <ul class="space-y-3 text-xs text-gray-400 font-mono flex-1">
+                        <li class="flex items-start gap-2"><iconify-icon icon="solar:check-circle-linear" class="text-[#FF2A2A] text-base mt-0.5"></iconify-icon> Campaign Management</li>
+                        <li class="flex items-start gap-2"><iconify-icon icon="solar:check-circle-linear" class="text-[#FF2A2A] text-base mt-0.5"></iconify-icon> UGC Content Creation</li>
+                        <li class="flex items-start gap-2"><iconify-icon icon="solar:check-circle-linear" class="text-[#FF2A2A] text-base mt-0.5"></iconify-icon> Premium Ads Creative Design</li>
+                        <li class="flex items-start gap-2"><iconify-icon icon="solar:check-circle-linear" class="text-[#FF2A2A] text-base mt-0.5"></iconify-icon> Social Media Page Handling</li>
+                        <li class="flex items-start gap-2"><iconify-icon icon="solar:check-circle-linear" class="text-[#FF2A2A] text-base mt-0.5"></iconify-icon> Canva &amp; Premiere Pro Editing</li>
+                    </ul>
+                </article>
+
+            </div>
+        </section>
+
+        <!-- Process Section -->
+        <section id="process" class="px-4 md:px-8 max-w-[1800px] mx-auto scroll-mt-24 mb-32">
+            <div class="border-t border-white/20"></div>
+            <div class="flex items-end justify-between mt-8 mb-8">
+                <h2 class="uppercase text-3xl tracking-tight font-['Unbounded']">Our Process</h2>
+            </div>
+
+            <div class="grid grid-cols-2 md:grid-cols-6 divide-y md:divide-y-0 md:divide-x divide-white/20 border-y border-white/20">
+                <!-- Step 1 -->
+                <div class="md:p-8 group hover:bg-[#111] transition-colors flex flex-col md:h-64 h-48 pt-6 pr-6 pb-6 pl-6 justify-between">
+                    <span class="font-['Unbounded'] text-4xl opacity-20 group-hover:opacity-100 group-hover:text-[#FF2A2A] transition-all">01</span>
+                    <h3 class="uppercase text-sm font-semibold tracking-tight">Vehicle Inspection</h3>
+                </div>
+                <!-- Step 2 -->
+                <div class="p-6 md:p-8 group hover:bg-[#111] transition-colors flex flex-col justify-between h-48 md:h-64">
+                    <span class="font-['Unbounded'] text-4xl opacity-20 group-hover:opacity-100 group-hover:text-[#FF2A2A] transition-all">02</span>
+                    <h3 class="uppercase text-sm font-semibold tracking-tight">Deep Exterior Wash</h3>
+                </div>
+                <!-- Step 3 -->
+                <div class="p-6 md:p-8 group hover:bg-[#111] transition-colors flex flex-col justify-between h-48 md:h-64">
+                    <span class="font-['Unbounded'] text-4xl opacity-20 group-hover:opacity-100 group-hover:text-[#FF2A2A] transition-all">03</span>
+                    <h3 class="uppercase text-sm font-semibold tracking-tight">Paint Decontamination /paint correction</h3>
+                </div>
+                <!-- Step 4 -->
+                <div class="p-6 md:p-8 group hover:bg-[#111] transition-colors flex flex-col justify-between h-48 md:h-64">
+                    <span class="font-['Unbounded'] text-4xl opacity-20 group-hover:opacity-100 group-hover:text-[#FF2A2A] transition-all">04</span>
+                    <h3 class="uppercase text-sm font-semibold tracking-tight">Interior  Cleaning</h3>
+                </div>
+                <!-- Step 5 -->
+                <div class="p-6 md:p-8 group hover:bg-[#111] transition-colors flex flex-col justify-between h-48 md:h-64">
+                    <span class="font-['Unbounded'] text-4xl opacity-20 group-hover:opacity-100 group-hover:text-[#FF2A2A] transition-all">05</span>
+                    <h3 class="uppercase text-sm font-semibold tracking-tight">meticulous detailing preps</h3>
+                </div>
+                <!-- Step 6 -->
+                <div class="p-6 md:p-8 group hover:bg-[#111] transition-colors flex flex-col justify-between h-48 md:h-64">
+                    <span class="font-['Unbounded'] text-4xl opacity-20 group-hover:opacity-100 group-hover:text-[#FF2A2A] transition-all">06</span>
+                    <h3 class="uppercase text-sm font-semibold tracking-tight">professional application of coating</h3>
+                </div>
+            </div>
+        </section>
+
+        <!-- Why Choose Us & Who We Work With -->
+        <section id="why-us" class="px-4 md:px-8 max-w-[1800px] mx-auto scroll-mt-24 mb-32">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-12 md:gap-24">
+                
+                <div class="">
+                    <h2 class="font-['Unbounded'] text-3xl uppercase tracking-tight border-b border-white/10 pb-4 mb-8">Why Choose Us</h2>
+                    <ul class="space-y-6">
+                        <li class="flex items-start gap-4">
+                            <iconify-icon icon="solar:shield-check-linear" stroke-width="1.5" class="text-3xl text-[#FF2A2A]"></iconify-icon>
+                            <div class="">
+                                <h4 class="font-semibold uppercase text-sm mb-1 tracking-tight">Complete Management</h4>
+                                <p class="text-xs text-gray-400">All your business needs under one roof, from store creation to ad scaling.</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start gap-4">
+                            <iconify-icon icon="solar:graph-up-linear" stroke-width="1.5" class="text-3xl text-[#FF2A2A]"></iconify-icon>
+                            <div class="">
+                                <h4 class="font-semibold uppercase text-sm mb-1 tracking-tight">Data-Driven Strategy</h4>
+                                <p class="text-xs text-gray-400">Decisions backed by metrics to ensure result-oriented campaigns.</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start gap-4">
+                            <iconify-icon icon="solar:rocket-linear" stroke-width="1.5" class="text-3xl text-[#FF2A2A]"></iconify-icon>
+                            <div class="">
+                                <h4 class="font-semibold uppercase text-sm mb-1 tracking-tight">Long-Term Growth</h4>
+                                <p class="text-xs text-gray-400">We partner with you for sustainable expansion, led by an experienced team.</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="md:p-12 overflow-hidden bg-[#111] border-white/10 border rounded-sm pt-8 pr-8 pb-8 pl-8 relative">
+                    <div class="absolute top-0 right-0 w-64 h-64 bg-[#FF2A2A]/5 rounded-full blur-[80px] -translate-y-1/2 translate-x-1/2"></div>
+                    <h2 class="uppercase z-10 text-2xl tracking-tight font-['Unbounded'] mb-8 relative">Our Specialties</h2>
+                    <div class="flex flex-wrap gap-3 z-10 relative gap-x-3 gap-y-3">
+                        <span class="hover:border-[#FF2A2A] hover:text-[#FF2A2A] transition-colors cursor-default text-xs border-white/20 border rounded-full pt-2 pr-4 pb-2 pl-4">GYEON Ceramic Coating application</span>
+                        <span class="hover:border-[#FF2A2A] hover:text-[#FF2A2A] transition-colors cursor-default text-xs border-white/20 border rounded-full pt-2 pr-4 pb-2 pl-4">Paint Correction and polishing</span>
+                        <span class="hover:border-[#FF2A2A] hover:text-[#FF2A2A] transition-colors cursor-default text-xs border-white/20 border rounded-full pt-2 pr-4 pb-2 pl-4">Headlight Restoration</span>
+                        <span class="hover:border-[#FF2A2A] hover:text-[#FF2A2A] transition-colors cursor-default text-xs border-white/20 border rounded-full pt-2 pr-4 pb-2 pl-4">Windshield Restoration</span>
+                        <span class="hover:border-[#FF2A2A] hover:text-[#FF2A2A] transition-colors cursor-default text-xs border-white/20 border rounded-full pt-2 pr-4 pb-2 pl-4">Engine Bay Cleaning</span>
+                        <span class="hover:border-[#FF2A2A] hover:text-[#FF2A2A] transition-colors cursor-default text-xs border-white/20 border rounded-full pt-2 pr-4 pb-2 pl-4">Watermarks Removal</span>
+                    </div><div class="flex flex-wrap gap-3 z-10 relative gap-x-3 gap-y-3 mt-3">
+    <span class="hover:border-[#FF2A2A] hover:text-[#FF2A2A] transition-colors cursor-default text-xs border-white/20 border rounded-full pt-2 pr-4 pb-2 pl-4">Premium Car Tinting</span>
+</div>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- Contact / Booking Section & Footer -->
+        <section id="contact" class="px-4 md:px-8 max-w-[1800px] mx-auto pb-12 scroll-mt-24">
+            <div class="md:p-16 overflow-hidden flex flex-col md:flex-row md:gap-24 bg-[#0A0A0A] border-white/10 border rounded-sm pt-8 pr-8 pb-8 pl-8 relative gap-x-12 gap-y-12">
+                
+                <!-- Left: Headline & Info -->
+                <div class="flex-1 relative z-10 flex flex-col justify-between">
+                    <div class="">
+                        <div class="text-xs font-semibold uppercase tracking-widest mb-4 border-b border-white/20 inline-block pb-1 text-[#FF2A2A]">Let's Work Together</div>
+                        <h2 class="md:text-6xl uppercase leading-[1.1] text-4xl font-extrabold tracking-tight font-['Unbounded'] mb-6">Want Your Car to Shine Like New?</h2>
+                        <p class="text-sm text-gray-400 mb-8 max-w-md leading-relaxed">
+                            Book your free consultation now and let Digi Verse 360 handle your complete online business.
+                        </p>
+                    </div>
+
+                    <div class="space-y-4">
+                        <a href="/+63 956 278 0222" class="inline-flex items-center gap-4 hover:text-[#FF2A2A] transition-colors text-lg font-mono">
+                            <iconify-icon icon="lucide:phone-call" stroke-width="1.5" class="text-2xl text-[#FF2A2A]" width="24" height="24" style="color: rgb(255, 42, 42)"></iconify-icon>
+                            +92 309 5610889
+                        </a>
+                        <br>
+                        <a href="https://wa.me/923095610889" class="inline-flex items-center gap-4 hover:text-[#FF2A2A] transition-colors text-lg font-mono">
+                            <iconify-icon icon="solar:chat-round-line-linear" stroke-width="1.5" class="text-2xl text-[#FF2A2A]"></iconify-icon>
+                            WhatsApp Us
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Right: Contact Form -->
+                <div class="flex-1 relative z-10">
+                    <form onsubmit="event.preventDefault();" class="bg-[#050505] border-white/10 border rounded-sm pt-8 pr-8 pb-8 pl-8 shadow-2xl space-y-8">
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                            <div class="space-y-2">
+                                <label class="text-xs uppercase text-gray-500 font-semibold tracking-wider">Name</label>
+                                <input type="text" placeholder="John Doe" class="w-full bg-transparent border-b border-white/20 py-2 focus:border-[#FF2A2A] outline-none font-mono text-sm transition-colors text-white placeholder-gray-700">
+                            </div>
+                            <div class="space-y-2">
+                                <label class="uppercase text-xs font-semibold text-gray-500 tracking-wider">Email</label>
+                                <input type="email" placeholder="contact@brand.com" class="focus:border-[#FF2A2A] outline-none transition-colors placeholder-gray-700 text-sm text-white font-mono bg-transparent w-full border-white/20 border-b pt-2 pb-2">
+                            </div>
+                        </div>
+
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                            <div class="space-y-2">
+                                <label class="uppercase text-xs font-semibold text-gray-500 tracking-wider">Phone</label>
+                                <input type="tel" placeholder="+1 234 567 890" class="focus:border-[#FF2A2A] outline-none transition-colors placeholder-gray-700 text-sm text-white font-mono bg-transparent w-full border-white/20 border-b pt-2 pb-2">
+                            </div>
+                            <div class="group cursor-pointer relative space-y-2">
+                                <label class="uppercase text-xs font-semibold text-gray-500 tracking-wider">Business Type</label>
+                                <select class="focus:border-[#FF2A2A] outline-none transition-colors appearance-none cursor-pointer text-sm text-gray-300 font-mono bg-transparent w-full border-white/20 border-b pt-2 pb-2">
+                                    <option value="" disabled="" selected="" class="bg-[#0A0A0A]">Select type...</option>
+                                    <option value="ecommerce" class="bg-[#0A0A0A]">Exterior Detailing</option>
+                                    <option value="offline" class="bg-[#0A0A0A]">Interior Detailing</option>
+                                    <option value="startup" class="bg-[#0A0A0A]">Ceramic Coating</option>
+                                    <option value="personal" class="bg-[#0A0A0A]">Car Tint</option>
+                                </select>
+                                <div class="absolute right-0 bottom-3 pointer-events-none">
+                                    <iconify-icon icon="solar:alt-arrow-down-linear" class="text-gray-500"></iconify-icon>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="space-y-2">
+                            <label class="text-xs uppercase text-gray-500 font-semibold tracking-wider">Message</label>
+                            <textarea rows="3" placeholder="Tell us about your goals..." class="focus:border-[#FF2A2A] outline-none transition-colors resize-none placeholder-gray-700 text-sm text-white font-mono bg-transparent w-full border-white/20 border-b pt-2 pb-2">tell us how we can help you</textarea>
+                        </div>
+
+                        <button class="w-full bg-[#FF2A2A] text-black font-['Unbounded'] font-semibold text-sm px-8 py-4 rounded-full hover:bg-white transition-colors flex items-center justify-center gap-2 uppercase tracking-wide">
+                            Submit Inquiry <iconify-icon icon="solar:arrow-right-linear" stroke-width="1.5" class="text-lg"></iconify-icon>
+                        </button>
+                    </form>
+                </div>
+            </div>
+            
+            <footer class="mt-16 flex flex-col md:flex-row justify-between items-end border-t border-white/10 pt-8 gap-8">
+                <div class="flex flex-col gap-4 max-w-sm">
+                    <a href="#" class="uppercase text-xl font-semibold tracking-tight font-['Unbounded']">Digi Verse 360</a>
+                    <p class="leading-relaxed text-xs text-gray-500 font-mono">
+                        A full-service Digital Marketing, Shopify, and Influencer Marketing agency dedicated to scaling your brand online.
+                    </p>
+                    <div class="flex gap-4 text-gray-500 mt-2">
+                        <a href="#" class="hover:text-[#FF2A2A] transition-colors"><iconify-icon icon="solar:instagram-linear" stroke-width="1.5" class="text-xl"></iconify-icon></a>
+                        <a href="#" class="hover:text-[#FF2A2A] transition-colors"><iconify-icon icon="solar:facebook-linear" stroke-width="1.5" class="text-xl"></iconify-icon></a>
+                        <a href="#" class="hover:text-[#FF2A2A] transition-colors"><iconify-icon icon="solar:link-linear" stroke-width="1.5" class="text-xl"></iconify-icon></a>
+                    </div>
+                </div>
+                
+                <div class="grid grid-cols-2 gap-x-12 gap-y-4 text-xs text-gray-400 font-mono uppercase">
+                    <div class="flex flex-col gap-2">
+                        <span class="text-white font-semibold mb-1">Quick Links</span>
+                        <a href="#services" class="hover:text-[#FF2A2A]">Services</a>
+                        <a href="#process" class="hover:text-[#FF2A2A]">Process</a>
+                        <a href="#why-us" class="hover:text-[#FF2A2A]">Why Us</a>
+                    </div>
+                    <div class="flex flex-col gap-2">
+                        <span class="text-white font-semibold mb-1">Contact</span>
+                        <a href="tel:+923095610889" class="hover:text-[#FF2A2A]">Call Us</a>
+                        <a href="https://wa.me/923095610889" class="hover:text-[#FF2A2A]">FACEBOOK</a>
+                        <a href="#contact" class="hover:text-[#FF2A2A]">FREE ASSESSMENT</a>
+                    </div>
+                </div>
+                
+                <div class="text-[10px] text-gray-600 font-mono uppercase text-right md:min-w-[200px]">
+                    © 2026 Digi Verse 360.<br>All Rights Reserved.
+                </div>
+            </footer>
+        </section>
+    </main>
+
+</body></html>

@@ -1,0 +1,66 @@
+{
+  "id": "SN-W02144",
+  "title": "OBLIQ Fashion Portfolio Template",
+  "summary": "A high-end, experimental garment studio template designed for independent fashion brands focusing on structure, motion, and minimal aesthetics.",
+  "tags": [
+    "Fashion",
+    "Art & Design",
+    "Portfolio",
+    "Minimal",
+    "Clean",
+    "Dark",
+    "Landing Page",
+    "Style"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3356,
+      "sha256": "33490f961646a6f9bcbba25cfb42f411a00f3b517216eec99476a7dee8952d43"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5330,
+      "sha256": "7cd63a3616661a2bf5b28cb9bf4f8f84fe43ee78f005998146f4c5f28220f4c1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 720,
+      "sha256": "bddc45a4fb85e163b2216203bd725607d27f978727b18ba0d56a808ce06070f5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37234,
+      "sha256": "271786de655d83217b8f42818f1765b5f17a5432c9ea1b207efeff18b71cec8b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "product-grid",
+    "marquee",
+    "cta",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

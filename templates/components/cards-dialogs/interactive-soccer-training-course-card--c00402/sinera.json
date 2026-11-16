@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00402",
+  "title": "Interactive Soccer Training Course Card",
+  "summary": "Tailwind-styled responsive card featuring background image with gradient, coach avatar and quote, play/bookmark buttons, and progress bar showing current module and time—ideal for course or video previews.",
+  "tags": [
+    "card",
+    "tailwind",
+    "video",
+    "overlay",
+    "interactive",
+    "progress",
+    "avatar",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12646,
+      "sha256": "b0a38cee16558d26f80d97c68c59779abb3a54589c4e9969f278364a153ad5e1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3387,
+      "sha256": "e4082d86550c7c6cf5323a63fb351dd323dc200794d4f5fa98f5c5c3b5c307ff"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4377,
+      "sha256": "0428aeada16c2a90f5602a9dd6558fbe70b9585c8d5d28b673134ca0e0207ee0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

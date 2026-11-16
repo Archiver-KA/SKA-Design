@@ -1,0 +1,90 @@
+{
+  "id": "SN-W01638",
+  "title": "Marketing Team Landing Page UI",
+  "summary": "Responsive marketing landing page with animated navigation and gradient backgrounds using Tailwind CSS and SVG icons.",
+  "tags": [
+    "Landing Page",
+    "Navigation",
+    "Tailwind CSS",
+    "Animation",
+    "SVG Icons",
+    "Responsive Design",
+    "Gradient Background"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3756,
+      "sha256": "83644e52df7b10253097d9258ab5ec54a22e6b05e58e086dc4b7d826d8579604"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 24394,
+      "sha256": "09d7f82ddf3de10bd35834aa1170482d39cd86f560c5f2b5429f29a24dc79903"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1844,
+      "sha256": "a548802aa9ef84f3abfee24a8eadf15eb9cc6bfeb545d17a91cc9acdf282781e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 426,
+      "sha256": "082999a53465900277b5931ec5885f198288f8ff04bf4de96e694bf603999aa4"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 592,
+      "sha256": "c5077c6a55eb2900365804bcdfe90c6222acfa6fd4d97fdbdeb3d37013bd7c77"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 318,
+      "sha256": "344f1ee4bd0d261b195c14b5723c55143d4fc8a6862c7ac290bbe682ecfbe5a4"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 302,
+      "sha256": "7ff967f18534bc2c6c62f6c1e20796f4a4005a7141f023b0998fbda6e2ba6d71"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 359,
+      "sha256": "8912df696aee8fb27adbcc5735312259e71b9ffa07ad7101fecf8c156eedf59c"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 388,
+      "sha256": "4d096d582dd83b9686f471db508aae1ca7b2659288b35e26c8d8d7b72b52692d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21143,
+      "sha256": "69a50b4c2c2cdf976d2a7e8e67e3af12340484af5ae38a624e02628f948200cb"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

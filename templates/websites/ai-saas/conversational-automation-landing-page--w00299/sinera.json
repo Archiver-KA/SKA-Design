@@ -1,0 +1,142 @@
+{
+  "id": "SN-W00299",
+  "title": "Conversational Automation Landing Page",
+  "summary": "Responsive landing page with hero, navigation, metrics, and call-to-action buttons for a conversational automation platform.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "Metrics",
+    "Navigation",
+    "Call to Action",
+    "Responsive",
+    "Tailwind CSS"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3431,
+      "sha256": "ee6da5523bae64a03f423c0e84688caf4f55ae3370c90d7700d69792453266e5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17196,
+      "sha256": "8ab424827ea338349403aa7a3c28e2dbbeb60e94df78c046ffd5e114e2057132"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 4248,
+      "sha256": "4ff25aaaab05e485cd8bd6f72630b62fe2c31030a3453247295ed7c547c0ddf1"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 380,
+      "sha256": "a6b69651eae241e26be0d64ef7ef890c917fcca27c573240af88a140507298fd"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 362,
+      "sha256": "3e035fa3ee968584d45bf1925cd5f434bdde1320e3233ccccff959e20632e3a6"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 578,
+      "sha256": "38d16b74712173187d6b295ad6ceed0e1e2c650043b87461443e54d57914f00d"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 425,
+      "sha256": "bff380f32995b32080410bc31024162fc156d7055df7f8df35919ebbfbd67f82"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 423,
+      "sha256": "fea8241d9438dc10a4f162ebbafb32e1759a81f07bd0f3befc9010b38654784b"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 338,
+      "sha256": "64bdd227873a79d018813cb5caa3bf5c152dfdfdf2070e187d9989cbdb743741"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 474,
+      "sha256": "2d45b3dfb6d00d896e9cc47750a7776c263661cf70d3437d466a8da01ad0d306"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 319,
+      "sha256": "7e2c3dd560727e769e137f9861694c7d8b697d8e2c98f503636880d13fab7f8a"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 1013,
+      "sha256": "c7d799e9423c53adb24d9362ec95c7de9b98b9e5789cc8a0231aa19457693243"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 534,
+      "sha256": "442244a451e82f85c356e075d3b3921d15755bd032bd3f068b4a21c116522f1f"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 311,
+      "sha256": "9426595a3636218f8d64bc987147a90650885a82b8aa9bd20044a4e4be66ce28"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 407,
+      "sha256": "ad9bac38d15635f1c24a4dc84bfc4078b756f77358c7e0228f65112b0944cda5"
+    },
+    {
+      "path": "images/embedded/embedded-0013.svg",
+      "bytes": 277,
+      "sha256": "1ee8d94c2c7bf3685e03d3187ed6e9b646a6ddd39345177501eb3fa3deb17d02"
+    },
+    {
+      "path": "images/embedded/embedded-0014.svg",
+      "bytes": 416,
+      "sha256": "1afa132a1f090a2b97443807f3395eed8c794b0048c4b7f0662878adf8d338c7"
+    },
+    {
+      "path": "images/embedded/embedded-0015.svg",
+      "bytes": 422,
+      "sha256": "d0dcfd0cb8838475fd88e35a0f6862752df58236a0c3b49eacd28dba227e5746"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39719,
+      "sha256": "8875a26b6c11f76e8934beb48c2752efff1d34a3ee01fb8d9f1a036ea96c7ad2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "pricing",
+    "team",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

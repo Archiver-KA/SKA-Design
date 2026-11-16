@@ -1,0 +1,46 @@
+{
+  "id": "SN-C01008",
+  "title": "Comprehensive Building Permit Application Form",
+  "summary": "Multi-section accordion form for building permit requests. Includes applicant and site details, dynamic architect autofill, AI text suggestions, validation badges, file uploads, signature pads, and status tracking. Built with Tailwind CSS and vanilla JS, fully responsive.",
+  "tags": [
+    "form",
+    "multi-step",
+    "accordion",
+    "tailwind",
+    "validation",
+    "file-upload",
+    "signature",
+    "responsive",
+    "dynamic",
+    "building-permit"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9504,
+      "sha256": "780d34ce50d5279a065b062c2dd33b75bf69490f9bfd393e6b7541e2d40b9ad2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 275375,
+      "sha256": "4e71b436dae57ed7f9e1d079f9519b4ac9cc49261d126c32080d57211b12c264"
+    },
+    {
+      "path": "index.html",
+      "bytes": 276372,
+      "sha256": "98cd585dd93c306bf0aa0f7ac5311e325f862a1b66abec6bba81b54f0a102a4b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

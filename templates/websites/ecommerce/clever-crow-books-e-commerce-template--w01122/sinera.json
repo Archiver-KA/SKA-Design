@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01122",
+  "title": "Clever Crow Books E-commerce Template",
+  "summary": "A sophisticated and clean bookstore template designed for independent bookshops and literary brands to showcase curated collections.",
+  "tags": [
+    "E-commerce",
+    "Brand",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Grid",
+    "Fashion"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3808,
+      "sha256": "f214c4c6a60fcd2e345aafb9c618610143a3b500d82bc84c729f46f18ed30f52"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10726,
+      "sha256": "ca38c0f35fae255f1a1e07ffa2ffd56c13d7cc90fd76cfcc14328432ab23a2b1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 810,
+      "sha256": "033c8ad6943db25bce8b54f319a33d6a4701d968af869c71157ecd756ee261e6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 58261,
+      "sha256": "7c5e4df4158e173940d594d24087da90a2a5d4ae719747c3fd5d570c8fa53274"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "announcement-bar",
+    "navbar",
+    "hero",
+    "product-grid",
+    "booking",
+    "blog-articles",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

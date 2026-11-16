@@ -1,0 +1,62 @@
+{
+  "id": "SN-W02589",
+  "title": "Elite Fitness Coaching Landing Page Template",
+  "summary": "A high-impact, dark-mode landing page template for fitness professionals and elite personal trainers to showcase services and collect client applications.",
+  "tags": [
+    "Health",
+    "Services",
+    "Landing Page",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3528,
+      "sha256": "d8b081e8d990b0a5d62cca2788c3ec4d9b9a669b898b4d3b68b55bcbabb5b7e3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 23802,
+      "sha256": "dcd5b1fc8cfa63f8e9493649d7abe7654b6c3f56a988f2745ffa53eab01026fe"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 739,
+      "sha256": "751b46817c3d19089c5c4eddb4d43903f63d4b9e0991b968ea6963e99aa27a50"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20174,
+      "sha256": "63cc30a347ba011fee14d388618b4d78fb1ab84753938dfbe05a3b277f812190"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

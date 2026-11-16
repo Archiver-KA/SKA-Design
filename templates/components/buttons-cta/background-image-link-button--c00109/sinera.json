@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00109",
+  "title": "Background Image Link Button",
+  "summary": "Anchor element styled with Tailwind to show a centered, cover-fit 60×40px background image and rounded corners. Ideal for icon links, image-based CTAs, or thumbnail navigation.",
+  "tags": [
+    "link",
+    "image",
+    "tailwind",
+    "thumbnail",
+    "rounded",
+    "logo"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1544,
+      "sha256": "2ef868798bb0547278be88e8ad89b852c104d958d9d2c6cb5a2417d562971e0e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 565,
+      "sha256": "71f40c9c0847717ff30ac2fa1dd5d079a355f0fc6461830d2a733d8543a1f5e5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1414,
+      "sha256": "5933262a636f865f0e18d780ace94fac2c904a79902674b314a3e85ab64a3bc7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

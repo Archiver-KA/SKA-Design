@@ -1,0 +1,21 @@
+<svg class="pointer-events-none z-0 overflow-visible w-full h-full absolute top-0 right-0 bottom-0 left-0">
+        <defs class="">
+            <linearGradient id="lineGradient" x1="0%" y1="0%" x2="100%" y2="0%" class="">
+                <stop offset="0%" stop-color="rgba(192, 156, 110, 0)"></stop>
+                <stop offset="50%" stop-color="rgba(192, 156, 110, 0.3)"></stop>
+                <stop offset="100%" stop-color="rgba(192, 156, 110, 0)"></stop>
+            </linearGradient>
+            <marker id="dot" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5">
+                <circle cx="5" cy="5" r="3" fill="#C09C6E"></circle>
+            </marker>
+        </defs>
+        
+        <!-- Connection Lines (Abstracted Map Topology) -->
+        <path d="M250,300 Q400,250 500,320" fill="none" stroke="url(#lineGradient)" stroke-width="1" stroke-dasharray="4 4" class="opacity-60"></path>
+        <path d="M500,320 Q650,280 800,250" fill="none" stroke="url(#lineGradient)" stroke-width="1" stroke-dasharray="4 4" class="opacity-60"></path>
+        
+        <!-- Vertical Reference Drops -->
+        <line x1="250" y1="300" x2="250" y2="400" stroke="rgba(255,255,255,0.05)" stroke-width="1" stroke-dasharray="2 2" class=""></line>
+        <line x1="500" y1="320" x2="500" y2="420" stroke="rgba(255,255,255,0.05)" stroke-width="1" stroke-dasharray="2 2" class=""></line>
+        <line x1="800" y1="250" x2="800" y2="350" stroke="rgba(255,255,255,0.05)" stroke-width="1" stroke-dasharray="2 2"></line>
+    </svg>

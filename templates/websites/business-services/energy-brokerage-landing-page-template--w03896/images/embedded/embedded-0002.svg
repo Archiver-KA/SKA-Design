@@ -1,0 +1,17 @@
+<svg
+                viewBox="0 0 100 100"
+                class="absolute inset-0 w-full h-full animate-[spin_25s_linear_infinite] p-2"
+              >
+                <path
+                  id="curve"
+                  d="M 50, 50 m -42, 0 a 42,42 0 1,1 84,0 a 42,42 0 1,1 -84,0"
+                  fill="transparent"
+                ></path>
+                <text
+                  class="text-[7.5px] fill-white/80 font-medium tracking-[0.25em] uppercase"
+                >
+                  <textPath href="#curve" startOffset="0">
+                    Lower Your Rate • Save Money • Go Green •
+                  </textPath>
+                </text>
+              </svg>

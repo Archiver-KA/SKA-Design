@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03577",
+  "title": "Community Hive Landing Page Template",
+  "summary": "A vibrant hive-themed landing page template for showcasing a collaborative community, team structure, and newsletter-driven ecosystem.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Education",
+    "Clean",
+    "Colorful",
+    "Large Type",
+    "Gradient",
+    "Portfolio",
+    "Community",
+    "Team"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3544,
+      "sha256": "f87db23cdd1ab5ebfae44e6795429652141579dd1aa80f9d9a3745be131b9575"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10354,
+      "sha256": "ee40c3cce5c5bb0fab673fbe31fd5d0f488cf9b249af174894625d43c1bbf1e7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 721,
+      "sha256": "059b5b2a6b97bf924ea16810a1a5a5dd9b267e26c656c3b3327859fd3ef496cf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28755,
+      "sha256": "144115aea630f130fa61a55aa54aa112aa63e0c159127a45b7c36275238b37c7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "integrations",
+    "team",
+    "gallery-portfolio",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

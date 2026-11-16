@@ -1,0 +1,72 @@
+{
+  "id": "SN-W01228",
+  "title": "Luxury Jewelry E-commerce Landing Page Template",
+  "summary": "A modern luxury jewelry e-commerce landing page template for showcasing high-end collections, highlighting signature pieces, and driving online sales and appointments.",
+  "tags": [
+    "E-commerce",
+    "Landing Page",
+    "Brand",
+    "Style",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Luxury Jewelry"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3753,
+      "sha256": "5bbe6d96a580fd84dd4f06aea556a68bc85d48ee8b3de5a49f4cbb83c61858a0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22670,
+      "sha256": "78d5ba18b8869b1992ade70cf842e46fd08afcb575c2bc8f87e042b41d46dbf4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 820,
+      "sha256": "4f9f71e20dddc278db984acda21689d03b1ff1d24bbf3a2b1ba9239784db7798"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31029,
+      "sha256": "859fcc926091f522da1b5329ef73cf6c274ef9eeb22f8cbdff51bbf92fe5ade2"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "contact-form",
+    "about",
+    "footer",
+    "cta"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "broken-images"
+    ],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

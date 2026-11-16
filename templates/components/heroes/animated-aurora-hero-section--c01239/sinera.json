@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01239",
+  "title": "Animated Aurora Hero Section",
+  "summary": "A full-screen dark hero section with cinematic typography, animated CTA, and a Three.js aurora ring background. Built with Tailwind CSS, GSAP, and Iconify for immersive landing pages, creative portfolios, or premium product intros.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "threejs",
+    "gsap",
+    "animated",
+    "responsive",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 17970,
+      "sha256": "f141fe1e233f7d786594a2ec709758372e563c6c234fbd9fd48ec44665cc48fd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9768,
+      "sha256": "3adb8af2062e18bbd7a51ce21d5521fdecb35ddbf6f33b323cfb57de1ad8ed34"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

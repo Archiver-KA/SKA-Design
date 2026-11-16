@@ -1,0 +1,60 @@
+{
+  "id": "SN-W03738",
+  "title": "Playbase Video Platform Template",
+  "summary": "A high-performance video streaming and content discovery platform template designed for creators and media brands.",
+  "tags": [
+    "Technology",
+    "Entertainment",
+    "Dark",
+    "Futuristic",
+    "Clean",
+    "Landing Page",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3558,
+      "sha256": "dc6de777677e45c5171474aa7788041f78bf27ae782bb9ed5c86c188ffd54dc5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18230,
+      "sha256": "370ee68fa1a5a7f6d9c3fb084e6ac34a38f4255f360fd802df9a7c96c5584591"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "d675f3af2f53f74d5bfec20ed82544b44e56482e7ff1ce8cbe7ba748cbb5dd26"
+    },
+    {
+      "path": "index.html",
+      "bytes": 59069,
+      "sha256": "de4e9557042ee975b57e59ea0481a34ddb7816b43cadfd6abc59cf7ae2496f3a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "listings",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

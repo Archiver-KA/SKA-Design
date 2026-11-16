@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01664",
+  "title": "Conic Gradient Icon Badge",
+  "summary": "40×40 px square badge with conic gradient background and centered SVG compass icon, built with Tailwind utility classes. Ideal for dashboards, navigation shortcuts, or status indicators in modern UIs.",
+  "tags": [
+    "badge",
+    "icon",
+    "tailwind",
+    "gradient",
+    "square",
+    "navigation",
+    "ui-component"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1582,
+      "sha256": "552ff3d786f7589f30e90a93cdadf05bdac5acf1a3fde2e1350fbb23ebf5db8a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 717,
+      "sha256": "a5ac0a7d6842de60099102db1fb43d448aa377e848d7562e1efaa3d853e31b26"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1693,
+      "sha256": "dd877ca3053c43723cf66a6852537258fbb98eacecd818c1787d87704d7ec7c4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

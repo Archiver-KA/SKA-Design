@@ -1,0 +1,46 @@
+{
+  "id": "SN-C00970",
+  "title": "Responsive Tailwind Footer with Links & Newsletter",
+  "summary": "Multi-column, dark themed footer featuring product, solution and company links, email newsletter signup, brand logo, legal nav and social media icons. Uses responsive Tailwind CSS grid/flex layout, ideal for SaaS sites and landing pages.",
+  "tags": [
+    "footer",
+    "navigation",
+    "newsletter",
+    "social-icons",
+    "responsive",
+    "tailwind",
+    "dark-mode",
+    "saas",
+    "grid",
+    "flexbox"
+  ],
+  "kind": "components",
+  "category": "footers",
+  "categoryLabel": "Footers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10666,
+      "sha256": "61ad89a5057b23655584acedad8572cc4c49a8a1ec540038acc70930bb4caa42"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8311,
+      "sha256": "dc9e898b2d30ffc1ed474d01aecccc7027e26546b1251f700526778f6be54754"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9186,
+      "sha256": "f6a6b126701d22e329f76a5ef04827c99fb4396db932fe5fc007c10bc1424298"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

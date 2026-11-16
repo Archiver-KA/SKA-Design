@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01168",
+  "title": "Responsive Navbar with Animated Mobile Overlay",
+  "summary": "Tailwind-styled header featuring logo, nav links, sign-in/get-started buttons, and a hamburger icon that opens a full-screen, animated mobile menu. Includes JS for toggle, body scroll lock, and link/resize handling—ideal for SaaS or marketing sites.",
+  "tags": [
+    "navbar",
+    "header",
+    "responsive",
+    "mobile-menu",
+    "tailwind",
+    "animated",
+    "javascript",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6810,
+      "sha256": "b5907dd98a73fa3f24ddbe785643d75fdbf33c47eae0f42234e1f974e77bd196"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8344,
+      "sha256": "0e3e2aba47b82bdda788674fed2ec18d283e6214732ed6463750a65d63eee005"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9211,
+      "sha256": "b1e51686b54fa7a61e2b48a96909bc1a6d8d840cc94be9a2b0c121a5c0ee77dd"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

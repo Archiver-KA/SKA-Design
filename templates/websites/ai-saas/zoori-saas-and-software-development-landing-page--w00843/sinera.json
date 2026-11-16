@@ -1,0 +1,69 @@
+{
+  "id": "SN-W00843",
+  "title": "Zoori SaaS and Software Development Landing Page Template",
+  "summary": "A high-performance software agency landing page template designed for AI-driven startups and creative engineering collectives looking to showcase their digital services and portfolio.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Dark",
+    "Clean",
+    "Animated",
+    "Futuristic",
+    "Portfolio",
+    "Services",
+    "Graphic Design",
+    "SaaS"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3578,
+      "sha256": "f927680fb799b03cf612c1df05632cd149b7dfabd59ba7a9e5225907a1fa9fef"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12684,
+      "sha256": "66d4ff7c3067b464c113fd5f06cef61f5c04d103c231366771c7f46babe0a12f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 751,
+      "sha256": "74677137a836c93aa5ae41dc6e9208ca2c748e9b0ac2741493dc798a69eb2f52"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35427,
+      "sha256": "dd1a32ebbe4815b01297b7d29cffa1022cd162e8f2da93447d7796c9874ca94f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "how-it-works",
+    "services",
+    "case-studies",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

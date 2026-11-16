@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02478",
+  "title": "Mental Health Services Landing Page Template",
+  "summary": "A modern template for mental health and caregiving services, perfect for therapists and counseling practices to showcase offerings and encourage inquiries.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Therapy",
+    "Caregiving"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3313,
+      "sha256": "176ae56a393edebb8c5eaf895c4847c458a6bd88e91477f6e3fc67d2ce921a38"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14280,
+      "sha256": "1c514712e34e4e12bd729170c683faffe98fe236a81568f0cf8df30ea1b8bb9f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "db1bff70db2f7258ec02d5df033e393273747eb04ab2d0262f5426182f050575"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11598,
+      "sha256": "28b8ca4745d1d7c683badd1643a63f33f4229f358615b6a4e5c84afee4efb9e3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

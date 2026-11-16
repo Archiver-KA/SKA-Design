@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01550",
+  "title": "Horizontal Scroll Container",
+  "summary": "Responsive horizontal scrolling container with snap-scroll behavior and hidden scrollbar. Ideal for image galleries, card lists, or product showcases.",
+  "tags": [
+    "section",
+    "scroll",
+    "responsive",
+    "container",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2074,
+      "sha256": "f132e061db86eabd5cc36b26615bb357549e3fa31cabac30bf3f7db133a1a5e5"
+    },
+    {
+      "path": "component.html",
+      "bytes": 980,
+      "sha256": "c9d652c8fb508a6f49f1d0fe0331dc4333318aa5e4952b21a94322801b9863e8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1828,
+      "sha256": "965f60577b7d67a531e492a238be404b5bf835bcc7db5bdb1430e1146c117cbe"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

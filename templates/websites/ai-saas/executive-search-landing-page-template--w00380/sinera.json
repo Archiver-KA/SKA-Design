@@ -1,0 +1,64 @@
+{
+  "id": "SN-W00380",
+  "title": "Executive Search Landing Page Template",
+  "summary": "Executive search landing page with a giant three-line headline, ruled sector index, dark four-stage method band and role grid.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Business Category",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3262,
+      "sha256": "75d82a370de78246c2bea5c434cb8a5e88b90a28bfc6a5a4c6e11d50da913a01"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17024,
+      "sha256": "3a050458f11ac67f428f1fa20191862eeeb39966a705df95ec9743f3f49a836e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 814,
+      "sha256": "483a7d4bf71c881612ec9727f9e040f3323fd63768c42d08e3bd2c3fb0015a17"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15122,
+      "sha256": "6723b26819e899f96c522bfffb052c9cc4c88350db8d7ac0bc62f666242ce34f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "rebuilt",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "added-title"
+    ]
+  },
+  "language": "en",
+  "designSystem": "sinera-atlas@1.0.0",
+  "design": "DESIGN.md"
+}

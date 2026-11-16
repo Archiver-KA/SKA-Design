@@ -1,0 +1,10 @@
+<svg class="progress-ring" width="220" height="220">
+                        <circle class="opacity-10" cx="110" cy="110" r="100" stroke="#fff" stroke-width="2" fill="transparent"/>
+                        <circle cx="110" cy="110" r="100" stroke="url(#gradient)" stroke-width="2" fill="transparent" stroke-dasharray="628" stroke-dashoffset="157"/>
+                        <defs>
+                            <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+                                <stop offset="0%" stop-color="#4F46E5" />
+                                <stop offset="100%" stop-color="#A855F7" />
+                            </linearGradient>
+                        </defs>
+                    </svg>

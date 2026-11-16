@@ -1,0 +1,11 @@
+<svg class="w-full h-full bg-[#e5e7eb]" viewBox="0 0 400 300">
+                        <rect width="400" height="300" fill="#f3f4f6"/>
+                        <!-- Roads -->
+                        <path d="M 0 100 H 400 M 0 200 H 400 M 100 0 V 300 M 300 0 V 300" stroke="white" stroke-width="15" />
+                        <!-- Pin -->
+                        <circle cx="200" cy="150" r="30" fill="#7847CB" fill-opacity="0.2" class="animate-ping"/>
+                        <circle cx="200" cy="150" r="10" fill="#7847CB" stroke="white" stroke-width="3" />
+                        <!-- Tooltip -->
+                        <rect x="160" y="90" width="80" height="30" rx="8" fill="white" filter="drop-shadow(0 4px 6px rgb(0 0 0 / 0.1))" />
+                        <text x="200" y="110" font-family="sans-serif" font-size="10" text-anchor="middle" fill="#374151" font-weight="bold">Ready for Pickup</text>
+                    </svg>

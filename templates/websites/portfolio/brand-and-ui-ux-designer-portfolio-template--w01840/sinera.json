@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01840",
+  "title": "Brand & UI/UX Designer Portfolio Template",
+  "summary": "A dark, premium portfolio template for brand and UI/UX designers to showcase work, pricing, and testimonials with a bold, conversion-focused layout.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Brand",
+    "Art & Design",
+    "Minimal",
+    "Dark",
+    "Large Type",
+    "Gradient",
+    "Services",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3405,
+      "sha256": "b9ddc5a2b572812c515ed3dfe681b3a8e0128bd371f5834df6c94f0472544aa8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15418,
+      "sha256": "dfd281ca457b0d06d5a82f71c97624a4a97a109d095c53e1f35fe52a64b6b676"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "2be8f0a70457aa091c6920bfaf079a1b2df63682bec1da2e765804ad149281db"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26133,
+      "sha256": "a2b2cb59a0317a638bfec90005d102c4eb4d523c37de7f0c9cf9bf9657f7b852"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "testimonials",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

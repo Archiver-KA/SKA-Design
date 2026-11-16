@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01846",
+  "title": "Embed Attribution Link",
+  "summary": "A simple attribution link component for embedded content. Displays creator credit with proper styling and external link behavior.",
+  "tags": [
+    "button",
+    "link",
+    "attribution",
+    "text",
+    "minimal"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1742,
+      "sha256": "22fc7d83b83bc37cb21844115a3489aed0428876add7a8feb6f13a75c4a7ce80"
+    },
+    {
+      "path": "component.html",
+      "bytes": 574,
+      "sha256": "8743c564d6f638239fc564d28749163e75c57d4394e7ac435ecd7f81a2d13187"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1417,
+      "sha256": "5c1443ce52d051c7ebf21bd1f9ead12bf51ee48850cf04c7a1402a76705e06fe"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

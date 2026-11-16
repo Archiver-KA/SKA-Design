@@ -1,0 +1,76 @@
+{
+  "id": "SN-W01593",
+  "title": "GTMVerse Go-To-Market Agency Landing Page Template",
+  "summary": "A high-converting GTM agency landing page template for positioning your go-to-market ownership offer, showcasing outcomes, team, and tiered engagements.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Large Type",
+    "Gradient",
+    "SaaS",
+    "Agency"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3944,
+      "sha256": "1d7c62989a9cd87a2cb356e7327d8705db78ec24a7a23c699647795ce42ab8ea"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19200,
+      "sha256": "552cfe088c18701965b7710b9f32c7d9023c16a7e5cafb13bc2b2db4a17a403a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 967,
+      "sha256": "9553aa30bee7678008fe853f4cdf71365a0770a49bb15088eb3f42155eaffb52"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "6d7f47cc04d290ef4abac372150068099aee31617cc15da366306e3307a84d33"
+    },
+    {
+      "path": "index.html",
+      "bytes": 51249,
+      "sha256": "26562580fcdc549c3c25ae9cc968cb3537a14405be844a57035b2c62142f9ab6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "features",
+    "services",
+    "testimonials",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

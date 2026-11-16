@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01043",
+  "title": "Interactive Range Slider Title",
+  "summary": "A dynamic heading component with an interactive range slider that reveals text. Features rotating slider handles that respond to user interaction with smooth animations and visual feedback.",
+  "tags": [
+    "slider",
+    "interactive",
+    "animated",
+    "modern",
+    "responsive",
+    "hero",
+    "title",
+    "range"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11938,
+      "sha256": "8a1670fa1c6c975dd33f2052227506dc49c77c026e54c65c35ee876f268d5128"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5148,
+      "sha256": "ceb4ff3768f43303b4784a6938c3e077e8c814c8ee8dab5422d8e4b6d43b8c2b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5999,
+      "sha256": "ee6ba9e81b7361784288cbb683ee3afa86d7d4b1108f8a0ca86c4b2bd9453424"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01518",
+  "title": "Animated Formula Ingredients Data Section",
+  "summary": "Full-width formula section featuring a large background title, animated SVG molecule, and a responsive three-column ingredient table with chemical structures and functions. Built with Tailwind-style utility classes and scroll-based parallax effects.",
+  "tags": [
+    "feature",
+    "section",
+    "animated",
+    "responsive",
+    "table",
+    "svg",
+    "parallax",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2906,
+      "sha256": "e9e3163579a657e61e347e74db13743d5da93172701261d9953b65484a97bccd"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2466,
+      "sha256": "68e0287623f0f2c318b241c323621ffc786bf8497d3fd15541c94ed0b739f500"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3328,
+      "sha256": "5a765010bdf616dcbfaa6f767fb94274a5e9a00236c7e80f2d9b61170639d66e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

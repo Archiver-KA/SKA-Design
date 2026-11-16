@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00226",
+  "title": "Modern CTA Section with Background Typography",
+  "summary": "A sophisticated dark call-to-action section featuring large background text, a grayscale image overlay, and a sleek horizontal lead generation form. Built with Tailwind CSS, it includes reveal animations and a gradient button with a hover shimmer effect.",
+  "tags": [
+    "cta",
+    "section",
+    "tailwind",
+    "animated",
+    "responsive",
+    "dark",
+    "form"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12010,
+      "sha256": "caa4b5544a92f9d9d51f5c1890a6b6b58cfa3274f2546cc42bec5011a11ab89a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3258,
+      "sha256": "f7e832ae708f2eaf3a163693587299932df0f6c013ed5addae38fb5c08e8b34b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4124,
+      "sha256": "274f6456684c4684d13c235cc1dcfbde728bd3d20b128ed83bad4692c2312987"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "SN-W01957",
+  "title": "Developer Portfolio Landing Page Template",
+  "summary": "A dark, futuristic developer portfolio landing page template for showcasing projects, skills, and contact details with a high-tech aesthetic.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Large Type",
+    "Developer",
+    "Personal Site"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3438,
+      "sha256": "2df8ec3a1b30be9290caa7e0230472756d1b41be796000dacd73211179c25aa1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10120,
+      "sha256": "5ac88fcd26b3659214b5be81c3046113b321f9098edde0a5b86608485587f640"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 952,
+      "sha256": "5189c8c83dd63a2867aff0d259466fa43bf1d58a64d245761e95215ac3489651"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23349,
+      "sha256": "56164de762f97b46e785ef4f0e9f9633e0406e8c049acd9f898a3d090cde3184"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "services",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

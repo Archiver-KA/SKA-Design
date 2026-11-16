@@ -1,0 +1,68 @@
+{
+  "id": "SN-W00357",
+  "title": "Ember Client Acquisitions",
+  "summary": "A high-converting landing page template for B2B service firms and outbound sales agencies featuring a dark, professional aesthetic and interactive ROI calculator.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3782,
+      "sha256": "2fc6a69c04973ea5da810f02a2b4f1648e988b29294b9f67ba7315d9bed2a9e8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20154,
+      "sha256": "8d6e465337f5326ec4f1788d1f2dd4dc0b9969842eb02f901b600eca227fd5b8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 719,
+      "sha256": "3fef78da9c51352b3df0d0f877b83ac9fac966b547818ba7a566b7380d48b012"
+    },
+    {
+      "path": "index.html",
+      "bytes": 62993,
+      "sha256": "2806b5ce6cc8bb36a6de6f49a6c5e28557fd9adb2cbbff48d5b764d817356a82"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "cta",
+    "stats",
+    "how-it-works",
+    "benefits",
+    "faq",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

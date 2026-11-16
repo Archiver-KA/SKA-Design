@@ -1,0 +1,60 @@
+{
+  "id": "SN-W00743",
+  "title": "STRT SaaS Landing Page Template",
+  "summary": "A high-performance dark-themed SaaS landing page template designed for rapid deployment and seamless integration.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Animated",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3530,
+      "sha256": "a62cfb7d10c49fe694a1ec09ef1368354f4cfa4753a0b30250f92a0516247bec"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14036,
+      "sha256": "b1284378cf734292eba05dc007fd6ce12f2e52b0640a79044f9a38e7c9ef716a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "9a2b8e72ef9517e94623d689f4ec919ebb5e4e0cc1c56cad44babdf8a52472be"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8931,
+      "sha256": "3e27744e29868af1bb349a3c6afbca337c9fbe4f40e8a32ded0df4077bbb88b4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

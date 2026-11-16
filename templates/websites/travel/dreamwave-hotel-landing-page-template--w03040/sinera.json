@@ -1,0 +1,71 @@
+{
+  "id": "SN-W03040",
+  "title": "Dreamwave Hotel Landing Page Template",
+  "summary": "A vibrant hotel landing page template for island resorts, showcasing rooms, amenities, gallery, and inquiry booking to boost direct bookings.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Services",
+    "Brand",
+    "Colorful",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Hotel",
+    "Resort"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3799,
+      "sha256": "5fb0ae2e8a5e423e993196be721f7ac9fe0daf9779dba21879693ca555b9a154"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17012,
+      "sha256": "9061e8b5ba3a01be243b4e2b49156ebfa8c5dd0bbedd0b21ee1b452b0fd315d3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 874,
+      "sha256": "f39050e179615cb39a8b646b99870a4521c4ca3ea04f25a3bca69aad2a61f31b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 261,
+      "sha256": "8b79973d4d5bf574eb36f3ca06ecbac5b6f21ddbb7719c8e0a6cd1b1bbdeeebc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32709,
+      "sha256": "5a473aa66a5e50088b6bdbfe2cd30201ce5b0806a6688fc7d1175f438b9a9180"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "listings",
+    "gallery-portfolio",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

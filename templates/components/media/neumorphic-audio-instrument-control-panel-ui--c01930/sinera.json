@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01930",
+  "title": "Neumorphic Audio Instrument Control Panel UI",
+  "summary": "Dark, neumorphic audio instrument panel with stats display, VU meter, waveform screen, power buttons, grouped transport controls, rotary knob, and slider. Built with Tailwind-style utility classes, ideal for music apps, DAWs, and audio dashboards.",
+  "tags": [
+    "card",
+    "tailwind",
+    "audio",
+    "dashboard",
+    "control-panel",
+    "neumorphic",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9034,
+      "sha256": "e51586ec5b865eab9264e17b4b31dd2db9d52d23f5e649741f1e855b74d64fc9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 21855,
+      "sha256": "924c406fe88850e0fd1eaacff05884beb0331ba1ddb5cdd88ebdb1ec2ff503c1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22850,
+      "sha256": "f8de80a6e3b6d8ea6add746d49db95db7a9d380403a7c7712b2c0feb3a888162"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "SN-W00047",
+  "title": "AI Automation Diagnostic Landing Page Template",
+  "summary": "A reusable landing page template for selling AI automation audits or diagnostic sessions to agency owners and consultants seeking operational leverage.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Brand",
+    "automation",
+    "consulting"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3337,
+      "sha256": "1410a6ff19cf9b11f53e5297c838461f90f379195928a3bbce4d726b39fee149"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 26910,
+      "sha256": "1508ee3ba0b195243a23dba04ce5317642e6b84e881104c8ac9a933e913e4be0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 740,
+      "sha256": "1606790681b67a180dab47c2df3179d6102b0b87e8c8467f2cef21905b1466b2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38642,
+      "sha256": "685bcdcbddb40bf9b4195bb434edb93f5ac34c750fd52cf2d32752931e801bf7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "video-media",
+    "testimonials",
+    "how-it-works",
+    "3d-canvas",
+    "map-location",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

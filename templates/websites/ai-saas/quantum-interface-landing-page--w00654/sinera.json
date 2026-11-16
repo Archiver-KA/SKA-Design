@@ -1,0 +1,68 @@
+{
+  "id": "SN-W00654",
+  "title": "Quantum Interface Landing Page",
+  "summary": "Cyberpunk style landing page showcasing a futuristic quantum AI interface with glitch effects and performance stats. Hero.",
+  "tags": [
+    "Landing Page",
+    "Cyberpunk",
+    "Glitch Effect",
+    "Tailwind CSS",
+    "Quantum Interface",
+    "Animation",
+    "UI Design"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2731,
+      "sha256": "976407a2035d76823c769f50d5b91466105bb8343a86680b1460a4664e9c2197"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19688,
+      "sha256": "9fe73cadd3687b3b3325b8f671c7196f45950cbe473284fd6120850cbd77b4ef"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1059,
+      "sha256": "f1071166c3f81c68cc3602475ae95ab857bb745dcc63917c07402c28b1c79e19"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 227,
+      "sha256": "2e29eec128fe9c3e67280aaaeef3ad182fd512065a9488d4aca5d71c2ae182a2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12415,
+      "sha256": "b5c4a8ef44055ef38e5afac5ffe07bee889cbdc97ae82a286f986e04284f54e2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

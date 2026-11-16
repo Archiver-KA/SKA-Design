@@ -1,0 +1,38 @@
+{
+  "id": "SN-C00227",
+  "title": "Mouse-Tracking Purple Glow Button",
+  "summary": "Fully rounded CTA button that emits a soft purple glow following the cursor. Combines CSS variables, radial-gradient layers and a lightweight JavaScript mousemove listener for dynamic inner/outer bloom. Great for landing pages, hero areas or interactive UI accents.",
+  "tags": [
+    "button",
+    "interactive",
+    "glow",
+    "gradient",
+    "css",
+    "javascript",
+    "hover",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1672,
+      "sha256": "bc0ef03c33d53f78b607d36b44187cdb3f9ffefe3acedf49fd1d80c070b96e9c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2747,
+      "sha256": "2ff39248d602c0c5a73a9cc8d4e6aca0e2ddfee72646f60f2cb9effe3efa19c9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

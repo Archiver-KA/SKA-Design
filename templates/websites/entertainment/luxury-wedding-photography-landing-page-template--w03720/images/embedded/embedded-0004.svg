@@ -1,0 +1,10 @@
+<svg viewBox="0 0 100 100" class="overflow-visible w-full h-full">
+        <g class="animate-spin" style="animation-duration: 20s; transform-origin: 50px 50px;">
+            <path id="circlePath-spinning" d="M 50,50 m -35,0 a 35,35 0 1,1 70,0 a 35,35 0 1,1 -70,0" fill="none"></path>
+            <text class="uppercase font-thin fill-white tracking-widest" style="font-size: 8.5px;">
+                <textPath href="#circlePath-spinning" startOffset="0%" textLength="219" lengthAdjust="spacing">
+                    WEDDINGS • FILMS • PHOTOGRAPHY • OCEAN WEST STUDIO • 
+                </textPath>
+            </text>
+        </g>
+    </svg>

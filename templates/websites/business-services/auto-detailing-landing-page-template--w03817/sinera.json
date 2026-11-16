@@ -1,0 +1,76 @@
+{
+  "id": "SN-W03817",
+  "title": "Auto Detailing Landing Page Template",
+  "summary": "A reusable landing page template for auto detailing and car care businesses to showcase services, build trust, and drive consultation or quote requests.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Large Type",
+    "Automotive",
+    "Auto Detailing",
+    "Car Care"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3756,
+      "sha256": "580f06dabaa505700cfc9ff1312c90c36ee8f2491736a4799ff37f6a8e7a1c8a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21192,
+      "sha256": "5ba968070eec3ab21430f3b34567d74f14222bc2f9052fa058c5ea8985d19c67"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1072,
+      "sha256": "16c9150a93e54c2d4a0e8b7a4d7d8065bdde6da3dedf3b3906d5ad28a2f08d54"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 407,
+      "sha256": "8f24056d4fc273a36116c28d37fb1ed217586a984c4364a6139ddc273ddbb2f8"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 465,
+      "sha256": "0f73c2f9fe766eded31bdacaa0167d280ee60515a20372ef9af169e2c5caae91"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30859,
+      "sha256": "98a42115113102e7b93e8371aa473eea7367b40af0570b4d54663d4ac512c978"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "services",
+    "how-it-works",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03570",
+  "title": "Basketball Community and League Landing Page Template",
+  "summary": "A high-performance premium landing page template for sports leagues, athletic communities, and competitive basketball events featuring dark-mode design and immersive scrolling.",
+  "tags": [
+    "Social",
+    "Conference",
+    "Membership",
+    "Technology",
+    "Dark",
+    "Animated",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3442,
+      "sha256": "96707a213f07e51ad4a86ff5cc0f8c30e3cde7e72138cfdce697558877b487cc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3692,
+      "sha256": "bd50e1fb7a4784b7dd7eb0ce93c03c6c4492e6580594b08a7824e9f4721c9eaf"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "547214635675ca7fd11f406317b1b0e8dd598be42bac64bb1060505277e1cc53"
+    },
+    {
+      "path": "index.html",
+      "bytes": 52200,
+      "sha256": "3ef5344a7388f2a87a4a5aacfeeae9885360bb04684bef0ad831043e32ca554f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "features",
+    "cta",
+    "bento-grid",
+    "about",
+    "product-grid",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

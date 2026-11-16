@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01529",
+  "title": "Client Case Studies Section",
+  "summary": "Dark-themed section showing business case studies: headline, sub-headline, and a responsive 1–3 column grid of result cards. Tailwind CSS styling with backdrop blur and rounded borders makes it ideal for SaaS or marketing landing pages.",
+  "tags": [
+    "section",
+    "case-studies",
+    "card",
+    "grid",
+    "tailwind",
+    "responsive",
+    "dark-theme",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22012,
+      "sha256": "4c75e7a1a15573c1057fe8a0f9bca1cd701cc650b5dc777df844ca3617412185"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3257,
+      "sha256": "ef08a2112b6f445d254b8f24c043196edfcb443b319a544712d6a92eb517f8dd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4105,
+      "sha256": "021cf69577778e65ceb7703d05fa8f212487cc6650f9724793e3bda1382abdd8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

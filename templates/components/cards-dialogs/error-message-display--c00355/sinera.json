@@ -1,0 +1,46 @@
+{
+  "id": "SN-C00355",
+  "title": "Error Message Display",
+  "summary": "A simple error message component indicating that the provided input contains image file paths instead of HTML code. Used to inform users about incorrect input format.",
+  "tags": [
+    "error",
+    "message",
+    "alert",
+    "warning",
+    "validation",
+    "feedback",
+    "red",
+    "border",
+    "rounded",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12156,
+      "sha256": "a7f33736d1099abd0ae71761ca929c98641ed7013539ac4489d76ceb29c2466d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1127,
+      "sha256": "fc7e91a5870a7286d7cedffae95531196df34902b343d75f85611f55d5c499a3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1969,
+      "sha256": "5a29214ea87796b9d5f8091acc9a99c0cc81c40f0acf9d33a077f187c2292125"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

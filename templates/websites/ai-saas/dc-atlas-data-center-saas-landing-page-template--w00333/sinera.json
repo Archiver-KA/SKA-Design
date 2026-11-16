@@ -1,0 +1,75 @@
+{
+  "id": "SN-W00333",
+  "title": "DC Atlas Data Center SaaS Landing Page Template",
+  "summary": "A modern DC Atlas-inspired landing page template for SaaS platforms that map, analyze, and plan digital infrastructure and data center intelligence products.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Portfolio",
+    "Blog"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3759,
+      "sha256": "dc1a2d23d58d1bdf6dc2cfdbb802295725e406fdadd0059638b6970d33d1b323"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18446,
+      "sha256": "4665049e925c37c50a3fbbc728a886828a97e0415af94d0bec1191d0a3d42c6c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 881,
+      "sha256": "7c5d755a5dea36d21f9ec971c7fff54137f43cc86208f82deec6cd9ba4d3e49f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 269,
+      "sha256": "f35dd45bf3279530ce1de9f1b5699ffa3d934fc19c57db099eebd850aed33269"
+    },
+    {
+      "path": "index.html",
+      "bytes": 55200,
+      "sha256": "8c3376ba44f152f8a1856bb687a7e6a5174e605b15f847a64f0660fc2abec20d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "map-location",
+    "blog-articles",
+    "pricing",
+    "faq",
+    "cta",
+    "comparison",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

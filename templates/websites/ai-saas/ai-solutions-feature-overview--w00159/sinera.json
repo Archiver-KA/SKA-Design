@@ -1,0 +1,60 @@
+{
+  "id": "SN-W00159",
+  "title": "AI Solutions Feature Overview",
+  "summary": "Displays AI solution features in a glass-effect grid with icons, descriptions, and integration options using Tailwind CSS.",
+  "tags": [
+    "Features",
+    "Glass Effect",
+    "Tailwind CSS",
+    "Responsive Layout",
+    "Icons",
+    "Grid",
+    "UI Components"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3145,
+      "sha256": "050760643369f31fde409253aa568b9bfabfcfc76d8d5fafe051355ca74148eb"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22952,
+      "sha256": "7a53b898b0a336c076681540c3402663528f3f3ff377b8b1c25565abd72e7f29"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "f1d73452355151bc1e0016dfa38a44c9d51718996dd614cb35194e6ea18fcf19"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23168,
+      "sha256": "e1c1dcd770094bba3883e58c142da5d5e0399df035a2b0c56de999a1ad80eaab"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "features",
+    "pricing"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

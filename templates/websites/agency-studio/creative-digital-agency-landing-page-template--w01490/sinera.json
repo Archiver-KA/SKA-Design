@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01490",
+  "title": "Creative Digital Agency Landing Page Template",
+  "summary": "A sleek, modern landing page template for creative digital agencies offering branding, design, development, and video services to showcase work and capture leads.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Services",
+    "Art & Design",
+    "Portfolio",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3861,
+      "sha256": "e07c5d430f6839ba47d43cd40278c0bb7972a4321d89500c0d33a69038a0892a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16522,
+      "sha256": "535f163ebe78289a079d0a96622239cd89f98acf386a1d27da6c983b14dc26b1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 739,
+      "sha256": "9ee2323d09bb1c54851f34d48d39c97876d7e33a27b24ff5c62b05d0509d6029"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23452,
+      "sha256": "4cc6840b8099b92613b425f2c6dc346df8eece3611f0cb13ee16fa39b8f23147"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "gallery-portfolio",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

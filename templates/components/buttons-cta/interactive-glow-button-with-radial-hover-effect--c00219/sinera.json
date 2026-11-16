@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00219",
+  "title": "Interactive Glow Button with Radial Hover Effect",
+  "summary": "A Tailwind-powered call-to-action button featuring a mouse-position-based radial glow, animated border states, subtle scaling, and an inline icon. Ideal for primary CTAs on modern landing pages or dashboards.",
+  "tags": [
+    "button",
+    "cta",
+    "animated",
+    "interactive",
+    "hover",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1796,
+      "sha256": "a26d16aeed50f6f80d2ea4dadfbe7a9d03cce8ec53e2c292188a4ac6e0052006"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1427,
+      "sha256": "3b5b30e6e886e9800146d241075e382f0eda4108fb3c60bc25b0465096679e7b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2386,
+      "sha256": "5c3781358cc52ee14abf47d185ccd16f084bd1d68c4b5b4743e98314b5043ae6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

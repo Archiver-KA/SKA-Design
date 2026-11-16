@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01275",
+  "title": "Animated Spatial Experience Hero Section",
+  "summary": "Full-screen hero section with Tailwind CSS styling, GSAP text reveals, and a Three.js WebGL particle globe and grid background. Ideal for creative studios, tech brands, or immersive landing pages with cinematic interaction.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "gsap",
+    "threejs",
+    "animated",
+    "interactive",
+    "landing-page"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 23324,
+      "sha256": "42ec0136346a28ae9357663aa2cbec476aecb567a42ed02c315e0134228a29b5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18298,
+      "sha256": "92ca6b16f6673efef68d746d4f200b5a2a355bb7ec3d558938a3371ab1a95fe5"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

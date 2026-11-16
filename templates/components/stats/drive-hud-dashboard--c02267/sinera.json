@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02267",
+  "title": "Drive HUD Dashboard",
+  "summary": "Complete automotive heads-up display dashboard with speed, navigation, media controls, and environmental data in a dark theme perfect for vehicle interfaces.",
+  "tags": [
+    "dashboard",
+    "hud",
+    "automotive",
+    "dark-theme",
+    "navigation",
+    "media-player",
+    "speedometer",
+    "glassmorphism"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9246,
+      "sha256": "c2ccf720f361a259174a0f63c6b6bb9abe15c73826beed1c6759794647771cb0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6010,
+      "sha256": "fc35d7ea35370fb23d394ef762b62873ba999c94c5ced45e51d7614e05b4479f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6850,
+      "sha256": "b61f5b6c4a956120787688831341decb6dcd0895c65f02876ee5770e60fdd2d9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

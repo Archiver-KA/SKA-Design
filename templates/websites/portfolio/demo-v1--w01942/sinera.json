@@ -1,0 +1,81 @@
+{
+  "id": "SN-W01942",
+  "title": "Demo V1",
+  "summary": "A premium tattoo studio landing page template for showcasing artists, services, gallery work, reviews, and consultation bookings in a bold luxury style.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Portfolio",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Brand",
+    "tattoo studio",
+    "luxury",
+    "booking"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3392,
+      "sha256": "a61aa7d35958647cfb326ea8f8fd792de41b12a7d37909d10e48125dff1e414c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13250,
+      "sha256": "206e02ed53889dbf0178efdd404c3f2c8bf9beec271d0dda0e59a7e96d621968"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1178,
+      "sha256": "6ef87e533c844e94077e7c464e5fc4197ee365a51c33c7def0b901421790136f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 311,
+      "sha256": "94508bf0389a242a9ccc39cb926d9275674331cbe035c4f962de50182a39abb6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 93352,
+      "sha256": "d7f90612a2a97d623833f525374bf8531c5c5bdbbb71ead874a0da2f387e33cc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "gallery-portfolio",
+    "modal-overlay",
+    "testimonials",
+    "faq",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "broken-images"
+    ],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

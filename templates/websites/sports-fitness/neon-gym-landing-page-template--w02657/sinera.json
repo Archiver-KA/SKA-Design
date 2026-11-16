@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02657",
+  "title": "Neon Gym Landing Page Template",
+  "summary": "A modern, neon-styled gym landing page template for fitness clubs to promote memberships, highlight offers, and capture new member leads.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Services",
+    "Health",
+    "Fitness",
+    "Gym"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3500,
+      "sha256": "e08449630f5ce1bfb431b88862096a73fae42323f133c4adfe3ea8b704915d8b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10702,
+      "sha256": "33eeb37ec5b22b5826bada5fc1792276ad2da93a005e933ce9056276dec94851"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "4358192d36c3e3dbf68ad453748586f1c444ba50892a12160ace8f178a44e06f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36281,
+      "sha256": "3b4350da47af955498559cb9d624c48b9718073682dec81a2f8fbad12c65229c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "cta",
+    "features",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

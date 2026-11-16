@@ -1,0 +1,64 @@
+{
+  "id": "SN-W01294",
+  "title": "PC Computer Shop E-commerce Landing Page Template",
+  "summary": "A dark, modern e-commerce landing page template for PC computer shops to showcase pre-built rigs, components, and an interactive custom PC builder.",
+  "tags": [
+    "E-commerce",
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Gradient",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3604,
+      "sha256": "c3bbd95e2cd2e89b687f695e318e97d9b54946f2f77c8ea18645512486bfe117"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15508,
+      "sha256": "333c83254867659935ac753b064591c7d33a3d87d769c8ecb4a93c72f026a0ed"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 822,
+      "sha256": "9f55fc42e71412ae8bb1e644e74d710f675eff61c2c744a40f04a55d412cf697"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37567,
+      "sha256": "7c3584869615f0e4642ef9b1f7139f10604a2c2b430c37db89695aec2edd145c"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "product-grid",
+    "stats",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

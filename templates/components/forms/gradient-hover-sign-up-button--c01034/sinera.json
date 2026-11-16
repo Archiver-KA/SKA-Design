@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01034",
+  "title": "Gradient Hover Sign-Up Button",
+  "summary": "Interactive call-to-action button featuring a 144° gradient border, subtle lift and shadow on hover, and Tailwind CSS utility styling—ideal for sign-up prompts or other primary actions.",
+  "tags": [
+    "button",
+    "tailwind",
+    "gradient",
+    "hover",
+    "animated",
+    "call-to-action",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1408,
+      "sha256": "a36fb6b4e2b8b671896c958c99f98d0965f0fa640160ff9286774647bf708fb1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 851,
+      "sha256": "6d834cc395d77b4c7c8cb58850b2285282c7f44907fbfab65014f8f9cf169556"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1701,
+      "sha256": "a214bef8a5aaf47f665625396f727d85efdfb66bc34709bd99fbe53674fa667b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

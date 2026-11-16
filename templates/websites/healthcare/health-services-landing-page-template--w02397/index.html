@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="en-GB" data-theme="calm">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sovereign Care Ltd | Home care for older adults</title>
+<meta name="description" content="Sovereign Care Ltd provides home care for older adults: nurses and carers matched to your needs, a clear written care plan and regular updates for the family.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config = { theme: { extend: {
+  colors: { ground:'#F2F7F5', surface:'#FFFFFF', ink:'#0F2A26', muted:'#4E6661', line:'#D3E2DD', accent:'#0F766E', accent2:'#F4B860' },
+  fontFamily: { sans: ['"Be Vietnam Pro"','system-ui','sans-serif'] },
+  borderRadius: { card:'14px' }
+}}}
+</script>
+<style>
+[data-theme="calm"] {
+  --sa-ground:#F2F7F5; --sa-surface:#FFFFFF; --sa-ink:#0F2A26; --sa-muted:#4E6661; --sa-line:#D3E2DD;
+  --sa-accent:#0F766E; --sa-on-accent:#FFFFFF; --sa-accent-2:#F4B860; --sa-on-accent-2:#0F2A26;
+  --sa-font-display:"Be Vietnam Pro",system-ui,sans-serif; --sa-font-body:"Be Vietnam Pro",system-ui,sans-serif;
+  --sa-radius-control:999px; --sa-radius-card:14px; --sa-display-case:none;
+  color-scheme:light; background:var(--sa-ground); color:var(--sa-ink); font-family:var(--sa-font-body);
+}
+html{scroll-behavior:smooth}
+body{background:var(--sa-ground);color:var(--sa-ink);font-family:var(--sa-font-body);-webkit-font-smoothing:antialiased;overflow-x:hidden}
+h1,h2,h3{font-family:var(--sa-font-display);text-wrap:balance;letter-spacing:-.02em}
+:focus-visible{outline:3px solid var(--sa-accent);outline-offset:3px;border-radius:6px}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;padding:0 24px;border-radius:999px;background:var(--sa-accent);color:var(--sa-on-accent);font-weight:600;font-size:15px;text-decoration:none;border:0;cursor:pointer;transition:background-color .2s}
+.btn:hover{background:#0B5F58}
+.btn-ghost{background:transparent;color:var(--sa-ink);box-shadow:inset 0 0 0 1px var(--sa-ink)}
+.btn-ghost:hover{background:var(--sa-surface)}
+.tab{min-height:48px;padding:0 20px;border-radius:999px;font-weight:600;font-size:15px;border:1px solid var(--sa-line);background:var(--sa-surface);cursor:pointer;transition:background-color .2s}
+.tab[aria-selected="true"]{background:var(--sa-ink);color:#fff;border-color:var(--sa-ink)}
+details>summary{list-style:none;cursor:pointer;min-height:56px}
+details>summary::-webkit-details-marker{display:none}
+details[open] .plus{transform:rotate(45deg)}
+.plus{transition:transform .2s}
+</style>
+</head>
+<body class="font-sans text-ink bg-ground">
+
+<header class="sticky top-0 z-30 bg-ground/95 border-b border-line">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
+    <a href="#top" class="flex items-center gap-2 font-bold text-lg">
+      <svg width="28" height="28" viewBox="0 0 28 28" fill="none" aria-hidden="true"><rect x="3" y="3" width="22" height="22" rx="7" stroke="#0F766E" stroke-width="2"/><path d="M14 8v12M8 14h12" stroke="#0F766E" stroke-width="2.4" stroke-linecap="round"/></svg>
+      Sovereign Care Ltd
+    </a>
+    <nav aria-label="Main" class="hidden md:flex items-center gap-8 text-[15px] font-medium">
+      <a class="py-3 hover:text-accent" href="#nhu-cau">Care needs</a>
+      <a class="py-3 hover:text-accent" href="#ghep">How we match</a>
+      <a class="py-3 hover:text-accent" href="#chi-phi">Costs</a>
+      <a class="py-3 hover:text-accent" href="#hoi-dap">FAQ</a>
+      <a class="btn" href="#lien-he">Speak to a care coordinator</a>
+    </nav>
+    <button id="menuBtn" class="md:hidden w-11 h-11 inline-flex items-center justify-center rounded-full border border-line" aria-label="Open menu" aria-expanded="false" aria-controls="mobileNav">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+  </div>
+  <nav id="mobileNav" aria-label="Mobile menu" class="hidden md:hidden border-t border-line bg-ground px-4 pb-4">
+    <a class="flex items-center min-h-[48px] font-medium" href="#nhu-cau">Care needs</a>
+    <a class="flex items-center min-h-[48px] font-medium" href="#ghep">How we match</a>
+    <a class="flex items-center min-h-[48px] font-medium" href="#chi-phi">Costs</a>
+    <a class="flex items-center min-h-[48px] font-medium" href="#hoi-dap">FAQ</a>
+    <a class="btn w-full mt-2" href="#lien-he">Speak to a care coordinator</a>
+  </nav>
+</header>
+
+<main id="top">
+<!-- HERO: chỉ chữ, cỡ rất lớn, đường kẻ dưới -->
+<section class="max-w-6xl mx-auto px-4 sm:px-6 pt-14 md:pt-24">
+  <p class="text-sm font-semibold text-accent">Home care for older adults · [AREAS WE COVER]</p>
+  <h1 class="mt-5 text-[2.7rem] leading-[1.02] sm:text-7xl lg:text-[6.2rem] font-bold">Peace of mind at home.<br><span class="text-accent">And for the family too.</span></h1>
+  <div class="mt-10 pb-14 md:pb-20 border-b border-ink grid md:grid-cols-12 gap-8 items-end">
+    <p class="md:col-span-6 text-lg text-muted leading-relaxed">We send nurses and carers to your loved one's home, following a plan you approve first. Every visit is recorded and reported back to the family.</p>
+    <div class="md:col-span-5 md:col-start-8 flex flex-wrap gap-3 md:justify-end">
+      <a class="btn" href="#lien-he">Speak to a care coordinator</a>
+      <a class="btn btn-ghost" href="#nhu-cau">See our services</a>
+    </div>
+  </div>
+</section>
+
+<!-- CHỌN NHU CẦU: tab -->
+<section id="nhu-cau" class="max-w-6xl mx-auto px-4 sm:px-6 py-14 md:py-24">
+  <div class="grid md:grid-cols-12 gap-6">
+    <h2 class="md:col-span-5 text-3xl sm:text-4xl font-bold">Start with what your loved one needs.</h2>
+    <div class="md:col-span-7">
+      <div role="tablist" aria-label="Types of care" class="flex flex-wrap gap-2">
+        <button role="tab" class="tab" id="tab0" aria-selected="true" aria-controls="pan0">Day to day</button>
+        <button role="tab" class="tab" id="tab1" aria-selected="false" aria-controls="pan1" tabindex="-1">After hospital</button>
+        <button role="tab" class="tab" id="tab2" aria-selected="false" aria-controls="pan2" tabindex="-1">Long-term conditions</button>
+      </div>
+      <div class="mt-6 bg-surface border border-line rounded-card p-6 sm:p-8">
+        <div role="tabpanel" id="pan0" aria-labelledby="tab0">
+          <h3 class="text-xl font-semibold">Support with daily living</h3>
+          <p class="mt-2 text-muted leading-relaxed">Personal care, meals, medication reminders, getting about and companionship. Ideal when your relative is mentally sharp but would benefit from someone alongside them.</p>
+          <p class="mt-4 text-sm font-semibold">Visits: hourly, daily or overnight. [YOUR PACKAGES]</p>
+        </div>
+        <div role="tabpanel" id="pan1" aria-labelledby="tab1" hidden>
+          <h3 class="text-xl font-semibold">Care after leaving hospital</h3>
+          <p class="mt-2 text-muted leading-relaxed">Our nurses follow the instructions of the treating clinician: monitoring vital signs, changing dressings and guiding basic rehabilitation exercises. We never change a treatment plan ourselves.</p>
+          <p class="mt-4 text-sm font-semibold">Please have to hand: the discharge summary and current prescription.</p>
+        </div>
+        <div role="tabpanel" id="pan2" aria-labelledby="tab2" hidden>
+          <h3 class="text-xl font-semibold">Support with long-term conditions</h3>
+          <p class="mt-2 text-muted leading-relaxed">Help with checking blood sugar and blood pressure, reminders for appointments and a symptom diary, so the family and GP can see the full picture.</p>
+          <p class="mt-4 text-sm font-semibold">Anything unusual is reported to the family straight away, with guidance on contacting the right health service.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CÁCH GHÉP: ruled 4 cột -->
+<section id="ghep" class="bg-surface border-y border-line">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-14 md:py-24">
+    <h2 class="text-3xl sm:text-4xl font-bold max-w-2xl">How we choose who comes to your home.</h2>
+    <ol class="mt-12 grid gap-0 sm:grid-cols-2 lg:grid-cols-4 border-t border-ink">
+      <li class="py-6 sm:pr-6 border-b border-line lg:border-b-0"><span class="text-sm font-bold text-accent">01</span><h3 class="mt-3 font-semibold text-lg">Talking through needs</h3><p class="mt-2 text-muted leading-relaxed">A coordinator asks about medical history, daily routine, language and what the family hopes for.</p></li>
+      <li class="py-6 sm:pr-6 border-b border-line lg:border-b-0 lg:border-l lg:pl-6"><span class="text-sm font-bold text-accent">02</span><h3 class="mt-3 font-semibold text-lg">Home assessment</h3><p class="mt-2 text-muted leading-relaxed">A nurse visits to look at the home, independence levels and falls risk, then writes up a care plan.</p></li>
+      <li class="py-6 sm:pr-6 border-b border-line lg:border-b-0 lg:border-l lg:pl-6"><span class="text-sm font-bold text-accent">03</span><h3 class="mt-3 font-semibold text-lg">Meeting your carer</h3><p class="mt-2 text-muted leading-relaxed">You meet the person before they start. If it isn't the right fit, we change them, no lengthy explanations needed.</p></li>
+      <li class="py-6 lg:pl-6 lg:border-l border-line"><span class="text-sm font-bold text-accent">04</span><h3 class="mt-3 font-semibold text-lg">A report after every visit</h3><p class="mt-2 text-muted leading-relaxed">Notes on meals, medication and daily activity, sent to the family in the way you prefer.</p></li>
+    </ol>
+  </div>
+</section>
+
+<!-- AN TOÀN & ĐÀO TẠO -->
+<section class="max-w-6xl mx-auto px-4 sm:px-6 py-14 md:py-24 grid md:grid-cols-2 gap-10">
+  <div>
+    <h2 class="text-3xl sm:text-4xl font-bold">Everyone who visits has been properly vetted.</h2>
+    <p class="mt-4 text-muted leading-relaxed">We check identity, qualifications and references first, then add training in safe moving and handling and in spotting warning signs.</p>
+    <a href="#lien-he" class="mt-6 inline-flex items-center min-h-[44px] font-semibold text-accent underline underline-offset-4">Ask about our recruitment process</a>
+  </div>
+  <ul class="divide-y divide-line border-y border-line self-start">
+    <li class="py-5 flex gap-4"><svg class="shrink-0 mt-1" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg><span>ID and qualification checks: [TYPE OF CHECKS]</span></li>
+    <li class="py-5 flex gap-4"><svg class="shrink-0 mt-1" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg><span>Regular training in safety, hygiene and communication</span></li>
+    <li class="py-5 flex gap-4"><svg class="shrink-0 mt-1" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg><span>Supervising nurse spot checks every [FREQUENCY]</span></li>
+    <li class="py-5 flex gap-4"><svg class="shrink-0 mt-1" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg><span>Family helpline: [PHONE NUMBER], open [OPENING HOURS]</span></li>
+  </ul>
+</section>
+
+<!-- CHI PHÍ -->
+<section id="chi-phi" class="bg-ink text-white">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-14 md:py-24">
+    <h2 class="text-3xl sm:text-4xl font-bold max-w-2xl">Costs are agreed in advance, visit by visit.</h2>
+    <div class="mt-10 grid gap-4 md:grid-cols-3">
+      <div class="rounded-card border border-[#2E4A45] p-6"><p class="font-semibold text-lg">Hourly</p><p class="mt-2 text-3xl font-bold text-accent2">[YOUR PRICE]</p><p class="mt-3 text-[#CFE0DB]">A good fit when you only need help with a few tasks during the day.</p></div>
+      <div class="rounded-card border border-[#2E4A45] p-6"><p class="font-semibold text-lg">Daily</p><p class="mt-2 text-3xl font-bold text-accent2">[YOUR PRICE]</p><p class="mt-3 text-[#CFE0DB]">A carer stays with your relative throughout the daytime shift.</p></div>
+      <div class="rounded-card border border-[#2E4A45] p-6"><p class="font-semibold text-lg">Overnight</p><p class="mt-2 text-3xl font-bold text-accent2">[YOUR PRICE]</p><p class="mt-3 text-[#CFE0DB]">Someone is on hand through the night and keeps a note of how they slept.</p></div>
+    </div>
+    <p class="mt-6 text-sm text-[#CFE0DB]">Any additional charges are written into the care plan before we begin.</p>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section id="hoi-dap" class="max-w-3xl mx-auto px-4 sm:px-6 py-14 md:py-24">
+  <h2 class="text-3xl sm:text-4xl font-bold">Frequently asked questions</h2>
+  <div class="mt-8 border-t border-line">
+    <details class="border-b border-line"><summary class="flex items-center justify-between gap-4 py-3 font-semibold">How quickly can care start?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted leading-relaxed">[HOW SOON CARE CAN START]. If it's urgent, say so when you call and a coordinator will arrange it.</p></details>
+    <details class="border-b border-line"><summary class="flex items-center justify-between gap-4 py-3 font-semibold">Can carers give injections?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted leading-relaxed">Only registered nurses carry out clinical procedures, and only on a clinician's instructions. Carers help with daily living and medication reminders.</p></details>
+    <details class="border-b border-line"><summary class="flex items-center justify-between gap-4 py-3 font-semibold">What if I want a different carer?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted leading-relaxed">Just tell your coordinator. We'll introduce someone who suits you better.</p></details>
+    <details class="border-b border-line"><summary class="flex items-center justify-between gap-4 py-3 font-semibold">Is there a long-term contract?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted leading-relaxed">[YOUR CONTRACT AND CANCELLATION POLICY]. All terms are given to you in writing before you sign.</p></details>
+  </div>
+</section>
+
+<!-- CTA -->
+<section id="lien-he" class="px-4 sm:px-6 pb-16 md:pb-24 scroll-mt-20">
+  <div class="max-w-6xl mx-auto bg-surface border border-line rounded-card p-6 sm:p-12 grid md:grid-cols-2 gap-10 items-center">
+    <div>
+      <h2 class="text-3xl sm:text-4xl font-bold">Tell us about your loved one.</h2>
+      <p class="mt-4 text-muted leading-relaxed">A coordinator will call you back, ask a few simple questions and suggest an approach. There's nothing to decide yet.</p>
+      <p class="mt-4 font-semibold">Or call: [PHONE NUMBER]</p>
+    </div>
+    <form class="grid gap-4" onsubmit="event.preventDefault();this.querySelector('[data-ok]').hidden=false">
+      <div><label for="c1" class="block text-sm font-semibold mb-1">Contact name</label><input id="c1" required autocomplete="name" class="w-full min-h-[48px] px-5 rounded-full border border-line bg-ground"></div>
+      <div><label for="c2" class="block text-sm font-semibold mb-1">Phone number</label><input id="c2" type="tel" required autocomplete="tel" class="w-full min-h-[48px] px-5 rounded-full border border-line bg-ground"></div>
+      <button class="btn" type="submit">Speak to a care coordinator</button>
+      <p data-ok hidden role="status" class="text-sm font-medium text-accent">Thank you, we've got your details. This is a demo form, so connect it to your own system.</p>
+    </form>
+  </div>
+</section>
+</main>
+
+<footer class="border-t border-line bg-surface">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-10 grid gap-8 md:grid-cols-3 text-sm text-muted">
+    <div><p class="font-bold text-ink text-base">Sovereign Care Ltd</p><p class="mt-2">[ADDRESS]</p><p>[PHONE NUMBER]</p></div>
+    <div><p class="font-semibold text-ink">Registration</p><p class="mt-2">[CQC REGISTRATION NUMBER]</p></div>
+    <p>Our service does not replace diagnosis and treatment by a doctor. In an emergency, call 999.</p>
+  </div>
+</footer>
+
+<script>
+(function(){
+var b=document.getElementById('menuBtn'),m=document.getElementById('mobileNav');
+b.addEventListener('click',function(){var o=m.classList.toggle('hidden')===false;b.setAttribute('aria-expanded',o);b.setAttribute('aria-label',o?'Close menu':'Open menu')});
+m.addEventListener('click',function(e){if(e.target.closest('a')){m.classList.add('hidden');b.setAttribute('aria-expanded','false')}});
+var tabs=[].slice.call(document.querySelectorAll('[role=tab]'));
+function sel(i){tabs.forEach(function(t,j){var on=i===j;t.setAttribute('aria-selected',on);t.tabIndex=on?0:-1;document.getElementById(t.getAttribute('aria-controls')).hidden=!on});tabs[i].focus()}
+tabs.forEach(function(t,i){t.addEventListener('click',function(){sel(i)});t.addEventListener('keydown',function(e){if(e.key==='ArrowRight')sel((i+1)%tabs.length);if(e.key==='ArrowLeft')sel((i+tabs.length-1)%tabs.length)})});
+})();
+</script>
+</body>
+</html>

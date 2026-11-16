@@ -1,0 +1,62 @@
+{
+  "id": "SN-W00592",
+  "title": "Nixtio Job Posting Flow Template",
+  "summary": "A clean, multi-step job creation template designed for professional service platforms and hiring workflows.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Business",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Grid",
+    "Modern"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3435,
+      "sha256": "021acd5160fabcd8d46906515023f0c83d8341fa618e4cf295935bc212aa9cab"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10674,
+      "sha256": "d2e5f326dc6c0036d0b29ad9a4ad636cf3a0cdd0630fe61f4366661910af9f5a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "14e9f49b22b55d0ff245c57d497b3705bf809fbd34465f5597d433c02e2f8fd4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 49133,
+      "sha256": "e58c749d338749ca98470c02967eecb2cf3213a10890ba17d04a99cfb323fa98"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "footer",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

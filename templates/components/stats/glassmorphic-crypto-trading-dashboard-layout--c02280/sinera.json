@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02280",
+  "title": "Glassmorphic Crypto Trading Dashboard Layout",
+  "summary": "Responsive crypto trading dashboard with glassmorphic sidebar, user profile, search, notifications, balance line chart and portfolio pie chart placeholders. Built with Tailwind CSS; ideal for fintech, analytics or admin panels.",
+  "tags": [
+    "dashboard",
+    "layout",
+    "tailwind",
+    "glassmorphism",
+    "responsive",
+    "crypto",
+    "chart",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19142,
+      "sha256": "46f70438c6103468ae7c5c7cf30492b9ac088e0682d4a8cb6936083ad42f05ed"
+    },
+    {
+      "path": "component.html",
+      "bytes": 16266,
+      "sha256": "71efabe42984e7c21c3dbc1f7709dbb27edf9cca4c340840da483f57bb49d9ff"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17131,
+      "sha256": "7106a35caa8e1bd689f1a7f53e09838df57df6c553cd912d920ab67c0d91af31"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

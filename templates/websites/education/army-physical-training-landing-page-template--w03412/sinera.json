@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03412",
+  "title": "Army Physical Training Landing Page Template",
+  "summary": "A dark, high-impact landing page template for army physical training academies and sports clubs to promote batches, routines, and registration.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Clean",
+    "Sports Club",
+    "Army Training"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3625,
+      "sha256": "054edc6421b7afd777b853fc176b5be7326843ae93c902552fc848e5d32dd5d2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10826,
+      "sha256": "1e36b9569af1f78a8cbc209e877a5154d50abf5d11d00f4b5019acce56a60251"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 732,
+      "sha256": "54575baf505ea36ec5342fd584e2196cb92638fd4967a3191a4c58f80fe76c50"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25355,
+      "sha256": "b02a5f17481fcfbf1c6525ad6cc84c1089d8d67d62bfba36cab3587764624cca"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "features",
+    "schedule-agenda",
+    "auth-form",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

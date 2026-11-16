@@ -1,0 +1,62 @@
+{
+  "id": "SN-W01070",
+  "title": " E-commerce Sun Studio Tan Online Shop",
+  "summary": "Sun Studio tan shop landing page with a five-step shade ladder hero, shade finder, product grid and in-studio booking.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "E-commerce",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3165,
+      "sha256": "b55c22970b570ab085c97b2cb4354b190ffc62f5fef25133f06bd754f3b490ac"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5862,
+      "sha256": "f82685dc3de955560c2e7336b6c423cf7e275f8eb246f5fcd6b9c4240d1c61ac"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 810,
+      "sha256": "fb6a3cb0afbb7c6e5f32fa19f6bcfacf4969814cd5657c975adc7ea72a78f289"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20453,
+      "sha256": "9dc090892d3aa70ea31497841184bdbd35800449f0f98ec3f0496f50c2af2d7a"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats"
+  ],
+  "quality": {
+    "status": "rebuilt",
+    "issues": [],
+    "rendered": true
+  },
+  "language": "en",
+  "designSystem": "sinera-atlas@1.0.0",
+  "design": "DESIGN.md"
+}

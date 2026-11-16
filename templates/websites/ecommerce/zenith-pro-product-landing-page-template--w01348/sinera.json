@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01348",
+  "title": "Zenith Pro Product Landing Page Template",
+  "summary": "A dark, futuristic product landing page template for showcasing high-end laptops or hardware lineups with 3D hero, specs, ecommerce cards, and checkout modal.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Large Type",
+    "E-commerce",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3764,
+      "sha256": "d4bdf4bf955ff5d1b8c42168fd57d775ecdd343264acd9261caa0c0155dff110"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7038,
+      "sha256": "2a278493f97b6fec30d20d5f15fb6fd1d8d39f44192067be661cfb1d8c094b2a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "344d82161a8c7a9c5807e9a88585d265af684178fda7d198a49a4feeba163679"
+    },
+    {
+      "path": "index.html",
+      "bytes": 49584,
+      "sha256": "c4854a062d32460769a0cfa9b4af107f7de38f70bf368d4e87aa29444b8a663a"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "footer",
+    "modal-overlay",
+    "product-grid"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

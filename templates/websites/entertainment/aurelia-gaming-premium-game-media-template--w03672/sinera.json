@@ -1,0 +1,72 @@
+{
+  "id": "SN-W03672",
+  "title": "Aurelia Gaming — Premium Game Media Template",
+  "summary": "A high-end cinematic landing page template for gaming studios, streamers, and creative media agencies featuring immersive scroll-based video storytelling.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Entertainment",
+    "Dark",
+    "Futuristic",
+    "Animated",
+    "Clean",
+    "Creative"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3615,
+      "sha256": "2293e1dbf20a231c6240e7d038c48f84ade93ec7dba912cf9cce04e8f28887ce"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6624,
+      "sha256": "1195d553c35557a72601e183bb7861aa3b924c6e7486e63341e7cc6af92f4938"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 883,
+      "sha256": "232a792811a9fbcc29c1f388f8f1dcfa8e93fcf7cce723b09293032f2740052e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 507,
+      "sha256": "8135bfe639a4b8cae42a51b5816e246819c1388b16cdf9b5eca46a8d549ce7b3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 50279,
+      "sha256": "f797eeac74de43c3863d6ca8dcf76a452a75919b0d6e9531dfdbe3d014092ffa"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "video-media",
+    "services",
+    "features",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

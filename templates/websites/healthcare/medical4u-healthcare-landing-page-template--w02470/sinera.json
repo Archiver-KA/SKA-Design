@@ -1,0 +1,69 @@
+{
+  "id": "SN-W02470",
+  "title": "Medical4U Healthcare Landing Page Template",
+  "summary": "A sophisticated medical and plastic surgery clinic website template designed for health professionals providing aesthetic services and consultations.",
+  "tags": [
+    "Health",
+    "Services",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Professional"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3529,
+      "sha256": "5c777f39f65b0c3f4f6aba7c8a249b42f5b374a7519db83dda8a58122868fd2a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20160,
+      "sha256": "ca20c46b22c5935d175d549b3e5b1637f366261707a5734798bd569d2d0f0f4e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1156,
+      "sha256": "9f4cb3d7a416c6c84268754242790090cc4a7da3ea8d97963fec07d4936d33ae"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 2290,
+      "sha256": "305fba88a6d635d71912873c1f6c315d5579cadd2395464dbbe0096c264c1fcf"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 712,
+      "sha256": "a4bc9928184e4b9e25dcdf37fe7a76aa794f7748abeae0a43e19bc7d09263360"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33325,
+      "sha256": "15c38cb0346c00a439749e8523a3ffe3e40379f9946a53056f4187b1dee7a7c3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

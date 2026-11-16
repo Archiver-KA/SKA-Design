@@ -1,0 +1,41 @@
+{
+  "id": "SN-C00417",
+  "title": "Overlay with Hover Effect",
+  "summary": "A dark overlay component that transitions from 60% to 40% opacity on parent hover. Perfect for image cards or hero sections requiring dynamic overlays.",
+  "tags": [
+    "card",
+    "overlay",
+    "hover",
+    "transition",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4814,
+      "sha256": "8f63c57435c3b9703276fdb51a4df604987292e6b49a10bd9d9627810be07aeb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 175,
+      "sha256": "daece4c63c785f9ff4e2c4ad58fed1c7a342be73213ef392bc1bd943270eaba4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1021,
+      "sha256": "9384358a812c33c62391a5823b7f7ec34b3cbdd1a7ca8e45806a795c367f5e42"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

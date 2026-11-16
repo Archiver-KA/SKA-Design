@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00240",
+  "title": "Pill-Shaped App Action Button",
+  "summary": "Inline-flex pill-shaped button styled with Tailwind-like classes. Features full-width sizing, blur backdrop, hover background transition, and small bold white text labeled 'Open App'. Ideal for app launch or primary call-to-action controls.",
+  "tags": [
+    "button",
+    "cta",
+    "pill",
+    "tailwind",
+    "interactive",
+    "hover",
+    "primary"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1602,
+      "sha256": "5a7a17c4554081921ff373fae9b93624f74f54f89694f4e3c850545f5f4f9c08"
+    },
+    {
+      "path": "component.html",
+      "bytes": 598,
+      "sha256": "8148d15cf72867a19bb773522540e61ee5fc9b80a6719c5558543683fa6c2f16"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1448,
+      "sha256": "51f8839271bc1babd4cdc15a10b0c7690dc3b9edea7afbfe525ee61c2acddc11"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

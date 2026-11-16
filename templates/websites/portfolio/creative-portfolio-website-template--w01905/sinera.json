@@ -1,0 +1,86 @@
+{
+  "id": "SN-W01905",
+  "title": "Creative Portfolio Website Template",
+  "summary": "A clean, type-driven creative portfolio template for designers, artists, and writers to showcase work, archive projects, and highlight personal brand.",
+  "tags": [
+    "Portfolio",
+    "Art & Design",
+    "Graphic Design",
+    "Brand",
+    "Landing Page",
+    "Clean",
+    "Colorful",
+    "Minimal",
+    "Large Type",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3481,
+      "sha256": "eaecd68746e56739b6288fc9950a6355ee6f9ef99aeab1caa37b1b32eb3eea49"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10376,
+      "sha256": "9915e3b4b084b56d350079ba1aa04d7bbbf19068aa20120468788aacf8efefb4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1538,
+      "sha256": "5a81396f68c373fbf1d58760a9ca46430b15be251ab8f5f40f26ae85f8223e66"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 345,
+      "sha256": "4fa53b29fdee19d16eb12c2fd518a71840f1336362408c25d00ca498666717c8"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 415,
+      "sha256": "36c26dbd2a2e9c7e6090a354bfbd7857ce5b9cc3332a775cd1a90b539b91c6c0"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 390,
+      "sha256": "c78dd52c19c0dd70d84995f4ae9341d354fd1b75e98fd7b2571a81a48748c5bf"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 564,
+      "sha256": "554b42614c809ef8e51d7547980d8468771db56ed2bea5956f275e923e984e80"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13969,
+      "sha256": "cd4260dc1a9816388742d62bd10f2e583cf72cd416f19569a37f4d3c19181f8a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "logo-cloud",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

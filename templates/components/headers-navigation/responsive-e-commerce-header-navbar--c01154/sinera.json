@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01154",
+  "title": "Responsive E-commerce Header Navbar",
+  "summary": "Full-width header with logo, nav links, search bar, cart and sign-in buttons, plus mobile menu. Tailwind CSS styling and breakpoints deliver a sleek, responsive navigation ideal for gaming sites or online stores.",
+  "tags": [
+    "header",
+    "navbar",
+    "responsive",
+    "tailwind",
+    "ecommerce",
+    "navigation",
+    "search",
+    "icons"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4208,
+      "sha256": "101ad28b6a6d8c176fe4d34f2df6293ac51ebf75f1e72e6eefa4f688415ffeff"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3753,
+      "sha256": "a988682ff0e4b05aeb62d56e86faf5333001b90f2d3945be26d58ac33fddfab1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4739,
+      "sha256": "23be3a844270d5893db08ec7bf21d186c1f0fba10214835ec4e5da8bcd775c0f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

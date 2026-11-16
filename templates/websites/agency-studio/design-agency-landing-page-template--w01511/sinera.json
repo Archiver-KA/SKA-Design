@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01511",
+  "title": "Design Agency Landing Page Template",
+  "summary": "A high-end Designflo-inspired landing page template for strategic digital agencies showcasing capabilities, case studies, pricing, and premium calls-to-action.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Services",
+    "Technology",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Agency",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3863,
+      "sha256": "a2da75e1d656b96b7b56ca4b55f20f68f779eae355cdd8607a081930629af694"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13034,
+      "sha256": "90bacaa9ce522f8a16ff56495e6f4d578d39248d23aaa30f625dee630222299d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "31892f0c10190b5dbca49eb48523a03cfc6cb8117c99b6b017742a2a2f9acd05"
+    },
+    {
+      "path": "index.html",
+      "bytes": 87021,
+      "sha256": "c09338de6c8493203e143526e9a50ea0e95156e2ebb3a68a4bcd7d140f85efd7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "case-studies",
+    "about",
+    "testimonials",
+    "features",
+    "faq",
+    "team",
+    "pricing",
+    "video-media",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

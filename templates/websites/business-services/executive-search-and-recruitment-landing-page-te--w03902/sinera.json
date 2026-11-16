@@ -1,0 +1,77 @@
+{
+  "id": "SN-W03902",
+  "title": "Executive Search & Recruitment Landing Page Template",
+  "summary": "A high-end, dark-themed recruitment landing page template designed for executive search firms and strategic talent consultants.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Business",
+    "Landing Page",
+    "Dark",
+    "Clean",
+    "Animated",
+    "Futuristic"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3787,
+      "sha256": "eedb7b5a9f4e882d83798df5cd5a1eae320f989514b2a6cf0d4e259ba1cb6bbe"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15396,
+      "sha256": "1155186f118ba3cedf7a4214f943543064985029eebf6750b750f514548993e7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1078,
+      "sha256": "c121af36b62a0612c4e2f0299c14cdc85dcb028449bc950c1cbb8c92c79ad68f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 181,
+      "sha256": "aeb30d24da80100c0e8367c269d61f4554a4f9d42209f464fc10235516ac6ee8"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 65314,
+      "sha256": "0cc6d77a880445a51c2b6290fa7f134c156326ddb15b3aaa4d730561a3a35e04"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "video-media",
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "team",
+    "features",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02281",
+  "title": "Glassmorphic Dashboard Layout with Sidebar & Widgets",
+  "summary": "Responsive Tailwind dashboard featuring sidebar nav, recent activity, featured image, team notes, floating course CTA, and animated SVG orbit progress gauges. Ideal for SaaS admin panels or design system demos with glassmorphism styling.",
+  "tags": [
+    "dashboard",
+    "layout",
+    "progress-circle",
+    "tailwind",
+    "responsive",
+    "animated",
+    "glassmorphism",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 33572,
+      "sha256": "dd16a06d91f7e3e7d0e4d3d042a471eb730e17b02c086182cfc8d34be831b441"
+    },
+    {
+      "path": "component.html",
+      "bytes": 29293,
+      "sha256": "c0e2189335ea9047ca87e88eb921e33c3a51bbfa57fa4e8e872a532c3dbb06cb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30300,
+      "sha256": "4bb1c231ef021c30c71debc7c6d5739d1d85aab5fe544381eadf1d7e4687befd"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

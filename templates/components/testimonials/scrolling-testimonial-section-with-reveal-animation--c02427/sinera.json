@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02427",
+  "title": "Scrolling Testimonial Section with Reveal Animation",
+  "summary": "Full-width testimonial section featuring horizontally scrolling cards, architect grid background, and scroll-triggered reveal animations. Built with Tailwind-style utility classes and Iconify icons, ideal for highlighting customer pain points or quotes on SaaS and AI landing pages.",
+  "tags": [
+    "testimonial",
+    "section",
+    "tailwind",
+    "animated",
+    "responsive",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19518,
+      "sha256": "a7476cec8dcf741cdb76c1c8909ea05a4d5b65f48e6c58124b20cdd69c51bdd2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9709,
+      "sha256": "cc18b86b23997fba8c0673d64f85d74ec13bcb1f6d085a787b4317d39a8d89fd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10581,
+      "sha256": "1a1e4eeda9709194b253bec982863f552359388a8661c11ecb5cedae9ab967e6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

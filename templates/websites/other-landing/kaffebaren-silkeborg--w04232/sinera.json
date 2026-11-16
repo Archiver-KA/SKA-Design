@@ -1,0 +1,61 @@
+{
+  "id": "SN-W04232",
+  "title": "Kaffebaren Silkeborg",
+  "summary": "Kaffebaren Silkeborg",
+  "tags": [
+    "Kaffe",
+    "Kaffebar",
+    "Silkeborg",
+    "8600"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3336,
+      "sha256": "c5d3c8d543d98e5e8d5283f742243c5ed5994ccc3a9d7858354bab89e43c441f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5422,
+      "sha256": "103ae553fc12b2e888cca85b36ec1353ba3209e34e71c52bd830b9f3203e7cdb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 714,
+      "sha256": "a105106402baf5666b789cfac2f5506aa2800c2d2608ee64bf939c75734e439d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29947,
+      "sha256": "725d20d613f93a59e4f4d2914cbd5098ac4e46d9287904fc189f98eb5880de0f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "menu-list",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

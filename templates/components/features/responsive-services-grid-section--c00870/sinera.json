@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00870",
+  "title": "Responsive Services Grid Section",
+  "summary": "Tailwind-styled section highlighting services with a header, optional \"View All\" CTA, and a responsive 1-3 column card grid featuring icons, hover elevation, and arrow links—ideal for agency or product sites to showcase capabilities.",
+  "tags": [
+    "section",
+    "card",
+    "grid",
+    "tailwind",
+    "responsive",
+    "hover",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14304,
+      "sha256": "1e6ee0fce9c41e8d4b1aae8376ce6f1c41e1cf9b2472ab1631cc9c8edf43f2ea"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5828,
+      "sha256": "bb10987e4897d2d83aa7fdb0dea95d467954a590ee56bd2047e15f3082d4a060"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6811,
+      "sha256": "59772aafae13807d173a4c97319cbfbca05e77673c4c5994ab8fcfacf78224f4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

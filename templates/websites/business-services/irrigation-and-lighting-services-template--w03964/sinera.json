@@ -1,0 +1,80 @@
+{
+  "id": "SN-W03964",
+  "title": "Irrigation and Lighting Services Template",
+  "summary": "A clean and professional landing page template designed for irrigation specialists, landscaping companies, and landscape lighting providers.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Clean",
+    "Minimal",
+    "Landing Page",
+    "Business Category"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3681,
+      "sha256": "0d05ea3d3b2075c047cd0b0796b9dda211072f59755b476b9a4d018c99f48ca3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14466,
+      "sha256": "7a49dc9d424777e2f08aed159fcab0194b403590b6645a40c145ff661efd4641"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1266,
+      "sha256": "30b8de91663ac18782aa5b78693bea0809037c0087519a7c01f0bff6b9ab9142"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 223,
+      "sha256": "2ad57638ac21eb3dcad9c88f75689664e648a8feb5f26858e5f9d5974176a38c"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 409,
+      "sha256": "50b9edeb34eedd60762c1410f75455483e7e29251347701e91e9de035b7c7315"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 257,
+      "sha256": "445b7fb8562c946cf3445ff151a026f7ef38ecec624294a2abe0d72c9d84cb75"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35014,
+      "sha256": "f9f68caa9cad8533d97597f14decc13dbe576fb276be2e176f5a301928901b3c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "video-media",
+    "services",
+    "stats",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00127",
+  "title": "Capsule Waitlist CTA Link with Icon (Tailwind)",
+  "summary": "Pill-shaped call-to-action anchor prompting users to join a waitlist. Utilizes Tailwind CSS for ring, backdrop-blur, and hover effects, plus an arrow icon that slides on hover. Suited for landing pages, hero sections, or signup prompts.",
+  "tags": [
+    "cta",
+    "link",
+    "button",
+    "tailwind",
+    "icon",
+    "hover",
+    "rounded",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1898,
+      "sha256": "f71105485571b46396dee77523f9d1eb9d80187eede5bca657cd8e95b5da6a94"
+    },
+    {
+      "path": "component.html",
+      "bytes": 816,
+      "sha256": "f77edb7c3fb7d5c1c12acdc77fc492a1b3856c38db05e870b9cad56a5e163e82"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1813,
+      "sha256": "b7b0c73c9fe0c0878fde5c2481dc25e701b268040d1c5588d0883827a5fc9bbe"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "id": "SN-W00392",
+  "title": "Flowline BPMN Process Designer Template",
+  "summary": "An advanced BPMN-compliant process modeling and workflow automation template for designing complex operations and business rules.",
+  "tags": [
+    "Technology",
+    "Brand Guidelines",
+    "Clean",
+    "Futuristic",
+    "Minimal",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "react",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2730,
+      "sha256": "62fb251bf7df34a4a17c1f70383462610ac9bb2cb2434a514f193bf2c867e314"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 23866,
+      "sha256": "07514e8939b91f94230021148434e8fb7e745215e4c15d8247c487ab2f453e85"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1305,
+      "sha256": "e24abfea5792c7afbdb1e09638db6ec7ef4c116120d0af5ced182216f6f8ba35"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 396,
+      "sha256": "77bab8799bd8fd415fee6d980666c9c4739cdd4692840e7b4cee6a9ffe3d47cf"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 197,
+      "sha256": "812503561ee31097239b82bee074c5b86b025551c80496b67873f69a1e0c558e"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 3430,
+      "sha256": "7e99f08bc8af1d503431f5fa40091e14013dd6144b0b98b64bb307063b412f9e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 615,
+      "sha256": "342c790b2747af225f6d6f24fccac92fc1779aa56f298b9182c6118dc34e2cae"
+    },
+    {
+      "path": "package.json",
+      "bytes": 608,
+      "sha256": "cf4f2241711ef1fad2f6c1f2aa9e6ad81059e08ffd09094a54a00160ee7d410d"
+    },
+    {
+      "path": "src/App.tsx",
+      "bytes": 1980,
+      "sha256": "40a6531fa10474f35176bc91a21792bf8357562fb9b7a3fcc30aa113e2a8dc9f"
+    },
+    {
+      "path": "src/components/ErrorBoundary.tsx",
+      "bytes": 1699,
+      "sha256": "69068dfbb5c5af21331e0ed3f44098d618e8370c83138623e7be63e28bf50fd9"
+    },
+    {
+      "path": "src/components/Icon.tsx",
+      "bytes": 11826,
+      "sha256": "6c1c10f657effbfcb03db644c0f5b0794ebbe93a1ea54be2666feaf7e876fd02"
+    },
+    {
+      "path": "src/components/PageHeader.tsx",
+      "bytes": 599,
+      "sha256": "715d0470bba27fd73992776bf5477b27c6e04b4483412fbf59aeb554bf8fa550"
+    },
+    {
+      "path": "src/components/TopBar.tsx",
+      "bytes": 2992,
+      "sha256": "9e4ad0e4ef404a8dd9539ae9282bc1266baccf05fd01148b92c038d694c01c60"
+    },
+    {
+      "path": "src/lib/process.ts",
+      "bytes": 13177,
+      "sha256": "887fc9a6774efcbac5933c693381f1e8a47e94098c58e566c3b89a66a809e7eb"
+    },
+    {
+      "path": "src/lib/shell.ts",
+      "bytes": 480,
+      "sha256": "5c6e320aff7883c66e99b5ae8935ab02c2d820c79e15b4772494b2aec7eec04b"
+    },
+    {
+      "path": "src/main.tsx",
+      "bytes": 716,
+      "sha256": "d6bc6bcd44032076d114f70efb19fc7e841649ee40b6be805675f1710fa23e25"
+    },
+    {
+      "path": "src/pages/Designer.tsx",
+      "bytes": 28957,
+      "sha256": "ae11fc46748c1bb7d4acd355d3bb19909ca8582a7ba75e1decd1b6151e64ea39"
+    },
+    {
+      "path": "src/pages/Export.tsx",
+      "bytes": 7240,
+      "sha256": "bfb0ecf6196354108361174842f5f67576c2cf85069b07955dcdad18b013c7b2"
+    },
+    {
+      "path": "src/pages/NotFound.tsx",
+      "bytes": 1236,
+      "sha256": "5a89a10588b3780e28fdd3089cc1a9e94bbbea4910b5ae888ea0c8687d64e77b"
+    },
+    {
+      "path": "src/pages/Publish.tsx",
+      "bytes": 19976,
+      "sha256": "637fe3c9ca20ccc230a29318347e7c92317246068d8a01f615b13e2454574c40"
+    },
+    {
+      "path": "src/styles.css",
+      "bytes": 43764,
+      "sha256": "b441a0d9e7e6dae796af64961612cac7c3bef24663c20160cf5f9b03f4bf5ca0"
+    },
+    {
+      "path": "src/vite-env.d.ts",
+      "bytes": 38,
+      "sha256": "65996936fbb042915f7b74a200fcdde7e410f32a669b1ab9597cfaa4b0faddb5"
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 439,
+      "sha256": "29b8c58fe89ec716f553667ceaadaaf77a4c0252050a1ecf4af3434bd12aabe1"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 2167,
+      "sha256": "b058d4a9a15c19bf864cce098fa7bc645f811f0b9837e0fda073a78efb4063ab"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

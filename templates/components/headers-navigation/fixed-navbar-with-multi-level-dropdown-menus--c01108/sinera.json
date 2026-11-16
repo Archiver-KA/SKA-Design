@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01108",
+  "title": "Fixed Navbar with Multi-Level Dropdown Menus",
+  "summary": "A fixed, full-width navigation bar with logo, desktop dropdown menus, and collapsible mobile accordions. Uses Tailwind-style utility classes and vanilla JS for interactive dropdown toggling, suitable for SaaS or marketing sites.",
+  "tags": [
+    "menu",
+    "navigation",
+    "dropdown",
+    "responsive",
+    "interactive",
+    "sticky",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2536,
+      "sha256": "a56532aee50b90f3c0c822919f6a2de3e10ffae817d27eca25aadba1c613483d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 31102,
+      "sha256": "0711477ad06214c0096b1b002f724f5ada75222f49e128876d5fbf3d721d0da1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31967,
+      "sha256": "e53c05383eefa34b8bc88874bce238a81a58c11fd8fc95af4f7216f5b46dd469"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

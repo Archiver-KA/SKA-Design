@@ -1,0 +1,40 @@
+{
+  "id": "SN-C00248",
+  "title": "Primary Action Button",
+  "summary": "A primary button component with cyan background for main actions and conversions",
+  "tags": [
+    "button",
+    "primary",
+    "action",
+    "cyan"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3526,
+      "sha256": "7d9761f765838be91632c203061d2b5c0a8dd2743f8b1682f01ca46633d4add0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 431,
+      "sha256": "9fd39bdbaffe2a7fb60e71abd9710f4a03e1b0438ae13ffb8b1c6a13b8905c72"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1273,
+      "sha256": "17a3cb0c510543e7f8e4257c4aedb7b3b9377ced95feab47438efbe4723f344f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,8 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Full-Screen Video Hero with Gradient Overlay</title><script src="https://cdn.tailwindcss.com"></script><link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet"><style>body{margin:0;min-height:100vh;display:flex;flex-direction:column;justify-content:center;background:#ffffff;color:#0a0a0a;font-family:Inter,ui-sans-serif,system-ui,sans-serif}</style></head><body><div id="component-root"><div class="relative w-full h-screen overflow-hidden bg-black">
+  <video autoplay="" muted="" loop="" playsinline="" poster="https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=1200&q=80" class="w-full h-full object-cover z-[1]">
+    <source src="https://videos.pexels.com/video-files/3129957/3129957-uhd_2560_1440_25fps.mp4" type="video/mp4"></source>
+  </video>
+  <div class="absolute top-0 left-0 w-full h-full bg-gradient-to-t
+    from-black/80 via-transparent to-transparent z-[2]
+    pointer-events-none"></div>
+</div></div><script>try{var r=document.getElementById("component-root");if(r.children.length===1){var d=getComputedStyle(r.children[0]).display;if(d.indexOf("inline")===0)r.style.textAlign="center"}}catch(e){}</script></body></html>

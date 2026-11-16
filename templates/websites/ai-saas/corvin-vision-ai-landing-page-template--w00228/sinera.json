@@ -1,0 +1,91 @@
+{
+  "id": "SN-W00228",
+  "title": "Corvin Vision AI Landing Page Template",
+  "summary": "A high-performance dark-themed template designed for AI computer vision applications and on-device processing startups.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Dark",
+    "Clean",
+    "Futuristic",
+    "Animated",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "react",
+  "entry": "package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3374,
+      "sha256": "5dbc28898b1731870e004e28d9813d5f278fd9bd80dde1fe68738db6e54538dc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13014,
+      "sha256": "a30d27ec46992931949c0e60005febf60ede09804f2b81b2d5b98bb4df88fb51"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 732,
+      "sha256": "e6e81e1bd9e119b98eff4d4ea123fe53baa46a442f59cca66b058e741e5b3e2e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 548,
+      "sha256": "dcbfcf86219c61fd1ec8642c708d341bdcf3e9cfc6ce767f38cfd35e8d271114"
+    },
+    {
+      "path": "package.json",
+      "bytes": 594,
+      "sha256": "9582298088ecc709ced14d5b27014c0451894af752470beb28b0450f213eac8a"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 25362,
+      "sha256": "f2079e6f969b6479c240ca44be3194ba8f786c9a923cdff5a8ec1de0b7a2d5dd"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 2887,
+      "sha256": "6679a661a7bfe39a86d999c0f4ee8228841fc4845fca786ddf453aa0b89bc01a"
+    },
+    {
+      "path": "src/lib/detector.js",
+      "bytes": 7491,
+      "sha256": "85dbc9402add277d9ae555e64cc9a8d4a46dfb3f27b7231d17a1201da74e243f"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 205,
+      "sha256": "c0c236a5492910f9f4eae030e9bea834c13381b66f331a7ffff144de9de93c3c"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 226,
+      "sha256": "cdc1763369a305dd2cc7d83e3b19b447f985089e744932a9fbf520975e41ac72"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "footer"
+  ],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

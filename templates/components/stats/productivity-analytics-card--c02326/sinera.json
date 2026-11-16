@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02326",
+  "title": "Productivity Analytics Card",
+  "summary": "Metrics dashboard showing productivity impact with large stats, progress indicators and real-time tracking features.",
+  "tags": [
+    "analytics",
+    "metrics",
+    "dashboard",
+    "stats",
+    "gradient",
+    "dark",
+    "productivity"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6780,
+      "sha256": "764ccb552a2f2180f53c075121757deb18ab56cf511660d9b18780c4fee1d85e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2859,
+      "sha256": "fe5ec4cf2db60347f7d2deffa9726b9f19ca9c38752b3e46873f8e406ce5c1b5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3707,
+      "sha256": "6f0c1e24cb954a58e61db086ef79b0915f9e39318d80f74fa8bcc10837f299cc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

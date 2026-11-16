@@ -1,0 +1,70 @@
+{
+  "id": "SN-W01649",
+  "title": "Nexura Creative Agency Landing Page Template",
+  "summary": "A high-performance landing page template designed for ad creative agencies and marketing service providers looking to showcase portfolio work and scale client acquisition.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Dark",
+    "Futuristic",
+    "Clean",
+    "Graphic Design"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3941,
+      "sha256": "2224d3afa69a5c9314c6847ec38840764a6af268598f15fb80d66dac420a415e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17600,
+      "sha256": "29735fd9dec63dee89065838bf9d33095508ecd84048e67ec6dc765cd3bc832a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 821,
+      "sha256": "30a59ff6fc040fbc75d8a4b7b06284784f75e5d8b2463f1fc3904dd6fe4134b0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 57326,
+      "sha256": "b0db873e314fc1e7f68c50539878391cc550ba9d666a03df233f72e0fa6db1a8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "video-media",
+    "navbar",
+    "logo-cloud",
+    "hero",
+    "testimonials",
+    "how-it-works",
+    "pricing",
+    "stats",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

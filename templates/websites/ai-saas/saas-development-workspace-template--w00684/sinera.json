@@ -1,0 +1,58 @@
+{
+  "id": "SN-W00684",
+  "title": "SaaS Development Workspace Template",
+  "summary": "A high-fidelity project management and site-building dashboard template designed for developers and staging environments.",
+  "tags": [
+    "Technology",
+    "Services",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3514,
+      "sha256": "28e90a42f271e1203bb2a67d733a1305ffcf9a1119447c7a7fed32af97215881"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16972,
+      "sha256": "76cd903bb0f4653763271ba4788fde12ecbe0f25624721d60a79e7d0eb6ed743"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "395f42ac91b9475323cfa8ea8cac562c15164590256b575cbb13ef5fd0a0f49f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23981,
+      "sha256": "817a4a14eb35c59e168b5f181b043601a192c0d6efe6d9f1eb02b448a0f7c973"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

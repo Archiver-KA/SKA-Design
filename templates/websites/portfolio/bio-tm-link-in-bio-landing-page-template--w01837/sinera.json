@@ -1,0 +1,69 @@
+{
+  "id": "SN-W01837",
+  "title": "Bio.tm Link-in-Bio Landing Page Template",
+  "summary": "A high-performance landing page template for digital identity profiles, featuring multilingual RTL support and intelligent analytics for creators and brands.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Clean",
+    "Animated",
+    "Dark",
+    "Portfolio",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3494,
+      "sha256": "f4633466b198a8e1dbf63ab6bfdcea46090d282f9034e7baa14b801175ab8d0e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16924,
+      "sha256": "2fc851942c6845c91b55e34c40a838c321458820c74836f526b697eb01c5b85f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 873,
+      "sha256": "7ea06a2d33c0bbed07fc99f65b9c3595929827473fb6f3a719590b2b35434dd2"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 210,
+      "sha256": "0fe8e68a883d9fdb25e60d912c8b6cd6d300dcb68d04a6fe76e874b965654cdf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42131,
+      "sha256": "eb6c72e2ef6585e9a3c8235dbbd053f75012f21d399d9f27aede1c48d51e0c35"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "features",
+    "logo-cloud",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

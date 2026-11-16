@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02077",
+  "title": "Responsive Pricing Plans Section",
+  "summary": "Tailwind CSS pricing section showcasing Free, Pro, and Enterprise plans with feature lists, badges, gradients, and CTA buttons in a responsive grid—ideal for SaaS landing pages.",
+  "tags": [
+    "pricing",
+    "section",
+    "tailwind",
+    "responsive",
+    "grid",
+    "cta",
+    "saas",
+    "landing page"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21120,
+      "sha256": "eed2974bdfffb05b2cc92aa4a652b60f931b9da5fc2c66f1828c6d3c88a29caa"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8070,
+      "sha256": "0d5d80b8c4a87b8c5ddc03a1af7bb155575f39cee76019fe05fd69370031363a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8923,
+      "sha256": "bf4e96df6786be605a2a3a4800598a31f09481d26524fd51e0283470c80b5fb9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

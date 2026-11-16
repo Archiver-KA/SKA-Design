@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01402",
+  "title": "Hero Section with Services, CTA, and Project Gallery",
+  "summary": "Dark-themed hero banner for agency sites featuring headline, service pricing, dual CTAs, and a responsive project gallery inside a faux browser frame. Uses Tailwind CSS, gradients, and blur effects for a modern, interactive landing experience.",
+  "tags": [
+    "hero",
+    "landing",
+    "tailwind",
+    "responsive",
+    "gallery",
+    "agency",
+    "cta",
+    "dark",
+    "section"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 37584,
+      "sha256": "7fb1f3611b70bc43f0fcefd7b579d640b01c49cd6647a87f19c67fb641333e2c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6681,
+      "sha256": "c20e1a862a406a3ffb0193eb7fe8625bae0299a851e1eabb040febba223f4bc0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7684,
+      "sha256": "598db2bd2c9f087d38854ee57029bfa06d4fdfa4289fc64602d954c7fde0cc4e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

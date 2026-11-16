@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02220",
+  "title": "Senior Product Designer Portfolio Template",
+  "summary": "A dark, fintech-focused portfolio template for senior product designers to showcase case studies, systems thinking, and experience with AI, SaaS, and Web3.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Art & Design",
+    "Resume",
+    "Fintech"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3624,
+      "sha256": "163f5c57a1d937b81b6eb34c72bf129adf7ad76d601c9a1f01dc44fc718083e2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16022,
+      "sha256": "6c3839d099fc864ce5eecb83078275f152d501a995992dd973005d3c36718dda"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "effe8970a3805078edfc7ee85838ecbd61b1e43b32700bd0f3be883a8528eda1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39838,
+      "sha256": "cac79a156fce9b83f37a565837026332be12e3c75c57082e5cb7a2b56572c02c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "code-terminal",
+    "about",
+    "stats",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

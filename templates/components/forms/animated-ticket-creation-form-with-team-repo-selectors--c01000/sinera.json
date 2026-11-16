@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01000",
+  "title": "Animated Ticket Creation Form with Team & Repo Selectors",
+  "summary": "Stylish Tailwind-powered card for creating Nova tickets. Features autosave indicator, team and repository dropdowns, branch toggle, title and description inputs, gradient submit button, and smooth entrance animations—perfect for issue trackers or dev tool integrations.",
+  "tags": [
+    "form",
+    "ticket",
+    "tailwind",
+    "dropdown",
+    "animated",
+    "card",
+    "issue-tracker"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14706,
+      "sha256": "bc703c7132a49f881683c55b58200e6b5dd2621974077300fc1238cda6d772b0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11872,
+      "sha256": "bb25a00b12f8acf35e162e6fecaa40fad5236570df0fc9329a3a0023bf6a38c6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12883,
+      "sha256": "3e87bb9cbc01eb0a929a6d86fc40f20270cbd5dddef4c1f9075fff38805aa76c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

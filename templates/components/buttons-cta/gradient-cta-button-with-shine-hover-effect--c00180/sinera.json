@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00180",
+  "title": "Gradient CTA Button with Shine Hover Effect",
+  "summary": "Interactive rounded call-to-action button using Tailwind CSS. Features violet-to-fuchsia gradient, rocket icon, scale and border change on hover, and looping shine animation—ideal for signup or trial prompts on landing pages.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "gradient",
+    "animated",
+    "hover",
+    "interactive",
+    "icon"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2446,
+      "sha256": "69024d486a2c70362c3659a51b58b238fc038d4ca5e50e1f73c37961b38dec1d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2089,
+      "sha256": "1fe185a0f94bd420f672d46afbd19601c209751e264be1d873e9c29a5b33f009"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3083,
+      "sha256": "6502d24cbdecc33f34c968ca43c4bff031221c502559134e0e88597684b6b367"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

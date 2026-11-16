@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01101",
+  "title": "Design Editor Sidebar with Element Library & Timeline",
+  "summary": "Responsive Tailwind CSS sidebar for page/design editors featuring element categories, component library grid, scene element list with controls, and color-coded animation timeline. Ideal for builders requiring an organized element and timeline management panel.",
+  "tags": [
+    "editor",
+    "tailwind",
+    "library",
+    "timeline",
+    "panel",
+    "design tool",
+    "components",
+    "section"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 54394,
+      "sha256": "39463eb793d24b17678fb545726dd1f1d96595709d2789f203f14603d3c0a636"
+    },
+    {
+      "path": "component.html",
+      "bytes": 17043,
+      "sha256": "35814dc1e7e9e969f98d5a521b243a688b96ed837dbb128eb45987ef5081f1da"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18051,
+      "sha256": "164246cd483ef19b32caaf8b3b8ea70959d071ba23fe71d0b537b6e80af50570"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

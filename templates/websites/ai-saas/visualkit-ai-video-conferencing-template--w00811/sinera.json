@@ -1,0 +1,61 @@
+{
+  "id": "SN-W00811",
+  "title": "Visualkit AI Video Conferencing Template",
+  "summary": "A high-fidelity meeting platform template featuring AI-driven screen vision, real-time RAG chat, and advanced video grid controls for enterprise collaboration.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Dark",
+    "Clean",
+    "Futuristic",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3445,
+      "sha256": "642d414de1e7984e79daf474fd684c7faef7fd8e762ae21d131f823de0ef785a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 27410,
+      "sha256": "7939ccfbbb5ac2162f24f191a17519b3c859aa092a2bfb4462221bda1faaa20f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 817,
+      "sha256": "99d5435584d3dbd8cd762f820542eca69139fa35d332bc06d1239073d713349a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26769,
+      "sha256": "f1daa5f0d35e29ae3a32958c5572ebbaa0465af104c39e1954f11564ac639094"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

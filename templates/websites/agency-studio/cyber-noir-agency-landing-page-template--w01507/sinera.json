@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01507",
+  "title": "Cyber-Noir Agency Landing Page Template",
+  "summary": "A futuristic cyber-noir agency landing page template for showcasing high-end growth, branding, and media services with bold visuals and case studies.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Services",
+    "Technology",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Case Study"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3392,
+      "sha256": "1cadff9caac5192eb369ef8fa2015d62eb52ab359330ecd115da4f6cb5d8ed24"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13158,
+      "sha256": "740b6004acf557ab78604487a6c285c819b92ffb2a1243d905157d93911da90e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 961,
+      "sha256": "a20949ea1151556173efb263c9d732b28f6b3758546892aca08e7b243ba08d2c"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 633,
+      "sha256": "9f60b62ee7fad7640f344f054fa3708266971629d7f3ec1aae2aba54e7a9492b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20972,
+      "sha256": "2775b2e8767224c30329dd42c0205918fe7e9b3f02a651cd09170351efd946ec"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "features",
+    "stats",
+    "logo-cloud",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

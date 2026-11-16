@@ -1,0 +1,95 @@
+{
+  "id": "SN-W00363",
+  "title": "Enterprise AI Infrastructure Landing Page Template",
+  "summary": "A futuristic Enterprise AI Infrastructure landing page template for showcasing autonomous agent platforms, neural engine features, and scalable compute tiers.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Large Type",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3913,
+      "sha256": "fc4283af13966de2d7fa3507314bbfff19262f50213aba80a237ca40ef57133f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14796,
+      "sha256": "266766d2a67ca1e7945096ac305d386336c2d6c82f16e32543010b96d82753a9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1752,
+      "sha256": "c823dad1feb864c1e6c9c643d381d7b7ab4e47c71ccb1f1054c0ef23426eab84"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 352,
+      "sha256": "3d53956fb7d9e81a0efd99e3b1a4ec51d63f4cf8755dd108f8dbe3738c80f05e"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 210,
+      "sha256": "61d06e0cc0bed7db860b1f219a8ad5b437685e05316fb0b573fd5b5a8978e0c4"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 186,
+      "sha256": "6ee738f22281cc598ed37e9e7b6fa4ff6f40dee7fd8790e3c5ee9f26ea86372e"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 373,
+      "sha256": "70a554c1aa3b2e416f757a5e1c5650d06c4e4ef2f0fd7f3fe2581d1afcb5cba1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 46897,
+      "sha256": "d518c0d05c4b458e3f281c2ce8b1f285f9e4bf1e08dbc31784558eb912e2031c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "stats",
+    "code-terminal",
+    "features",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

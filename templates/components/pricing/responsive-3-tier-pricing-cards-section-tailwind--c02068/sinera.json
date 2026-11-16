@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02068",
+  "title": "Responsive 3-Tier Pricing Cards Section (Tailwind)",
+  "summary": "Three-plan pricing table with feature lists, badge highlight, and CTA buttons. Fully responsive Tailwind grid with hover/scale effects, ideal for SaaS or subscription landing pages.",
+  "tags": [
+    "pricing",
+    "tailwind",
+    "responsive",
+    "cta",
+    "grid",
+    "landing page",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 25836,
+      "sha256": "73893426da93d18f18a64d67a3066fc906fd8bed8355fb8eaa58fa880bc9130e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 14554,
+      "sha256": "dd7d8cae2baeaf41ed1dec0a000836b2d95496693940829c237ad98e16a6eec1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15555,
+      "sha256": "b845ff22aac059f743706da1dda5bb64b836a7c4b07388d2cab8885e9f105198"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

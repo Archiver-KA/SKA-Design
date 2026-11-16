@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01989",
+  "title": "Video File Path Display",
+  "summary": "A simple text component displaying a local file path. This component shows a file URL reference, typically used for debugging or file system navigation display purposes.",
+  "tags": [
+    "card",
+    "text",
+    "display",
+    "filepath",
+    "monospace"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6158,
+      "sha256": "18440550753b9dfab0d5fd8c485e41ca7c7629c3036c1d8a005cd9accb47c967"
+    },
+    {
+      "path": "component.html",
+      "bytes": 362,
+      "sha256": "9ee0b13560bfbf1e441ba162df3fa0cdc6ac71eabfadc1e46ed4a963d8df74e1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1206,
+      "sha256": "689fcef140316832d84d9f5b4c5e0ee588118992704a5ed9c33cd115d1f54242"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

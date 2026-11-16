@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02173",
+  "title": "Premium Product Card with Video",
+  "summary": "Elegant product card featuring video background, status badges, pricing, and detailed descriptions with category tags and add-to-cart functionality.",
+  "tags": [
+    "card",
+    "product",
+    "video",
+    "ecommerce",
+    "modern",
+    "hover",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 17302,
+      "sha256": "7aed75a10c9504cb5a526971b53de913f327a37f0f029ece92ca222e39d07219"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4356,
+      "sha256": "713b3e468051a352bd64ed48a089cf91ace487276a18588f296a702edd2a6679"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5338,
+      "sha256": "8eb928f18eb6ad386a16d1e80328504e2aa9f5c9d40bdc364f989eade7bc01f6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

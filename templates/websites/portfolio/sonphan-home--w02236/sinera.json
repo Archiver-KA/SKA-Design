@@ -1,0 +1,79 @@
+{
+  "id": "SN-W02236",
+  "title": "SonPhan | Home",
+  "summary": "A high-end, brand-forward engineering studio template designed to showcase technical capabilities and streamline project inquiries for software teams.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Minimal",
+    "Dark",
+    "Clean",
+    "Animated",
+    "3D",
+    "Corporate",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3844,
+      "sha256": "c1f04d9ba6638297c4ee9790091ecb182036097101d14f6927169fc0ace6926e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12256,
+      "sha256": "ccc6cf2fde8ebe082cf28c565295cd13e762c01f3bd23dca1f64a2a6b5edd9c6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 932,
+      "sha256": "102a2544be294a65cfad8dab3b312c76df3d5cbae74e9d4a464669855a385a47"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 317,
+      "sha256": "e827da3df3b879dbcb4f3bef4c3b8ef35753cc226426787da25bfa027d10d906"
+    },
+    {
+      "path": "index.html",
+      "bytes": 109289,
+      "sha256": "b1fafd32eb394c93e18e88356a263739d4bb415e7113b59b48d0aaeecf22d7cc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "features",
+    "timeline",
+    "team",
+    "pricing",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "SN-W03184",
+  "title": "Architecture & Interior Design Agency Template",
+  "summary": "A high-end, premium agency template designed for architectural firms and interior design studios, featuring immersive video backgrounds and sleek typography.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Portfolio",
+    "Interior Design",
+    "Clean",
+    "Dark",
+    "Animated",
+    "Minimal",
+    "Professional"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2905,
+      "sha256": "f6180d7347747d6515fdf944908163d547853446f7cc3bf0f46173a4742d3a8c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16224,
+      "sha256": "c1d81ee9228aab74cc009dae3fefe539e9251175ab28f8db675bf578db279d2d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1156,
+      "sha256": "9156de6aeff0c9446292345bc43529ccc9d0b1fc71677749d14299c4749de3d7"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 247,
+      "sha256": "85791ee945991c444e4e42c2543c879ee4c345081c89604900e620caeacda5cb"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 381,
+      "sha256": "6523d2dfe2e5bd1908b74ac7a710823c4d035b0329f74351da9939bf22cff441"
+    },
+    {
+      "path": "index.html",
+      "bytes": 96082,
+      "sha256": "c0b7b7a4f4c6c868afa4b79bb6448cc387d44057ff65597d1e0d62a384d79bfd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "case-studies",
+    "features",
+    "pricing",
+    "testimonials",
+    "awards-press",
+    "how-it-works",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

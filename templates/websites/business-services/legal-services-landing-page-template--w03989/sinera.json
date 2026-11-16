@@ -1,0 +1,58 @@
+{
+  "id": "SN-W03989",
+  "title": "Legal Services Landing Page Template",
+  "summary": "A high-performance landing page template designed for private investigators, criminal defense attorneys, and legal services featuring a dark, professional aesthetic.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Landing Page",
+    "Dark",
+    "Minimal",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3090,
+      "sha256": "1d31ec61c44b5e393d686caa13e59fc7370ecbdf0dff776e2e7243dfd5145829"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20512,
+      "sha256": "d1785b777d69555c483ab278f23a7a6200117188c208a43f480a1b8397843f91"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "330eac843d304d1d7673062c69426b850ea18b08c9454b9a6e5e6f43ea3ea10e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5776,
+      "sha256": "220d995973601d7e8008af81d3977d2faef18b0bd6e60450cd87c752aebc05fa"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "blog-articles"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00188",
+  "title": "Gradient Call-to-Action Button with Arrow Icon",
+  "summary": "Anchor element styled as a CTA button featuring a dark-to-purple gradient, clipped angled edges, uppercase text and an SVG arrow icon in a circular badge. Hover enlarges side padding for a subtle grow effect. Built with Tailwind utilities and inline CSS—ideal for review or navigation links.",
+  "tags": [
+    "button",
+    "link",
+    "cta",
+    "gradient",
+    "tailwind",
+    "hover",
+    "animated",
+    "svg-icon"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2076,
+      "sha256": "004191058bc00773289ed56ba255067b3b050879af2f454083e9218b6e3cc490"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1230,
+      "sha256": "0075bba107aea52741f89febb37f495837f866bd8fec2a210a3d2af273108953"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2227,
+      "sha256": "61050eee4a7d99f1998f37783c44af7ece7c414b0a9fde50c3c8fca671d405c6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

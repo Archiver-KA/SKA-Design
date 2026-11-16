@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00980",
+  "title": "Split Code Viewer with Blurred Hidden Pane",
+  "summary": "Tailwind-styled component presenting a two-pane code window: visible code on the left and a blurred, locked pane on the right, capped with a privacy notice footer. Useful for demos, docs, or screen recordings that must conceal sensitive sections.",
+  "tags": [
+    "code-viewer",
+    "split-pane",
+    "privacy",
+    "tailwind",
+    "blurred",
+    "lock",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "footers",
+  "categoryLabel": "Footers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6306,
+      "sha256": "aa0a17bc198e8b590347b317a58469790677446cbb76f188ff501aaa1aef7157"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3120,
+      "sha256": "5db9bc46b0ab124199a6546f6a048858fd297c542f3136526ce4e17d523b194e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4113,
+      "sha256": "7bbd6c4fc589de9c54f6822951493de63b86a6f228b017eb38287a61f94c6764"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

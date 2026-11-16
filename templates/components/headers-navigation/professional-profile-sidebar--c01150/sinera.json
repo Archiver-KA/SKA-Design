@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01150",
+  "title": "Professional Profile Sidebar",
+  "summary": "Comprehensive profile sidebar with name, title, availability status, skills list, and contact information with hover effects.",
+  "tags": [
+    "profile",
+    "contact",
+    "skills",
+    "social-links",
+    "hover-effects",
+    "dark-theme"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12430,
+      "sha256": "a89c4b42a74cca94f3d07cdbf7197c9d98c058c3b37f401915abbebd8473f876"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5654,
+      "sha256": "50ea3e668c5712306e5cc1de2dc81e89e2cb04660b1e540308810f149f361789"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6503,
+      "sha256": "4a8866045f4b29e607120e459ab166a0b7f5609dd775524f5978aac4ff83a98c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

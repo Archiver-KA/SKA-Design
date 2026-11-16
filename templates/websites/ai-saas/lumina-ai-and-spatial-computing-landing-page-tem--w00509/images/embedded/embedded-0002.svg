@@ -1,0 +1,67 @@
+<svg viewBox="0 0 100 100" preserveAspectRatio="none">
+          <defs>
+            <radialGradient id="orbital-glow" cx="70%" cy="50%" r="45%">
+              <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.24"></stop>
+              <stop
+                offset="42%"
+                stop-color="#22d3ee"
+                stop-opacity="0.07"
+              ></stop>
+              <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"></stop>
+            </radialGradient>
+          </defs>
+          <rect width="100" height="100" fill="url(#orbital-glow)"></rect>
+          <ellipse
+            class="orbital-core"
+            cx="73"
+            cy="52"
+            rx="15"
+            ry="28"
+          ></ellipse>
+          <ellipse
+            cx="73"
+            cy="52"
+            rx="7.5"
+            ry="14"
+            fill="rgba(255,255,255,0.03)"
+            stroke="rgba(34,211,238,0.18)"
+            stroke-width="0.035"
+          ></ellipse>
+          <ellipse
+            class="orbital-line"
+            cx="74"
+            cy="52"
+            rx="28"
+            ry="47"
+          ></ellipse>
+          <ellipse
+            class="orbital-line thin"
+            cx="76"
+            cy="52"
+            rx="38"
+            ry="66"
+          ></ellipse>
+          <path class="orbital-line" d="M48,79 C63,53 78,44 100,34"></path>
+          <path class="orbital-line thin" d="M55,92 C72,75 88,70 100,66"></path>
+          <circle
+            cx="72"
+            cy="52"
+            r="0.35"
+            fill="#22d3ee"
+            opacity="0.8"
+          ></circle>
+          <circle
+            cx="85"
+            cy="37"
+            r="0.2"
+            fill="#22d3ee"
+            opacity="0.65"
+          ></circle>
+          <circle
+            cx="91"
+            cy="68"
+            r="0.25"
+            fill="#22d3ee"
+            opacity="0.75"
+          ></circle>
+        </svg>

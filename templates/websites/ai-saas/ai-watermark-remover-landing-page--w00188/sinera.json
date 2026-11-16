@@ -1,0 +1,70 @@
+{
+  "id": "SN-W00188",
+  "title": "AI Watermark Remover Landing Page ",
+  "summary": "A modern AI watermark remover landing page template for showcasing image cleanup, upscaling, and secure upload features to convert visitors into users.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Dark",
+    "Large Type",
+    "Minimal",
+    "AI",
+    "Image Editing"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3817,
+      "sha256": "8c3d9b71705e9f02baead9bd8f4f8f69f772f3ae90861aa9b3eb5805873a842d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15112,
+      "sha256": "20ae64a5c77b7504cda3cfe35088b21cec699f034b3f86eeb82387f4f416e68a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 811,
+      "sha256": "d2dbdc649852f51a57deecf05d357a0310c8de7a99600752cdeaabf515c3d461"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37474,
+      "sha256": "2153c18d3637f0c6ec63bc4f226b2fc6a4942cadbb9324885f45b46512f3291a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "features",
+    "cta",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

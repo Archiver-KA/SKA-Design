@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00480",
+  "title": "Contact Section with Form and Multi-Column Footer",
+  "summary": "Full-width contact section featuring a styled inquiry form, response-time info, brand details, social links, sitemap, resources, legal links, and a copyright bar with back-to-top action. Built with Tailwind-style utility classes for portfolio or agency sites.",
+  "tags": [
+    "section",
+    "form",
+    "footer",
+    "responsive",
+    "interactive",
+    "tailwind",
+    "contact"
+  ],
+  "kind": "components",
+  "category": "contact",
+  "categoryLabel": "Contact & maps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18366,
+      "sha256": "8011b7ddfe889889de859ca057d752f0ceba2490a659abee765974083c0d9b67"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9358,
+      "sha256": "f82207dc759b37518f895951c4700b01966685c9cb47ea9e8f24424090129982"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10228,
+      "sha256": "f6ac724323d1612d29cc97e4dcee9792c3ed162e7eef276ccdd70080a2dd3c21"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

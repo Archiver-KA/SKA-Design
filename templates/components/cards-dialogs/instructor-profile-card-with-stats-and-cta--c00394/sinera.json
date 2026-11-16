@@ -1,0 +1,41 @@
+{
+  "id": "SN-C00394",
+  "title": "Instructor Profile Card with Stats and CTA",
+  "summary": "A dark-themed instructor profile card featuring avatar, name, role, bio, course/project/rating stats, and a full-width enroll button. Styled with utility classes for modern, responsive layouts and suitable for course or education platforms.",
+  "tags": [
+    "card",
+    "feature",
+    "responsive",
+    "interactive",
+    "css"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11054,
+      "sha256": "c36d8c041cb13d8e29b916c5059a5b44233cdd89ba84618f36029d2d7a1020fd"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2227,
+      "sha256": "f8caad6b60b6d2328b6028878764103524c7561ee58d478d8d4d72eae01dba5a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3090,
+      "sha256": "9fd561aececda9dea91ed995e47c291cc75d93e8b239d744dba92633ed4e1928"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

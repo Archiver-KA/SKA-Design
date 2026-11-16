@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01945",
+  "title": "Responsive Full-Width Image with Object Cover",
+  "summary": "Displays an image that fully fills its parent container using Tailwind classes (w-full h-full object-cover). Ideal for hero banners, galleries, and backgrounds where the image must maintain aspect ratio while covering the area.",
+  "tags": [
+    "image",
+    "tailwind",
+    "responsive",
+    "object-cover",
+    "media"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 17258,
+      "sha256": "0bda23af6e2917a97a5de934c6b4c3f6061d69ed283ac0e30c7587e42e582dbb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 198,
+      "sha256": "6f8dd9d5b2ac6d983ea66ec383dc57f69659db46d73fc47c0869b2edcb58ab9e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1064,
+      "sha256": "ef3ef0d884ac978f2f93dfc89618ecf22723bb55de9e24174bbfb9704a9b7bde"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

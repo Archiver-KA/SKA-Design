@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02136",
+  "title": "Process Step Item with Icon (Tailwind)",
+  "summary": "Flex container displaying a circular icon and step text. Utilizes Tailwind CSS for styling; ideal for onboarding flows, timelines, roadmaps, or feature lists where numbered steps with icons are required.",
+  "tags": [
+    "step",
+    "icon",
+    "tailwind",
+    "process",
+    "list",
+    "flex",
+    "text",
+    "typography"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4558,
+      "sha256": "a1466660e36facfcfa6c37617ef53dc43ba2f59ed073f277f3a6e3e65a31675e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 945,
+      "sha256": "aad401bd12d48bf39f3a14acf5b96cd5543653f263847c7c7bc2edea59d587cc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1934,
+      "sha256": "a0dc939a1b38afbad184cc38803d98b6e2f9255c17f446d5c2b1963b8c5b3e00"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,11 @@
+<svg viewBox="0 0 900 300" class="absolute inset-0 w-full h-full opacity-50 blur-[2px]" fill="none" stroke-width="2">
+               <path d="M450 250 C 450 180, 250 120, 190 40" stroke="#dc2626" stroke-width="2" stroke-linecap="round" fill="none" stroke-dasharray="400" stroke-dashoffset="400">
+                <animate attributeName="stroke-dashoffset" values="400;0;400" dur="3s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1; 0.42 0 0.58 1"></animate>
+              </path>
+              <path d="M450 250 C 450 180, 450 120, 450 40" stroke="#dc2626" stroke-width="2" stroke-linecap="round" fill="none" stroke-dasharray="400" stroke-dashoffset="400">
+                <animate attributeName="stroke-dashoffset" values="400;0;400" dur="3s" begin="0.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1; 0.42 0 0.58 1"></animate>
+              </path>
+              <path d="M450 250 C 450 180, 650 120, 710 40" stroke="#dc2626" stroke-width="2" stroke-linecap="round" fill="none" stroke-dasharray="400" stroke-dashoffset="400">
+                <animate attributeName="stroke-dashoffset" values="400;0;400" dur="3s" begin="0.4s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1; 0.42 0 0.58 1"></animate>
+              </path>
+            </svg>

@@ -1,0 +1,64 @@
+{
+  "id": "SN-W01906",
+  "title": "Creative Portfolio Website Template",
+  "summary": "A sleek, animated portfolio website template for digital artists and creative directors to showcase selected work, studio services, and contact details.",
+  "tags": [
+    "Portfolio",
+    "Art & Design",
+    "Graphic Design",
+    "Brand",
+    "Landing Page",
+    "Clean",
+    "Dark",
+    "Large Type",
+    "Animated",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3342,
+      "sha256": "666b04aab90366dc2e6d9f2e80de82120619271263c3504283ce38c74536b84b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9334,
+      "sha256": "8408b1366ab4e272963aef78a261299be901d6e440e4bfa5224e14c330035f80"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "fc6963bab8f1025736c674145aa944f53326ca557fe963aa0b6fca2b1ce2b2a2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26865,
+      "sha256": "41bb55bffbc647055007ab978bf714a3055cf0fcba6cafae61cf4c0964dbcb16"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

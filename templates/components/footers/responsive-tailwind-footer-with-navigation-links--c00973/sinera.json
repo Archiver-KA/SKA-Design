@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00973",
+  "title": "Responsive Tailwind Footer with Navigation Links",
+  "summary": "Website footer featuring logo, description, product & company link lists, copyright notice, terms/privacy links and a back-to-top button. Fully responsive and styled with Tailwind CSS, ideal for SaaS or corporate sites.",
+  "tags": [
+    "footer",
+    "tailwind",
+    "responsive",
+    "navigation",
+    "branding",
+    "links",
+    "ui component"
+  ],
+  "kind": "components",
+  "category": "footers",
+  "categoryLabel": "Footers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6318,
+      "sha256": "3952cc3f2a4e2c101cdf2c534e380c45673c92a55ca08ecb5cd146851d94d057"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3602,
+      "sha256": "e836761953750bbd582e1a8ae4fbbc20e651e0679058b0ad2c48b3f4a55ecc20"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4471,
+      "sha256": "789800e46f989d7fe05962165295cbd0a61f521919a6a16eca8a85b2955ead95"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

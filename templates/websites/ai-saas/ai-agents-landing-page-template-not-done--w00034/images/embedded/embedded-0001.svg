@@ -1,0 +1,17 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none z-0">
+                  <!-- Curve to SDR Agent -->
+                  <path d="M 280 250 C 350 250, 350 150, 420 150" fill="none" stroke="#333" stroke-width="2"></path>
+                  <!-- Curve to Co-Pilot -->
+                  <path d="M 280 250 C 350 250, 350 350, 420 350" fill="none" stroke="#333" stroke-width="2"></path>
+                  
+                  <!-- Connectors/Nodes -->
+                  <circle cx="280" cy="250" r="4" fill="#0284c7"></circle>
+                  <circle cx="420" cy="150" r="4" fill="#333"></circle>
+                  <circle cx="420" cy="350" r="4" fill="#333"></circle>
+                  
+                  <!-- Output stubs -->
+                  <path d="M 676 150 L 700 150" fill="none" stroke="#333" stroke-width="2"></path>
+                  <circle cx="676" cy="150" r="4" fill="#333"></circle>
+                  <path d="M 676 350 L 700 350" fill="none" stroke="#333" stroke-width="2"></path>
+                  <circle cx="676" cy="350" r="4" fill="#333"></circle>
+                </svg>

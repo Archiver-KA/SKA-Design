@@ -1,0 +1,65 @@
+{
+  "id": "SN-W03299",
+  "title": "Luxury Real Estate Landing Page Template",
+  "summary": "A reusable real estate template for agencies and property managers to showcase listings, local expertise, and lead capture for buyers, renters, and sellers.",
+  "tags": [
+    "Real Estate",
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Luxury",
+    "Property Management"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3455,
+      "sha256": "ac4f9558dbf2305ca596db57bce9269e87f42f873140b0582090c031d4a5ba28"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2096,
+      "sha256": "cd95a6f86904b4f3b3fd330cf615267be6b9e4ac94d7115cca12e60a7b2f6617"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "c23397536217b996a6e6b99edc9c428dbb3199e50a19ae6dbdb7869781183f97"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33570,
+      "sha256": "660e081d0301da338df16dad4b25c62735ff61d47022903976449784b24f2d20"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "services",
+    "cta",
+    "product-grid",
+    "marquee",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

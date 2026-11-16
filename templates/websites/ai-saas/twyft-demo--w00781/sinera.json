@@ -1,0 +1,74 @@
+{
+  "id": "SN-W00781",
+  "title": "Twyft Demo",
+  "summary": "A dark, retro-futuristic landing page template for AI-powered webinars and virtual events, ideal for showcasing features, pricing, and customer proof.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Large Type",
+    "Webinar",
+    "AI events",
+    "SaaS"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3766,
+      "sha256": "9a95253eeaeefa16b1e10bb138849619a708e39da7e65557257dbdd904ce599c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14876,
+      "sha256": "6322ebcc6089b699c6dcbb4a9ac2c71f993fbd28773ffbae80ef38cdcf28f738"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 844,
+      "sha256": "58f76fdc268907935fa4ed4f671e61865bdc0cf6f93749fc94ebd9b7ba5dafbe"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 269,
+      "sha256": "f35dd45bf3279530ce1de9f1b5699ffa3d934fc19c57db099eebd850aed33269"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37708,
+      "sha256": "53fa9248f4e9a79703004afdc4c8fa98fc6146b8b4c93ce7de4167f079a798b1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "logo-cloud",
+    "navbar",
+    "hero",
+    "features",
+    "gallery-portfolio",
+    "pricing",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

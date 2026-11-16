@@ -1,0 +1,41 @@
+{
+  "id": "SN-C00599",
+  "title": "UnicornStudio Background Bokeh-Gradient Shape Stack",
+  "summary": "Full-screen UnicornStudio background container that lazy-loads and initializes a UnicornStudio project with controlled DPI and FPS. Ideal for adding animated visual effects behind page content using Tailwind utility classes.",
+  "tags": [
+    "background",
+    "animated",
+    "visual",
+    "unicornstudio",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2306,
+      "sha256": "05a49e678156e1fc24368e4daa7ec516415e56fe7676244e02a4acc25d382ef0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1305,
+      "sha256": "c12afd6eae4eeefc68b28d42948bc1190dd0191b6d734e4839ee969d5761e356"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2177,
+      "sha256": "d7970f6ff55eaae8461519369fef6932130e47c9cc9cac71c4b150a0f8a2f5b9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

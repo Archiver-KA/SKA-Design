@@ -1,0 +1,62 @@
+{
+  "id": "SN-W03586",
+  "title": "Design Symposium Landing Page Template",
+  "summary": "A bold, Swiss-inspired landing page template for design symposiums, conferences, and creative events, ready to customize for your own gathering.",
+  "tags": [
+    "Landing Page",
+    "Conference",
+    "Art & Design",
+    "Graphic Design",
+    "Brutal",
+    "Clean",
+    "Large Type",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3124,
+      "sha256": "514ad279b65788813047a8e9fb87cfc2a71a56fa423297d03e0d8c4f719ee265"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14698,
+      "sha256": "9f6dbfcc5ee3d30d87c63f147360620c6f5368aa886cdd3793d44532bb00e4d9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "7c7b4c4772c575cdc25e0bd07713b21f96c9137d2938547eeb010874f4878a2b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15405,
+      "sha256": "60a749e7cd236e98ac9523a5ec0479b5fb6347b30af2efa512a9f422f8fddf3d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "map-location",
+    "team",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

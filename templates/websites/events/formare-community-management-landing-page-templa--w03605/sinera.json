@@ -1,0 +1,63 @@
+{
+  "id": "SN-W03605",
+  "title": "Formare Community Management Landing Page Template",
+  "summary": "A comprehensive SaaS landing page template designed for community formation, training tracking, and organizational management for parishes and dioceses.",
+  "tags": [
+    "Technology",
+    "Community",
+    "Social",
+    "Membership",
+    "Education",
+    "Clean",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3481,
+      "sha256": "72c554dda58793a68fcfc42e6b55838d5816eb569c15abe4e89addf8a8499469"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15556,
+      "sha256": "ba3bf2b457b78ee1f9b43a8fb7f4b2d511c3fda9b34834150d8f42ad5bd7595d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "31260adad30e0f20477550d5e3e4981b0033a0bbcf22ce4417c33bc3c353f83a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34253,
+      "sha256": "511681b028df7e343d46d856ae10b91aff35ca2e501528550c4d33cb01112078"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "how-it-works",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

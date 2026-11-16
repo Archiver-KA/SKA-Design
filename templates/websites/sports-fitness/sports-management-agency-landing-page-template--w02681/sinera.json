@@ -1,0 +1,75 @@
+{
+  "id": "SN-W02681",
+  "title": "Sports Management Agency Landing Page Template",
+  "summary": "A modern dark sports management agency landing page template for showcasing athlete rosters, services, achievements, and contact inquiries.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Dark",
+    "Large Type",
+    "Minimal",
+    "Gradient",
+    "Technology",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3655,
+      "sha256": "f01ac35baceafd4af60bb0761e536cee42333f739bb05305191635091523552f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12970,
+      "sha256": "6fe84b31a65bdd208d659682c78038de7152c54b56bdba813e65c78b694022dc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 885,
+      "sha256": "ed54e8e8bca3be7d6d66b634329760246afdb4c8c0c845ae9402cb3ca3af1bed"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 385,
+      "sha256": "8b79f9b955d8e550cc87fc9b4c862db34bdff2174b215e9d44f293d3daba7887"
+    },
+    {
+      "path": "index.html",
+      "bytes": 45412,
+      "sha256": "2baf0000f5102ac43b21157b56bb80f2d7e43b67101570b3f3f176cd1ba9f522"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "gallery-portfolio",
+    "services",
+    "timeline",
+    "team",
+    "logo-cloud",
+    "contact-form",
+    "footer",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

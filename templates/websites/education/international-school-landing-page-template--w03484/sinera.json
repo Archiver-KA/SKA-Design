@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03484",
+  "title": "International School Landing Page Template",
+  "summary": "A polished school website template for showcasing academics, admissions, campus life, and notices with premium visuals and strong enrollment CTAs.",
+  "tags": [
+    "Education",
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Animated",
+    "school",
+    "admissions"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3646,
+      "sha256": "2d28c080e55a2f6a80fa441531fb96cb21ace0555c67f79f162615bcb386c0c4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4710,
+      "sha256": "d860ab8b4abd352d324a923d7ed933bf875828aa6be623ad0dc6aeaa73972496"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "5ae635aa4ba4e017f919ae12c63597f3bda3e32fea5a913c30a227b35ba53742"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36566,
+      "sha256": "724d675f5a8d118f5253e4efda744da14b90c1e110226591d5870530ef4f5ec9"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "timeline",
+    "announcement-bar",
+    "gallery-portfolio",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

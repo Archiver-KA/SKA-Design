@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02256",
+  "title": "Crypto Candlestick Chart Card",
+  "summary": "Dark themed BTC/USD candlestick chart card with animated candles, price stats, time range filters, tooltip, and axis labels. Built with Tailwind-style utility classes, ideal for trading dashboards, analytics, or finance UI previews.",
+  "tags": [
+    "card",
+    "chart",
+    "crypto",
+    "finance",
+    "dashboard",
+    "animated",
+    "interactive",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12100,
+      "sha256": "f46e4603c3d2a4059cacb8e4afbf40d4a1a3f76c19ad1370a1bfc789025ce845"
+    },
+    {
+      "path": "component.html",
+      "bytes": 15453,
+      "sha256": "7cf7fe7a64ecec74c09a853ea627695dd335b8636a313d248ebad47fc7a1c3c3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16303,
+      "sha256": "5c76600bc15a90aff7d4666a897f10193ea65b1f2519086da3346562f8391a11"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

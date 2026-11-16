@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01924",
+  "title": "Linked Image Component",
+  "summary": "A simple clickable image link component that displays a coffee beans image with a text description. Perfect for image galleries, portfolios, or linking to external image hosting.",
+  "tags": [
+    "card",
+    "image",
+    "link",
+    "hover",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 50738,
+      "sha256": "2c5f2120ff66c3429094b393d62fbb3a0e3467a3ffe6e8fb3ccd23e35b459a0e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 439,
+      "sha256": "9ef6bc550e2cf7ecad2fa34977d341ddd9baa985258c68cd5f17f18c65b40454"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1282,
+      "sha256": "2ef7e29cb895fd5efde015afc637f6fc32f3050fcb2b9d507114fa849e5a054d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

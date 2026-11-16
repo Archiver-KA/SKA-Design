@@ -1,0 +1,57 @@
+{
+  "id": "SN-W00740",
+  "title": "Step-by-Step Prototype Workflow",
+  "summary": "Interactive UI outlining a three-step process to create prototypes from ideas using AI guidance.",
+  "tags": [
+    "How It Works",
+    "Steps",
+    "Prototype",
+    "AI",
+    "Tailwind CSS",
+    "Responsive"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3446,
+      "sha256": "a503bb0a9a28a9870083e1922431eefdf72063952210180283cedcf5304cc36f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16860,
+      "sha256": "ad7a25762074ab1d1eeccb3da218780dc982f9dbab5e3bc20a6c380bb8bd6478"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "5d0a52514abf8153c00f4d8ff69ee47bffa7fea2245477a73a99dcb5786fb87c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3538,
+      "sha256": "a7a4ba60658556d6b8f5553a728a264235ed3f483b2a4dc1e4f541d93c8951bc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "testimonials"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

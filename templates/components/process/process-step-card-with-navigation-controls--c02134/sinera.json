@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02134",
+  "title": "Process Step Card with Navigation Controls",
+  "summary": "Animated Tailwind card showcasing a single step in a multi-stage process. Includes header, stats, prev/next buttons, and progress indicator—ideal for tutorials, product journeys, or feature walkthroughs.",
+  "tags": [
+    "card",
+    "process",
+    "step",
+    "navigation",
+    "tailwind",
+    "animated",
+    "responsive",
+    "carousel",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11722,
+      "sha256": "85c723f02cb05a7c86146b446f00db7f564d1583e1fbdb5bb9911bf582d7d544"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3510,
+      "sha256": "98ffe344db7bdf02ea9d35858ec72f11eb554fce7f048109ae285a276df754cc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4373,
+      "sha256": "69cd7ca9e233674e32be084b79238048442f5fafdeb3651df9ed5e23e4817a49"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

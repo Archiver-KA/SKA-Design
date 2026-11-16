@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02156",
+  "title": "Animated Headphone Collection Product Grid",
+  "summary": "A storefront product section showcasing premium headphones in a 3-card grid with animated scroll-in effects, brand logos, category tabs, pricing, and a call-to-action button. Styled with Tailwind-style utility classes and custom fonts for modern ecommerce layouts.",
+  "tags": [
+    "feature",
+    "section",
+    "ecommerce",
+    "product-grid",
+    "animated",
+    "responsive",
+    "tailwind",
+    "scroll-animation"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18554,
+      "sha256": "1c4cf33fd22dcb438a8f5125d3960ffc96fe1a2a6ab499472689411af331911a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9161,
+      "sha256": "394477da134c66d3d7f396540ccaa3674df6b39fb08cc4b8ccf82b4eaeaa32dd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10024,
+      "sha256": "ba4012280dd74388cec57d0792dad8a61e0d38d8c89e4f568c650d0248939138"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

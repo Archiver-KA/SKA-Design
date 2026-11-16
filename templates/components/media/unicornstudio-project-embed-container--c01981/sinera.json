@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01981",
+  "title": "UnicornStudio Project Embed Container",
+  "summary": "Embeds a UnicornStudio project by ID, loading the unicornStudio script asynchronously to render interactive or animated content within a fixed-size div. Ideal for adding branded animations or mini-apps to landing pages and marketing sites.",
+  "tags": [
+    "embed",
+    "widget",
+    "unicornstudio",
+    "interactive",
+    "animation",
+    "script-loader",
+    "html",
+    "background"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3688,
+      "sha256": "7c337885be201969e5b970758ce3b8605b54f3369c1fb217d0dd858b4ac03879"
+    },
+    {
+      "path": "component.html",
+      "bytes": 535,
+      "sha256": "1146ac1f12044d336d6715bf0e1051902630948f086df18366bb71c469ea4e2c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1393,
+      "sha256": "28815e7f36ad1df0037b5baf30d42e1124e5714519ead9f847982ff937bb3c6c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

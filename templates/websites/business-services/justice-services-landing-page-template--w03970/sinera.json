@@ -1,0 +1,71 @@
+{
+  "id": "SN-W03970",
+  "title": "Justice Services Landing Page Template",
+  "summary": "A dark, authoritative landing page template for justice-focused, Aboriginal-led service organizations to showcase programs, methodology, and partnerships.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Non-profit",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3594,
+      "sha256": "db4fb9c89d17a85f5d5025572c4b34c1ce24e92eb09bda903968aa83d33e434e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3384,
+      "sha256": "567b1a891de5218cb37759f9f70854c8e74905462b46dcf4c07753f3d5f3600e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 961,
+      "sha256": "62383db1f2c64ab52470e2b90101b2b49e1490b42ed9c13917e13f76db712b2d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 501,
+      "sha256": "54b775b9bd30a82161b0ed176b54bbb422b3e6231409456886aafeca4e6a0f10"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32542,
+      "sha256": "3e9ada516e7013d3a4f58d7cd76567b2987d7fe5500ba9d169cc2c69c3104e56"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "features",
+    "services",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

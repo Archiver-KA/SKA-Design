@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00728",
+  "title": "Dark Feature Grid Section",
+  "summary": "A full-width feature section with a centered heading and six interactive capability cards in a responsive grid. Built with Tailwind CSS, it uses dark styling, icons, hover effects, and reveal animations for product, SaaS, or tech landing pages.",
+  "tags": [
+    "feature",
+    "section",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "dark",
+    "grid",
+    "icons"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20268,
+      "sha256": "06f4eafcf0ca0e0a4c73e903dfc6be8e4006a188adac83a51c5d8a8a123f223e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10275,
+      "sha256": "df4f45ecc11027294cca62da886bcfd5149b766904c09c2d27dfd8bebedaa4b3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11211,
+      "sha256": "9458569c5cabbee934aee23746c6aa2949f84e102d27125bce46fadbb7ffed74"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

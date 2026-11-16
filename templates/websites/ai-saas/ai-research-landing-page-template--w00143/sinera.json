@@ -1,0 +1,72 @@
+{
+  "id": "SN-W00143",
+  "title": "AI Research Landing Page Template",
+  "summary": "A reusable landing page template for showcasing AI adoption reports, survey insights, and startup research with bold visuals and animated data storytelling.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Dark",
+    "Animated",
+    "Futuristic",
+    "Gradient",
+    "Grid",
+    "Brand",
+    "research",
+    "data visualization"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3122,
+      "sha256": "3cceb9888d47f9d75014d1e639efb804aff49f83e3362bafa31e4daf7ea83388"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9354,
+      "sha256": "7c57f432cc9e54f301abc653ae447d5a89a3c08d261a03e97a9bd10c87542b07"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 950,
+      "sha256": "86a3619add199b7858f6e85cf5e760017f7c2b5bad4175457467aded56701be7"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "4c4dfe064469967eadcd16009f2a3d9bab3f67dc7c8b749677b940125743c017"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24585,
+      "sha256": "fe0f8c19e9f6e0581b015000fe34a3221f68bc8a44812a839ac977f66aa69b1f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "footer",
+    "integrations"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

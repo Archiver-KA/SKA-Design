@@ -1,0 +1,68 @@
+{
+  "id": "SN-W00430",
+  "title": "GrowthsterAI SaaS Landing Page Template",
+  "summary": "A dark, futuristic SaaS landing page template for AI marketing platforms to showcase features, social proof, and early-access CTAs with a conversion-focused layout.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "SaaS",
+    "AI marketing",
+    "Waitlist"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3751,
+      "sha256": "86d1d4a74aa928675076309855fb7739b8d1ccb05eae198c860f224b1fb034be"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18716,
+      "sha256": "9e13039331bbed17f77bb5de4860fc91af3e548d7e38d63a485f37c20703cd63"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "72b9611e83baa924f715a3ec564efc7ce71a866a6db8a3d070437ca6b80bc51c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31715,
+      "sha256": "476b0623e9c877db56d64e8bda2169fbdb579cd82d05487d7794906e27f3e32d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "how-it-works",
+    "bento-grid",
+    "testimonials",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

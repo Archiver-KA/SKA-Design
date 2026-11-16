@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01103",
+  "title": "Dual Theme Flight Operations Sidebar",
+  "summary": "A responsive Tailwind CSS sidebar for aviation dashboards featuring workspace switcher, nav links, active flight lists, quick actions, status badges, and synchronized light & dark themes.",
+  "tags": [
+    "sidebar",
+    "navigation",
+    "dashboard",
+    "tailwind",
+    "light-dark",
+    "responsive",
+    "aviation",
+    "menu",
+    "admin"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19680,
+      "sha256": "7696bf362c0257e5ecfdb4295561d17e0c8874a673587f2200acf9a1b9d20f0c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 44616,
+      "sha256": "9e7596b541df67181762dd67267abf74c5137655e3e0fed5c6943a867ce33dba"
+    },
+    {
+      "path": "index.html",
+      "bytes": 45473,
+      "sha256": "307161cd8f4f6e862de94e464a0a2d9216c36455a811ac3823bd677f51c3381d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

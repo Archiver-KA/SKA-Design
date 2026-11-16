@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02351",
+  "title": "System Metrics Dashboard Section",
+  "summary": "Dark Tailwind CSS analytics section showcasing operational metrics, KPI cards, live telemetry charts, and an infrastructure health map. Ideal for SaaS, DevOps, AI platform, or monitoring dashboards.",
+  "tags": [
+    "ui",
+    "tailwind",
+    "dashboard",
+    "analytics",
+    "metrics",
+    "dark",
+    "responsive",
+    "monitoring"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 29192,
+      "sha256": "f40c4ccc23948294d886df8c5de0bf0732d62ba1929b2a9a7c4c39436d3ef4cb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 15568,
+      "sha256": "6e75b73df83a89fdc720b0fbcbf83162b6c3bc5bb638fb2353436535a8c19e2d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16421,
+      "sha256": "55a0dc12c103c5be383525a1d83854c3a1e3f2d63b33be555bffaf0a77a40072"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

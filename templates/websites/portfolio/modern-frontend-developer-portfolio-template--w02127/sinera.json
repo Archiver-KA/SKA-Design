@@ -1,0 +1,63 @@
+{
+  "id": "SN-W02127",
+  "title": "Modern Frontend Developer Portfolio Template",
+  "summary": "A clean, minimalist personal portfolio template designed for developers and designers to showcase technical skills and creative projects.",
+  "tags": [
+    "Portfolio",
+    "Technology",
+    "Minimal",
+    "Clean",
+    "Art & Design",
+    "Resume",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3582,
+      "sha256": "22fc25022f9b9127478593c2562e1e341aec697bbe3f37d0c967c97e7ec0eb91"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17826,
+      "sha256": "9ac3409287ba7e5e2b412fdc102773f3226f4fef2561f1b3bd25e10c4624fb9c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 732,
+      "sha256": "f38da70129507fcce89a2d78585e0b651d08de51576cd23e41e8ec25396dcf30"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13640,
+      "sha256": "9e873d1e02fdb762b846a727d3397c5cb4089ea86b1b9e8db06650c48399bcdd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "case-studies",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

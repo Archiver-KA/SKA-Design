@@ -1,0 +1,78 @@
+{
+  "id": "SN-W01878",
+  "title": "Creative Agency Portfolio Landing Page Template",
+  "summary": "A dark, cinematic landing page template for creative and digital agencies to showcase services, portfolio, process, and pricing with bold, brand-forward design.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Services",
+    "Brand",
+    "Art & Design",
+    "Graphic Design",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4020,
+      "sha256": "0a7293495f33acf162d91bef4455d14a5165b4b1402ac6cccaff97044b33fe2d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20670,
+      "sha256": "f61a17ada5f133ecc17441f7cde4772b1e227a9d25ffb77fbc0d0937562b820d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 958,
+      "sha256": "97536cfaf68fb68a628149b3c37f329ed54a37b1fa63a9fdcf1f1a68eb054652"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 269,
+      "sha256": "56966ece18ea30859083b5d1c03364fa273ddd0586c70c9d7e30e8484491d2b3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 44058,
+      "sha256": "bb28d80c0ee390e1a726cd039042c6b716501d6f680cab8a9571b4668c480049"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "about",
+    "case-studies",
+    "services",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

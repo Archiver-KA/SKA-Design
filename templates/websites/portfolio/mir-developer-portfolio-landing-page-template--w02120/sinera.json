@@ -1,0 +1,68 @@
+{
+  "id": "SN-W02120",
+  "title": "Mir Developer Portfolio Landing Page Template",
+  "summary": "A dark, futuristic developer portfolio landing page template for showcasing your skills, tech stack, and projects with an integrated contact form.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Technology",
+    "Art & Design",
+    "Dark",
+    "Minimal",
+    "Futuristic",
+    "Large Type",
+    "Developer portfolio",
+    "Personal site"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3780,
+      "sha256": "6f933b66ffe3793dccc4dd08a4dc4f7c9fc093039098641dbd11f821d83cc38a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9386,
+      "sha256": "c415a13d89fe5c0c79cd6982541795a1a3c43570655918bea2e1fab73540082b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "a0889eaf2a4fc9a4f88fbcfdb8f3f3e48f0ed3daeb21c81398637ed4618229e4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32387,
+      "sha256": "e28aa4337bb9b682aef5887b2d4641966cbc34c9acdfddeaf3b92c973eba4f97"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "blog-articles",
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "case-studies",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

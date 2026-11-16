@@ -1,0 +1,96 @@
+{
+  "id": "SN-W04219",
+  "title": "Interactive Keyboard Shortcut Cards",
+  "summary": "Displays animated feature cards showcasing interactive keyboard shortcut layouts with hover effects and gradient visuals.",
+  "tags": [
+    "Feature Cards",
+    "Keyboard UI",
+    "Animation",
+    "Tailwind CSS",
+    "Interactive",
+    "Gradient Background",
+    "Hover Effects"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3255,
+      "sha256": "63ffc08b098a7ffa2ddb1cfe40039650b4c6a06710394ce599646db3afa2cc20"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13930,
+      "sha256": "90ec31895e90b240bfd4e25b79e777e8687aa2bac62b0b247ed4f06181c10fc7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2133,
+      "sha256": "e65e59b7d7bf6ed62cb7c4b317b2586ee929768187b24941df774b21cd2fa5bf"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 349,
+      "sha256": "9641def3634f752c1dd673eb735e70efb867e9bcee15b6981275fd324d042d70"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 454,
+      "sha256": "50adb4cec8f3dce04f5fc0b4f433d84f7f604b8514262bf1ee750f7af7b41648"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 362,
+      "sha256": "9fc311f82c2d1f5cd4f72648b970470577bd5a02bf97f74c323ac89e5526431e"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 514,
+      "sha256": "7485393287831b362b8847fb778e68ca1e65099c6c6a7619cba5dd72f0f91684"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 693,
+      "sha256": "7de3801ee65a664ed93db4b5a039b33f7dbfc6abf76539ae105800036fa1b3fc"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 594,
+      "sha256": "ba78f378427dfc8c16955019c8dbf2ef2c65746e682828b14cdba68557862564"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 401,
+      "sha256": "24104f9c65d8529a2fad785f835c1ff99a8a90c8d199a6e7b00b3739816d750e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38814,
+      "sha256": "5f4967b57be27fefee61caf86bf55d33483a63b81c4a0b3d23dd0bd1a692fe5d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "stats"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

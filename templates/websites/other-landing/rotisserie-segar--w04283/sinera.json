@@ -1,0 +1,68 @@
+{
+  "id": "SN-W04283",
+  "title": "rotisserie Segar ",
+  "summary": "Poulet rôti à la broche juteux et croustillant, préparé artisanalement avec des ingrédients fermiers de qualité.",
+  "tags": [
+    "rôtisserie artisanale",
+    "poulet rôti à la broche",
+    "rôtisserie haut de gamme",
+    "poulet fermier",
+    "traiteur rôtisserie",
+    "sandwich poulet rôti",
+    "plats à emporter",
+    "cuisine traditionnelle revisitée"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3446,
+      "sha256": "61cfe1afdfb19094ac1b70d557c3b15a871c3f2719c14f92b7d40db5f88fd1b9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14628,
+      "sha256": "7878f5e833ecf6865a6dda1bef9486f987da14126ab172f2911e903207da5862"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 794,
+      "sha256": "a76afb02afc75aceadedf0c482478545a0d3adfccd36c98b6c44f0123f5a9e7a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30152,
+      "sha256": "e2cf37491d500e00c13ebf3df8587d724675246a9d14a0dcb64cbf6626048388"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "menu-list",
+    "product-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

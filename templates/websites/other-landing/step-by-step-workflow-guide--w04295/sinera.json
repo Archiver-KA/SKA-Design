@@ -1,0 +1,57 @@
+{
+  "id": "SN-W04295",
+  "title": "Step-by-Step Workflow Guide",
+  "summary": "Displays a four-step process outlining account setup, configuration, execution, and review in a workflow UI.",
+  "tags": [
+    "Steps",
+    "Workflow",
+    "Guide",
+    "TailwindCSS",
+    "Dark Mode",
+    "Responsive"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2726,
+      "sha256": "253c96d2479ef5970324dc6811a7d3ca90c611abaa3ddf12899f786c5ae98c24"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18362,
+      "sha256": "4e8ac58121ed2c52eb308383d58bf53f7f560487bedd887efd5f327c3183532b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 720,
+      "sha256": "07b926006aa7c27b5376ad16e07d14d0ffeeb6bf16dd9e869f5ec6f85bfb78c3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3782,
+      "sha256": "3398982f8c38fe59db139729cdce50233ef3e9c45092a6069086358a244b847d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "how-it-works"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

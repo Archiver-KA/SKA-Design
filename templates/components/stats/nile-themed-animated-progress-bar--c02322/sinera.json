@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02322",
+  "title": "Nile Themed Animated Progress Bar",
+  "summary": "Stylized progress bar with a dark blue track, animated water-like gradient fill from light blue to gold, and a lotus indicator that opens wider as progress approaches 100%. Ideal for thematic dashboards, achievement tracking, or onboarding flows.",
+  "tags": [
+    "card",
+    "progress",
+    "animated",
+    "interactive",
+    "themed",
+    "css"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9116,
+      "sha256": "097969f837c464672eb7a979e46bc4ae73c0141225ad373d69fc28245264c632"
+    },
+    {
+      "path": "component.html",
+      "bytes": 230,
+      "sha256": "ad10bf0e98488462bded76b59d81d2abba0fe0d2cd06997a1c66fb7a4bcececf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1089,
+      "sha256": "04299f1f385444ccaf4a0476100577108d84df771573263ab43e670fc30a952a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "SN-C02275",
+  "title": "Futuristic Analytics Dashboard UI",
+  "summary": "A cyberpunk-style analytics dashboard interface with revenue charts, campaign panels, partner lists, and conversion metrics. Built with Tailwind CSS, GSAP, and Three.js for animated cards, scroll reveals, and an interactive WebGL background.",
+  "tags": [
+    "ui",
+    "dashboard",
+    "analytics",
+    "tailwind",
+    "gsap",
+    "threejs",
+    "animated",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 17268,
+      "sha256": "c38eaa493daa8cf2caed1a625eb92904acb46d7f114ccea31a12ec5795d0ef0c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37477,
+      "sha256": "5c8818577794a0cff514f6d324acd451c58771e590b554f6bec957bd9ab5f159"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

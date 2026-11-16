@@ -1,0 +1,40 @@
+{
+  "id": "SN-C02254",
+  "title": "Cloudflare Analytics Script",
+  "summary": "Cloudflare Insights beacon script for web analytics tracking. This is a third-party monitoring tool that collects performance and usage data.",
+  "tags": [
+    "header",
+    "analytics",
+    "script",
+    "tracking"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4736,
+      "sha256": "6796cac90999f15fc81f10f7add10a893f55dbf6eafcd68a7937e153999af8b1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 54,
+      "sha256": "f7bb1d502695fa867e8ac29e0185c81166c4b04d5e6117f124cf35b2e06f42fd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 902,
+      "sha256": "ecd4f95dd4cbf96c2976469d9127cb8f3b8546287d8f6d2fbbda30d5bee074d7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

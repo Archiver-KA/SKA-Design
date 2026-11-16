@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02071",
+  "title": "Lachowski",
+  "summary": "A reusable landing page template for interior finishing and renovation companies to showcase services, projects, trust signals, and free quote CTAs.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Portfolio",
+    "Local Business",
+    "Renovation"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3635,
+      "sha256": "8f51378d1da4919979449182dce8a0d934fcb0bab30bb320100475ea41ca4be8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14162,
+      "sha256": "93c8fb9807c055c33318e20c6c94113279d89345ff3f1e758f90ccd57bc28d7f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 697,
+      "sha256": "77da46d2443bc0b71aed5f2da18c202d9c4df709b2b5c5746ef95f0a4b7ce12d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 49583,
+      "sha256": "e4b620030318a5a33deb2a58dc29e11165763c221a32625ef082307cb8d59ea5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "gallery-portfolio",
+    "map-location",
+    "faq",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

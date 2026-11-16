@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02583",
+  "title": "CrossFit Gym Landing Page Template",
+  "summary": "A bold fitness club template for CrossFit gyms and training studios to showcase programs, memberships, facilities, and drive trial signups.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Brand",
+    "fitness",
+    "CrossFit",
+    "gym"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3131,
+      "sha256": "f4ae2054e5439e1edd4d4674f91ce3cb13a2d403f042b6bd9c6a4359f0057120"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 24100,
+      "sha256": "7911d34ef6ca5c55c7a866fa44d0f33fba277143a754355d45fe1c7fc1aec055"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "ca29920886992eb4d0c237eb4ada8bca687575ef91f9d5cd471638306974aa40"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20368,
+      "sha256": "ace8f1e7479015cab67e5a103aa5f1dfe7a277ce5360472e14090225e9074718"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

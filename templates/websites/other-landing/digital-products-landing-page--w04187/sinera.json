@@ -1,0 +1,69 @@
+{
+  "id": "SN-W04187",
+  "title": "Digital Products Landing Page",
+  "summary": "Responsive landing page with animated floating shapes, gradient text, and navigation built using Tailwind CSS.",
+  "tags": [
+    "Landing Page",
+    "Tailwind CSS",
+    "Animation",
+    "Gradient Text",
+    "Responsive Navigation",
+    "Floating Shapes"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3182,
+      "sha256": "ca4a343564712b6521abe4038679b98e22b08883264c65ace5eb8b8396e16f2e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8730,
+      "sha256": "61666401ee6f0dd8de0282382dbf2a83310e180cf7d1e89679a39c3c12c0fb89"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1062,
+      "sha256": "671b9e4474ee1dfd5532213571da80499b52af1f4068cbe9de45197d3265ac79"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 271,
+      "sha256": "b7361de0bbf97cb2c61fd6b3f07044c868def2fd2eb795d4af08555dd75a774c"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 185,
+      "sha256": "f5bbe611c9ba82fc8394be78b04b4f14ffb1c7a01d2347f5baca9641100a2337"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8326,
+      "sha256": "3b38a308e3c371c72e0993240bc022bac73dbcd458d7070bdce53c45d41a81e4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

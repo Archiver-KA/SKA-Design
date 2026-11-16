@@ -1,0 +1,79 @@
+{
+  "id": "SN-W02224",
+  "title": "SEO Expert Portfolio Landing Page Template",
+  "summary": "A dark, futuristic portfolio landing page template for SEO experts and digital strategists to showcase services, case studies, and testimonials.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Portfolio",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3701,
+      "sha256": "d46b7149fbf9d47d17bb9a3abfa964211d01cc186e6b694ac5b60067887bf192"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18160,
+      "sha256": "77043442bb429f97b29530673d592eaa50ad741815fafc814b924082d704bd8d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1071,
+      "sha256": "fccc3c32c2a987b8fb2e5da79852076d2bb68395665686e5592937edbdb3ab0b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 345,
+      "sha256": "eea3834b04cbd180ea874fa6058c456f20671b326f8896f505f430d0a1ddf186"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 333,
+      "sha256": "60f1938e44e1f9a7c904d76b6a99ecc60be26b9584009369f885ff41c0184743"
+    },
+    {
+      "path": "index.html",
+      "bytes": 44048,
+      "sha256": "a08341e95c9f77316e9ac6ccf9d132ef60e3cea7db9d93547e062f120d46badf"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "navbar",
+    "marquee",
+    "about",
+    "services",
+    "gallery-portfolio",
+    "testimonials",
+    "team",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

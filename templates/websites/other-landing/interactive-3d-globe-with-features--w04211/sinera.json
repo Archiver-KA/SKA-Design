@@ -1,0 +1,74 @@
+{
+  "id": "SN-W04211",
+  "title": "Interactive 3D Globe with Features",
+  "summary": "Displays a 3D real-time globe with global markers and feature cards highlighting collaboration, connectivity, and integration.",
+  "tags": [
+    "3D Globe",
+    "Real-time",
+    "Features",
+    "Tailwind CSS",
+    "Interactive",
+    "Network Visualization"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3139,
+      "sha256": "39a2b2835d78d6c43b84d3a45e477a0ffae99974164bd1c7f30af951ef1f142c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16004,
+      "sha256": "958e4a2150716aa5440d0e51de11d72376b254626a1a1ab1e698f1802b3dbbf3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1262,
+      "sha256": "7dc697afb5ad5888353bca011d10c228b9565efe7b2754ae0b9ebcdb14a6e642"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 356,
+      "sha256": "84e1e9afb22e189a0e4d50486f5415211c46417e5cd2d7bb55a0a1c078a5151e"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 284,
+      "sha256": "bf14f4eabda9206cfb5559e72ce49fc5a03dedba1d1fe1ed37faf42f32717bc7"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 282,
+      "sha256": "a794423b4cf2aca1ca379af81687cdba43b9cd409546b4088be69a4512db9f87"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6757,
+      "sha256": "cdd7008ab805fcc96af70cbc2dc45971c08e877f5115a275fdf2b0cc323205f1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "3d-canvas",
+    "integrations"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

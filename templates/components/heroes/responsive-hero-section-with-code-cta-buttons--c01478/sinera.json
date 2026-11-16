@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01478",
+  "title": "Responsive Hero Section with Code & CTA Buttons",
+  "summary": "Two-column hero section featuring headline, description, dual call-to-action buttons, and animated code/preview cards. Tailwind-styled, fully responsive—ideal for developer tool or SaaS landing pages.",
+  "tags": [
+    "hero",
+    "landing",
+    "section",
+    "tailwind",
+    "responsive",
+    "cta",
+    "animation",
+    "developer"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19138,
+      "sha256": "0bb5dc673c51c1d123d148844b55fb9a3aaa79408622839503ffdd1ec5f70279"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11562,
+      "sha256": "57d2450ff9e68bd3062e5af707d29babfbd0aec0e6a2bbdc4b72f97891426fe1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12434,
+      "sha256": "bf632983a690b0f37f6a7945cd39a49e668259c49ea762696a567031d11e15e7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01110",
+  "title": "Fixed Right Sidebar Navigation Menu",
+  "summary": "Fixed right-aligned sidebar menu with brand header, navigational buttons, and theme toggle. Uses Tailwind-style utility classes, supports dark mode, and includes interactive navigation and modal actions for landing and demo pages.",
+  "tags": [
+    "menu",
+    "sidebar",
+    "navigation",
+    "tailwind",
+    "interactive",
+    "responsive",
+    "dark-mode"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6246,
+      "sha256": "5b0ddfe89ee762007c454041871521d2fd627c7350dbdc881861203b8884e50b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7631,
+      "sha256": "67988ce9066210d87873c4b1926bac161ebcab30c9f1c1ec78fc07fead256497"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8680,
+      "sha256": "55fc749c42e6501070c3a22213534294a4eefcf7d433531527630612e0ca7d56"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01042",
+  "title": "Interactive Budget Slider CTA Section",
+  "summary": "Tailwind-styled section with headline, step indicators, custom draggable budget slider, value badge, and next-step button. Ideal for agency contact or quote forms requiring quick project budget selection with smooth animations.",
+  "tags": [
+    "section",
+    "cta",
+    "slider",
+    "tailwind",
+    "interactive",
+    "responsive",
+    "multi-step",
+    "animated"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12124,
+      "sha256": "9801f3423e8eeaad62671748bd83dd1a9c334c2cbe597a4576d597d4a9893bec"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5475,
+      "sha256": "55ed7f88af6080b3e1cbe4c4e4039bafc4f5c4d94b62e624266a550f04d10903"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6463,
+      "sha256": "55019c1e59c8adaca150ca5449788d56da8fc664b90c0a45ed272eb1f07b07bf"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

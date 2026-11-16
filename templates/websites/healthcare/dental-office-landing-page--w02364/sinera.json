@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02364",
+  "title": "Dental Office Landing Page ",
+  "summary": "A refined dental office landing page template for local practices, featuring services, amenities, testimonials, and an integrated booking request form.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Health",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3640,
+      "sha256": "7aeca9189480952c7e9aa09a00db9b441f58b0184eccf3d437d13251d00e324b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21818,
+      "sha256": "5de68995f0ab86db1d96b5a5cd156f859ab4bd080ae8d2b3adb9b700dee70bbe"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 716,
+      "sha256": "ced44804698da889b7a2e700b29730603bef977714d9bf22c77d775312bc1b82"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42391,
+      "sha256": "56baa4d8c94c7fb919ef4743cc8c741ae76e15d4f476daaea6da4c8026a3bafd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "about",
+    "pricing",
+    "stats",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

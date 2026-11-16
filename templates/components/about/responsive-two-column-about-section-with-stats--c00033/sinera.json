@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00033",
+  "title": "Responsive Two-Column About Section with Stats",
+  "summary": "Tailwind-styled portfolio about section featuring split layout with text, skill chips, portrait image, gradient overlay, and floating project/experience stats. Ideal for designer or agency profile pages.",
+  "tags": [
+    "about section",
+    "portfolio",
+    "tailwind",
+    "responsive",
+    "two-column",
+    "image overlay",
+    "stats",
+    "skills chips"
+  ],
+  "kind": "components",
+  "category": "about",
+  "categoryLabel": "About & team",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 47930,
+      "sha256": "9e15350d3739d2fe1c1222130862ed730739b6a794c9c4119fbf17ce159321a1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3639,
+      "sha256": "cb6ced0b32305928cb8828104439be54c3517e37c021eb294fc2452121d3f4f0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4506,
+      "sha256": "ff3428971b4b1026235b1f9701f39132bd0e4893833810bb45d21e57fda8d0c3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

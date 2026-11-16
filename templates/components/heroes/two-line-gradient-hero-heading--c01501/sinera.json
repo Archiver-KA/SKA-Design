@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01501",
+  "title": "Two-Line Gradient Hero Heading",
+  "summary": "Responsive h2 hero heading with two lines of gradient-clipped text, custom font weights, and Tailwind CSS utilities. Perfect for landing page banners or section headers needing bold, eye-catching typography.",
+  "tags": [
+    "heading",
+    "tailwindcss",
+    "typography",
+    "responsive",
+    "text"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8758,
+      "sha256": "376599eecf14c094fba76c66aaf06b1ecd7f9fd18a36c17df2f5508d4f558028"
+    },
+    {
+      "path": "component.html",
+      "bytes": 265,
+      "sha256": "bdf1a3b9e1fa47728db2177fdcde649ea91c1dcdd36f82bc97e750b4ce2fdd83"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1116,
+      "sha256": "d84d5f76ffe81b6e50f7f14f0c98389b8a17e4c7df524ba309b465fe5b9074fe"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

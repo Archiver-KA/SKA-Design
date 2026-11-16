@@ -1,0 +1,15 @@
+<svg viewBox="0 0 200 180" class="drop-shadow-[0_0_15px_rgba(37,99,235,0.3)] w-[256px] h-[224px]" stroke-width="2" data-icon-replaced="true" style="color: rgb(0, 0, 0); width: 256px; height: 224px;">
+            <defs>
+              <linearGradient id="triGradient" x1="50%" y1="0%" x2="50%" y2="100%">
+                <stop offset="0%" stop-color="#172554"></stop>
+                <stop offset="100%" stop-color="#020617"></stop>
+              </linearGradient>
+            </defs>
+            <!-- Inverted Triangle Body -->
+            <path d="M 10 10 L 190 10 L 100 170 Z" fill="url(#triGradient)" stroke="#1d4ed8" stroke-width="1.5" class="opacity-90"></path>
+
+            <!-- Connector Lines Internal -->
+            <path d="M 100 50 L 100 130" stroke="#3b82f6" stroke-width="0.5" stroke-dasharray="3 3" opacity="0.4">
+            </path>
+            <path d="M 60 70 L 140 70" stroke="#3b82f6" stroke-width="0.5" stroke-dasharray="3 3" opacity="0.4"></path>
+          </svg>

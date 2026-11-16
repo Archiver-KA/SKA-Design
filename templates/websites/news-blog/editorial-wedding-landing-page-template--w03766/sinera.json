@@ -1,0 +1,63 @@
+{
+  "id": "SN-W03766",
+  "title": "Editorial Wedding Landing Page Template",
+  "summary": "An editorial-style wedding landing page template for modern couples to share their story, venue details, event schedule, and RSVP online.",
+  "tags": [
+    "Wedding",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Travel",
+    "Entertainment"
+  ],
+  "kind": "websites",
+  "category": "news-blog",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3416,
+      "sha256": "0ac6c8dd2033ad8811cc8683cd7b92d349689aca7c0463bf6e468b60c4b13fba"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1718,
+      "sha256": "510f862816f4c2ed8c9989ee2b37d518ccde778df6449ee09ade09f48327aee4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 732,
+      "sha256": "5da1f1e5c010df948b5e2a0c82f17004e0d0136f101732e8632124741ec6f116"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21835,
+      "sha256": "76a118bb7712389d1af3edeeadeff59c6ef44d30fedc2145206f3a42ba2bef17"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "content",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Content / News",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "cta",
+    "about",
+    "features"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

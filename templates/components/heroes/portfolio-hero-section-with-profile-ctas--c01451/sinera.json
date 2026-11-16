@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01451",
+  "title": "Portfolio Hero Section with Profile & CTAs",
+  "summary": "Responsive hero section for personal portfolio pages featuring large name heading, short bio, work and email call-to-action buttons, location/skills/availability badges, and grayscale profile photo with translucent stats overlay. Styled with Tailwind CSS grid utilities.",
+  "tags": [
+    "hero",
+    "portfolio",
+    "landing-section",
+    "tailwind",
+    "responsive",
+    "cta",
+    "profile",
+    "grid"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 25518,
+      "sha256": "5f2bddeb96852cc75376886f8752f3ab8e510f0d31409def835e1d861bde2be0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6515,
+      "sha256": "abd2441bb83236470fd11623f613b0ceac821581495c68ace33f2de4ed97a5c6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7512,
+      "sha256": "65809def3d26bd0c9972dc693e598e441317bc1ce66e59cc4c214fe9cf4466bc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

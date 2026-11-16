@@ -1,0 +1,62 @@
+{
+  "id": "SN-W01264",
+  "title": "Minimalist E-commerce Fashion Template",
+  "summary": "A sophisticated and clean monochrome e-commerce template designed for high-end fashion and lifestyle brands.",
+  "tags": [
+    "E-commerce",
+    "Fashion",
+    "Style",
+    "Minimal",
+    "Clean",
+    "Black & White",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3508,
+      "sha256": "b25dae194c059341522f8d02b91011c33d88bfe003daf75c57595e41b59efa35"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11152,
+      "sha256": "2547814620e8b05e74aed0db8cf9830f02be8bf06df7e8473cfa33528cdd575a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "2ae750901eda07bb521121a6a1332e3d17df4be5ef810ee2f024d2d114f5ebc1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19417,
+      "sha256": "2b4663dfd358ec625878634f3ca8a17e2e512d08197330f9b84b9ce22ba0030b"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "cta",
+    "product-grid",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01500",
+  "title": "Travel Hero Section with Dual CTAs",
+  "summary": "Responsive Tailwind CSS hero banner for trip-planning sites. Includes feature badge, bold headline, explanatory copy, two call-to-action buttons, privacy note, and SVG icons. Ideal for landing pages promoting travel apps or adaptive route-planning services.",
+  "tags": [
+    "hero",
+    "tailwind",
+    "responsive",
+    "heading",
+    "typography",
+    "text"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12264,
+      "sha256": "4b7bd63e9fb10fd02e330f860d2aab5b4b0448b211a5280b7234ae6fe8906386"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1241,
+      "sha256": "b05e74297885a25ab9b643d984361cc5c5828e87d1e3a39f5ec0b8dc05c08993"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2226,
+      "sha256": "e11b55ab057396d41bf699e5decc1a768dbf9b865756b6eb1c8efe5e6647c793"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00364",
+  "title": "Finance Overview Card with Chart & Activity",
+  "summary": "Animated dashboard card showing today's net flow, monthly estimate, a canvas-based income/expense chart, and a recent transactions list. Uses Tailwind CSS, Lucide icons, responsive flex layout, and a glass-blur background—ideal for finance or analytics dashboards.",
+  "tags": [
+    "dashboard",
+    "card",
+    "finance",
+    "chart",
+    "activity-feed",
+    "tailwind",
+    "animated",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9172,
+      "sha256": "34c5f33b1797f70fdc1f87887fa36de7f59ebc08ce9a8d0f16cf3de4c453e367"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8105,
+      "sha256": "dbd476a464d037d40f4df90ea5c4855212da57f3db5d053c0cfc228aed101733"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9103,
+      "sha256": "fba039ccad337e64f9fcc895d9d4fd217f96f4bf6ba66dc5630d3a18c96721a2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

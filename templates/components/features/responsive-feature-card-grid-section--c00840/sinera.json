@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00840",
+  "title": "Responsive Feature Card Grid Section",
+  "summary": "Tailwind-styled 12-column grid showcasing feature cards with icons, imagery, and adaptive heights. Provides a dark themed, responsive layout ideal for SaaS landing pages or enterprise product highlights on marketing sites.",
+  "tags": [
+    "feature grid",
+    "card",
+    "tailwind",
+    "responsive",
+    "landing page",
+    "marketing",
+    "dark theme",
+    "image"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 41864,
+      "sha256": "ff10b12cf7a4a549f735efe24ff4412a09069f2d51edd10433795adb94ebdb91"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7350,
+      "sha256": "1f63fd0d97407ffb9f8120662d382d37847bb818febc1217797020676ffb8462"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8337,
+      "sha256": "bb4d21aa58a2d90263baae318f959cb730fab174cfd065e905ba61049c44ccd3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

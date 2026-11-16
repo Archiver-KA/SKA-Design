@@ -1,0 +1,50 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none z-0" xmlns="http://www.w3.org/2000/svg">
+              <defs>
+                <marker id="arrow-amber" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+                  <path d="M0,0 L0,6 L9,3 z" fill="#f59e0b"></path>
+                </marker>
+                <marker id="arrow-red" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+                  <path d="M0,0 L0,6 L9,3 z" fill="#ef4444"></path>
+                </marker>
+                <marker id="arrow-zinc" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+                  <path d="M0,0 L0,6 L9,3 z" fill="#52525b"></path>
+                </marker>
+              </defs>
+
+              <!-- Main Data Flow -->
+              <!-- Surface -> Portfolio -->
+              <path d="M 640 90 C 640 130, 480 130, 480 170" fill="none" stroke="#f59e0b" stroke-width="1.5" marker-end="url(#arrow-amber)" stroke-opacity="0.8"></path>
+
+              <!-- Portfolio -> Custody -->
+              <path d="M 440 240 C 440 280, 240 280, 240 330" fill="none" stroke="#f59e0b" stroke-width="1.5" marker-end="url(#arrow-amber)" stroke-opacity="0.8"></path>
+
+              <!-- Custody -> Transparency -->
+              <path d="M 240 400 L 240 470" fill="none" stroke="#f59e0b" stroke-width="1.5" marker-end="url(#arrow-amber)" stroke-opacity="0.8"></path>
+
+              <!-- Transparency -> Event Store -->
+              <path d="M 240 540 C 240 580, 440 580, 440 610" fill="none" stroke="#f59e0b" stroke-width="1.5" marker-end="url(#arrow-amber)" stroke-opacity="0.8"></path>
+
+              <!-- Event Store -> Memory -->
+              <path d="M 448 690 L 448 760" fill="none" stroke="#f59e0b" stroke-width="1.5" marker-end="url(#arrow-amber)" stroke-opacity="0.8"></path>
+
+              <!-- Memory -> Trust -->
+              <path d="M 448 830 L 448 900" fill="none" stroke="#f59e0b" stroke-width="1.5" marker-end="url(#arrow-amber)" stroke-opacity="0.8"></path>
+
+              <!-- Trust -> Agent -->
+              <path d="M 448 970 C 448 1010, 640 1010, 640 1040" fill="none" stroke="#f59e0b" stroke-width="1.5" marker-end="url(#arrow-amber)" stroke-opacity="0.8"></path>
+
+              <!-- Feedback Loops (Red/Amber) -->
+              <!-- Agent -> Surface (Limits) -->
+              <path d="M 720 1070 C 900 1070, 900 60, 740 60" fill="none" stroke="#ef4444" stroke-width="1.5" stroke-dasharray="4 2" marker-end="url(#arrow-red)" stroke-opacity="0.6"></path>
+
+              <!-- Agent -> Portfolio (Constraints) -->
+              <path d="M 640 1040 C 580 900, 580 300, 520 230" fill="none" stroke="#ef4444" stroke-width="1.5" stroke-dasharray="4 2" marker-end="url(#arrow-red)" stroke-opacity="0.6"></path>
+
+              <!-- Event Feeds (Dashed) -->
+              <!-- Portfolio -> Store -->
+              <path d="M 480 240 C 500 300, 500 500, 480 610" fill="none" stroke="#52525b" stroke-width="1" stroke-dasharray="3 3" marker-end="url(#arrow-zinc)" stroke-opacity="0.5"></path>
+              <!-- Custody -> Store -->
+              <path d="M 320 365 C 380 365, 400 500, 420 610" fill="none" stroke="#52525b" stroke-width="1" stroke-dasharray="3 3" marker-end="url(#arrow-zinc)" stroke-opacity="0.5"></path>
+              <!-- Agent -> Store -->
+              <path d="M 640 1040 C 600 900, 550 800, 480 680" fill="none" stroke="#52525b" stroke-width="1" stroke-dasharray="3 3" marker-end="url(#arrow-zinc)" stroke-opacity="0.5"></path>
+            </svg>

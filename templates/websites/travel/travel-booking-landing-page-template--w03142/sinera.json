@@ -1,0 +1,74 @@
+{
+  "id": "SN-W03142",
+  "title": "Travel Booking Landing Page Template",
+  "summary": "A modern WanderLust-inspired landing page template for online travel booking platforms to showcase destinations, services, and reviews in a sleek hero-led layout.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Services",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3733,
+      "sha256": "e9a97f03c073c811579b1a569f1a8f29a67bf0578bcb3cdf3d98a83e13d01576"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12086,
+      "sha256": "75e84ee20cc2905e44e5d82963b0e429406337b07664a7df5077e7c1f48e2a5e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 951,
+      "sha256": "cea3d8dbbe0930e44a9ccbdd36003bf295622f7b41425fa292078409337565e3"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 209,
+      "sha256": "8f77008981b699eb587a439a4abe0258e2d1b614a4375649a67cccd68d533dfe"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28670,
+      "sha256": "a00e580271da5cb3077131f1e991eaa3879f9fca6d05bf1b352ad28213b5931d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "listings",
+    "services",
+    "comparison",
+    "how-it-works",
+    "testimonials",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

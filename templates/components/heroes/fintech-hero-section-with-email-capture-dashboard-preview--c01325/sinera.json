@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01325",
+  "title": "Fintech Hero Section with Email Capture & Dashboard Preview",
+  "summary": "Hero banner for a banking/fintech landing page featuring announcement badge, gradient headline, email input, animated CTA button, trust badges and responsive wallet dashboard mockup. Built with Tailwind CSS and custom animations.",
+  "tags": [
+    "hero section",
+    "landing page",
+    "email capture",
+    "tailwind",
+    "animated",
+    "cta button",
+    "dashboard mockup",
+    "fintech"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7940,
+      "sha256": "e55b8900b2d2ed40067e1381574678bab4f01c1dcfa3cad2be321554d5e8c898"
+    },
+    {
+      "path": "component.html",
+      "bytes": 655,
+      "sha256": "4736fd073bea5f9d9bb9127f6dfeffb0aabb7c202a7e72be5b1541063ceb426f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1539,
+      "sha256": "2f1837a6a59c43af6e6917eece9e8802f30a5c57c5ebb2fcc78b2d9af1ed1220"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

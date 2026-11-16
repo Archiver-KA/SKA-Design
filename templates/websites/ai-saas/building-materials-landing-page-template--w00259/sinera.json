@@ -1,0 +1,70 @@
+{
+  "id": "SN-W00259",
+  "title": "Building Materials Landing Page Template",
+  "summary": "A reusable landing page template for building materials, roofing, and interior solution brands to showcase products, credibility, and lead generation.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Grid",
+    "Technology",
+    "building materials",
+    "roofing",
+    "interiors"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4122,
+      "sha256": "9d460e24e5d79e7511cb02c1d05ef6a0616e9b817d500ec65ea35999bddb1b68"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14544,
+      "sha256": "46562bb6d6a1637a23a2d7c752d2314786752cf163306338ed630508219b2da9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "34ceb78eb8efdfc32dcd0e452632fb69744c015e11d013bc4773ebc0fa107999"
+    },
+    {
+      "path": "index.html",
+      "bytes": 56206,
+      "sha256": "32c0a0e950a3048ca0a6a5516c211bff438889a0da7cf644951d475527874980"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "bento-grid",
+    "product-grid",
+    "gallery-portfolio",
+    "marquee",
+    "logo-cloud",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

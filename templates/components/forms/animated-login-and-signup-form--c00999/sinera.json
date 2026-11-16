@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00999",
+  "title": "Animated Login and Signup Form",
+  "summary": "A centered authentication UI with toggleable sign-in and sign-up views, social login buttons, animated tab indicator, shimmer CTA, and glassmorphism styling. Ideal for SaaS, dashboards, and account access flows using HTML, CSS, and vanilla JavaScript.",
+  "tags": [
+    "login",
+    "form",
+    "animated",
+    "interactive",
+    "glassmorphism",
+    "authentication",
+    "responsive",
+    "css"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8448,
+      "sha256": "32283ef664f882312315cfec2fed7a62bd7362447dfc196e131040ef54a92104"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11498,
+      "sha256": "9a0b1851ac8a1ce48ccd5878b84fb1044db3d67609a585ffa08f04754e6f54d5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12349,
+      "sha256": "81fd8dc26b372b39c9d2ee280b24763490ebb7c866d410615aedace69377ee60"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

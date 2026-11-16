@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01139",
+  "title": "Nav bar",
+  "summary": "Responsive top header featuring translucent backdrop, logo, nav links, sign-in and gradient CTA button. Includes mobile hamburger menu and Tailwind CSS glassmorphism styling—ideal for SaaS landing pages or product sites.",
+  "tags": [
+    "navbar",
+    "header",
+    "navigation",
+    "tailwind",
+    "responsive",
+    "glassmorphism",
+    "cta",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4252,
+      "sha256": "d2615e7698c34b5006633f297c5e1a043c6a732dee23be477417e40f0a4d5eb8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3410,
+      "sha256": "abb01935fe7f80b99e62cb0c62d1888cef028896570fe8ca0522244cb5207f86"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4368,
+      "sha256": "c976bb2590ff60239237282e9bdbe4d17307a2bc37083943b5d2d6b92203886d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

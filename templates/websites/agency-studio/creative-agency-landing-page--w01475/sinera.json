@@ -1,0 +1,71 @@
+{
+  "id": "SN-W01475",
+  "title": "Creative Agency Landing Page",
+  "summary": "Landing page with fullscreen 3D background, navigation, hero section, and testimonial for a creative agency.",
+  "tags": [
+    "Hero",
+    "Testimonial",
+    "Fullscreen Background",
+    "Navigation",
+    "TailwindCSS",
+    "SVG",
+    "Responsive"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3475,
+      "sha256": "e41ef9740fb98b892d68ef03f0866ef51d693f296375da76be61f76a4686bda5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16552,
+      "sha256": "743fe7f96d4e55a40138e6091495ce32e309fc6c84670b2045763e17b8484e61"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1058,
+      "sha256": "97e1d1752f2fb1871cd6b3df2462f15fa28ba63b8578a5b81c3a14beabda397d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 572,
+      "sha256": "80f44993ff1162cace39e3272a303adf21e88399e39739a6298078123cbc6654"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 552,
+      "sha256": "0620d83e3f530d572c384ab37e2c36938b81f0e53d0de28dd3bfa387bf7ff634"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5536,
+      "sha256": "d5a0713ac08b952f7a193455d73a23514a0f61e81f1194b9ccc5d009da9efa20"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "testimonials"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

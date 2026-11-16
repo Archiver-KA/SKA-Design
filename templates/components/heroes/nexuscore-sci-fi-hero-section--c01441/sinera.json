@@ -1,0 +1,37 @@
+{
+  "id": "SN-C01441",
+  "title": "NexusCore Sci-Fi Hero Section",
+  "summary": "A high-tech sci-fi hero section featuring a custom WebGL canvas background with a red pulsating core, noise grain overlays, and grid guide lines. Includes a skeuomorphic navigation bar and animated GSAP entry effects for modern infrastructure or SaaS landing pages.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "animated",
+    "webgl",
+    "gsap",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8958,
+      "sha256": "9c3319ec3dc9c73820e0d6470691d1e100647f3bec8424c7664389e864cfb58f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16160,
+      "sha256": "204e322b8fb3244ac8d936647b3e6265d156e7fb58e7fe6c99eca83b18cfbd4c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "SN-W01936",
+  "title": "Dark Portfolio Landing Page Template",
+  "summary": "A sleek dark-mode portfolio landing page template for digital creators to showcase work, services, testimonials, and contact details with modern 3D effects.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3765,
+      "sha256": "428e17c0232b5cfade73d8e84bf2d08fa7e98c18cbef343fee19aff541ba4da0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11594,
+      "sha256": "8bcd314445ab565f466e82cef910919b805332fc0bf7892c676060c7c45d2334"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "a7beebb681c26f2d05480e11361b955f8217903f9bc8c0787796f591514d575d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 43637,
+      "sha256": "b03b205b3df196f8fde4015e046853248b73db817c631864d44e26389ea33b7e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "services",
+    "case-studies",
+    "logo-cloud",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

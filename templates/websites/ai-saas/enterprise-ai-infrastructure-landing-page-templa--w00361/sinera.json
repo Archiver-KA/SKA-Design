@@ -1,0 +1,101 @@
+{
+  "id": "SN-W00361",
+  "title": "Enterprise AI Infrastructure Landing Page Template",
+  "summary": "A futuristic Enterprise AI Infrastructure landing page template for showcasing autonomous agent platforms, compute tiers, and developer-focused features.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Animated",
+    "Large Type",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3983,
+      "sha256": "30c13d25b3c5052541a6b68882b243705723839b2c0af789033dab8b54a18e82"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13190,
+      "sha256": "795b62c41702fa49b7eb43ba2399d77b7eb85cd46d8aa9cb5933e6dc271f09e1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1948,
+      "sha256": "4200af84fb6d19a223f083a6ddce53dfc50c817e5cdaa8a6d23c9a21376583df"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 318,
+      "sha256": "01c14bfec202587d395b0fed6b8b5821313b1c632e76c5ae62ff546f4d44e7bb"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 649,
+      "sha256": "045aa48da162ef813fea69402857ed2c7f1016cf0ae450c27811a4b86da20a35"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 350,
+      "sha256": "5a3892d894ef9841b4fd2fff055b3fa12a32cd59d57ed60ed22a8eccaf3486e1"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 404,
+      "sha256": "b7743328f569ff5906474e1153d11fde15de380a4b9c26581c308318dccf9fce"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 373,
+      "sha256": "70a554c1aa3b2e416f757a5e1c5650d06c4e4ef2f0fd7f3fe2581d1afcb5cba1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 54322,
+      "sha256": "a97d8c310f511f31b7715ae7c46743c4be75b33fe1596ff008816c824a3c0ed5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "menu-list",
+    "hero",
+    "marquee",
+    "stats",
+    "code-terminal",
+    "features",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

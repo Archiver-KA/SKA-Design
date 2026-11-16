@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02287",
+  "title": "Heart Rate Progress Card",
+  "summary": "Circular progress indicator showing heart rate with BPM measurement and colorful gradient ring for health tracking",
+  "tags": [
+    "health",
+    "progress",
+    "circular",
+    "heart-rate",
+    "metric",
+    "card"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2666,
+      "sha256": "d5b40f50dbb7f92ce89e75ce98e735949439753120ca9310bf6bd83f3d649d1a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1179,
+      "sha256": "86bfa85c559ce1432430b78b32b6ea04603d48a3483048596af2928c883eeb60"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2024,
+      "sha256": "a00e1e686bf5e7b34a27d747b1e29c6a80193c23737387dec8dbd51b2604fdf6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

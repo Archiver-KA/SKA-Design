@@ -1,0 +1,64 @@
+{
+  "id": "SN-W00730",
+  "title": "SprintForge AI Product Studio Landing Page Template",
+  "summary": "A high-performance agency template designed for AI-native product studios and software development teams offering fixed-scope sprint packages.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Clean",
+    "Dark",
+    "Animated",
+    "Business",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3915,
+      "sha256": "ed137eab0fc6266a16018b817f16fca315e61c33436a18f4c1048a475abdaca8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5068,
+      "sha256": "60e6c93236d8bb18e06e014421752b4a2043673c8e08ea60cfe0b32bb097ae86"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 745,
+      "sha256": "b47438e39b4c9f9ebedb5c79df819b07c406f22870083a1a11ab3adfea42cdf1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 64743,
+      "sha256": "3c0ce9031a22be7ed6e8418b99b2beaedb57f1918bde5cc13a0190ade282980c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "services",
+    "bento-grid",
+    "stats",
+    "team",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

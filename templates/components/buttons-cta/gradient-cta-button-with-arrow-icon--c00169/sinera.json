@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00169",
+  "title": "Gradient CTA Button with Arrow Icon",
+  "summary": "Anchor styled as a rounded call-to-action button featuring an indigo-to-blue gradient, subtle lift on hover, drop shadow, and a nested arrow icon badge. Built with Tailwind utility classes for easy integration into hero or landing page sections.",
+  "tags": [
+    "button",
+    "cta",
+    "link",
+    "tailwind",
+    "gradient",
+    "icon",
+    "interactive",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2100,
+      "sha256": "bc544a940037586a0e1095000fb05004dd3c83cfe77c72903c1a491a33a67eab"
+    },
+    {
+      "path": "component.html",
+      "bytes": 819,
+      "sha256": "feb8395f5d062426da7701dc8c0d65ec5240fc0461a2dfac5cd81641feabc3a2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1805,
+      "sha256": "22bf4c2f997cd74de1953424ed8fbffffa490454a148311c4a07b82d6178e288"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

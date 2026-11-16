@@ -1,0 +1,23 @@
+<svg class="w-full h-32 overflow-visible" preserveAspectRatio="none">
+                        <!-- Gradient Fill -->
+                        <defs>
+                            <linearGradient id="chartGradient" x1="0" x2="0" y1="0" y2="1">
+                                <stop offset="0%" stop-color="white" stop-opacity="0.1"></stop>
+                                <stop offset="100%" stop-color="transparent" stop-opacity="0"></stop>
+                            </linearGradient>
+                        </defs>
+                        <path d="M0 120 L 50 100 L 100 105 L 150 60 L 200 20" fill="url(#chartGradient)" stroke="none" class=""></path>
+                        <!-- Line -->
+                        <path d="M0 120 L 50 100 L 100 105 L 150 60 L 200 20" fill="none" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="drop-shadow-[0_0_10px_rgba(255,255,255,0.2)]"></path>
+                        
+                        <!-- Dots -->
+                        <circle cx="0" cy="120" r="2" fill="#262626" stroke="white" stroke-width="1.5"></circle>
+                        <circle cx="50" cy="100" r="2" fill="#262626" stroke="white" stroke-width="1.5"></circle>
+                        <circle cx="100" cy="105" r="2" fill="#262626" stroke="white" stroke-width="1.5"></circle>
+                        <circle cx="150" cy="60" r="2" fill="#262626" stroke="white" stroke-width="1.5"></circle>
+                        <circle cx="200" cy="20" r="3" fill="#fff" class="group-hover:scale-150 transition-transform origin-center"></circle>
+
+                        <!-- Label -->
+                        <rect x="175" y="0" width="40" height="20" rx="4" fill="#fff" fill-opacity="0.1" stroke="rgba(255,255,255,0.2)" class=""></rect>
+                        <text x="195" y="14" font-family="sans-serif" font-size="10" fill="white" text-anchor="middle">100%</text>
+                     </svg>

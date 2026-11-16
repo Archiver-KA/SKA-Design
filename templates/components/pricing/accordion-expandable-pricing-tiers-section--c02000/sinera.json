@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02000",
+  "title": "Accordion Expandable Pricing Tiers Section",
+  "summary": "A full-width pricing section with three expandable subscription tiers, dark futuristic styling, hover interactions, and CTA buttons. Built with Tailwind CSS classes, ideal for SaaS, AI, or creative platform plan comparisons.",
+  "tags": [
+    "pricing",
+    "section",
+    "tailwind",
+    "dark",
+    "interactive",
+    "responsive",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14112,
+      "sha256": "28968a372b14efa63afd72a7b9747b08d59e3a23111f683afc3ecb87b074280a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9738,
+      "sha256": "2cf2e36f5c693ed841ea0b0ef1283ed9ee31bcf8cc85c937645f078b544d09a5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10691,
+      "sha256": "818088db7585bc0178f40227b90206da21ff7787578f8cf1c510b9012a210784"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01404",
+  "title": "Hero Text Component",
+  "summary": "A clean hero section with large typography, perfect for landing pages. Features responsive text sizing and professional typography with proper spacing and contrast.",
+  "tags": [
+    "hero",
+    "title",
+    "text",
+    "typography",
+    "responsive",
+    "clean",
+    "minimal",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11436,
+      "sha256": "aaf6fdca134f41a3c2b5828f4023ed17ec5f8485e13e1550d0891f8c96b743b6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 677,
+      "sha256": "9348ea15c88c2f6edbb151ac9e8c4609ed7038602781c4f31332f65556bdd48c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1517,
+      "sha256": "3cc93ee21cea985c0b29b46fe5cff669af089a555c8d1f9994bd310380aed9fd"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

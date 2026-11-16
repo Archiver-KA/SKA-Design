@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01810",
+  "title": "ArtbyAnuvaa",
+  "summary": "A refined artist portfolio landing page template for showcasing bespoke textured artworks, collections, and commissions with a gallery-first, editorial layout.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Artist",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Grid",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3599,
+      "sha256": "990bad78fbd9bb35b5cd2bd07d5aef756ae1db4a21575a379208d04ec1839f09"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7184,
+      "sha256": "aa0a0a563c5e7634b840b6ab85806fc417161b344662e1212104b0c946f107a4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 699,
+      "sha256": "6bcb3ddd4715e6d3fd4256ceeb31c007e447796ed657bbee45fb194297d8a3ec"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23791,
+      "sha256": "4427cc423dac72f4b0f54ddc9feff25c7e78e37385796815f9bee4973eae7b06"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "product-grid",
+    "marquee",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

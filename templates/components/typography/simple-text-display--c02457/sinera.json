@@ -1,0 +1,40 @@
+{
+  "id": "SN-C02457",
+  "title": "Simple Text Display",
+  "summary": "A minimal text component displaying 'trenchtown.live'. Useful for displaying domain names, website titles, or simple text content.",
+  "tags": [
+    "heading",
+    "text",
+    "minimal",
+    "simple"
+  ],
+  "kind": "components",
+  "category": "typography",
+  "categoryLabel": "Text & typography",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1552,
+      "sha256": "0c41d1c610ca0ccb1ee3145c7ab92fff1042e010d116d4513c6aa746a9a8f390"
+    },
+    {
+      "path": "component.html",
+      "bytes": 96,
+      "sha256": "a50a5f25ae2e8480ffeab7b49b09738da6b473d0eee09a4bcb3b014db8c70b69"
+    },
+    {
+      "path": "index.html",
+      "bytes": 936,
+      "sha256": "0ef3eb70851df9f67645e03add7931bfa099f72db7db2c6e8c9aa22eb45e8dd0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

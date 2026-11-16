@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01159",
+  "title": "Responsive Header with Logo, Nav & Action Buttons",
+  "summary": "Tailwind-styled header featuring brand logo, navigation links, export button and sign-in CTA. Fully responsive with mobile-hidden nav, ideal for SaaS sites, dashboards or marketing pages.",
+  "tags": [
+    "header",
+    "navbar",
+    "navigation",
+    "tailwind",
+    "responsive",
+    "branding",
+    "action-buttons"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4928,
+      "sha256": "b1f182bea4d4cddb20e1ea1a0012f5e633d132f1975f0d18083356d8da5f94e2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2730,
+      "sha256": "79e0d7be76ddb6a35ed5d8896d0cddc3081ce705837cf975c7aacfd133763ee6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3734,
+      "sha256": "c56bc727550786c54547b87f066194eb488f587073a11308b436c1812636343d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00631",
+  "title": "Responsive FAQ Grid Section with Tailwind CSS",
+  "summary": "Static FAQ block presenting questions and answers in a two-column responsive grid. Styled with Tailwind utility classes, featuring rounded cards, dark theme, and center heading—ideal for landing or pricing pages in SaaS sites.",
+  "tags": [
+    "faq",
+    "section",
+    "tailwind",
+    "responsive",
+    "grid",
+    "content",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "faq",
+  "categoryLabel": "FAQ & accordions",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22032,
+      "sha256": "57753a1d4dcd25e993c476101b814c5b6bbf3f5255575275cc9dfd3683f0d327"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1564,
+      "sha256": "362c46edb984d45169b986c08afda7bb1d8a265740d40fdff2b1a987d2d05d83"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2430,
+      "sha256": "41433d52286e1ed03c2144dfbd2dd46bad5ff6d179a3ff2e7e96ce079d2b90a8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

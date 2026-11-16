@@ -1,0 +1,14 @@
+<svg viewBox="0 0 200 100" class="w-full h-full opacity-50">
+                                    <!-- Network Lines -->
+                                    <path d="M40,50 L100,30 L160,60" fill="none" stroke="#3f3f46" stroke-width="0.5"/>
+                                    <path d="M100,30 L120,80 L160,60" fill="none" stroke="#3f3f46" stroke-width="0.5"/>
+                                    <!-- Nodes -->
+                                    <circle cx="40" cy="50" r="2" fill="#71717a"/>
+                                    <!-- Active Node -->
+                                    <circle cx="100" cy="30" r="3" fill="#00E5FF"/>
+                                    <circle cx="100" cy="30" r="8" fill="none" stroke="#00E5FF" stroke-width="1" class="animate-ping"/>
+                                    <circle cx="120" cy="80" r="2" fill="#71717a"/>
+                                    <circle cx="160" cy="60" r="2" fill="#71717a"/>
+                                    
+                                    <text x="105" y="25" fill="#00E5FF" font-family="JetBrains Mono" font-size="6">HQ: US-EAST-1</text>
+                                </svg>

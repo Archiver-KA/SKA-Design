@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02347",
+  "title": "Statistics Grid Dashboard",
+  "summary": "Professional statistics grid showing key metrics with icons, hover effects, and responsive layout for showcasing achievements and numbers.",
+  "tags": [
+    "statistics",
+    "grid",
+    "metrics",
+    "dashboard",
+    "hover-effects",
+    "icons",
+    "dark-theme"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5662,
+      "sha256": "3b814bd4e3f5f737e9445b6e997235f02eee8d32f8825813f7f7233c939b5158"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4081,
+      "sha256": "c3307e7dee4428e552e119dacd5922a719f82d8853a64841ed8e16f86841747e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4927,
+      "sha256": "c4a02637c84ba426bf0352fbd5dedde5dc44302418172ee137806c5ecc5abfa6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

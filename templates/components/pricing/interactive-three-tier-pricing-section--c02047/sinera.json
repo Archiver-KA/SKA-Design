@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02047",
+  "title": "Interactive Three-Tier Pricing Section",
+  "summary": "Dark-themed Tailwind CSS pricing section with monthly/annual billing toggle, three plan cards, featured recommended tier, and animated price transitions. Ideal for SaaS, developer tools, and enterprise product landing pages.",
+  "tags": [
+    "pricing",
+    "section",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "dark",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16496,
+      "sha256": "dd02000daf3453bf1ab14b2a9a4bf183f3eabb3efd652363bf6b7b3456faf468"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13947,
+      "sha256": "81a4daf5c39db54d5cc72eeb7caf08195e328c29c371166949768332c9659bdc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14806,
+      "sha256": "52416e36d8ac67718f09c928ce869177dc4d874de3267fe15b11bd262bfdb56f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

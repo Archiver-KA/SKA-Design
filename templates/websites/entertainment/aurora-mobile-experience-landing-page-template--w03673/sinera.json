@@ -1,0 +1,63 @@
+{
+  "id": "SN-W03673",
+  "title": "Aurora Mobile Experience Landing Page Template",
+  "summary": "A reusable mobile landing page template designed for art galleries and digital exhibitions to showcase collections, featured pieces, and membership benefits.",
+  "tags": [
+    "Landing Page",
+    "Mobile",
+    "Art Gallery",
+    "Collections",
+    "Featured Piece",
+    "Membership",
+    "Exhibitions",
+    "UI Template",
+    "Digital Art",
+    "Mobile UI"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3433,
+      "sha256": "d8692abea9c427aa1e5869e22ad7beb857c99729c4ded6e9c54a9c0e03c61e8e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13346,
+      "sha256": "2ff9050a7c452aed3e33e83c130044769cb21d9826986e1ff53f7ff54f18e6fc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "fe7e5380e6b4bf075574d5f5e0d255d7baf89c135f7415dc5dbc5c8f3a15fd67"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19578,
+      "sha256": "f1e0eb2fdeb39c02296c6b840397239fc2221475b2185130c7ce0b9d04105878"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "product-grid",
+    "hero",
+    "about"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00263",
+  "title": "Responsive Dual CTA Buttons with Gradient Primary",
+  "summary": "Pair of call-to-action buttons arranged flex-responsive (column→row). Primary button features dark gradient, arrow icon, hover lift; secondary button is neutral. Built with Tailwind CSS for landing pages, portfolios or headers.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "gradient",
+    "icon",
+    "responsive",
+    "hover",
+    "flex"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5056,
+      "sha256": "7956d521d2b6350250dbda6d051fb00677dfaf3487b0530ac44a27a57fea8137"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1182,
+      "sha256": "422dedaf917b87966642c76a6c1bdeed3be56a2bc490397b4173e1dd5e7c3d45"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2182,
+      "sha256": "817964078e30b7d5e0d3d34ea40e496eb76e7b0ed19d0b4c66ee53e5b11aadb4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

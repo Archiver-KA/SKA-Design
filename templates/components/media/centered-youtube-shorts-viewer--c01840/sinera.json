@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01840",
+  "title": "Centered YouTube Shorts Viewer",
+  "summary": "Full-height centered YouTube Shorts player with dark background. Ideal for dedicated video viewing pages or modal overlays with vertical video content.",
+  "tags": [
+    "section",
+    "video",
+    "youtube",
+    "centered",
+    "responsive",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5992,
+      "sha256": "7de46156193a02aacc13cbe7f18b90618b66acf258d3d19520ceca083127cb6e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 536,
+      "sha256": "a9f0a179d05063eea0dfa8e705c89269113ee65f465755b7b55e2033c83d5422"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1387,
+      "sha256": "357d1ba9c9b16ee9c466c83c7a6a0f33eec592cbe92f312dc55169a537e81b58"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

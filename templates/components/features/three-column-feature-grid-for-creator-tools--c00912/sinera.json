@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00912",
+  "title": "Three-Column Feature Grid for Creator Tools",
+  "summary": "Dark-themed three-column feature section highlighting visual editor, interactions, and performance. Uses Tailwind-style utility classes, animated visuals, and hover effects. Ideal for SaaS or product pages showcasing key capabilities.",
+  "tags": [
+    "feature",
+    "section",
+    "grid",
+    "tailwind",
+    "animated",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21828,
+      "sha256": "7075b86945223683295864b0ed4bd7cba56f936a91a38939488a5651901f2c5c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7924,
+      "sha256": "e6d061f6d6de435bfc69886574171324133758a027920a83bb6bdc7cd953c928"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8788,
+      "sha256": "3e1eafc067f8eda851e2322dfe1696a86331dab5319103ea5f5505f72516c65b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

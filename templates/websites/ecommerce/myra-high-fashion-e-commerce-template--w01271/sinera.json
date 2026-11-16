@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01271",
+  "title": "MYRA High-Fashion E-commerce Template",
+  "summary": "A sophisticated, minimal fashion landing page template designed for luxury brands and seasonal apparel collections.",
+  "tags": [
+    "Fashion",
+    "Landing Page",
+    "Minimal",
+    "Clean",
+    "Technology",
+    "Dark",
+    "Style",
+    "E-commerce",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3531,
+      "sha256": "57dfda41e0121036d00735209bf55af7d167757b5103f58be57401223105f983"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3592,
+      "sha256": "e88e579c56ab2fd4527ad5061c8a344b4906679736f6fd658cb3da606d4da111"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "6bf34c58f6f6c8c3231aba6787301927450db7a061163037e5630ee3f31ea97f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 243875,
+      "sha256": "3178776a669a19290318c0be55d13d075a8840d3ecc90d068581f804d91d820e"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "video-media",
+    "product-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01202",
+  "title": "3D Creative Studio Hero with Custom Cursor",
+  "summary": "Full-screen hero for a creative studio featuring a Three.js point cloud background, animated typography, custom cursor with blur-mask spotlight, and dual CTAs. Built with Tailwind-style utility classes and suited for landing pages or portfolio intros.",
+  "tags": [
+    "hero",
+    "section",
+    "landing",
+    "threejs",
+    "animated",
+    "interactive",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16414,
+      "sha256": "014a77ac452344484f80d20e1a07a7b4b7bace86bed690c646bc01d169c4c4b2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8387,
+      "sha256": "308c72b2c20a0d9931f9af49cb1d842a4876fc83336ce371ad4fa367b9745fde"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9250,
+      "sha256": "fd8a9457702032e73b570c4dfc134d915f9164a28181f7fb704548aa0661a140"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

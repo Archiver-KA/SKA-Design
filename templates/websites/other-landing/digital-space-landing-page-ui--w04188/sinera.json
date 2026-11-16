@@ -1,0 +1,84 @@
+{
+  "id": "SN-W04188",
+  "title": "Digital Space Landing Page UI",
+  "summary": "Responsive landing page with animated blobs, navigation, hero section, and call-to-action buttons using Tailwind CSS. Hero.",
+  "tags": [
+    "Landing Page",
+    "Hero Section",
+    "Tailwind CSS",
+    "Animation",
+    "Responsive Design",
+    "Call-to-Action"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2969,
+      "sha256": "64ff051986a10debda4bd49d50ba44f0185f06a263db85623f42a9acac233c9f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12154,
+      "sha256": "b0822b9acd2a7ca356f603e666b71d5bb3ccf3c4e02e57b50ad225ebb8dc0050"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1788,
+      "sha256": "d9355a01ade838bdd274083f872c015b48393483caa4a7909329765f00c15e1c"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "beb758e65c7ec7283898d7bbf7f3560bbd65faf96e533d6a27a8a7ebd7a82d99"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 320,
+      "sha256": "12e99e62d190cb036c7ac4232187f764f26e2f6960b422b0920094e93a65042f"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 545,
+      "sha256": "cb9348fbee2a57e68a57dfc3438cb9636ce41fe2de4f4d5b89f8a88cfce71579"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 339,
+      "sha256": "74ae93a1df3267cb6c817c3a9999419e8a33347a96ea3fefa9d2da6bdce4ac2d"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 410,
+      "sha256": "cb568382187f84381998501d423a7065ff095a5ec28ceb1e789403d2a47ca5e7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15141,
+      "sha256": "5a7921a63757f4f0b7f701feab64659ec6247d9b506ecea2be1ec52ced6a2333"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

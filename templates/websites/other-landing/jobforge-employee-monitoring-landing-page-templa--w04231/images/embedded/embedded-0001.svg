@@ -1,0 +1,7 @@
+<svg width="200" height="100" viewBox="0 0 200 100" fill="none" xmlns="http://www.w3.org/2000/svg" class="opacity-40">
+                        <pattern id="dots" x="0" y="0" width="10" height="10" patternUnits="userSpaceOnUse">
+                            <circle cx="2" cy="2" r="1.5" fill="#94a3b8"/>
+                        </pattern>
+                        <path d="M10,40 Q50,10 90,40 T170,40" stroke="none" fill="url(#dots)"/>
+                        <circle cx="60" cy="35" r="4" fill="#6366f1" class="animate-pulse"/>
+                    </svg>

@@ -1,0 +1,60 @@
+{
+  "id": "SN-W04164",
+  "title": "Brutalist Webpage Layout",
+  "summary": "Creates a brutalist style webpage with a dots animated background, bold hero, content blocks, and a minimalist navigation bar.",
+  "tags": [
+    "Brutalist",
+    "Hero",
+    "Animated Background",
+    "Tailwind CSS",
+    "Vanta.js",
+    "Responsive Layout"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2699,
+      "sha256": "a93ac4f6631c1d032e8ce662438f270395ca95a90ff01ffeec33c619f59434f8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12270,
+      "sha256": "f515ca56ac07e99cbbabf8934aff11b546ba283165305073c65b654a0b1bcf5f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 717,
+      "sha256": "6e4924a8bf943a912a69b8701a4a5af19a55f6f6ec63ff961921f3fa57929653"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4474,
+      "sha256": "92981578c8d731ccea93dd11fe224c607a854e35048e1dfa2c7fc98893bdad84"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "navbar",
+    "hero",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

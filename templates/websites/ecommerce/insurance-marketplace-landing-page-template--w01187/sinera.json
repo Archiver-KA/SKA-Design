@@ -1,0 +1,80 @@
+{
+  "id": "SN-W01187",
+  "title": "Insurance Marketplace Landing Page Template",
+  "summary": "A modern Keepar-inspired insurance marketplace landing page template for showcasing smart comparison, product benefits, and mobile app features.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Insurance",
+    "Marketplace"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3922,
+      "sha256": "e1eb6328817cfff74ff6e181141cc2a0bb55ce00e26f49dacd5394e7e1c3ddbe"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15154,
+      "sha256": "7bee0079e604cfc39ef87d8a6c0bd8fdd120494b4cf1b100957f0243d9b2a4fa"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1074,
+      "sha256": "b92977f2b2f0d3fe557bba12a6a64d0fbc86bc8f03f77c0dcf4f3f11e127b17b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 298,
+      "sha256": "5d7c52354ce80370f746ac7c95014a67e172ac7c1517e1692ff28283fc734964"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 481,
+      "sha256": "1214db67f9362322d0a555935433f8789b98526aa1338d7f60ae01ec0b580cb1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 57553,
+      "sha256": "ef6a8d9b008e64cae89c13785ab38640777a40219589073a14ac6709d1487dfe"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "cta",
+    "marquee",
+    "bento-grid",
+    "features",
+    "testimonials",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

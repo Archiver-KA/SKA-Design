@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00455",
+  "title": "Share Settings Panel with Permission Dropdown",
+  "summary": "Tailwind-styled sharing settings panel featuring link-sharing toggle, role selection dropdown, and team/org access indicators. Ideal for dashboards, modals, or campaign hubs requiring granular permission control.",
+  "tags": [
+    "panel",
+    "settings",
+    "share",
+    "permissions",
+    "dropdown",
+    "tailwind",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10708,
+      "sha256": "0a689c97a63c3dbba13024d916bb1c52c55ba5cc2764da351dddd7f0bfd0fc58"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6814,
+      "sha256": "c35fe84db146143f1a03c8d7e4f74ffdc56cd2ccbb1e8f3c73a421813609c8ef"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7810,
+      "sha256": "1e157d0238abf6198f08eb2921561e816390331b959c9b04b9d52b80fe4d4fdb"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

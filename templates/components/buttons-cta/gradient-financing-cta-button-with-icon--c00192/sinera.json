@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00192",
+  "title": "Gradient Financing CTA Button with Icon",
+  "summary": "Interactive call-to-action button featuring credit-card icon, grey gradient background, hover scale/ring effects, and responsive sizing via Tailwind classes. Ideal for payment or financing application flows in web dashboards or checkout pages.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "gradient",
+    "icon",
+    "hover",
+    "responsive",
+    "financial"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2246,
+      "sha256": "e14c17590f96b1df6fc00327c636f24cbdf087d67b101bd74eecdca097d4c5e9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1082,
+      "sha256": "9506734f43955ab32f0d0597a451c57a23503e2934843fc79dce045aa0e6be61"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2072,
+      "sha256": "72da4884c10b9e3c73e9b43ffcc64a49fa0daa47d268c19c3c4919d46b7119c1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

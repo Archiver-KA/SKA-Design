@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00569",
+  "title": "Full-screen Spline Animation Background",
+  "summary": "Absolute-positioned container that embeds a Spline 3D particles animation via iframe, creating a full-page animated background layer behind site content. Ideal for hero sections or immersive landing pages.",
+  "tags": [
+    "background",
+    "animation",
+    "spline",
+    "iframe",
+    "full-screen",
+    "css"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5872,
+      "sha256": "b1d220d2098d4c013c70a761e602755a1a303a7bba7dc924d1433b3b771acd35"
+    },
+    {
+      "path": "component.html",
+      "bytes": 244,
+      "sha256": "38047cc2629643a518ec8c7f5f6e825ffe89d25b1e6fc905e3ef4285ff7c8d6d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1104,
+      "sha256": "a261fddab89cb2dbcf795b8ee718991cea29392f80a8a292b29249333138f99d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

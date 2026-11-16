@@ -1,0 +1,66 @@
+{
+  "id": "SN-W00272",
+  "title": "CerebrOS AI",
+  "summary": "A clean, minimal web app UI template for an AI insight console with contextual chat, reasoning views, and action shelves, ready to adapt to your product.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Dashboard",
+    "AI",
+    "Web App"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3493,
+      "sha256": "6a1cf4fe8746a5b4f29068cfaac1ea30dc91d7870381a5b79d676e0dda88e68c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8378,
+      "sha256": "6df885cdca6a25af8aba268d2fc210c2e0352101b5bb5386b0adc577d36bec3b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 788,
+      "sha256": "88ad09464d9d28c0e5362d9bac668d98bb7f4fa9f4460ad40b672a0bcfd77cc8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 71389,
+      "sha256": "51f9401ac60a31c45c750dcf7a11aef5c9fc155d41b2f92a3fe561cba64cb0db"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

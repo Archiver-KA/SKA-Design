@@ -1,0 +1,66 @@
+{
+  "id": "SN-W02110",
+  "title": "Maxime Dayan - Coiffeur & Visagiste ",
+  "summary": "A premium hair salon and stylist website template for showcasing services, portfolio, and online bookings with a refined Parisian brand experience.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Art & Design",
+    "Portfolio",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Salon",
+    "Hair Stylist"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3543,
+      "sha256": "d3119b902bf50367b5e688108ba308e62a4d59f41062e9c92c460d5114f547f9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22918,
+      "sha256": "e5289235cb82fd251e7f5c057dabdf61b2532bf43ae6f2e69da6343536d17905"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "920d1eeb79c2a6aa1f2d2cd71855abb0872366316606a2bfa198b7e7683e73e9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25741,
+      "sha256": "a82d96c8dd787a0666e4e47fdb9bc721bb647d7643e9278d4d7e656e6d79b534"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "product-grid",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

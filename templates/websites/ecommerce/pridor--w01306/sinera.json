@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01306",
+  "title": "Pridor",
+  "summary": "A reusable e-commerce template for premium concept stores selling fashion, fragrance, home decor, and gourmet goods with an elegant boutique feel.",
+  "tags": [
+    "E-commerce",
+    "Landing Page",
+    "Fashion",
+    "Food",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Elegant",
+    "Luxury",
+    "Premium"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3500,
+      "sha256": "8919e933c1b9f798c967d1fb74f4d11eb836edbe3186a2c6a69855a2120a7222"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13332,
+      "sha256": "456b6ca972255dcf3339ad08181ed6d691b919b7576c44d94d057bd39f44b7e6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 696,
+      "sha256": "bbe8af8851a361f46a47aaee01fb705afb5e1c5c9f171ee04455c7af1a31ed14"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26783,
+      "sha256": "3d43c0fe9d1a9ae32d89e28ebd1362600589951f7bb14fc0b13e5b532e2ea0af"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "services",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

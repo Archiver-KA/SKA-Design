@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01843",
+  "title": "Customer Stories Video Grid Section",
+  "summary": "Full-width hero section with backdrop image, heading and subtitle, followed by a responsive 3-column grid of glass-blur video cards. Each card shows a customer thumbnail, play overlay, progress bar and details. Built with Tailwind for landing pages or case-study showcases.",
+  "tags": [
+    "section",
+    "grid",
+    "video",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 63300,
+      "sha256": "6f911739314200e70621c13106da39ac0851f2759e979e2d5818e2d1c4a87745"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13259,
+      "sha256": "34b733979d7c61bbf1368c450b10e5b5c57e06aa2c6e69a93acf4a560691a352"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14245,
+      "sha256": "c94dcb921923fa9f0058aa47a251b2516da01ee747663b87df2c7468b5c91afe"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

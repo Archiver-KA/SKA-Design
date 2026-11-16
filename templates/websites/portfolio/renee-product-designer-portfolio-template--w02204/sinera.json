@@ -1,0 +1,84 @@
+{
+  "id": "SN-W02204",
+  "title": "Renee Product Designer Portfolio Template",
+  "summary": "A clean, minimalist portfolio template designed for product designers and UX/UI professionals to showcase SaaS, ERP, and e-commerce projects.",
+  "tags": [
+    "Portfolio",
+    "Minimal",
+    "Clean",
+    "Technology",
+    "Resume",
+    "Animated",
+    "Graphic Design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3364,
+      "sha256": "55265e2545165ad3a4bebe09375e5d4f0a1927e5c3e294fab2ecde9806affb7c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 23726,
+      "sha256": "82e3c6f4f8e9c6faa3baaf13d3712df980dc5439826e70c7c736555ee8306e3a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1457,
+      "sha256": "c0024d4cc8bf823c75651121432b4c254865eb8e4c2233d25eeed28f033b1a75"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 343,
+      "sha256": "ab53b1119aad506f7c5cbfb332779988a88455699eec54064d491ff89443233e"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 330,
+      "sha256": "726e090709817f30dbafeaf274d872e720fdd4695ffcf308935b9ba1cbd9c2ab"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 330,
+      "sha256": "c2a62b66cc19fb3418471b2cd5398e6059c370d8b6755d4190d87541daab7c4b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20845,
+      "sha256": "6e5914422ef6962a4cf41f227fd4109fcc46f56c1b4212e14d02d90b540858a2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "3d-canvas",
+    "navbar",
+    "hero",
+    "auth-form",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

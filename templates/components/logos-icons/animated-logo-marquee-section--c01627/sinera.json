@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01627",
+  "title": "Animated Logo Marquee Section",
+  "summary": "A full-width dark-themed trust section featuring an infinite scrolling logo/name marquee with hover pause, faded edge masking, and responsive spacing. Built with Tailwind CSS and custom CSS animations for brand, partner, or client showcase use cases.",
+  "tags": [
+    "section",
+    "tailwind",
+    "animated",
+    "marquee",
+    "logo",
+    "responsive",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2658,
+      "sha256": "f24702af7ad99ef070f997ac4a6ed689d0484c67b84cc6160f43babf0ff87ddd"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5276,
+      "sha256": "dfe43d1d68a046fdf36e95c81bb9b4bcc700c91b6b8bd3ee29a3799224f9cb8c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6126,
+      "sha256": "d6e3c1053b95a57de1f7d034f294f1a0e956504d8193a3bb9dc3b679d10b10d9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

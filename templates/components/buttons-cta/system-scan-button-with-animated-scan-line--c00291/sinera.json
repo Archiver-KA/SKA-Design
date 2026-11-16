@@ -1,0 +1,41 @@
+{
+  "id": "SN-C00291",
+  "title": "System Scan Button with Animated Scan Line",
+  "summary": "A stylized button labeled 'SYSTEM SCAN' featuring an overlaid scan-line div for potential animation effects. Suitable for dashboards, security tools, or system utilities requiring a prominent scan action trigger.",
+  "tags": [
+    "button",
+    "interactive",
+    "animated",
+    "css",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3204,
+      "sha256": "0793a675a50a54b05ecace95198c08fd567590509b2b7e68eb1261df9f7d8328"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3384,
+      "sha256": "4fc7c36dff8ae5decab834f6eb40ff792f3eddc99eaa23f1bcfb006af9130d47"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4247,
+      "sha256": "6f58dfd40967488607734dfcb7e5121c216099564198f5e69f969302d81a7c16"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

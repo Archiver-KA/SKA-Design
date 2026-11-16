@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01403",
+  "title": "Hero Section with Social Proof & Dual CTAs",
+  "summary": "Responsive hero section showcasing client avatars and 5-star rating for instant social proof, bold headline, supporting copy, and primary/secondary call-to-action buttons. Styled with Tailwind CSS—ideal for SaaS or marketing landing pages seeking higher conversions.",
+  "tags": [
+    "hero",
+    "landing page",
+    "tailwind",
+    "social proof",
+    "cta",
+    "responsive",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20214,
+      "sha256": "82a41a8d156ccabb55633809c998aedafe6de9488e1dd30413e472c5a44bd783"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6187,
+      "sha256": "70ae810f4bf41df583c7f3e9cd246b6366979179eaaccabf0cf804afd215b6e2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7184,
+      "sha256": "8af041c643629cbe20bb3b65f2d4ff213f9001f82b04bf25f03e7afd2f6cccff"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

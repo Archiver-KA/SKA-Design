@@ -1,0 +1,71 @@
+{
+  "id": "SN-W00166",
+  "title": "AI Testing Cohort Landing Page Template",
+  "summary": "A reusable landing page template for promoting AI testing volunteer cohorts and instructor pathways for education and career accelerator programs.",
+  "tags": [
+    "Landing Page",
+    "Education",
+    "Technology",
+    "Dark",
+    "Gradient",
+    "Brand",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3651,
+      "sha256": "839ab979358957e53b5739a8fe739ec515acf58472ddb0f812500c8de7f61b65"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14858,
+      "sha256": "0ded711ea99e9dcc483e136916fdcd3cb6e614a12dfde152be79f1e76494cbbe"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 879,
+      "sha256": "55b7ecb4e526ddc61ac354e666f965980c77d21b97fe494694d6cab7a06b7413"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1979,
+      "sha256": "27b3e9d091f2a08ce60d561f73db48463e53dd88174cc1d63c9597ce267bb815"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31915,
+      "sha256": "9775cf257f58fe6680d88f97d143d744f61edb744fd5031bfbfa019748c8946c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "benefits",
+    "features",
+    "team",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

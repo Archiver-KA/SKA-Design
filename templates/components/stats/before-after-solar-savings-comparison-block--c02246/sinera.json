@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02246",
+  "title": "Before/After Solar Savings Comparison Block",
+  "summary": "Responsive comparison block showing before/after yearly electricity costs and CO2 emissions with an animated gradient arrow. Uses Tailwind-style utility classes and hover animations to highlight solar savings and environmental impact.",
+  "tags": [
+    "card",
+    "comparison",
+    "stats",
+    "animated",
+    "responsive",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15254,
+      "sha256": "76afc3d7f102f291ed7a9d7b84b087be26ba0f4a56fde60bd942aa451837ca73"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4146,
+      "sha256": "cd60aa55483f6b6ac46b0eac06295fe407fb10719d7804a249d397806a65cb1d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5010,
+      "sha256": "e8ed5f18ede68b1c454712a1bd59bdde72231ecbe1b26afe86329c7f4d62c2bf"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

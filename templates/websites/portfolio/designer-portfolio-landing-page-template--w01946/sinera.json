@@ -1,0 +1,158 @@
+{
+  "id": "SN-W01946",
+  "title": "Designer Portfolio Landing Page Template",
+  "summary": "A modern portfolio landing page template for interface and web designers to showcase projects, skills, and contact details with a clean, animated layout.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Minimal",
+    "Clean",
+    "Large Type",
+    "Technology",
+    "Brand",
+    "Animated",
+    "3D"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3985,
+      "sha256": "2b30dcef5319dca7ebb848620604d3e0483a6358e20ee98a40d38fa256c3dc21"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18894,
+      "sha256": "74055dc9f3cbd62f9b492aba9263cd18141a7578e26c81a23b96b936d5dfceda"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 4200,
+      "sha256": "4b220f7e4ab330c0a9cf9f7d878192c5fb1ccea594503f60597581bc4a6984ec"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 245,
+      "sha256": "8e3dd4f5176e6de562f6442b8c89bfd722e7e58453c55f71777cdcae2e7641ad"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 493,
+      "sha256": "9bbbc478a4472855a1b5466949814dfbeec821b59d6a6ffc02c3f812f8dcf0c6"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 572,
+      "sha256": "47a2d3c14531bbe340a8b4a561ec93cc4a61b15353eb9e102d3c9bd5532273ad"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 334,
+      "sha256": "40f530cee7fc0a6f20f1607f0b4fc31c657ab93b0536e3ab035ec3ac68bcc069"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 319,
+      "sha256": "9217068954d065ff3d58e0e5a16f4ed93b429ecd2f98d3d17f596e2ac750674b"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 301,
+      "sha256": "3b2cc1df5866a41bcbe28e01607a82c2400f1728f6ca12d6c916c23fd841bb07"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 340,
+      "sha256": "0be7342a64952641ad871e0899f488f77c70ccea927e86f5793144510d49d823"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 1020,
+      "sha256": "bf12f84562cee714be91d793aadd771426f4bda3d6669657f05192f2a577cd92"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 366,
+      "sha256": "4472f03af1a666804693bc0812b2dffac60a97d23e712db9e8490c0f92cd81a3"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 871,
+      "sha256": "3cb6144fa861a6b6af456650776a619e132a3e4bca75bede7924662d763c7823"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 367,
+      "sha256": "64a657a3d9601fb63da3f831c126435e7191b61ae1a6d28cb8af1b760f734e91"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 269,
+      "sha256": "33b04bb1f24682e31956308e90a17e4e6bffd2801e7460142098c36021ba4c90"
+    },
+    {
+      "path": "images/embedded/embedded-0013.svg",
+      "bytes": 369,
+      "sha256": "abab431d3d001ce748e4e2936a7cbaf6e824f2dd3f91b489c2ced5dad18f5ff4"
+    },
+    {
+      "path": "images/embedded/embedded-0014.svg",
+      "bytes": 357,
+      "sha256": "76dc93c156ee447f0253f93db4b36e9341aba2f69743564ec48011c74a91045d"
+    },
+    {
+      "path": "images/embedded/embedded-0015.svg",
+      "bytes": 342,
+      "sha256": "93fd3776e266816940d35ba669727e648fbb6baebc86ea1249a946726cc9652a"
+    },
+    {
+      "path": "images/embedded/embedded-0016.svg",
+      "bytes": 490,
+      "sha256": "1b9bb2ae5d201e5e184cc4a1b96a3dc68094048ac6b3fa726614f4a559ac70e3"
+    },
+    {
+      "path": "images/embedded/embedded-0017.svg",
+      "bytes": 381,
+      "sha256": "c8a110fbfda12328dd8a2e553fd0500dc813763736ffa2d3acbd574b4f3fec30"
+    },
+    {
+      "path": "index.html",
+      "bytes": 77955,
+      "sha256": "d073dc0640027011c3368404a83844402736dc6959cfd914893c54f9e5a47b78"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "stats",
+    "case-studies",
+    "features",
+    "services",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

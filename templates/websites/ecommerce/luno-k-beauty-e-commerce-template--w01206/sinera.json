@@ -1,0 +1,69 @@
+{
+  "id": "SN-W01206",
+  "title": "LUNO K-Beauty E-commerce Template",
+  "summary": "A high-end, premium skincare e-commerce template designed specifically for Korean beauty brands and personalized routine building.",
+  "tags": [
+    "E-commerce",
+    "Technology",
+    "Clean",
+    "Dark",
+    "Animated",
+    "Services",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3600,
+      "sha256": "3f06764b6dd84fad9202634ba06832435afd28e0cb86e155e12de03b60bc8f3c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8462,
+      "sha256": "d8450f98e75b9794beb208eb5c370123b45e25dd46d1fd344e58819e57995c9b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 807,
+      "sha256": "8b33daff105415af72265754765c26da3ddabf54267d17b40d7a3f151e13103b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 109934,
+      "sha256": "42f7d30f032bb42900b0ec592beec230b2b757bf8b525b736eb20b128b5ea3b4"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "cta",
+    "stats",
+    "newsletter",
+    "footer",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

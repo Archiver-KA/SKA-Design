@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00654",
+  "title": "AI Studio Feature Section with Stats & Marquee",
+  "summary": "Animated feature section showcasing an AI studio with imagery, descriptive copy, performance stats, and a scrolling trusted-by logo marquee. Uses Tailwind-style utility classes, custom reveal animations, and Iconify icons for modern landing pages.",
+  "tags": [
+    "feature",
+    "section",
+    "landing",
+    "animated",
+    "responsive",
+    "tailwind",
+    "marquee"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 28662,
+      "sha256": "9aa219c41faa3f901c4f69633a728700f99e297bb3f4205e4126e55f00441c0a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7923,
+      "sha256": "38216a96e6b8d68f6ffc928ef2db9aeeb0a33547eb91db39f61291e4620ea450"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8794,
+      "sha256": "e6a5c5fe18496125a4f424e65681e507815d40045307c46adc0ae7d087101626"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

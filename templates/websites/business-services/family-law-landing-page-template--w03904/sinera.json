@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03904",
+  "title": "Family Law Landing Page Template",
+  "summary": "A premium legal services template for family law firms to showcase expertise, build trust, and drive confidential consultation requests.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Large Type",
+    "legal",
+    "family law",
+    "attorney"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3751,
+      "sha256": "b9b5db67f2b70ca418fd74babcaf3122b054e5b185e026a4dd61da70e75d6d66"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16754,
+      "sha256": "5e4e946065f576a72651080de5b82e4c21f8915c1c42510d555a4d690c11fa02"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 727,
+      "sha256": "3cad2e031685cb0a4bb4b97d1b6979c609029d399e62b5e3b7efefe1e6305b5f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25115,
+      "sha256": "f8ad7a6955e4013a25ffbde74856e6f973daf7dc419dfc5ba5c81b154756d824"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "stats",
+    "features",
+    "team",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

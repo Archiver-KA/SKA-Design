@@ -1,0 +1,63 @@
+{
+  "id": "SN-W01816",
+  "title": "Artistic Horizon Hero Landing Page Template",
+  "summary": "A dark, cinematic hero section landing page template for showcasing artistic visuals, creative portfolios, or design-led brands with bold typography.",
+  "tags": [
+    "Landing Page",
+    "Art & Design",
+    "Portfolio",
+    "Brand",
+    "Dark",
+    "Large Type",
+    "Gradient",
+    "Minimal",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3314,
+      "sha256": "1b37114094230e432bdfc7b2e286139ca76440a77cc41fe810c9efbc69bf2082"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 28418,
+      "sha256": "786b9910471ddcee48f4b03389baf7736ba8ce48981037104f2724300aa00553"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 731,
+      "sha256": "b07142ac7f34760eed1800cf30d1702003519800ce8781e9eea49808c3e802b4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14324,
+      "sha256": "4d4b4145877e52391444031e6ca1f666839fb9d008783bbab184e17b970be633"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "snippet",
+  "components": [
+    "navbar",
+    "hero",
+    "testimonials"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02253",
+  "title": "Clinical Stats Section with Highlighted Metrics",
+  "summary": "Responsive statistics section showcasing three key metrics with headline, supporting copy, and CTA button. Uses Tailwind CSS utility classes, card-style layouts, and grid-based responsiveness for presenting clinical or product performance data.",
+  "tags": [
+    "metrics",
+    "tailwind",
+    "responsive",
+    "marketing",
+    "cta",
+    "dashboard",
+    "section"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 30202,
+      "sha256": "d86fed505b138f32352e9b733216d09fcef37b53ac8eb1db25e678d597e22fa7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4834,
+      "sha256": "daabbfeac7d6589621efdccf9bb79bb0c02df842c31d6042cc6bc2b01c18d260"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5702,
+      "sha256": "4cd2a3f01bb8e2339e10ec4b5fb82f2958008f6704706adf5da0cb836ccc80fc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

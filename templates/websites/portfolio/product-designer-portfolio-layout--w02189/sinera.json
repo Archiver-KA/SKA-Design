@@ -1,0 +1,115 @@
+{
+  "id": "SN-W02189",
+  "title": "Product Designer Portfolio Layout",
+  "summary": "Responsive portfolio UI with hero section, navigation menu, and animated download button using Tailwind CSS and SVG icons.",
+  "tags": [
+    "Portfolio",
+    "Hero",
+    "Navigation",
+    "Tailwind CSS",
+    "Responsive",
+    "SVG Icons",
+    "Animated Button"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3787,
+      "sha256": "c70b6b8e9aa17258a2a06d4bde19affd6a303ed3d7dde154671fa0aa10c31fef"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10786,
+      "sha256": "92383f787380f50de5923d9c4827be5d1f59952d3d5bee976855582a1fe509a0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2857,
+      "sha256": "7f0015e8b47708fd839bbf42821eb1902e9a9405df9d9170a4b5cf7bcffa3651"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 359,
+      "sha256": "a16cadb1c6b54aabebc27ea4f2e314393de4690ffa2e22ff7b6625648e5e3185"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 431,
+      "sha256": "14b6f1c58ac7d8ccd9d8118572a44b286b0d4674e79cb1deca128b1d85039b1f"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 406,
+      "sha256": "797412c1ab91a5c30bc283442d73ecbf8a8a97765cd0cba1ab6de307ae8cb287"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 344,
+      "sha256": "5a83032c38844b79bc952da4262ae704eaaae7aeff30d5fc3dfca9b86ed719a3"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 344,
+      "sha256": "53bde69a69a12326f0fe7f4c3b1094bd4428b9d9fa69028401dffc285bd76872"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 416,
+      "sha256": "c35e0ce7b021832a0e661b1f7b92149a93d6073ccde6752822f9a049ab5dffa7"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 498,
+      "sha256": "884487e70241d11d9f930491f3f1b7ba8a1c1131c1283e92331dbf3b7c3da86e"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 456,
+      "sha256": "dd02eb72914e08a5e97cbc59d27cd69ed27517d914e0cebeccc0ee14b9941ff0"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 427,
+      "sha256": "9f69441a18555fc92f550fc4c4513b707f8f7b4869813ebb6abadaff67a8e64d"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 486,
+      "sha256": "0be1b2d94eed5ca092107029744d3ae697e4ba38e2777f9b46ce81b1c72b9429"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 577,
+      "sha256": "77cf5946a19d34e10738b48ff7205f02eaea6097e143d1ae55c67ab919f48762"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26048,
+      "sha256": "51bf7107a9fe86e18faa03dd3c58f8161176d49afe642386f1bd2c3e96e67dd6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

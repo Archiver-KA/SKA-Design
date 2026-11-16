@@ -1,0 +1,72 @@
+{
+  "id": "SN-W01892",
+  "title": "Creative Engineering Studio Landing Page Template",
+  "summary": "A bold, brutalist landing page template for creative engineering or SaaS studios to showcase process, case studies, and premium brand positioning.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Art & Design",
+    "Technology",
+    "Brutal",
+    "Minimal",
+    "Large Type",
+    "Portfolio",
+    "Creative Studio",
+    "SaaS"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3478,
+      "sha256": "7fec89ea75e03855fbe9b5331257ea8d30d8405dd4dd8a2d635d8841e6a46b9c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12760,
+      "sha256": "5509631b3a1fbfd0700f377bbc640cd33d08084fddd530b6af53e6e90ed1e166"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 877,
+      "sha256": "8a92e880d2995327f10b1514f82bdfac4fdb751262dffb5dc4f74d6161dbe1be"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30258,
+      "sha256": "5b08e76bcb09f25ba506128b741d3a26cb6e518b41f1284289abdea1ff53be3e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "case-studies",
+    "testimonials",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

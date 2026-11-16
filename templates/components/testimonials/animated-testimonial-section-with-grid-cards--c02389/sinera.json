@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02389",
+  "title": "Animated Testimonial Section with Grid Cards",
+  "summary": "Responsive Tailwind CSS section for landing pages featuring a hero header, photo+quote panel, and looping testimonial cards. Includes radial backgrounds, scroll-triggered fade/slide animations, and a grid layout adaptable across breakpoints.",
+  "tags": [
+    "testimonial",
+    "section",
+    "tailwind",
+    "responsive",
+    "animated",
+    "grid",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 42944,
+      "sha256": "28d7b662c7bc617d43a9ee499ccc784167d95df6072d2f69bea1add51650de8b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11076,
+      "sha256": "a2e91d5762fe9b0c912f458e02f61d6cee4aef605c07865bac0a6710ffb14031"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12071,
+      "sha256": "ccc65009fb4ebfff14515b043c272b3483c23b6226b30787ef7c6e788166e027"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

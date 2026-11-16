@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02249",
+  "title": "Circular Limit Progress Card (Donut Chart)",
+  "summary": "Displays a user's limit and usage percentage within a Tailwind-styled card featuring a multi-segment donut chart, percentage label, and options button. Great for finance or dashboard widgets.",
+  "tags": [
+    "card",
+    "donut chart",
+    "circular progress",
+    "dashboard",
+    "tailwind",
+    "widget",
+    "finance",
+    "progress indicator"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3842,
+      "sha256": "3c2bee3c3ecc97e0f8778c384791c9ab58ca6cd647be92f2bb27922431052537"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1736,
+      "sha256": "6313aa479878f750224417e533ab6e48e0487b5a6ce4481233853b0bcb0b24e0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2729,
+      "sha256": "0b0970e4b6918784b323a23076dd23863a86cc4ab621813d868da483e5de1d47"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

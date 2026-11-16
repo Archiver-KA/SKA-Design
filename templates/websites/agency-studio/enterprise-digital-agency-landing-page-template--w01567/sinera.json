@@ -1,0 +1,74 @@
+{
+  "id": "SN-W01567",
+  "title": "Enterprise Digital Agency Landing Page Template",
+  "summary": "A high-performance dark-themed agency template designed for digital transformation services and enterprise e-commerce solutions.",
+  "tags": [
+    "Technology",
+    "Services",
+    "Landing Page",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Animated",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3778,
+      "sha256": "6d45c301c1865ec1c93c0abfb717456f4947b575a54b6c4fdc120dec8d8f7629"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16134,
+      "sha256": "62c6d0b03f0b0fd30d5844c1ebbc8f9d7a1ce696df4c88b617697ef28cfe9db4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 886,
+      "sha256": "c9157d861a0150bbc5fa468f7b1ab8f029a460661ff245a38caf1d1d22353639"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 713,
+      "sha256": "6e2cff780f5b6720a8e240dd55b5610b51e5063dc2446dc35b0ee15ac25f1ba1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 43638,
+      "sha256": "0e5ec35384ed021fcaceb6cbeed1737b8ba1e701a6cd94924567a26d95a055b6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "services",
+    "features",
+    "logo-cloud",
+    "stats",
+    "cta",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01944",
+  "title": "Design Portfolio Case Studies Template",
+  "summary": "A modern Design Menu-style portfolio case studies template for showcasing web, branding, motion, and graphic projects with filterable, full-screen storytelling.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Technology",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3411,
+      "sha256": "fec65175cb62294262be238f4bdf8663d3996708887a3614b5e5b136aa48542c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10448,
+      "sha256": "c4b458ac9d05084de517625149883b65fb9f17812c93c6bb0ebda02153f89c1f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "5912a32958b1455045957aa2ab460064111e96283cc495ad62a76a17d28ecd49"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26746,
+      "sha256": "e91040f09fc904eaf3e638ae830ccd5a784a6bb8d4461eebe97db8185b786ec9"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "cta",
+    "menu-list"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "SN-W01323",
+  "title": "Specialty Coffee Shop Landing Page Template",
+  "summary": "A modern Kakou Coffee-inspired landing page template for specialty cafés and roasteries to showcase their story, menu, and online orders.",
+  "tags": [
+    "Landing Page",
+    "E-commerce",
+    "Food",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Coffee",
+    "Cafe",
+    "Restaurant"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3811,
+      "sha256": "38c1909dbc287b38bbef0f094a6cd7f3a5604b33fc5add18b24a1c7f38b0a235"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17568,
+      "sha256": "9e2cda3c7c76b1fa4448045e05c8d4759bd261edd9ce7aa4bcce13279d553c06"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 956,
+      "sha256": "ffac3ea3a200751b604a49500e56b5e2760ccff6c604cced0dab1555c55b4066"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "2771d904da1069eee4e129775bc50373fddc2137879cfa41a15c778169529399"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23316,
+      "sha256": "7fc1417b13e57c0471d669713228c7466b75932fc430ba6df9c1f9eabf19ce5c"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "about",
+    "how-it-works",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

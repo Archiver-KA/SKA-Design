@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01030",
+  "title": "Glass Morphic Contact Form",
+  "summary": "Modern glassmorphic form with icon inputs and integrated CTA button. Features responsive layout with desktop/mobile dividers and smooth hover effects.",
+  "tags": [
+    "form",
+    "glassmorphism",
+    "contact",
+    "modern",
+    "responsive",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5500,
+      "sha256": "2362f12e4c9b3e16d1d6d4c8669f0aa83a63b5a1f6e1dbdecb055a4060b4aad3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1708,
+      "sha256": "6c74ef804604b7596e4fa23eadc152f2bc0eb488d57b92329649bc38386f7f2f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2555,
+      "sha256": "d9ab8a0f1dd0156bce9b230d929f7cccc147bf0bcdeec616d534326519df6773"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

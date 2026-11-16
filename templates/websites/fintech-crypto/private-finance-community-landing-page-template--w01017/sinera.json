@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01017",
+  "title": "Private Finance Community Landing Page Template",
+  "summary": "A sophisticated, vetted membership landing page template designed for high-end professional communities and exclusive finance clubs.",
+  "tags": [
+    "Landing Page",
+    "Membership",
+    "Technology",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3794,
+      "sha256": "2a2767cf2cb9a03385cce473f11947ac9a6933c9b63a09264272a8a7bf305afa"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20032,
+      "sha256": "ae4e482b9c3c13da0569eeefe3cfc6f7df8dd0e8df6099f366945a975ae5c831"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "2d107600a4e08d4d533068bb6755df30251b5e93a192998a4da7aa3a722be0f2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30692,
+      "sha256": "f55f341db96c6a01da46ff23e6088c21cb3b79e7eb326f8f5e6066defe9fa06e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "features",
+    "map-location",
+    "team",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02207",
+  "title": "AI Revenue Forecast Dashboard Section",
+  "summary": "Full-width Tailwind-styled platform overview section showcasing an AI sales dashboard with sidebar navigation, charts, KPI cards, activity feed, and revenue forecasting visuals. Ideal for SaaS, analytics, and product feature landing pages.",
+  "tags": [
+    "ui",
+    "dashboard",
+    "tailwind",
+    "saas",
+    "analytics",
+    "responsive",
+    "feature"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 29056,
+      "sha256": "664b54d9acc024d38242f448635aa5c074182845e608518f457e61df5cd557b6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 38148,
+      "sha256": "2b42993c3e7523811ad05ee82545e19d748dd73926d22ec150a84be4e32bd400"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39006,
+      "sha256": "d541a9f722826340ca0754aeeb8111482b9392a82188e557e2d702b06ce03fdc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

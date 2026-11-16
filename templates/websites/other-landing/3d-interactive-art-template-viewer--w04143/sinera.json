@@ -1,0 +1,60 @@
+{
+  "id": "SN-W04143",
+  "title": "3D Interactive Art Template Viewer",
+  "summary": "Interactive 3D art templates with selectable designs, colors, and save options using Three.js and Tailwind CSS.",
+  "tags": [
+    "3D Art",
+    "Three.js",
+    "Interactive UI",
+    "Templates",
+    "Tailwind CSS",
+    "WebGL",
+    "Canvas"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2834,
+      "sha256": "dd11b58e9c90ea31ce2f94fe776d8537527cb33a817556879eebc994feb7bcbc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5104,
+      "sha256": "9f89a58dea58242434d367b5d3c1c0ce257e012de0123843b7175a9493acc763"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "1ccd2d29dbb4b3b73fc1732765431a8cb643b905ffdffe5744d2855cdac105e8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14738,
+      "sha256": "13069504f135bcb855a6abae946c8831b6dfc046ccc3bcc72812cbace6ae158b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "cta",
+    "3d-canvas"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

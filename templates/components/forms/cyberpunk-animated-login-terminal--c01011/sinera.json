@@ -1,0 +1,37 @@
+{
+  "id": "SN-C01011",
+  "title": "Cyberpunk Animated Login Terminal",
+  "summary": "Futuristic login interface with GSAP-driven cursor, waveform visualizer, scanline effects, and Tailwind styling. Includes identity key and access phrase fields, animated system meta HUD, and progress simulation for secure authentication experiences.",
+  "tags": [
+    "login",
+    "section",
+    "animated",
+    "interactive",
+    "tailwind",
+    "gsap",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6852,
+      "sha256": "7451534f190242da15d15a60c163d6214732af0950bbfa5033b98d3f65d48992"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8894,
+      "sha256": "71255fe10e1c44cf7b3d3d9e8c8fc283f8ed69074f3df55aa11141d886afd7cb"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

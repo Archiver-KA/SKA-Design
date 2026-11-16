@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00813",
+  "title": "Network Optimization Feature Section",
+  "summary": "Full-width feature section showcasing intelligent network protection with a dark UI preview, performance stats cards, recent activity list, and a feature navigation grid. Styled with Tailwind-like utility classes for gaming or VPN product pages.",
+  "tags": [
+    "feature",
+    "section",
+    "ui",
+    "tailwind",
+    "responsive",
+    "gaming"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14280,
+      "sha256": "06a2a4d03e8e267f24790fd2208e7cc9ee082e613721b395dd33ac4bf713dfa1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11139,
+      "sha256": "b2dd684ea1b9ea1b46ee843e2f02a1223e0027f4b798be876b3c6f4d8cf00618"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11996,
+      "sha256": "2c2bbabb15f2d6ac0bf96d206fcfc2fd3273b30c3b7dd2226df6dc603384514b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "SN-W01983",
+  "title": "Digital Design Studio Portfolio Landing Page Template",
+  "summary": "A dark, minimal digital design studio portfolio landing page template for showcasing work, services, and client-ready contact CTAs.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Brand",
+    "Services",
+    "Technology",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3148,
+      "sha256": "e65c26595c3dcab5ffbd0b03934be4250e50c462a7720dc02b3db6312f867914"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19342,
+      "sha256": "e724c7e121676cdd494671039720723a0bf31ed9c1e84a749670211fa752ce76"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 881,
+      "sha256": "38fd4849afcc8042b2fe91bc7b483b2c6bd364bfc56d1dc829937096ce7e8b17"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "2771d904da1069eee4e129775bc50373fddc2137879cfa41a15c778169529399"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20759,
+      "sha256": "fad75b1ec45cffd87174db81c9b27e38303ea54515070ee96d0aa3cf1e015bdd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "about",
+    "case-studies",
+    "services",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02196",
+  "title": "Project Dev Studio Landing Page Template",
+  "summary": "A modern Project Dev studio landing page template for showcasing web, mobile, and desktop development services, portfolio projects, and tiered pricing packages.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Portfolio",
+    "Stripe payments"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3468,
+      "sha256": "b65934fba37843ec67fa76b0f5444ad92c654054322d9b271b1506251a3a0e9c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12318,
+      "sha256": "b124881993b9ec41c6d9ea21a5a98e4e17b4cf5675fb0f90ea0ad041409a6c8f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "7ae178115dbf05efdced3261a9b783d69ad12a8ab1f6703964bdd668981335c0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30644,
+      "sha256": "424e5189c3e7eddd3bd5a1b6aef00262ea5d8693d102cb323a85aab43a02763a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

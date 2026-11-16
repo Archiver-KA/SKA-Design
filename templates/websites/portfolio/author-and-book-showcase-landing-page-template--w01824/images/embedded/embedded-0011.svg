@@ -1,0 +1,20 @@
+<svg viewBox="0 0 340 220" class="absolute inset-0 h-full w-full" fill="none" aria-hidden="true">
+          <!-- rota -->
+          <path d="M120 150 C 180 150, 205 96, 258 88 S 300 48, 300 40" stroke="#6E86B5" stroke-width="2.4" stroke-dasharray="1 9" stroke-linecap="round"></path>
+          <circle cx="120" cy="150" r="3.4" fill="#6E86B5"></circle>
+          <circle cx="210" cy="108" r="3.4" fill="#6E86B5"></circle>
+          <!-- pin -->
+          <path d="M300 18c-8 0-14 6-14 14 0 9 14 22 14 22s14-13 14-22c0-8-6-14-14-14" fill="#5B7BB4"></path>
+          <circle cx="300" cy="32" r="5" fill="#14213D"></circle>
+          <!-- kutu (izometrik) -->
+          <g>
+            <path d="M52 128 L96 108 L140 128 L96 148 Z" fill="#ffffff"></path>
+            <path d="M52 128 L96 148 L96 196 L52 176 Z" fill="#E4E8EF"></path>
+            <path d="M140 128 L96 148 L96 196 L140 176 Z" fill="#CBD3DF"></path>
+            <path d="M96 148 L96 196" stroke="#B7C0CE" stroke-width="1"></path>
+            <path d="M74 138 L96 128 L118 138" stroke="#D9DEE7" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M70 165c3-5 6-5 9 0" stroke="#8FA0BC" stroke-width="1.5" fill="none" stroke-linecap="round">
+            </path>
+            <path d="M113 165c3-5 6-5 9 0" stroke="#B2A98F" stroke-width="1.5" fill="none" stroke-linecap="round" transform="translate(-9,0)"></path>
+          </g>
+        </svg>

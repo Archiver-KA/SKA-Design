@@ -1,0 +1,25 @@
+<svg viewBox="0 0 100 600" class="beaklet-pen" preserveAspectRatio="xMidYMid meet">
+            <defs>
+                <linearGradient id="barrelGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+                    <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1"></stop>
+                    <stop offset="40%" style="stop-color:#334155;stop-opacity:1"></stop>
+                    <stop offset="60%" style="stop-color:#334155;stop-opacity:1"></stop>
+                    <stop offset="100%" style="stop-color:#020617;stop-opacity:1"></stop>
+                </linearGradient>
+                <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+                    <stop offset="0%" style="stop-color:#ca8a04;stop-opacity:1"></stop>
+                    <stop offset="50%" style="stop-color:#fef08a;stop-opacity:1"></stop>
+                    <stop offset="100%" style="stop-color:#a16207;stop-opacity:1"></stop>
+                </linearGradient>
+            </defs>
+            <!-- Body -->
+            <path d="M30,50 L70,50 L70,450 C70,460 65,480 50,490 C35,480 30,460 30,450 Z" fill="url(#barrelGrad)"></path>
+            <!-- Cap -->
+            <rect x="28" y="50" width="44" height="180" rx="2" fill="url(#barrelGrad)"></rect>
+            <!-- Gold Band -->
+            <rect x="28" y="220" width="44" height="10" fill="url(#goldGrad)"></rect>
+            <!-- Clip -->
+            <path d="M50,60 L54,60 L54,180 L50,190 L46,180 L46,60 Z" fill="url(#goldGrad)"></path>
+            <!-- Nib (Hidden inside/bottom) -->
+            <path d="M40,490 L50,530 L60,490 Z" fill="url(#goldGrad)"></path>
+        </svg>

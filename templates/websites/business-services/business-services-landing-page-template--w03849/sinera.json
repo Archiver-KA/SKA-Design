@@ -1,0 +1,76 @@
+{
+  "id": "SN-W03849",
+  "title": "Business Services Landing Page Template",
+  "summary": "A modern landing page template for integrated office space, legal, tax, and business services providers, ready to customize for your brand.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Clean",
+    "Minimal",
+    "Brand",
+    "Large Type",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3698,
+      "sha256": "e2e2b872b0da5cefd0cc21df6a2bd4fdb9ef2f25bdbe7acf6decf4672ec9c3ef"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14030,
+      "sha256": "c0bc809299821349cb90e2adb4abc5c0a84978f76b507cb7d1197a4512c63f34"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1074,
+      "sha256": "88010a2a1a2e36db5be1493d50340240211114b933023517753b1ec9de8e73e7"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 383,
+      "sha256": "d597bebd6b3e334e962ba4feb12a6aecabeef6615eecf16b149256bb75078402"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 281,
+      "sha256": "673a6ced6e59a320ae00e07e78bd26d92ded2e806e0afee2e4315d3965abe9a9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35081,
+      "sha256": "bbdf8b5dc833204fc55f3db36522962feb5ac1c1f519e3505b676efc860cf0b8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "integrations",
+    "logo-cloud",
+    "cta",
+    "footer",
+    "contact-form"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

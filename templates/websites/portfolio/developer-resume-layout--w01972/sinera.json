@@ -1,0 +1,90 @@
+{
+  "id": "SN-W01972",
+  "title": "Developer Resume Layout",
+  "summary": "Responsive resume UI with sidebar navigation, profile details, and sections for summary, skills, experience, and projects using Tailwind CSS.",
+  "tags": [
+    "Resume",
+    "Sidebar",
+    "Tailwind CSS",
+    "Responsive",
+    "Profile",
+    "Navigation",
+    "Web Development"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3058,
+      "sha256": "dac3f8ed213745acaff11d3291515f304523b3e078cbc05158586a3ca75b07f8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 32184,
+      "sha256": "be43c9dd593c7b39d61b95ad1be2c8ae91bff1661967c27d4b545827b1698520"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1830,
+      "sha256": "8ba1d3751e60e27d095a4466eccbc949bca5004112f44f20192590a818252d2f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 792,
+      "sha256": "cc7d940e50da7d870eb6b7f2883b99519f7256d063002ee91364fdbbebc9499e"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 402,
+      "sha256": "91b0cc4f14824261ea93f1986e1567b0dcbd02f63c14a15b12ba9f314c3bc00c"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 583,
+      "sha256": "5d2954b3bd12ec215b651292647032cda88bdd8363efe7bbb4895783ef70985a"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 262,
+      "sha256": "10bb1c890a46b9b2d1afdb403c06f35ea81707cb58049858c1a26d75f2f1896e"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 375,
+      "sha256": "d081cdb2a6250fddd0490f59b23398299e4453e0f000d540f0a7b45b763edddf"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 352,
+      "sha256": "732181fc85ea6e5fa30438f13c21296aaff67395c3adc21f7339c3460e07d621"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13523,
+      "sha256": "79913ae337cc615d401293ec1f572349eaa78730161da07877438777f6af7f04"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "modal-overlay",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

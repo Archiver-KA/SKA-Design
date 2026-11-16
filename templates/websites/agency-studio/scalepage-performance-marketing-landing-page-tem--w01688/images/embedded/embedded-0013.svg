@@ -1,0 +1,18 @@
+<svg class="w-full h-full absolute inset-0" style="mask-image: linear-gradient(to right, transparent, black, transparent);">
+                            <!-- Path representing User Journey: Ad -> Site -> Sale -->
+                            <path d="M100,150 C200,150 250,100 350,100" fill="none" stroke="currentColor" class="text-neutral-700" stroke-width="1" stroke-dasharray="4 4"></path>
+                            <path d="M100,150 C200,150 250,200 350,200" fill="none" stroke="currentColor" class="text-neutral-700" stroke-width="1" stroke-dasharray="4 4"></path>
+                            
+                            <!-- Dots -->
+                            <circle cx="100" cy="150" r="4" class="text-blue-500 fill-current"></circle> <!-- Ad -->
+                            <circle cx="350" cy="100" r="4" class="text-emerald-500 fill-current"></circle> <!-- Sale -->
+                            <circle cx="350" cy="200" r="4" class="text-emerald-500 fill-current"></circle> <!-- Lead -->
+                            
+                            <!-- Animated Packet (Traffic) -->
+                            <circle cx="0" cy="0" r="3" class="text-white fill-white">
+                                
+                            </circle>
+                            <circle cx="0" cy="0" r="3" class="text-white fill-white">
+                                
+                            </circle>
+                        </svg>

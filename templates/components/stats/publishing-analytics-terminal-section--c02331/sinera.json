@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02331",
+  "title": "Publishing Analytics Terminal Section",
+  "summary": "A full-width Tailwind CSS analytics section showcasing deployment performance, CDN status, metric bars, and terminal-style build logs with glowing visual effects. Ideal for hosting, developer tools, or SaaS landing pages.",
+  "tags": [
+    "feature",
+    "section",
+    "tailwind",
+    "analytics",
+    "terminal",
+    "dashboard",
+    "dark",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13362,
+      "sha256": "69dab44f34f4b08b759a6ee31be753d19881f213fc9429978efe0d812cf50d3a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10391,
+      "sha256": "4afbb6d9db2dc3c1b8d4370bdc1a0aaa6541a4b0555ed4e64ef82489a610c981"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11249,
+      "sha256": "c500d08ba9062b5d018e5dfd1af8382154f0f889b8f8aeaaac462a0f0323128f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

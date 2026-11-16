@@ -1,0 +1,67 @@
+{
+  "id": "SN-W00206",
+  "title": "AnteGen.AI Compliance Landing Page Template",
+  "summary": "A conversion-focused landing page template for AnteGen.AI-style compliance intelligence platforms, showcasing traceability, invariant logic, and demo booking CTAs.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Audit",
+    "Compliance",
+    "Security"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3830,
+      "sha256": "f07b5433b9631160d891667658d933b890ca3a28d7deb2f8b81d576a6a893d2a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21758,
+      "sha256": "fff7395a57c1c0bc65438e63be0e104ff4cd2703434d4981dff9748206b539b9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 820,
+      "sha256": "c4edcbffe7a538c3252a42cea50be8c1e0e82415f41b652d80506a3f89bc47d6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27100,
+      "sha256": "5594c05c830e26d557441d658a9d1c5bdafb950d680828e01d3bcbbd45fefcd7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

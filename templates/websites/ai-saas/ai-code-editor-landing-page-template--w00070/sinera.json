@@ -1,0 +1,66 @@
+{
+  "id": "SN-W00070",
+  "title": "AI Code Editor Landing Page Template",
+  "summary": "A dark, futuristic landing page template for an open-source AI code editor, perfect for showcasing developer-first features, community, and beta signups.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Developer Tools",
+    "AI Code Editor"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3584,
+      "sha256": "64754b48ab964b98c4cebee1bbfc00f8161541e17b8983b9f46f116f3f67a71e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12992,
+      "sha256": "60a8f7d69aaf5cf5a94d104c95104bbfa74601e4da3922f1d46ee894f29134fa"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "07015f8a5482db6beee9e1c651675d11af62adce625c7a30ce6b709d01d7934e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25004,
+      "sha256": "4dc62953dde6d3d173b228d653525b383c5840d4fa6ec19dddfb10a945bf06b4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "features",
+    "code-terminal",
+    "pricing",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01109",
+  "title": "Barber Shop Landing Page Template",
+  "summary": "A modern dark-themed barber shop landing page template for showcasing services, reviews, and location details with clear calls to book appointments.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Barber Shop",
+    "Local Business",
+    "Grooming"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3424,
+      "sha256": "22ba50eb644f35a103660c1beb1508b60c53da7de36875739d363958e95ee56d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13974,
+      "sha256": "53c396889d1d6a15715d932df682b83416d4c5e9a00f89094c0431ea163ca158"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "d42daa94b96bfa20a6e12cbc60ce8386ec93634a5756c33b52858738e7be2ede"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27216,
+      "sha256": "996bd4779667d2cf369b16549e86fc2c6e39ddf67ef2d62055b38b4ec1dd75d3"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "team",
+    "about",
+    "services",
+    "testimonials",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

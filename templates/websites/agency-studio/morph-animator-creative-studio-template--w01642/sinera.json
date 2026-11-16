@@ -1,0 +1,83 @@
+{
+  "id": "SN-W01642",
+  "title": "Morph Animator Creative Studio Template",
+  "summary": "A professional frame-by-frame animation tool template designed for building interactive drawing and motion graphic web applications.",
+  "tags": [
+    "Technology",
+    "Art & Design",
+    "Portfolio",
+    "Dark",
+    "Clean",
+    "Animated",
+    "Services",
+    "Graphic Design"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "react",
+  "entry": "package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3493,
+      "sha256": "0783b9ed121960b9730f7d480da4075d41e169017b20024db30d51caa2ce7541"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4360,
+      "sha256": "6684e83b17fad86c225cac2da068aa99c77f11804cc269f2c2b3fc170cb65328"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "8c8b915d63289c81eae485ac69443243fdc5ff1335380c6e3678128c6c798933"
+    },
+    {
+      "path": "index.html",
+      "bytes": 416,
+      "sha256": "227b52c5ca6bab1553d5e17e123ae9df06d88db533b4fcef7a6a74eefbdbb144"
+    },
+    {
+      "path": "package.json",
+      "bytes": 565,
+      "sha256": "1db4e53286be5cb7a9d94a2a31ab41215b310bf657c743414417d63d9de1e951"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 40243,
+      "sha256": "5c2b052de37997ca59c12ab2ebb7d59965b51915bd128ff6bbe82249bd39bee5"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 574,
+      "sha256": "3c39abc9c0da1179146c209fefb9ed01f5504d789bfba65a6c174fd73cb876f0"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 306,
+      "sha256": "04d80b01430e166b1ade9be1daeb8f0bbaff7b2c075129d6f0b9816c851629f3"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 256,
+      "sha256": "550bbeabd47f64738c3b2293fcd2ce43b34c382a0fa83169079c6bdf408252d4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01398",
+  "title": "Hero Section with Feature Cards",
+  "summary": "Eye-catching hero section with gradient text headings, descriptive content, and three feature cards showcasing product capabilities with status badges and imagery.",
+  "tags": [
+    "hero",
+    "gradient-text",
+    "feature-cards",
+    "responsive",
+    "cta",
+    "imagery"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 46572,
+      "sha256": "bcd009fc5785ed54bb127e64eb97ab1916eac96d9dec2f9a9de6c38ba75740b6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7495,
+      "sha256": "11074b4511df10318761a6dcc65796229bc1e76339c3e866304e5a5619e21dda"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8347,
+      "sha256": "0eb81260632d3d3a3bad340e4948cff973b1636e889d67975910526961a22934"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

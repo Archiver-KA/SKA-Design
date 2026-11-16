@@ -1,0 +1,37 @@
+{
+  "id": "SN-C02242",
+  "title": "Animated Telemetry Dashboard UI Section",
+  "summary": "A full-screen futuristic dashboard section with a bold telemetry headline, animated SVG traces, WebGL visual panel, and metric cards. Built with Tailwind CSS and Iconify, ideal for hero-style product showcases, monitoring interfaces, or tech landing pages.",
+  "tags": [
+    "ui",
+    "tailwind",
+    "animated",
+    "dashboard",
+    "webgl",
+    "responsive",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12296,
+      "sha256": "d6777928c2abf4774610edc185abd447c5d5d8185198adf18a3f47de52b7d97c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14913,
+      "sha256": "692f15ccade11d9dd5dad4856f54b378490c0a5dfb61e50fd2ffe78a96bd135f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

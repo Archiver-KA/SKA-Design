@@ -1,0 +1,105 @@
+{
+  "id": "SN-W04285",
+  "title": "Sidebar Navigation Layout",
+  "summary": "Responsive sidebar navigation with workspace and favorites sections, user profile, and mobile toggle using Tailwind CSS.",
+  "tags": [
+    "Sidebar",
+    "Navigation",
+    "Responsive",
+    "Tailwind CSS",
+    "User Profile",
+    "Mobile Menu"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3129,
+      "sha256": "555205b0b8c9a013a4eb3dde70f9f6c03c3b216a0aac4450bda29b9e40889325"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9054,
+      "sha256": "a1c6c60758e734f76a9e2306ec35c0d45ce1ef2d057f54c3716b7e882f728052"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2459,
+      "sha256": "dffa22531cb0f9914e71594f0277bdd10064ebc2e0840bd46209e88e4d1ebb39"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 264,
+      "sha256": "0e89a1cd201e78177e95b67ea3a4fd49ae597b00355ba382ed1332666f32a9b9"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 463,
+      "sha256": "d2cc10058cb8b3337511b73965b50b2306f990ab318a936f9131a3faa1b002aa"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 269,
+      "sha256": "05d88d91ea314893f6c548e3d49dccf042c0505f3274556f4abcd0160d8eed23"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 510,
+      "sha256": "4f040b62736d28eeb13167181a1a7813780a11cc7b368ecb750531a783ec2f15"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 495,
+      "sha256": "6455a85c4474a5950df54f24243222d6ea0207857ba5c25e815c823e6dd1246d"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 503,
+      "sha256": "0d99c87a878a2832c40809dabcbaa27f64a58824e202d2be203e4c055143e30d"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 491,
+      "sha256": "f5a5e7eec812e23a4f7435baea5021b016e9bc0dbb12f9849ba42e00bdf589ee"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 318,
+      "sha256": "3707fc69891663d02572b0947ce9a04edc707d62c39074e1ef102d6ec9e6a5ff"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 388,
+      "sha256": "8a1b462b73cdcdb58ef43a3c5f681bee42f92d3f6f0a97fe5a3d3d06ee7ffda9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10113,
+      "sha256": "aafd92a4907bafe4ed07d9d47bd5d8bcd5cc99b030f90f47dfb1d1b30905ecda"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "navbar",
+    "team",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "sidebar",
+  "design": "DESIGN.md"
+}

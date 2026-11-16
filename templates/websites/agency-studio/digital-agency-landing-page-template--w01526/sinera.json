@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01526",
+  "title": "Digital Agency Landing Page Template",
+  "summary": "Premium dark-mode digital agency landing page template for showcasing services, expertise, and capturing project inquiries with a bold, conversion-focused design.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3460,
+      "sha256": "4c36475f9514e328a2794d255534c2277513c10f1c64d82f56de78673cd720a5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10596,
+      "sha256": "1cb5a4888354b6bb47ca19c8875edfa55b1a1a2a48216484ee9ce5e2df85f2fb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "ebebdcc2c51dea9a8e94347df7b8da681ed101f6775b29f3b79fb887aba4793f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31186,
+      "sha256": "6b4159c033ba27b010cea3159ef135e0e08b840a65e57407344794eb42e1a53d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "about",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

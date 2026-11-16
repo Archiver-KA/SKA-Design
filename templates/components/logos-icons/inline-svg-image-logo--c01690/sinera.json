@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01690",
+  "title": "Inline SVG Image Logo",
+  "summary": "SVG component embedding a raster PNG via base64 data URI, suitable for displaying a logo or branded graphic where vector container and fixed dimensions (100x40) are required.",
+  "tags": [
+    "card",
+    "svg",
+    "logo",
+    "image",
+    "embedded",
+    "base64"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4992,
+      "sha256": "22b45e8b1e162384f133b23ca31077593307a8482e66b11a8747959fc41dd503"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2041,
+      "sha256": "4fb835a42cfc88927aed59b0150945cf775d813b2ddf0ba84d753e73bfd821ff"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2926,
+      "sha256": "a782f7695c420158dec61c3a4f4898c074e9ec26422089bcad79e6bf38397bc7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "SN-W01732",
+  "title": "Web3 Agency Landing Page Template",
+  "summary": "A dark, futuristic Web3 agency landing page template designed to showcase case studies, services, and manifesto-style storytelling for crypto-native brands.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Portfolio",
+    "Web3",
+    "Agency",
+    "Crypto"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3605,
+      "sha256": "3e81ca35508153e21320017ccf695b0dff6f8214c664a8df7c810309ce2dc05a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1824,
+      "sha256": "1fdb74a229fce39551142c7ad3981d616da81c79b079489ff2c583654ff7b674"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 950,
+      "sha256": "be041a1e9076c178394f376be5257d0583025c15efe1ad0ca8d5176969e8f16d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "9c5328453024fb0f0d95b3cc31b5b67f1a720fd2de16a38048fd0c7ba113086c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31722,
+      "sha256": "4430fa1b06383821062d622905745d4a8c00918997b5fc2f74a43d24efb7454b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "stats",
+    "services",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

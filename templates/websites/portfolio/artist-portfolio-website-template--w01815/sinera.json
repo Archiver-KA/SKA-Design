@@ -1,0 +1,71 @@
+{
+  "id": "SN-W01815",
+  "title": "Artist Portfolio Website Template",
+  "summary": "A reusable website template for musicians and performance artists to showcase releases, tour dates, videos, and brand story in a cinematic format.",
+  "tags": [
+    "Portfolio",
+    "Entertainment",
+    "Landing Page",
+    "Dark",
+    "Minimal",
+    "Animated",
+    "Artist",
+    "Music",
+    "Video",
+    "Personal Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3325,
+      "sha256": "39788c516534527f855d133b2f34df2b3513d4947da86466c6379657433e132e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14812,
+      "sha256": "13492c2ec4b520af672c00ede64e410ed95c3da120c3a8c459594fd4987592f9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 867,
+      "sha256": "2ff6dbfa5232af5b4d09a08090014b1ca2c7860e388342efcc679c2e1803130a"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 456,
+      "sha256": "9a9c7b09e6cae0339b61f25665afc7d1bf51d8e91e280f39142eaf3341488315"
+    },
+    {
+      "path": "index.html",
+      "bytes": 178487,
+      "sha256": "9c3b2c6d979b06d0a57fbf7c6c0de9304df27be23d0873f0b7fb4c6627a64ac2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "listings",
+    "video-media",
+    "footer",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

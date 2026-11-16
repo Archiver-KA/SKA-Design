@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01392",
+  "title": "Hero Section with Badge and CTA",
+  "summary": "Compelling hero section featuring a status badge, large heading, description text, and prominent call-to-action button with icon and gradient styling.",
+  "tags": [
+    "hero",
+    "cta",
+    "badge",
+    "gradient-button",
+    "responsive-text",
+    "emerald-theme"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19392,
+      "sha256": "79ffb7bace61b819ca9a69bdea683bad0409ef9d3370dc3f93427fdc7a9f6a45"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1899,
+      "sha256": "ed71985469bb7ed2f74e672a4e7473a37194bd5f045af8a0739430b7469128a1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2751,
+      "sha256": "4c0a47b06b4f54306d26ba680294b6e510dc6ffcaa85d40829ffbfc7ae5a67dc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

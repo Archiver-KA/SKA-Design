@@ -1,0 +1,77 @@
+{
+  "id": "SN-W00791",
+  "title": "Vantage Point SaaS Landing Page Template",
+  "summary": "A high-contrast, brutal-inspired SaaS landing page template for precision engineering platforms, showcasing features, case studies, and product storytelling.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Brutal",
+    "Dark",
+    "Grid",
+    "Large Type",
+    "Portfolio",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3453,
+      "sha256": "58ccb22ec1abfb9efefe4da67153d74b87a77436bc1721495570733a9ac7e16b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18092,
+      "sha256": "492d9e0570820815f71e00c2cb0a4a520c7dfea41c770df88de127a903865b42"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1071,
+      "sha256": "7bcf7434f18a7e466f3455b2e94252add865545ad14c50a94e552ee581ed822e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 1865,
+      "sha256": "ace2a9d8b16b44bb3bfbfeb79657f568149b7bc26f7737b7f9dfacc0a2727e58"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33593,
+      "sha256": "8db8c292ee61d5c22368a22d7628e2e0bd0d1420a6c95bb946f2835a993007ac"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "bento-grid",
+    "comparison",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

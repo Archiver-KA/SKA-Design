@@ -1,0 +1,40 @@
+{
+  "id": "SN-C01751",
+  "title": "Responsive Logo Image",
+  "summary": "A responsive logo component that hides on mobile and displays on medium screens and larger. Uses object-contain to maintain aspect ratio.",
+  "tags": [
+    "logo",
+    "responsive",
+    "modern",
+    "minimal"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1436,
+      "sha256": "2477792451862c1439664703714ae4218edf630f668cc519cf20d1739c520086"
+    },
+    {
+      "path": "component.html",
+      "bytes": 231,
+      "sha256": "d537419f5225871ce5e37e711277a2243671b9b6e67ad8a07b5bf4be6ef04041"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1073,
+      "sha256": "263bbf70652860cdbf06e357eb1c459c19d52f1d9dde4ad44941b58b9868703d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

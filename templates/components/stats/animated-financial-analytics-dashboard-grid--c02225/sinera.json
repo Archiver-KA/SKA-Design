@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02225",
+  "title": "Animated Financial Analytics Dashboard Grid",
+  "summary": "Responsive Tailwind-based dashboard grid showcasing animated financial analytics cards (ROI, cashflow, engagement, conversion, channel performance) with SVG visuals, counters, and scroll-triggered looping animations. Ideal for analytics or SaaS product UIs.",
+  "tags": [
+    "ui",
+    "dashboard",
+    "analytics",
+    "tailwind",
+    "svg",
+    "animated",
+    "interactive",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 28592,
+      "sha256": "46f96644df8285a519da0fd0e3aa4cdd6807dd6f84a796d59e2e9979475f721d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 23043,
+      "sha256": "c6b4aff6a241a686d1ad9dd1140eba1c1480c85a1a8dc6e661f8c46ca7da7239"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23907,
+      "sha256": "5385ddf830c907fd8d9dd28b0858203abb9542de55fb768267066aaaac10b095"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

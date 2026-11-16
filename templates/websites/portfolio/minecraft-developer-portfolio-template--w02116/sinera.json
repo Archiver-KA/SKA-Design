@@ -1,0 +1,69 @@
+{
+  "id": "SN-W02116",
+  "title": "Minecraft Developer Portfolio Template",
+  "summary": "A high-performance portfolio template for Minecraft developers and server technicians to showcase technical expertise, custom scripts, and server projects.",
+  "tags": [
+    "Technology",
+    "Portfolio",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Landing Page",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3624,
+      "sha256": "cf20b28c816aef5a3a7f61be4c57ac5384a2be0ac10c662b9bf572f8fd2aadae"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14396,
+      "sha256": "a0bc03818ff6855751e6d32fa321fc4c1ada033e2cb85de0be3c43105a969336"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1291,
+      "sha256": "96ed3e6c9e9c8120d201c5a51c450c67664ddc132accef3154b72c98ce3b5694"
+    },
+    {
+      "path": "images/embedded/embedded-0001.png",
+      "bytes": 1431,
+      "sha256": "3b6dad587c3aba1d0b37b4f6a633e43a2e16c02aee365a90172dd680e559e64d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 51893,
+      "sha256": "38de3825de84767125db44d722a16bb254ab985c95e227343e849b67712ac7ef"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "how-it-works",
+    "gallery-portfolio",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

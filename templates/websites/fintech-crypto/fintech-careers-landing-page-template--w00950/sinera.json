@@ -1,0 +1,63 @@
+{
+  "id": "SN-W00950",
+  "title": "Fintech Careers Landing Page Template",
+  "summary": "A clean, brand-forward careers page template designed for growing fintech startups and financial service providers to showcase open roles.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3441,
+      "sha256": "c4cfd318f507e91fc9dc93a9f0b8066a3e8e9aef1038c3f5a2608ccf6c190f44"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17028,
+      "sha256": "bbdc7e6951b21bf49fab19340ec6e45e6f84038b632d5a125129c16602020668"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "707dcff6aa510c157761bb204fbda6803b1c313987cb2cf547813b59c716c6db"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31973,
+      "sha256": "a330238c8cc8a70cb2cc0b090dbae165cdd74f3bfb2ef185d05011c845f65431"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "team",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

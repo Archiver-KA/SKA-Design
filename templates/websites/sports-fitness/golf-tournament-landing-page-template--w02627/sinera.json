@@ -1,0 +1,72 @@
+{
+  "id": "SN-W02627",
+  "title": "Golf Tournament Landing Page Template",
+  "summary": "A premium golf tournament landing page template for promoting events, selling tickets, showcasing news, and engaging fans with a modern, immersive experience.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Entertainment",
+    "Clean",
+    "Large Type",
+    "Gradient",
+    "Sports",
+    "Event",
+    "Ticketing",
+    "Golf"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3695,
+      "sha256": "d45407023484171506beaf3fb024470c9629d48b9b682de00193582aed6b47d7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 38020,
+      "sha256": "2f8e2f6f440bcec0f38435f32a7ab7a87917c23f8205e49c8b13f51fd03a0ee6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 815,
+      "sha256": "a391ae8900952591f84d872fe219926c6ecc5a517a66639a61ca4ea293d89100"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35691,
+      "sha256": "905d334ce4c65c14bad01a5f58e62c7ed63c16a872a6d674a0d778ac80ee9431"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "testimonials",
+    "pricing",
+    "timeline",
+    "newsletter",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

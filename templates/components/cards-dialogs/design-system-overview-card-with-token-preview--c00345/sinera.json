@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00345",
+  "title": "Design System Overview Card with Token Preview",
+  "summary": "Dark-themed info card showing system name, version, description, color swatches, token code snippet, WCAG badge and CTA. Built with Tailwind CSS; ideal for dashboards or docs to summarize design system details.",
+  "tags": [
+    "card",
+    "tailwind",
+    "design system",
+    "color swatch",
+    "code snippet",
+    "dark theme",
+    "responsive",
+    "info"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10382,
+      "sha256": "26996ad574154421302c91bde7ee8855d28ffb4068f658fd9db7ebe9502f5c20"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3316,
+      "sha256": "d65dd904a69bc3179f2411eeebeb3fa392c33ba7a8bef59a20b9dc268abe1697"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4313,
+      "sha256": "04dbba3036e0cf9f72c3aff7514ff5e073b49bd5655da0e36c2d08eab54bd6fc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

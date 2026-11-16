@@ -1,0 +1,63 @@
+{
+  "id": "SN-W03868",
+  "title": "Co-Founder Matching Landing Page Template",
+  "summary": "A modern landing page template for a co-founder matching platform, ideal for showcasing startup networks, vetted profiles, and application-driven founder matchmaking.",
+  "tags": [
+    "Landing Page",
+    "Business",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3483,
+      "sha256": "4e66c3bade1f9c02bf4b15713228f7f4a2da2a36c9ce99facd1f9396ecbeb9ad"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13592,
+      "sha256": "ed35eed39afb9ccef589178884fc1f6a37e51a77f0a1f1fceeed2ad9ce3d5f76"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "eceb076e7905f523b5fb3fb225b2e9b3e21a4af669b771fdaeac96ba6f3a6dea"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28550,
+      "sha256": "ca3f48d90e72d368d5c4f16f15c026c029ab434c25c316dd1f56dc9e37142bc1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "team",
+    "testimonials",
+    "about",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

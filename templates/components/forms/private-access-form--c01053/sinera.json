@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01053",
+  "title": "Private Access Form",
+  "summary": "Complete intake form with text inputs, select dropdown, checkboxes, and gradient submit button for requesting access to private programs.",
+  "tags": [
+    "form",
+    "intake",
+    "signup",
+    "inputs",
+    "checkboxes",
+    "select",
+    "submit",
+    "privacy",
+    "registration"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12738,
+      "sha256": "fd55366d4f0b16679914e9821660ca7b0356d96e99aa96af2d2c9f48242e6063"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5942,
+      "sha256": "fa0ee12cb4987ee997f95eae905d7a2df7f9284a80f59e6419de33b34e8456f6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6782,
+      "sha256": "2b05760fd013e5fe3a25b7169bdc721cc2c374ee1645532b65efc96c3a2c240c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01131",
+  "title": "Coffee Shop Landing Page Template",
+  "summary": "A reusable coffee shop landing page template for cafes and roasteries to showcase their story, menu, location, and email signups with a warm editorial feel.",
+  "tags": [
+    "Food",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Editorial",
+    "Cafe",
+    "Coffee Shop",
+    "Menu"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3586,
+      "sha256": "2cb74c4ccb47ec5be9a6c6a8b77d0e812ca63b93d157bd180cb3b65c5d2bc4d2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10794,
+      "sha256": "24d4226c53507f6e5ee1a1307b05cdf72e5cd78606023b87a1cf1b81a9ef76db"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 806,
+      "sha256": "c4f404f5ff663f12e0c16389dd12955658b2648baaa0f269fcc510915db2c29f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23437,
+      "sha256": "841c5a390185c8e69bc26d91fa157171740ab1f8ebfda3c5ddc5af21a3ed2505"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "menu-list",
+    "map-location",
+    "gallery-portfolio",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

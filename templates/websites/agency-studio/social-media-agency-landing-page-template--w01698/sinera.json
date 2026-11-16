@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01698",
+  "title": "Social Media Agency Landing Page Template",
+  "summary": "A polished, conversion-focused landing page template for social media agencies to showcase services, case studies, and drive discovery call bookings.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Technology",
+    "Social Media",
+    "Agency",
+    "Marketing"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3659,
+      "sha256": "1139ce85f411eb4c34032b639cbe2b1d9a3ff5bcd0cad286f540bb302a71cb73"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18120,
+      "sha256": "d71b2917ed358e1b03a96a2905cf520e89fdc9a0fce2da082f9179d613a3cf91"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "1e065d0629f5b6d12c14e2378a0f7ece914980311bcbe3569b67f2222262d2cb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34361,
+      "sha256": "453a6d48ddb2bcea1b70ace81d336ee5cc38bad62107ddc94ebc1c57579565cc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "menu-list",
+    "hero",
+    "services",
+    "stats",
+    "logo-cloud",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

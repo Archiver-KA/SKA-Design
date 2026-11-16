@@ -1,0 +1,62 @@
+{
+  "id": "SN-W04338",
+  "title": "website",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3696,
+      "sha256": "705b6eaa07fe778d25c48375d9685c5ab3e9e5cad1b454d9bb92f49510e0bd8e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9476,
+      "sha256": "7c87f578c160d80ff3257f36ade179683aa3a75dd0ebdbbca24e2f55cdb22dde"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 843,
+      "sha256": "8274b9412522880bd169655debc8ba1a3306fadb3d031e7722b8645f493d8b25"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 216,
+      "sha256": "ed1fd64ea09f4570a38ff4d4f76cfce8f65be59d2f9a4ebc6958f8e7c58a81fc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 47128,
+      "sha256": "a541844dd16845c92b594809ecf9a8ab64afe50cb459cdcb7d04746b5195b9cb"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "menu-list",
+    "testimonials",
+    "gallery-portfolio",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

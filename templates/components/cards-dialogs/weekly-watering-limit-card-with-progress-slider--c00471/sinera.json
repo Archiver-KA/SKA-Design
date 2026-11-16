@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00471",
+  "title": "Weekly Watering Limit Card with Progress Slider",
+  "summary": "Tailwind-styled card displaying weekly watering limits. Features header, info text, horizontal slider with thumb, current vs max hours, estimated savings, and reference data. Suited for smart irrigation dashboards and IoT garden apps.",
+  "tags": [
+    "card",
+    "slider",
+    "progress",
+    "tailwind",
+    "dashboard",
+    "stats",
+    "responsive",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5784,
+      "sha256": "795fade0a9a39f167766441718aa6ba2ada64a84c6d06cb49fbbbd23009e3fe8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8063,
+      "sha256": "c5aaa48dd4565abc9244d29b0c73e87dc94c5b10407386934041ed62ff19aece"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8931,
+      "sha256": "c47b8fc93d11f873d142ac9759412960477b5b4cf5e30796ce03ed3d5381e1b7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

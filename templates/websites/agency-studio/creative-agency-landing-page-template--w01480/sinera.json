@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01480",
+  "title": "Creative Agency Landing Page Template",
+  "summary": "A bold, dark-mode creative agency landing page template for full-service marketing studios to showcase services, vision, and drive client inquiries.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Art & Design",
+    "Portfolio",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3519,
+      "sha256": "3a0de7e9c38294e092504b7bbdf974f0eb437c4d8ef43ea0f54bb34d58449d3d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13632,
+      "sha256": "29a06febb1b38d4875f307ffd450f537fd0d42bab3b9d16e8b2775fb37b02e73"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 871,
+      "sha256": "cf97192fe6cd11fda03f7d863507e9fab019fb47001969dbb3f90cfee2f8a663"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25499,
+      "sha256": "cb40885c0d4c637018be9e5078da052806befbdd36550f1508e9b2870d186795"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "bento-grid",
+    "services",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

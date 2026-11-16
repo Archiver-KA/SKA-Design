@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00252",
+  "title": "Primary Jelly Button",
+  "summary": "Animated button with jelly hover effect and customizable content. Perfect for primary actions like 'Order Now' or 'Add to Cart'.",
+  "tags": [
+    "button",
+    "primary",
+    "animated",
+    "jelly",
+    "responsive",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3368,
+      "sha256": "f9261fe0ee08871197d962548a20a0b765103bbd0830a7af27124438549ad589"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2029,
+      "sha256": "59f96eb3d6adf619ad51d1c1a28af2c1b712648cb1dea0671531423d793e3e61"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2870,
+      "sha256": "ddf5040f1103566f8e77f7c8d6e16214b211a00229e6f7108a6659a22b21cc2b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

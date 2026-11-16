@@ -1,0 +1,71 @@
+{
+  "id": "SN-W03889",
+  "title": "Electrical Services Landing Page Template",
+  "summary": "A reusable landing page template for electrical, air conditioning, and solar service businesses to showcase services, build trust, and generate quote requests.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Dark",
+    "Clean",
+    "Large Type",
+    "Blog",
+    "local trades",
+    "solar",
+    "air conditioning"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3786,
+      "sha256": "e671d7e57de104177ef4ac56a41ed743b7d490a1c634c847deb81e599a7646f6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15252,
+      "sha256": "68f2c9d704c8aa1fd2c5a0dd4cc3d733cac1a8105defe65761f59ae00eb986b5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "14dbfc561f7c87e9bc60132ccfa92ca77c56d2f48fd46e9babbc2f856196c315"
+    },
+    {
+      "path": "index.html",
+      "bytes": 62255,
+      "sha256": "47e53efebd72fc9828c03bfda690847aaf07e8b76c26f9060e7d203e1bd4750a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "how-it-works",
+    "stats",
+    "testimonials",
+    "logo-cloud",
+    "faq",
+    "blog-articles",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

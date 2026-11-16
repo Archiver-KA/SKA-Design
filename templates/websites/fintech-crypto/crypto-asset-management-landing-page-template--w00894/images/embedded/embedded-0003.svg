@@ -1,0 +1,21 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none z-0" viewBox="0 0 600 600">
+                    <defs>
+                        <linearGradient id="beamGrad" gradientUnits="userSpaceOnUse">
+                            <stop offset="0%" stop-color="#FACC15" stop-opacity="0"></stop>
+                            <stop offset="50%" stop-color="#FACC15" stop-opacity="1"></stop>
+                            <stop offset="100%" stop-color="#FACC15" stop-opacity="0"></stop>
+                        </linearGradient>
+                    </defs>
+                    
+                    <!-- Noodle connecting Math S=2piR to Center -->
+                    <path d="M180,180 Q250,250 300,300" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"></path>
+                    <path d="M180,180 Q250,250 300,300" fill="none" stroke="url(#beamGrad)" stroke-width="1" class="beam-path"></path>
+
+                    <!-- Noodle connecting Math xy=k to Center -->
+                    <path d="M150,450 Q220,400 300,300" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"></path>
+                    <path d="M150,450 Q220,400 300,300" fill="none" stroke="url(#beamGrad)" stroke-width="1" class="beam-path" style="animation-delay: 1s;"></path>
+
+                     <!-- Noodle connecting Bell Curve to Center -->
+                     <path d="M480,480 Q400,400 300,300" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"></path>
+                     <path d="M480,480 Q400,400 300,300" fill="none" stroke="url(#beamGrad)" stroke-width="1" class="beam-path" style="animation-delay: 2s;"></path>
+                </svg>

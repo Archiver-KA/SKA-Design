@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01790",
+  "title": "Anna gao portfolio",
+  "summary": "A bilingual product designer portfolio website template showcasing UX case studies, experience, and capabilities for architecture-driven digital creatives.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3483,
+      "sha256": "8406e925da9e576112336b7ea29f43cae050b29c34c558df701dcc68bd9c61f1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 25040,
+      "sha256": "0e08416b99a4f546abb6b21a5071cf101912eff3399de54e9941a54d7ccc69c3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 789,
+      "sha256": "bbd09c7e06a717b34e42278e2d9f7870ec04bbb194c4901c64a7661185bd2726"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42033,
+      "sha256": "7dc556101d1ae07c3b1d5bb58e1a101ad60a3218928672715c84b8798c0d078d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "timeline",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02214",
+  "title": "Analytics Metrics Card",
+  "summary": "Statistics display card with primary metric, growth indicator, and supporting data with gradient backgrounds and glass morphism effect.",
+  "tags": [
+    "card",
+    "analytics",
+    "metrics",
+    "stats",
+    "insights",
+    "glass",
+    "gradient",
+    "dashboard",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11232,
+      "sha256": "c0e1a78970e54f4ded7a0a5bd026a72a40628e2da392c443c0cd2d91f25cd6c2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4371,
+      "sha256": "32439a8c05021b161f19fadfa9120b82ed8b44eb474893380cc91c59c27922a4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5214,
+      "sha256": "778573d7f82f72103c98b7369f9f136f9ce1d46e199630dece3ecf581ca6e759"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

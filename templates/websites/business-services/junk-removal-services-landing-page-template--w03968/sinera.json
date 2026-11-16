@@ -1,0 +1,65 @@
+{
+  "id": "SN-W03968",
+  "title": "Junk Removal Services Landing Page Template",
+  "summary": "A reusable landing page template for junk removal and cleanout businesses to showcase services, build trust, and capture quote requests.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Business",
+    "lead generation",
+    "local service"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3584,
+      "sha256": "f2b240702a210489c797346e10a48ef694a6ec30af75113c5dcf41e4f9283c10"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18548,
+      "sha256": "40200bdee3fb4c001c201d955c73617f9a7fcfdf3250b8c0b9d8798e7dc63e83"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "9bf06a0e5031c9bd775640ee1fb8598bed8c8b45091ba364ec25a41b7f3d2229"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29619,
+      "sha256": "0a966fa8c16c3dc8efa0481f313392aa1eda7a37cd7b6d9350a1cf15021e628b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "about",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "SN-W03156",
+  "title": "Virtual Tour Agency Landing Page Template",
+  "summary": "A modern, dark-mode landing page template for virtual tour and 360° experience agencies to showcase demos, portfolios, and capture high-intent leads.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Portfolio",
+    "Virtual Tours",
+    "Agency"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3911,
+      "sha256": "d909896534783da089dcbd97f71605ecff62d2eca75b20e3ef2a5657db2dcba6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16094,
+      "sha256": "d43adde7b332140dba0c4478406448ee420d49c3bc3a2c3622ce9d87abb2bbc7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "a0745ea3157c4e8a5fc32ad960da43a96b1ba08b4bcb9d4c73109e6b524b4254"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29764,
+      "sha256": "29d5efcbc0c2b0e4eb0fec0bcc72ea1b6cd38d6a8bfb492f5bba90ab8e362e9d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "benefits",
+    "timeline",
+    "gallery-portfolio",
+    "logo-cloud",
+    "newsletter",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

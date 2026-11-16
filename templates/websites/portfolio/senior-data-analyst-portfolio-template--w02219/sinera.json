@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02219",
+  "title": "Senior Data Analyst Portfolio Template",
+  "summary": "A clean, modern portfolio template for senior data analysts to showcase experience, case studies, and contact details with a polished professional profile.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Clean",
+    "Minimal",
+    "Technology",
+    "Brand",
+    "Large Type",
+    "Resume",
+    "data analyst portfolio",
+    "personal website"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3476,
+      "sha256": "04a71d4952465636a3bb7bf14ccca861e0a6477e7d3beb2f0232496c1d036cb7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15560,
+      "sha256": "bd3c81c297a46d1878cd5dc780c48cdae092d3beca7c7da54b5530a7ab455b87"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "1c7637d3ef13fc5d40a4baff1f66bf12397830000009bbdbdbd54b21874bf73b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22743,
+      "sha256": "561004d5248fb538f08b9befc042928c18a3af16b2eb2cb0045693bf81a17cdc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "stats",
+    "services",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

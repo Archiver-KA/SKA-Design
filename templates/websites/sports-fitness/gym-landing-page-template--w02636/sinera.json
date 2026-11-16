@@ -1,0 +1,69 @@
+{
+  "id": "SN-W02636",
+  "title": "Gym Landing Page Template",
+  "summary": "A high-converting dark-style gym landing page template for fitness centers to showcase facilities, pricing, testimonials, and drive membership inquiries.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gym",
+    "Fitness"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3702,
+      "sha256": "b7b14bcdb05110fec385cd39f79040e55a15872ac5b466de221b19f8b53f5514"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15762,
+      "sha256": "7199eb3a167a0a8e76dfddd5d07f280b62499b765df27e78c73f318e4e0cf8bd"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 720,
+      "sha256": "2ffde8f951a88fbf91a0b7985fee664df5c86391f6f3997a803d94afb35cbb0a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32109,
+      "sha256": "0e49d6d71247c341071b2775b063b1f62685d06049bfee54bc144ce67b243903"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "features",
+    "pricing",
+    "blog-articles",
+    "cta",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

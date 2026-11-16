@@ -1,0 +1,41 @@
+{
+  "id": "SN-C00360",
+  "title": "Featured Property Card",
+  "summary": "A comprehensive property listing card with image, status badge, title, and description. Ideal for real estate listings, vacation rentals, or property showcases.",
+  "tags": [
+    "card",
+    "property",
+    "listing",
+    "ecommerce",
+    "featured"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15122,
+      "sha256": "2a5a1207e7bd36eb0f3f5b4a031c8c6e4c8067d7609153adf21f9887d40b1ac2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1446,
+      "sha256": "ba6b7606c480e4e374c38f43ce9dc52c53d3f96ac24eb283532d7d77fcee7621"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2289,
+      "sha256": "c8ed9bfc2d734a0ffa26bcbdc8e113a3ce8a355d8cbbb793a4be53542bb09bbb"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

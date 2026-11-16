@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01841",
+  "title": "Chain Links Spline 3D Background Embed",
+  "summary": "Embeds a Spline-hosted 3D scene via iframe as a fixed, full-screen background positioned behind other content using Tailwind utility classes. Ideal for adding interactive or animated 3D visuals to landing pages or hero sections.",
+  "tags": [
+    "background",
+    "iframe",
+    "spline",
+    "3d",
+    "embed",
+    "full-screen",
+    "tailwind",
+    "animation"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12426,
+      "sha256": "6e0ce5d7af314df8285c0c0e462fadeb8a754fed63d4cc2f50f3dafdb9e06092"
+    },
+    {
+      "path": "component.html",
+      "bytes": 231,
+      "sha256": "c735a065cabcb180e2f9dbb99634f447990876bde4ed145dc6380b179713081f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1090,
+      "sha256": "1f914821db99f3aa260610a77e3086d350bde79ed4541d0a8ba104162158fb21"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00818",
+  "title": "Philosophy Stats Feature Section",
+  "summary": "A centered dark-themed feature section presenting design philosophy with a headline, category labels, supporting copy, and three key metrics. Built with Tailwind CSS and suited for brand values, studio messaging, or product architecture overviews.",
+  "tags": [
+    "feature",
+    "section",
+    "tailwind",
+    "dark",
+    "stats",
+    "responsive",
+    "minimal"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15326,
+      "sha256": "3ca841953114cf1f0805994ab4f0afb617adf0ec2b24e88b4f378a33ea731a09"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2666,
+      "sha256": "b3f5261002ea9aa34fbb3d14a07d162b9229c9f05e10f32dffa77c1f26684f4c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3519,
+      "sha256": "a8efc7f4c034c2afb7378c5948e00f2dfbed411f83126ebbc69736b8ea09a85c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

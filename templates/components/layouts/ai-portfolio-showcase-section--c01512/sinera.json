@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01512",
+  "title": "AI Portfolio Showcase Section",
+  "summary": "Responsive TailwindCSS section featuring glowing backdrop, headline, CTA button, project info cards and image galleries. Hover effects, grayscale transitions and grid layout make it ideal for SaaS or agency landing pages to highlight AI projects.",
+  "tags": [
+    "section",
+    "portfolio",
+    "tailwind",
+    "responsive",
+    "gallery",
+    "landing-page",
+    "cta",
+    "grid",
+    "hover-effects"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 32056,
+      "sha256": "b4fc6f789436cce411e633223be482350f44678b70f01fd89b2617d3de13caa9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10912,
+      "sha256": "f69f3e00ac8242f9761f59ea935a3324095e451cddc323126075a92275329fda"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11892,
+      "sha256": "48513692b2fa969fa6e89b41cb2e4dcfe02cebcc042d48720eca1a663af55dd8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

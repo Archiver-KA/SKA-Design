@@ -1,0 +1,87 @@
+{
+  "id": "SN-W02173",
+  "title": "Portfolio Showcase and Services",
+  "summary": "Responsive portfolio site featuring work samples, services, and contact options with dark mode and Tailwind CSS styling.",
+  "tags": [
+    "Portfolio",
+    "Work Showcase",
+    "Services",
+    "Dark Mode",
+    "Tailwind CSS",
+    "Responsive Design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3462,
+      "sha256": "3b823975b3018d29199aa59a2009ab04ed6ec6ee7ef0b16b637bed37a5c1b521"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13166,
+      "sha256": "82bf288309d01f8cf008e018466daa521efdc19042c23ee8c08910bbcbc725c4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1681,
+      "sha256": "7f98065ffaeaec0aecf1e34e5172c57b64b5b3c54d6c69670bde660ae006f994"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 236,
+      "sha256": "a937b72ebb100028df544d060f5229c6dbfbbf4d3bd371b3472f496fe0977ac8"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 262,
+      "sha256": "86373af1be349215e3cf6227899090834a06efd0208892a4fc6f72f3bcc1489a"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 1767,
+      "sha256": "c9db2d5ac38d56c39084283fc0fefcd1496fd38cd4b433652b905e5fb4fca7e2"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 555,
+      "sha256": "0241dfa704a500579dc2dfdfa030272f23ee5b83221055cebe74a9624c8bcd7a"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 892,
+      "sha256": "794ddd2f05eb384709de1c14e91c3ebdd1812786e136f968570367aa5d37a61f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15138,
+      "sha256": "e06b595ab548e3233d635a2e65f020b6cff44882a32a75b652b7d66421ec45a9"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "about",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

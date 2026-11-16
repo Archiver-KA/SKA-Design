@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02238",
+  "title": "Animated Stats Counter Grid",
+  "summary": "Responsive Tailwind grid showcasing key metrics with animated count-up figures. Ideal for hero sections or dashboards to highlight company achievements, savings, or other KPIs across devices.",
+  "tags": [
+    "stats",
+    "counter",
+    "grid",
+    "tailwind",
+    "responsive",
+    "animated",
+    "metrics",
+    "hero-section"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5562,
+      "sha256": "13e03c4b1efc0bf7745cc0423b286525ce7ab169e2a8ceab0668c7ce671e8e13"
+    },
+    {
+      "path": "component.html",
+      "bytes": 972,
+      "sha256": "a63901b3d382fd4674bd4f3f536e93f83afc22c15fcd1dd1b213cab297387418"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1820,
+      "sha256": "e51066a769a919be7e7ef8fe2b177dc85bf9f6fa7c8ae965adaf48a355334620"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

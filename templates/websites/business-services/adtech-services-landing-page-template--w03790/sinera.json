@@ -1,0 +1,74 @@
+{
+  "id": "SN-W03790",
+  "title": "AdTech Services Landing Page Template",
+  "summary": "A modern AdTech landing page template for AI-powered advertising services, tailored for publishers and advertisers to showcase solutions, process, and case studies.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Dark",
+    "Large Type",
+    "Minimal",
+    "AdTech"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3902,
+      "sha256": "eef6068d061fc61691548a195f9ed0d8e912b0067b28cc15d45cc81ebcc53893"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17474,
+      "sha256": "e727a875e24aedd6b4101196b72dd6366ce4b1f1e4570bf08801003ee610b13d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 877,
+      "sha256": "6c0c12ae7038c55d6934f7d458cfa60ec89a138b9d78cfb4b37568f7dd3bd0cf"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 884,
+      "sha256": "808ade22b6fefa0f72a80a7491d9d150d12fe9a2a79844a12576e06d5f891cd6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38173,
+      "sha256": "e6af46657d6838a20d49a44de5017285ae4e3d0df89000eaf97f90f9c4129d84"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "video-media",
+    "navbar",
+    "hero",
+    "stats",
+    "services",
+    "how-it-works",
+    "blog-articles",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

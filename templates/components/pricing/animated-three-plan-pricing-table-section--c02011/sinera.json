@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02011",
+  "title": "Animated Three-Plan Pricing Table Section",
+  "summary": "Responsive pricing section displaying three space-travel plans with scroll-fade animations, featured badge, detailed feature lists, and CTA buttons. Built with Tailwind CSS utility classes for quick theming and easy integration in landing pages.",
+  "tags": [
+    "pricing",
+    "tailwind",
+    "animated",
+    "responsive",
+    "section",
+    "cta",
+    "feature-list"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 24130,
+      "sha256": "188808bd867529283f6917de7f27468b602a337f312a6b3020bc1142cf49f2f2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11816,
+      "sha256": "1bb0c4b0c538f3cca487a488df06006b10699d5d70c35c12565493cb8593e67c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12678,
+      "sha256": "38c9f1c8c7e1b703e60e9f30be363495d60947e24a1881beb06beb4921e1aa44"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

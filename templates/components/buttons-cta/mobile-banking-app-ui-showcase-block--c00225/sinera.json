@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00225",
+  "title": "Mobile Banking App UI Showcase Block",
+  "summary": "Split-layout component showcasing a detailed mobile banking app UI mockup alongside marketing copy and CTA. Uses Tailwind-style classes, scroll animations, and interactive cards to present portfolio, assets, and quick actions for a finance product.",
+  "tags": [
+    "ui",
+    "tailwind",
+    "mobile",
+    "finance",
+    "marketing",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18040,
+      "sha256": "cdbf943e1c4163ee27b03912e64d7396fdd57fb9962b55bf7266efde19961663"
+    },
+    {
+      "path": "component.html",
+      "bytes": 19790,
+      "sha256": "526afd50e7d678d8e829edc5637118ff32009ba8814f2f8d3f4e47b6549e800a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20647,
+      "sha256": "c39ea70774468819aebc240e299b2bcb3eed3035dc6fd3f575387225a925af9c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

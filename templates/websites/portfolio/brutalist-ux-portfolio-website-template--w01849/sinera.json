@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01849",
+  "title": "Brutalist UX Portfolio Website Template",
+  "summary": "A bold, brutalist portfolio website template for UX, product, and industrial designers to showcase selected projects, profile, tech stack, and contact details.",
+  "tags": [
+    "Portfolio",
+    "Art & Design",
+    "Graphic Design",
+    "Landing Page",
+    "Brand",
+    "Brutal",
+    "Dark",
+    "Grid",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3111,
+      "sha256": "eb29053741e53cf351c43431afe3f6ba53089ea4b332736c5162ec31455bda44"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4456,
+      "sha256": "9b4be2c6ee025d1760090dccd9850570d996de7178dcbb5d9bb8526abb161300"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 737,
+      "sha256": "cc256e60d642beda1837af4c60761ae7885f970d50c80f2aac92058f00cff69e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18386,
+      "sha256": "df732b4df601ad62e8dfe39bd9ffa704485b1c181adaf8ac63e5436a13b27989"
+    }
+  ],
+  "collection": "logistics",
+  "collectionCategory": "industry",
+  "collectionLabel": "Logistics",
+  "collectionCategoryLabel": "Industry / Energy",
+  "collectionConfidence": 0.88,
+  "collectionBasis": "business-keywords",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "features",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

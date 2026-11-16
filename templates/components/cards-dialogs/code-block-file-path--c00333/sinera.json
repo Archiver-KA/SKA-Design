@@ -1,0 +1,41 @@
+{
+  "id": "SN-C00333",
+  "title": "Code Block File Path",
+  "summary": "A monospace code block styled component for displaying file paths and URLs. Perfect for technical documentation, developer tools, or system information displays.",
+  "tags": [
+    "card",
+    "code",
+    "dark",
+    "terminal",
+    "copyable"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3500,
+      "sha256": "d710d0a7efa7d87b10c374e3c5e34d774603ddce67e912e1f04c6275a89cfb60"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1109,
+      "sha256": "1cdae6f2975c90016605674149f77f1313d34026c99c7aa67302b332c6491536"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1950,
+      "sha256": "2c07a0bba3f32be03757cc519babae73015f6052ef2c5cf6bfa50185460b6134"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

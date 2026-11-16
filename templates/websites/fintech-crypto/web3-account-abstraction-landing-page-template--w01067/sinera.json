@@ -1,0 +1,79 @@
+{
+  "id": "SN-W01067",
+  "title": "Web3 Account Abstraction Landing Page Template",
+  "summary": "A dark, futuristic landing page template for Web3 account abstraction infrastructure products, ideal for showcasing APIs, developer features, and EIP-7702/AA capabilities.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Developer Tools",
+    "Web3",
+    "Crypto",
+    "API"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3858,
+      "sha256": "9318cb90bf8c4291dae59e3e557da69c775ec9c31bcdc6a27c07b6394bb1cb59"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17088,
+      "sha256": "301331d45edd3fc12403986d83142291a55638cc130fe04feb6b48335a747f27"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1073,
+      "sha256": "09fb8ee62c69012b4cf1095f74fa9d2a1b9f495332f6f5c1a8bba17e1023ee76"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 368,
+      "sha256": "44f45358f6d54ff6b4d58e023e4541ab2b5198e2b749de29946f210403d0f4fc"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 368,
+      "sha256": "6b9caff23866209f46560acc4100f907ef4526f966840d42b55128a610d7a58b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 46686,
+      "sha256": "6d7273e97444db76e213cce45beeb904a7c817539397f665044a195899061e7f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "features",
+    "gallery-portfolio",
+    "comparison",
+    "code-terminal",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

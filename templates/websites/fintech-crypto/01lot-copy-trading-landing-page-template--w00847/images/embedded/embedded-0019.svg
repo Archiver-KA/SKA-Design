@@ -1,0 +1,16 @@
+<svg class="w-full h-full overflow-visible" preserveAspectRatio="none" viewBox="0 0 100 50">
+                            <!-- Gradient Area -->
+                            <defs>
+                                <linearGradient id="chartGrad" x1="0" y1="0" x2="0" y2="1">
+                                    <stop offset="0%" stop-color="rgba(139, 92, 246, 0.2)"></stop>
+                                    <stop offset="100%" stop-color="rgba(139, 92, 246, 0)"></stop>
+                                </linearGradient>
+                            </defs>
+                            <path d="M0,50 L0,35 Q10,35 20,25 T40,20 T60,30 T80,10 L100,5 L100,50 Z" fill="url(#chartGrad)" class=""></path>
+                            <!-- Line -->
+                            <path d="M0,35 Q10,35 20,25 T40,20 T60,30 T80,10 L100,5" fill="none" stroke="#8b5cf6" stroke-width="1.2" class="chart-line"></path>
+                            <!-- Dots -->
+                            <circle cx="20" cy="25" r="1.5" fill="#0f172a" stroke="#8b5cf6" stroke-width="1"></circle>
+                            <circle cx="60" cy="30" r="1.5" fill="#0f172a" stroke="#8b5cf6" stroke-width="1"></circle>
+                            <circle cx="100" cy="5" r="1.5" fill="#0f172a" stroke="#8b5cf6" stroke-width="1"></circle>
+                        </svg>

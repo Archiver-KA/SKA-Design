@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00157",
+  "title": "Glowing CTA Button with Arrow Icon",
+  "summary": "Interactive call-to-action button featuring a right-arrow SVG icon and custom glow effect driven by CSS variables for cursor position. Ideal for hero sections or onboarding prompts; Tailwind utility hints enable easy styling tweaks.",
+  "tags": [
+    "button",
+    "call-to-action",
+    "icon",
+    "glow",
+    "interactive",
+    "tailwind",
+    "svg"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1880,
+      "sha256": "56e2af9d32ab8be91e604641e35a6e48556a2f74ecbc51fbed143302011c4c3e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4590,
+      "sha256": "bc158b811e2355bcc1e175c4f7983bf9c635f53e38893314c0bb25c4eed9dd6f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5575,
+      "sha256": "228568a85a39311d3603673def60d99477baaf50790a80a7686003e44671b6c3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SN-W01765",
+  "title": "Aesthetic Surgeon Landing Page Template",
+  "summary": "A dark, cinematic landing page template for aesthetic surgeons or medical specialists to showcase rhinoplasty expertise, biography, and video storytelling.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Portfolio",
+    "Services",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3283,
+      "sha256": "928c776d88966312b808f5e8017ee00143071a91c83d039f7b9ad796ce701f44"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12712,
+      "sha256": "8bc57e7e6f3e06dfa5c9c0cc121b853776ae977fa8a20a554ae9c9626976e1c2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 727,
+      "sha256": "0535ded8b41b8505351583ac1408df8280453d769953ddd268217c7885255c79"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14238,
+      "sha256": "8a313934b7d65e5ff2766b14aa5111ff29bba5889f4c53d1d488b305f0048f8d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "video-media",
+    "about"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

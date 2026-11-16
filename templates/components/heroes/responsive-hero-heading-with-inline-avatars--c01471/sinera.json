@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01471",
+  "title": "Responsive Hero Heading with Inline Avatars",
+  "summary": "H1 hero heading showcasing a personal intro with inline avatar and preview images. Utilizes Tailwind utility classes for responsive typography, inline alignment, rounded images, and ring styling—ideal for portfolio or landing page intros.",
+  "tags": [
+    "heading",
+    "tailwind",
+    "responsive",
+    "avatar",
+    "image",
+    "typography"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19626,
+      "sha256": "0e667c990db7f6ed8c60565df5c57819ad974e76bd5a709ffe46fc2bdb7eb68f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 721,
+      "sha256": "e3afc773a8a238eed6af9263f01b0296ff60bd689d4f03685f8fc938cab82ad6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1585,
+      "sha256": "ba049f885331b431ea14732aef4d2ebc6b26047fae06664990ca9f05de09a4d1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SN-W02280",
+  "title": "Virtual Assistant Portfolio Landing Page Template",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3677,
+      "sha256": "073b396d09e63eb9486505d64b6c8d07f44e8703b4c5f93611402a329e359303"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18114,
+      "sha256": "d96619ebe2b974e3caa02967952310af991d789e60ca0eb429c4343838d81578"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 737,
+      "sha256": "1425925578c5f38fce3d1a07b6d1c4c4869605df05cc83c6de2200cf2bbb4bb9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38906,
+      "sha256": "278342b2cbdb8bef04f47380086f81ca94ae895ec7cf0e4799d22bd083352af3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "how-it-works",
+    "testimonials",
+    "gallery-portfolio",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

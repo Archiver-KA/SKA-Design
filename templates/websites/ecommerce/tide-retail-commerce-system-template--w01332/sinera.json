@@ -1,0 +1,86 @@
+{
+  "id": "SN-W01332",
+  "title": "TIDE Retail Commerce System Template",
+  "summary": "A high-performance retail commerce template designed for cashless-first businesses, featuring modules for POS, payments, inventory, and kitchen displays.",
+  "tags": [
+    "Technology",
+    "Services",
+    "Futuristic",
+    "Dark",
+    "Clean",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "react",
+  "entry": "package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3620,
+      "sha256": "9b049fa0d063bec4bc6d692ca34df5c88c8aff8168563cdecbcdbcf9100145ce"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19340,
+      "sha256": "10335b1250678319b217eca69f7efa0790591359b797f84093573ca6e8d42b17"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "5e2292f61a87c2734ae6d6d939eb09c88e45cddcf76f18a9f057937f6c75bf77"
+    },
+    {
+      "path": "index.html",
+      "bytes": 568,
+      "sha256": "6324589659914a978d79719263fc762d15c0b1657bc44053c529d4c19904590d"
+    },
+    {
+      "path": "package.json",
+      "bytes": 594,
+      "sha256": "9582298088ecc709ced14d5b27014c0451894af752470beb28b0450f213eac8a"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 25480,
+      "sha256": "b7faf4db35615fb327489e05a2e2dd16739493e777a3d548e02d0850b02fdbdf"
+    },
+    {
+      "path": "src/data.js",
+      "bytes": 5710,
+      "sha256": "04625586d8ea8a7163dcb1a3750128520536d8103c3f4844d4312b62881ef924"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 7924,
+      "sha256": "499de9ed10561f3d20b8576c8f4d7b6dcd5914668c70d614fab32ea7e452ad90"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 261,
+      "sha256": "49bf3cffdd9c33d142a51b23f544e699eabdbd1983782745b069559adb1df5e7"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 226,
+      "sha256": "cdc1763369a305dd2cc7d83e3b19b447f985089e744932a9fbf520975e41ac72"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

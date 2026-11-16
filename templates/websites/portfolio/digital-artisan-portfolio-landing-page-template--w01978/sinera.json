@@ -1,0 +1,64 @@
+{
+  "id": "SN-W01978",
+  "title": "Digital Artisan Portfolio Landing Page Template",
+  "summary": "A sleek reusable landing page template designed for digital artisans and creatives to showcase interactive digital portfolios and attract commissions.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Hero",
+    "3D Background",
+    "Interactive",
+    "Contact",
+    "Tech Stack",
+    "Responsive",
+    "Dark Theme"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3497,
+      "sha256": "80c0d5666a7f785a43185afebb9f0c0de00203f38a9977fd59389555a27cb4b2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10268,
+      "sha256": "8ccfc5b102dc0c94a131e6fc0500714de35313f7945bdb53b974746f61680208"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "c3c67067235033229850e7580d2990857ccf5edfa4427468ce1a318f1f920a1e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16125,
+      "sha256": "c733604e2884b327108d705d9ba9805957e385ee3c2fa981534b30835175b5d4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "navbar",
+    "hero",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

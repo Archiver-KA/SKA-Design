@@ -1,0 +1,46 @@
+{
+  "id": "SN-C02332",
+  "title": "QA & Billing Dashboard UI Component Pack",
+  "summary": "Tailwind-based collection featuring QA metric cards, trend chart, execution table, billing sidebar, overview card and quick-action grid—ideal for SaaS admin panels needing testing analytics and billing management widgets.",
+  "tags": [
+    "collection",
+    "dashboard",
+    "tailwind",
+    "qa",
+    "billing",
+    "metrics",
+    "chart",
+    "table",
+    "responsive",
+    "card"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12638,
+      "sha256": "629da2ec943de607fc2e786462718ed1eb862c27ff0f2a6ac37af1dec7c20e2e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 19149,
+      "sha256": "618433dc903645d1f24853f7615bd497db08d657f347d1e139defa6855ffe809"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20254,
+      "sha256": "9605180d00d063262d2c26f903bd11601b086719da085f3b90026e9942f4b407"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

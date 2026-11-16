@@ -1,0 +1,73 @@
+{
+  "id": "SN-W04174",
+  "title": "Color Picker with Format Tabs",
+  "summary": "Interactive color picker UI with HEX, RGB, HSL inputs, color preview, palettes, and recent colors using sliders and tabs.",
+  "tags": [
+    "Color Picker",
+    "HEX Input",
+    "RGB Sliders",
+    "HSL Sliders",
+    "Color Palette",
+    "Recent Colors",
+    "Tailwind CSS"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2988,
+      "sha256": "a333e2d648327d9b681b92927dc6df317b94163c865e6885eaa4feb5a06a5c99"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5214,
+      "sha256": "a406b355e89e25aa43095d4633566bb79f5daa4aedaeee75e7bcaea37e8480c9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1145,
+      "sha256": "1308756c1eb1fc72ed5e31cf9ab29f92318c03a44bcd4a5355d18c11ea3ba2b5"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 308,
+      "sha256": "9fd910ca684b314f129f61e7e98f367d0f8d28bd0e47322c444858b632be98c3"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 231,
+      "sha256": "c952557f70e7bb3acd04a809e8165c101f992b40d4d7df6cae4a1d983f7b00c5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18735,
+      "sha256": "d0dd60989e96c48672e2cf0f441577a3552a2ac3e342c49a86beebaf7941c01e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero",
+    "testimonials"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

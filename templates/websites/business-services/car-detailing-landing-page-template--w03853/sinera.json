@@ -1,0 +1,69 @@
+{
+  "id": "SN-W03853",
+  "title": "Car Detailing Landing Page Template",
+  "summary": "A premium dark-themed template for auto detailing businesses to showcase services, build trust, and drive bookings with strong conversion-focused sections.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Automotive",
+    "Car Detailing",
+    "Local Business",
+    "Booking"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3788,
+      "sha256": "4f18a97a4b923528111603daf89f7a83caa22fe75df5d9c11d9577d1ff1be3cc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18848,
+      "sha256": "e7753de23354e63b1104f45f31edaa7a5fcb62d92245e54213b9dd6f7315f2eb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "f25a59e52b9afb6e93d8569e6ea3f06ccafb125c80653518e1a2b3be57835218"
+    },
+    {
+      "path": "index.html",
+      "bytes": 46274,
+      "sha256": "fbb5da8fba3b9d10338a1545b03ac63475144b5b7e2dbd5a4a91a5e745898402"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "services",
+    "bento-grid",
+    "how-it-works",
+    "testimonials",
+    "pricing",
+    "timeline",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

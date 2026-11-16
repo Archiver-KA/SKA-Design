@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02233",
+  "title": "Animated Project Management Dashboard (Tailwind)",
+  "summary": "Comprehensive dashboard UI with parallax layers featuring sidebar navigation, task list, progress bar, AI assistant, calendar and quick actions. Built with Tailwind CSS, fully responsive and animated for modern SaaS or admin project tracking apps.",
+  "tags": [
+    "dashboard",
+    "project-management",
+    "tailwind",
+    "responsive",
+    "animated",
+    "parallax",
+    "ui",
+    "admin",
+    "tasks"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 29864,
+      "sha256": "fc855573dece08256d4af5345967f709a9ca04d49a3c26341e46c66a58df46fe"
+    },
+    {
+      "path": "component.html",
+      "bytes": 40485,
+      "sha256": "aba9d00e4c6f351b2d08eeacdd6103e2c0665bd72c7f3616007d9cba1f69a244"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41484,
+      "sha256": "efdf7ced71d1d48b6f7a37b1af41e1a6c952a9e7034df398a22d40492b8c7c7d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

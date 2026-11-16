@@ -1,0 +1,75 @@
+{
+  "id": "SN-W02597",
+  "title": "Fitness Coaching Landing Page Template",
+  "summary": "A reusable landing page template for fitness coaches and wellness programs to promote structured training, build trust, and drive sign-ups.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Fitness",
+    "Coaching",
+    "Wellness"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3722,
+      "sha256": "bb3aeafc6e7869713e3159b7e1b1a6981d46381e3cf95d01689e327d9600e1ff"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17016,
+      "sha256": "bf91a14bd6fc00a0ad6877bfd1426eda7e6ac9231539458db9834eaffb405976"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 873,
+      "sha256": "2ce214f8d4c9e527a413c912b479a7091be362f1daeb4ebb936559c27ccf2667"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 207,
+      "sha256": "90d4e2bb52eddd9d5b4211967e4139a5c52f6f96e889c349f9bd90574c63ba14"
+    },
+    {
+      "path": "index.html",
+      "bytes": 47435,
+      "sha256": "3cf2313283069dec62471422f1fd0d903366845bfb6b067148ad6dd454ba07f8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "cta",
+    "features",
+    "bento-grid",
+    "pricing",
+    "stats",
+    "gallery-portfolio",
+    "contact-form",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02312",
+  "title": "Mobile Banking Dashboard Card with Analytics",
+  "summary": "Stylized mobile banking dashboard card featuring status bar, balance display, swipeable credit card carousel, mini analytics widgets and bottom navigation. Built with Tailwind CSS and Lucide icons; perfect for fintech app previews.",
+  "tags": [
+    "dashboard",
+    "mobile",
+    "banking",
+    "card",
+    "tailwind",
+    "analytics",
+    "wallet",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15962,
+      "sha256": "59eb058fa9b72809e4f9d37a6ee044554c10df78d0d6da9295bd40e8219cf837"
+    },
+    {
+      "path": "component.html",
+      "bytes": 14565,
+      "sha256": "4fb0c27c23f401dd7f74030124dcb6fc683af228f8eff8220b27424f752093dd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15560,
+      "sha256": "f40fb1aaa85bf0683074f01cc06beafc0cbecdbc837eaa0b82a4364600091e91"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

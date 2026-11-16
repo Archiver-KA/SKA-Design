@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02378",
+  "title": "Workspace Dashboard Card with List & Preview",
+  "summary": "Tailwind-styled dashboard component showcasing a company’s workspaces. Sidebar lists all and personal spaces; adjacent panel previews the selected workspace with stats and action button. Responsive, ideal for SaaS admin or project-management UIs.",
+  "tags": [
+    "dashboard",
+    "card",
+    "panel",
+    "list",
+    "preview",
+    "tailwind",
+    "responsive",
+    "saas",
+    "workspace"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11000,
+      "sha256": "08511b5cd3606b36ef027a6fc35198901353f6860ad4f34e6df35bb186ecb3c1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5528,
+      "sha256": "ea811c4675b0726bf7d8153c2c8189e77fbc0809261ef02aaeba98aa61952328"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6527,
+      "sha256": "851783b2140e3273163bb7447e81807520f90805a16e9a99ed34f7b7a62c816e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

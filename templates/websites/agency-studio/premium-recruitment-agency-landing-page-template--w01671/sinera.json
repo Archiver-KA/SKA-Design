@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01671",
+  "title": "Premium Recruitment Agency Landing Page Template",
+  "summary": "A modern, premium recruitment agency landing page template for showcasing hiring services, attracting candidates, and generating high-quality leads.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Technology",
+    "Recruitment",
+    "HR"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3863,
+      "sha256": "b00298ee7445def08a86d17966be566c051f9b9b1aeb4c1104d296d8a4a6fa20"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14836,
+      "sha256": "3227d2c625b7320723d118821e0cdaa3c5d824037941b00189840b574db17c0f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 825,
+      "sha256": "c8baa657d7ec296138f9c277ee10790a03d1346917c848c60e0a0ebb010bbe27"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38695,
+      "sha256": "ff9b1a3af175924202555fcb8add251acb45c122572c064e1ef427b293bb2fb6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "about",
+    "services",
+    "newsletter",
+    "testimonials",
+    "team",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "removed-browser-extension-tags"
+    ]
+  },
+  "design": "DESIGN.md"
+}

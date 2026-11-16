@@ -1,0 +1,69 @@
+{
+  "id": "SN-W02496",
+  "title": "OwnSweets Nutrition Customizer Landing Page Template",
+  "summary": "A reusable landing page template for customizable healthy sweets, allowing users to design personalized nutrition products like protein bars, laddoos, and cookies.",
+  "tags": [
+    "Landing Page",
+    "Customization",
+    "Nutrition",
+    "Healthy Sweets",
+    "Protein Bars",
+    "Laddoos",
+    "Cookies",
+    "Reviews",
+    "Features",
+    "Delivery"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3730,
+      "sha256": "1b0afe115f663791edf540b1df7b95505a6a570c8f63e98882edcd3b50147365"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16702,
+      "sha256": "61a23fef3cf4522163c2cf820cd97dd5f8a99b85aa0b5d152985931e3c043bff"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 741,
+      "sha256": "b87f0e370cc1e9f3250d2ef70d610ac076c9cfa3246d848acf3143b93d0089e6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31875,
+      "sha256": "0d67b781814a56cbe1c1e8b2ffeff27b0046a961f94f42a94472a84f2b95fca1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "product-grid",
+    "gallery-portfolio",
+    "testimonials",
+    "about",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

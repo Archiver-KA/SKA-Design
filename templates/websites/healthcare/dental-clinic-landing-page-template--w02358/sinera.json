@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02358",
+  "title": "Dental Clinic Landing Page Template",
+  "summary": "A modern dental clinic landing page template for family and sedation practices, featuring services, hours, contact info, and an appointment request form.",
+  "tags": [
+    "Health",
+    "Services",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Dental",
+    "Medical"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3776,
+      "sha256": "675707ed14c1cd4dae4ca42691db98cc286f9084c31fe5cb4058fcda4764b163"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18184,
+      "sha256": "7f515fb488968534ce374104bd8494f9b08003e3a916d99f99847969a79533cc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "b61193cbd6fc7746f2006eb6752452c54203e032a8c57a1f9d409217c2e169b7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34827,
+      "sha256": "06785a4857177f65ba818c953122f420a2ab315d50d08e7001d72b17d6b88f4b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "contact-form",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

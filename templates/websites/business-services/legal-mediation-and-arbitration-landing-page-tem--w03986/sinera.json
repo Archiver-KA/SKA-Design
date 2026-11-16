@@ -1,0 +1,69 @@
+{
+  "id": "SN-W03986",
+  "title": "Legal Mediation & Arbitration Landing Page Template",
+  "summary": "A professional ADR-focused website template for mediation and arbitration firms, ready to customize for legal services, locations, articles, videos, and contact.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Large Type",
+    "Minimal",
+    "Legal",
+    "Mediation"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3534,
+      "sha256": "9f5d97a52854af867c157a8ad00988d45928528312b0f24415432c1b600895e4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 31894,
+      "sha256": "1203dfa9fb2532ec9c61e9bbddced79f1480ea2b1aeb175b9b8ef7facb053682"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 746,
+      "sha256": "4803f94bca9b77777bb6c7bcf318725fd4c1aca98a3357473b5f45cc58411589"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30113,
+      "sha256": "2d1e51ec81eab703f54ebd465f7517d0b45099ec66d829da03b72684d1b86226"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "cta",
+    "map-location",
+    "timeline",
+    "blog-articles",
+    "video-media",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

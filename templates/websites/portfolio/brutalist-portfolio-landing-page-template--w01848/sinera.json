@@ -1,0 +1,70 @@
+{
+  "id": "SN-W01848",
+  "title": "Brutalist Portfolio Landing Page Template",
+  "summary": "A bold brutalist landing page template for designers and studios who want a high-contrast, grid-driven portfolio or studio site with raw, functional UI.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Brutal",
+    "Minimal",
+    "Large Type",
+    "Grid",
+    "Dark",
+    "Clean",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3632,
+      "sha256": "5731c0abed8e425110ed49b6d38c6be1b32a48b6fdb0828b631647dc14acbc4a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10368,
+      "sha256": "fc33c67fe8d0928b39674bbfef0b31d4d4a5cbbd5abf2d637ebe7b31c4dfdf88"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 869,
+      "sha256": "9fa9092b8548ef220aea90164800d7cf2dc1fe109f522e26004f016ab6dd3c03"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 267,
+      "sha256": "6c905d59716ce63cc5ffaa859075358d8c61a0c35b9942d725f59dce957051c5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21993,
+      "sha256": "99d7b1e21498c88c836d08d84ffc1bce35183aa9982dac6b98acb23eb491ae67"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

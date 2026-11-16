@@ -1,0 +1,81 @@
+{
+  "id": "SN-W01135",
+  "title": "D2C CPG Landing Page Template",
+  "summary": "A high-converting product landing page template for organic food brands, featuring bold typography, interactive product stages, and subscription-based upselling.",
+  "tags": [
+    "Food",
+    "Landing Page",
+    "Clean",
+    "Colorful",
+    "Animated",
+    "E-commerce"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "react",
+  "entry": "package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3253,
+      "sha256": "af79847cca04642c73f33aa1290246599edd5f0fb68bf2ec37e945d4dea64b9d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 26272,
+      "sha256": "dcbf227f40c43a4eb7503288c8878dce7bad4cd511b554e4ae3aba5c25b61fa6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 719,
+      "sha256": "84f607567bef955617b65f11bf3f4ab98897de872956376ad9ecb2aef489dfd5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 474,
+      "sha256": "2a885f37919164e1e9537ec94365538a8f8b36bcd4109eca1fa9408f16e1ace1"
+    },
+    {
+      "path": "package.json",
+      "bytes": 407,
+      "sha256": "47d6e2bc2add3239869dd933694b29f5a87b79f37ec53b7091801cf1f2717ef5"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 22207,
+      "sha256": "0e491deb95f48fb1cc3cbbc691d23e0ea46106cce261e6085ad41fd215771e66"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 8222,
+      "sha256": "c54332cf24dc863ce70f0e2807e80665aba2c5e901b12e082a92cd87b85ea1e3"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 261,
+      "sha256": "f1e9f34770536a9451816eca918cfa67b7b0d6da510631b273e9160cceb90fb0"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 134,
+      "sha256": "9db2e178974ebb2e161d5263d94e5712e7175ce3e428dea5a47ae83d2160b0a9"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "SN-W02041",
+  "title": "Hassan Irshad Portfolio",
+  "summary": "A high-performance dark-themed portfolio template designed for AI engineers, data scientists, and technical architects to showcase neural systems and machine learning projects.",
+  "tags": [
+    "Technology",
+    "Portfolio",
+    "Minimal",
+    "Dark",
+    "Futuristic",
+    "Professional Services",
+    "Clean",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3856,
+      "sha256": "9f5be90641949e49f2afa0db61d445d1236abb2699096bae7ead7ba227385f08"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14178,
+      "sha256": "59044884391c2c715e98b62d086623552da2257de59aff28211fa9d1f5e4bb02"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1125,
+      "sha256": "188f2f4cea8f4713d837900040afa398fd6a1545c75053f96587e4f26a800e59"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 128,
+      "sha256": "6c032119b73f9910172da5554c0dbc0c0b3745576adb51d2b2090ba3b1556c9f"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 53229,
+      "sha256": "1f3d88ff3f176e651280d307b04f3d7d2af0210d2b6485ee02efb56b2472baa3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "case-studies",
+    "features",
+    "about",
+    "timeline",
+    "footer"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "broken-images"
+    ],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

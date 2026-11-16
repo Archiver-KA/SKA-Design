@@ -1,0 +1,66 @@
+{
+  "id": "SN-W03762",
+  "title": "Digital Trust Journal Template",
+  "summary": "A refined editorial template for digital trust, credibility research, scorecards, reports, and advisory services for brands, marketers, and communications teams.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Services",
+    "Blog",
+    "Clean",
+    "Minimal",
+    "Editorial",
+    "Research",
+    "Newsletter",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "news-blog",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3646,
+      "sha256": "06f9a4898cdda5ee87ee3b61205d0d61270155ef91d8aa66060ebae328f7c74b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11984,
+      "sha256": "fb29858a0f961e3e0c39947133dad85a35df8b83048ff8af43bc2ddd67f98cfb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "96d70b99eb459ab62d656bcb0610f3d16c892669242725f85c159871b6045553"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32610,
+      "sha256": "b072d4a04a84333757b60720ed324ddaf73ecde8218f64e1b2d80e752b2a83ee"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "content",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Content / News",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "faq",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

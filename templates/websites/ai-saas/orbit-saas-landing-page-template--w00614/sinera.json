@@ -1,0 +1,75 @@
+{
+  "id": "SN-W00614",
+  "title": "Orbit SaaS Landing Page Template",
+  "summary": "A dark, futuristic SaaS landing page template for AI-native workflow orchestration platforms, ideal for showcasing product features, proof, and CTAs.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "SaaS",
+    "Developer Tools"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3806,
+      "sha256": "8cc5e5418099ee5417cf2fa132fb092c849036bec7ad5474e363e4363b729a90"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13496,
+      "sha256": "6319bdbb7ac7f6f9ee45881515813ec92def48fa8363741dd92ffc76b792d87e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 949,
+      "sha256": "fa11d022ed3e5a6d654e58cc7480458fe9e8f6256b78ba408e5788bcd7fb380b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 269,
+      "sha256": "e4964d7c4a6e6d75be88469fda44a21defc44c61dbc428c3fa0bac62a2bc79c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38599,
+      "sha256": "e14757c7078a74b64dcdbea2f29235154ab1b5a6408a921059799c9e6d9dfec4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "bento-grid",
+    "logo-cloud",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

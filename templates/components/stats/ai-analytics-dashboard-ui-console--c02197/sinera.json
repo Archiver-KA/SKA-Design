@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02197",
+  "title": "AI Analytics Dashboard UI Console",
+  "summary": "Animated dashboard UI showcasing client engagement charts, KPI stats, client distribution donut chart, and an AI expansion assistant panel. Built with Tailwind-style utility classes, ideal for hero UI previews or product analytics showcases.",
+  "tags": [
+    "ui",
+    "dashboard",
+    "analytics",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "charts"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13404,
+      "sha256": "fdede049c022f681a2c9b11461ca697344232aef9d3b772d53e4dae4746111a4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 16816,
+      "sha256": "75e763223052954a66fc12c4af645395ceb8ffc05436083ac6b81cdfb5574963"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17800,
+      "sha256": "2a0a49d42278bee6d4db403767835c5db8da28e6f83399a312806bd80c5f8a6f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,22 @@
+<svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-full h-full drop-shadow-[0_0_10px_rgba(239,68,68,0.5)]">
+                        <defs>
+                            <linearGradient id="v-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                                <stop offset="0%" style="stop-color:#ff1a1a;stop-opacity:1" />
+                                <stop offset="50%" style="stop-color:#cc0000;stop-opacity:1" />
+                                <stop offset="100%" style="stop-color:#800000;stop-opacity:1" />
+                            </linearGradient>
+                            <linearGradient id="swoosh-gradient" x1="0%" y1="50%" x2="100%" y2="50%">
+                                <stop offset="0%" style="stop-color:#ff6b00;stop-opacity:1" />
+                                <stop offset="100%" style="stop-color:#ff9e00;stop-opacity:1" />
+                            </linearGradient>
+                        </defs>
+                        <!-- The V Shape -->
+                        <path d="M25 20 L50 85 L75 20" stroke="url(#v-gradient)" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+                        <!-- Highlight on V -->
+                        <path d="M28 20 L50 78 L72 20" stroke="rgba(255,255,255,0.2)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="mix-blend-mode: overlay;" />
+                        <!-- The Swoosh -->
+                        <path d="M15 65 Q 50 95 85 35" stroke="url(#swoosh-gradient)" stroke-width="6" stroke-linecap="round" fill="none" />
+                        <!-- The Orb -->
+                        <circle cx="85" cy="35" r="7" fill="#ff4500" />
+                        <circle cx="83" cy="33" r="3" fill="white" fill-opacity="0.5" />
+                    </svg>

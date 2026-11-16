@@ -1,0 +1,41 @@
+<svg viewBox="0 0 800 300" preserveAspectRatio="none" class="w-full h-full overflow-visible">
+                            <defs>
+                                <linearGradient id="gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+                                    <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.1" />
+                                    <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0" />
+                                </linearGradient>
+                                <clipPath id="clip">
+                                    <rect x="0" y="0" width="800" height="300" />
+                                </clipPath>
+                            </defs>
+                            
+                            <!-- Grid Lines -->
+                            <line x1="0" y1="250" x2="800" y2="250" stroke="#262626" stroke-width="1" />
+                            <line x1="0" y1="150" x2="800" y2="150" stroke="#262626" stroke-width="1" stroke-dasharray="4 4" />
+                            <line x1="0" y1="50" x2="800" y2="50" stroke="#262626" stroke-width="1" stroke-dasharray="4 4" />
+
+                            <!-- S&P 500 (Reference) -->
+                            <path d="M0,250 C100,240 200,230 300,200 C400,180 500,160 550,140" fill="none" stroke="#525252" stroke-width="1.5" stroke-dasharray="4 4" />
+                            <path d="M550,140 C600,120 700,110 800,100" fill="none" stroke="#525252" stroke-width="1.5" stroke-dasharray="2 2" opacity="0.5" />
+
+                            <!-- Basket (Past) -->
+                            <path d="M0,250 C80,250 150,210 250,210 C350,210 450,150 550,110" fill="none" stroke="#fff" stroke-width="2" />
+                            <!-- Basket Area -->
+                            <path d="M0,250 C80,250 150,210 250,210 C350,210 450,150 550,110 L550,300 L0,300 Z" class="chart-gradient" />
+
+                            <!-- Basket (Future Projection) -->
+                            <path class="animate-dash" d="M550,110 C650,70 720,50 800,20" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="4 4" stroke-opacity="0.5" />
+
+                            <!-- Current Point Marker -->
+                            <circle cx="550" cy="110" r="4" fill="#000" stroke="#fff" stroke-width="2" />
+                            
+                            <!-- Future Point Marker -->
+                            <circle cx="800" cy="20" r="4" fill="#000" stroke="#fff" stroke-width="2" opacity="0.5" />
+
+                            <!-- Floating Tooltip (Simulated) -->
+                            <g transform="translate(530, 60)">
+                                <rect x="0" y="0" width="90" height="34" rx="6" fill="#1f1f1f" stroke="#333" />
+                                <text x="45" y="16" text-anchor="middle" fill="#fff" font-size="10" font-family="Inter" font-weight="500">Current</text>
+                                <text x="45" y="28" text-anchor="middle" fill="#a3a3a3" font-size="9" font-family="Inter">+24.5%</text>
+                            </g>
+                        </svg>

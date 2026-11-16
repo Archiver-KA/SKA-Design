@@ -1,0 +1,68 @@
+{
+  "id": "SN-W02663",
+  "title": "Personal Trainer Landing Page Template",
+  "summary": "A bold fitness coaching template for personal trainers to showcase services, pricing, testimonials, FAQs, and drive client bookings online.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Dark",
+    "Clean",
+    "Large Type",
+    "Fitness",
+    "Personal Trainer",
+    "Coaching"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3589,
+      "sha256": "4f55a0708951dae3041e87753582349d7184fe1052b562043be8e77d98512fcd"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14562,
+      "sha256": "8c58d61ebdd7d90ea67b2f55c1bd5c8e069c7013c3efcfa40c8283709bbc55f5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "a918617dce8b41b27a24951adc176477c1a095fd48e2b5c0c53335034c6324f3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32088,
+      "sha256": "2511d4994b17fe641137874670a724e5f55656b567ecfcf87f27ee12cc2fd490"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "stats",
+    "pricing",
+    "testimonials",
+    "faq",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

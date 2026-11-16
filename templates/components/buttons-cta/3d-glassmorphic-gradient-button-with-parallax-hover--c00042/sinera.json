@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00042",
+  "title": "3D Glassmorphic Gradient Button with Parallax Hover",
+  "summary": "Animated CTA button with glassmorphic layers, gradient glow and light-sweep. Mousemove tilts via 3D perspective; hover shows depth, shadows and radial glow. Built with Tailwind classes and inline CSS—perfect for play/demo triggers or hero call-outs.",
+  "tags": [
+    "button",
+    "tailwind",
+    "glassmorphic",
+    "3d",
+    "animated",
+    "interactive",
+    "gradient",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1562,
+      "sha256": "306dea5b26565db6ac99bfe8c0082a2f46a84ddf4c875c4d8c8201b3f2d3aa73"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5303,
+      "sha256": "e4f3ffbf5c2cceab0e1d5fb30339baef751192e2a23b3b24501043f304d650a3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6175,
+      "sha256": "9ce19869870887678ddeb8042a516a72e07441a19bd69e863f6b3c4ad7c0049b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

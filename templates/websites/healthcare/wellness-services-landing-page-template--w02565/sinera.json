@@ -1,0 +1,73 @@
+{
+  "id": "SN-W02565",
+  "title": "Wellness Services Landing Page Template",
+  "summary": "A refined wellness landing page template for coaches, therapists, and holistic practices to showcase services, approach, and drive consultation bookings.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Elegant",
+    "Wellness"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4003,
+      "sha256": "3a6d42a052d15429a98130ba10cc0475c6fbb9ad6b9a5385c13d540408a68406"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12444,
+      "sha256": "dfe432712340c548030c2fc5fe085bbafa3f4ae2fc9109f178b2e1be606f9151"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 952,
+      "sha256": "701b344285af74f47fcc290056c6fb1ed444e028554a494d5bef425c0831f26a"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 127,
+      "sha256": "30600eaf15af8b9faf37e4fa18b5d26fdc4422c5fb2f270fd721b4d5f86da4c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36283,
+      "sha256": "33bd93485caa12df14524abcb4955436b37dc0e91261afde93f97c40e5e2ede1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "services",
+    "how-it-works",
+    "integrations",
+    "team",
+    "faq",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

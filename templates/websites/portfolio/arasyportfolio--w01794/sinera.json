@@ -1,0 +1,148 @@
+{
+  "id": "SN-W01794",
+  "title": "ArasyPortfolio",
+  "summary": "A sleek dark portfolio template for software engineers to showcase projects, services, and experience with an iOS-inspired, brand-forward landing page layout.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Technology",
+    "Brand",
+    "Minimal",
+    "Dark",
+    "Large Type",
+    "Art & Design",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3438,
+      "sha256": "60986e213e7e55f8aa93782789a5754ebaa18747b71eb509366632c6057cda57"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12408,
+      "sha256": "2517ca4a54cace8986afe3202a12c7ffcdcb07339aaf09f7d12799658b8c7ace"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 4121,
+      "sha256": "5e8f7eaf30c2db97a74b52237f5e997de9b29bd38930b872c0d25b15c213990a"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 525,
+      "sha256": "7ba6a139ce54809519e7ea81f8b260962894649f4982b95fcc00ef85289dbcf6"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 546,
+      "sha256": "c65691dd193b56221f5a661f2a3ffba0428e507628fda5421a8a1dba898985c4"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 690,
+      "sha256": "78fd3729f5feede91175a54f0e92f0f3366c447cb21a2fbcb3b1038068480760"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 1067,
+      "sha256": "ffc57aa9bd88e1ccae190ff0e23c9e7e0bead7155b712a9e4490cbe86e236d8c"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 1484,
+      "sha256": "830417bed2347d3bc13466f2d32eaeffc55903e2a7074523f1ca3033029b07ba"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 1390,
+      "sha256": "d1c15c4584d4b7ff60c342adc77125228fe9a5dac4b7dc02723e2732701c339a"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 2180,
+      "sha256": "bf66cf3a8fe78bd0024172d8a525a1dad510ae6b12375e951102e7525bff8510"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 3434,
+      "sha256": "d0168445a5d5195dcaf7158e3f8ac49c0d36a8a1ece10ccf51b9e744752466ff"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 2530,
+      "sha256": "50d1c409770cfe821ebc8f131c176f05eb5dfdb75bd2375199845912bbff91aa"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 1035,
+      "sha256": "a8462bfa48b892531cbb82d8ced2053b9edbb997c40e695eb23eaf6d912054cc"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 1237,
+      "sha256": "5de3fb864dc6648f6574336ebb07485d6076cd3d2bbe74090add8e2eedfa276a"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 1376,
+      "sha256": "50225d10e7faaab61c614944aba8afb7c1edd4d52e9808cf5d1152a003920304"
+    },
+    {
+      "path": "images/embedded/embedded-0013.svg",
+      "bytes": 669,
+      "sha256": "a1ecd1197666741cba442a984d1117c288c423a8c3bff19dd41c15d4b08dc934"
+    },
+    {
+      "path": "images/embedded/embedded-0014.svg",
+      "bytes": 614,
+      "sha256": "910653871a018be8ec0ffa7ef2f36d78255645e7a8828bc5f4ac2f7220e7da28"
+    },
+    {
+      "path": "images/embedded/embedded-0015.svg",
+      "bytes": 369,
+      "sha256": "32b6bccd50177f92f5841f4f694d6cfab3a2db06a7a13d892d1babb1a8a4030b"
+    },
+    {
+      "path": "images/embedded/embedded-0016.svg",
+      "bytes": 394,
+      "sha256": "943587211cb342440aace82a5141f0452565128f5bfc32f80ca0b92dad1a4e29"
+    },
+    {
+      "path": "images/embedded/embedded-0017.svg",
+      "bytes": 347,
+      "sha256": "648b1360f4acf3952fa33cb83edddb9626ab4649c31d4358ca61242f9d58c758"
+    },
+    {
+      "path": "index.html",
+      "bytes": 50876,
+      "sha256": "c8dfc67df6bad79c6c2f8f205891d3722bccd650b453112512df03318c6daf93"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "case-studies"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

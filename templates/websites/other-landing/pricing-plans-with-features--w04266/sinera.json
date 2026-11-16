@@ -1,0 +1,62 @@
+{
+  "id": "SN-W04266",
+  "title": "Pricing Plans with Features",
+  "summary": "Responsive pricing section with multiple plans, feature lists, badges, and call-to-action buttons styled with Tailwind CSS.",
+  "tags": [
+    "Pricing",
+    "Features",
+    "Tailwind CSS",
+    "Responsive",
+    "Call-to-action",
+    "Badges"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2426,
+      "sha256": "85a0d439c89efe6d25d1aaf320efd24731464f31e489ef6d43a7175f2217a620"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21706,
+      "sha256": "26c470c136027ff26e7d05bb07835d3b7ae10d70a1a959a56c745aaf6e05dbf9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1344,
+      "sha256": "7d213ccf29067d76b0840a3122cdfa523d38148b59f7848a3d9b169560dc2516"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 324,
+      "sha256": "b29ef34a55714525c0b990f0ec67c34023d7f37c8f6d024a4192958c430ff8df"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13444,
+      "sha256": "3ce9fac0423b6e5ec2a31c0da951d590e8eb9aeab037e227e8c77532989588ba"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "pricing"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

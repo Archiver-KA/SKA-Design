@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00296",
+  "title": "Tailwind Primary CTA Button with Hover Elevation",
+  "summary": "Indigo call-to-action button styled with Tailwind CSS. Features responsive padding, smooth translate hover/active states, and custom inset/outer shadows. Ideal for signup actions, forms, hero sections, or modal footers.",
+  "tags": [
+    "button",
+    "tailwindcss",
+    "call-to-action",
+    "responsive",
+    "hover-effect",
+    "interactive",
+    "signup"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1672,
+      "sha256": "e282401570f5526141a9387f3fd988f6dd2cce28d5b75cc8cb15f9f793257607"
+    },
+    {
+      "path": "component.html",
+      "bytes": 455,
+      "sha256": "61ba6b2507edaa5a486d256f7615d675b94270e7f1fbb721a4034977d625c578"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1324,
+      "sha256": "49d756c39129a701bd72f9dd41581fea53521e086571efdfa69077c6aaf02fba"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

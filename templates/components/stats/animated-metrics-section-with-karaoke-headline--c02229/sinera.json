@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02229",
+  "title": "Animated Metrics Section with Karaoke Headline",
+  "summary": "Full-width dark stats section featuring a multi-line karaoke-style animated headline and four animated metric counters. Uses Tailwind-style utility classes, scroll-triggered animations, and is suited for product, performance, or feature highlight pages.",
+  "tags": [
+    "feature",
+    "section",
+    "animated",
+    "stats",
+    "tailwind",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14974,
+      "sha256": "3bae8180a0af95d527f85ddbab5dbc6e5ee1e09141f82ccd75af0dd9c08f9c53"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3157,
+      "sha256": "3beaf9987f842935ca0793e610a358d016daaed1c9c50a434c460fead4146a8b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4024,
+      "sha256": "49a7452277c6f49e42b2fe5886054d8c9293b9af2cfd21d01c04e6646ddcb58a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

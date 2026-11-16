@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01564",
+  "title": "Empathy Design Agency Landing Page Template",
+  "summary": "A reusable landing page template for creative studios and agencies showcasing empathy-led digital design, services, impact, process, and contact CTA.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Technology",
+    "Dark",
+    "Animated",
+    "Gradient",
+    "Minimal",
+    "agency",
+    "accessibility"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3818,
+      "sha256": "7ad555bdeb8a44b1a2553959fb129a6baae2d53de508e9157b27e589196becfd"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6642,
+      "sha256": "7eab86048c2230cc4cd3f69dd8e5b390810d614dcacefb3d1439731b2fc5eb68"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 877,
+      "sha256": "ad1174f71331af94ea2a2cde971b5623e97b9bcc00d71edbe7bbd88064d805f8"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 234,
+      "sha256": "e6f6d1a829740d32bfa30c0f5d9ceb9e6fc0ff6dc47090f687d0c7972b4836eb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 52381,
+      "sha256": "10bf6b8fe6c1257a23c91c2520dd1e71a943b1e628f895ca9daaf8b06e5c4bd3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "navbar",
+    "hero",
+    "features",
+    "stats",
+    "how-it-works",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

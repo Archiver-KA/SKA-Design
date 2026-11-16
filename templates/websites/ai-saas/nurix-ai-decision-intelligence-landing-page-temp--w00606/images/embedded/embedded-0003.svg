@@ -1,0 +1,15 @@
+<svg class="w-full h-full overflow-visible" preserveAspectRatio="none">
+                            <path d="M0,140 C60,130 120,80 180,90 C240,100 300,40 360,30 C400,20 440,50 480,10" fill="none" stroke="url(#gradientLine)" stroke-width="2.5" stroke-linecap="round"></path>
+                            <defs>
+                                <linearGradient id="gradientLine" x1="0%" y1="0%" x2="100%" y2="0%">
+                                    <stop offset="0%" style="stop-color:#ea580c;stop-opacity:0.6"></stop>
+                                    <stop offset="100%" style="stop-color:#b45309;stop-opacity:1"></stop>
+                                </linearGradient>
+                            </defs>
+                            <!-- Tooltip Point -->
+                            <circle cx="360" cy="30" r="4" fill="#fff" stroke="#b45309" stroke-width="2"></circle>
+                            <g transform="translate(330, -15)">
+                                <rect width="60" height="24" rx="4" fill="#292524"></rect>
+                                <text x="30" y="16" font-family="sans-serif" font-size="10" fill="white" text-anchor="middle" font-weight="600">PEAK</text>
+                            </g>
+                        </svg>

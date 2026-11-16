@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01783",
+  "title": "User Profile Row with Avatar & Availability",
+  "summary": "Responsive profile item displaying avatar, name, role, social media icons and live availability badge. Built with Tailwind CSS, ideal for team lists, dashboards or directory views.",
+  "tags": [
+    "profile",
+    "avatar",
+    "tailwind",
+    "responsive",
+    "status",
+    "icon",
+    "user-card",
+    "dashboard"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4326,
+      "sha256": "136c508095319c48d2ed414d32ea66ad92db5b131e5b7e0a01186b790bbca96d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2613,
+      "sha256": "642603dda22ea3794fd038df9963518daf1d66ea53aadeada25556cf380cba32"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3611,
+      "sha256": "bbe231ae23f15e87d8d2406dbcc2ebc100da12a2b0641312d8bbd042540af378"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

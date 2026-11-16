@@ -1,0 +1,65 @@
+{
+  "id": "SN-W03582",
+  "title": "Creative Arts Community Landing Page Template",
+  "summary": "A clean, minimalist community landing page template designed for art clubs, social meetups, and creative workshop organizers to manage sessions and members.",
+  "tags": [
+    "Community",
+    "Art & Design",
+    "Social",
+    "Membership",
+    "Portfolio",
+    "Clean",
+    "Minimal",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3570,
+      "sha256": "59827c703def2a43b9386c62014cc984fa405485673df08ba5c2f2623dadfa90"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11994,
+      "sha256": "f0aac67ce1fc2a9dcb26a34cfe444758664939186ef99f53ed10f64dbba45e5b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "ae5fded5ef908ca986875f30da0dd4f9054d3e6a893f26b24c9f84d5830c11d1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27243,
+      "sha256": "2595355c118c0623858c53dde3cc4008eec390bc96f9ebb3754bd572c9d88904"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "how-it-works",
+    "schedule-agenda",
+    "cta",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

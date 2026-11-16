@@ -1,0 +1,41 @@
+{
+  "id": "SN-C02444",
+  "title": "Animated Score Counter Display",
+  "summary": "Large animated score display with color-morphing animation based on value. Counts up from 0 with smooth easing and transitions through color states. Shows dynamic label based on score range.",
+  "tags": [
+    "heading",
+    "animated",
+    "counter",
+    "score",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "typography",
+  "categoryLabel": "Text & typography",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3146,
+      "sha256": "5a689393d99565c3c9ceff512e974537a6da2bd849f501ba569b3c8c9e764ce9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4739,
+      "sha256": "a946268284ca1de9978b8a2601ea16d7709a89cc7e2e459d8aee5b810a2a4ec4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5590,
+      "sha256": "a6527bdd07d92651df7a855db6cd53694878fe5ee662b77212be3a96f85ac39e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

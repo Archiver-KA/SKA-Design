@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00614",
+  "title": "FAQ Accordion Section with Tailwind CSS",
+  "summary": "Responsive FAQ block using native <details>/<summary> for collapsible questions, styled with Tailwind CSS grid, spacing, and animated chevron icons. Perfect for help centers, pricing pages, or onboarding guides.",
+  "tags": [
+    "accordion",
+    "faq",
+    "collapsible",
+    "tailwind",
+    "interactive",
+    "section",
+    "details",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "faq",
+  "categoryLabel": "FAQ & accordions",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8064,
+      "sha256": "39da968f0cba32ff3c116edcfc10312b8a6162a7067b966a8e9da324d82356fb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3078,
+      "sha256": "ad84af46d8e2bb957e71f21f6b2e81f848790ae8f25995f1c49d246bc4f463db"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4068,
+      "sha256": "1e0fb13bc5a66b83222616dab513c20adfc51ffb78907305dbf37240233df02e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

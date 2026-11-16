@@ -1,0 +1,70 @@
+{
+  "id": "SN-W02264",
+  "title": "UI/UX Designer Portfolio Landing Page Template",
+  "summary": "A sleek, dark UI/UX designer portfolio landing page template to showcase creative work, services, pricing, and FAQs for freelance or studio brands.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Technology",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3873,
+      "sha256": "5a4186b4faf1c318b535cc79625ea2cb942a53b7b8e479e8da9ab95abe321168"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13308,
+      "sha256": "2fde18fd21ccf5362dd9ad01991fa0a3193f0c507cf9cfe38dd1b2edafcf2958"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 817,
+      "sha256": "e15a8229ffdebd9e35be110ce41f5447e15f1652a803ca321abc9a6b71761240"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25764,
+      "sha256": "fa908f16315ae97aca7f245ebf36036b4863c1474c2c3b2a4ab0c9f8d6e82835"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "cta",
+    "pricing",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

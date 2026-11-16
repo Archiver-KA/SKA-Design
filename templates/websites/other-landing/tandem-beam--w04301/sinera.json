@@ -1,0 +1,76 @@
+{
+  "id": "SN-W04301",
+  "title": "Tandem Beam",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3243,
+      "sha256": "840290ae13c05c816bc3257b4f883e8d60b6e6280ba2f0d0a26add4e911e2cf3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5064,
+      "sha256": "bb074c26edb29b71543b5b1088e6f0e2c2cdb3ec050b3d2c002e597649e2cdfb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1437,
+      "sha256": "3c2195a5b1abeefda448e014203df3a30dc2745bafab5ee897fb5015213656c4"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 170,
+      "sha256": "f3bc00efc922285c5a844f223fef8edcea3f0cd532dfe7e3c1df40b2e261c843"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 193,
+      "sha256": "ec216e521bbfa1cd3cdb70fe61166466247f084ed2ff9d93c30634107f9f0041"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 153,
+      "sha256": "6a2b1fbb9c79526d8fafbb23835c5e9323be5c7dca048e965b3e4cb9cf7c3fc5"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 138,
+      "sha256": "33d75d3f19d4da8a5fdfc9029120313f30fee39c161143965c446cf13134e732"
+    },
+    {
+      "path": "index.html",
+      "bytes": 132366,
+      "sha256": "03bc0d2b2086817cb40764c56299d94eb20b664295c17b1b1cb6e8457c27e32a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "sidebar",
+    "modal-overlay",
+    "code-terminal",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

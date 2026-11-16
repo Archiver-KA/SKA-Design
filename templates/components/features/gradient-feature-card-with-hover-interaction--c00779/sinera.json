@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00779",
+  "title": "Gradient Feature Card with Hover Interaction",
+  "summary": "Tailwind CSS card showcasing an icon, title and text over a radial gradient background. Border intensifies on hover for interactive feedback. Suited for feature highlights, dashboard shortcuts, or service listings in responsive layouts.",
+  "tags": [
+    "card",
+    "tailwind",
+    "icon",
+    "hover",
+    "gradient",
+    "feature",
+    "dashboard",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5054,
+      "sha256": "d13b86d2e6b9594024994eb207b503c305f130612696470ede6b881f1297074e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1374,
+      "sha256": "a6416e16cece3d5a237c4d8889605537da0338579f5d70192767f69b0f67a17a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2369,
+      "sha256": "169bbcc4fd9c2ab9eb1c6d01153f0d701e0857374ad1719022b91ac013ead338"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

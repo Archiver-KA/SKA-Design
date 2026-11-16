@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01708",
+  "title": "Logo Image Component",
+  "summary": "A responsive logo image component that displays a brand logo with automatic sizing and proper alt text for accessibility.",
+  "tags": [
+    "logo",
+    "image",
+    "branding",
+    "header",
+    "simple"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1230,
+      "sha256": "5054abcc4ec8c25e6029bac9bb12fa298098554970aa21b64320392fe4be8783"
+    },
+    {
+      "path": "component.html",
+      "bytes": 206,
+      "sha256": "b3457eba36aead396219b2a6bd9efeb5e49ee254cca7eeedf66042a55946816d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1047,
+      "sha256": "06862271270446bf991ad67142b5bc06b92abc98b27cb152f814b03a86b8dedd"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "SN-C02129",
+  "title": "Interactive Investment Timeline Dashboard",
+  "summary": "Responsive Tailwind dashboard card showing portfolio timeline with tab navigation, period selector (week-year), filter & sort dropdowns, and modal for adding investments. Tasks render as colored bars across a grid, ideal for finance or project tracking apps.",
+  "tags": [
+    "dashboard",
+    "timeline",
+    "tailwind",
+    "modal",
+    "filter",
+    "sort",
+    "responsive",
+    "investment"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10480,
+      "sha256": "2ee34d7fe7d83cb0cf9c2a4a44698706c2be182175c935613352cf98a1017b54"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42093,
+      "sha256": "1f17f1057bba2eb5b3a1a9298c1d9773f19f72ca7544e5b175509a6da5b35e23"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

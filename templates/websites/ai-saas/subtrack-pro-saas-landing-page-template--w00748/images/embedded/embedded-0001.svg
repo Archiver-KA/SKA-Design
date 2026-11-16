@@ -1,0 +1,19 @@
+<svg class="w-full h-full overflow-visible" preserveAspectRatio="none" viewBox="0 0 100 100">
+                                            <!-- Grid Lines -->
+                                            <line x1="0" y1="0" x2="100" y2="0" stroke="currentColor" class="text-white/5" stroke-dasharray="2 2" stroke-width="0.5"></line>
+                                            <line x1="0" y1="25" x2="100" y2="25" stroke="currentColor" class="text-white/5" stroke-dasharray="2 2" stroke-width="0.5"></line>
+                                            <line x1="0" y1="50" x2="100" y2="50" stroke="currentColor" class="text-white/5" stroke-dasharray="2 2" stroke-width="0.5"></line>
+                                            <line x1="0" y1="75" x2="100" y2="75" stroke="currentColor" class="text-white/5" stroke-dasharray="2 2" stroke-width="0.5"></line>
+                                            
+                                            <!-- The Line (Approximate shape from image: flat then spike) -->
+                                            <path d="M0,100 L16,100 L32,100 L48,100 L64,100 L80,95 L100,20" fill="none" stroke="currentColor" class="text-emerald-500" stroke-width="2" vector-effect="non-scaling-stroke"></path>
+                                            
+                                            <!-- Points -->
+                                            <circle cx="0" cy="100" r="1.5" class="fill-zinc-900 stroke-emerald-500" stroke-width="1"></circle>
+                                            <circle cx="16" cy="100" r="1.5" class="fill-zinc-900 stroke-emerald-500" stroke-width="1"></circle>
+                                            <circle cx="32" cy="100" r="1.5" class="fill-zinc-900 stroke-emerald-500" stroke-width="1"></circle>
+                                            <circle cx="48" cy="100" r="1.5" class="fill-zinc-900 stroke-emerald-500" stroke-width="1"></circle>
+                                            <circle cx="64" cy="100" r="1.5" class="fill-zinc-900 stroke-emerald-500" stroke-width="1"></circle>
+                                            <circle cx="80" cy="95" r="1.5" class="fill-zinc-900 stroke-emerald-500" stroke-width="1"></circle>
+                                            <circle cx="100" cy="20" r="1.5" class="fill-zinc-900 stroke-emerald-500" stroke-width="1"></circle>
+                                        </svg>

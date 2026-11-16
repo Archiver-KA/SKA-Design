@@ -1,0 +1,64 @@
+{
+  "id": "SN-W04013",
+  "title": "Luxury Glass Services Landing Page Template",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3640,
+      "sha256": "10f4f26c1a62f3f266c23dd445f74a7d91ec772bb75aa16f6cfd1dd191ec6726"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15518,
+      "sha256": "951fcad788755ac98ad3a8dd3abbb2072f173b95017f140a813114525bba5b89"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 961,
+      "sha256": "6223c9d43d975b4a2aaf93bb80ee311b32160e3e81f12a10b634f5f9f1106632"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 50881,
+      "sha256": "1b7033759a03632827bf74257000a65dde8502d665395578a6375725b01dc785"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "how-it-works",
+    "gallery-portfolio",
+    "testimonials",
+    "contact-form",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

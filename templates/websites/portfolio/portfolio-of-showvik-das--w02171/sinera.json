@@ -1,0 +1,62 @@
+{
+  "id": "SN-W02171",
+  "title": "Portfolio of Showvik Das",
+  "summary": "A dark, reusable portfolio template for OSP design engineers to showcase fiber network expertise, experience, education, and contact details.",
+  "tags": [
+    "Portfolio",
+    "Technology",
+    "Services",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Resume",
+    "Personal Brand",
+    "Engineering"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3481,
+      "sha256": "2b8030ee56d2f032160651e324733a56bf9a0d376a7482569f9deb0a74aa3174"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16954,
+      "sha256": "e87f7479f1ca5b35caee8804dd2f89a0b5e73398b4eaf4901a36047db0db7d6a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 712,
+      "sha256": "acab8f2d51a956b063e5dd3efb296cd81f87564c80ea304d1ddb21d7092dc89d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 48643,
+      "sha256": "3f88fd52774900a9055b23f47bfc06c33d93fd329be8c475c330dc4fa62bce07"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

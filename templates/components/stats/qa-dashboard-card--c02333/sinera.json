@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02333",
+  "title": "QA Dashboard Card",
+  "summary": "Quality assurance metrics dashboard showing test results, failures, pending tests, and coverage with trend indicators",
+  "tags": [
+    "dashboard",
+    "metrics",
+    "qa",
+    "testing",
+    "card",
+    "responsive",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7566,
+      "sha256": "a1de64d4c21f63868e973e3d85855ef016d817c70ff1b34c3876f142d206fede"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2019,
+      "sha256": "20155b00de1f65f90658b4b80d0b4da4cc615cd4a6c228ddcecec120b8af2d74"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2857,
+      "sha256": "baa9d305def42598a517f8eb379e36f9c9c5f23b27ddc4cd1183286239113856"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

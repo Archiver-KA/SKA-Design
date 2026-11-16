@@ -1,0 +1,64 @@
+{
+  "id": "SN-W03743",
+  "title": "Sci-Fi Game Landing Page Template",
+  "summary": "A reusable dark sci-fi landing page template for promoting a tactical extraction game, showcasing features, lore updates, dev logs, and pre-launch CTAs.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Entertainment",
+    "Dark",
+    "Futuristic",
+    "Grid",
+    "Large Type",
+    "Blog",
+    "Gaming"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3561,
+      "sha256": "26fb0ac783a34afb3e12850627c1e11fc34708ba686fe75904a2a37b74d42812"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17332,
+      "sha256": "85a4498bdb2529e19357055dd9134c7649a4487a578eab9ee178b16c80db04b9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "ce20ae4ec0cdd98e752f493561b6ab391ba4675f52ebfd298f8a4bdb47982ae6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30185,
+      "sha256": "134655def44138597c41135f5bc6bb92b91f188cb0f119a0cdbc4bad182b689f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

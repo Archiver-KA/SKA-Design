@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01914",
+  "title": "Image Thumbnail Component",
+  "summary": "A responsive image component displaying a thumbnail from a CDN. Ideal for product images, gallery thumbnails, or media previews in e-commerce and content sites.",
+  "tags": [
+    "card",
+    "image",
+    "thumbnail",
+    "responsive",
+    "ecommerce"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 25132,
+      "sha256": "382d586d6d428309b10a39dd08c41d34135dcb6af2cbb7ab6c7b5bfab3a0f9c5"
+    },
+    {
+      "path": "component.html",
+      "bytes": 261,
+      "sha256": "52cdc2e9091ea32800449ac10262a75f7e5af3d6e106640027d3bb5adfbc9455"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1107,
+      "sha256": "3f9902cc9b24dc70e34c5c3d5e287a76213b11330d1a0710ac1c648505e0a8b9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

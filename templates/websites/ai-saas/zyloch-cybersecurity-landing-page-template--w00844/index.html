@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html lang="en" class="bg-[#030303]">
+<head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Zyloch - Application Code Posture Platform</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<!-- Locomotive Scroll CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/locomotive-scroll@4.1.4/dist/locomotive-scroll.min.css">
+<style>
+body {
+font-family: 'Inter', sans-serif;
+background-color: #030303;
+color: #ffffff;
+}
+.font-mono-tech {
+font-family: 'JetBrains Mono', monospace;
+}
+.text-outline-white {
+-webkit-text-stroke: 1px rgba(255, 255, 255, 0.4);
+color: transparent;
+}
+.text-outline-cyan {
+-webkit-text-stroke: 1px #00E5FF;
+color: transparent;
+}
+.hero-bg {
+background-image:
+radial-gradient(circle at 80% 40%, rgba(0, 229, 255, 0.05) 0%, transparent 40%),
+radial-gradient(circle at 20% 60%, rgba(255, 255, 255, 0.02) 0%, #030303 50%);
+}
+.circuit-bg {
+background-image: radial-gradient(rgba(0, 229, 255, 0.1) 1px, transparent 1px);
+background-size: 40px 40px;
+background-position: 0 0;
+}
+.dot-matrix-bg {
+background-image: radial-gradient(rgba(255, 255, 255, 0.1) 1px, transparent 1px);
+background-size: 20px 20px;
+}
+/* Sophisticated Reveal Animations */
+.reveal-up {
+opacity: 0;
+transform: translateY(40px);
+transition: all 1.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.reveal-up.is-inview {
+opacity: 1;
+transform: translateY(0);
+}
+.reveal-fade {
+opacity: 0;
+transition: opacity 1.5s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.reveal-fade.is-inview {
+opacity: 1;
+}
+/* Delays */
+.delay-100 { transition-delay: 100ms; }
+.delay-200 { transition-delay: 200ms; }
+.delay-300 { transition-delay: 300ms; }
+.delay-400 { transition-delay: 400ms; }
+.delay-500 { transition-delay: 500ms; }
+/* Chart & Line Animations */
+.draw-path {
+stroke-dasharray: 300;
+stroke-dashoffset: 300;
+transition: stroke-dashoffset 2.5s cubic-bezier(0.16, 1, 0.3, 1) 0.2s;
+}
+.is-inview .draw-path {
+stroke-dashoffset: 0;
+}
+.draw-donut {
+stroke-dasharray: 0, 100;
+transition: stroke-dasharray 2s cubic-bezier(0.16, 1, 0.3, 1) 0.2s;
+}
+.is-inview .draw-donut {
+stroke-dasharray: 94, 100;
+}
+.anim-bar {
+transform-origin: bottom;
+transform: scaleY(0);
+transition: transform 1.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.is-inview .anim-bar {
+transform: scaleY(1);
+}
+/* Custom Form Elements */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active{
+-webkit-box-shadow: 0 0 0 30px #050505 inset !important;
+-webkit-text-fill-color: white !important;
+transition: background-color 5000s ease-in-out 0s;
+}
+.custom-checkbox input:checked + div {
+background-color: #00E5FF;
+border-color: #00E5FF;
+}
+.custom-checkbox input:checked + div svg {
+opacity: 1;
+transform: scale(1);
+}
+/* Continuous Pulse for Infographics */
+@keyframes radar-spin {
+from { transform: rotate(0deg); }
+to { transform: rotate(360deg); }
+}
+.animate-radar {
+animation: radar-spin 4s linear infinite;
+}
+@keyframes flow-line {
+to { stroke-dashoffset: -20; }
+}
+.animate-flow {
+stroke-dasharray: 4;
+animation: flow-line 1s linear infinite;
+}
+</style>
+
+
+
+</head>
+<body class="antialiased selection:bg-[#00E5FF] selection:text-black overflow-x-hidden">
+
+    <!-- Fixed Header -->
+    <header class="fixed top-0 w-full border-b border-white/5 bg-black/50 backdrop-blur-md z-50">
+        <div class="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
+            <div class="text-xs font-mono-tech tracking-widest text-zinc-300">ZYLOCH</div>
+            
+            <nav class="hidden md:flex gap-8">
+                <a href="#platform" class="text-xs font-mono-tech tracking-widest text-zinc-400 hover:text-white transition-colors">PLATFORM</a>
+                <a href="#product" class="text-xs font-mono-tech tracking-widest text-zinc-400 hover:text-white transition-colors">PRODUCT</a>
+                <a href="#contact" class="text-xs font-mono-tech tracking-widest text-zinc-400 hover:text-white transition-colors">CONTACT</a>
+            </nav>
+
+            <a href="#contact" class="text-xs font-mono-tech tracking-widest text-[#00E5FF] hover:text-white transition-colors flex items-center gap-1 group">
+                INITIATE SECURE LINK <iconify-icon icon="solar:arrow-right-up-linear" stroke-width="1.5" class="w-4 h-4 group-hover:text-white transition-colors"></iconify-icon>
+            </a>
+        </div>
+    </header>
+
+    <!-- Locomotive Scroll Container -->
+    <main data-scroll-container>
+        
+        <!-- Hero Section -->
+        <section class="relative pt-40 pb-24 lg:pt-56 lg:pb-32 overflow-hidden hero-bg" data-scroll-section>
+            <div class="absolute right-0 top-0 w-[800px] h-[800px] opacity-30 pointer-events-none translate-x-1/3 -translate-y-1/4" data-scroll data-scroll-speed="-2">
+                <div class="w-full h-full rounded-full border border-[#00E5FF]/20" style="background: radial-gradient(circle, rgba(0,229,255,0.1) 0%, transparent 70%); box-shadow: 0 0 100px 20px rgba(0,229,255,0.05) inset;"></div>
+                <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[400px] h-[400px] rounded-full border border-white/10" style="background: radial-gradient(circle, rgba(255,255,255,0.05) 0%, transparent 60%);"></div>
+                <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[100px] h-[100px] bg-black rounded-full shadow-[0_0_50px_20px_rgba(0,229,255,0.2)]"></div>
+            </div>
+
+            <div class="max-w-7xl mx-auto px-6 relative z-10">
+                <div class="max-w-3xl">
+                    <div class="text-[#00E5FF] text-xs font-mono-tech tracking-widest mb-8 uppercase reveal-up" data-scroll>Application code posture platform</div>
+                    
+                    <h1 class="text-6xl md:text-8xl lg:text-9xl leading-[0.9] tracking-tight font-medium mb-8">
+                        <span class="text-outline-white block reveal-up delay-100" data-scroll>Secure</span>
+                        <span class="block reveal-up delay-200" data-scroll>code.</span>
+                    </h1>
+                    
+                    <p class="text-lg text-zinc-400 max-w-sm mb-12 font-light leading-relaxed reveal-up delay-300" data-scroll>
+                        Catching risks in source code, AI commits, secrets, and supply chains — before they become breaches.
+                    </p>
+                    
+                    <div class="flex items-center gap-6 reveal-up delay-400" data-scroll>
+                        <a href="#contact" data-scroll-to class="bg-[#00E5FF] text-black px-6 py-3 text-sm font-medium hover:bg-white transition-colors flex items-center gap-2 rounded-sm group cursor-pointer inline-flex">
+                            Book Demo <iconify-icon icon="solar:arrow-right-up-linear" stroke-width="1.5" class="w-4 h-4 group-hover:-translate-y-0.5 group-hover:translate-x-0.5 transition-transform"></iconify-icon>
+                        </a>
+                        <span class="text-xs font-mono-tech text-zinc-600 tracking-widest uppercase flex items-center gap-2">
+                            Scroll 
+                            <span class="w-px h-6 bg-zinc-700 block animate-pulse"></span>
+                        </span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="absolute bottom-0 w-full border-t border-white/5 bg-black/40 py-4 overflow-hidden hidden md:block">
+                <div class="flex items-center gap-16 px-6 text-xs font-mono-tech text-zinc-600 tracking-widest whitespace-nowrap">
+                    <span class="flex items-center gap-3"><span class="w-1 h-1 rounded-full bg-zinc-800"></span> SBOM</span>
+                    <span class="flex items-center gap-3"><span class="w-1 h-1 rounded-full bg-zinc-800"></span> OWASP</span>
+                    <span class="flex items-center gap-3"><span class="w-1 h-1 rounded-full bg-zinc-800"></span> COMPLIANCE</span>
+                    <span class="flex items-center gap-3"><span class="w-1 h-1 rounded-full bg-zinc-800"></span> CI/CD</span>
+                    <span class="flex items-center gap-3"><span class="w-1 h-1 rounded-full bg-zinc-800"></span> CLOUD POSTURE</span>
+                    <span class="flex items-center gap-3"><span class="w-1 h-1 rounded-full bg-zinc-800"></span> SOURCE CODE</span>
+                    <span class="flex items-center gap-3"><span class="w-1 h-1 rounded-full bg-zinc-800"></span> AI RISK</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- The Shift Section -->
+        <section id="platform" class="py-32 border-t border-white/5 relative" data-scroll-section>
+            <div class="absolute inset-0 circuit-bg opacity-30 pointer-events-none" data-scroll data-scroll-speed="-0.5"></div>
+            <div class="absolute inset-0 bg-gradient-to-b from-black via-transparent to-black pointer-events-none"></div>
+
+            <div class="max-w-7xl mx-auto px-6 relative z-10">
+                <div class="flex justify-between items-start mb-16 reveal-fade" data-scroll>
+                    <div class="text-[#00E5FF] text-xs font-mono-tech tracking-widest uppercase">The Shift</div>
+                    <div class="text-zinc-600 text-xs font-mono-tech">*001</div>
+                </div>
+
+                <h2 class="text-5xl md:text-7xl lg:text-8xl leading-[0.95] tracking-tight font-medium mb-32 max-w-4xl">
+                    <span class="block reveal-up" data-scroll>The biggest</span>
+                    <span class="text-outline-white block reveal-up delay-100" data-scroll>risk lives</span>
+                    <span class="text-[#00E5FF] block reveal-up delay-200" data-scroll>inside your code.</span>
+                </h2>
+
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-16 md:gap-32 mb-16">
+                    <div class="reveal-up" data-scroll>
+                        <div class="text-xs font-mono-tech text-zinc-500 mb-2 uppercase tracking-wider">Attack vectors detected</div>
+                        <div class="text-5xl font-medium tracking-tight">247K<span class="text-[#00E5FF]">+</span></div>
+                    </div>
+                    <div class="reveal-up delay-100" data-scroll>
+                        <div class="text-xs font-mono-tech text-zinc-500 mb-2 uppercase tracking-wider">Repositories protected</div>
+                        <div class="text-5xl font-medium tracking-tight">12K<span class="text-[#00E5FF]">+</span></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Product Page / Capabilities Section (New) -->
+        <section id="product" class="py-32 border-t border-white/5 bg-[#020202] relative" data-scroll-section>
+            <div class="max-w-7xl mx-auto px-6 relative z-10">
+                <div class="flex justify-between items-start mb-16 reveal-fade" data-scroll>
+                    <div class="text-[#00E5FF] text-xs font-mono-tech tracking-widest uppercase">Product Capabilities</div>
+                    <div class="text-zinc-600 text-xs font-mono-tech">*002</div>
+                </div>
+
+                <h2 class="text-5xl md:text-6xl tracking-tight font-medium mb-24 max-w-3xl leading-tight reveal-up" data-scroll>
+                    Deep dive into the<br>
+                    <span class="text-outline-white">Zyloch Engine.</span>
+                </h2>
+
+                <!-- Infographic Bento Box Grid -->
+                <div class="grid grid-cols-1 md:grid-cols-4 gap-4 reveal-up delay-100" data-scroll>
+                    
+                    <!-- Feature 1: Code & Secrets Map (Spans 2) -->
+                    <div class="md:col-span-2 bg-[#050505] border border-white/5 rounded-sm p-8 relative overflow-hidden group">
+                        <div class="absolute right-0 top-0 w-64 h-64 bg-[#00E5FF]/5 blur-[80px] rounded-full pointer-events-none group-hover:bg-[#00E5FF]/10 transition-colors duration-700"></div>
+                        
+                        <div class="relative z-10 mb-32">
+                            <h3 class="text-2xl font-medium tracking-tight mb-2">Secret Sprawl Mapping</h3>
+                            <p class="text-sm text-zinc-400 font-light max-w-sm">Automatically trace hardcoded credentials, API keys, and tokens across your entire organization's Git history.</p>
+                        </div>
+
+                        <!-- Infographic: Node Map -->
+                        <div class="absolute bottom-[-10%] right-[-5%] w-[120%] h-64 pointer-events-none">
+                            <svg viewBox="0 0 400 200" class="w-full h-full opacity-60">
+                                <!-- Connecting Lines -->
+                                <path d="M50,150 L150,100 L250,130 L350,80" fill="none" stroke="#3f3f46" stroke-width="1"/>
+                                <path d="M150,100 L200,50 L350,80" fill="none" stroke="#3f3f46" stroke-width="1"/>
+                                <path d="M150,100 L250,180" fill="none" stroke="#3f3f46" stroke-width="1"/>
+                                <!-- Animated Data Flow -->
+                                <path d="M50,150 L150,100 L250,130 L350,80" fill="none" stroke="#00E5FF" stroke-width="1.5" class="animate-flow"/>
+                                
+                                <!-- Nodes -->
+                                <circle cx="50" cy="150" r="4" fill="#3f3f46" />
+                                <circle cx="150" cy="100" r="6" fill="#00E5FF" class="animate-pulse"/>
+                                <circle cx="200" cy="50" r="4" fill="#3f3f46" />
+                                <circle cx="250" cy="130" r="5" fill="#ef4444" />
+                                <circle cx="250" cy="180" r="4" fill="#3f3f46" />
+                                <circle cx="350" cy="80" r="6" fill="#00E5FF" class="animate-pulse"/>
+
+                                <!-- Labels -->
+                                <text x="145" y="85" fill="#a1a1aa" font-family="JetBrains Mono" font-size="10">main_api_key</text>
+                                <text x="255" y="125" fill="#ef4444" font-family="JetBrains Mono" font-size="10">EXPOSED DB_URI</text>
+                            </svg>
+                        </div>
+                    </div>
+
+                    <!-- Feature 2: Supply Chain (Spans 2) -->
+                    <div class="md:col-span-2 bg-[#050505] border border-white/5 rounded-sm p-8 relative overflow-hidden group">
+                        <div class="absolute inset-0 z-0">
+                            <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80" alt="Cyber abstract" class="w-full h-full object-cover opacity-10 mix-blend-screen group-hover:scale-105 transition-transform duration-[3s]" />
+                            <div class="absolute inset-0 bg-gradient-to-t from-[#050505] to-[#050505]/80"></div>
+                        </div>
+
+                        <div class="relative z-10 mb-8">
+                            <h3 class="text-2xl font-medium tracking-tight mb-2">Supply Chain Immune System</h3>
+                            <p class="text-sm text-zinc-400 font-light max-w-sm">Deep inspection of OSS dependencies and third-party modules before they merge.</p>
+                        </div>
+
+                        <!-- Infographic: Component Tree -->
+                        <div class="relative z-10 bg-black/40 border border-white/5 rounded-sm p-4 backdrop-blur-sm mt-12">
+                            <div class="flex items-center justify-between text-xs font-mono-tech text-zinc-500 mb-4 border-b border-white/5 pb-2">
+                                <span>DEPENDENCY GRAPH</span>
+                                <span class="text-emerald-400">SAFE</span>
+                            </div>
+                            <div class="space-y-3 font-mono-tech text-xs">
+                                <div class="flex items-center gap-3">
+                                    <div class="w-2 h-2 rounded-full bg-zinc-700"></div>
+                                    <span class="text-zinc-300">react-core v18.2</span>
+                                    <span class="ml-auto text-zinc-600">0 risks</span>
+                                </div>
+                                <div class="flex items-center gap-3 pl-5 border-l border-zinc-800 ml-1">
+                                    <div class="w-1.5 h-1.5 rounded-full bg-orange-500"></div>
+                                    <span class="text-zinc-400">lodash.merge v4.6</span>
+                                    <span class="ml-auto text-orange-500">CVE-2024-X</span>
+                                </div>
+                                <div class="flex items-center gap-3 pl-5 border-l border-zinc-800 ml-1">
+                                    <div class="w-1.5 h-1.5 rounded-full bg-zinc-700"></div>
+                                    <span class="text-zinc-400">axios v1.6.0</span>
+                                    <span class="ml-auto text-zinc-600">0 risks</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Feature 3: CI/CD Pipeline Flow (Spans 4) -->
+                    <div class="md:col-span-4 bg-[#050505] border border-white/5 rounded-sm p-8 md:p-12 relative overflow-hidden group flex flex-col md:flex-row items-center gap-12">
+                        <div class="relative z-10 w-full md:w-1/3">
+                            <div class="text-[#00E5FF] text-xs font-mono-tech tracking-widest mb-4 uppercase">Developer Friction = 0</div>
+                            <h3 class="text-3xl font-medium tracking-tight mb-4 leading-tight">Native Pipeline Interception</h3>
+                            <p class="text-sm text-zinc-400 font-light">Block malicious code at the PR level. Zyloch integrates directly into GitHub, GitLab, and Bitbucket with millisecond latency.</p>
+                            
+                            <ul class="mt-8 space-y-3 text-sm font-mono-tech text-zinc-500">
+                                <li class="flex items-center gap-2"><iconify-icon icon="solar:check-circle-linear" class="text-[#00E5FF]"></iconify-icon> Pull Request Checks</li>
+                                <li class="flex items-center gap-2"><iconify-icon icon="solar:check-circle-linear" class="text-[#00E5FF]"></iconify-icon> Pre-commit Hooks</li>
+                                <li class="flex items-center gap-2"><iconify-icon icon="solar:check-circle-linear" class="text-[#00E5FF]"></iconify-icon> IDE Extensions</li>
+                            </ul>
+                        </div>
+
+                        <!-- Infographic: Pipeline Velocity -->
+                        <div class="relative w-full md:w-2/3 h-64 flex items-center justify-center">
+                            <div class="absolute inset-0 dot-matrix-bg opacity-20 mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent)"></div>
+                            
+                            <!-- Steps Container -->
+                            <div class="flex items-center justify-between w-full max-w-2xl relative z-10">
+                                <!-- Line behind -->
+                                <div class="absolute top-1/2 left-0 w-full h-px bg-white/10 -translate-y-1/2 z-0"></div>
+                                <div class="absolute top-1/2 left-0 w-2/3 h-px bg-[#00E5FF] -translate-y-1/2 z-0 opacity-50 shadow-[0_0_10px_#00E5FF]"></div>
+
+                                <!-- Node 1 -->
+                                <div class="relative z-10 flex flex-col items-center">
+                                    <div class="w-12 h-12 bg-black border border-white/10 rounded-sm flex items-center justify-center text-zinc-400 group-hover:border-[#00E5FF] transition-colors">
+                                        <iconify-icon icon="solar:code-square-linear" class="w-6 h-6"></iconify-icon>
+                                    </div>
+                                    <span class="absolute -bottom-8 text-xs font-mono-tech text-zinc-500">COMMIT</span>
+                                </div>
+
+                                <!-- Node 2 (Zyloch Scanner) -->
+                                <div class="relative z-10 flex flex-col items-center">
+                                    <div class="absolute -inset-4 bg-[#00E5FF]/10 rounded-full blur-md animate-pulse"></div>
+                                    <div class="w-16 h-16 bg-[#020202] border-2 border-[#00E5FF] rounded-sm flex items-center justify-center text-[#00E5FF] relative z-10 transform scale-110 shadow-[0_0_20px_rgba(0,229,255,0.2)]">
+                                        <svg viewBox="0 0 24 24" class="w-8 h-8 animate-radar opacity-50 absolute inset-0 m-auto" fill="none">
+                                            <circle cx="12" cy="12" r="10" stroke="#00E5FF" stroke-width="0.5" stroke-dasharray="2 4"/>
+                                            <path d="M12 12 L12 2" stroke="#00E5FF" stroke-width="1"/>
+                                        </svg>
+                                        <span class="text-xs font-mono-tech tracking-widest bg-[#020202] px-1 relative z-10">SCAN</span>
+                                    </div>
+                                    <span class="absolute -bottom-10 text-xs font-mono-tech text-[#00E5FF] whitespace-nowrap text-center">
+                                        ZYLOCH ENGINE<br>
+                                        <span class="text-zinc-600 text-[10px]">42ms</span>
+                                    </span>
+                                </div>
+
+                                <!-- Node 3 -->
+                                <div class="relative z-10 flex flex-col items-center">
+                                    <div class="w-12 h-12 bg-black border border-white/10 rounded-sm flex items-center justify-center text-zinc-600">
+                                        <iconify-icon icon="solar:server-square-linear" class="w-6 h-6"></iconify-icon>
+                                    </div>
+                                    <span class="absolute -bottom-8 text-xs font-mono-tech text-zinc-600">DEPLOY</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Existing Risk Dashboard Section -->
+        <section class="py-32 border-t border-white/5 bg-[#030303] overflow-hidden" data-scroll-section>
+            <div class="max-w-7xl mx-auto px-6">
+                <div class="flex justify-between items-start mb-16 reveal-fade" data-scroll>
+                    <div class="text-[#00E5FF] text-xs font-mono-tech tracking-widest uppercase">Risk Intelligence</div>
+                    <div class="text-zinc-600 text-xs font-mono-tech">*003</div>
+                </div>
+
+                <h2 class="text-5xl md:text-6xl tracking-tight font-medium mb-16 max-w-2xl leading-[1.1] reveal-up" data-scroll>
+                    One dashboard.<br>Total intelligence.
+                </h2>
+
+                <!-- Dashboard Grid -->
+                <div class="flex flex-col gap-px bg-white/5 border border-white/5 rounded-sm p-px reveal-up delay-100" data-scroll>
+                    
+                    <!-- Top 4 Stats -->
+                    <div class="grid grid-cols-2 lg:grid-cols-4 gap-px bg-black">
+                        <!-- Stat 1 -->
+                        <div class="bg-[#080808] p-6 flex flex-col justify-between h-32 relative overflow-hidden group hover:bg-[#0a0a0a] transition-colors">
+                            <div class="text-xs font-mono-tech text-zinc-500 uppercase tracking-wider">Risk Score</div>
+                            <div class="text-4xl font-medium text-[#00E5FF] tracking-tight">94</div>
+                            <div class="absolute bottom-0 left-0 w-full h-8 opacity-20 transform translate-y-2 group-hover:translate-y-0 transition-transform">
+                                <svg viewBox="0 0 100 30" preserveAspectRatio="none" class="w-full h-full">
+                                    <path d="M0,30 L0,20 L20,25 L40,15 L60,20 L80,5 L100,10 L100,30 Z" fill="url(#grad-cyan)" />
+                                    <path d="M0,20 L20,25 L40,15 L60,20 L80,5 L100,10" fill="none" stroke="#00E5FF" stroke-width="1.5" />
+                                    <defs><linearGradient id="grad-cyan" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00E5FF"/><stop offset="100%" stop-color="transparent"/></linearGradient></defs>
+                                </svg>
+                            </div>
+                        </div>
+                        <!-- Stat 2 -->
+                        <div class="bg-[#080808] p-6 flex flex-col justify-between h-32 relative overflow-hidden group hover:bg-[#0a0a0a] transition-colors">
+                            <div class="text-xs font-mono-tech text-zinc-500 uppercase tracking-wider">Vulnerabilities</div>
+                            <div class="text-4xl font-medium text-pink-400 tracking-tight">2</div>
+                            <div class="absolute bottom-0 left-0 w-full h-8 opacity-20 transform translate-y-2 group-hover:translate-y-0 transition-transform">
+                                <svg viewBox="0 0 100 30" preserveAspectRatio="none" class="w-full h-full">
+                                    <path d="M0,10 L20,15 L40,10 L60,25 L80,15 L100,20" fill="none" stroke="#f472b6" stroke-width="1.5" />
+                                </svg>
+                            </div>
+                        </div>
+                        <!-- Stat 3 -->
+                        <div class="bg-[#080808] p-6 flex flex-col justify-between h-32 relative overflow-hidden group hover:bg-[#0a0a0a] transition-colors">
+                            <div class="text-xs font-mono-tech text-zinc-500 uppercase tracking-wider">Dependencies</div>
+                            <div class="text-4xl font-medium text-purple-400 tracking-tight">1284</div>
+                            <div class="absolute bottom-0 left-0 w-full h-8 opacity-20 transform translate-y-2 group-hover:translate-y-0 transition-transform">
+                                <svg viewBox="0 0 100 30" preserveAspectRatio="none" class="w-full h-full">
+                                    <path d="M0,25 L20,20 L40,22 L60,10 L80,15 L100,5" fill="none" stroke="#c084fc" stroke-width="1.5" />
+                                </svg>
+                            </div>
+                        </div>
+                        <!-- Stat 4 -->
+                        <div class="bg-[#080808] p-6 flex flex-col justify-between h-32 relative overflow-hidden group hover:bg-[#0a0a0a] transition-colors">
+                            <div class="text-xs font-mono-tech text-zinc-500 uppercase tracking-wider">Owasp Coverage</div>
+                            <div class="text-4xl font-medium text-orange-400 tracking-tight">92%</div>
+                            <div class="absolute bottom-0 left-0 w-full h-8 opacity-20 transform translate-y-2 group-hover:translate-y-0 transition-transform">
+                                <svg viewBox="0 0 100 30" preserveAspectRatio="none" class="w-full h-full">
+                                    <path d="M0,15 L20,10 L40,15 L60,5 L80,8 L100,2" fill="none" stroke="#fb923c" stroke-width="1.5" />
+                                </svg>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Page / Setup Link Section (New) -->
+        <section id="contact" class="py-32 border-t border-white/5 relative bg-[#020202]" data-scroll-section>
+            <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&q=80')] bg-cover bg-center opacity-[0.03] mix-blend-screen pointer-events-none"></div>
+            
+            <div class="max-w-7xl mx-auto px-6 relative z-10">
+                <div class="flex justify-between items-start mb-16 reveal-fade" data-scroll>
+                    <div class="text-[#00E5FF] text-xs font-mono-tech tracking-widest uppercase">Secure Link</div>
+                    <div class="text-zinc-600 text-xs font-mono-tech">*004</div>
+                </div>
+
+                <div class="grid grid-cols-1 lg:grid-cols-5 gap-16 lg:gap-24">
+                    
+                    <!-- Left Column: Typography & Infographic -->
+                    <div class="lg:col-span-2 flex flex-col justify-between reveal-up" data-scroll>
+                        <div>
+                            <h2 class="text-5xl md:text-7xl leading-[0.9] tracking-tight font-medium mb-6">
+                                <span class="block">Initiate</span>
+                                <span class="text-outline-cyan block">Contact.</span>
+                            </h2>
+                            <p class="text-base text-zinc-400 font-light max-w-sm mb-12">
+                                Request a personalized platform demonstration, API access, or discuss enterprise deployment options with our engineering team.
+                            </p>
+                        </div>
+
+                        <!-- Location / Server Map Infographic -->
+                        <div class="relative w-full h-48 border border-white/5 bg-[#050505] rounded-sm overflow-hidden hidden md:block mt-auto">
+                            <div class="absolute inset-0 dot-matrix-bg opacity-30"></div>
+                            <div class="absolute inset-0 flex items-center justify-center">
+                                <svg viewBox="0 0 200 100" class="w-full h-full opacity-50">
+                                    <!-- Network Lines -->
+                                    <path d="M40,50 L100,30 L160,60" fill="none" stroke="#3f3f46" stroke-width="0.5"/>
+                                    <path d="M100,30 L120,80 L160,60" fill="none" stroke="#3f3f46" stroke-width="0.5"/>
+                                    <!-- Nodes -->
+                                    <circle cx="40" cy="50" r="2" fill="#71717a"/>
+                                    <!-- Active Node -->
+                                    <circle cx="100" cy="30" r="3" fill="#00E5FF"/>
+                                    <circle cx="100" cy="30" r="8" fill="none" stroke="#00E5FF" stroke-width="1" class="animate-ping"/>
+                                    <circle cx="120" cy="80" r="2" fill="#71717a"/>
+                                    <circle cx="160" cy="60" r="2" fill="#71717a"/>
+                                    
+                                    <text x="105" y="25" fill="#00E5FF" font-family="JetBrains Mono" font-size="6">HQ: US-EAST-1</text>
+                                </svg>
+                            </div>
+                            <div class="absolute bottom-4 left-4 text-[10px] font-mono-tech text-zinc-500 uppercase">
+                                Global Grid Active
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Right Column: Form UI -->
+                    <div class="lg:col-span-3 reveal-up delay-200" data-scroll>
+                        <form class="bg-[#050505] border border-white/5 rounded-sm p-8 md:p-12 shadow-2xl relative overflow-hidden">
+                            <div class="absolute top-0 right-0 w-32 h-1 bg-gradient-to-r from-transparent to-[#00E5FF]"></div>
+                            
+                            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-8">
+                                <!-- Standard Input -->
+                                <div class="relative group">
+                                    <label class="text-xs font-mono-tech text-zinc-500 mb-2 block uppercase tracking-widest group-focus-within:text-[#00E5FF] transition-colors">Operator Name</label>
+                                    <input type="text" class="w-full bg-transparent border-b border-white/10 pb-3 text-base text-zinc-200 focus:outline-none focus:border-[#00E5FF] transition-colors placeholder-zinc-700" placeholder="Jane Doe" required>
+                                </div>
+                                
+                                <div class="relative group">
+                                    <label class="text-xs font-mono-tech text-zinc-500 mb-2 block uppercase tracking-widest group-focus-within:text-[#00E5FF] transition-colors">Work Channel (Email)</label>
+                                    <input type="email" class="w-full bg-transparent border-b border-white/10 pb-3 text-base text-zinc-200 focus:outline-none focus:border-[#00E5FF] transition-colors placeholder-zinc-700" placeholder="jane@company.com" required>
+                                </div>
+                            </div>
+
+                            <div class="mb-8 relative group">
+                                <label class="text-xs font-mono-tech text-zinc-500 mb-2 block uppercase tracking-widest group-focus-within:text-[#00E5FF] transition-colors">Organization</label>
+                                <input type="text" class="w-full bg-transparent border-b border-white/10 pb-3 text-base text-zinc-200 focus:outline-none focus:border-[#00E5FF] transition-colors placeholder-zinc-700" placeholder="Corp Inc.">
+                            </div>
+
+                            <!-- Custom Dropdown -->
+                            <div class="mb-8 relative group">
+                                <label class="text-xs font-mono-tech text-zinc-500 mb-2 block uppercase tracking-widest group-focus-within:text-[#00E5FF] transition-colors">Transmission Type</label>
+                                <div class="relative">
+                                    <select class="w-full bg-transparent border-b border-white/10 pb-3 text-base text-zinc-200 focus:outline-none focus:border-[#00E5FF] appearance-none rounded-none cursor-pointer transition-colors">
+                                        <option value="" disabled selected class="bg-[#050505] text-zinc-500">Select parameter...</option>
+                                        <option value="demo" class="bg-[#050505] text-white">Platform Demonstration</option>
+                                        <option value="enterprise" class="bg-[#050505] text-white">Enterprise Architecture Setup</option>
+                                        <option value="api" class="bg-[#050505] text-white">API Access Request</option>
+                                        <option value="support" class="bg-[#050505] text-white">Technical Support</option>
+                                    </select>
+                                    <iconify-icon icon="solar:alt-arrow-down-linear" class="absolute right-0 top-1 text-zinc-500 pointer-events-none group-focus-within:text-[#00E5FF] transition-colors"></iconify-icon>
+                                </div>
+                            </div>
+
+                            <!-- Textarea -->
+                            <div class="mb-8 relative group">
+                                <label class="text-xs font-mono-tech text-zinc-500 mb-2 block uppercase tracking-widest group-focus-within:text-[#00E5FF] transition-colors">Encrypted Message</label>
+                                <textarea rows="3" class="w-full bg-transparent border-b border-white/10 pb-3 text-base text-zinc-200 focus:outline-none focus:border-[#00E5FF] transition-colors placeholder-zinc-700 resize-none" placeholder="Describe your infrastructure needs..."></textarea>
+                            </div>
+
+                            <div class="flex flex-col md:flex-row items-start md:items-center justify-between gap-6 mt-12 border-t border-white/5 pt-8">
+                                <!-- Custom Checkbox -->
+                                <label class="custom-checkbox flex items-center gap-3 cursor-pointer group">
+                                    <div class="relative flex items-center justify-center">
+                                        <input type="checkbox" class="opacity-0 absolute w-full h-full cursor-pointer z-10" required>
+                                        <div class="w-4 h-4 border border-zinc-600 rounded-sm flex items-center justify-center bg-black transition-colors group-hover:border-zinc-400">
+                                            <iconify-icon icon="solar:check-linear" class="w-3 h-3 text-black opacity-0 transition-opacity transform scale-50"></iconify-icon>
+                                        </div>
+                                    </div>
+                                    <span class="text-xs font-mono-tech text-zinc-500 select-none">I accept the Data Processing Agreement</span>
+                                </label>
+
+                                <button type="submit" class="w-full md:w-auto bg-[#00E5FF] text-black px-8 py-3 text-sm font-medium hover:bg-white transition-colors flex items-center justify-center gap-2 rounded-sm group">
+                                    Transmit <iconify-icon icon="solar:plain-2-linear" stroke-width="1.5" class="w-4 h-4 group-hover:translate-x-1 transition-transform"></iconify-icon>
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="py-12 border-t border-white/5 relative bg-[#030303]" data-scroll-section>
+            <div class="max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-6">
+                <div class="text-xs font-mono-tech tracking-widest text-zinc-500">
+                    &copy; 2024 ZYLOCH SECURITY. ALL SYSTEMS NOMINAL.
+                </div>
+                <div class="flex gap-6 text-xs font-mono-tech text-zinc-600 uppercase tracking-widest">
+                    <a href="#" class="hover:text-[#00E5FF] transition-colors">Privacy</a>
+                    <a href="#" class="hover:text-[#00E5FF] transition-colors">Terms</a>
+                    <a href="#" class="hover:text-[#00E5FF] transition-colors">Status</a>
+                </div>
+            </div>
+        </footer>
+    </main>
+
+    <!-- Scripts -->
+    <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/locomotive-scroll@4.1.4/dist/locomotive-scroll.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const scroll = new LocomotiveScroll({
+                el: document.querySelector('[data-scroll-container]'),
+                smooth: true,
+                multiplier: 1.2,
+                class: 'is-inview'
+            });
+
+            // Handle smooth scrolling for anchor links with Locomotive
+            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                anchor.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    const targetId = this.getAttribute('href');
+                    const targetEl = document.querySelector(targetId);
+                    if (targetEl) {
+                        scroll.scrollTo(targetEl, {
+                            offset: -64,
+                            duration: 1000,
+                            easing: [0.25, 0.0, 0.35, 1.0]
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>

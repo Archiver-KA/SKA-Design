@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01289",
+  "title": "CTA Hero Section with Quickstart Code Snippet",
+  "summary": "Responsive hero banner with gradient backdrop, headline, subtext, two call-to-action buttons and a terminal-style Quickstart code block. Built with TailwindCSS; perfect for SaaS or Web3 landing pages.",
+  "tags": [
+    "hero",
+    "cta",
+    "tailwind",
+    "landing",
+    "responsive",
+    "code-snippet",
+    "gradient",
+    "web3"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15334,
+      "sha256": "751582187de27024a12fed46626c50bf0e01d7a367c04a886150574ce1c57a99"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3901,
+      "sha256": "6bab838084cc549969ca64aab933fd93858b96ecb8a9007b7624916c7a397b4c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4897,
+      "sha256": "772edde2c00ae8325a18e8a6873d4ef68fa252a6f87fc294a779449c2c9f7235"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

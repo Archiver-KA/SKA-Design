@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02147",
+  "title": "Sticky Process Steps Section with Side Navigation",
+  "summary": "A sophisticated two-column process section featuring a sticky left-side navigation for step indicators and a scrolling right-side list of detailed cards. Built with Tailwind CSS, it includes smooth transitions and responsive layouts for articulating workflows or methodologies.",
+  "tags": [
+    "feature",
+    "section",
+    "tailwind",
+    "responsive",
+    "process",
+    "animated",
+    "sticky"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13790,
+      "sha256": "12a7a4f6f56e47de66b31a4fb41463b07af393945507fc73ae445bcc1a3fce39"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5852,
+      "sha256": "a0415bc9520627df7d8773f9938154c68712ae3bd49201b61daf7298a10832e2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6722,
+      "sha256": "89ef1bbdcd982268de022cab66674434e0a758c474c5c27dbad85b9d3977acb3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

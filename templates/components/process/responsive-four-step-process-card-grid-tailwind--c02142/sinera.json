@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02142",
+  "title": "Responsive Four-Step Process Card Grid (Tailwind)",
+  "summary": "Grid of four glassmorphic cards showing a Discover-Plan-Experience-Reflect workflow. Each card has icon, title, subtitle, description, badges, and progress bar. Built with Tailwind CSS utilities, fully responsive from 1-4 columns—ideal for onboarding or feature walkthroughs.",
+  "tags": [
+    "grid",
+    "process",
+    "stepper",
+    "progress",
+    "tailwind",
+    "responsive",
+    "glassmorphism"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18882,
+      "sha256": "03f340d2dfc7ecfa7bfa37a22574b1a86ab67a5652d697df43fbaeabe890fc0c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11039,
+      "sha256": "cd444370bd1fe5ccbf19292034733e7daa33ba8c95760f545239eea4c2d1be55"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12039,
+      "sha256": "a89bfb7c535095d61dadf8df2e31a04f682d2509b8ca2678eff68ab55283c643"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

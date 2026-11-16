@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00292",
+  "title": "Tabbed Code Viewer with Run Button",
+  "summary": "Stylized code editor window featuring file tabs, colored traffic-light header, scrollable code block and an inline run button. Built with Tailwind CSS utility classes for a glassy dark theme; ideal for docs, tutorials or portfolio demos needing interactive code display.",
+  "tags": [
+    "code",
+    "editor",
+    "tabs",
+    "tailwind",
+    "interactive",
+    "run-button",
+    "dark-theme"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15902,
+      "sha256": "700d542c4d7894e22eeff3bec744fdf0b7b1e1a35ebb999f1c843bc3dc103e1a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 19063,
+      "sha256": "f93200ab6ea2defaa209565256bfeef5392d11608b88d5cf15686167d740175d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20048,
+      "sha256": "4138035b73439a6bb2d1e1dd7324e3eecd3dffe0696f62b3df2e99c3deb2193d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="en" data-theme="market">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Organic Fertilizers | [PRODUCT NAME]</title>
+<meta name="description" content="Organic fertilizer for vegetables, fruit trees and home gardens: feed the soil first, the plants second. Dosing guide by crop, delivered to your door.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config = { theme: { extend: {
+  colors: { ground: "#FFFFFF", surface: "#F5F5F2", ink: "#16161A", muted: "#5B5B66", line: "#DCDCD6", accent: "#C8411B", accent2: "#1B3A8A" },
+  fontFamily: { display: ["Manrope", "system-ui", "sans-serif"], body: ["Manrope", "system-ui", "sans-serif"] }
+}}};
+</script>
+<style>
+[data-theme="market"] {
+  --sa-ground: #FFFFFF; --sa-surface: #F5F5F2; --sa-ink: #16161A; --sa-muted: #5B5B66; --sa-line: #DCDCD6;
+  --sa-accent: #C8411B; --sa-on-accent: #FFFFFF; --sa-accent-2: #1B3A8A; --sa-on-accent-2: #FFFFFF;
+  --sa-font-display: "Manrope", system-ui, sans-serif; --sa-font-body: "Manrope", system-ui, sans-serif;
+  --sa-radius-control: 8px; --sa-radius-card: 10px; --sa-display-case: none;
+  color-scheme: light; background: var(--sa-ground); color: var(--sa-ink); font-family: var(--sa-font-body);
+}
+[data-theme] :is(h1,h2,h3){font-family:var(--sa-font-display);text-wrap:balance}
+body{font-size:16px;line-height:1.65;overflow-x:hidden}
+.wrap{max-width:1180px;margin-inline:auto;padding-inline:20px}
+@media(min-width:768px){.wrap{padding-inline:32px}}
+.sec{padding-block:56px}@media(min-width:768px){.sec{padding-block:96px}}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;padding:0 22px;border-radius:8px;background:var(--sa-accent);color:#fff;font-weight:700;font-size:15px;text-decoration:none;border:0;cursor:pointer}
+.btn:hover{background:#a93515}
+.btn-ghost{background:transparent;color:var(--sa-ink);box-shadow:inset 0 0 0 1.5px var(--sa-ink)}
+.btn-ghost:hover{background:var(--sa-ink);color:#fff}
+:focus-visible{outline:3px solid var(--sa-accent2);outline-offset:3px;border-radius:4px}
+.on-ink :focus-visible{outline-color:#fff}
+.tag{display:inline-block;font-size:13px;font-weight:700;letter-spacing:.04em;color:var(--sa-accent2)}
+details>summary{list-style:none;cursor:pointer;min-height:56px;display:flex;align-items:center;justify-content:space-between;gap:16px;padding-block:12px;font-weight:700}
+details>summary::-webkit-details-marker{display:none}
+details[open] .plus{transform:rotate(45deg)}.plus{transition:transform .2s}
+.ph{display:flex;align-items:center;justify-content:center;text-align:center;border:1px dashed #85857D;color:var(--sa-muted);font-size:13px;background:repeating-linear-gradient(45deg,transparent 0 10px,rgba(22,22,26,.035) 10px 20px)}
+/* soil profile: the signature idea */
+.layer{display:grid;grid-template-columns:1fr;gap:6px;padding:20px 20px}
+@media(min-width:768px){.layer{grid-template-columns:150px 1fr 1fr;gap:28px;align-items:center;padding:24px 32px}}
+</style>
+</head>
+<body class="bg-ground text-ink font-body antialiased">
+<a href="#main" class="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:bg-white focus:p-3">Skip to content</a>
+
+<header class="sticky top-0 z-40 bg-white border-b border-line">
+  <div class="wrap flex items-center justify-between h-16">
+    <a href="#" class="font-extrabold text-lg flex items-center gap-2" aria-label="[BRAND NAME] - home">
+      <svg width="28" height="28" viewBox="0 0 28 28" fill="none" aria-hidden="true"><path d="M14 25V13" stroke="#16161A" stroke-width="2.4" stroke-linecap="round"/><path d="M14 14C14 8 10 5 4 5c0 6 3 9 10 9ZM14 11c0-5 3-8 10-8 0 6-3 8-10 8Z" fill="#1B3A8A"/></svg>
+      [BRAND NAME]
+    </a>
+    <nav class="hidden md:flex items-center gap-7 text-[15px] font-bold" aria-label="Main">
+      <a href="#loi-ich" class="py-3 hover:text-accent">Why organic</a>
+      <a href="#huong-dan" class="py-3 hover:text-accent">Dosing</a>
+      <a href="#bang-gia" class="py-3 hover:text-accent">Sizes and prices</a>
+      <a href="#hoi-dap" class="py-3 hover:text-accent">FAQ</a>
+      <a href="#dat-hang" class="btn">Order now</a>
+    </nav>
+    <button id="menuBtn" class="md:hidden w-11 h-11 inline-flex items-center justify-center border border-line rounded-lg" aria-label="Open menu" aria-expanded="false" aria-controls="mobileNav">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+  </div>
+  <nav id="mobileNav" class="hidden md:hidden border-t border-line bg-white" aria-label="Mobile menu">
+    <div class="wrap flex flex-col py-2">
+      <a href="#loi-ich" class="py-3 min-h-[44px] font-bold">Why organic</a>
+      <a href="#huong-dan" class="py-3 min-h-[44px] font-bold">Dosing</a>
+      <a href="#bang-gia" class="py-3 min-h-[44px] font-bold">Sizes and prices</a>
+      <a href="#hoi-dap" class="py-3 min-h-[44px] font-bold">FAQ</a>
+      <a href="#dat-hang" class="btn my-3">Order now</a>
+    </div>
+  </nav>
+</header>
+
+<main id="main">
+
+<!-- HERO: bag + soil cross-section -->
+<section class="bg-surface border-b border-line overflow-hidden">
+  <div class="wrap pt-12 md:pt-20 grid md:grid-cols-12 gap-10 items-center">
+    <div class="md:col-span-7 pb-4 md:pb-20">
+      <p class="tag mb-4">Microbial organic fertilizer for vegetables, fruit trees and home gardens</p>
+      <h1 class="font-extrabold text-[38px] leading-[1.08] sm:text-5xl lg:text-[64px] tracking-tight">Feed the soil first. The plants will grow better on their own.</h1>
+      <p class="mt-6 text-lg text-muted max-w-xl">[PRODUCT NAME] is a fully composted organic fertilizer made from [YOUR RAW MATERIALS]. It loosens the soil, holds water and feeds beneficial microbes. Apply once at the start of the season, then top up by crop as directed.</p>
+      <div class="mt-8 flex flex-col sm:flex-row gap-3">
+        <a href="#dat-hang" class="btn">Order for this season</a>
+        <a href="#huong-dan" class="btn btn-ghost">See dosing by crop</a>
+      </div>
+      <p class="mt-4 text-sm text-muted">Delivered to your door in [DELIVERY AREA]. Every batch has a test report: [REGISTRATION / LICENSE NUMBER].</p>
+    </div>
+    <div class="md:col-span-5 self-end">
+      <svg viewBox="0 0 420 440" class="w-full h-auto max-w-md mx-auto block" role="img" aria-label="Illustration of a fertilizer bag on the ground, with soil layers and plant roots below">
+        <!-- bag -->
+        <g>
+          <path d="M120 40 L300 40 L312 190 L108 190 Z" fill="#FFFFFF" stroke="#16161A" stroke-width="3"/>
+          <path d="M120 40 L300 40 L296 62 L124 62 Z" fill="#16161A"/>
+          <rect x="140" y="88" width="140" height="64" fill="#C8411B"/>
+          <text x="210" y="116" text-anchor="middle" font-family="Manrope" font-weight="800" font-size="15" fill="#fff">[PRODUCT NAME]</text>
+          <text x="210" y="138" text-anchor="middle" font-family="Manrope" font-weight="700" font-size="12" fill="#fff">Organic microbial</text>
+          <text x="210" y="172" text-anchor="middle" font-family="Manrope" font-weight="700" font-size="11" fill="#16161A">[WEIGHT] kg</text>
+        </g>
+        <!-- soil layers -->
+        <rect x="0" y="190" width="420" height="52" fill="#4A3A2E"/>
+        <rect x="0" y="242" width="420" height="64" fill="#6B5444"/>
+        <rect x="0" y="306" width="420" height="134" fill="#76604F"/>
+        <!-- roots -->
+        <g stroke="#F5F5F2" stroke-width="2.5" fill="none" stroke-linecap="round">
+          <path d="M60 190 V260 M60 230 L38 262 M60 240 L84 278 M60 260 V320"/>
+          <path d="M350 190 V250 M350 225 L326 258 M350 238 L374 270 M350 250 V310"/>
+        </g>
+        <!-- labels -->
+        <g font-family="Manrope" font-size="12" font-weight="700" fill="#fff">
+          <text x="130" y="222">0-10 cm: compost in topsoil</text>
+          <text x="130" y="278">10-25 cm: root zone</text>
+          <text x="130" y="350">Deep: holds moisture, drains</text>
+        </g>
+      </svg>
+    </div>
+  </div>
+</section>
+
+<!-- PROOF -->
+<section class="sec bg-white" aria-labelledby="proof-h">
+  <div class="wrap">
+    <h2 id="proof-h" class="tag mb-6">Transparent sourcing</h2>
+    <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+      <div class="ph h-24 rounded-[10px]">[REGISTRATION / CERTIFICATE]</div>
+      <div class="ph h-24 rounded-[10px]">[BATCH TEST REPORT]</div>
+      <div class="ph h-24 rounded-[10px]">[RAW MATERIAL SOURCE]</div>
+      <div class="ph h-24 rounded-[10px]">[NUMBER OF GROWERS / AREA]</div>
+    </div>
+  </div>
+</section>
+
+<!-- BENEFITS -->
+<section id="loi-ich" class="sec bg-surface border-y border-line" aria-labelledby="ben-h">
+  <div class="wrap">
+    <p class="tag mb-3">Why organic</p>
+    <h2 id="ben-h" class="font-extrabold text-3xl md:text-5xl tracking-tight max-w-3xl">Three growers' worries, answered plainly.</h2>
+    <div class="mt-12 grid md:grid-cols-3 gap-6">
+      <article class="bg-white border border-line rounded-[10px] p-6">
+        <svg width="40" height="40" viewBox="0 0 40 40" fill="none" stroke="#1B3A8A" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><path d="M8 28c0-8 6-14 12-14s12 6 12 14"/><path d="M20 14V6M14 10l6-4 6 4"/><path d="M4 34h32"/></svg>
+        <h3 class="font-bold text-xl mt-5">"Won't plants grow slower than with chemical fertilizer?"</h3>
+        <p class="mt-2 text-muted">Organic fertilizer releases nutrients gradually, so there is no sudden flush. In return the soil keeps its nutrients and water, and plants stay steady all season instead of spiking and fading.</p>
+      </article>
+      <article class="bg-white border border-line rounded-[10px] p-6">
+        <svg width="40" height="40" viewBox="0 0 40 40" fill="none" stroke="#1B3A8A" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><circle cx="20" cy="20" r="14"/><path d="M12 20l5 5 11-12"/></svg>
+        <h3 class="font-bold text-xl mt-5">"Is it safe for leafy vegetables?"</h3>
+        <p class="mt-2 text-muted">The fertilizer is fully composted and tested batch by batch: [YOUR TEST PARAMETERS]. Apply it to the soil, not onto the leaves, and stop [NUMBER] days before harvest.</p>
+      </article>
+      <article class="bg-white border border-line rounded-[10px] p-6">
+        <svg width="40" height="40" viewBox="0 0 40 40" fill="none" stroke="#1B3A8A" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><path d="M6 12h28l-3 22H9L6 12Z"/><path d="M14 12V8a6 6 0 0 1 12 0v4"/></svg>
+        <h3 class="font-bold text-xl mt-5">"I bought it, but how much do I use?"</h3>
+        <p class="mt-2 text-muted">Every bag prints the dose by area. The table below breaks it down by crop, and you can message us on [CONTACT CHANNEL] to work out the dose for your own garden.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- DOSING AS SOIL LAYERS -->
+<section id="huong-dan" class="sec bg-white" aria-labelledby="dose-h">
+  <div class="wrap">
+    <p class="tag mb-3">Dosing by crop</p>
+    <h2 id="dose-h" class="font-extrabold text-3xl md:text-5xl tracking-tight max-w-3xl">The right spot, the right amount, the right time.</h2>
+    <p class="mt-4 text-muted max-w-2xl">The doses below are a guide to check against your own plot. Fill in the manufacturer's figures in the blanks.</p>
+    <div class="mt-10 rounded-[10px] overflow-hidden border border-line">
+      <div class="layer" style="background:#4A3A2E;color:#fff"><h3 class="font-bold text-xl">Leafy and fruiting vegetables</h3><p><span class="font-bold">How to apply:</span> mix into the soil when preparing beds, then scatter around the base once plants are established.</p><p><span class="font-bold">Dose:</span> [AMOUNT] kg per [AREA] m2, repeat after [NUMBER] days.</p></div>
+      <div class="layer" style="background:#6B5444;color:#fff"><h3 class="font-bold text-xl">Fruit trees</h3><p><span class="font-bold">How to apply:</span> loosen the soil under the canopy edge, spread the fertilizer, cover and water in.</p><p><span class="font-bold">Dose:</span> [AMOUNT] kg per tree depending on age, [NUMBER] applications a year.</p></div>
+      <div class="layer" style="background:#4D3E32;color:#fff"><h3 class="font-bold text-xl">Ornamentals and pots</h3><p><span class="font-bold">How to apply:</span> mix into the potting medium when repotting, or sprinkle thinly around the pot edge.</p><p><span class="font-bold">Dose:</span> [AMOUNT] tablespoons for a [SIZE] pot, every [NUMBER] weeks.</p></div>
+      <div class="layer" style="background:#5C4939;color:#fff"><h3 class="font-bold text-xl">Reviving new ground</h3><p><span class="font-bold">How to apply:</span> spread evenly and till in about [NUMBER] days before sowing or planting.</p><p><span class="font-bold">Dose:</span> [AMOUNT] kg per [AREA] m2 in the first season.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- PRICING -->
+<section id="bang-gia" class="sec bg-surface border-y border-line" aria-labelledby="price-h">
+  <div class="wrap">
+    <p class="tag mb-3">Sizes and prices</p>
+    <h2 id="price-h" class="font-extrabold text-3xl md:text-5xl tracking-tight max-w-3xl">Pick a bag to match your plot, with nothing left over.</h2>
+    <div class="mt-10 grid md:grid-cols-3 gap-6">
+      <article class="bg-white border border-line rounded-[10px] p-6 flex flex-col">
+        <div class="ph aspect-[4/3] rounded-md mb-5">Small bag photo 4:3</div>
+        <h3 class="font-bold text-xl">Small bag, [WEIGHT] kg</h3>
+        <p class="text-muted mt-1">For pots, balconies and small beds</p>
+        <p class="font-extrabold text-3xl mt-5">[YOUR PRICE]</p>
+        <a href="#dat-hang" class="btn btn-ghost mt-6">Choose small</a>
+      </article>
+      <article class="bg-white border-2 border-ink rounded-[10px] p-6 flex flex-col relative">
+        <span class="absolute -top-3 left-6 bg-accent2 text-white text-xs font-bold px-3 py-1 rounded">Best for home gardens</span>
+        <div class="ph aspect-[4/3] rounded-md mb-5">Medium bag photo 4:3</div>
+        <h3 class="font-bold text-xl">Medium bag, [WEIGHT] kg</h3>
+        <p class="text-muted mt-1">Covers about [AREA] m2 of vegetables</p>
+        <p class="font-extrabold text-3xl mt-5">[YOUR PRICE]</p>
+        <a href="#dat-hang" class="btn mt-6">Choose medium</a>
+      </article>
+      <article class="bg-white border border-line rounded-[10px] p-6 flex flex-col">
+        <div class="ph aspect-[4/3] rounded-md mb-5">Large bag photo 4:3</div>
+        <h3 class="font-bold text-xl">Large bag, [WEIGHT] kg</h3>
+        <p class="text-muted mt-1">For orchards and farms</p>
+        <p class="font-extrabold text-3xl mt-5">[YOUR PRICE]</p>
+        <a href="#dat-hang" class="btn btn-ghost mt-6">Choose large</a>
+      </article>
+    </div>
+    <p class="mt-6 text-sm text-muted">Delivery fee: [DELIVERY FEE]. Buy [NUMBER] bags or more: [YOUR OFFER].</p>
+  </div>
+</section>
+
+<!-- REVIEWS -->
+<section class="sec bg-white" aria-labelledby="rev-h">
+  <div class="wrap">
+    <h2 id="rev-h" class="font-extrabold text-3xl md:text-4xl tracking-tight">What growers say after one season</h2>
+    <div class="mt-10 grid md:grid-cols-2 gap-6">
+      <figure class="bg-surface rounded-[10px] p-6">
+        <blockquote class="text-lg leading-relaxed">"[CUSTOMER QUOTE: crop, area and the change they saw in the soil or the plants after one season]"</blockquote>
+        <figcaption class="mt-4 text-sm text-muted">[NAME, ROLE / LOCATION]</figcaption>
+      </figure>
+      <figure class="bg-surface rounded-[10px] p-6">
+        <blockquote class="text-lg leading-relaxed">"[CUSTOMER QUOTE: about applying it, delivery or help with dosing]"</blockquote>
+        <figcaption class="mt-4 text-sm text-muted">[NAME, ROLE / LOCATION]</figcaption>
+      </figure>
+    </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section id="hoi-dap" class="sec bg-surface border-t border-line" aria-labelledby="faq-h">
+  <div class="wrap grid md:grid-cols-12 gap-10">
+    <h2 id="faq-h" class="md:col-span-4 font-extrabold text-3xl md:text-4xl tracking-tight">Ask before you order</h2>
+    <div class="md:col-span-8 border-t-2 border-ink">
+      <details class="border-b border-line"><summary>Does it smell?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">Fully composted fertilizer has only a light earthy smell. If you notice a strong sharp odor, tell us on [CONTACT CHANNEL] and we will check the batch.</p></details>
+      <details class="border-b border-line"><summary>When is the best time to apply it?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">Ideally before sowing or at the start of the season, while the soil is still moist. Avoid the harsh midday sun and water lightly afterwards.</p></details>
+      <details class="border-b border-line"><summary>Can I use it alongside chemical fertilizer?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">Yes. Many gardens cut back on chemical fertilizer as the soil improves. Reduce step by step and watch the plants rather than stopping completely in a single season.</p></details>
+      <details class="border-b border-line"><summary>How should I store it, and how long does it keep?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">Keep it dry with the bag sealed, away from rain. Shelf life: [SHELF LIFE PRINTED ON THE BAG].</p></details>
+      <details class="border-b border-line"><summary>What if it does not suit my plants?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">[YOUR RETURN POLICY].</p></details>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section id="dat-hang" class="sec bg-ink text-white on-ink" aria-labelledby="cta-h">
+  <div class="wrap grid md:grid-cols-2 gap-10 items-center">
+    <div>
+      <h2 id="cta-h" class="font-extrabold text-3xl md:text-5xl tracking-tight">Order today and be ready for the start of the season.</h2>
+      <p class="mt-4 text-[#DADAE0]">Leave your details and we will call back within [RESPONSE TIME] to confirm the bag size and delivery date.</p>
+    </div>
+    <form class="grid gap-4" onsubmit="event.preventDefault();this.querySelector('output').textContent='Thanks. This is a demo form.'">
+      <div><label for="n" class="block text-sm font-bold mb-1">Full name</label><input id="n" type="text" autocomplete="name" required class="w-full h-12 px-3 rounded-lg text-ink bg-white"></div>
+      <div><label for="p" class="block text-sm font-bold mb-1">Phone number</label><input id="p" type="tel" autocomplete="tel" required placeholder="[PHONE NUMBER]" class="w-full h-12 px-3 rounded-lg text-ink bg-white"></div>
+      <div><label for="c" class="block text-sm font-bold mb-1">What do you grow, and on how much land?</label><input id="c" type="text" class="w-full h-12 px-3 rounded-lg text-ink bg-white"></div>
+      <button class="btn" type="submit">Send my order</button>
+      <output class="text-sm" aria-live="polite"></output>
+    </form>
+  </div>
+</section>
+</main>
+
+<footer class="bg-white border-t border-line">
+  <div class="wrap py-12 grid md:grid-cols-3 gap-8 text-sm text-muted">
+    <div><p class="font-extrabold text-ink text-lg">[BRAND NAME]</p><p class="mt-2 max-w-xs">Microbial organic fertilizer. Read the instructions on the bag before use.</p></div>
+    <div><p class="font-bold text-ink mb-2">Contact</p><p>[PHONE NUMBER]</p><p>[ADDRESS]</p></div>
+    <div><p class="font-bold text-ink mb-2">Policies</p><a href="#" class="underline inline-block py-2">Returns</a><br><a href="#" class="underline inline-block py-2">Privacy</a></div>
+  </div>
+</footer>
+
+<script>
+(function(){var b=document.getElementById('menuBtn'),m=document.getElementById('mobileNav');
+b.addEventListener('click',function(){var o=m.classList.toggle('hidden')===false;b.setAttribute('aria-expanded',o);b.setAttribute('aria-label',o?'Close menu':'Open menu');});
+m.addEventListener('click',function(e){if(e.target.tagName==='A'){m.classList.add('hidden');b.setAttribute('aria-expanded','false');}});})();
+</script>
+</body>
+</html>

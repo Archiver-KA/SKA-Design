@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02416",
+  "title": "Interactive Testimonial Section with Avatar Picker",
+  "summary": "Responsive testimonial block featuring gradient backdrop, animated fade transitions, and clickable avatar thumbnails that swap quotes and author details. Built with Tailwind CSS and vanilla JS, ideal for SaaS landing pages and marketing sites.",
+  "tags": [
+    "testimonial",
+    "slider",
+    "interactive",
+    "tailwind",
+    "responsive",
+    "landing page",
+    "avatar",
+    "javascript",
+    "section"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 41698,
+      "sha256": "9c4325c1a48a8c8131bee45f6410c4f0ad571348c21b09209fc112a545cf65cb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13478,
+      "sha256": "a93554348d0b5abacfa3a521af2ae421735e0fd962936f3608ed4dbc669900f8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14349,
+      "sha256": "9996a13f8be45423a443251dbd3f8fb80f49136f5bc03ff95449200e9c0b7de0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

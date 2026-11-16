@@ -1,0 +1,41 @@
+{
+  "id": "SN-C02271",
+  "title": "Framework Equalizer Bars",
+  "summary": "Animated equalizer visualization showing framework breakdown with tooltips. Bars grow on load with color-coded performance levels and hover tooltips for detailed metrics.",
+  "tags": [
+    "card",
+    "animated",
+    "chart",
+    "visualization",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5100,
+      "sha256": "7f13142d1d1f994464037fc5fe61bc3e753dc6bbfd091e994d90c5655fe29deb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6659,
+      "sha256": "672dbd3e6f26b5bbb96aeb8065e9bd00fefc408783cfdeb55f830312c939872a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7504,
+      "sha256": "0d2bfc7b8b07da9e53c886e0691fb41e4ba2321032d86fa5ff4c7f0d09100e00"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

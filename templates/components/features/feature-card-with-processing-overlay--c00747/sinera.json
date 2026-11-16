@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00747",
+  "title": "Feature Card with Processing Overlay",
+  "summary": "Stylized Tailwind CSS card featuring grid placeholders, glassmorphic background, and an animated “Processing…” pill for loading states. Suited for dashboards, analytics panels, or product feature highlights.",
+  "tags": [
+    "card",
+    "tailwind",
+    "loading",
+    "animated",
+    "glassmorphism",
+    "dashboard",
+    "feature",
+    "processing"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5466,
+      "sha256": "990bf6f3be54477b700ea4c8dd046b71e975d4ab3fba6d99b3c0c618994401c5"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2393,
+      "sha256": "a044be14047c02688beeed01168949308c98abf39d213194e99ea66bfb696b6b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3250,
+      "sha256": "19d93f61e4d0c4459ece8eeebb1a1cbf1d0824cfae5088c5f68312064b17e7cc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

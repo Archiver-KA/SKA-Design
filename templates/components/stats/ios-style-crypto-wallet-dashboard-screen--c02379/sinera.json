@@ -1,0 +1,46 @@
+{
+  "id": "SN-C02379",
+  "title": "iOS-style Crypto Wallet Dashboard Screen",
+  "summary": "Mobile wallet dashboard replicating an iOS device: dynamic island, status bar, balance overview, asset list, recent transactions and fixed glassmorphic tab bar. Built with TailwindCSS, Lucide icons and dark glassmorphism; ideal for fintech/crypto apps.",
+  "tags": [
+    "dashboard",
+    "wallet",
+    "crypto",
+    "mobile",
+    "ios",
+    "tailwind",
+    "glassmorphism",
+    "dark",
+    "tabbar",
+    "fintech"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13632,
+      "sha256": "d4ba5f9dd44eee0dff0a880f36610ce23c1ceb5184817d1dddcf37868ab4380e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 24193,
+      "sha256": "7ab0853aab7ce349cdadce8ef6175c03452c4db9be02a20eebaf5fb4a6902beb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25184,
+      "sha256": "9f6c578ad411e518b9a54984a7e26010242b2d291d2902ed2315598483833a16"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

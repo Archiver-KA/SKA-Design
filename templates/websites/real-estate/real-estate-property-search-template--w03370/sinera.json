@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03370",
+  "title": "Real Estate Property Search Template",
+  "summary": "A clean and functional real estate listing template designed for property management firms to showcase rental communities with integrated search filters and map views.",
+  "tags": [
+    "Real Estate",
+    "Services",
+    "Landing Page",
+    "Clean",
+    "Grid",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3558,
+      "sha256": "87f7d03219dc41e922b3ce922a4e3187f5d6732ee314efe94e0e98f3d05f1604"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21868,
+      "sha256": "ae4b6ba62fea6df7ec14aa83611429b6e21ae1a2e5064800c4df3347d9172412"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 867,
+      "sha256": "bac3ffb531c29b97d1d836af380371be1e724315229e3fb84e3e675177443f12"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 161,
+      "sha256": "11f2d145a968ab5787d7dfb9b6689301beed1089609b7cc62505994ac7a32c5b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37116,
+      "sha256": "a0d7016a6d85024f4e1ff2594d638a7ab3c45e04cecf137f2afefd93766cafe1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "pricing",
+    "features",
+    "footer",
+    "map-location"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

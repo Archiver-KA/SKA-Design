@@ -1,0 +1,59 @@
+{
+  "id": "SN-W00277",
+  "title": "Chess Tactics Trainer App Template",
+  "summary": "A reusable chess tactics trainer UI template featuring an interactive board, puzzle sidebar, and performance stats for training or learning apps.",
+  "tags": [
+    "Technology",
+    "Entertainment",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Landing Page",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3741,
+      "sha256": "9868e4805c294167b271dcb86887e1a99ab00a5755a4c91a053334086eaf63a7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18628,
+      "sha256": "bb0f35d722d91c5389197f8b908e081a8f2327f880296b2cae7f0ba0c10cfa30"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "50015e63000ddc3b8416dad20b3341d6310fcc78ac95c5f6ad5612da7ff52bbe"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22145,
+      "sha256": "87a5720481bc9e1556b2fb2ce65d41e71a46e8f77d91710946c9258c40d5e3d5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03476",
+  "title": "Higher Ed Roadmap Template",
+  "summary": "A clean, interactive timeline template designed for academic journeys, student guides, and roadmap documentation.",
+  "tags": [
+    "Education",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Animated",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3569,
+      "sha256": "c62b00a16f04538c5bb7ec73065d891478f9cd70cd01afb4c90c9c9e56aec181"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14886,
+      "sha256": "fae55549ce6f8fcb78daf9aaf15fbfe79d366485066270dd974dabf4e820a980"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 858,
+      "sha256": "1894f8f199f512081c7c20aecf368780664971cb630ffc277ced989e477d77fd"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 526,
+      "sha256": "c706bd71d1c5d17218fcf0594c1c64577b8282e1260d332a85a6de28b8782336"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34273,
+      "sha256": "f8461b69821fa91bc539568712afaf9a8c65926ff4f818d6644da721059a1447"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "navbar",
+    "timeline",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

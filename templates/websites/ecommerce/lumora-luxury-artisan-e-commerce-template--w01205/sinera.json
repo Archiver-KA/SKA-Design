@@ -1,0 +1,64 @@
+{
+  "id": "SN-W01205",
+  "title": "Lumora | Luxury Artisan E-commerce Template",
+  "summary": "A high-end, minimalist e-commerce template designed for luxury lifestyle brands, featuring parallax backgrounds and clean typography.",
+  "tags": [
+    "E-commerce",
+    "Minimal",
+    "Clean",
+    "Lifestyle",
+    "Style",
+    "Fashion",
+    "Dark",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3277,
+      "sha256": "42aa637b2dc315bbe28edfafd6ec4fbfb458881ae475bcfaf68c5466dd032cb7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5974,
+      "sha256": "64a8de94257385df2819b1995cbe24d94b7ab1f99b56b097bf53df95e4185751"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "a6301daedfd83e1b7a1e898361616e92e932a89f8b47232adc8cf0df40ab246a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21802,
+      "sha256": "3e6e695a1db08879a87d3424f1d80923076e636ce6eee20400b327d513325c8c"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "about",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

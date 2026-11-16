@@ -1,0 +1,70 @@
+{
+  "id": "SN-W04190",
+  "title": "Dynamic Prompt Template Editor",
+  "summary": "Web UI for creating prompts with variable placeholders, live preview, and local draft saving using Tailwind CSS.",
+  "tags": [
+    "Prompt Builder",
+    "Template Editor",
+    "Live Preview",
+    "Variables",
+    "LocalStorage",
+    "Tailwind CSS",
+    "JavaScript"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3226,
+      "sha256": "cde1df9b2e7c83661edf05e02d7a42c6f7e756cb55fd631ae319ae79ef8cfb64"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4412,
+      "sha256": "9698158a5e5f2a759104453814101573889b6c7d9c3335c6cd272e7c0851e9e3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1060,
+      "sha256": "1c49e997569e4ecc6f3b0c7977affbcc8eb07522e3018e0a3a61df53842ef4fb"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 197,
+      "sha256": "6e264a115380885d3e994955eb124715913385a112f11a16d2088af3734c209b"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 239,
+      "sha256": "ab38d8680ccb2764fb6f09ce52a86be1ee4ddb44d892c33003ed8fbf02aad215"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6812,
+      "sha256": "849bdc4d0c6486d369352e711f1319b3752e406fbf814fef26ea5f545ddac6ab"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "cta",
+    "contact-form"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "cta",
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "SN-C00472",
+  "title": "White Rectangular Panel",
+  "summary": "A simple white background panel with fixed dimensions, useful as a content container or overlay element in layouts requiring specific positioning.",
+  "tags": [
+    "panel",
+    "container",
+    "white",
+    "minimal",
+    "simple"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1110,
+      "sha256": "81b78942ccb5c57e9831e2603c75cb5c7c95289710f9fad17b37f70a38674b30"
+    },
+    {
+      "path": "component.html",
+      "bytes": 70,
+      "sha256": "70d39a5f485df89f44beedbb4c68fdccab2c4594143d97df981775ac8ca22c67"
+    },
+    {
+      "path": "index.html",
+      "bytes": 957,
+      "sha256": "f07d3b94db040f9655c7107d28d09867c50b2cfa599b4ceb533f272f70816157"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01911",
+  "title": "Creative Studio Portfolio Landing Page Template",
+  "summary": "A refined portfolio landing page template for digital and design studios to showcase selected work, services, and contact in a minimal, editorial layout.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Brand",
+    "Minimal",
+    "Clean",
+    "Large Type",
+    "Grid",
+    "Technology",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3165,
+      "sha256": "a925cb5e73705661d859018cbb272b0d0f71486ec71cabf186f326f5e9673a6f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7216,
+      "sha256": "0f8421cba03a22acabb47b2fbb8d1090b7a2202048420144eab047cf0f05c2df"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "6a3d88dff4917e38821eae218d8771a6e9fb8234ccaff53642376c609e690a2f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14253,
+      "sha256": "0fae786e2d8162e0120406e0634f51e4db991f65645ec8355b3482a5be8039d5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "services",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00521",
+  "title": "Aurora Film Grain WebGL Background Shader",
+  "summary": "Full-screen WebGL canvas rendering an animated aurora-style background with film grain effect and gradient overlay. Ideal as a dynamic hero or page background, built with raw WebGL and Tailwind utility classes for layout.",
+  "tags": [
+    "hero",
+    "webgl",
+    "animated",
+    "interactive",
+    "canvas",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5268,
+      "sha256": "f6c2f7fdd2de7f6513f23b618d5892b337e76a2973085ec03dd88933e6bd0888"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2547,
+      "sha256": "a59e141e4df815741abfe15470a0671817387ce071b7145ccf901a49c0c82a73"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3441,
+      "sha256": "35aa7c33bd625f0c0307ad4f359cfa47c423a69d11dae8a1317857a9e35b85b4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

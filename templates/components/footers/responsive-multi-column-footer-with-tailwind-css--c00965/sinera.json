@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00965",
+  "title": "Responsive Multi-column Footer with Tailwind CSS",
+  "summary": "Stylish dark-themed footer featuring brand logo, CTA button, three link columns, legal links and copyright bar. Uses Tailwind CSS utilities, responsive grid, backdrop blur and shadow effects. Ideal for landing pages, e-commerce or SaaS sites.",
+  "tags": [
+    "footer",
+    "tailwind",
+    "responsive",
+    "cta",
+    "navigation",
+    "dark-theme",
+    "multicolumn",
+    "ui-component"
+  ],
+  "kind": "components",
+  "category": "footers",
+  "categoryLabel": "Footers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12646,
+      "sha256": "455e41a630fc79509d85aed78478b2c29a576b9aa3d54231f31129f74faaf805"
+    },
+    {
+      "path": "component.html",
+      "bytes": 15896,
+      "sha256": "08ffe4741ad1385a32f02252d02813878b47aa944819bf9c3e22483255c509b7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16895,
+      "sha256": "00adce69f3d0c05e6094936bf78190803298c3e6ff846cdc35561915e6413143"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

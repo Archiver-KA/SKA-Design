@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02447",
+  "title": "Error Message Component",
+  "summary": "A simple error display component for handling invalid URLs or inaccessible content with clean typography and centered layout.",
+  "tags": [
+    "error",
+    "message",
+    "centered",
+    "warning",
+    "responsive",
+    "modern",
+    "clean"
+  ],
+  "kind": "components",
+  "category": "typography",
+  "categoryLabel": "Text & typography",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6376,
+      "sha256": "c111dc378616e6c648d3072de5c3fe207215c67f5e7f67e860c979f62490b01c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 959,
+      "sha256": "19de0c8cd4f3d74dd22141ac6d202b4d4fef4bc58f6600c50633825b9940a1ba"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1803,
+      "sha256": "ad1bab01572ef942753936992de68e9e1dbe114522fb779a74a6766b903a1f9c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

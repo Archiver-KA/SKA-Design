@@ -1,0 +1,77 @@
+{
+  "id": "SN-W01932",
+  "title": "Dark Minimalist Engineer Portfolio Template",
+  "summary": "A high-end, brand-forward personal portfolio template designed for software engineers and architects who prioritize elite craftsmanship.",
+  "tags": [
+    "Portfolio",
+    "Dark",
+    "Minimal",
+    "Technology",
+    "Clean",
+    "Professional Services",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3619,
+      "sha256": "02555ce58bf91c867fd2b73783cea01f9fa7f121b67b1bfbae5552a484e3aae3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15320,
+      "sha256": "1fb4bc66a87d8e366ec44bcc4c8cd25071e61e5d2c2202ca3ddc70af0f985065"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1156,
+      "sha256": "de0cd387f160cbc50de6cb0d59c6d4e6d3e275eb5383cbb73e04f1a63c26131b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1086,
+      "sha256": "f14d8752c466233cf801cb3da67aa9f062ff39bdd3289984864a9365e2d556a7"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 363,
+      "sha256": "e6be22e288f71e2107cb1f888380f5ca1aed146cca180116683c77213dccae32"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37214,
+      "sha256": "64b574a4f75a9506e098900e361321858955ab7bac7e5f3b874ef9d82ff61a17"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "testimonials",
+    "features",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "SN-W00858",
+  "title": "AGI Trading Research Landing Page Template",
+  "summary": "A high-performance landing page template for quantitative research, fintech, and algorithmic trading platforms featuring a dark, data-driven aesthetic.",
+  "tags": [
+    "Technology",
+    "Finance",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Animated",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3488,
+      "sha256": "a15166138858475a3fc423ac7669948b3b16448050dc78c12eb4bc91aa8e81c6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 25256,
+      "sha256": "51b7c4cf83aaebc3f98281ada53d93426c919d1739eb3162d700494d5b80c632"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1064,
+      "sha256": "cc0e96a58093b3b675a5b6c44adda341115b77b11c8e5e844271405e6c8c3af0"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 181,
+      "sha256": "4e564d3ef5ff8f6995820156541d987384addb1502fb4077038e84d74269ea36"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 219,
+      "sha256": "06a93cc54673d46722890f3241d656849021615c9ac47a8048e248618f5e3f25"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36290,
+      "sha256": "331605bb93facbcaf22de54667c29ec46512a012f5d81b1c604c25c4a5d2c647"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "3d-canvas",
+    "code-terminal",
+    "features",
+    "stats",
+    "logo-cloud",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

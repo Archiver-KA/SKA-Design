@@ -1,0 +1,60 @@
+{
+  "id": "SN-W01195",
+  "title": "Job4You Service Marketplace ",
+  "summary": "A mobile-first marketplace template for connecting users with local service professionals like electricians and cleaners.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Clean",
+    "Colorful",
+    "Landing Page",
+    "Business Category"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3775,
+      "sha256": "d51dfa1aa4a3860a4cba61bc5ec6f8e84a9043dc3eac9582ebc23d1552216f1a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11624,
+      "sha256": "b7c229a5c8d55dd2b623b70fbad4b36db41a1b89559f6386e17721c939999ee6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 718,
+      "sha256": "3b03d42c250d9d804d1b79d810bd17516811d296c0a46a63b78430a81d5aebd4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26599,
+      "sha256": "23ebd8723147b27f017754b69e75f99845fc231befde7335349aa2eb4390534a"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "features",
+    "sidebar",
+    "navbar"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

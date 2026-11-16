@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01823",
+  "title": "Animated Glassmorphic Music Player Card",
+  "summary": "Stylish audio player card featuring rotating album art, reactive waveform, progress & volume bars, and full media controls. Built with Tailwind CSS glassmorphism and rich animations for engaging music dashboards or portfolio embeds.",
+  "tags": [
+    "music player",
+    "card",
+    "tailwind",
+    "animated",
+    "glassmorphism",
+    "audio",
+    "interactive",
+    "media controls"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15900,
+      "sha256": "3078ca1c89b9018589cf9adf1fbfb4e6534cf876177799b8e86745ed40b0fcb5"
+    },
+    {
+      "path": "component.html",
+      "bytes": 31336,
+      "sha256": "0085e5dee8948fcd674216c246e3dcddf38dddd2b4970611d579aad85c8419f2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32326,
+      "sha256": "01f60436d855b4ef7ec0e7f3d463ef3a1163ced59286170587e291354988550d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

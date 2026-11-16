@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00181",
+  "title": "Gradient CTA Button with Shine Hover Effect",
+  "summary": "Interactive call-to-action button featuring blue-to-purple gradient, shine animation overlay, hover scale and shadow transitions using Tailwind CSS. Ideal for booking or reservation actions in responsive web apps.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "gradient",
+    "animated",
+    "hover",
+    "responsive",
+    "shine"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2230,
+      "sha256": "a7313d8c5bca8d53925299fa419bbc51b392bdaccb288608fe85f03dcfb201d8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 571,
+      "sha256": "1a4f92a584b3bf05160e640f4497e815d24156d556c5d0c8b41a41c56dccef90"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1435,
+      "sha256": "b6ef308b8387b088d924a0407a46449e0af77d79e7af6068c6ef0b208269b533"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

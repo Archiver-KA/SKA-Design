@@ -1,0 +1,224 @@
+<!doctype html>
+<html lang="cs" data-theme="calm">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Medical4U – Klinika medicíny a estetiky: nejdřív konzultace, pak rozhodnutí</title>
+<meta name="description" content="Klinika medicíny a estetiky Medical4U: přehledná nabídka služeb, vyšetření přímo lékařem a vysvětlení přínosů i rizik dřív, než se rozhodnete.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config = { theme: { extend: {
+  colors: { ground:'#F2F7F5', surface:'#FFFFFF', ink:'#0F2A26', muted:'#4E6661', line:'#D3E2DD', accent:'#0F766E', accent2:'#F4B860' },
+  fontFamily: { sans: ['"Be Vietnam Pro"','system-ui','sans-serif'] },
+  borderRadius: { card:'14px' }
+}}}
+</script>
+<style>
+[data-theme="calm"] {
+  --sa-ground:#F2F7F5; --sa-surface:#FFFFFF; --sa-ink:#0F2A26; --sa-muted:#4E6661; --sa-line:#D3E2DD;
+  --sa-accent:#0F766E; --sa-on-accent:#FFFFFF; --sa-accent-2:#F4B860; --sa-on-accent-2:#0F2A26;
+  --sa-font-display:"Be Vietnam Pro",system-ui,sans-serif; --sa-font-body:"Be Vietnam Pro",system-ui,sans-serif;
+  --sa-radius-control:999px; --sa-radius-card:14px; --sa-display-case:none;
+  color-scheme:light; background:var(--sa-ground); color:var(--sa-ink); font-family:var(--sa-font-body);
+}
+html{scroll-behavior:smooth}
+body{background:var(--sa-ground);color:var(--sa-ink);font-family:var(--sa-font-body);-webkit-font-smoothing:antialiased;overflow-x:hidden}
+h1,h2,h3{font-family:var(--sa-font-display);text-wrap:balance;letter-spacing:-.02em}
+:focus-visible{outline:3px solid var(--sa-accent);outline-offset:3px;border-radius:6px}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;padding:0 24px;border-radius:999px;background:var(--sa-accent);color:var(--sa-on-accent);font-weight:600;font-size:15px;text-decoration:none;border:0;cursor:pointer;transition:background-color .2s}
+.btn:hover{background:#0B5F58}
+.btn-ghost{background:transparent;color:var(--sa-ink);box-shadow:inset 0 0 0 1px var(--sa-ink)}
+.btn-ghost:hover{background:var(--sa-surface)}
+.ph{background:repeating-linear-gradient(135deg,#E3EEEA 0 12px,#EAF2EF 12px 24px);color:var(--sa-muted);display:flex;align-items:flex-end;padding:16px;font-size:13px;font-weight:500}
+.row-svc{transition:background-color .2s}
+.row-svc:hover{background:var(--sa-surface)}
+details>summary{list-style:none;cursor:pointer;min-height:56px}
+details>summary::-webkit-details-marker{display:none}
+details[open] .plus{transform:rotate(45deg)}
+.plus{transition:transform .2s}
+</style>
+</head>
+<body class="font-sans text-ink bg-ground">
+
+<header class="sticky top-0 z-30 bg-ground/95 border-b border-line">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
+    <a href="#top" class="flex items-center gap-2 font-bold text-lg">
+      <svg width="28" height="28" viewBox="0 0 28 28" fill="none" aria-hidden="true"><path d="M14 25C7 20 3 16 3 11a6 6 0 0 1 11-3 6 6 0 0 1 11 3c0 5-4 9-11 14Z" stroke="#0F766E" stroke-width="2"/><path d="M14 10v7M10.5 13.5h7" stroke="#0F766E" stroke-width="2" stroke-linecap="round"/></svg>
+      Medical4U
+    </a>
+    <nav aria-label="Hlavní navigace" class="hidden md:flex items-center gap-8 text-[15px] font-medium">
+      <a class="py-3 hover:text-accent" href="#dich-vu">Služby</a>
+      <a class="py-3 hover:text-accent" href="#quy-trinh">Postup</a>
+      <a class="py-3 hover:text-accent" href="#cam-ket">Zásady</a>
+      <a class="py-3 hover:text-accent" href="#hoi-dap">Dotazy</a>
+      <a class="btn" href="#dat-lich">Objednat konzultaci</a>
+    </nav>
+    <button id="menuBtn" class="md:hidden w-11 h-11 inline-flex items-center justify-center rounded-full border border-line" aria-label="Otevřít menu" aria-expanded="false" aria-controls="mobileNav">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+  </div>
+  <nav id="mobileNav" aria-label="Mobilní menu" class="hidden md:hidden border-t border-line bg-ground px-4 pb-4">
+    <a class="flex items-center min-h-[48px] font-medium" href="#dich-vu">Služby</a>
+    <a class="flex items-center min-h-[48px] font-medium" href="#quy-trinh">Postup</a>
+    <a class="flex items-center min-h-[48px] font-medium" href="#cam-ket">Zásady</a>
+    <a class="flex items-center min-h-[48px] font-medium" href="#hoi-dap">Dotazy</a>
+    <a class="btn w-full mt-2" href="#dat-lich">Objednat konzultaci</a>
+  </nav>
+</header>
+
+<main id="top">
+<!-- HERO: chữ rất lớn + vòm bất đối xứng -->
+<section class="max-w-6xl mx-auto px-4 sm:px-6 pt-12 pb-14 md:pt-20 md:pb-24 grid md:grid-cols-12 gap-10 items-end">
+  <div class="md:col-span-7">
+    <p class="text-sm font-semibold text-accent mb-5">Medicína · Estetika · Péče o pleť</p>
+    <h1 class="text-[2.6rem] leading-[1.05] sm:text-6xl lg:text-[4.4rem] font-bold">Poznejte svou pleť, než se jí kdokoli dotkne.</h1>
+    <p class="mt-6 text-lg text-muted max-w-xl leading-relaxed">Každá návštěva začíná vyšetřením a rozhovorem s lékařem. Dozvíte se vše o možnostech, přínosech, rizicích i nákladech a teprve poté se rozhodnete, zda zákrok podstoupit.</p>
+    <div class="mt-9 flex flex-wrap gap-3">
+      <a class="btn" href="#dat-lich">Objednat konzultaci</a>
+      <a class="btn btn-ghost" href="#dich-vu">Prohlédnout nabídku služeb</a>
+    </div>
+  </div>
+  <div class="md:col-span-5 relative">
+    <div class="ph h-[360px] md:h-[500px] rounded-t-[999px] rounded-b-card" role="img" aria-label="Fotografie konzultační ordinace, poměr 3:4">Foto ordinace 3:4</div>
+    <div class="absolute -bottom-5 left-4 sm:-left-6 bg-surface border border-line rounded-card p-4 max-w-[250px]">
+      <p class="text-sm font-semibold">[JMÉNO LÉKAŘE]</p>
+      <p class="text-sm text-muted">[ODBORNOST] · Registrační číslo ČLK [ČÍSLO]</p>
+    </div>
+  </div>
+</section>
+
+<!-- BẰNG CHỨNG -->
+<section class="border-y border-line bg-surface" aria-label="Oprávnění a odbornost">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-8 grid grid-cols-1 sm:grid-cols-3 gap-6 text-sm">
+    <div><p class="font-semibold">Oprávnění k poskytování péče</p><p class="text-muted">[ČÍSLO OPRÁVNĚNÍ] · vydal [ÚŘAD]</p></div>
+    <div><p class="font-semibold">Tým lékařů</p><p class="text-muted">[POČET LÉKAŘŮ] lékařů s odbornou způsobilostí, doklady jsou k nahlédnutí na recepci</p></div>
+    <div><p class="font-semibold">Zázemí kliniky</p><p class="text-muted">Sterilní zákrokové sály a protiinfekční režim podle [PLATNÝCH PŘEDPISŮ]</p></div>
+  </div>
+</section>
+
+<!-- DANH MỤC DỊCH VỤ: bảng mục lục kẻ dòng -->
+<section id="dich-vu" class="max-w-6xl mx-auto px-4 sm:px-6 py-14 md:py-24">
+  <div class="grid md:grid-cols-12 gap-6 mb-10">
+    <h2 class="md:col-span-5 text-3xl sm:text-4xl font-bold">Nabídka služeb</h2>
+    <p class="md:col-span-6 md:col-start-7 text-muted leading-relaxed">Indikace závisí na stavu pleti a zdraví každého klienta. Lékař vám poradí, co je vhodné, a upřímně řekne i to, když zatím žádný zákrok nepotřebujete.</p>
+  </div>
+  <ul class="border-t border-ink">
+    <li><a href="#dat-lich" class="row-svc grid grid-cols-[40px_1fr_auto] md:grid-cols-[64px_1.1fr_2fr_auto] gap-x-4 gap-y-1 items-center py-6 border-b border-line min-h-[44px]">
+      <span class="text-sm font-semibold text-muted">01</span>
+      <span class="text-xl font-semibold">Dermatologické vyšetření a léčba</span>
+      <span class="col-start-2 col-span-2 md:col-start-auto md:col-span-1 text-muted">Akné, pigmentové skvrny, záněty kůže, citlivá pleť. Vyšetření a předpis léčby provádí lékař.</span>
+      <svg class="col-start-3 row-start-1 md:col-start-auto md:row-start-auto" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></li>
+    <li><a href="#dat-lich" class="row-svc grid grid-cols-[40px_1fr_auto] md:grid-cols-[64px_1.1fr_2fr_auto] gap-x-4 gap-y-1 items-center py-6 border-b border-line min-h-[44px]">
+      <span class="text-sm font-semibold text-muted">02</span>
+      <span class="text-xl font-semibold">Kosmetická péče o pleť</span>
+      <span class="col-start-2 col-span-2 md:col-start-auto md:col-span-1 text-muted">Hloubkové čištění a obnova kožní bariéry, vždy přizpůsobené aktuálnímu stavu pleti.</span>
+      <svg class="col-start-3 row-start-1 md:col-start-auto md:row-start-auto" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></li>
+    <li><a href="#dat-lich" class="row-svc grid grid-cols-[40px_1fr_auto] md:grid-cols-[64px_1.1fr_2fr_auto] gap-x-4 gap-y-1 items-center py-6 border-b border-line min-h-[44px]">
+      <span class="text-sm font-semibold text-muted">03</span>
+      <span class="text-xl font-semibold">Neinvazivní estetika</span>
+      <span class="col-start-2 col-span-2 md:col-start-auto md:col-span-1 text-muted">Světelné a energetické technologie, chemické peelingy. Míra zlepšení je u každého jiná.</span>
+      <svg class="col-start-3 row-start-1 md:col-start-auto md:row-start-auto" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></li>
+    <li><a href="#dat-lich" class="row-svc grid grid-cols-[40px_1fr_auto] md:grid-cols-[64px_1.1fr_2fr_auto] gap-x-4 gap-y-1 items-center py-6 border-b border-line min-h-[44px]">
+      <span class="text-sm font-semibold text-muted">04</span>
+      <span class="text-xl font-semibold">Injekční aplikace</span>
+      <span class="col-start-2 col-span-2 md:col-start-auto md:col-span-1 text-muted">Provádí výhradně lékař po posouzení indikace a po vysvětlení možných komplikací.</span>
+      <svg class="col-start-3 row-start-1 md:col-start-auto md:row-start-auto" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></li>
+    <li><a href="#dat-lich" class="row-svc grid grid-cols-[40px_1fr_auto] md:grid-cols-[64px_1.1fr_2fr_auto] gap-x-4 gap-y-1 items-center py-6 border-b border-line min-h-[44px]">
+      <span class="text-sm font-semibold text-muted">05</span>
+      <span class="text-xl font-semibold">Plastická chirurgie</span>
+      <span class="col-start-2 col-span-2 md:col-start-auto md:col-span-1 text-muted">[SEZNAM OPERACÍ, KTERÉ KLINIKA SMÍ PROVÁDĚT]. Vždy předchází samostatná konzultace a čas na rozmyšlenou.</span>
+      <svg class="col-start-3 row-start-1 md:col-start-auto md:row-start-auto" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></li>
+  </ul>
+</section>
+
+<!-- QUY TRÌNH -->
+<section id="quy-trinh" class="bg-surface border-y border-line">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-14 md:py-24">
+    <h2 class="text-3xl sm:text-4xl font-bold max-w-2xl">Tři kroky a v kterémkoli se můžete zastavit.</h2>
+    <ol class="mt-12 grid gap-10 md:grid-cols-3">
+      <li>
+        <span class="inline-flex w-12 h-12 rounded-full bg-accent2 text-ink font-bold items-center justify-center">1</span>
+        <h3 class="mt-5 text-xl font-semibold">Vyšetření</h3>
+        <p class="mt-2 text-muted leading-relaxed">Lékař se zeptá na anamnézu, užívané léky, alergie a vaše představy a poté vás osobně vyšetří.</p>
+      </li>
+      <li>
+        <span class="inline-flex w-12 h-12 rounded-full bg-accent2 text-ink font-bold items-center justify-center">2</span>
+        <h3 class="mt-5 text-xl font-semibold">Plán léčby a cenová nabídka</h3>
+        <p class="mt-2 text-muted leading-relaxed">Plán dostanete písemně: postup, počet návštěv, cena [VAŠE CENA], rizika a předpokládaná doba hojení.</p>
+      </li>
+      <li>
+        <span class="inline-flex w-12 h-12 rounded-full bg-accent2 text-ink font-bold items-center justify-center">3</span>
+        <h3 class="mt-5 text-xl font-semibold">Zákrok a kontroly</h3>
+        <p class="mt-2 text-muted leading-relaxed">Pokračujeme jen s vaším souhlasem. Po zákroku máte objednanou kontrolu a kontaktní osobu pro případné dotazy.</p>
+      </li>
+    </ol>
+  </div>
+</section>
+
+<!-- NGUYÊN TẮC -->
+<section id="cam-ket" class="max-w-6xl mx-auto px-4 sm:px-6 py-14 md:py-24 grid md:grid-cols-12 gap-10">
+  <div class="md:col-span-5">
+    <h2 class="text-3xl sm:text-4xl font-bold">Co u nás nedělat nebudeme.</h2>
+    <div class="ph mt-8 h-56 rounded-card" role="img" aria-label="Fotografie konzultace s lékařem, poměr 4:3">Foto konzultace 4:3</div>
+  </div>
+  <ul class="md:col-span-6 md:col-start-7 divide-y divide-line border-y border-line self-start">
+    <li class="py-6"><h3 class="font-semibold text-lg">Neslibujeme jistý výsledek</h3><p class="mt-1 text-muted leading-relaxed">Každý organismus reaguje jinak. Popíšeme vám běžné zlepšení i případy, kdy je odezva slabší.</p></li>
+    <li class="py-6"><h3 class="font-semibold text-lg">Netlačíme na dlouhé kúry</h3><p class="mt-1 text-muted leading-relaxed">Platíte za jednotlivá ošetření nebo za balíček, který si sami zvolíte, ne podle obchodních cílů.</p></li>
+    <li class="py-6"><h3 class="font-semibold text-lg">Fotografie „před a po“ jen se souhlasem</h3><p class="mt-1 text-muted leading-relaxed">Snímky zveřejňujeme, jen když pacient udělí písemný souhlas, a uvádíme podmínky, za nichž byly pořízeny.</p></li>
+  </ul>
+</section>
+
+<!-- LỜI CHỨNG THỰC -->
+<section class="bg-ink text-white">
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 py-14 md:py-20">
+    <blockquote class="text-2xl sm:text-3xl font-medium leading-snug">„[CITACE KLIENTA O ZKUŠENOSTI S KONZULTACÍ A VYŠETŘENÍM]“</blockquote>
+    <p class="mt-6 text-[#BFD3CE]">[JMÉNO, POZICE] · se zveřejněním souhlasí</p>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section id="hoi-dap" class="max-w-3xl mx-auto px-4 sm:px-6 py-14 md:py-24">
+  <h2 class="text-3xl sm:text-4xl font-bold">Časté dotazy</h2>
+  <div class="mt-8 border-t border-line">
+    <details class="border-b border-line"><summary class="flex items-center justify-between gap-4 py-3 font-semibold">Je první konzultace zpoplatněna?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted leading-relaxed">[CENA KONZULTACE / VAŠE PODMÍNKY]. Cenovou nabídku dostanete vždy před zákrokem.</p></details>
+    <details class="border-b border-line"><summary class="flex items-center justify-between gap-4 py-3 font-semibold">Bude to bolet a jak dlouho budu doma?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted leading-relaxed">Záleží na zákroku. Lékař vám předem řekne, jaký diskomfort je běžný, jak ho zmírnit a jak dlouho trvá zotavení, a teprve pak souhlasíte.</p></details>
+    <details class="border-b border-line"><summary class="flex items-center justify-between gap-4 py-3 font-semibold">Co když se objeví komplikace?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted leading-relaxed">Každý zákrok nese rizika. Dostanete kontakt [NONSTOP TELEFON] a pokyny, jak postupovat při nezvyklých příznacích.</p></details>
+    <details class="border-b border-line"><summary class="flex items-center justify-between gap-4 py-3 font-semibold">Jsem těhotná nebo užívám léky. Mohu zákrok podstoupit?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted leading-relaxed">Řekněte nám to předem. Některé služby je třeba odložit nebo nahradit jinými, rozhodne lékař po vyšetření.</p></details>
+  </div>
+</section>
+
+<!-- CTA CUỐI -->
+<section id="dat-lich" class="px-4 sm:px-6 pb-16 md:pb-24">
+  <div class="max-w-6xl mx-auto bg-surface border border-line rounded-card p-6 sm:p-12 grid md:grid-cols-2 gap-10 items-center">
+    <div>
+      <h2 class="text-3xl sm:text-4xl font-bold">Objednejte si konzultaci, o ničem se rozhodovat nemusíte.</h2>
+      <p class="mt-4 text-muted leading-relaxed">Zanechte kontakt a recepce vám termín potvrdí telefonicky v ordinační době [ORDINAČNÍ HODINY].</p>
+    </div>
+    <form onsubmit="event.preventDefault();this.querySelector('[data-ok]').hidden=false" class="grid gap-4">
+      <div><label for="n" class="block text-sm font-semibold mb-1">Jméno a příjmení</label><input id="n" required autocomplete="name" class="w-full min-h-[48px] px-5 rounded-full border border-line bg-ground"></div>
+      <div><label for="p" class="block text-sm font-semibold mb-1">Telefon</label><input id="p" type="tel" required autocomplete="tel" class="w-full min-h-[48px] px-5 rounded-full border border-line bg-ground"></div>
+      <button class="btn" type="submit">Objednat konzultaci</button>
+      <p data-ok hidden class="text-sm font-medium text-accent" role="status">Děkujeme, žádost jsme přijali. Jde o ukázkový formulář, napojte jej na svůj rezervační systém.</p>
+    </form>
+  </div>
+</section>
+</main>
+
+<footer class="border-t border-line bg-surface">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-10 grid gap-8 md:grid-cols-3 text-sm text-muted">
+    <div><p class="font-bold text-ink text-base">Medical4U</p><p class="mt-2">[ADRESA]</p><p>[TELEFON]</p></div>
+    <div><p class="font-semibold text-ink">Právní informace</p><p class="mt-2">Oprávnění č. [ČÍSLO OPRÁVNĚNÍ]. Odpovědný lékař: [JMÉNO LÉKAŘE].</p></div>
+    <p>Obsah stránky je pouze informativní a nenahrazuje lékařské vyšetření. Výsledky i rychlost zotavení se u každého liší.</p>
+  </div>
+</footer>
+
+<script>
+(function(){var b=document.getElementById('menuBtn'),m=document.getElementById('mobileNav');
+b.addEventListener('click',function(){var o=m.classList.toggle('hidden')===false;b.setAttribute('aria-expanded',o);b.setAttribute('aria-label',o?'Zavřít menu':'Otevřít menu')});
+m.addEventListener('click',function(e){if(e.target.closest('a')){m.classList.add('hidden');b.setAttribute('aria-expanded','false')}});})();
+</script>
+</body>
+</html>

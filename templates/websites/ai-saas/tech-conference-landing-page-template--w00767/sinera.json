@@ -1,0 +1,71 @@
+{
+  "id": "SN-W00767",
+  "title": "Tech Conference Landing Page Template",
+  "summary": "A dark, futuristic tech conference landing page template featuring schedule timelines, partner logos, and internal resources for event teams.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Conference",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3537,
+      "sha256": "08be364c0697071fb37a33643d2666e2aa84dd6c25bfb00f3a8aa3c98d3f4bf6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11292,
+      "sha256": "eb574449a13eb30cd2b73d58d1f4e6cb0a54501224ea5eee115ee3b384483360"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 814,
+      "sha256": "007a48fa1ed19384dc6d80a3b4ab9e1c9723fb2ac8e07cb7717e299eaadeac7e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28265,
+      "sha256": "6fd9b439381d59aba88908cd288116502c8969ee87624fbb5fcd84fa847fe5cd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "timeline",
+    "bento-grid",
+    "logo-cloud",
+    "footer"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "broken-images"
+    ],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "SN-W00577",
+  "title": "Nexus AI Infrastructure Landing Page Template",
+  "summary": "A high-performance landing page template designed for AI infrastructure platforms, featuring serverless inference workflows and edge routing visualizations.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Dark",
+    "Minimal",
+    "Futuristic",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3988,
+      "sha256": "e8485a9e2ca26cd3c386792c245a2edabf9756cb37f87d06b82dbbd994f054c0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15918,
+      "sha256": "5129b968c55e7d8e2168e841be8261c2d46ad68fb80261c5426424b8e089f06d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 739,
+      "sha256": "2077115448fdb865e030eecf9c26cd452738cc57d5dfeb89cb4d511078b1ca20"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31307,
+      "sha256": "e97884f3264a1329e09e1141eaae59fa48437d15bb13afc5e66853daaf603cdd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "bento-grid",
+    "testimonials",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

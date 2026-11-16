@@ -1,0 +1,63 @@
+{
+  "id": "SN-W03206",
+  "title": "Brutalist Real Estate Landing Page Template",
+  "summary": "A high-contrast brutalist real estate landing page template for showcasing ultra-luxury architectural properties with bold typography and immersive imagery.",
+  "tags": [
+    "Landing Page",
+    "Real Estate",
+    "Brand",
+    "Brutal",
+    "Dark",
+    "Large Type",
+    "Minimal",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3330,
+      "sha256": "785cbc33f1204f9b6015e1b29ab6973d3e33209fdeb4f0eafc581258e03ff0de"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 33802,
+      "sha256": "8bd1ea313a70714dd6b24eac529f03ab0128d6ce877d35f774c8700606734150"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "f1ea06ea32d870734a20a3eac7328987ad9fdd012bea17981a01cf8d458a47ea"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18517,
+      "sha256": "ef9098ac917a23b2b82b1be67380c1d68b6902c9c9d91c6e888587c206338265"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "listings",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

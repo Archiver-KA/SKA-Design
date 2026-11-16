@@ -1,0 +1,69 @@
+{
+  "id": "SN-W02385",
+  "title": "Harbor Wellness Medical Clinic Template",
+  "summary": "A sophisticated, high-end healthcare template featuring integrated primary care booking and medical service showcase with fluid GSAP animations.",
+  "tags": [
+    "Health",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Technology",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3459,
+      "sha256": "53a822f2533ed2409015c7fb8b5cdab5b0fdae0df11ccd7ee15cf35addd1ca97"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13338,
+      "sha256": "f39e0ea53e8c21a690248d8f4e6d2d7be456d7977c682b657794e0f15a353b7f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 869,
+      "sha256": "ac898214635a6b5e6b4bf9d506c27d17cc6e4f3886da2ea4928dbebdc0cf5f2b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 267,
+      "sha256": "6c905d59716ce63cc5ffaa859075358d8c61a0c35b9942d725f59dce957051c5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20161,
+      "sha256": "4b0089d82a25a6cbbe9f7b7b79e0881385c45c1674353e420689d69317b8613e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "booking",
+    "services",
+    "team",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

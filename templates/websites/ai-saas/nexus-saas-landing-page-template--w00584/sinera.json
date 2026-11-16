@@ -1,0 +1,66 @@
+{
+  "id": "SN-W00584",
+  "title": "Nexus SaaS Landing Page Template",
+  "summary": "A dark, developer-focused SaaS landing page template for workflow synchronization tools, featuring hero, features, testimonials, and pricing sections.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "SaaS",
+    "Developer Tool"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3862,
+      "sha256": "72a8bbb396e2ce19e69bd0c2669c45de1e57b1f479764e8adf07006d6b52af34"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15428,
+      "sha256": "11987fb5f6a2a713cad9cb12cb2bcd421fd9fd1257e8551647695f7834e0f49d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "7fa9d14cc5eae84083037c1bc9a6c66a0ab0296fd276790ea24ac987ad1ffbda"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39495,
+      "sha256": "318532a0cf47ab867bf1ff01aac8101b05408b71376e5f92b0736d422c1e3929"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "testimonials",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

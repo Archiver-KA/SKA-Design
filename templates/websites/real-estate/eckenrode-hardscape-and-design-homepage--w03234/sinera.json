@@ -1,0 +1,73 @@
+{
+  "id": "SN-W03234",
+  "title": "Eckenrode Hardscape And Design homepage",
+  "summary": "A reusable landing page template for hardscape, fencing, patio, deck, and outdoor living contractors to showcase services and generate estimate requests.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Real Estate",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "contractor",
+    "hardscape",
+    "outdoor living",
+    "home improvement"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3798,
+      "sha256": "3292c64ea7c8729d210736b6c0da4acfce34eb2e6355a28da94e9a108d1118f6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16830,
+      "sha256": "66edd6e051014b36333f276f3cda62b8add95e82a5a5116f15dd096a8fe8d54f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 869,
+      "sha256": "9f7bec71255cdd7896bf0798261ecd4641699b201906136742658f619e3f6289"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 209,
+      "sha256": "d3057e254fbaf9675a1430d39c7a688280838dd9bed61a3d111927edd3a133e2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33725,
+      "sha256": "2172c22debdb928e9a7acd67e6be95704318c0c4fc0105a5f51e8363f3d780dd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "features",
+    "contact-form",
+    "testimonials",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

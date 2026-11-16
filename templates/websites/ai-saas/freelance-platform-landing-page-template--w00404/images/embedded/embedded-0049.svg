@@ -1,0 +1,15 @@
+<svg viewBox="0 0 100 50" class="w-full h-full overflow-visible" preserveAspectRatio="none">
+                                 <!-- Gradient Fill Area -->
+                                 <linearGradient id="chartGradient" x1="0" y1="0" x2="0" y2="1">
+                                     <stop offset="0%" stop-color="#22C55E" stop-opacity="0.1"></stop>
+                                     <stop offset="100%" stop-color="#22C55E" stop-opacity="0"></stop>
+                                 </linearGradient>
+                                 <path d="M0,48 L15,47 L30,42 L45,40 L62,35 L62,48 L0,48" fill="url(#chartGradient)" stroke="none"></path>
+                                 <path d="M62,35 L75,18 L90,14 L100,12 L100,48 L62,48" fill="#F0F9FF" fill-opacity="0.3" stroke="none"></path>
+                                 
+                                 <!-- Solid Line (Budget Used) -->
+                                 <path d="M0,48 L15,47 L30,42 L45,40 L62,35" fill="none" stroke="#22C55E" stroke-width="0.8" stroke-linecap="round"></path>
+                                 
+                                 <!-- Dashed Line (Forecast) -->
+                                 <path d="M62,35 L75,18 L90,14 L100,12" fill="none" stroke="#22C55E" stroke-width="0.8" stroke-dasharray="2 2" stroke-linecap="round"></path>
+                             </svg>

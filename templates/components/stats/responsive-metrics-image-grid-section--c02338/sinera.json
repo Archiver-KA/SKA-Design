@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02338",
+  "title": "Responsive Metrics & Image Grid Section",
+  "summary": "Tailwind-styled section displaying KPI cards and image tiles in a 1-col mobile / 3-col desktop grid. Features gradients, rings, rounded corners, and flexible heights—ideal for landing pages or dashboards to highlight stats and visuals.",
+  "tags": [
+    "grid",
+    "metric",
+    "image",
+    "tailwind",
+    "responsive",
+    "landing",
+    "gallery"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 30764,
+      "sha256": "8dd29e771c4cd825f974e1f6dac0182639001515a484b16a614139a8e5a056e2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2234,
+      "sha256": "1dd0c5a51d482c91c7a41dfa0e9eeccb3951980e79ba75e272cfa0e2fccadeb5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3098,
+      "sha256": "ff607b09acba92c89d5717b5fb52e0678257c61dc448246d6821809a19cd8be3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

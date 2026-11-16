@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00931",
+  "title": "Animated SaaS Footer with CTA Banner",
+  "summary": "Gradient footer section with a prominent workflow CTA, product and resource link columns, company info, and social icons. Uses Tailwind-style utility classes and subtle entrance animation, ideal for SaaS or product marketing sites.",
+  "tags": [
+    "footer",
+    "tailwind",
+    "responsive",
+    "animated",
+    "navigation",
+    "saas",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "footers",
+  "categoryLabel": "Footers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 17178,
+      "sha256": "6192027b90f05d020220f968eadc4d8c6351273b5771d9afa40564153742363f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10024,
+      "sha256": "71e31bbf538a7eaff58501796441158a2e493dc05db3cfb4ce4cff9571ae0a67"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10881,
+      "sha256": "613a4cf5a691bc2b91eae8b5af662140668061f4ce0cd2d86c63a04336eafc20"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

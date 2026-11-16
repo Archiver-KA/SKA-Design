@@ -1,0 +1,70 @@
+{
+  "id": "SN-W02157",
+  "title": "Personal Portfolio Template",
+  "summary": "A refined personal portfolio template for consultants, writers, and thought leaders to showcase essays, expertise, and a distinctive personal brand.",
+  "tags": [
+    "Portfolio",
+    "Blog",
+    "Brand",
+    "Technology",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Personal Brand",
+    "Consultant",
+    "Writer"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3090,
+      "sha256": "da61a3120aee3fa9c64ab89be419ea149a254eeab153e83d9c50d45fcddbb808"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13362,
+      "sha256": "31ed7d28af2e54a1c17822a46e64086e364907392571cb35497773946a80f039"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 856,
+      "sha256": "df80f1f0693f1df585caaee5f9ed0592f9fc5a6022eabf6bb2c37725161719ab"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "910c900a7a4784bba3a545f45cd25f1d36f95d97c692018fa09cb6a465e3f9ea"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10129,
+      "sha256": "53e282bb72d467679f48a2c0a78b618d0cf93823521ab3e91ee86883dfe0a1ff"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

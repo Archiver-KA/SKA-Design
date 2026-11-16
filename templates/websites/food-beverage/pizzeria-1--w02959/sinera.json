@@ -1,0 +1,73 @@
+{
+  "id": "SN-W02959",
+  "title": "pizzeria 1",
+  "summary": "Dark, cinematic single-page restaurant template for showcasing a pizzeria’s story, menu, and contact details, ready to customize for your own brand.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Restaurant",
+    "pizzeria",
+    "Single Page"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3638,
+      "sha256": "47fe729a2248f33a973e8525de8748c4ddc60475d0e80d8e6e59582989a68b04"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8804,
+      "sha256": "065f3ef0e8127b961e39d9071e7fbf46ca94ff12b539cd01b3f2b79fed96cdd5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 847,
+      "sha256": "ee35503842fb8ab5ccb3d8c00e996fc8a8fdc7233e76af6118afb75aa00a0dc6"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41977,
+      "sha256": "5b3a539223bdb0db2dfc61becbed1259afc7bfd9ba8fff36e36efdf86577ec0d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "menu-list",
+    "features",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

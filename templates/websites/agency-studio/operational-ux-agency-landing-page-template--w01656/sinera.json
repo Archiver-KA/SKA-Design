@@ -1,0 +1,74 @@
+{
+  "id": "SN-W01656",
+  "title": "Operational UX Agency Landing Page Template",
+  "summary": "A dark, tech-forward agency landing page template for operational UX, systems optimization, and consulting services, ready to adapt for modern service brands.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Consulting",
+    "Agency"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3559,
+      "sha256": "e611e6f96706218adc99a97dcbcf2dc364ffcefe8f428ad96049942f67f5c793"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1816,
+      "sha256": "451ece423683d3b15c9c14ee08a706e2dbda7667df67f1031cbccc6f1452d2c2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 878,
+      "sha256": "3406f156e965ddf96d6b1932f6b968b8364f47a4c71b8880e7665b68664fba57"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 269,
+      "sha256": "c7d2272a0da661ba864eb1955fedc31f37125045ff1e5916cd4157ff2fdafeca"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36252,
+      "sha256": "a5faec1318c830b17522cb622a1f14a416b5e354b750319e62f5b335da3a8f42"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "about",
+    "services",
+    "case-studies",
+    "how-it-works",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

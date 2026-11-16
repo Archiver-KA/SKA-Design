@@ -1,0 +1,70 @@
+{
+  "id": "SN-W01899",
+  "title": "Creative Portfolio Landing Page Template",
+  "summary": "A cinematic, art-driven portfolio landing page template for showcasing a designer or researcher’s work, story, and contact in a refined editorial layout.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Grid",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3417,
+      "sha256": "41018213e5c84861f3aa55c5215e09e5a73b03e539a948692cc6d73457433f40"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19772,
+      "sha256": "8d1ce534fcbe23053b261e7d2b2650e5781000e3a85d5898e53738522de281ca"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 868,
+      "sha256": "2cb689a65eccf566ba058984e2c6c8ce2c224d55f5253b391f42edd8a01d3cea"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "6d7f47cc04d290ef4abac372150068099aee31617cc15da366306e3307a84d33"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32762,
+      "sha256": "479185729b71a2a24e5c8686c0d833dba16abb4120b70793a09e3713e06d2840"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "awards-press",
+    "bento-grid",
+    "timeline",
+    "cta"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "SN-W00231",
+  "title": "Authority Lab",
+  "summary": "A bold, tactical landing page template for elite operators, agencies, and founders selling engineered growth systems and high-end social media/operations services.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Dark",
+    "Large Type",
+    "Minimal",
+    "Gradient",
+    "Technology",
+    "Art & Design"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3621,
+      "sha256": "dce8e7c2ea63ae316ac900243c4a055351d7ef64880701d6c9c734ede8551736"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13516,
+      "sha256": "6532d224dc7ecbd00af802e4dc6c70ca914259767790ff18317889522edf8c92"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 931,
+      "sha256": "13d3cab868efc0e120a67961b148727b78b8a3415ed31818fce3cb10bdb707ac"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "910c900a7a4784bba3a545f45cd25f1d36f95d97c692018fa09cb6a465e3f9ea"
+    },
+    {
+      "path": "index.html",
+      "bytes": 58355,
+      "sha256": "292d91aecd423551a07fad208e86f4c3b29da99db3f899379def24a6278cfaa5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "video-media",
+    "features",
+    "schedule-agenda",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

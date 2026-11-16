@@ -1,0 +1,104 @@
+{
+  "id": "SN-W01197",
+  "title": "KAIRO — Heat With Intent",
+  "summary": "A premium, minimalist landing page template for artisan food brands, featuring high-contrast design, parallax scroll effects, and Japanese-inspired aesthetics.",
+  "tags": [
+    "Food",
+    "Landing Page",
+    "Brand",
+    "Minimal",
+    "Clean",
+    "Large Type",
+    "E-commerce"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "react",
+  "entry": "compare.js",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2361,
+      "sha256": "0c47c9f0c9bb036afd22ca8b943e4e41ff83ec991c70e2d08769b6169975c658"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1048,
+      "sha256": "5480fc4288c4ca85c2d1b14947d592a75254b27fe1df4316c7f0d6ef15eb27e2"
+    },
+    {
+      "path": "compare.js",
+      "bytes": 2407,
+      "sha256": "a186f0fc5dd9a20852823152e18bef5eef5b0c4dd9dd220c91523ec01f654f6f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 863,
+      "sha256": "ca46ce9ce57d9738f69ee0002abce4a010cce61c1e2ba300f5a75db3a31784fb"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 211,
+      "sha256": "0af70a23ff9a9c5753de9bffd9794dc71ba1bd130684f5efdc39e61a27fbd7d0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 729,
+      "sha256": "d72b57b616e34cbaa2ee8fb0bb51c1dd69a28912c4d04deae249d30dfcbf9b71"
+    },
+    {
+      "path": "package.json",
+      "bytes": 632,
+      "sha256": "46afbb809426701aa780a3db4262b3ff2835dd6b178979e445b483e3b626798f"
+    },
+    {
+      "path": "postcss.config.js",
+      "bytes": 81,
+      "sha256": "e32657baf631d7c5f4dc67b4b2ee0ec8e7d5b3c41860e09cddce7c0377cd80bc"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 114158,
+      "sha256": "8d958a61e0c691f2fedcec4d189e4b4741f0ccc86312ee77541f9304738916ab"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 32440,
+      "sha256": "512e282115f68e16574222993c68c5c280c4414a8fe61e78ff7ea4c87dca4c97"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 237,
+      "sha256": "131d1076b14528384b1aba2fab619093cc85caa85f37f40bf3a12cb7a382db84"
+    },
+    {
+      "path": "tailwind.config.js",
+      "bytes": 126,
+      "sha256": "cc8261a76bad6514da1a86304a7e949fa688d0757167eff69f27d73096759959"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 136,
+      "sha256": "eca485c281977125366d4800553256e419f364984e615f75a2d2bae54f7857fd"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [
+      "banner-missing-or-tiny"
+    ],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

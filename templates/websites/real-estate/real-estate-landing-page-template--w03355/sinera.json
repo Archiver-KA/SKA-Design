@@ -1,0 +1,82 @@
+{
+  "id": "SN-W03355",
+  "title": "Real Estate Landing Page Template",
+  "summary": "A reusable real estate landing page template for property brokers, agencies, and consultants to showcase projects, services, loan support, and lead-gen CTAs.",
+  "tags": [
+    "Real Estate",
+    "Services",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Brand",
+    "property",
+    "mortgage",
+    "agency"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3753,
+      "sha256": "f0b6bd9b4acb0630fc2a3508c93e3a4c77d7170a453a32fc51ab9ff13d6bfa08"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 32796,
+      "sha256": "86cd70b81d7e115b54b650a6f3a2c27acceb6e439cde4e79a91edbbe4c2252c5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1267,
+      "sha256": "ba2065fcfa019a7e79dd81e705cf48e85a47deb7fe1492d7184e23da14820b95"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 3207,
+      "sha256": "67e4268c363b2f4e9a5f74db78caf970f6c6fb68e2373f0c73211a8a9c5b94b7"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 1439,
+      "sha256": "0c8a0b5e6397771178565d373805a14981cfe6402f3b4d053d3390cd4fd09819"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 771,
+      "sha256": "a8d5eacf93b5da333ef5eeca50e2862d9d3c0b3c9c975bedbacaaf68e50af559"
+    },
+    {
+      "path": "index.html",
+      "bytes": 53191,
+      "sha256": "3955c6a33bd4c5325887f878b2044f02b141c44c4e3baba0d2dd7903d6f5711b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "listings",
+    "case-studies",
+    "contact-form",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

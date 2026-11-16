@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00500",
+  "title": "3D Editor UI Preview Panel",
+  "summary": "Full-width animated mock UI of a 3D modeling editor, featuring sidebars, toolbars, layer list, properties panel, and a central 3D object viewport with HUD controls. Built with Tailwind-style utility classes for use as a hero-style app UI preview.",
+  "tags": [
+    "ui",
+    "tailwind",
+    "dashboard",
+    "editor",
+    "animated",
+    "interactive",
+    "3d",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14908,
+      "sha256": "6173458cf3a3fbac130c187f97dde182f859790338c799f3e93abdeaf8bc4a98"
+    },
+    {
+      "path": "component.html",
+      "bytes": 63789,
+      "sha256": "c15358dabc15062046d2ac75d1cb88790d8aa9352bffc8a32b4688eeb11ef0c0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 64766,
+      "sha256": "143a3d6940b5d2540d72080b70c516b2332893459a4af934111038bc89904fff"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

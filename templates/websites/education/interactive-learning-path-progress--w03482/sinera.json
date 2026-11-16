@@ -1,0 +1,58 @@
+{
+  "id": "SN-W03482",
+  "title": "Interactive Learning Path Progress",
+  "summary": "Displays a multi-step progress UI with animated WebGL background for personalized learning path setup.",
+  "tags": [
+    "Progress Steps",
+    "WebGL Animation",
+    "Tailwind CSS",
+    "Interactive UI",
+    "Canvas Shader",
+    "Step Indicator"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3017,
+      "sha256": "b962733587e4ba4ac57e7a2374a7e664c0bedbee6ad3bb4c923e33fcdce0499b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22840,
+      "sha256": "ede96ae4103c6e60237932c10a4f5f469f113f635103f35eb0eef5314dce3933"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 722,
+      "sha256": "f690d3d7267b0cf2862179885d6ffc8eb1cab0997b79dbf5242e2e1830d0fe6d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16122,
+      "sha256": "5fad955b656be7d18c2188732992a9875994bee5e4973d9dbc52b9ad2f6eb407"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "how-it-works"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

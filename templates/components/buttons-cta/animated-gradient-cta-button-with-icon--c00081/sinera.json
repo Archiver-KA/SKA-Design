@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00081",
+  "title": "Animated Gradient CTA Button with Icon",
+  "summary": "Anchor-styled button featuring timer icon, floating animation, gradient border, and Tailwind utility classes. Ideal as a \"Start Free\" or signup call-to-action across landing pages and promo sections.",
+  "tags": [
+    "button",
+    "cta",
+    "link",
+    "tailwind",
+    "animated",
+    "gradient",
+    "icon"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2034,
+      "sha256": "1b3fbd58519bfcb713765037ccf37d6d9b8402047d1ada50d74562d11ba44890"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1077,
+      "sha256": "ba64f6c4277d54d084432b0e2178f78a87c45b5d3b7153320c9645feca8ef5e5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2066,
+      "sha256": "c8846a89f2aa14161442b47063a58cf796ac5c5e9cbc5d412ea923f93b9c2c5b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

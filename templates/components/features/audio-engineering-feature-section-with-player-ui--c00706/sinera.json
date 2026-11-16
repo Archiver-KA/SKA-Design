@@ -1,0 +1,47 @@
+{
+  "id": "SN-C00706",
+  "title": "Audio Engineering Feature Section with Player UI",
+  "summary": "Two-column feature section highlighting AX-7000 audio engineering with an interactive, skeuomorphic audio player. Includes rotary volume dial, animated equalizer, playback controls, and hardware-style toggles. Styled with Tailwind utility classes for product or landing pages.",
+  "tags": [
+    "feature",
+    "section",
+    "ui",
+    "audio",
+    "interactive",
+    "tailwind",
+    "landing",
+    "media",
+    "music",
+    "track",
+    "skeuomorphic"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20394,
+      "sha256": "4742a75f2d8335c2148ccbf0f75bce2cc74a06f718be87116e002cfb92af08fc"
+    },
+    {
+      "path": "component.html",
+      "bytes": 20313,
+      "sha256": "3b401aa4641a8c2c70d99d99ccc51d96008d117ff874aa4d3fa7e1d3f75db3be"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21182,
+      "sha256": "e1c9d57e6ba33694de8a4b7651c8bd54381ff1eaad1b279257bd46e97b1f8fc0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

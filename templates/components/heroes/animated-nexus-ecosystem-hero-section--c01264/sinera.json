@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01264",
+  "title": "Animated Nexus Ecosystem Hero Section",
+  "summary": "A high-fidelity hero section featuring GSAP-powered animations, SVG path tracking particles, and a rotating compass-style integration visual. Built with Tailwind CSS and a clean Geist font aesthetic, it's perfect for SaaS integration or ecosystem landing pages.",
+  "tags": [
+    "hero",
+    "section",
+    "gsap",
+    "animated",
+    "tailwind",
+    "svg",
+    "responsive",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22638,
+      "sha256": "6d6a9b6cefa47ce3b521ab78cb4aaa6bc0e3de5d1422d36df8a22d7daeea4047"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12591,
+      "sha256": "95b3e6ad6be2cbf44e14977178eeb3cde032b684f9664825743104e06df7e228"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13449,
+      "sha256": "ee19f28a65fb7d60a27ea87fefbd4bf48d33242b4268e5d649c3a836bfe36ff2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

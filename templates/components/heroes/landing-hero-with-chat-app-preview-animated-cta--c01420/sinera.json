@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01420",
+  "title": "Landing Hero with Chat App Preview & Animated CTA",
+  "summary": "Full-width hero section featuring headline, subtext, animated gradient sign-up button, alt link, and an interactive chat application mockup with sidebar, message list, composer, and AI recap. Tailwind CSS utilities and custom CSS ensure responsive, modern styling for SaaS landing pages.",
+  "tags": [
+    "hero",
+    "landing-page",
+    "tailwind",
+    "animated-button",
+    "chat-mockup",
+    "responsive",
+    "interactive",
+    "gradient",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 24870,
+      "sha256": "c8bd7d4f43ffe81723d2ef4f912be6261ca606e9ee044d0d9851afc0b91a1d1d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 34880,
+      "sha256": "68ddf626ccc7d196132db565bb29cb5da5d6566ac564704e2ee1dcf959ef8227"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35884,
+      "sha256": "920e87e3ff88db30f8c0cea072f2c90166eda11a88ca8b0026df5804494fb20e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

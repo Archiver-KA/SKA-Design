@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01387",
+  "title": "Hero Section With Stats",
+  "summary": "A complete hero section with heading, description, action buttons, and statistics display with image",
+  "tags": [
+    "hero",
+    "section",
+    "stats",
+    "cta",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 60814,
+      "sha256": "80e6e8ba852e8044f899323a90806408367a48d1af064f9310f02a4d0d021a17"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2261,
+      "sha256": "645349da2f2ec0b4d419c6d8c6ae58856029305be7171f3dd53b5652fe59bb97"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3105,
+      "sha256": "7d992022b360cb4a0b75ff257351a5ca2252307853ffb63da609119ec4b3b977"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

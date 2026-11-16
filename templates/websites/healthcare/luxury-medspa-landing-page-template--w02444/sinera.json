@@ -1,0 +1,70 @@
+{
+  "id": "SN-W02444",
+  "title": "Luxury Medspa Landing Page Template",
+  "summary": "A premium medspa website template for luxury aesthetic clinics, featuring services, team, location, FAQ, and booking CTAs ready to customize.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Medspa",
+    "Beauty Clinic"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3810,
+      "sha256": "d85223849550e5ec676e5b533c91f97b19c3159a6769db230093e20eaf7105a9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15280,
+      "sha256": "fd89d969e18381ed1df131b53f89948ff28b748d02a1a53715e0d162c24b91a7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "25f66d9c35dad500dc92e3b0af5c1c8cbcd0cd3bfff63ce0b1a7e8fa79a38f5e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34330,
+      "sha256": "56813afe9ce660f35d45b712400b7e69dff1b5722fb27a16cb4eb1d484ecced3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "announcement-bar",
+    "navbar",
+    "hero",
+    "services",
+    "team",
+    "map-location",
+    "contact-form",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

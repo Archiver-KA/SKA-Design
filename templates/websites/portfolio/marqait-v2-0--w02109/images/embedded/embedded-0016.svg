@@ -1,0 +1,38 @@
+<svg class="absolute top-0 right-0 bottom-0 left-0 w-[364px] h-[422px]" viewBox="0 0 500 260" preserveAspectRatio="none" stroke-width="2" data-icon-replaced="true" style="width: 364px; height: 422px; color: rgb(212, 212, 212);">
+                <!-- Grid lines -->
+                <g stroke="#636b7a" stroke-width="0.5" opacity="0.15" class="">
+                  <path d="M0 40 H500" class=""></path>
+                  <path d="M0 80 H500" class=""></path>
+                  <path d="M0 120 H500" class=""></path>
+                  <path d="M0 160 H500"></path>
+                  <path d="M0 200 H500"></path>
+                  <path d="M60 0 V260" class=""></path>
+                  <path d="M150 0 V260"></path>
+                  <path d="M240 0 V260"></path>
+                  <path d="M330 0 V260"></path>
+                  <path d="M420 0 V260" class=""></path>
+                </g>
+
+                <!-- Low curve -->
+                <path d="M0,210 C80,195 130,180 190,185 C250,190 300,215 360,210 C420,205 460,195 500,197" fill="none" stroke="#818cf8" stroke-width="2" stroke-dasharray="4 4" opacity="0.22" class=""></path>
+
+                <!-- Mid curve -->
+                <path d="M0,195 C80,185 140,165 210,170 C280,175 340,200 400,195 C450,190 480,178 500,175" fill="none" stroke="#94a3b8" stroke-width="2" stroke-dasharray="4 4" opacity="0.28"></path>
+
+                <!-- Fill area -->
+                <path d="M0,180 
+           C80,165 150,130 220,125 
+           C290,120 340,130 390,148 
+           C440,160 470,182 500,188 
+           L500,260 L0,260 Z" fill="#6366f1" fill-opacity="0.15" class="animate-chart-fill"></path>
+
+                <!-- Main curve -->
+                <path d="M0,180 
+           C80,165 150,130 220,125 
+           C290,120 340,130 390,148 
+           C440,160 470,182 500,188" fill="none" stroke="#818cf8" stroke-width="2.5" class="animate-draw-line"></path>
+
+                <!-- Data points -->
+                <circle cx="220" cy="125" r="4" fill="#ffffff" class="animate-pulse animate-chart-fill"></circle>
+                <circle cx="390" cy="148" r="4" fill="#ffffff" class="animate-chart-fill"></circle>
+              </svg>

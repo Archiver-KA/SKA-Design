@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00253",
+  "title": "Profile Chip with Avatar and Mail Contact Button",
+  "summary": "Compact inline profile card showing role, avatar and name, plus a 'Ask directly' button that triggers a mailto link. Tailwind-styled with glassmorphism ring, shadow and hover states; perfect for team lists, dashboards or contact widgets.",
+  "tags": [
+    "card",
+    "profile",
+    "avatar",
+    "contact",
+    "button",
+    "tailwind",
+    "glassmorphism",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4612,
+      "sha256": "492d9f2dd010e3aacd0127cbdf98588bcbaec183d1d50ff93bb1ebd4ea9089ab"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1359,
+      "sha256": "42c8b3229e5ae769830d27c2134874911d8748c596340673edd0a2b3340a25b0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2358,
+      "sha256": "ce285f01b7e77a0a6d2fd70b212b3bca8e192713766e94a8553a3bb35c840635"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

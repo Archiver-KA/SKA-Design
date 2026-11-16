@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00302",
+  "title": "AI Agent Card Grid with Gradient Mask",
+  "summary": "Responsive 2-column grid of AI agent cards featuring image backgrounds, icon chips, category badges, rounded corners and a fade-out mask, built with Tailwind CSS for dashboards, product listings or feature showcases.",
+  "tags": [
+    "card",
+    "grid",
+    "tailwind",
+    "responsive",
+    "dashboard",
+    "image-background",
+    "badge",
+    "gradient"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13764,
+      "sha256": "f34223e1f480b97768b161174368e33e23ea77baee40b3a89eaa6cf7d0c32f19"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3935,
+      "sha256": "78befa0fdf1a3027eda90633f3d566bfd91836fd2609125ca2f7b542787a6f74"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4923,
+      "sha256": "1bc7d3e2d262de2b2f23a7c01e68f8189c9b2e59c2353c610a07dfffbd511606"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

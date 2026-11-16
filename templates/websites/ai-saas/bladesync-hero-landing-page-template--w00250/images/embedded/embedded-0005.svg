@@ -1,0 +1,33 @@
+<svg class="absolute inset-0 w-full h-full" viewBox="0 0 400 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <!-- Path Definitions -->
+                    <defs>
+                        <!-- Top Curve -->
+                        <path id="path1" d="M0 150 C 150 150, 200 300, 320 300"></path>
+                        <!-- Middle Curve -->
+                        <path id="path2" d="M0 300 C 100 300, 200 300, 320 300"></path>
+                        <!-- Bottom Curve -->
+                        <path id="path3" d="M0 450 C 150 450, 200 300, 320 300"></path>
+                    </defs>
+
+                    <!-- Base Lines (Faint) -->
+                    <use href="#path1" stroke="#262626" stroke-width="1.5"></use>
+                    <use href="#path2" stroke="#262626" stroke-width="1.5"></use>
+                    <use href="#path3" stroke="#262626" stroke-width="1.5"></use>
+
+                    <!-- Animated Beams (Orange) -->
+                    <!-- Beam 1 -->
+                    <use href="#path1" stroke="url(#gradientBeam)" stroke-width="2" class="animate-beam delay-100" stroke-linecap="round"></use>
+                    <!-- Beam 2 -->
+                    <use href="#path2" stroke="url(#gradientBeam)" stroke-width="2" class="animate-beam delay-500" stroke-linecap="round"></use>
+                    <!-- Beam 3 -->
+                    <use href="#path3" stroke="url(#gradientBeam)" stroke-width="2" class="animate-beam delay-1000" stroke-linecap="round"></use>
+
+                    <!-- Gradient Definition for Glow effect -->
+                    <defs>
+                        <linearGradient id="gradientBeam" x1="0%" y1="0%" x2="100%" y2="0%">
+                            <stop offset="0%" stop-color="#f97316" stop-opacity="0"></stop>
+                            <stop offset="50%" stop-color="#f97316"></stop>
+                            <stop offset="100%" stop-color="#f97316" stop-opacity="0"></stop>
+                        </linearGradient>
+                    </defs>
+                </svg>

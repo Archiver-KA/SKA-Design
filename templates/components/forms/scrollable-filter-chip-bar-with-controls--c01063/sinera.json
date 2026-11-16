@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01063",
+  "title": "Scrollable Filter Chip Bar with Controls",
+  "summary": "Interactive horizontal chip scroller with filter and sort actions, previous/next buttons, and smooth scroll behavior. Styled with Tailwind-like utility classes for use in galleries, search results, or media libraries.",
+  "tags": [
+    "menu",
+    "filter",
+    "interactive",
+    "scrollable",
+    "chips",
+    "tailwind",
+    "javascript"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4852,
+      "sha256": "872c287881e3773a9e7feac19e931592729a7ccb8af441b485611024ced65c59"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8570,
+      "sha256": "83f562acd05d2abb83d8e4f3e30a3e168ed7a4b5f29ced223fe13f4217edb526"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9431,
+      "sha256": "6de428f8961e9a77700a82c8a20972d45b4b0bd886a01b3bbb65456365b7afe3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

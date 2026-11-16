@@ -1,0 +1,78 @@
+{
+  "id": "SN-W01132",
+  "title": "Coffee Shop Landing Page Template",
+  "summary": "A dark, minimalist coffee shop landing page template for specialty cafés to showcase their menu, shop products, and location in a premium, brand-forward layout.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Coffee shop",
+    "café"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3741,
+      "sha256": "a50cd8bb69e3b93cd88896e25ed7141b344041324bdd7d63a6cc6dd5030175f8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10194,
+      "sha256": "598186689e25ae0e3c1577c840a2458b149cbae449b53b929764667d7ef5f37c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1064,
+      "sha256": "597cfb7eca3176cbfa4dfdf3330f5d8db77e19a7563beb917baf846b71a896d6"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 398,
+      "sha256": "88b91074c1c75ba422707520519adba2517289639bd93198a10c00be13232ea2"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 971,
+      "sha256": "532fb581e598594c3e192ed7f70145031477083c3885021f3b00ceda9fad84fa"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40234,
+      "sha256": "873416a133d139f6ad42beaa6542ad7ff2f2875e4319c5f180d684ea3cbf6818"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "testimonials",
+    "product-grid",
+    "newsletter",
+    "services",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

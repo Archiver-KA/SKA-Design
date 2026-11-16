@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02024",
+  "title": "Dual Plan Pricing Cards with Tailwind Gradients",
+  "summary": "Responsive pricing section featuring Starter and Pro plans. Includes gradient backgrounds, animated CTA buttons, feature lists, and plan badges. Built with Tailwind CSS grid utilities for SaaS or product landing pages.",
+  "tags": [
+    "pricing",
+    "tailwind",
+    "responsive",
+    "gradient",
+    "cta",
+    "saas",
+    "feature list",
+    "section"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26162,
+      "sha256": "d7b2aa6e787ea42158d6402d4ba3a183a058f78f0a21d6918a1f2f7bb95874e0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10100,
+      "sha256": "2add186fe71eefe600dc19a9853dc6587958885968a618ec65e10ce34847bf1c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10968,
+      "sha256": "503b73e845aa737d2e21a16d6c2f8065a08fdec3cb479f5dc652017e66f0a5c8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

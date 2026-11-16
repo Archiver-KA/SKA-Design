@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01448",
+  "title": "Portfolio Hero Section with CTA and Image Grid",
+  "summary": "Responsive Tailwind hero section for personal portfolio showcasing headline, badges, dual call-to-action buttons, feature list, and supporting image grid. Ideal for designers or agencies to introduce services and direct users to contact or case studies.",
+  "tags": [
+    "hero",
+    "portfolio",
+    "tailwind",
+    "cta",
+    "image grid",
+    "responsive",
+    "landing",
+    "designer"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 45088,
+      "sha256": "5c77407078453228eb057abbe4192f969b1deb2e7d2bf807ecfd1dece9e09032"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4001,
+      "sha256": "2fda0f9dbba6975e06f68b41f792472e5b7dcc642d83e2d31713c0b55372b9d9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4998,
+      "sha256": "32ad46b5bce904447f09c928a900d8dbc81dfa02e8ed9eeaa6c704874115c2d6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

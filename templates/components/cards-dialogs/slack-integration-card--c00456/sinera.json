@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00456",
+  "title": "Slack Integration Card",
+  "summary": "Interactive live chat interface showing real-time Slack integration with activity status, user messages, and engagement metrics.",
+  "tags": [
+    "card",
+    "integration",
+    "slack",
+    "live",
+    "chat",
+    "dark",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5958,
+      "sha256": "788f080f17e070486b0dbb5c2a526778cdd536ee99d32ac143ce1df69c9b6bf0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3281,
+      "sha256": "4ec2a7b393637508b710f3236ce72088f3e727e553a8caf9526080434bd10f63"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4124,
+      "sha256": "8cceb78955de0ff624d85d78747ccd36c1e2174267a385141de164bf1d96e1dd"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

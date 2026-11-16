@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02689",
+  "title": "Tennis Club Landing Page Template",
+  "summary": "A modern, brandable tennis club landing page template for promoting courts, coaching services, and memberships with bold imagery and clear calls to action.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Sports",
+    "Tennis",
+    "Coaching"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3405,
+      "sha256": "afade0bcd0a02c81707a5a1369e91503718bf021e094179606132eae07f97e04"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11758,
+      "sha256": "211cbd8e46f7abaf72bfdb30a7974f8acef81208f42471b33c70d33cf6faec4b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "ccc9bf6756e3cde96818e37ae7532da5045032c7d209ee85550aa3e2c7d2da9a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19741,
+      "sha256": "cf9439f13019bcd0fc9354ee9250bd659a91ad813c40f9b66d7b620b1253174b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "stats",
+    "services"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

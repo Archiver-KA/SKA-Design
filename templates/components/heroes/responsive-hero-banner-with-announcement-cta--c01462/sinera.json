@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01462",
+  "title": "Responsive Hero Banner with Announcement & CTA",
+  "summary": "Tailwind-styled hero section featuring an announcement pill, bold headline, supporting text, primary gradient CTA button, and secondary link. Ideal for landing pages to highlight product value and drive sign-ups or tours across devices.",
+  "tags": [
+    "hero",
+    "banner",
+    "cta",
+    "announcement",
+    "tailwind",
+    "landing page",
+    "responsive",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 24916,
+      "sha256": "ac90d8fc785984f37a4d12d3538e62a6276dd5bb9f5d3eb6058d3235a8a48981"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2273,
+      "sha256": "36b7f4cb1aac552083edf35dd364bcc4d094d274265754068d395fa489ddb3c2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3274,
+      "sha256": "0ee01aa003938b32dc6eb262a24a65725096d856fdd92ac76e6fb956e971dfb2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

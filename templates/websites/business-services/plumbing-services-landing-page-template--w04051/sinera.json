@@ -1,0 +1,72 @@
+{
+  "id": "SN-W04051",
+  "title": "Plumbing Services Landing Page Template",
+  "summary": "A modern, dark-themed landing page template for local plumbing service businesses, featuring services, reviews, location, and always-visible call-now CTAs.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Technology",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3628,
+      "sha256": "7fa2667c16ca5d01927b75483d1055015cd767e3658f34ecf15791d81c004d42"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13668,
+      "sha256": "0a470a3dd4cd8a6ec2ceb4a35effb6770647386a90a25b7792ae95abdac067f4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 874,
+      "sha256": "52d8795edba1fbb0bc09fa97228e5c1c52012906c3a2ecd16a9b0a3e3877313e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 47743,
+      "sha256": "9bd11010114147885b182d385a2c363947195d7ca950dbbd90d9582db955f43b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "services",
+    "map-location",
+    "testimonials",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

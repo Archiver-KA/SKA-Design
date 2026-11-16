@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00498",
+  "title": "3D Animated Blob Interactive Background",
+  "summary": "A WebGL-powered animated 3D blob that follows mouse movement. Uses Three.js with custom shaders for smooth, organic motion. Perfect for modern hero sections or interactive backgrounds.",
+  "tags": [
+    "background",
+    "animated",
+    "interactive",
+    "3d",
+    "webgl",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3854,
+      "sha256": "bae7fd0f2c0aa59a39a8ea4ef68e9dff97329b3ed3f2bf599a7fdb765e13bfee"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7147,
+      "sha256": "e5dda9d15712b964cae67b61f969cb529da85f4db87427d1e5677c3e2344c22c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8007,
+      "sha256": "084f53239b24f305a387af2a76874cd2d5d43420c1fba5368a87de4a2c955f8b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

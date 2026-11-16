@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02069",
+  "title": "Responsive 3-Tier Pricing Grid with Featured Plan",
+  "summary": "Tailwind CSS pricing component displaying Starter, Growth, and Scale plans in a responsive 3-column grid. Includes highlighted featured plan, hover effects, and call-to-action buttons—ideal for SaaS or agency pricing pages.",
+  "tags": [
+    "pricing",
+    "table",
+    "tailwind",
+    "responsive",
+    "grid",
+    "saas",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 27486,
+      "sha256": "de17b4c10f923a29d9d0f63e5ed0b6d8de3a7259d2e84a09ce4223e53467b2c1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7710,
+      "sha256": "576448e48d3040e7159e986a563ad208d694b411791bdcebb53314ff743110b0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8580,
+      "sha256": "1a753a5c81490b2d8e29aa2ef6e47edc2031f189f6c9f2d32746caeaf4886cef"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

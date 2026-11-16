@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00326",
+  "title": "Career History Card with Job List",
+  "summary": "Tailwind-styled card showing a timeline of past jobs with role, company, and date details. Includes briefcase and building icons for visual context—ideal for portfolios, resumes, or user profile sections.",
+  "tags": [
+    "card",
+    "list",
+    "timeline",
+    "resume",
+    "profile",
+    "tailwind",
+    "icon",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6070,
+      "sha256": "aeddebf56f252e8b3b693f5cd799f1d07b12bcb84e725aadc4435961dfb8e563"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3681,
+      "sha256": "30094f1c2ac2d5927224adc59a2663515530ae3389b2c005d3d7f2e1d1fc3ced"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4665,
+      "sha256": "29a811c9b4a7416d5c313c32721cf8b40d17e28f24cb11b92796f158bb1f6e66"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00962",
+  "title": "Responsive Footer with Newsletter Subscription",
+  "summary": "TailwindCSS footer featuring brand logo, radial gradient backdrop, email newsletter form, social media icons, navigation links, and copyright notice. Fully responsive for mobile-desktop layouts, ideal for SaaS, agency, or e-commerce sites.",
+  "tags": [
+    "footer",
+    "tailwind",
+    "newsletter",
+    "responsive",
+    "social-icons",
+    "form",
+    "ui-component"
+  ],
+  "kind": "components",
+  "category": "footers",
+  "categoryLabel": "Footers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5702,
+      "sha256": "75d4c442e05221d8e5d2cc30e7d58db608dd25b984ddf07298b4bab7979f6322"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5655,
+      "sha256": "d242e317fe19c7ec4aaa2a4480f66ee98662367e5b0a64580e3d02e9dfbe6d85"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6652,
+      "sha256": "22673d34dbe2dd4f48bb5e04f34afc76232043481aaea90b07a33f35bae4387a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

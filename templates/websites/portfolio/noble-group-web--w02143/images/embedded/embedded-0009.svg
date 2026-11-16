@@ -1,0 +1,41 @@
+<svg viewBox="0 0 400 100" class="overflow-visible w-[378px] h-[112px]" preserveAspectRatio="none" stroke-width="2" data-icon-replaced="true" style="width: 378px; height: 112px; color: rgb(18, 18, 18)">
+        <defs>
+            <linearGradient id="modernGradient" x1="0" y1="0" x2="0" y2="1">
+                <stop offset="0%" stop-color="#E3A501" stop-opacity="0.2"></stop>
+                <stop offset="100%" stop-color="#E3A501" stop-opacity="0"></stop>
+            </linearGradient>
+            <filter id="glowLine" x="-20%" y="-20%" width="140%" height="140%">
+                <feGaussianBlur stdDeviation="2" result="blur"></feGaussianBlur>
+                <feComposite in="SourceGraphic" in2="blur" operator="over"></feComposite>
+            </filter>
+        </defs>
+        
+        <!-- Subtle Grid -->
+        <line x1="0" y1="25" x2="400" y2="25" stroke="#f3f4f6" stroke-width="1" stroke-dasharray="4 4" class=""></line>
+        <line x1="0" y1="50" x2="400" y2="50" stroke="#f3f4f6" stroke-width="1" stroke-dasharray="4 4" class=""></line>
+        <line x1="0" y1="75" x2="400" y2="75" stroke="#f3f4f6" stroke-width="1" stroke-dasharray="4 4"></line>
+
+        <!-- Area Fill -->
+        <path d="M-10,90 C60,88 120,105 190,65 C260,25 310,40 410,10 V110 H-10 Z" fill="url(#modernGradient)" class="transition-opacity duration-700"></path>
+
+        <!-- Main Curve -->
+        <path d="M-10,90 C60,88 120,105 190,65 C260,25 310,40 410,10" fill="none" stroke="#E3A501" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke" class="drop-shadow-sm filter"></path>
+
+        <!-- Hover Data Points -->
+        <g class="opacity-0 group-hover:opacity-100 transition-opacity duration-300 delay-75">
+            <!-- Point 1 -->
+            <circle cx="190" cy="65" r="3" fill="white" stroke="#E3A501" stroke-width="2" class="shadow-sm"></circle>
+            
+            <!-- Point 2 (Active) -->
+            <g class="animate-pulse">
+                 <circle cx="360" cy="18" r="4" fill="#E3A501" stroke="white" stroke-width="2" class="shadow-md"></circle>
+            </g>
+            
+            <!-- Tooltip Tag -->
+            <foreignObject x="320" y="25" width="80" height="30" class="">
+                <div class="flex items-center justify-center">
+                    <div class="bg-[#4C0013] text-white text-[9px] font-bold px-2 py-1 rounded shadow-lg tracking-wide">+24</div>
+                </div>
+            </foreignObject>
+        </g>
+    </svg>

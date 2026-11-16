@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03825",
+  "title": "Automotive Archive Website Template",
+  "summary": "A reusable website template for showcasing automotive heritage, concept vehicles, archival media, and museum-style brand storytelling with immersive visuals.",
+  "tags": [
+    "Technology",
+    "Brand",
+    "Full Website",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Portfolio",
+    "Documentation",
+    "automotive",
+    "archive"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3196,
+      "sha256": "7de574e7658a5b47c76f7d1c3c649f9c0b30a22b62ede77c8cd7308006a2f6ec"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16184,
+      "sha256": "7aed4cef5e798f0cc6cfdf6b39745b9773eb2ddb35bf01b328b821e3bdd9100d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 813,
+      "sha256": "3e8200eaf74a2970d3fdab22b51af7ac8a45b6c48389c1debbc9a2720f04df47"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23762,
+      "sha256": "906643c01c28e5595d343dd26b1a7a0a50971b7c2bd50c999e3e6ec6b1f78613"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

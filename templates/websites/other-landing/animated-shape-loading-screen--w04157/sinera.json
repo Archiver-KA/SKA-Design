@@ -1,0 +1,58 @@
+{
+  "id": "SN-W04157",
+  "title": "Animated Shape Loading Screen",
+  "summary": "Displays an animated loading screen with bouncing, rotating shapes and a progress bar using Tailwind CSS and custom CSS animations.",
+  "tags": [
+    "Loading Screen",
+    "CSS Animations",
+    "Tailwind CSS",
+    "Shapes",
+    "Progress Bar",
+    "Bouncing Text"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2928,
+      "sha256": "b606609d3ad4f583feff3818488881b1b9542773c81c641a5639aeff75521d4f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9030,
+      "sha256": "5146becaf1b911282b4a1b36fecc6008400575c470a82d0f09cb64128586469f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 722,
+      "sha256": "2076790d0eb4fb9d297f1f599b927ecd372c5558daebf93a40df3416757574b8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8840,
+      "sha256": "bfa0f2665721b82c08ee1f71562722780ac71f644d2468a3b76aa12e3c7b0f43"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

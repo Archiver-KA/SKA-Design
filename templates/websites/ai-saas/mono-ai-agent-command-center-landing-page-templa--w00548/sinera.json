@@ -1,0 +1,76 @@
+{
+  "id": "SN-W00548",
+  "title": "Mono AI Agent Command Center Landing Page Template",
+  "summary": "A dark, futuristic landing page template for Mono AI, showcasing an open-source agent command center with hero terminal UI, features, and integration code blocks.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Large Type",
+    "Developer",
+    "AI",
+    "Open Source"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3771,
+      "sha256": "3c400fb3c0cc66c6635913d0e3b4a8661cfb3ad086c1a17b0aedb92f088ed9c7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16050,
+      "sha256": "104a6ebe73249f9cb4f1c3b1eab6bf26285b6cdf6fafe3ef7bfdcdacf344743f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1085,
+      "sha256": "1980feec69f4d2447de86884cbabb6e02dbf0dd9262b78c666de8109548c2c6c"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "222daa236b9fa2fc2c2d7d320c50fd6187ea8f64d829a56747e4c5fb83bf588f"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 966,
+      "sha256": "27be19fccd0b1e19fce5fa535418281c5c51a623a04421d17e0beb6dc0b87c95"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36395,
+      "sha256": "49d83dc13b8e7e66819d8cb7f213b8520dcfe2a864dcf729b5e590b62a1cedee"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "integrations",
+    "logo-cloud",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

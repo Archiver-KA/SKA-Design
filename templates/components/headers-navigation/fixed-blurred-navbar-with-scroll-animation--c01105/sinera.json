@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01105",
+  "title": "Fixed Blurred Navbar with Scroll Animation",
+  "summary": "A fixed, centered-logo navigation bar with left/right link groups using Tailwind CSS. Integrates GSAP ScrollTrigger to animate background blur, opacity, and shadow on scroll. Ideal for polished landing pages or premium brand sites.",
+  "tags": [
+    "menu",
+    "navigation",
+    "tailwind",
+    "animated",
+    "sticky",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2356,
+      "sha256": "3b2bc821e65b0c6f32ce5f07cbffbc9ec8e66e0ba27022d6dd4a2e8184d939a6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3416,
+      "sha256": "45504ab4bce08dfd7abd1f57014ea7084570ef13445bfaae2d55f84356eebdc9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4279,
+      "sha256": "0e9b7a1d20d895251c0b55d047e83fb7c44cf2e9caaa42e0bea02fd73c82c943"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

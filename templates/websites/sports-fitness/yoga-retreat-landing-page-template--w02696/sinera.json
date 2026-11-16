@@ -1,0 +1,74 @@
+{
+  "id": "SN-W02696",
+  "title": "Yoga Retreat Landing Page Template",
+  "summary": "A serene wellness retreat template for promoting yoga, meditation, and healing experiences with immersive storytelling, schedules, benefits, and registration.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Travel",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Elegant",
+    "Wellness",
+    "Yoga Retreat"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3725,
+      "sha256": "5584a3ca7be19980f0726ee41ed18ce92781cbfa0420051f8be6c59377adc9eb"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13784,
+      "sha256": "2bbbd339191fa28bf18e9dfad160ca9e9b14ddcd612db6d4ac418f385a9b7187"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 952,
+      "sha256": "5b997014a4a1332d2a43fdacd3af87096ff75c496292404003e60c1fa4b70f8e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 234,
+      "sha256": "648d891f18163fa456d03836c8a03d7e7aa2534964e387dc89b11d57a7132bf5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32089,
+      "sha256": "f258b502411f8c68f28327ed6d2570aa1b4c0b341f1752dfbfb9bf185af1e1a5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "features",
+    "timeline",
+    "auth-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

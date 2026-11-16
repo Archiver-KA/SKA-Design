@@ -1,0 +1,13 @@
+<svg viewBox="0 0 400 250" class="w-full h-full text-gray-700 fill-current opacity-40" bis_size="{&quot;x&quot;:530,&quot;y&quot;:2065,&quot;w&quot;:584,&quot;h&quot;:300,&quot;abs_x&quot;:530,&quot;abs_y&quot;:2108}">
+                   <!-- Rough abstract representation of a map using circles -->
+                   <defs bis_size="{&quot;x&quot;:0,&quot;y&quot;:689,&quot;w&quot;:0,&quot;h&quot;:0,&quot;abs_x&quot;:0,&quot;abs_y&quot;:732}">
+                       <pattern id="dotPattern" x="0" y="0" width="10" height="10" patternUnits="userSpaceOnUse" bis_size="{&quot;x&quot;:0,&quot;y&quot;:689,&quot;w&quot;:0,&quot;h&quot;:0,&quot;abs_x&quot;:0,&quot;abs_y&quot;:732}">
+                           <circle cx="2" cy="2" r="1.5" fill="currentColor" bis_size="{&quot;x&quot;:0,&quot;y&quot;:689,&quot;w&quot;:0,&quot;h&quot;:0,&quot;abs_x&quot;:0,&quot;abs_y&quot;:732}"></circle>
+                       </pattern>
+                   </defs>
+                   <!-- Outline of generic landmass -->
+                   <path d="M20,50 Q50,20 100,30 T180,60 T250,40 T350,60 L380,150 Q300,200 200,180 T50,150 Z" fill="url(#dotPattern)" bis_size="{&quot;x&quot;:606,&quot;y&quot;:2094,&quot;w&quot;:432,&quot;h&quot;:194,&quot;abs_x&quot;:606,&quot;abs_y&quot;:2137}" class=""></path>
+                   <!-- Highlighted yellow dot -->
+                   <circle cx="280" cy="100" r="4" class="text-brand-yellow fill-current animate-ping" bis_size="{&quot;x&quot;:913,&quot;y&quot;:2180,&quot;w&quot;:9,&quot;h&quot;:9,&quot;abs_x&quot;:913,&quot;abs_y&quot;:2223}"></circle>
+                   <circle cx="280" cy="100" r="4" class="text-brand-yellow fill-current" bis_size="{&quot;x&quot;:913,&quot;y&quot;:2180,&quot;w&quot;:9,&quot;h&quot;:9,&quot;abs_x&quot;:913,&quot;abs_y&quot;:2223}"></circle>
+               </svg>

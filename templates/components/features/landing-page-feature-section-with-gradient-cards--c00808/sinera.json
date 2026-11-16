@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00808",
+  "title": "Landing Page Feature Section with Gradient Cards",
+  "summary": "Responsive Tailwind section showcasing a headline and three feature cards with code snippet, loading blocks, and Chart.js graph. Includes gradient/vignette background, Lucide icons, subtle animations—ideal for SaaS or product landing pages highlighting key capabilities.",
+  "tags": [
+    "feature section",
+    "landing page",
+    "tailwind",
+    "responsive",
+    "chart.js",
+    "lucide",
+    "marketing",
+    "section"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26776,
+      "sha256": "3ea5c611fb4e3b14073b32c025281984eafeefc482a88303945ed2d242211219"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12648,
+      "sha256": "ec4c1c940d93a325b4a00b6360e77b5179d02aebafccaced146e297b5488d973"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13517,
+      "sha256": "458e4b5c19873ed3e544a45f5fbf8d21a8f1ad191174d01eb3a334e4b1e5c747"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

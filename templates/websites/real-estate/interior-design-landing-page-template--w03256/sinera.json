@@ -1,0 +1,74 @@
+{
+  "id": "SN-W03256",
+  "title": "Interior Design Landing Page Template",
+  "summary": "A reusable landing page template for premium interior and exterior design brands to showcase products, build trust, and drive project inquiries.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Interior Design",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Large Type",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3516,
+      "sha256": "6fffe51d6658abb200e062a1a25d9bb59de5b892336bf1780ecc937fe8bea4eb"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 38123,
+      "sha256": "d6f42c7f8a47fa28a553d0655a9b1c2d5ac5e2128c54c3010d58c69bfd381120"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 868,
+      "sha256": "4a36a9ccf8bce8aa5c9ea2eacef8fa88c5ebc1e51fdfc9d3bb99bd5b974cc30b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "8fdd104ac7843269a0c4bb41aacf62efd383fb500afc71598cfc07a668449fab"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30621,
+      "sha256": "e357fa77f4330b7cb6646c481aa3e0bca3371ebb76760d5ab178a2f6c52dcddd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "product-grid",
+    "features",
+    "marquee",
+    "cta",
+    "testimonials",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

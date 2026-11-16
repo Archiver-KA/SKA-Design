@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00024",
+  "title": "Portfolio About Section with Stats & CTA",
+  "summary": "Responsive about/portfolio block featuring giant heading, intro copy, image, animated metrics and a call-to-action button. Uses Tailwind CSS grid and fade/scale animations—ideal for personal sites, resumes or agency landers.",
+  "tags": [
+    "section",
+    "about",
+    "portfolio",
+    "stats",
+    "cta",
+    "tailwind",
+    "responsive",
+    "animated"
+  ],
+  "kind": "components",
+  "category": "about",
+  "categoryLabel": "About & team",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 36878,
+      "sha256": "25d07f0d8229f2613fc7dd7a3af77107a99b1bca76537cedb4433c2db782dd1e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4111,
+      "sha256": "68712ccb7778aa89bfdc60a749430a4aa393f7c0935c0c9f9d4e497313a50f1a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4976,
+      "sha256": "23305b655a76ba7547348549968f330ffd54ae0c1f71b3c7901fea1f8694ef6f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

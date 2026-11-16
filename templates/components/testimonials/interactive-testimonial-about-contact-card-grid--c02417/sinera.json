@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02417",
+  "title": "Interactive Testimonial, About & Contact Card Grid",
+  "summary": "Responsive Tailwind grid of three animated cards: a testimonial with metrics, an about-us blurb, and a contact card with links. Features glassmorphism blur, hover color shifts, SVG icons, and delayed entrance animation—ideal for modern landing or agency pages.",
+  "tags": [
+    "testimonial",
+    "contact",
+    "about",
+    "grid",
+    "tailwind",
+    "responsive",
+    "animated",
+    "blur",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 40898,
+      "sha256": "c5e8f12f9aaea7f292dea10014f9f72be93255cd16e17080bf9c8d7dc59df8c1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10232,
+      "sha256": "c60c501a76bff06a6bd19a0795b734952a7293029779fdb13194e87ad810057a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11237,
+      "sha256": "10f6e4701009c2f145adc44e98469d301c7869f51ab7df6f905925955b9337a2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

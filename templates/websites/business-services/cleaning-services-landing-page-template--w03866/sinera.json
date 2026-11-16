@@ -1,0 +1,65 @@
+{
+  "id": "SN-W03866",
+  "title": "Cleaning Services Landing Page Template",
+  "summary": "A modern Pristine-themed cleaning services landing page template for residential and commercial cleaners to showcase services and drive online bookings.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Technology",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3649,
+      "sha256": "3b1e05c59f8727647c751eb267935a977b35d834f972b035102f273c0fe85747"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15216,
+      "sha256": "fc95cc8fad4088b545f32eb34eeba500fa27f17e04cb435c938e8167253f4379"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "69da1756a25ce2bbf26b3b68366435293d881b56d27a590c2f9a36e3769c9ce3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21882,
+      "sha256": "845013ea62c2fc22a4f983ef741198b97d9987641c3e485d064cdbd7c583aaa4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

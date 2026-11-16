@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01995",
+  "title": "Water Ring 3D Background Embed",
+  "summary": "Absolute-positioned container that fills the viewport and embeds an interactive Spline 3D scene via iframe, ideal for animated backgrounds on hero sections or landing pages.",
+  "tags": [
+    "background",
+    "spline",
+    "3d",
+    "iframe",
+    "animation",
+    "full-screen",
+    "css"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10066,
+      "sha256": "ac5fcb7aff332a7bffb52f9262cf67d6909005724f0bc1374e26dd0448624c4a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 225,
+      "sha256": "a829e1db80fe6da2497b5fb87f4de3b6101aceeef52d26c11aa6b3119dc6306b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1076,
+      "sha256": "ffdc1f0854bf940e14a1e2c058d4f9e0e7c2db266d06e8bcb602168929979437"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

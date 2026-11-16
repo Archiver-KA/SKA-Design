@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02181",
+  "title": "Product Image Card with Overlay",
+  "summary": "An enhanced image card with hover effect and status overlay. Perfect for showcasing sold items, featured products, or portfolio pieces with visual indicators.",
+  "tags": [
+    "card",
+    "image",
+    "product",
+    "hover",
+    "overlay",
+    "ecommerce"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14664,
+      "sha256": "c20d59b7e8225051b1e4eda3bf124e1fdd8ec9dd47216f972e9a80bb17813a60"
+    },
+    {
+      "path": "component.html",
+      "bytes": 624,
+      "sha256": "2542ef4c8b7bf53cb24adb065c4b337351b4ddcf6a356976bca14ab0801e9222"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1476,
+      "sha256": "a7d98550f2dab288c326e3d05938a7e33f6bef2708da7944d96919b0beafd044"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "SN-W00359",
+  "title": "Encase SaaS Landing Page Template",
+  "summary": "A high-converting SaaS landing page template for Encase-style developer tools, showcasing product benefits, pricing, and interactive demo for faster launches.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Futuristic",
+    "SaaS",
+    "Developer Tools"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3906,
+      "sha256": "191ad25acc0649a5a629e1a5d4a2515643c20ab1230e15e42817892f133ce542"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17766,
+      "sha256": "3762c53481784fda7fb547dc04da714ab48db6f6eeb2ec8fd98fee94d4a68823"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1124,
+      "sha256": "4e2148d706137089a5b6627a56318eb89ed0886fc3241c0f45b00f6b22ff01b6"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "910c900a7a4784bba3a545f45cd25f1d36f95d97c692018fa09cb6a465e3f9ea"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 248,
+      "sha256": "6fa432b0a1a23f5ae0861fcac1825c53b06347803ef133b9582a8897324650d2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 54391,
+      "sha256": "9c4074542818c7ac1952bfd8ff8612318f3eafb09b3e334a9c3238413b0a7285"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "product-grid",
+    "features",
+    "video-media",
+    "testimonials",
+    "pricing",
+    "faq",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

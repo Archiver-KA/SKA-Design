@@ -1,0 +1,60 @@
+{
+  "id": "SN-W01997",
+  "title": "Dossier Resume & CV Portfolio Template",
+  "summary": "A clean, minimalist personal resume template designed for educators and administrators to showcase credentials and professional experience.",
+  "tags": [
+    "Portfolio",
+    "Resume",
+    "Minimal",
+    "Clean",
+    "Services",
+    "Education"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3168,
+      "sha256": "9a9e976ba38678ac0634122aa863d4104d2f56269afd2b88f15206af0492e73e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18220,
+      "sha256": "d93daebb036782b394711fb74f2db88423e2e5a0c62ef23e4943e84fc88664b1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "9675d21d010d97b30d26ccfd4d2a4c2e7d4158c4dc7c71efeb45c0b8cc56eef0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18551,
+      "sha256": "52ad4ef55add14a941d9d5a47370d1bdc82cedd3379cd5eae81ec04c1ec14e17"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "services",
+    "team",
+    "comparison"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

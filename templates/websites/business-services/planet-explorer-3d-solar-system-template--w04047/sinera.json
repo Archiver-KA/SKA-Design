@@ -1,0 +1,67 @@
+{
+  "id": "SN-W04047",
+  "title": "Planet Explorer 3D Solar System Template",
+  "summary": "A reusable interactive 3D solar system template for educational and exploration purposes, featuring planet details, animations, and gamified UI elements.",
+  "tags": [
+    "Landing Page",
+    "3D Visualization",
+    "Solar System",
+    "Interactive",
+    "Education",
+    "Gamification",
+    "Planet Details",
+    "Animation",
+    "AR Mode",
+    "Quiz"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3215,
+      "sha256": "e890be0edaae9fb332d90990b29f04d2735d54426a17ca612055310efa30627c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1704,
+      "sha256": "a1c391971d45ca54657db9cad8bb4cb72dfa3971f8e3679b5f61800bacfeba71"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 818,
+      "sha256": "fd8f8cba8e93352deaba2515b9edc8a614be887392c785f1c37dccf0f758de5e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20742,
+      "sha256": "75532ed48e387816561c314a67b2bd641e35350a0e0b85e0e00a0f92e373b535"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "snippet",
+  "components": [
+    "3d-canvas",
+    "hero",
+    "sidebar"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

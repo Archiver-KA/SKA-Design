@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01090",
+  "title": "Animated Sidebar Navigation",
+  "summary": "A responsive sidebar navigation component with smooth animations, mobile overlay, and collapsible desktop view. Features hover interactions and dark mode support.",
+  "tags": [
+    "sidebar",
+    "navigation",
+    "responsive",
+    "animated",
+    "dark",
+    "mobile",
+    "collapsible"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2568,
+      "sha256": "6d9cb9372a1d999718fd4b46b0936c03ccd156a8b769b973ca0c6ba0c826afc2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7938,
+      "sha256": "b98d23a4804e378b182ae325f322fdc79de55021759c5faed8ff31723f162dd9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8786,
+      "sha256": "31100a6f6a4891fe974ab61aec365f3da866e3609fbe409cf7c1ac77d3e713e0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

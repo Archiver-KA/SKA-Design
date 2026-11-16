@@ -1,0 +1,93 @@
+{
+  "id": "SN-W03188",
+  "title": "Architecture and Real Estate Template",
+  "summary": "A sophisticated architectural project showcase template designed for developers and real estate firms to present their end-to-end building process.",
+  "tags": [
+    "Real Estate",
+    "Architecture",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3429,
+      "sha256": "eb31c6a379e2de111277d1e184bca07f958161fc843eeb94e25cc23f247228ed"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 36956,
+      "sha256": "6b41327f167a1a903874cda6e5dae67022a658fadc7c8b121a480755f1e29c79"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1739,
+      "sha256": "70f92e0bcedde8ab895b003dc3d174bcdbfa9a620a754a488cc1d65c4e2ba865"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 545,
+      "sha256": "592d679678ef133002691a3e7143c48da47ae349144a4228043acf8372ce8e72"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 525,
+      "sha256": "999379ac37b533a398bb1fb53874f78871280e42ac6859f270e6e5481c6cfc6a"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 488,
+      "sha256": "30136b5fd46522663800d168b889699e6fdaf0f0179134b3aebc818046a5e441"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 537,
+      "sha256": "cea216fa1bf9c9e1ba91d888f95e66988d58b2a007e75f6c7df0163edb28fcae"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 432,
+      "sha256": "f8140eb65113b5415d314d77dca73d2a4be5ae323df0b5bde3537161676ebba1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 60213,
+      "sha256": "6dfb62fd6216bbc7dad6cb167321bc6eda79d9b8ba43d35162a717c8df904945"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "cta",
+    "features",
+    "marquee",
+    "contact-form",
+    "footer",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

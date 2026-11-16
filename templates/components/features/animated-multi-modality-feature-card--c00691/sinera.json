@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00691",
+  "title": "Animated Multi-Modality Feature Card",
+  "summary": "Interactive feature card with animated orbiting icons visualizing multimodal data (resumes, audio, chat). Uses Tailwind-style utility classes, hover gradients, and dashed circular connectors. Ideal for AI, analytics, or product capability highlight grids.",
+  "tags": [
+    "card",
+    "animated",
+    "interactive",
+    "tailwind",
+    "feature",
+    "ui",
+    "hover",
+    "visual"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7188,
+      "sha256": "fff492bbb51dea9a7e33bdcb7082a349c2706cc9adec3221d4f67e5ee6faac6d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4636,
+      "sha256": "50aed74ce1ae9ccaa4a23a0c53376d71825606bf3c2b4bc3482bb194826c796a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5493,
+      "sha256": "b90b845a7021d22aad5c3cc2e149be2094eb1a4a56dda6bca67b9bcd4ea6ff58"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

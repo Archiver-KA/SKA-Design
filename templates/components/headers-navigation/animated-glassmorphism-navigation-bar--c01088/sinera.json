@@ -1,0 +1,37 @@
+{
+  "id": "SN-C01088",
+  "title": "Animated Glassmorphism Navigation Bar",
+  "summary": "A fixed top navigation bar with brand identity, centered desktop links, sign-in and CTA actions, styled with Tailwind CSS. Features glassmorphism effects, responsive behavior, and GSAP entrance animations for modern landing pages or SaaS sites.",
+  "tags": [
+    "menu",
+    "tailwind",
+    "gsap",
+    "animated",
+    "responsive",
+    "glassmorphism",
+    "navbar"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4148,
+      "sha256": "3a6c22ad3431dee291e0956f402394369940638434a59984dfd4634b78182999"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5054,
+      "sha256": "24fbd75d07e3dc135b5b33d54d50a9f17fd0f3a54130c8a8f4bb96eff4ef5eeb"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

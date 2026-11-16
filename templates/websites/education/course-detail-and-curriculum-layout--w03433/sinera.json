@@ -1,0 +1,110 @@
+{
+  "id": "SN-W03433",
+  "title": "Course Detail and Curriculum Layout",
+  "summary": "Displays a course detail page with header, curriculum overview, instructor info, and progress using Tailwind CSS.",
+  "tags": [
+    "Course Detail",
+    "Curriculum",
+    "Tailwind CSS",
+    "Responsive Layout",
+    "UI Design",
+    "Progress Bar"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3320,
+      "sha256": "e40c3852580e32e77e250507e8fc4a42e2172f558581efe81bc84f18c3b7fd1e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20024,
+      "sha256": "ceb810f4296ac709a04dc9ac93a244d30a0127f5cb9f42465da6ef59f405f636"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2697,
+      "sha256": "c3d09ac2599de27ed625164bf9fa2532d0c56045b25589dc761f751877abf3ba"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 141,
+      "sha256": "c13f9fadde340e82962d6128d4c70040f54f06a7a718e3feee353b5fee39b957"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 226,
+      "sha256": "3f38c1a885b1bb3f173c7ec06972fe080234a29b39d33998dc0fdcb424ec03b0"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 169,
+      "sha256": "78850d335ee5ba9143bb72c8d5eb755c1a435acfb6138971e401e95b84bee5ca"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 163,
+      "sha256": "4e10822b69fcb93cc6630d2aeffcd85c99316ea1dba098d89d0aa8ca14bfa2b8"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 147,
+      "sha256": "82556c6fbcd3749aa7d717ab1981ceb81f6a76b69477af64ca076128787ef019"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 223,
+      "sha256": "2f58c448dff5271336b2e5c8841edd3e4994a3d94e1ca5a9454da4a4f46c18df"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 194,
+      "sha256": "34f4acdb114e6de99a88cc2e96ddccdc715372565af9d5bf179b2f208a3113b5"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 179,
+      "sha256": "d19fedd13c5ac46975f6569c16cfd2e3ebf905490fe250b081aecadfdf30ad5a"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 194,
+      "sha256": "f2c90e1d18345c5f1819281af2cc37d2e9e340442476252e8c44e6be473f4283"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 177,
+      "sha256": "6aea3fc5286a420826b266d09a6a3c43d16c0fd8e4fe5f7c950bffc911195de4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11178,
+      "sha256": "844e5e8b041a8e6314b6e7c7925c974b93ea846156ba20117dc4c5c33a03bee0"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

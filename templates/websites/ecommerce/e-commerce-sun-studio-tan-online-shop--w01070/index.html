@@ -1,0 +1,233 @@
+<!doctype html>
+<html lang="en" data-theme="market">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sun Studio Tan | Golden Skin Essentials</title>
+<meta name="description" content="Sun Studio Tan: golden skin essentials online. Self-tan products with a shade finder for every skin tone, plus professional spray tans in the studio.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config = { theme: { extend: {
+  colors: { ground: "#FFFFFF", surface: "#F5F5F2", ink: "#16161A", muted: "#5B5B66", line: "#DCDCD6", accent: "#C8411B", accent2: "#1B3A8A" },
+  fontFamily: { display: ["Manrope", "system-ui", "sans-serif"], body: ["Manrope", "system-ui", "sans-serif"] }
+}}};
+</script>
+<style>
+[data-theme="market"] {
+  --sa-ground: #FFFFFF; --sa-surface: #F5F5F2; --sa-ink: #16161A; --sa-muted: #5B5B66; --sa-line: #DCDCD6;
+  --sa-accent: #C8411B; --sa-on-accent: #FFFFFF; --sa-accent-2: #1B3A8A; --sa-on-accent-2: #FFFFFF;
+  --sa-font-display: "Manrope", system-ui, sans-serif; --sa-font-body: "Manrope", system-ui, sans-serif;
+  --sa-radius-control: 8px; --sa-radius-card: 10px; --sa-display-case: none;
+  color-scheme: light; background: var(--sa-ground); color: var(--sa-ink); font-family: var(--sa-font-body);
+}
+[data-theme] :is(h1,h2,h3){font-family:var(--sa-font-display);text-wrap:balance}
+body{font-size:16px;line-height:1.65;overflow-x:hidden}
+.wrap{max-width:1240px;margin-inline:auto;padding-inline:20px}
+@media(min-width:768px){.wrap{padding-inline:32px}}
+.sec{padding-block:56px}@media(min-width:768px){.sec{padding-block:96px}}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;padding:0 22px;border-radius:8px;background:var(--sa-accent);color:#fff;font-weight:700;font-size:15px;text-decoration:none;border:0;cursor:pointer}
+.btn:hover{background:#a93515}
+.btn-ghost{background:transparent;color:var(--sa-ink);box-shadow:inset 0 0 0 1.5px var(--sa-ink)}
+.btn-ghost:hover{background:var(--sa-ink);color:#fff}
+:focus-visible{outline:3px solid var(--sa-accent2);outline-offset:3px;border-radius:4px}
+.on-ink :focus-visible{outline-color:#fff}
+.tag{display:inline-block;font-size:13px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--sa-muted)}
+details>summary{list-style:none;cursor:pointer;min-height:56px;display:flex;align-items:center;justify-content:space-between;gap:16px;padding-block:12px;font-weight:700}
+details>summary::-webkit-details-marker{display:none}
+details[open] .plus{transform:rotate(45deg)}.plus{transition:transform .2s}
+.ph{display:flex;align-items:center;justify-content:center;text-align:center;border:1px dashed #85857D;color:var(--sa-muted);font-size:13px;background:repeating-linear-gradient(45deg,transparent 0 10px,rgba(22,22,26,.035) 10px 20px)}
+/* tan ladder: the signature idea */
+.shade{display:flex;flex-direction:column;justify-content:flex-end;min-height:132px;padding:14px;font-weight:700;font-size:14px}
+.pcard{display:flex;flex-direction:column;background:var(--sa-surface);border-radius:10px;overflow:hidden}
+.pcard:hover .pname{text-decoration:underline}
+</style>
+</head>
+<body class="bg-ground text-ink font-body antialiased">
+<a href="#main" class="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:bg-white focus:p-3">Skip to content</a>
+
+<div class="bg-ink text-white text-center text-sm py-2 px-4 on-ink">Free shipping on orders over [FREE SHIPPING THRESHOLD] &middot; Patch-test first, kind to your skin</div>
+
+<header class="sticky top-0 z-40 bg-white border-b border-line">
+  <div class="wrap flex items-center justify-between h-16">
+    <a href="#" class="font-extrabold text-xl tracking-tight flex items-center gap-2" aria-label="Sun Studio Tan - home">
+      <svg width="28" height="28" viewBox="0 0 28 28" fill="none" aria-hidden="true"><circle cx="14" cy="14" r="6" fill="#C8411B"/><g stroke="#16161A" stroke-width="2" stroke-linecap="round"><path d="M14 2v3M14 23v3M2 14h3M23 14h3M5.5 5.5l2 2M20.5 20.5l2 2M5.5 22.5l2-2M20.5 7.5l2-2"/></g></svg>
+      Sun Studio Tan
+    </a>
+    <nav class="hidden md:flex items-center gap-7 text-[15px] font-bold" aria-label="Main">
+      <a href="#chon-tong" class="py-3 hover:text-accent">Find your shade</a>
+      <a href="#san-pham" class="py-3 hover:text-accent">Shop</a>
+      <a href="#studio" class="py-3 hover:text-accent">Studio tans</a>
+      <a href="#hoi-dap" class="py-3 hover:text-accent">FAQ</a>
+      <a href="#gio-hang" class="btn" aria-label="Cart">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M5 8h14l-1.2 11H6.2L5 8Z"/><path d="M9 8V6a3 3 0 0 1 6 0v2"/></svg>
+        Cart (0)
+      </a>
+    </nav>
+    <button id="menuBtn" class="md:hidden w-11 h-11 inline-flex items-center justify-center border border-line rounded-lg" aria-label="Open menu" aria-expanded="false" aria-controls="mobileNav">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+  </div>
+  <nav id="mobileNav" class="hidden md:hidden border-t border-line bg-white" aria-label="Mobile menu">
+    <div class="wrap flex flex-col py-2">
+      <a href="#chon-tong" class="py-3 min-h-[44px] font-bold">Find your shade</a>
+      <a href="#san-pham" class="py-3 min-h-[44px] font-bold">Shop</a>
+      <a href="#studio" class="py-3 min-h-[44px] font-bold">Studio tans</a>
+      <a href="#hoi-dap" class="py-3 min-h-[44px] font-bold">FAQ</a>
+      <a href="#gio-hang" class="btn my-3">Cart (0)</a>
+    </div>
+  </nav>
+</header>
+
+<main id="main">
+
+<!-- HERO: shade ladder as the visual -->
+<section class="border-b border-line">
+  <div class="grid md:grid-cols-12">
+    <div class="md:col-span-6 wrap md:max-w-none md:pl-[max(32px,calc((100vw-1240px)/2+32px))] md:pr-12 py-12 md:py-24 flex flex-col justify-center">
+      <p class="tag mb-4">Online shop &middot; golden skin without the sun</p>
+      <h1 class="font-extrabold text-[40px] leading-[1.04] sm:text-6xl lg:text-7xl tracking-tight">A golden glow, without a single hour in the sun.</h1>
+      <p class="mt-6 text-lg text-muted max-w-lg">Mousse, serum and mist in a shade for every skin tone. Find yours in two minutes with the guide below, and every order arrives with step-by-step instructions.</p>
+      <div class="mt-8 flex flex-col sm:flex-row gap-3">
+        <a href="#san-pham" class="btn">Shop the range</a>
+        <a href="#chon-tong" class="btn btn-ghost">Find my shade</a>
+      </div>
+      <p class="mt-4 text-sm text-muted">Nationwide delivery in [DELIVERY TIME]. Returns under our [RETURN POLICY].</p>
+    </div>
+    <div class="md:col-span-6 grid grid-cols-5 min-h-[260px] md:min-h-[560px]" role="img" aria-label="Five shades from light to deep">
+      <div style="background:#F1D7BE" class="flex items-end p-3 text-xs font-bold">01</div>
+      <div style="background:#E2B58A" class="flex items-end p-3 text-xs font-bold">02</div>
+      <div style="background:#C98E5E" class="flex items-end p-3 text-xs font-bold">03</div>
+      <div style="background:#9F6A3F;color:#fff" class="flex items-end p-3 text-xs font-bold">04</div>
+      <div style="background:#6E4527;color:#fff" class="flex items-end p-3 text-xs font-bold">05</div>
+    </div>
+  </div>
+</section>
+
+<!-- PROOF / HOW IT WORKS -->
+<section class="sec bg-white" aria-labelledby="how-h">
+  <div class="wrap">
+    <h2 id="how-h" class="font-extrabold text-3xl md:text-5xl tracking-tight max-w-3xl">Three steps, no experience needed.</h2>
+    <ol class="mt-10 grid md:grid-cols-3 gap-6">
+      <li class="border-t-2 border-ink pt-4"><p class="font-extrabold text-accent text-lg">Step 1</p><h3 class="font-bold text-xl mt-1">Exfoliate and cleanse</h3><p class="mt-2 text-muted">Exfoliate the day before or just before applying, so colour goes on evenly and does not pool on elbows and knees.</p></li>
+      <li class="border-t-2 border-ink pt-4"><p class="font-extrabold text-accent text-lg">Step 2</p><h3 class="font-bold text-xl mt-1">Apply evenly with the mitt</h3><p class="mt-2 text-muted">Use the included mitt and work from top to bottom in small circles. Dry to the touch in [DRYING TIME] minutes.</p></li>
+      <li class="border-t-2 border-ink pt-4"><p class="font-extrabold text-accent text-lg">Step 3</p><h3 class="font-bold text-xl mt-1">Let it develop and moisturise</h3><p class="mt-2 text-muted">Colour shows fully after [NUMBER] hours. Moisturise daily so it fades evenly and lasts around [NUMBER] days.</p></li>
+    </ol>
+  </div>
+</section>
+
+<!-- SHADE FINDER -->
+<section id="chon-tong" class="sec bg-surface border-y border-line" aria-labelledby="shade-h">
+  <div class="wrap">
+    <p class="tag mb-3">Shade guide</p>
+    <h2 id="shade-h" class="font-extrabold text-3xl md:text-5xl tracking-tight max-w-3xl">Choose by the skin you have today, not the tan you want.</h2>
+    <p class="mt-4 text-muted max-w-2xl">Tip: pick one shade deeper than your natural skin for a natural result. Colours on screen are only a guide.</p>
+    <div class="mt-10 grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-3">
+      <div class="shade rounded-[10px]" style="background:#F1D7BE"><span>Shade 01 Light</span><span class="font-medium text-[13px]">Very fair, burns easily</span></div>
+      <div class="shade rounded-[10px]" style="background:#E2B58A"><span>Shade 02 Warm</span><span class="font-medium text-[13px]">Fair to medium</span></div>
+      <div class="shade rounded-[10px]" style="background:#C98E5E"><span>Shade 03 Honey</span><span class="font-medium text-[13px]">Medium with golden undertones</span></div>
+      <div class="shade rounded-[10px]" style="background:#9F6A3F;color:#fff"><span>Shade 04 Bronze</span><span class="font-medium text-[13px]">Lightly tanned</span></div>
+      <div class="shade rounded-[10px]" style="background:#6E4527;color:#fff"><span>Shade 05 Cacao</span><span class="font-medium text-[13px]">Deep skin, want it richer</span></div>
+    </div>
+    <p class="mt-6 text-sm text-muted">Still unsure? Message us on [CONTACT CHANNEL] with a photo of your wrist in daylight and we will suggest a shade.</p>
+  </div>
+</section>
+
+<!-- PRODUCTS -->
+<section id="san-pham" class="sec bg-white" aria-labelledby="prod-h">
+  <div class="wrap">
+    <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-3">
+      <h2 id="prod-h" class="font-extrabold text-3xl md:text-5xl tracking-tight">Shop</h2>
+      <p class="text-muted">Sample list: replace with your real products.</p>
+    </div>
+    <div class="mt-10 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      <a href="#gio-hang" class="pcard"><div class="ph aspect-square !border-0 !bg-[#EAEAE4]">Product photo 1:1</div><div class="p-5"><h3 class="pname font-bold text-lg">[PRODUCT NAME 1] - self-tan mousse</h3><p class="text-muted text-sm mt-1">Develops fast, ideal for beginners</p><p class="font-extrabold text-xl mt-3">[YOUR PRICE]</p></div></a>
+      <a href="#gio-hang" class="pcard"><div class="ph aspect-square !border-0 !bg-[#EAEAE4]">Product photo 1:1</div><div class="p-5"><h3 class="pname font-bold text-lg">[PRODUCT NAME 2] - body mist</h3><p class="text-muted text-sm mt-1">Even coverage over large areas, dries quickly</p><p class="font-extrabold text-xl mt-3">[YOUR PRICE]</p></div></a>
+      <a href="#gio-hang" class="pcard"><div class="ph aspect-square !border-0 !bg-[#EAEAE4]">Product photo 1:1</div><div class="p-5"><h3 class="pname font-bold text-lg">[PRODUCT NAME 3] - face serum</h3><p class="text-muted text-sm mt-1">A lighter shade made for the face</p><p class="font-extrabold text-xl mt-3">[YOUR PRICE]</p></div></a>
+      <a href="#gio-hang" class="pcard"><div class="ph aspect-square !border-0 !bg-[#EAEAE4]">Product photo 1:1</div><div class="p-5"><h3 class="pname font-bold text-lg">[PRODUCT NAME 4] - application mitt</h3><p class="text-muted text-sm mt-1">Streak-free, keeps palms clean</p><p class="font-extrabold text-xl mt-3">[YOUR PRICE]</p></div></a>
+      <a href="#gio-hang" class="pcard"><div class="ph aspect-square !border-0 !bg-[#EAEAE4]">Product photo 1:1</div><div class="p-5"><h3 class="pname font-bold text-lg">[PRODUCT NAME 5] - body scrub</h3><p class="text-muted text-sm mt-1">Preps skin before you tan</p><p class="font-extrabold text-xl mt-3">[YOUR PRICE]</p></div></a>
+      <a href="#gio-hang" class="pcard"><div class="ph aspect-square !border-0 !bg-[#EAEAE4]">Product photo 1:1</div><div class="p-5"><h3 class="pname font-bold text-lg">[PRODUCT NAME 6] - starter kit</h3><p class="text-muted text-sm mt-1">Mousse, mitt and guide</p><p class="font-extrabold text-xl mt-3">[YOUR PRICE]</p></div></a>
+    </div>
+  </div>
+</section>
+
+<!-- STUDIO -->
+<section id="studio" class="sec bg-ink text-white on-ink" aria-labelledby="st-h">
+  <div class="wrap grid md:grid-cols-12 gap-10 items-center">
+    <div class="md:col-span-5"><div class="ph aspect-[4/5]" style="border-color:#8A8A94;color:#C9C9D2;background:repeating-linear-gradient(45deg,transparent 0 10px,rgba(255,255,255,.04) 10px 20px)">Studio spray room photo 4:5</div></div>
+    <div class="md:col-span-7">
+      <p class="tag mb-3" style="color:#C9C9D2">Studio tans</p>
+      <h2 id="st-h" class="font-extrabold text-3xl md:text-5xl tracking-tight">Prefer not to do it yourself? Leave it to our technicians.</h2>
+      <ul class="mt-8 grid gap-0 border-t border-[#3A3A44]">
+        <li class="py-4 border-b border-[#3A3A44] flex justify-between gap-4"><span><span class="font-bold block">Full-body spray tan</span><span class="text-[#C9C9D2] text-sm">Shade consultation, spray and aftercare advice</span></span><span class="font-extrabold whitespace-nowrap">[YOUR PRICE]</span></li>
+        <li class="py-4 border-b border-[#3A3A44] flex justify-between gap-4"><span><span class="font-bold block">Partial spray tan</span><span class="text-[#C9C9D2] text-sm">Face, legs or arms</span></span><span class="font-extrabold whitespace-nowrap">[YOUR PRICE]</span></li>
+        <li class="py-4 border-b border-[#3A3A44] flex justify-between gap-4"><span><span class="font-bold block">Pre-event package</span><span class="text-[#C9C9D2] text-sm">Book [NUMBER] days ahead for the best colour</span></span><span class="font-extrabold whitespace-nowrap">[YOUR PRICE]</span></li>
+      </ul>
+      <p class="mt-4 text-sm text-[#C9C9D2]">Studio address: [ADDRESS]. Opening hours: [OPENING HOURS].</p>
+      <a href="#dat-lich" class="btn mt-6">Book a spray tan</a>
+    </div>
+  </div>
+</section>
+
+<!-- REVIEWS -->
+<section class="sec bg-white" aria-labelledby="rev-h">
+  <div class="wrap">
+    <h2 id="rev-h" class="font-extrabold text-3xl md:text-4xl tracking-tight">What customers say</h2>
+    <div class="mt-10 grid md:grid-cols-3 gap-6">
+      <figure class="bg-surface rounded-[10px] p-6"><blockquote>"[CUSTOMER QUOTE: about how natural the colour looks and how even it was after the first application]"</blockquote><figcaption class="mt-4 text-sm text-muted">[NAME, SHADE USED]</figcaption></figure>
+      <figure class="bg-surface rounded-[10px] p-6"><blockquote>"[CUSTOMER QUOTE: about the studio experience]"</blockquote><figcaption class="mt-4 text-sm text-muted">[NAME, SHADE USED]</figcaption></figure>
+      <figure class="bg-surface rounded-[10px] p-6"><blockquote>"[CUSTOMER QUOTE: about delivery and instructions]"</blockquote><figcaption class="mt-4 text-sm text-muted">[NAME, SHADE USED]</figcaption></figure>
+    </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section id="hoi-dap" class="sec bg-surface border-t border-line" aria-labelledby="faq-h">
+  <div class="wrap grid md:grid-cols-12 gap-10">
+    <h2 id="faq-h" class="md:col-span-4 font-extrabold text-3xl md:text-4xl tracking-tight">Ask before you buy</h2>
+    <div class="md:col-span-8 border-t-2 border-ink">
+      <details class="border-b border-line"><summary>Can I use it on sensitive skin?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">Patch-test on a small area (inner wrist) and wait [NUMBER] hours. If you notice itching, redness or stinging, stop using it and ask a dermatologist. See the ingredients: [INGREDIENT LIST].</p></details>
+      <details class="border-b border-line"><summary>Will it streak or turn orange?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">Streaks usually come from skin that was not exfoliated or from uneven application. Following the three steps above and using the included mitt greatly reduces the risk.</p></details>
+      <details class="border-b border-line"><summary>Does it replace sunscreen?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">No. The colour gives no sun protection, so you still need sunscreen when you go outside.</p></details>
+      <details class="border-b border-line"><summary>How long does the colour last?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">[HOW LONG THE COLOUR LASTS]. It fades gradually as skin renews itself; daily moisturising helps it fade evenly.</p></details>
+      <details class="border-b border-line"><summary>What if I pick the wrong shade?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">[YOUR SHADE EXCHANGE POLICY].</p></details>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section id="dat-lich" class="sec bg-white" aria-labelledby="cta-h">
+  <div class="wrap">
+    <div class="bg-accent2 text-white rounded-[10px] p-8 md:p-14 grid md:grid-cols-2 gap-8 items-center on-ink">
+      <div>
+        <h2 id="cta-h" class="font-extrabold text-3xl md:text-5xl tracking-tight">Get shade tips and a first-order offer.</h2>
+        <p class="mt-4 text-[#E3E8F6]">Leave your email and we will send the full shade guide and the code [YOUR OFFER] for your first order.</p>
+      </div>
+      <form class="grid gap-3" onsubmit="event.preventDefault();this.querySelector('output').textContent='Thanks. This is a demo form.'">
+        <label for="mail" class="text-sm font-bold">Your email</label>
+        <input id="mail" type="email" autocomplete="email" required placeholder="you@email.com" class="h-12 px-4 rounded-lg text-ink bg-white">
+        <button class="btn" type="submit">Send me the shade guide</button>
+        <output class="text-sm" aria-live="polite"></output>
+      </form>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer id="gio-hang" class="bg-surface border-t border-line">
+  <div class="wrap py-12 grid md:grid-cols-4 gap-8 text-sm text-muted">
+    <div class="md:col-span-2"><p class="font-extrabold text-ink text-xl">Sun Studio Tan</p><p class="mt-2 max-w-xs">Golden skin essentials and studio spray tans. For external use only.</p></div>
+    <div><p class="font-bold text-ink mb-2">Contact</p><p>[PHONE NUMBER]</p><p>[EMAIL]</p><p>[ADDRESS]</p></div>
+    <div><p class="font-bold text-ink mb-2">Support</p><a href="#" class="underline inline-block py-2">Shipping and returns</a><br><a href="#" class="underline inline-block py-2">Privacy policy</a></div>
+  </div>
+</footer>
+
+<script>
+(function(){var b=document.getElementById('menuBtn'),m=document.getElementById('mobileNav');
+b.addEventListener('click',function(){var o=m.classList.toggle('hidden')===false;b.setAttribute('aria-expanded',o);b.setAttribute('aria-label',o?'Close menu':'Open menu');});
+m.addEventListener('click',function(e){if(e.target.tagName==='A'){m.classList.add('hidden');b.setAttribute('aria-expanded','false');}});})();
+</script>
+</body>
+</html>

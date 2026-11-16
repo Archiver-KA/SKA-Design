@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03679",
+  "title": "Cinematic Film Society Landing Page Template",
+  "summary": "A high-end, brand-forward landing page template for film societies, production houses, and cinematic business publications.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Art & Design",
+    "Portfolio",
+    "Dark",
+    "Clean",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3200,
+      "sha256": "33cec7ecf003c01f93797ac8877e015023e3bddcdfc577fba833e13604a8f845"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 40638,
+      "sha256": "b794cfe1803a596ff653631674ba1543d06c8ae9a045c45291c2d6019f101d1a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 881,
+      "sha256": "88e2ab5a2232b47f0ebfe5e90cd67c1b2af83ae129583a68fdb7c3e4ac516837"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 887,
+      "sha256": "d78617873c5dc117b69279b5d631aeffa0d0e472ae12ec4220327ff04578a2bd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 79232,
+      "sha256": "a5f68952871abbbb9520ed8b51c976099333bcaf83f18a4aa9252058f2282c1b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "blog-articles",
+    "team",
+    "contact-form",
+    "stats"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

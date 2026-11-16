@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01300",
+  "title": "Plant E-commerce Landing Page Template",
+  "summary": "A modern Botanika-inspired plant e-commerce landing page template for selling indoor plants, pots, soil, and gardening essentials online.",
+  "tags": [
+    "E-commerce",
+    "Food",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Plant shop",
+    "Online store"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3615,
+      "sha256": "57a1e8fce08ffd1a9cbb46e9182cc672d2c12c60900a6b21f780769997d0bc82"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10554,
+      "sha256": "f32005b5c5f7a1fd274892e445a0296da748e937ff8cc6d31fd81ae9eb0da280"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "ae595422cfbe392ceb0c6012f0dcf7c39fb21ebbdb08dec8a75425db0ed62c6c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23977,
+      "sha256": "7d0806e00c36cacc6b50f338694d4536df54362146df0439d55b8e48de9ad349"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

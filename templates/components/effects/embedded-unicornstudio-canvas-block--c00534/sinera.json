@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00534",
+  "title": "Embedded UnicornStudio Canvas Block",
+  "summary": "Embeds a UnicornStudio project into a fixed-size 600x300px div via an external script loader. Ideal for displaying interactive or animated canvases, visual effects, or micro-experiences within a page section or card.",
+  "tags": [
+    "card",
+    "embed",
+    "unicornstudio",
+    "interactive",
+    "canvas",
+    "widget"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1408,
+      "sha256": "81154c8ca92107dbd774853d5e4c1f96d7568f0055e2545e7fe094740a3820b4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 515,
+      "sha256": "415d72495fd21a1f23c6eafccaaf4ac7cd943879464db7d59ce29f668ad19b0c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1371,
+      "sha256": "aa7a6be474d4600e2fabc8c710e3f396674026f1b970b99acade2a631df5f5ed"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

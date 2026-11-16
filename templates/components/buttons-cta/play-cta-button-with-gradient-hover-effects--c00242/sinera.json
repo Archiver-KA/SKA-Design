@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00242",
+  "title": "Play CTA Button with Gradient Hover Effects",
+  "summary": "Interactive CTA button featuring a play icon, gradient border, animated underline and radial glow on hover. Built with Tailwind CSS, ideal for launching video demos or promotional content.",
+  "tags": [
+    "button",
+    "tailwind",
+    "gradient",
+    "hover",
+    "icon",
+    "interactive",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1538,
+      "sha256": "2e7e5ad2895dc6ee0e5fd9d67163f02ebb22b18215d7fba56ee329d128746d1a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1695,
+      "sha256": "46ec07734b0ad703170ede0b8d3a0d9b935e713399b0123a87f8a1b1ace05777"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2689,
+      "sha256": "3fee4fd9757aca7e548f2e71e1c0156d11997a1cf069997fe12d7a94f04b6b37"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SN-W03019",
+  "title": "AI Travel Planner Landing Page Template",
+  "summary": "A reusable landing page template for AI-powered travel apps, showcasing trip planning, curated stays, local experiences, and app download CTAs.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Technology",
+    "Clean",
+    "Gradient",
+    "Minimal",
+    "App",
+    "AI",
+    "Booking"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3342,
+      "sha256": "78ed688bb7dadbdcbf026affcca3cdb554ee7761ef30a72a2f7822f02d62d2fe"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11592,
+      "sha256": "547648bb4d4c25337569223b1081fb9144cfb91610788501ee76093a4e2e2032"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 814,
+      "sha256": "89519dc915cb5c8961739ef1f84d04c9fc3ab6968d5739b10dd56a3dbeb7597e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23992,
+      "sha256": "9ac9c26877894aa69933e1819328ef5db353ac3cc9f5d898ba9962c9c75fc86b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

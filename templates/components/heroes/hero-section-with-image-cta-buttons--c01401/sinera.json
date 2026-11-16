@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01401",
+  "title": "Hero Section with Image & CTA Buttons",
+  "summary": "Full-width hero block featuring background image with gradient overlay, responsive grid layout, headline, copy, and two interactive CTA buttons. Uses Tailwind utility classes and entrance animations—ideal for landing pages or site headers.",
+  "tags": [
+    "hero",
+    "tailwind",
+    "responsive",
+    "animated",
+    "background-image",
+    "cta",
+    "landing-page"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 48976,
+      "sha256": "10890092fb05e25c3b9fc3a537223d7316cdfae886b85e26caf40954947de9d6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5201,
+      "sha256": "1ced44d604bcb3b0154ac781e1dfc3a6554e5259edb41fdab3b07455f780745b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6063,
+      "sha256": "b6e36afbf46379b435e5d8402fe35a0126c4687cadab6ce66f1b7040a61d685b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

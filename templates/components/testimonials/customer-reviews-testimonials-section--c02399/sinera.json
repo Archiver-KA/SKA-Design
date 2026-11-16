@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02399",
+  "title": "Customer Reviews & Testimonials Section",
+  "summary": "Responsive Tailwind section featuring star ratings, highlighted testimonials, review statistics, recent review cards, and a write-a-review CTA. Suitable for product pages, SaaS dashboards, or brand landing sites.",
+  "tags": [
+    "testimonial",
+    "reviews",
+    "ratings",
+    "tailwindcss",
+    "responsive",
+    "section",
+    "cta",
+    "grid"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19270,
+      "sha256": "dea717d6677232be9fc9e217b4351d23613b1ea5dc8d305af99980cc2fa1c5db"
+    },
+    {
+      "path": "component.html",
+      "bytes": 19112,
+      "sha256": "3e8052a560c42c5e753fbf28a87fb113c6d251ddd5653f6712b8b4f7686fb085"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19976,
+      "sha256": "8fd4b83a1819d52f7b71941543d798e4eba997dc1ce3ec7f9b7ec4bf1b4c73a5"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

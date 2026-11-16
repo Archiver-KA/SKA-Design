@@ -1,0 +1,71 @@
+{
+  "id": "SN-W01295",
+  "title": "Pet E-commerce Landing Page Template",
+  "summary": "A premium pet shop landing page template for showcasing curated food, accessories, and articles for dogs, cats, and birds in a modern online store layout.",
+  "tags": [
+    "E-commerce",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Pet shop",
+    "Animalerie",
+    "Online store"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3587,
+      "sha256": "4c5f71f8bc9e5387f63bd9342dc1f4630fffc90da4a5ab263ffbfea078b3adda"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9028,
+      "sha256": "9d9c968e286fdab164d09b7e4bf00984f9b39a93c23d232b1b891bfa25ea88cc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "1209492997a65f6742bb9dc9264ee783bc59130a566d575c95065a2c090da240"
+    },
+    {
+      "path": "index.html",
+      "bytes": 44868,
+      "sha256": "2f5ffa21ed1328aef733d8d83e41736422f33748aaf564f581a87a716064a377"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "cta",
+    "product-grid",
+    "about",
+    "testimonials",
+    "faq",
+    "blog-articles",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

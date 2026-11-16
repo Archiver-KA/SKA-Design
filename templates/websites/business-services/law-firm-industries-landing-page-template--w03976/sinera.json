@@ -1,0 +1,66 @@
+{
+  "id": "SN-W03976",
+  "title": "Law Firm Industries Landing Page Template",
+  "summary": "A clean, professional template for law firms and advisory practices to showcase industry expertise, explain services, and drive consultation bookings.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Technology",
+    "Clean",
+    "Minimal",
+    "Brand",
+    "legal",
+    "law firm",
+    "consulting"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3316,
+      "sha256": "4c48d2734c6d0d6965e70a3205c062021703f31615390c96ad2409e5a5546280"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16296,
+      "sha256": "1ccca5a88e6fa552611b60c77e08586b0f8a25bd0e2e68842a34ea8239a83e4f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "228187d16e4387282a4bbb1483112a19eb160b025887d93bc52e5075678f268f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11754,
+      "sha256": "00adfb29f1baac2bc676862b88fce8ddaacfa54abec2514a076638d84d1a5942"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "benefits",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

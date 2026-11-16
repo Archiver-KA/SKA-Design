@@ -1,0 +1,20 @@
+<svg width="40" height="32" viewBox="0 0 50 32" fill="none" xmlns="http://www.w3.org/2000/svg" class="">
+                        <defs>
+                            <linearGradient id="logo_grad" x1="0%" y1="0%" x2="100%" y2="100%">
+                                <stop offset="0%" style="stop-color:#22d3ee;stop-opacity:1"></stop>
+                                <stop offset="100%" style="stop-color:#2563eb;stop-opacity:1"></stop>
+                            </linearGradient>
+                            <linearGradient id="logo_grad_dark" x1="0%" y1="0%" x2="100%" y2="100%">
+                                <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1"></stop>
+                                <stop offset="100%" style="stop-color:#1e40af;stop-opacity:1"></stop>
+                            </linearGradient>
+                        </defs>
+                        <!-- Left Loop -->
+                        <path d="M14 26C10 26 5 22 5 16C5 10 10 6 16 8C20 9 22 14 24 16" stroke="url(#logo_grad)" stroke-width="6" stroke-linecap="round"></path>
+                        <!-- Right Loop/Stroke -->
+                        <path d="M24 16L34 6C40 0 45 5 45 12C45 22 36 26 36 26" stroke="url(#logo_grad)" stroke-width="6" stroke-linecap="round"></path>
+                        <!-- Center Connection/Bridge for 3D effect -->
+                        <path d="M12 24L36 6" stroke="url(#logo_grad)" stroke-width="5" stroke-linecap="round" stroke-opacity="0.8"></path>
+                        <!-- Stylized internal shadow accents -->
+                        <path d="M14 26C12 26 10 24 10 20" stroke="url(#logo_grad_dark)" stroke-width="2" fill="none" opacity="0.5"></path>
+                    </svg>

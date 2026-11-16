@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01798",
+  "title": "Architect Studio Portfolio Landing Page Template",
+  "summary": "A minimalist architect studio portfolio landing page template for showcasing featured projects, studio philosophy, and contact details with immersive visuals.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Minimal",
+    "Clean",
+    "Large Type",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3410,
+      "sha256": "82dbb46c828217c1fc5624f1d4f06811808336a780436aaa022b9944452444a7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 66042,
+      "sha256": "2d4998c5b8f62981f3868b6278cb09e72609a21f0874371b32ace29c6d64a4f2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 877,
+      "sha256": "cb3d61e7dd28386f0ae4181784c5ed4bde30740c9c79f78ddbaa778f3c4b43b7"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 242,
+      "sha256": "b0f9a15febabe876c74ae4295bfefca3ebbd9d2f2d5f89ab38670851fbb5c953"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25985,
+      "sha256": "e83272c4c9ed8f537ee54c0f61e875de2f03eb4803be858fc518628289fb78a7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

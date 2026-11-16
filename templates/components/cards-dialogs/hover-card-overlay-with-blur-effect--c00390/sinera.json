@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00390",
+  "title": "Hover Card Overlay with Blur Effect",
+  "summary": "Absolute overlay that appears on hover, featuring backdrop blur, fade-in opacity, and slide-up animation. Includes heading, description, and status badge. Built with Tailwind CSS; ideal for portfolio or product cards to reveal extra details.",
+  "tags": [
+    "overlay",
+    "card",
+    "hover",
+    "tailwind",
+    "animated",
+    "blur",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14082,
+      "sha256": "3fc3b652748f4fd36f9af651697b7046ccdda50c8c5a2179bb0cb300706196a0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2157,
+      "sha256": "e881fd409449a1708ede550d2df112a1eb6f76b64373a764206352c805f7f673"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3143,
+      "sha256": "5c79c92f54666f4562bcef390588b69f6e54651ec52b05450531958f483f2015"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

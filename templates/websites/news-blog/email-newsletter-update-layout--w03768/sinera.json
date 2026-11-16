@@ -1,0 +1,96 @@
+{
+  "id": "SN-W03768",
+  "title": "Email Newsletter Update Layout",
+  "summary": "Responsive email template showcasing monthly updates, webinar info, roadmap, and call-to-action with Tailwind CSS styling.",
+  "tags": [
+    "HTML",
+    "Tailwind CSS",
+    "Email Template",
+    "Responsive Design",
+    "Newsletter",
+    "UI",
+    "Web Development"
+  ],
+  "kind": "websites",
+  "category": "news-blog",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3159,
+      "sha256": "67f10c79bd8d6785f6a155d385274f5511773e0fe578733a0bc8929fcace89df"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12030,
+      "sha256": "6594d378748b3d051ecbd9bf90a5b58bbefb1f4a092a0c87bb075650fe97a302"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2038,
+      "sha256": "e4a1166c685fa580584e31ace4cdea045806faf645cc5152a0213b55df627b54"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 262,
+      "sha256": "aec1480699896542bc2c4c86a035ffaccf24e18223e44c03356da6379f41466e"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 228,
+      "sha256": "64692bca98bebb5a7d37b46c9facf2afa5ebf5944df7c8eadce8484ef081a0d5"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 287,
+      "sha256": "aa82957dcc4768f7fde5e31aeda6a3b399fc8c6c13ac2f37d0aa35047b463595"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 230,
+      "sha256": "0809b7fcc4cced8d559476b5a18d098210e7eb79866912d30e5777223997bfa2"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 327,
+      "sha256": "4b0102e7096cb935923c5c9b1abfcee2b6a72ff6e6a8f7c409f3e3e206c56699"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 535,
+      "sha256": "ad69b00bb4cfbad2e3ef7c37eb52777194577241aba85f20b59d50898a86ee77"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 431,
+      "sha256": "595801ebf9e8a86ffb8b76d0c5b6c3499d07bb8c88a03a823a55b5285709c1ba"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6730,
+      "sha256": "c12be6c0b530dcce8809e313a0f5516b9584f66ba938890f83a85dfdb3c50668"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "content",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Content / News",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "newsletter",
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01359",
+  "title": "Generative Audio Hero with Interactive Synth UI",
+  "summary": "Hero section for a generative audio product featuring marketing copy and a skeuomorphic, interactive Web Audio synth panel with sliders, knob, dry/wet mix, and play controls. Built with Tailwind-style utility classes for dark, high-contrast visuals.",
+  "tags": [
+    "hero",
+    "section",
+    "ui",
+    "interactive",
+    "audio",
+    "web-audio",
+    "tailwind",
+    "responsive",
+    "skeuomorphic"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26072,
+      "sha256": "a01f6e194c42901d46ad946d46b828ba135137aaeb77855f6725e0369c68fa89"
+    },
+    {
+      "path": "component.html",
+      "bytes": 26860,
+      "sha256": "aff4dca0dfcf780781b213996a1430147a3b99be832842d2014bf5c67ea4b4a2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27818,
+      "sha256": "ff906abedb9e98e0567915280b88a82fff42e646536725952d8d2d6e8c05dee0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

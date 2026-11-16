@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01993",
+  "title": "Video Preview Card with Hover Autoplay",
+  "summary": "Interactive video thumbnail card that swaps the cover image for muted autoplay video on hover. Features gradient overlays, title, view stats, like and options buttons. Built with Tailwind CSS—perfect for video galleries, course previews, or media dashboards.",
+  "tags": [
+    "card",
+    "video",
+    "hover",
+    "autoplay",
+    "tailwind",
+    "interactive",
+    "responsive",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15286,
+      "sha256": "afb45cfe1e3ec5b1583d4da24e226329440176aed53f9fbbb6f5c31b8f9c298c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3043,
+      "sha256": "81ae8359fb49762f25c8528d3ce6818432afec4d3aaa77f131886d38f2e60daa"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4032,
+      "sha256": "6438292e2f99a74ed8e08c7d65dcc92c7e95e317779f07414439987b7125580c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

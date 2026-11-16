@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00905",
+  "title": "Tailwind Feature Grid with Hover Cards & CTA",
+  "summary": "Responsive section displaying four workflow cards with image backgrounds, hover blur, progress bars and a call-to-action button. Built with Tailwind CSS for landing pages highlighting product steps or features.",
+  "tags": [
+    "feature",
+    "grid",
+    "tailwind",
+    "responsive",
+    "hover",
+    "landing",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 41906,
+      "sha256": "6987f73cba90795769cb02fd7a03571475e2eaa723309d168e746500454a73d4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10507,
+      "sha256": "74d9044528110e1cadc24548447ce9c6bb1c61b3da14981dbe0c76e79413da9e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11506,
+      "sha256": "90b06006882e249545d4bbb0ea0e0475fadd42d9247911ee337be9f8003ceec3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

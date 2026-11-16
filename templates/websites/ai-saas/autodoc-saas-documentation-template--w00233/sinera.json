@@ -1,0 +1,67 @@
+{
+  "id": "SN-W00233",
+  "title": "Autodoc SaaS Documentation Template",
+  "summary": "A sophisticated autonomous documentation engine template designed to scan application workflows and generate multi-format training materials.",
+  "tags": [
+    "Technology",
+    "Documentation",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Animated",
+    "SaaS",
+    "AI",
+    "Dark"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3761,
+      "sha256": "a0cba03e7b6738acb93e9ffafec1bb6765bd92feb55164a809c549cddacfcc4e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14898,
+      "sha256": "6f6b1f149adfef6b1047cd541c4ff7f1e28bc8a3a7362e6138f7607efc167bff"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "8d18e95642798a0da8841cb2b860d7bd0d7737672ab49d0b513b68f8c6d4e953"
+    },
+    {
+      "path": "index.html",
+      "bytes": 103223,
+      "sha256": "c5ee360d85f8b06441f94ea144dfb4148cbb063fa0c4233d31f3ad63eb1e2284"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "auth-form",
+    "product-grid",
+    "how-it-works",
+    "contact-form",
+    "stats",
+    "faq"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

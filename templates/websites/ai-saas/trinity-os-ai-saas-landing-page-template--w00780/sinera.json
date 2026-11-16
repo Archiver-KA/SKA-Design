@@ -1,0 +1,80 @@
+{
+  "id": "SN-W00780",
+  "title": "Trinity OS AI SaaS Landing Page Template",
+  "summary": "A high-converting landing page template for AI-driven revenue recovery and home service business management.",
+  "tags": [
+    "Technology",
+    "Services",
+    "Landing Page",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3796,
+      "sha256": "7e5901ba83f8056fc7a39aae9198122587e283c5e40f072d9b373ed12368ea88"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15772,
+      "sha256": "759963675cbb0c2f064addb1f7404909ddf9bb15152ea11f0263b630db38ba2f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1185,
+      "sha256": "d3f612ca74cfb5ace19cc41101df8a7ad618d37df2721a8d3eb2e38dd5558c98"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 397,
+      "sha256": "e03d60c167b013023a4603df82468813dd6b3b89351b3d9512820b4444e98b01"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 270,
+      "sha256": "3bca4bbccdfa74da3aa7804719b3411b7708f91512440c5bbb6c16ac3320d86c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38606,
+      "sha256": "d98ef6db491615a6c79a3264285b7848f55def41c5b76a57f663825f027a8966"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "pricing",
+    "benefits",
+    "booking",
+    "how-it-works",
+    "integrations",
+    "faq",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

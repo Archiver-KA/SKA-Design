@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02114",
+  "title": "MicAyla Global Asset Management Landing Page Template",
+  "summary": "A modern, dark-mode-ready landing page template for asset management and project controls firms to showcase focus areas, leadership, and partnership inquiries.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Technology",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3847,
+      "sha256": "1eccfc1bd4dccfac762aa4c7e21b2036f69515447b4a8df7afe6f05e008fafd5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11430,
+      "sha256": "c50059dd31bfea7c5da1b252a0d12ff50e9e4498ac9e0e56c508b9ceb81a84f8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 741,
+      "sha256": "8b483bb6905d60deb85308f633ae2fd2a8b2c9ecaa4fe23105155fc032382a4b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 58957,
+      "sha256": "fe640aa0e5932d5b15a4b7a60b79fb6682ed8b7a5ac83a849ffedbc1c706c302"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "case-studies",
+    "team",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

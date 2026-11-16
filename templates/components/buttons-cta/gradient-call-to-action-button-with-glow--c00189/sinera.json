@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00189",
+  "title": "Gradient Call-to-Action Button with Glow",
+  "summary": "A Tailwind-styled gradient CTA button with hover glow and arrow icon. Includes subtle translation animation and brightness change on hover, ideal for pricing, subscriptions, or upgrade prompts.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "animated",
+    "interactive",
+    "gradient"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3210,
+      "sha256": "2257be3f6d93bc3a168e390d43cf61a2b33f537ee97fac059743d4af24669020"
+    },
+    {
+      "path": "component.html",
+      "bytes": 969,
+      "sha256": "98d41a8b1383e3a8937eab91518b643bbc8a6e2d04d5f7459154b5a291d3fbe9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1960,
+      "sha256": "5d536a0961f29ff29160166145cf7a7f3bf70b00a814be1ffc3ad07593e314e7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

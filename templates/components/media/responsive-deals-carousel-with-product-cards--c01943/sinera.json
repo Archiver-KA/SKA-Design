@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01943",
+  "title": "Responsive Deals Carousel with Product Cards",
+  "summary": "Horizontal carousel displaying limited-time product deals. Features snap scrolling, prev/next controls, discount badges, pricing details and Tailwind styling. Ideal for ecommerce homepages or promotional sections.",
+  "tags": [
+    "carousel",
+    "card",
+    "slider",
+    "ecommerce",
+    "tailwind",
+    "responsive",
+    "product",
+    "navigation"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 23262,
+      "sha256": "a043907e6c815e4fa9662638bfd9acc32a79f7bfc1a64cc2db672b76bb3cacf3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8618,
+      "sha256": "2f3e4e9abc099fe10179d43654d5f55442b8a92ec2ce09ffd0e089388e98b32c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9483,
+      "sha256": "f78891ca7d7d37bcdc31e017ae0336fa37a6dc9094537d32e650902a469e01d1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

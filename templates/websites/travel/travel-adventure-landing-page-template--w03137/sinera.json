@@ -1,0 +1,75 @@
+{
+  "id": "SN-W03137",
+  "title": "Travel Adventure Landing Page Template",
+  "summary": "A reusable travel adventure template for trekking, expedition, and tour operators to showcase destinations, guides, testimonials, blog content, and booking CTAs.",
+  "tags": [
+    "Travel",
+    "Landing Page",
+    "Services",
+    "Blog",
+    "Clean",
+    "Dark",
+    "Large Type",
+    "Adventure",
+    "Trekking",
+    "Tourism"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3644,
+      "sha256": "c612e9ef8ea6f6bce08c745276d13cf785b9fab3d194df42ec6047a9c6671685"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 57504,
+      "sha256": "e8e4fdfbdd62d91d5075e6934d44c2e1d00ac476053af3a448ca2ee14835ccb8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 813,
+      "sha256": "c9a9fb31eb53f9746ce744f5137369d112d8cd0e32f6e90f1baabbce18afe605"
+    },
+    {
+      "path": "index.html",
+      "bytes": 61172,
+      "sha256": "4e42700d8575c7829aecf9bbfb3811622bfc6c1473de3386d43931be1a6926a2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "team",
+    "logo-cloud",
+    "features",
+    "contact-form",
+    "cta",
+    "faq",
+    "testimonials",
+    "blog-articles",
+    "timeline",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

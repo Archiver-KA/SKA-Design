@@ -1,0 +1,70 @@
+{
+  "id": "SN-W01214",
+  "title": "Luxury E-commerce Landing Page Template",
+  "summary": "A reusable luxury e-commerce template for showcasing premium customizable products with editorial visuals, product collections, trust sections, blog content, and FAQs.",
+  "tags": [
+    "E-commerce",
+    "Landing Page",
+    "Fashion",
+    "Services",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Luxury",
+    "Product Showcase",
+    "Editorial"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3735,
+      "sha256": "32b3ed88865ec99926f913b5ac5508113d8c74c4c4212e23130dd9c1231b04f1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12390,
+      "sha256": "17b6c941d270872beb8dfe5df3019177225bf6a20ec4c608965de2984086ad0f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "5877da6d43f7478aaf211bffd5814f62140a93eb4b888f56e6a265163071d85e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 63845,
+      "sha256": "218a287b5659a2ad6e35d60428ba9813cad9734033e1ee9b97eb82032a7e4f70"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "pricing",
+    "3d-canvas",
+    "gallery-portfolio",
+    "features",
+    "cta",
+    "comparison",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

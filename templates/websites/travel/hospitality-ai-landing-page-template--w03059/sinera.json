@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03059",
+  "title": "Hospitality AI Landing Page Template",
+  "summary": "A reusable landing page template for hospitality AI platforms showcasing autonomous guest experiences, product pillars, social proof, and demo conversion.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "AI",
+    "Hospitality",
+    "SaaS"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3827,
+      "sha256": "e25b35288e809f3833555486441d7a757c65eb18c44346519a70953863062793"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18076,
+      "sha256": "339cf66a88e000403b88c0233dae82e703844bb3c50321b6b0f8e32515bb4950"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "56fdb1d84d5015ec50ee4df30dc85376e23a0df9759d560d9174257bf211bc4a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 50280,
+      "sha256": "918d7b7c4394aebf170ceadb52f15ffc4358972800bf349c97641f85ecbc35c6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "testimonials",
+    "comparison",
+    "features",
+    "pricing",
+    "blog-articles",
+    "cta"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

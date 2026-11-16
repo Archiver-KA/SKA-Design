@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02169",
+  "title": "Interactive Product Card Gallery with Hover Reveal",
+  "summary": "Responsive grid of fashion product cards. Each Tailwind-styled card scales, tilts and reveals details, price and sizes on hover, ideal for ecommerce showcases or lookbooks.",
+  "tags": [
+    "gallery",
+    "hover",
+    "tailwind",
+    "responsive",
+    "ecommerce",
+    "product",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 28814,
+      "sha256": "c4e7f5754fc5ebf69e31e51af646bd3f91a097d77a074705ac791d1a87728c2b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8781,
+      "sha256": "24b9a155d63366d2b4931fb22d9a6863852883de520c025bc99d4f667e90e2b0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9652,
+      "sha256": "96139b67f1ab060cd54268fb53df22a5445841ed48e6c4721312c63d823c24f8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

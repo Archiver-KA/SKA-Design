@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02192",
+  "title": "Responsive Product Recommendation Grid",
+  "summary": "Tailwind CSS section displaying a responsive 2–4-column product grid with animated cards. Each card shows image, title, description, price and quick-add arrow, with hover lift and fade-in effects. Suited for e-commerce related items or brand showcase areas.",
+  "tags": [
+    "product",
+    "card",
+    "grid",
+    "ecommerce",
+    "tailwind",
+    "responsive",
+    "hover",
+    "animated"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26154,
+      "sha256": "32d39734500ef4554b4fee9d18427c306914b5afc4c6bbc9d2cea7082763ba08"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6315,
+      "sha256": "cbcbdb81b4fca183b929c66c056f4b70249b14a6beb5a5f699285fb6e75153ca"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7174,
+      "sha256": "4e1992fc0ea68cedc89a705ce99ea85c2790b4360b52189c0690c319fd25d32d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

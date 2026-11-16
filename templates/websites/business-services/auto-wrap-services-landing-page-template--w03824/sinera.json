@@ -1,0 +1,66 @@
+{
+  "id": "SN-W03824",
+  "title": "Auto Wrap Services Landing Page Template",
+  "summary": "A reusable landing page template for premium auto wrap, PPF, window tinting, and detailing studios to showcase services, projects, and capture quote requests.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Dark",
+    "Futuristic",
+    "Clean",
+    "Animated",
+    "Automotive",
+    "Auto Wrap",
+    "PPF"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3826,
+      "sha256": "caf3fa493bf064636be9bbc2be2934ca84f9d2cc9af1d7f0a26fd4a68a5045f2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18434,
+      "sha256": "6aa56a509779e3d2ed3922ac4453c365e87600014b4decc78f994a67b84f279f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "7a5b4f24fe05c93861d0e2676e5ac8d49922420c55ca55cd3a9615719a077feb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 51625,
+      "sha256": "b96b98d625b822f226f54c66b14bc6042b2d3ffef3b5128fd6130d48e749f710"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "hero",
+    "features",
+    "gallery-portfolio",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

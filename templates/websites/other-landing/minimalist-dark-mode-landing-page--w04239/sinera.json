@@ -1,0 +1,69 @@
+{
+  "id": "SN-W04239",
+  "title": "Minimalist Dark Mode Landing Page",
+  "summary": "Responsive landing page with animated wave background, gradient text hero, and mobile-friendly navigation menu.",
+  "tags": [
+    "Hero",
+    "Animated Background",
+    "Navigation",
+    "Responsive Design",
+    "Tailwind CSS",
+    "Mobile Menu",
+    "Gradient Text"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2959,
+      "sha256": "d5186289267b5660557bd5ecfbe25d56f6cfbdec4821e7736d45bf388806a60f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8452,
+      "sha256": "4a8a094f4a72485043522b9ae13f173af11b101f1c226bf4f5dfdef03b4d6910"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1064,
+      "sha256": "91de67f37655d4de04783b3d08815a108ccf73c8d9db7c5c9c48b6b2bcd67f57"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 240,
+      "sha256": "af1396dccf0531afdf84772a4521dcf599dae85a0b4bc246200ccaa212ad1b34"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 235,
+      "sha256": "2f38ecefda6cf58f96720fec8306988655a162c138eb12984a29da8b2cfcd290"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5143,
+      "sha256": "1ab00f73f45278a4b767805d38bc320957f18b3043b102b16e760677df25dda3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

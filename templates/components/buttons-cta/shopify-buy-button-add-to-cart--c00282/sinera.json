@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00282",
+  "title": "Shopify Buy Button - Add to Cart",
+  "summary": "Shopify Buy Button component that displays product information and adds items to cart when clicked. Features a green button with hover effects and integrates with Shopify storefront.",
+  "tags": [
+    "button",
+    "ecommerce",
+    "shopify",
+    "cart",
+    "modern",
+    "rounded",
+    "green",
+    "bold"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5098,
+      "sha256": "0ea2f8102cf0ba062706dba1708ed4e1b00686a0f6985745b374875348bbab4f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5525,
+      "sha256": "8c732dd86f0341ee2571fbb2ffaa8105b781615f0f25fc1c96db18494154f5c7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6378,
+      "sha256": "1556c6305ca9f8803c6217aeef1cdcf9f41814160bdeb7a700b5ede30be41ced"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

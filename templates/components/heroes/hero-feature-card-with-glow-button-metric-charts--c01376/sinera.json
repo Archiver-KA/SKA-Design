@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01376",
+  "title": "Hero Feature Card with Glow Button & Metric Charts",
+  "summary": "Hero section card featuring headline, interactive glowing CTA button, and overlay revenue stat cards with animated Chart.js line and bar graphs. Tailwind-styled, responsive design ideal for SAAS dashboards or landing pages.",
+  "tags": [
+    "cta button",
+    "tailwind",
+    "chart.js",
+    "dashboard",
+    "stats",
+    "animated"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 17866,
+      "sha256": "20c041f910d4e75ba42b7ec5ff42d620d0a9cf877fc00e611d842995feb78324"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13489,
+      "sha256": "93e7c46a121dbb49ef44ae0389e8b3e31a0f88eefe07698e9be8fee9af342001"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14494,
+      "sha256": "755f8808af67dde6876142cd30193aed43c31d7db19ae3c553e00a4261b3fe3a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

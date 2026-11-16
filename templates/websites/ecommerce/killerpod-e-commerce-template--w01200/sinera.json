@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01200",
+  "title": "Killerpod E-commerce Template",
+  "summary": "A reusable e-commerce template for performance apparel brands featuring bold product showcases, category splits, limited drops, and email capture.",
+  "tags": [
+    "E-commerce",
+    "Landing Page",
+    "Fashion",
+    "Dark",
+    "Brutal",
+    "Minimal",
+    "Brand",
+    "Clean",
+    "athletic wear",
+    "fitness apparel"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3581,
+      "sha256": "6e5187e4148dcada4c3b355f836ea2ef81f1ec6f1127ef0a5d7943c1273d2caa"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18358,
+      "sha256": "bd0df3546c8ee71905d564398e184c56badc18140aafa262b060e313572977c7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 859,
+      "sha256": "cab27dbbf185415722d6e558435e5ce118073c2fb150d1afb0300bd2f3903f5b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37121,
+      "sha256": "e3420fe58b4e17be2730bd1ed0f3b61b65d5a5c066b33200145ad2fd55978503"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "product-grid",
+    "features",
+    "gallery-portfolio",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

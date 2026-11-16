@@ -1,0 +1,46 @@
+{
+  "id": "SN-C02306",
+  "title": "Market Signals Dashboard Card",
+  "summary": "A glassmorphic dashboard card displaying live market trends with search functionality and interactive signal buttons. Features animated backgrounds and real-time status indicators.",
+  "tags": [
+    "card",
+    "dashboard",
+    "search",
+    "glass",
+    "dark",
+    "gradient",
+    "animated",
+    "live",
+    "modern",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9902,
+      "sha256": "5f725d3a74e596126e228e3ba1fecb35dff79fb19fa708e2b2d2c5f30e15756d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6870,
+      "sha256": "90e1993bb94841f6ee41f0b23601c1ad9b48523f67593577540178c6da07f392"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7850,
+      "sha256": "8d1ec792e527a97aff0856fbff178a7e3d27930bbf6f8ce33c8def581ba99c84"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

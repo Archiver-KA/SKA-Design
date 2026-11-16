@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01453",
+  "title": "Prism Studio Technical Hero Layout",
+  "summary": "Full-width hero-style layout showcasing a technical brand concept for Prism Studio, with large heading, signature area, color swatches, and a responsive grid of visual cards using Tailwind CSS. Ideal for design system intros or product branding pages.",
+  "tags": [
+    "hero",
+    "section",
+    "responsive",
+    "branding",
+    "layout",
+    "tailwind",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11660,
+      "sha256": "73ab3a58cb3284368f06e0aebd72ab55025d19de5d12258e998e2df9ca86ea2a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6227,
+      "sha256": "cc3a16bb54dc33829ba77cd47f8d5c4f459a9aa1b6845de9069150881e9de367"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7082,
+      "sha256": "ad74a726c7e625fafd5655c96c6219b64aec7feee82d27d29da8ce4228971f89"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

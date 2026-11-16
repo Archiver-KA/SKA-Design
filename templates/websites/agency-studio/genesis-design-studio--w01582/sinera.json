@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01582",
+  "title": "Genesis Design Studio",
+  "summary": "Welcome to Genesis Design Studio. Where We Make The Future",
+  "tags": [
+    "Portfolio",
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Minimal",
+    "Clean",
+    "Dark",
+    "Large Type",
+    "Art & Design"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2350,
+      "sha256": "6a2bb5c40905f2e845df880c803fe69033170cc0174b57c44cd356301c9e4ec7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18378,
+      "sha256": "5ded00395f5d4a9d4d582afc89b70451202af80797775f7b7833f08ce68f5414"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 798,
+      "sha256": "19f12f89d31a730005efcccec71c7dafb91f2b585b1d3607afc993d94a2549c2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22220,
+      "sha256": "696b3d4e5b18ef079c346a1ce0d64f6f1b05f9f15d803bd1cb5ca706735f055a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "removed-missing-favicon-link",
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01905",
+  "title": "Image Element (Incomplete Source Attribute)",
+  "summary": "Basic HTML <img> element with an incomplete src attribute. Intended for displaying an image, but currently requires a valid source URL and additional attributes such as alt text for proper use in a UI.",
+  "tags": [
+    "card",
+    "image",
+    "html",
+    "basic",
+    "content"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4028,
+      "sha256": "e0a4549ff7ecddbe9762e0827dc681e6208dc257a1fb6ed8d4b96d2c5669b36a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 127,
+      "sha256": "53647f52928f252665f4c7d2cfac97f68f14ed282d1f84ef1bbd82271d03ee14"
+    },
+    {
+      "path": "index.html",
+      "bytes": 991,
+      "sha256": "404321e8793e3992691e66df4fb7e8136c826881b22e11696c98133384bfc4ea"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

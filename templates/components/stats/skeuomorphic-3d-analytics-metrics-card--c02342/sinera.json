@@ -1,0 +1,38 @@
+{
+  "id": "SN-C02342",
+  "title": "Skeuomorphic 3D Analytics Metrics Card",
+  "summary": "Premium skeuomorphic analytics card showing capacity, CPU, memory, and network metrics with animated SVG progress ring, count-up values, parallax tilt, glare, and Tailwind-based styling. Ideal for dashboards or status overlays.",
+  "tags": [
+    "card",
+    "analytics",
+    "dashboard",
+    "metrics",
+    "animated",
+    "interactive",
+    "svg",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5510,
+      "sha256": "f9032e2c9d782c35ea7776a191720ff5285a9af2b0dd1b703053feafed7d0d50"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17062,
+      "sha256": "65795189ddf4f723c5fc9fda2ad28b3b4f0d6dafa727c721001191e1a3c95ebb"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

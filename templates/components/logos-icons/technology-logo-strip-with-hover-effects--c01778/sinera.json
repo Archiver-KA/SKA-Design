@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01778",
+  "title": "Technology Logo Strip with Hover Effects",
+  "summary": "Horizontal section displaying multiple tech stack logos (Node.js, React, Python, GitHub, TypeScript, Flutter, HTML5) in grayscale that fade to full color and higher opacity on hover. Tailwind-based, ideal for showcasing tools, stacks, or integrations.",
+  "tags": [
+    "feature",
+    "section",
+    "logos",
+    "stack",
+    "brands",
+    "tailwind",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2178,
+      "sha256": "b1cc19f17628f153f9905b9a1832fdeedaa44f8bd638bc65f77d1917df5b371f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 14371,
+      "sha256": "f4c666d15a11d65fb51ed6b64a44fe655138cbb56fb5120a745b12704fd74ce7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15232,
+      "sha256": "9b3f037544eae2a75d77cb2083653a8659405e3bed96993e2c9f3e4d595085c0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

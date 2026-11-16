@@ -1,0 +1,41 @@
+{
+  "id": "SN-C00405",
+  "title": "Invalid URL Component",
+  "summary": "This is not valid HTML code. The provided input is a URL string, not HTML markup that can be analyzed for UI components.",
+  "tags": [
+    "card",
+    "error",
+    "message",
+    "center",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7532,
+      "sha256": "1f6986b30ad5fb436a7bdd689c02ebf10cc6489ee2a28b60afcf8b7a9d5a3d59"
+    },
+    {
+      "path": "component.html",
+      "bytes": 937,
+      "sha256": "7b7110812c6f331e187b95702002cd0c5143a4180a9055f162a92c82107e35a4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1779,
+      "sha256": "dcc5a1afdc50483851ce21c3e30180eecb894d79f8bb08cfe5b47bc4dbb842b1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01533",
+  "title": "Digital Agency Landing Page Template",
+  "summary": "A modern digital agency landing page template for showcasing services, results, and pricing, designed to help creative and tech brands convert more clients.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Clean",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3475,
+      "sha256": "2865438590da1c95060925b7a5ca64824847197ef86dbd7cec0a6778fa54cfe9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13420,
+      "sha256": "05715c4a08ad590d4a305a372b642ff9434ae86f947511a95227af685851e477"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "1c56c4a7486b1a912976e923f97238abfadc794f93c176e83a3e31b66a68fc29"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21892,
+      "sha256": "7c625f9c56c6093a55888825d5620668a07c0aa19645c88ba951e81cb299a875"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "logo-cloud",
+    "hero",
+    "blog-articles",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

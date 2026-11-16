@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03221",
+  "title": "Construction Services Landing Page Template",
+  "summary": "A premium landing page template for construction and general contracting firms to showcase services, experience, portfolio, and capture high-intent project inquiries.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Construction",
+    "General Contractor",
+    "Clean",
+    "Minimal",
+    "Brand",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3752,
+      "sha256": "5852f4011d3defc9f4c463c0fcea4ad69dd9b558cbfac553bcf2a1e070b9b739"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 26554,
+      "sha256": "48cfc37ab71f9d364a810fe49914870b2593367c5c11b497ac98d0a49b508e24"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "6250ea78a7e783342786672e9a9464d89df4c8710573456a0c4e52950599742e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35046,
+      "sha256": "5f508daf15ba86c420113844fb881d5779a821f33aaae78ac80f2a26b754d3a5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "timeline",
+    "services",
+    "gallery-portfolio",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

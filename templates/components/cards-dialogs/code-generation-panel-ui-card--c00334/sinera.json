@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00334",
+  "title": "Code Generation Panel UI Card",
+  "summary": "Interactive code generation card showing a dark-themed panel with header, type and language selectors, options link, copy button, and syntax-highlighted code output. Styled with Tailwind-like utility classes for use in developer tools or dashboards.",
+  "tags": [
+    "card",
+    "code",
+    "dashboard",
+    "developer",
+    "ui",
+    "tailwind",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10954,
+      "sha256": "6e2a73b9f66f94f9c2c7c2e3504a901f1110352c0d40ee8261add6746c77e966"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4802,
+      "sha256": "a604870ecfd57f80dabaebdd25cc68c77307dc1adb6442324d4b453f7782f711"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5742,
+      "sha256": "b21b41a1731dff187468517466971da2a1c541542a0083ec662e2f48056d9f37"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

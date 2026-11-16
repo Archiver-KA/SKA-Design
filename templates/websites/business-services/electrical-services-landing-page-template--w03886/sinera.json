@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03886",
+  "title": "Electrical Services Landing Page Template",
+  "summary": "A modern, conversion-focused template for electrical services companies to showcase wiring expertise, certifications, projects, and client reviews—ready to customize and reuse.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Technology",
+    "electrical",
+    "portfolio"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3724,
+      "sha256": "e24b82275fb6916a168b396e5c96132d3f5737f384ed94f19f8f0fd4d26732c5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22268,
+      "sha256": "38f72a2a0e388c30852e9ae778388681889336fcd509d9ace14b004594bd8977"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "a4f695d4918d0f5ee7dfee86bac5b99eac858b26bebb1135f11e7fe843e5bd70"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40799,
+      "sha256": "eee311de4f942f3b85809dfd50192cfb88fd0e5656b5d725690e31f6b1b6502f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "logo-cloud",
+    "case-studies",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "SN-W03218",
+  "title": "Construction and Renovation Landing Page Template",
+  "summary": "A professional and modern landing page template designed for construction companies, renovation firms, and architectural services.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Clean",
+    "Dark",
+    "Grid",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "react",
+  "entry": "package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3096,
+      "sha256": "51b33170ac917dd94ac0a5e8e6f3764c609139ecc3727da9cb26f8ed111ff3ba"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2918,
+      "sha256": "89c0a8dc754ff99c77f985619ffb21c79aca467580c7356465fcd9febf3d3c6a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 739,
+      "sha256": "7408388e5875b54b2010f94c88db8bf8d0a4710ad797eedc3baac87019f417e5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 576,
+      "sha256": "6a8a0b5acf465a5c2164168c551d3366d909a8212c53c922384446157d0f0d43"
+    },
+    {
+      "path": "package.json",
+      "bytes": 537,
+      "sha256": "f1bf8aed9a85e589623e3de9b1ea07060b3da82eb0729b5ae5e789fd9934702e"
+    },
+    {
+      "path": "postcss.config.js",
+      "bytes": 79,
+      "sha256": "010e8774c76996e28b1f2290d690b3b64f56f2fbe26c747b4419ee0110d0a002"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 41243,
+      "sha256": "75e0e98154082ab565e231164f5271343e22b5f957d49d5f6659cf836a784535"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 248,
+      "sha256": "09f02639d2edcac9b137ab9bcd569c1ca6d06284dde7c5b0f207772c4ccb7999"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 254,
+      "sha256": "39d96af2c733973b83654c1682a9eb055a958d42b9616e22b7dd22983c54a0b1"
+    },
+    {
+      "path": "tailwind.config.js",
+      "bytes": 255,
+      "sha256": "2568b153f56cad128667d6c6ffe296439746833770349431cfc963cd13db9f80"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 132,
+      "sha256": "7679dd2d1d73606860bf36d711ad385a18cda4412d6e105062570af4454d6b58"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "SN-W04275",
+  "title": "Responsive Pricing Plan Cards",
+  "summary": "Responsive pricing UI with gradient borders, hover effects, and tiered subscription cards using Tailwind CSS.",
+  "tags": [
+    "Pricing",
+    "Tailwind CSS",
+    "Responsive Design",
+    "Gradient Borders",
+    "Subscription Plans",
+    "UI Cards"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2951,
+      "sha256": "2ef56c1f859ec210aa84e5e03d3da7e3da705c080b4793ed2d3048134b6b4790"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20608,
+      "sha256": "19c897be1d2b5b32d7162cb8904e6c941eefc538310313035b1ee607e948b072"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1798,
+      "sha256": "07b2d401b5e17eca83c0d0074555a782ed7265a8c0b53164b9a8e398d411b173"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "b533ae187bfa58e837b14995e27a024ab14ef5b26060373eb7301b7144851d86"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 352,
+      "sha256": "be5125d3b5ab7468460cae68d43c98746db461f8391a1faf821195267ca49d5b"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 289,
+      "sha256": "b84af55c370412d2009d51d327bc507e49aa765d4de97404138e4fdff882e097"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 390,
+      "sha256": "fcea1203dbd6a49958ee5dc6541cad4138e1bce83e9e4c875b59271eaeaae0be"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20741,
+      "sha256": "de730a383484d6a9dfb6dd05a485388eeafb6f88b3b6f0ede5085be44139dfb6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "pricing"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

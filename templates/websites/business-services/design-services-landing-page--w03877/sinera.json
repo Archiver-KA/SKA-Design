@@ -1,0 +1,81 @@
+{
+  "id": "SN-W03877",
+  "title": "Design Services Landing Page",
+  "summary": "Stellar Design Studio landing page with coordinate-grid hero, numbered service index and asymmetric project grid.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Tailwind CSS",
+    "Responsive Design",
+    "UI/UX",
+    "Web Development",
+    "Brand Identity"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3188,
+      "sha256": "592a087c00dac2b4e558ef7d80ea514018a99e62af576b6a8e523621aeafd357"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18414,
+      "sha256": "518fb83069db660efce6ae0f9e765e9066ef27632df0ef4fc789012679a80e2f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1535,
+      "sha256": "8a27495467e313de49b18fd29eee9b390b48dd374d950e2348fe6e049df11bc9"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 244,
+      "sha256": "fe3d708ab45d3bbc8e10a7658611c60ccf7899824d1e52d49b9d9bfc1db0f891"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 375,
+      "sha256": "115626b51eb323af9dd96f37403b458013afabde3249a3aa0c4e81eddbda057c"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 432,
+      "sha256": "ab7c8d46df9fa950a5e66bfb5f532341e68cc006d71f40168ed9b1a1396fbe71"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 345,
+      "sha256": "92dc5b0c0e1456e2c6bc4b8cd89c751b598420aba52fbed0efaa4f6bc8c3e1e3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17829,
+      "sha256": "236b69c80c2ef1d2892f9b86d6d47388d3f549a771cab157a035bdabe3658c6c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "rebuilt",
+    "issues": [],
+    "rendered": true
+  },
+  "language": "en",
+  "designSystem": "sinera-atlas@1.0.0",
+  "design": "DESIGN.md"
+}

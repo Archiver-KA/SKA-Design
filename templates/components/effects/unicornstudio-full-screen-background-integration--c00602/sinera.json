@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00602",
+  "title": "UnicornStudio Full-Screen Background Integration",
+  "summary": "Embeds a UnicornStudio project using a project ID, loads the CDN script once, and initializes it behind all content via a full-width, full-height, absolute div. Ideal for adding interactive animated backgrounds to Tailwind-styled pages.",
+  "tags": [
+    "integration",
+    "background",
+    "full-screen",
+    "animation",
+    "script-loader",
+    "external-library",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11130,
+      "sha256": "901095432e2d1f5f2764eae1acce1980d2b8b11725720611e7622e237485ac1a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 535,
+      "sha256": "1bfdbd561ef0c0ce5979501020e18257774004f10cef4f7ed47e7e4aa83216a4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1404,
+      "sha256": "002eb4d40eeaeaa5c93af11b628907441cb942e9428b9cf0927ffac5cbb0af58"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

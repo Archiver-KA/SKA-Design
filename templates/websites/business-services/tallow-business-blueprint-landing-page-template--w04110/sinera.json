@@ -1,0 +1,70 @@
+{
+  "id": "SN-W04110",
+  "title": "Tallow Business Blueprint Landing Page Template",
+  "summary": "A high-converting sales landing page template designed for entrepreneurs selling digital guides, recipes, and ancestral health business blueprints.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Health",
+    "Clean",
+    "Minimal",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3702,
+      "sha256": "355b6b5da37e3c4b9cd808393376e4439052e0e5043bc40602062c226889f6c2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13668,
+      "sha256": "166441b419c43c20177c125ff74731834e80873fbc4e660782aed7322eba2e3e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 886,
+      "sha256": "fa238d5b225744c406bf16c463d32d24280550e28406b079df2abd6e5fbeacba"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 371,
+      "sha256": "025818590db7cf499697691e8865fd89e1642012a688cc59ed87bc309adc256a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36016,
+      "sha256": "56c6d2d4f1ffe9d5b9e8b720bb628ffd9e31688bec25626c23aa6aa6e61a8960"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "product-grid",
+    "testimonials",
+    "faq",
+    "cart-checkout",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01107",
+  "title": "Fixed Glassmorphism Top Navigation Bar",
+  "summary": "Fixed top navigation bar with glassmorphism style, brand icon, anchor links, and primary call-to-action button. Uses Tailwind-style utility classes, subtle animations, and hover states for modern landing pages or product sites.",
+  "tags": [
+    "menu",
+    "navigation",
+    "navbar",
+    "glassmorphism",
+    "responsive",
+    "sticky",
+    "animated",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3886,
+      "sha256": "528b64bcd8768d7e11ea4e6aef5b7433fcb8e5481e812fcdd3b178a1d1f4f623"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1537,
+      "sha256": "cf3eb783ac242111a6081e6abd68f4de37917923e328e8793cb11270e33b38e6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2512,
+      "sha256": "cd943a493fc09f01fa1714f4ce22637c1f4b9e567e230cbc6deb67b1ec2fcb32"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

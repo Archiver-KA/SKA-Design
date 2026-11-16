@@ -1,0 +1,64 @@
+{
+  "id": "SN-W03372",
+  "title": "Real Estate Public Sale Landing Page Template",
+  "summary": "This reusable template is designed for launching real estate-backed token public sales, featuring wallet integration, countdown, and asset portfolio display.",
+  "tags": [
+    "Landing Page",
+    "Public Sale",
+    "Real Estate",
+    "Crypto Token",
+    "Wallet Connect",
+    "Countdown",
+    "Portfolio",
+    "Pricing",
+    "Features"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3590,
+      "sha256": "b461c6863e73873996a2d2a5e2727b728373bd102e6c89550b10b911bec352cc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10664,
+      "sha256": "51020d8aea2088917685c219bc156c51a1606cbde58d43490e9d0d48be7a47d9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "1520479dd8583d90cb06c57afcc6e16fe5700a4cd42fa9da9e00195381b8ae2b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20960,
+      "sha256": "773725fcc87751567efdb37d4e7637b1812834ee2f9d44bf6df9b5c5b021d5b8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

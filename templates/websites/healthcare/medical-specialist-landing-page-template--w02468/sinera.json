@@ -1,0 +1,62 @@
+{
+  "id": "SN-W02468",
+  "title": "Medical Specialist Landing Page Template",
+  "summary": "A professional and clean healthcare landing page template designed for medical specialists, specifically urologists, to showcase services and book appointments.",
+  "tags": [
+    "Health",
+    "Services",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3642,
+      "sha256": "7cb84846cd05b5cf10d8ea222b3b9a4b281c9226759f5d3c8560235e6a469e7b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19482,
+      "sha256": "b2e28d9deadaf9dbc29df7782a6121c7dd008c0df25faefa813073c3eeb3f3a3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "7c6e09564c939f3237eda533cbac88e363073efa4545b6d5a7297d00da26e6b7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 80193,
+      "sha256": "4b93b723a2cb5ae6b17516b14487d27edbeb171d6a5c5008220fcf5973b28a9a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "faq",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

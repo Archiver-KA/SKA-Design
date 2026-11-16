@@ -1,0 +1,68 @@
+{
+  "id": "SN-W04072",
+  "title": "Recruitomatic Plumbing Pricing Page Template",
+  "summary": "A reusable template for a dark, tiered pricing landing page tailored to plumbing marketing services, perfect for showcasing scalable retainers and clear value tiers.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Technology",
+    "Pricing",
+    "Plumbing"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3695,
+      "sha256": "6a21e4e599bffbeb7392c9237dcea3c7a84f4e821ad64144fe00f495db5b62b2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16638,
+      "sha256": "e63afd5c6ec1a884f317e4df6042878dd35f6bb6258fc3beae5c8f701c675748"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 822,
+      "sha256": "562ef55cbc86413e5bc694a7de0fc583d031577ff57ea271f519a87c053782cf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 54501,
+      "sha256": "50fb42f88430eea6debe28fd1b37ebb7ddc635a538da19020a205d3d23373c39"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "pricing",
+    "stats",
+    "marquee"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

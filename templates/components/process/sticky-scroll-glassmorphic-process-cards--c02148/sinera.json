@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02148",
+  "title": "Sticky Scroll Glassmorphic Process Cards",
+  "summary": "Three responsive cards stacked with sticky scroll behavior and glassmorphism effects (blur, gradient, noise) built with Tailwind CSS. Perfect for highlighting multi-step workflows, timelines, or feature roadmaps on landing pages.",
+  "tags": [
+    "process",
+    "steps",
+    "sticky",
+    "glassmorphism",
+    "scroll",
+    "responsive",
+    "tailwind",
+    "timeline"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13154,
+      "sha256": "618238d45979fc26407643d027a1bc4042a8f2ed3ea3c5466098ba5d20d7ea56"
+    },
+    {
+      "path": "component.html",
+      "bytes": 28032,
+      "sha256": "d1c936249be118f134c2b586bbaf806933916a7dbcb47b3ae7f5ab68403cfafb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28893,
+      "sha256": "5e6dca118c1bcc789bf9479d10e37460ea05a916513c588c66a58f91036668a4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

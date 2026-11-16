@@ -1,0 +1,74 @@
+{
+  "id": "SN-W00031",
+  "title": "AI Agent Privacy Landing Page Template",
+  "summary": "A futuristic landing page template for marketing an AI agent privacy skill or protocol, ideal for showcasing integration steps, features, and licensing.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Large Type",
+    "AI agents",
+    "Web3"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3909,
+      "sha256": "e2ce60bd1feede4d6ad089ce26312415be7c84fa8c50a4418efe6a325037feb8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22382,
+      "sha256": "f70ab061d1409802b355fa834c74285e385d692c27351a520d6ad377f61d94c7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 960,
+      "sha256": "b3461cdcc83549e6031a7ffb6a05e3501dee83edf7ad21119b26be162a807df6"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 506,
+      "sha256": "8efd029f5764ef4e75a8dabe1c39358ef6f6d7319df6017085e8aec3b0b85a76"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32241,
+      "sha256": "bcc4bfb4226a3741656bbd479a12a8271528e07436ebfd7fee96c2f737df420f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "bento-grid",
+    "features",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

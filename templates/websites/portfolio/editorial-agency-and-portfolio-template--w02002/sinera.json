@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02002",
+  "title": "Editorial Agency & Portfolio Template",
+  "summary": "A high-end, minimalist editorial agency template designed for strategic design studios and creative professionals looking to showcase a premium portfolio.",
+  "tags": [
+    "Services",
+    "Portfolio",
+    "Art & Design",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Graphic Design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3711,
+      "sha256": "b72450e99c93776500ebf4c8c2d232dd5d7bf586e08ced940ed897211925e9e8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20492,
+      "sha256": "d62d49aec10bd7b36b17a23cb96024c47881d738621080726a145f8f23df0f3f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "70caae1f461a9af565baad3e323e56dc14662b0613efb00edf1ff758866545aa"
+    },
+    {
+      "path": "index.html",
+      "bytes": 66082,
+      "sha256": "f5096b0dec0f0784be1000e6f6b18124c9e73cc44f6872bbeff605a4116e146a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "faq",
+    "testimonials",
+    "contact-form",
+    "footer",
+    "modal-overlay",
+    "cta"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

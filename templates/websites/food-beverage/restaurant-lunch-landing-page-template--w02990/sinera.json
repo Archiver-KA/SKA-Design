@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02990",
+  "title": "Restaurant Lunch Landing Page Template",
+  "summary": "A reusable restaurant landing page template for showcasing lunch menus, click-and-collect ordering, specials, and location details for busy local diners.",
+  "tags": [
+    "Food",
+    "Landing Page",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Restaurant",
+    "Menu",
+    "Click & Collect",
+    "Local Dining"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3629,
+      "sha256": "d9190a435fb9b204bdb83133e9d3570042995441907e83725709a55fa43af339"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12396,
+      "sha256": "e93af49263f0af2eaedc8cbb26607cc54e6110d4fa76d762f14fef06e18f45c4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "53c46f516fed45846c7b1e090b40ec652aeb1c45f6341269092ec53bf73c504b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24507,
+      "sha256": "ef83138d7fd07b5e7799e329064ad461e400874380fc610f859ad1f71aa6c104"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "menu-list",
+    "cta",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

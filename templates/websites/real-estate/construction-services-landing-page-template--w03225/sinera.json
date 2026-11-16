@@ -1,0 +1,76 @@
+{
+  "id": "SN-W03225",
+  "title": "Construction Services Landing Page Template",
+  "summary": "A reusable landing page template for construction companies offering building services, materials sales, and equipment rental with strong local lead generation.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Technology",
+    "Dark",
+    "Clean",
+    "Large Type",
+    "construction",
+    "equipment rental",
+    "local business"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3721,
+      "sha256": "e1d4e6db55d462d0ee32a52133eec5f758d10d04271381e364eb83fda844faee"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 26970,
+      "sha256": "a4224b0d74fad5f18543f21bc8bed6a3a50ba14c49119b43312e51cd34cc2d03"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 874,
+      "sha256": "939d98edf5ea2b838b5aea5bd725d823fca427d88e957dd21386d9bd2caa2034"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 215,
+      "sha256": "350392889bf7b1e12f84280a9058121b95c3fa86aeb01a824cf3a95edd725685"
+    },
+    {
+      "path": "index.html",
+      "bytes": 63032,
+      "sha256": "fa2c25d28660f23e0d4ac50bd8dd545c0aca9b4123192bd98669c855e5b59243"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "logo-cloud",
+    "features",
+    "bento-grid",
+    "map-location",
+    "faq",
+    "cta",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

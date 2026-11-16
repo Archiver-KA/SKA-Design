@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00851",
+  "title": "Responsive Feature Cards Section with Icons",
+  "summary": "Triad of clickable feature cards with icons, headings and blur-backdrop styling. Built with Tailwind CSS for responsive flex layout and hover states, perfect for showcasing product features, services or CTAs on landing pages.",
+  "tags": [
+    "card",
+    "feature",
+    "icons",
+    "responsive",
+    "tailwind",
+    "glassmorphism",
+    "cta",
+    "link"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10150,
+      "sha256": "8fc171bf3363265c02b29073d28199d0d015eb2faa2fd14ea7a4135449bb467c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4772,
+      "sha256": "f0bcd9ab08057103620fef2c0e719a31c0363c18417b8acfed96ae9d2f3fec63"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5766,
+      "sha256": "f8deee5256dc42000a071c4857aa226caa57b916e4802cebbe8a309fe4e59e4f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

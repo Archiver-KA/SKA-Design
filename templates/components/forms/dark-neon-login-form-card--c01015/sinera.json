@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01015",
+  "title": "Dark Neon Login Form Card",
+  "summary": "A compact sign-in form with social login buttons, email and password fields, password visibility toggle, and sign-up link. Built with Tailwind-style utilities and custom dark neon styling for modern authentication screens.",
+  "tags": [
+    "login",
+    "tailwind",
+    "dark",
+    "neon",
+    "auth",
+    "social-login",
+    "form",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8226,
+      "sha256": "2ea438dc057180e311cf01c893422c1d07c470b75bb6d5f3ef5e49bc0a3ff526"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6134,
+      "sha256": "0a72eb432d3d00782c0eda06ca134172cb171b1d5db158ce87451d0731c2f685"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7070,
+      "sha256": "03d22e52121dd53e3f4e2a5fa53a3e0c9629016d31ecf97c6e6f087cd5d687f0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

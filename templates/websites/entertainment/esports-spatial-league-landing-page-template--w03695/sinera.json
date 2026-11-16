@@ -1,0 +1,75 @@
+{
+  "id": "SN-W03695",
+  "title": "Esports Spatial League Landing Page Template",
+  "summary": "A futuristic esports league landing page template for showcasing matches, partners, and trailers with bold 3D-inspired visuals and cyberpunk styling.",
+  "tags": [
+    "Landing Page",
+    "Entertainment",
+    "Technology",
+    "Futuristic",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3794,
+      "sha256": "adf383f364b38c043629d22918961f85b7c51c274ae3baf0369f7df67a126059"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10878,
+      "sha256": "0a42a635c7a806525342485301dda8fd3465ebae81d0ab1a887cea67b01f7d9c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1072,
+      "sha256": "00a5f7f72f4152c9514b3c37c8a4d19667718977da91fffa1918b8d31819b2df"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 372,
+      "sha256": "b228e4c494109e377f044fe7e2fbb5dbbd1de504a1b2f766d7f583de67d1af34"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27912,
+      "sha256": "5fd4bad06e045eb647a38e2d530812d2f199d658df17a7d87ec9acc857c820a0"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "bento-grid",
+    "video-media",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "SN-W00553",
+  "title": "Mouvmedia",
+  "summary": "A reusable landing page template for digital media agencies and local business marketing services, featuring service showcases, pricing, blog content, and contact sections.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Dark",
+    "Grid",
+    "Minimal",
+    "Large Type",
+    "Blog",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3365,
+      "sha256": "0dbacb3b9500052977cb8c355f8d849ff1b596c341909bda76f5a531d5a7e7ae"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17772,
+      "sha256": "e55bee930b76d63aac80896732deaf0a6dd125aba9fbd2a8799ec73cd9aa2808"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 843,
+      "sha256": "0c5fc4b2cb612ed7d1060c4d211bc5438623aac89af3f3db9bbdba5862aeb997"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 185,
+      "sha256": "791cee1596ac65238be5b53e502c0a5bf03efb00a79ebcfd23d4855d3742b3f7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 48038,
+      "sha256": "b87512efe26ff6336cb713245c361f9e4b16904cccb907c94011f365f116759c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "features",
+    "pricing",
+    "about",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

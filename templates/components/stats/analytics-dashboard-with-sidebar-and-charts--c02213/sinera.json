@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02213",
+  "title": "Analytics Dashboard with Sidebar and Charts",
+  "summary": "A dark-mode admin dashboard UI with responsive sidebar navigation, top search bar, KPI cards, chart panels, transaction table, and animated WebGL background. Built with Tailwind CSS and suited for SaaS, analytics, or internal platform interfaces.",
+  "tags": [
+    "ui",
+    "dashboard",
+    "tailwind",
+    "responsive",
+    "dark",
+    "analytics",
+    "sidebar",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21084,
+      "sha256": "c006c5c695a3c6fb58ea33d1962351c0ddc6ae85543fb7edf6c33418984eeae0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 15931,
+      "sha256": "88a1532d09b863a0c193b71cf281530119c38cc4a37023a73de763e3fcbf1e6f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16795,
+      "sha256": "6ba4c97631ae8bab149d4c722fb36f9c5730efb671cfc93d4245673f861c4602"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

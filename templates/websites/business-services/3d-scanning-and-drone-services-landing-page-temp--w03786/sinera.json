@@ -1,0 +1,69 @@
+{
+  "id": "SN-W03786",
+  "title": "3D Scanning and Drone Services Landing Page Template",
+  "summary": "A high-end, futuristic landing page template designed for 3D scanning, Matterport digital twins, and professional drone services in real estate and industry.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Real Estate",
+    "Services",
+    "Dark",
+    "Futuristic",
+    "Clean",
+    "3D",
+    "Animated",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3628,
+      "sha256": "3f69592c56df8a37554431245981cd6e0d7e446bd53bbe41012274c027a1c7d7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 25116,
+      "sha256": "a03ff20538c147538c86b133db9093918d4132a375cfd4a6e4ffa4de09931194"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 747,
+      "sha256": "beb27c4c2554362244990c25fea9f93c6d3092ac06835e31e1ee2ea7e7c086c5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 55245,
+      "sha256": "39a3f081fd4fd9ed5053ccfea289e08403eb1c3aff0435fc9eb9dde7097ba575"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "features",
+    "bento-grid",
+    "testimonials",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

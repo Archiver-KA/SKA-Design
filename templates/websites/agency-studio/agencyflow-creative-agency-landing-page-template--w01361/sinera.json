@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01361",
+  "title": "AgencyFlow Creative Agency Landing Page Template",
+  "summary": "A modern AgencyFlow landing page template for design, branding, and performance marketing agencies to showcase services, case studies, and FAQs.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Services",
+    "Art & Design",
+    "Portfolio",
+    "Minimal",
+    "Clean",
+    "Large Type",
+    "Gradient",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3576,
+      "sha256": "18f2a22752d49640b24705f7f52a50efa0965c65c230320e57887ea09abc098c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11094,
+      "sha256": "f3adf03e9e1e6fe07e76607a8507cc2fa9ac893a2d9700442e61d1ca6cd64bf9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 886,
+      "sha256": "7b3b4c32f1e3457c7e629bc89363dd22f5175d5813785b2e61e17f0e8f5be554"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 452,
+      "sha256": "5b5ee26b53b3a6bc18b6a41cf279de70b41cd125afe26767ee0552621becf23c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23074,
+      "sha256": "5cd56363221473cdcee03a69780af605a0c31006581fa8ef4f237d8d7a48bd88"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "how-it-works",
+    "gallery-portfolio",
+    "stats",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

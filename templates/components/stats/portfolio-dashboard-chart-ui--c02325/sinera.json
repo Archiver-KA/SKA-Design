@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02325",
+  "title": "Portfolio Dashboard Chart UI",
+  "summary": "A polished financial dashboard card featuring portfolio balance details, timeframe filters, action buttons, and an animated candlestick chart. Built with Tailwind-style utility classes and suited for trading, fintech, or analytics interfaces.",
+  "tags": [
+    "ui",
+    "dashboard",
+    "finance",
+    "chart",
+    "tailwind",
+    "animated",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12372,
+      "sha256": "f411e544211688e1bc49f5bc3bf5330daac54ea67c7e1e43c9c4bab15ffd3f12"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11792,
+      "sha256": "64bd159d78fccaf1fd71426a03f45a4d70eee6867a1df8a4ace1c1dde7920a2b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12641,
+      "sha256": "eea7e65a345c3e1abcdd4faf0aba85f015dd528a810f510a0d480d08146b0d46"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

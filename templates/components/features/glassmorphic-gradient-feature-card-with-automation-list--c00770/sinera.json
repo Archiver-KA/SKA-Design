@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00770",
+  "title": "Glassmorphic Gradient Feature Card with Automation List",
+  "summary": "Stylish glassmorphic card built with Tailwind CSS. Presents an automation list with icons, status badges, and a CTA link inside a gradient panel that gains glow and depth on hover. Perfect for landing pages, dashboards, or feature highlights.",
+  "tags": [
+    "card",
+    "feature",
+    "tailwind",
+    "gradient",
+    "glassmorphism",
+    "hover",
+    "responsive",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9692,
+      "sha256": "47db1747934a6f9ee4de4e3a2957e51e017eb332a619d49e18031fbbd1229c33"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5070,
+      "sha256": "dd00abe8f612ab1a60c98ffbf80c0ed70ffe15c5d6196b843e0268183b78c0bb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6076,
+      "sha256": "a803b90d1aeaf9cd7fc255352b5c957e0e1db890389b9d9e0a4ad9c697f17108"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

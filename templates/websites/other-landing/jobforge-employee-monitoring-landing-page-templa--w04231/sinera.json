@@ -1,0 +1,73 @@
+{
+  "id": "SN-W04231",
+  "title": "JobForge Employee Monitoring Landing Page Template",
+  "summary": "A reusable landing page template designed to create an effective employee monitoring infrastructure and streamline job management for organizations.",
+  "tags": [
+    "Landing Page",
+    "Employee Monitoring",
+    "Job Listings",
+    "UI/UX Design",
+    "Case Studies",
+    "Testimonials",
+    "Salary Insights",
+    "Registration",
+    "Search"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3633,
+      "sha256": "aad94a611477a7ec5649644591994e29021284f22227a8186431a42ec296b06d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17748,
+      "sha256": "955b8a0e0a0877f758c1d29c72adcf0258da8663c4314c58307b6e216d408df7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 889,
+      "sha256": "591b661459f1615ef9f72b56b2c54a256d7888197f4736180659a29ce50d8f52"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 553,
+      "sha256": "245d11adf9dd894d3c37c6db1f41390218c47382ecf25af2724f9482c277f5ad"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32068,
+      "sha256": "4057b41b325a69a80063b2e0ce3d44523e30ea5ffcf3b3fc284afa6c35002399"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "cta",
+    "features",
+    "stats",
+    "auth-form",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

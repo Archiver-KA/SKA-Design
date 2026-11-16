@@ -1,0 +1,64 @@
+{
+  "id": "SN-W00390",
+  "title": "Flowdesk SaaS Landing Page Template",
+  "summary": "A professional dark-themed workspace template for remote teams to organize tasks and collaborate in real-time.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Dark",
+    "Clean",
+    "Futuristic",
+    "Services",
+    "Professional"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3679,
+      "sha256": "fa5f7b3faed0bc32c913ee1e51e4ebc0dca6423b657b4ca8486bb7c0bc3b4419"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12256,
+      "sha256": "bddb165fc475cc4ad92086742ce6d13f025a4ee4f9ff09d3e735880c17208aea"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "c424326a64e38367f156b8458b882569d78bb9e83f91a455c302d5309077721c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18138,
+      "sha256": "757cbb94dec7c32a65c19d984ea0bc746ba7774ba2d13acdf0b3d31f4e1e1544"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "features",
+    "product-grid",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01109",
+  "title": "Fixed Navigation Bar with Menu Toggle",
+  "summary": "Fixed top navigation bar with brand logo and a menu toggle button. Uses Tailwind-style utility classes, supports dark mode, blur and border effects, and is suitable for landing pages or app headers.",
+  "tags": [
+    "menu",
+    "navigation",
+    "header",
+    "responsive",
+    "interactive",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1944,
+      "sha256": "24a04fd6734a87b554b24631465dd4c904501634b96b2e46835ba260e1c400bf"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1421,
+      "sha256": "4636ca7b63c08444bc82b2d328208e53963ec2232b405dda8de28382d8494732"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2385,
+      "sha256": "9691fd0a29ca6b511dc0f71748efdc51542b214ed2fee7292a34664f8f2e8285"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01717",
+  "title": "Logo Link Component",
+  "summary": "A simple logo link component that redirects to a logo image URL. Useful for headers, footers, or brand sections where logo needs to be clickable.",
+  "tags": [
+    "logo",
+    "link",
+    "button",
+    "brand",
+    "navigation",
+    "modern",
+    "responsive",
+    "shadow"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1214,
+      "sha256": "3940f8413419470fa423ac1c46663df596ace9fde1d8fc1e556175a7b46d27e3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 800,
+      "sha256": "fb009c99e93948494cd103ad7ad7c4cb9bb0f4d2a72c868e05dbbb62d5207c53"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1640,
+      "sha256": "89db02c4fb93fec17087b7eae142fbc690a770980e9c07a746541859dc3e2556"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

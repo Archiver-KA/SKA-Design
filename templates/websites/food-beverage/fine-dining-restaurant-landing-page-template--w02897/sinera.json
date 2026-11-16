@@ -1,0 +1,71 @@
+{
+  "id": "SN-W02897",
+  "title": "Fine Dining Restaurant Landing Page Template",
+  "summary": "A refined restaurant website template for showcasing menus, events, private dining, galleries, and reservations with a premium hospitality feel.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Services",
+    "Dark",
+    "Elegant",
+    "Minimal",
+    "Restaurant",
+    "Fine Dining",
+    "Hospitality"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3819,
+      "sha256": "80722e8dd8d6c6dc1ef4c858f59172e7b6aa1417b8669fa0938724426c4cf9e3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18762,
+      "sha256": "ae2b72ea6873e11db63c50ef50fab343903b6c3fe06b2f985b40ac82e63b2c2d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 741,
+      "sha256": "dea003f883936136662e08452831fea31892ea4c830ce1e0d89f25f6f3dcb10b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 47786,
+      "sha256": "b12595432db3f1d5592eff1960b96b339667652ec2581800a37614d5f7b79aa4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "awards-press",
+    "about",
+    "timeline",
+    "menu-list",
+    "gallery-portfolio",
+    "testimonials",
+    "booking",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,18 @@
+<svg viewBox="0 0 100 100" class="w-full h-full animate-spin-slow absolute inset-0" style="animation-duration: 20s;">
+                                        <!-- Central Node -->
+                                        <circle cx="50" cy="50" r="8" fill="#171717" stroke="#8b5cf6" stroke-width="2" />
+                                        
+                                        <!-- Orbiting Nodes -->
+                                        <g class="animate-pulse" style="animation-duration: 3s;">
+                                            <circle cx="50" cy="15" r="4" fill="#06b6d4" />
+                                            <line x1="50" y1="20" x2="50" y2="42" stroke="#333" stroke-dasharray="2 2" />
+                                        </g>
+                                        <g style="transform-origin: 50px 50px; transform: rotate(120deg);">
+                                            <circle cx="50" cy="15" r="4" fill="#a78bfa" />
+                                            <line x1="50" y1="20" x2="50" y2="42" stroke="#333" stroke-dasharray="2 2" />
+                                        </g>
+                                        <g style="transform-origin: 50px 50px; transform: rotate(240deg);">
+                                            <circle cx="50" cy="15" r="4" fill="#22d3ee" />
+                                            <line x1="50" y1="20" x2="50" y2="42" stroke="#333" stroke-dasharray="2 2" />
+                                        </g>
+                                    </svg>

@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02881",
+  "title": "Culinary Food Delivery Landing Page Template",
+  "summary": "A reusable landing page template designed for chef-curated meal kit delivery services, showcasing menus, sourcing, and subscription options.",
+  "tags": [
+    "Landing Page",
+    "Food Delivery",
+    "Meal Kits",
+    "Menu",
+    "Subscription",
+    "Organic",
+    "Chef Recipes",
+    "Features",
+    "Pricing",
+    "CTA"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3661,
+      "sha256": "64b33c503ff099ced5ac2f3fffd0cdef0358a820730f5ab5f750bd8bc529caa1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11500,
+      "sha256": "d0013ecf501ca7d0abbecc65941ea77ed090aaedf9efb90fb8c225f0994e7b1a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 744,
+      "sha256": "dce307718d228b97720b35ed77c0ac0155f80643cf36d264a18c2f6be5fa220d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24615,
+      "sha256": "95438327e5e9e89d489cfee5dc1fed0d63ce7bb994495106357757b349b3a7ad"
+    }
+  ],
+  "collection": "logistics",
+  "collectionCategory": "shipping",
+  "collectionLabel": "Logistics",
+  "collectionCategoryLabel": "Shipping / Delivery",
+  "collectionConfidence": 0.88,
+  "collectionBasis": "business-keywords",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "cta",
+    "menu-list",
+    "features",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

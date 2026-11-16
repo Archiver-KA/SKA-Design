@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01806",
+  "title": "Architecture Studio Portfolio Landing Page Template",
+  "summary": "A clean, minimal architecture studio portfolio landing page template for showcasing residential and commercial projects and capturing new client inquiries.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Minimal",
+    "Clean",
+    "Large Type",
+    "Brand",
+    "Services",
+    "Architecture",
+    "Interior Design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3430,
+      "sha256": "6c0155b861b0766d86b744065f8ea23a51d77aa601ea1a13ccc6ea9ef1e46be2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12102,
+      "sha256": "c2389e234a3004fa0688b341517e8f943e0f09b20ec041fb878c4f05da4fb6cc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 739,
+      "sha256": "e9c91616d82865fe5ffe0fcac6d1157ec67937b32f00aa8cf1df04d7be5f846f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23842,
+      "sha256": "2d661ec4ef9e780834a4bfdd92cf910ae8462858edb44d79c8582fbf913f7505"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "auth-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

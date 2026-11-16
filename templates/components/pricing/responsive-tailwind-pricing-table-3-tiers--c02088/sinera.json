@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02088",
+  "title": "Responsive Tailwind Pricing Table (3 Tiers)",
+  "summary": "Three-tier pricing section built with Tailwind CSS. Displays Free, Studio, and Team cards with feature lists, SVG check icons, highlighted popular plan, and CTA buttons. Fully responsive grid for SaaS or product landing pages.",
+  "tags": [
+    "pricing",
+    "table",
+    "responsive",
+    "tailwind",
+    "saas",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18934,
+      "sha256": "9050bdfed4ee6734326a0a51289b23be76b433d43097a536ec62e89dc4e22a86"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7367,
+      "sha256": "f15afc5f5054f3c1991f52eed1f89e247ba82a0ce57ef1e12c4bd1f0a8859ce0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8361,
+      "sha256": "fa08ebbcef62416b5b62127403a898d6c4ded7ceeb5cf6d5f41f0a4a88698cdf"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

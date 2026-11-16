@@ -1,0 +1,70 @@
+{
+  "id": "SN-W03229",
+  "title": "Custom Furniture Studio Landing Page Template",
+  "summary": "Elegant landing page template for custom furniture and interior studios to showcase services, portfolio, testimonials, and capture project inquiries.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Interior Design",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3796,
+      "sha256": "7ab1666502c3fdb3a40fc56970962cceca45b18b96b706a31f132352e020ecd3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14040,
+      "sha256": "dc77565e96c3332a27c63d15e53232bf3b072caad6b7abd5525b8eeef1d25e26"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 875,
+      "sha256": "072ea45170874e14d7e23a03640dc5cdbd29390925bf33a69a1764f6b98a28e2"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 45582,
+      "sha256": "93b1c6278b0d3c38871900304efdac902906188a07b36699257559b91cbfe02c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "gallery-portfolio",
+    "contact-form",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

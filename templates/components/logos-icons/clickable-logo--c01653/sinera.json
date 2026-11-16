@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01653",
+  "title": "Clickable Logo",
+  "summary": "A clickable logo component using an anchor tag and image, styled with flexbox and Tailwind classes. Ideal for brand navigation elements in headers, navbars, or footers, linking users back to the homepage or key sections.",
+  "tags": [
+    "card",
+    "logo",
+    "image",
+    "anchor",
+    "navigation",
+    "tailwind",
+    "button",
+    "navbar",
+    "input"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2754,
+      "sha256": "a85ce88b98af5750ff6ddd35799ad13e07381a72bdf6029635c66158740bdb39"
+    },
+    {
+      "path": "component.html",
+      "bytes": 288,
+      "sha256": "bf899762ee5685b5e7a6022adc19bafe6ddae508649b0b2045a4284cb0b2f64a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1128,
+      "sha256": "419d119ac4a849ac441334669715b99687d375284ab13606c2d50e12bd4ea115"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

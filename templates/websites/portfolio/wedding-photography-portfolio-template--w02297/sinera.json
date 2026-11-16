@@ -1,0 +1,64 @@
+{
+  "id": "SN-W02297",
+  "title": "Wedding Photography Portfolio Template",
+  "summary": "A cinematic photography template for wedding, elopement, and couples creatives to showcase portfolios, services, testimonials, and booking calls to action.",
+  "tags": [
+    "Portfolio",
+    "Landing Page",
+    "Photography",
+    "Wedding",
+    "Artist",
+    "Minimal",
+    "Clean",
+    "Editorial",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3069,
+      "sha256": "4d4c04ccad176c6e7646092f324a09cf31f715cf8cc99ca7ab4ffcd3c5c8f335"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 27050,
+      "sha256": "99b7e0057060d193da856ba217ef2fcc1212a25634427adea19684b4444d5e7e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "1668990acd8921f3e28cdf3720b1fc58f0ccaa3bd86ef5b0a70d379302b96c6d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19602,
+      "sha256": "b9aee058825077910cd86ef0f21ffd0e5759bcf139c58f6d6881b3c7678c2ef3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "cta",
+    "services",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

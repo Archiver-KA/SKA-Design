@@ -1,0 +1,100 @@
+{
+  "id": "SN-W04279",
+  "title": "Responsive Website Header and Hero",
+  "summary": "HTML code for a responsive website header with contact info, menu buttons, and a hero section featuring a large headline.",
+  "tags": [
+    "Header",
+    "Hero",
+    "Responsive",
+    "Tailwind CSS",
+    "SVG Icons",
+    "Typography"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3388,
+      "sha256": "75bce6437dabf0e28c03fac154b0b970085324d1f1e485f126afc08692a2ed5b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12640,
+      "sha256": "0ba19402bc3863e0912c81362e2171d90025753814c58b3cb3bb97ee731803b8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2271,
+      "sha256": "bcb67bfe32960622fb5000eee5599d07ec38ec9cf991f511c100fa5c6bc97fef"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 558,
+      "sha256": "e56e2e7ff7dc9bbd9c9be290b5be2abedeeb8d9e174b6ec960fd6ba8a6ba62a3"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 318,
+      "sha256": "ec7db5f3528878460dad9922915ede2fbb2263e2a0b3ef481213d61bca772f19"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 318,
+      "sha256": "344f1ee4bd0d261b195c14b5723c55143d4fc8a6862c7ac290bbe682ecfbe5a4"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 312,
+      "sha256": "50c3c62696d5cf460e1afdddb1355229678e2ad29a00c57815cb9c414fccab3e"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 312,
+      "sha256": "aa0813193696564f6869b210382e71d660426ac07d8d8ff8f70a41b1e10f9f7f"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 580,
+      "sha256": "f7d04136f0e54e01311946a4b720ef451af2187c404093c81b1bbe0bb9403cc8"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 442,
+      "sha256": "333b28a27abde4902b880eca84e1768972b1243eba9b25c45b41505d1173764c"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 494,
+      "sha256": "d4f8a8143e320a3831be27c982ccb47fa9b5ac7c37b56bf283754db642b1706c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19520,
+      "sha256": "de5af28350b34a1d6c71d84260aa9f87dfbbbc863d3d77ee11654fa391ac9012"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "product-grid",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

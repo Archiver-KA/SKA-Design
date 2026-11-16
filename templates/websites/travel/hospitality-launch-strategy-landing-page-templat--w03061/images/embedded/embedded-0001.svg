@@ -1,0 +1,13 @@
+<svg class="absolute inset-0 w-full h-full opacity-30 pointer-events-none" viewBox="0 0 1000 600" preserveAspectRatio="none">
+                    <!-- Base Line -->
+                    <line x1="0" y1="300" x2="1000" y2="300" stroke="#141414" stroke-width="1"></line>
+                    <!-- Frequency Waves representing Energy -->
+                    <path d="M0,300 Q200,300 300,300 T400,300 T500,200 T600,100 T800,50 T1000,50" stroke="#DC2626" stroke-width="2" fill="none"></path>
+                    
+                    <!-- Time Markers -->
+                    <line x1="300" y1="280" x2="300" y2="320" stroke="#141414" stroke-width="1"></line> <!-- 7:30 -->
+                    <line x1="500" y1="250" x2="500" y2="350" stroke="#141414" stroke-width="2"></line> <!-- 8:30 -->
+                    
+                    <text x="300" y="340" font-family="Manrope" font-size="12" fill="#141414" text-anchor="middle">ARRIVAL 7:30</text>
+                    <text x="500" y="380" font-family="Manrope" font-size="14" font-weight="bold" fill="#DC2626" text-anchor="middle">THE SHIFT 8:30</text>
+                </svg>

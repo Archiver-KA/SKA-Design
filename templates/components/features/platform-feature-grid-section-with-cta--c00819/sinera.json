@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00819",
+  "title": "Platform Feature Grid Section with CTA",
+  "summary": "Responsive tailwind section highlighting platform features via three interactive cards (Revenue, Collaboration, AI Insights) with badges, icons, and hover effects, followed by a call-to-action banner. Ideal for SaaS landing pages or product overviews.",
+  "tags": [
+    "feature section",
+    "card grid",
+    "cta",
+    "landing page",
+    "responsive",
+    "tailwind",
+    "hover",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 32476,
+      "sha256": "7996363a86736692163d01faaad82b89bcacdab6a21422a48c0397e00d4facfe"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10939,
+      "sha256": "9b2a962c8a540211ef7ff1e307a998985f92808fbb8fde6cc5813da4e6f681c0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11928,
+      "sha256": "a38621fdca751e1845a00747c53a1691b98989cae56f6bc1b44df122b66e5f35"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "SN-W03763",
+  "title": "Documentation Layout with Sidebar Menu",
+  "summary": "Responsive documentation page with sidebar navigation, code examples, and theming using Tailwind CSS and custom fonts.",
+  "tags": [
+    "Documentation",
+    "Sidebar",
+    "Tailwind CSS",
+    "Responsive",
+    "Code Examples",
+    "Navigation"
+  ],
+  "kind": "websites",
+  "category": "news-blog",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3136,
+      "sha256": "d6d9d3ed6ac9d1d2eaa44ff37a8bccd9e1198fda7dedeea05615103bdaeda853"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12502,
+      "sha256": "e3a7886dfc87d606ce834a23bbcf852e776a84595b9a9b6aa03b3169295bd66c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2047,
+      "sha256": "bb0165d58930c7de095720df4cff0d270f738f0b775c4cd12ed521cd895d0b03"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 337,
+      "sha256": "9e11b996a676f7b1dc4923737008ff2669f32b4c8209bcfd16bd0bae75cfa72f"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 231,
+      "sha256": "dd33c12908486254dda11de2598e63ef09abc1feb7ac9725f9f53dc0d403a759"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 241,
+      "sha256": "27a4e3b1729fa89910a7f517a10c2052c055646d033a3109b91210f547f012f2"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 345,
+      "sha256": "4fa6a214f82d1601a27e27fdcd57752eecba7335b780fac5645c8e86b8c676bc"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 224,
+      "sha256": "743359eb0cc36a2eacc12e5c4925c3912d03bc3b0569aa77dd458e616adc36c5"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 231,
+      "sha256": "0a76e0f01ad6375628e39cf3027c96885955dd3ea8dd2347588816d8f4f1e61a"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 210,
+      "sha256": "2d70908d6dbf7e2c7e77f5364ba00d6a3100ecad26e17e691e6bbf8ba22ea0fb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7952,
+      "sha256": "1250652dcd5253af3ec9d887a74a17c97a3a7a91a10071e73a2c0ddc5c5a56ad"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "content",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Content / News",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "sidebar",
+  "design": "DESIGN.md"
+}

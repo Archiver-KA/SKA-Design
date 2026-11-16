@@ -1,0 +1,60 @@
+{
+  "id": "SN-W00126",
+  "title": "AI Platform Landing Page UI",
+  "summary": "Responsive landing page with hero section, animated glass cards, and neural network visuals using Tailwind CSS and Font Awesome icons.",
+  "tags": [
+    "Hero",
+    "Glassmorphism",
+    "Animation",
+    "Tailwind CSS",
+    "Responsive",
+    "Neural Network",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2823,
+      "sha256": "b19706d4dab29ed6505b0c8b467b143da134e41a1af51aae03a55d3342dc05a6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 24860,
+      "sha256": "760b9ef3a283a2d1a56f191c904fe26267feb2e4b3fb51384645f9c7a45457bb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 721,
+      "sha256": "51dfa59807725211f6ab0ac33e1b1edaa485677ac918b1b1d13ebdb4a607d846"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14183,
+      "sha256": "d4cdd888b11b3787319ce3e34ab81441822ab19085bf3c1a25332dbd096f7af8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

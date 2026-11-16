@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01764",
+  "title": "Scalable White SVG Logo",
+  "summary": "SVG component rendering a white, clip-pathed logo at 120×36px. Ideal for responsive headers, footers, or dark-theme backgrounds where a crisp, infinitely scalable brand mark is required.",
+  "tags": [
+    "svg",
+    "logo",
+    "icon",
+    "vector",
+    "responsive",
+    "graphic",
+    "dark-mode"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2976,
+      "sha256": "00f4777d50d8a18f117cb2d7be8008e74095363f1f3de0df64f389f20a3970d7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12202,
+      "sha256": "ba83f3c188d6a641bdcf7c253c415f482cdd963fcec6e6b6d06aacc7e168b4e0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13046,
+      "sha256": "aac2ea5e06141dbfcc3956e2f1a896d68b9109453d1a2bf47fdfad3865a806e8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

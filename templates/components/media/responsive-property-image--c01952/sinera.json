@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01952",
+  "title": "Responsive Property Image",
+  "summary": "Simple image component for displaying a property or listing photo with accessible alt text support. Suitable for galleries, cards, hero areas, or property detail pages.",
+  "tags": [
+    "card",
+    "image",
+    "media",
+    "responsive",
+    "minimal",
+    "html"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20526,
+      "sha256": "2077f7ee2b140b3dcfe4c13786470823f0bf7e55bb0e7ef1379f29d6bbdabc32"
+    },
+    {
+      "path": "component.html",
+      "bytes": 100,
+      "sha256": "d093bbbb316a226f785cff1e2f2ed1d23b07f4fdb0809c1a7785e7a3f7df3870"
+    },
+    {
+      "path": "index.html",
+      "bytes": 946,
+      "sha256": "a2dc78b7cd70f272ad51ab712008f23db25fc8f6230e7d70ce379f0388e46e72"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

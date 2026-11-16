@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01553",
+  "title": "Interactive Experiments Showcase Section",
+  "summary": "A full-width dark-themed section presenting R&D experiments in animated cards with hover effects, scan-line accents, and responsive grid layout. Built with Tailwind CSS, ideal for portfolios, labs, or tech product showcases.",
+  "tags": [
+    "feature",
+    "section",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "animated",
+    "portfolio"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18448,
+      "sha256": "c1c2fef3c6ab78183bb6cd28a89381c66ede6b553782533d55ff861db69d8365"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7101,
+      "sha256": "f5b7fe4fe9aa327d4e428c9d5dc3a073f05df98860cc3815b1cd6cdf1e74b5e3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8052,
+      "sha256": "446832d79ae3206405a1ce445112ccd6de059d460bba72cff9eb38e5dd260cee"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

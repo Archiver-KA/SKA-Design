@@ -1,0 +1,89 @@
+{
+  "id": "SN-W01634",
+  "title": "Marketing Agency Collective Landing Page Template",
+  "summary": "A reusable landing page template for marketing collectives, agencies, and growth consultancies showcasing data, automation, SEO, and CRM services.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Animated",
+    "Gradient",
+    "agency",
+    "marketing"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3700,
+      "sha256": "61a74c99fb8026d384d5258734ac76395f27e9a85f993dca99adcc1828b56421"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15174,
+      "sha256": "c613d4bbb4a46c8e620eb269317d27b450d0424e0e6ed85a935f344bdd787f22"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1557,
+      "sha256": "e795dc5902de7676d7dcea335fa0fae0d111c8e4f5c0bd9e12704e192224144a"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 524,
+      "sha256": "567a8ff3a5504feca839cffb8ed9f4d859075aa038ed11687006f8d5ffcb3088"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 573,
+      "sha256": "5dec8d17be4774081f86d6626f1a2bad3dff19397f14cd81c0990771202d91ea"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 567,
+      "sha256": "b49e8c21b68210595ae55a7404b3b8f96df1e6d1bdbd434f31662cac417a169d"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 509,
+      "sha256": "8d9ced638b876b1a657721ffe7ebf64eda15c0187f0ed50bb565bc8feb64620f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 60424,
+      "sha256": "701e812c5fbab6edef05430a826671deb8afcac35539a29b0862719e288239e7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "hero",
+    "navbar",
+    "bento-grid",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

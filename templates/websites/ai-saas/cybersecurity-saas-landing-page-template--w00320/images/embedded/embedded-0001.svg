@@ -1,0 +1,16 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none">
+        <defs>
+            <linearGradient id="attack-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#ef4444" stop-opacity="0"></stop>
+                <stop offset="50%" stop-color="#ef4444" stop-opacity="1"></stop>
+                <stop offset="100%" stop-color="#ef4444" stop-opacity="0"></stop>
+            </linearGradient>
+        </defs>
+        <!-- Animated Attack Vector -->
+        <path d="M 800 175 Q 500 -50 200 150" fill="none" stroke="url(#attack-grad)" stroke-width="1.5" stroke-dasharray="100 100" stroke-linecap="round" class="opacity-80">
+            <animate attributeName="stroke-dashoffset" from="200" to="-200" dur="2s" repeatCount="indefinite"></animate>
+        </path>
+        <!-- Passive Connections -->
+        <path d="M 500 125 Q 350 300 280 325" fill="none" stroke="#6366f1" stroke-width="1" stroke-dasharray="4 4" opacity="0.2"></path>
+        <path d="M 200 150 Q 350 135 500 125" fill="none" stroke="#6366f1" stroke-width="1" stroke-dasharray="4 4" opacity="0.2"></path>
+    </svg>

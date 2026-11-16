@@ -1,0 +1,78 @@
+{
+  "id": "SN-W03777",
+  "title": "Responsive Website Footer Layout",
+  "summary": "HTML and Tailwind CSS code for a responsive footer with navigation links, social icons, newsletter subscription, and legal links.",
+  "tags": [
+    "Footer",
+    "Responsive",
+    "Tailwind CSS",
+    "Newsletter",
+    "Navigation",
+    "Social Icons"
+  ],
+  "kind": "websites",
+  "category": "news-blog",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3169,
+      "sha256": "dca0289527b4127aaed7597b2b2ef1cef7d4a4abe50e65c8f440de9d113827fd"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11704,
+      "sha256": "a2fd30c56a5b0535e8543940a5b2e768bc82340057bb15fa4b52fffcbfae9409"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1453,
+      "sha256": "7c9ca2dba2e2801a33e20d57a07b267baa57e78e1c3de44951d73e9d16fa30b8"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 253,
+      "sha256": "9207129bf968440ea83b91f7960e223e435e64ddf16a55bfe21291b01977f2e0"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 623,
+      "sha256": "50334852162402e93578855b5a2c8c7a196412e9c5f09c372c629a35bd454d93"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 830,
+      "sha256": "39ebed36ea90689694ff2f42d824fb392b362fe35dd4aae5dbd3a4db5ba24391"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 440,
+      "sha256": "ecd6ca1dc9bd4945da80795a53780a19a4b8e0212f96be49c80d8043206abcce"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7763,
+      "sha256": "35bf56dc388ae63e1eda9067de1e146f539a117b368baa095c8c88a53e4abb79"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "content",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Content / News",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "footer",
+  "design": "DESIGN.md"
+}

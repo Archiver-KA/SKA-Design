@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02363",
+  "title": "Trading Dashboard Card with Real-Time Market Data",
+  "summary": "Interactive Tailwind CSS card displaying live stock chart, watchlist, and mobile preview. Features hover shadow, gradient background, and responsive layout—ideal for fintech dashboards, market data widgets, or trading platform promos.",
+  "tags": [
+    "card",
+    "dashboard",
+    "tailwind",
+    "chart",
+    "finance",
+    "responsive",
+    "hover",
+    "widget"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8840,
+      "sha256": "38cc1ae539a930d5f51736ad6d376b503cbf77a069d59832bd5b6ad9d9fa1fa4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6945,
+      "sha256": "476bf32093c71f9567eb3933833b3466162a2ea71e322788507a236d372a8031"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7945,
+      "sha256": "68d198b0f00bbee8f3c93a00cef50ead2ffe6c1b3fde19a5b874bb868456303d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SN-W03316",
+  "title": "Minimal Architecture Studio Landing Page Template",
+  "summary": "A refined architecture studio landing page template for showcasing premium minimalist projects, philosophy, and services with a gallery-driven layout.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Art & Design",
+    "Portfolio",
+    "Minimal",
+    "Clean",
+    "Large Type",
+    "Architecture studio template",
+    "Interior design template"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3224,
+      "sha256": "b4e948936e53e5c1a640ed6b0fd90f76f8ef51a3bbe1d0268b8f566082fc6a4d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10450,
+      "sha256": "47478bfb3b84b5d928eb2d565bf1a814932fdf82e48adc146338839795923e14"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 739,
+      "sha256": "5da12fbf28fe7c0493f4f3dd1841539001122227cebbb7ea2ac87c75a42182e0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15299,
+      "sha256": "2b9e63f8873a8539f430dce1bea77a32f27a328621d5193650184b2f6e5a2527"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "services",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

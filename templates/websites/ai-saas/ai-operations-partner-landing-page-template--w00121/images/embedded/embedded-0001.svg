@@ -1,0 +1,67 @@
+<svg
+                width="40"
+                height="40"
+                viewBox="0 0 100 100"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                class="group-hover:scale-105 transition-transform duration-300"
+              >
+                <defs>
+                  <linearGradient
+                    id="gradTop"
+                    x1="0"
+                    y1="1"
+                    x2="1"
+                    y2="0"
+                    gradientUnits="userSpaceOnUse"
+                  >
+                    <stop offset="0%" stop-color="#1e40af"></stop>
+                    <!-- Blue 800 -->
+                    <stop offset="100%" stop-color="#38bdf8"></stop>
+                    <!-- Sky 400 -->
+                  </linearGradient>
+                  <linearGradient
+                    id="gradBottom"
+                    x1="0"
+                    y1="0.5"
+                    x2="1"
+                    y2="0.5"
+                    gradientUnits="userSpaceOnUse"
+                  >
+                    <stop offset="0%" stop-color="#1e3a8a"></stop>
+                    <!-- Blue 900 -->
+                    <stop offset="40%" stop-color="#0ea5e9"></stop>
+                    <!-- Sky 500 -->
+                    <stop offset="100%" stop-color="#10b981"></stop>
+                    <!-- Emerald 500 -->
+                  </linearGradient>
+                  <linearGradient
+                    id="gradRight"
+                    x1="0.5"
+                    y1="1"
+                    x2="0.8"
+                    y2="0"
+                    gradientUnits="userSpaceOnUse"
+                  >
+                    <stop offset="0%" stop-color="#10b981"></stop>
+                    <!-- Emerald 500 -->
+                    <stop offset="100%" stop-color="#4ade80"></stop>
+                    <!-- Green 400 -->
+                  </linearGradient>
+                </defs>
+                <!-- Top Shape (Blue Stone) -->
+                <path
+                  d="M40 38 C38 25 45 15 60 12 C72 10 80 20 82 30 C84 42 75 48 62 48 C50 48 42 45 40 38 Z"
+                  fill="url(#gradTop)"
+                ></path>
+                <!-- Bottom Shape (Blue-Green Bean) -->
+                <path
+                  d="M15 65 C12 52 35 48 50 50 C65 52 72 65 68 78 C64 88 45 92 30 88 C15 84 16 70 15 65 Z"
+                  fill="url(#gradBottom)"
+                ></path>
+                <!-- Right Shape (Green Blade) -->
+                <path
+                  d="M72 82 C78 60 88 25 95 8 C88 28 80 50 70 75 C68 80 70 84 72 82 Z"
+                  fill="url(#gradRight)"
+                ></path>
+              </svg>

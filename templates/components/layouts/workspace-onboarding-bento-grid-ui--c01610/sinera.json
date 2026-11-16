@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01610",
+  "title": "Workspace Onboarding Bento Grid UI",
+  "summary": "Dark Tailwind-powered onboarding dashboard wrapped in a browser mockup. Includes step progress, header, and responsive bento grid of action cards (templates, invite, tools, themes, import) with CTAs—ideal for SaaS workspace setup flows.",
+  "tags": [
+    "onboarding",
+    "dashboard",
+    "bento",
+    "tailwind",
+    "progress",
+    "responsive",
+    "dark",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21198,
+      "sha256": "47a8d8b2bc3a68e916ea0d1ca62b27993c08091810ceb79834486df5ff20a883"
+    },
+    {
+      "path": "component.html",
+      "bytes": 30279,
+      "sha256": "c0b416263bdcb177022dafe90ea27d1eff35f56442ba8f41a63b6ac00ec6ed7b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31264,
+      "sha256": "c194f9cc4522be25d1a09338b085ea2b0e7bbe9b1ad9806212e7f31cfb1d360e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

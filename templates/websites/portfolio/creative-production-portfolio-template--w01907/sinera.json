@@ -1,0 +1,62 @@
+{
+  "id": "SN-W01907",
+  "title": "Creative Production Portfolio Template",
+  "summary": "Video production portfolio with a 16:9 reel frame carrying timecodes, staggered poster columns and a three-phase schedule.",
+  "tags": [
+    "Portfolio",
+    "Art & Design",
+    "Creative",
+    "Minimal",
+    "Dark",
+    "Animated",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2668,
+      "sha256": "43018e33f1c39213ebed61ab6ce28ccc8bfe3c7d83d0389429cc847dfa547b1c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6384,
+      "sha256": "96e9884a29d3f3c8e46eda01586378deebab8bf32cdebc0f479da41a8779cebb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 808,
+      "sha256": "b6c61cb5737cf29d84225b0bc75e0b7c84de352819c9ae90b3252a041ddcde18"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15810,
+      "sha256": "4aa6464caeb280384d11258d3491e8c4ec1a83a1909439334a1cc3a06bba3e28"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "footer"
+  ],
+  "quality": {
+    "status": "rebuilt",
+    "issues": [],
+    "rendered": true
+  },
+  "language": "en",
+  "designSystem": "sinera-atlas@1.0.0",
+  "design": "DESIGN.md"
+}

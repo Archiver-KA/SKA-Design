@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02378",
+  "title": "Ferva Beverage Landing Page Template",
+  "summary": "A vibrant, brand-forward landing page template designed for artisanal kombucha, health beverages, and organic food brands.",
+  "tags": [
+    "Food",
+    "Health",
+    "Landing Page",
+    "Clean",
+    "Colorful",
+    "Animated",
+    "Services",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3239,
+      "sha256": "741b5c614bc0bdfc753a9c52da0836434aa52848b78d52a884dcd6eec381bcf2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22702,
+      "sha256": "4c022048bf35a9e69de9ec0d8e0d545a78f6b95e73e0af30c45f7f5bfa5a546f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "b90644de4fc6c71d1f3899806af329d0b3bbe9082601c5e1e7e6619cbf26b403"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37970,
+      "sha256": "5cc1e61b24e4f82b77d0f8dd470a0243cd563f0cb8591288c772d70be0d910e6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "product-grid",
+    "how-it-works",
+    "map-location",
+    "pricing",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "SN-C01821",
+  "title": "Abstract Background Image Asset",
+  "summary": "Base64-encoded JPEG image asset likely used as a decorative or abstract background in a UI. Can be embedded directly in HTML/CSS as a data URI for headers, sections, or cards to provide visual interest without external image hosting.",
+  "tags": [
+    "image",
+    "asset",
+    "jpeg",
+    "decorative"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8028,
+      "sha256": "e406f1afd0af7902bf6154d59f952668cb01395bff5b8c3829aabbb3a5a80d0a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 27053,
+      "sha256": "5f2ab23abf85176909c1e3178de1272842fd35dd37810a7ef64b9eee131c852d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27905,
+      "sha256": "9955302ac4b186809c9ce1c7c8c59957517bd0f0a434da9a3a92ca878dd093cf"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "SN-W00240",
+  "title": "autoservis3",
+  "summary": "A bold automotive service template for garages and repair shops to showcase services, pricing, team expertise, and booking details.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Automotive",
+    "Garage",
+    "Booking"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3643,
+      "sha256": "17eb7edeb023ae3c0eaf77eedd036f2dcc34fe7d22664457e7c880ba6c3a4cfd"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5698,
+      "sha256": "afd6b2a2e21bebd001b985b08b9391dd06ed23f4e681dfc7287d4bb469e24343"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 705,
+      "sha256": "0e8680a6ab433b759cd57a23c422c48a2af1bef7277d2840844d1e61a39eedfb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 49078,
+      "sha256": "f1ff45e46a00f67e9639760910014eccdcb525a40392634306c468b94b0eaed8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "cta",
+    "marquee",
+    "bento-grid",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00915",
+  "title": "Tradezella Feature Grid Section",
+  "summary": "Full-width Tailwind-based feature section with heading and a responsive bento-style grid of five illustrated cards showcasing platform capabilities like data ingestion, analytics, simulation, audit logs, and event filtering.",
+  "tags": [
+    "feature",
+    "section",
+    "bento",
+    "grid",
+    "marketing",
+    "tailwind",
+    "responsive",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19038,
+      "sha256": "53b9d0e223bc40b01af21639c686110cd0330638edd513e73415afb9fb45be44"
+    },
+    {
+      "path": "component.html",
+      "bytes": 18485,
+      "sha256": "6bb770a511a60120c8e62b9fcfbd10a572da0256fa9425a0e18ac41c4587342d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19337,
+      "sha256": "80ea0245e16d7c4bc63000e5bcd1630e8d94456bab0372e2a550258a39e32b95"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

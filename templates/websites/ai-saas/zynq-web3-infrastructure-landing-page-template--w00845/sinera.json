@@ -1,0 +1,130 @@
+{
+  "id": "SN-W00845",
+  "title": "ZynQ Web3 Infrastructure Landing Page Template",
+  "summary": "A dark, futuristic ZynQ-themed landing page template for Web3 and blockchain infrastructure platforms to showcase features, developer tools, and on-chain capabilities.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Large Type",
+    "Web3",
+    "Blockchain",
+    "Developer Tools"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3743,
+      "sha256": "33e455497f4d4852d2e3af70c13e39c63db45dd6cf87caaab42dbcfb37ce1aa5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13940,
+      "sha256": "8c938b1809423c3c317203c3135712d94d2e53c679026cbfb41dac4fa4c3254a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2940,
+      "sha256": "b727aad545c3233411d897bddaf032da2176f986f96257a233f613a1e92b1c41"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 439,
+      "sha256": "443ec5fa976a5f55572c494ca00e10b92bf71048277a231aa2314bed27fcc19b"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 532,
+      "sha256": "9165e8496a8cd620cb50ded73f2e7e185bf9a74adce385f9fcb45688ce77925a"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 577,
+      "sha256": "d99a7422b66558619ef400e20791d6779d86d31282c29cd32b34cdfb5bfaf331"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 803,
+      "sha256": "f3215c29292956f63c0809e0aa7d7191bfacdb85d481767d2eabd00a4a3990ab"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 446,
+      "sha256": "e5ff28ca2bf9131caf002f46294d640bbd233b49192f4408b6b394344ce2c6ea"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 622,
+      "sha256": "38a88a7e7904003380e1ab0c1bcc40b287d9534fbb65e76cbf8f2d9700bbef2b"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 533,
+      "sha256": "94695ae1810eee264ab9e2040f3c23c003a4af199dfe9e4823b0fa5e5c1c7e59"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 499,
+      "sha256": "8fac5e43736de871043987064b276dda1e0c2dfdc0ea7e020c8bf71ff0492ea3"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 435,
+      "sha256": "db3060c2ff54d52353b2305e1d92895cdba8b93be7f75d4c091082966e953687"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 613,
+      "sha256": "dfbb6da14a4d0f153e431b39f3b56b38134f1bc9506b45156ceeaea58d8af33f"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 150,
+      "sha256": "d55bb55288c1d1b3585ad94e01ca194d1741871e7bf5f3a1321c0c65760a553e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 73848,
+      "sha256": "2036d16507ad126c12f84c19aced2b4309280a828ba0e888903eb7db527899ff"
+    },
+    {
+      "path": "sinera-fx-filter.js",
+      "bytes": 20821,
+      "sha256": "6b5f074b7d846e3a404deda089c33986eb540d0c5cd8c1c0730e314b4c68c287"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "features",
+    "code-terminal",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "removed-browser-extension-tags"
+    ]
+  },
+  "design": "DESIGN.md"
+}

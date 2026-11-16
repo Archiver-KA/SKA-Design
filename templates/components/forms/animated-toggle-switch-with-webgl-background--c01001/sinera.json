@@ -1,0 +1,37 @@
+{
+  "id": "SN-C01001",
+  "title": "Animated Toggle Switch with WebGL Background",
+  "summary": "A centered interactive toggle UI with a sliding knob, dynamic HALT/EXEC state labels, and a subtle WebGL ambient glow background. Built with Tailwind CSS and custom JavaScript for futuristic dashboards, control panels, or demo interfaces.",
+  "tags": [
+    "toggle",
+    "tailwind",
+    "webgl",
+    "animated",
+    "interactive",
+    "dark",
+    "dashboard"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2406,
+      "sha256": "dee897a63cdce242675116232e55c91f48e1d2d1adbcccdc47af9614db3b3ad2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7568,
+      "sha256": "b1bb60c2ed34fcb4267ba24f3392c1e0a1d5abc531e96c860c3a1f5bd34db5ca"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

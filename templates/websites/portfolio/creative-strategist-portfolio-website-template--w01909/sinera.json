@@ -1,0 +1,75 @@
+{
+  "id": "SN-W01909",
+  "title": "Creative Strategist Portfolio Website Template",
+  "summary": "A dark, editorial-style portfolio website template for creative strategists, visual storytellers, and designers to showcase work, skills, and contact details.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Large Type",
+    "Minimal",
+    "Gradient",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3532,
+      "sha256": "7700e528a4ead56eca6dbfa94a9f25848f529ab4e556f783e4bcd43f80a9834c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18098,
+      "sha256": "eed588a6448a41cbc14d8b430278a6686e73f61bdcee64719aef55893e855b1e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 957,
+      "sha256": "328454c8b66281528989a19ea128e019e1875b127425c4cc24208bc5bde89dbe"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "5ebd3fcace64030360d09c6ec92e7be94ce9e8831cf395f0861980ce4c1588ac"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29664,
+      "sha256": "ebb608c15c41efeaabeef52654dbf8fc11703b3f9d2153f47ad39fb3b8a43159"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "bento-grid",
+    "dashboard-preview",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

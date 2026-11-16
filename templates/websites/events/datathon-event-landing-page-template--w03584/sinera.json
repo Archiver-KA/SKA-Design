@@ -1,0 +1,77 @@
+{
+  "id": "SN-W03584",
+  "title": "Datathon Event Landing Page Template",
+  "summary": "A neon, Stranger-Things-inspired landing page template for datathons and hackathon-style tech events, ready to customize for your own competition.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Conference",
+    "Brand",
+    "Gradient",
+    "Dark",
+    "Colorful",
+    "Large Type",
+    "Futuristic"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4077,
+      "sha256": "5dfbdbc6de3f3ba6528fd63df8475daae49e366dd5d5a0409482457703efea02"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19966,
+      "sha256": "b99fc50ddbf7f36086a7d9af7441de9d2b6d97dd17c01a27f5a86b292991a7b9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1052,
+      "sha256": "52fe38d36ec718ea8cf5b84230e40b7558745d153d79704b8a1903947f556239"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 313,
+      "sha256": "04e77fc98fad862619dd61c1d1eba774d32d0d06abc39001c03fca1fc095309e"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 270,
+      "sha256": "6d7f47cc04d290ef4abac372150068099aee31617cc15da366306e3307a84d33"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39984,
+      "sha256": "bc0347e91c4ee9766fe0c2feec2d7560f2f194a05a612d288735298296e6eb8d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "case-studies",
+    "features",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

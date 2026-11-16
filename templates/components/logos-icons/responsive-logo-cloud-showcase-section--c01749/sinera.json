@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01749",
+  "title": "Responsive Logo Cloud Showcase Section",
+  "summary": "Displays a \"Featured in\" heading followed by a responsive grid of linked brand logos. Built with Tailwind CSS utility classes, it adapts from 2 to 6 columns, ideal for highlighting partners, clients, or press mentions on marketing pages.",
+  "tags": [
+    "logo cloud",
+    "brand section",
+    "grid",
+    "responsive",
+    "tailwind",
+    "marketing",
+    "showcase"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3994,
+      "sha256": "ba50020607281b0a2c7f83cdd3638515596cac47b425b6103e5d406263f06920"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3282,
+      "sha256": "89b9d3a6988a22095994faf1e213d6c1d57678c220a42607df01cef8be39cf75"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4141,
+      "sha256": "2c0604350f73a1f50d418093321add29dfcfb91cd97ca3d03b37ad848a910aa2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

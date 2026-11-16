@@ -1,0 +1,91 @@
+{
+  "id": "SN-W00587",
+  "title": "Nexus SaaS Landing Page Template",
+  "summary": "A high-performance SaaS landing page template designed for workflow automation and synchronization startups.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Dark",
+    "Clean",
+    "Futuristic",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "react",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3588,
+      "sha256": "b0f5fe66e5f05e70d80bffef855ba35c7f4a591eb3d5f53b750e9f71e4a5adbf"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14914,
+      "sha256": "7053d8d15da6ea4a17d282e2f0944d338c3d47c83743dde69007e20e170e11dd"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "c2a91ddea95cafcd23b4089dd0ae78ff4bfc3db05c35c5e07fc12d6ff7ee62fe"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4014,
+      "sha256": "962da78b61e14a53457dcb4a27c2355aab7ec47427b4c5ee02a38d0b816ab5b3"
+    },
+    {
+      "path": "package.json",
+      "bytes": 662,
+      "sha256": "afa7917870f60a3cb8182aa05c081a4665421cf4015da2fe8c1e9e48a8fd41e6"
+    },
+    {
+      "path": "postcss.config.js",
+      "bytes": 81,
+      "sha256": "e32657baf631d7c5f4dc67b4b2ee0ec8e7d5b3c41860e09cddce7c0377cd80bc"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 38673,
+      "sha256": "ebe3d2a31dd89ece6637f8a6835b9f047510218b66597b7be74c8e6c388d1c10"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 2457,
+      "sha256": "7b22e72fd5bcdc93d5fd200edf1e2c7f259e428f84d2aab0c67043a9175cdf7a"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 260,
+      "sha256": "471609e65562eec9b10d9b9d45625ad0d5d97e56ea391922febedc1481f50ceb"
+    },
+    {
+      "path": "tailwind.config.js",
+      "bytes": 126,
+      "sha256": "cc8261a76bad6514da1a86304a7e949fa688d0757167eff69f27d73096759959"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 136,
+      "sha256": "eca485c281977125366d4800553256e419f364984e615f75a2d2bae54f7857fd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

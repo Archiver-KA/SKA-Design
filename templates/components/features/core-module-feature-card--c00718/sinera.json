@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00718",
+  "title": "Core Module Feature Card",
+  "summary": "Interactive feature card with background image overlay, icon, and descriptive text. Includes hover effects and scaling animations for engagement.",
+  "tags": [
+    "card",
+    "feature",
+    "interactive",
+    "hover-effects",
+    "overlay",
+    "icon"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13394,
+      "sha256": "f561a080e45cdd608edd54dba2268caa9322ba59f88e38746e50418c4518eabd"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2363,
+      "sha256": "27a0f969f21c0336c3d173ddb9af5a2f6d91213632cb0ff6c663cc83a1583061"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3208,
+      "sha256": "acee67fd8e7126edb78088f2c971bc789b0eac29990f041c8e6ab80a9b224409"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

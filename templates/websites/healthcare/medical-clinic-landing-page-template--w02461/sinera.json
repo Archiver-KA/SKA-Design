@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02461",
+  "title": "Medical Clinic Landing Page Template",
+  "summary": "A clean, modern medical clinic landing page template for doctors and healthcare practices, featuring services, hours, and an integrated appointment booking form.",
+  "tags": [
+    "Health",
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Medical",
+    "Doctor"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3487,
+      "sha256": "a4b303cd729073b93deb60469f04a581cb1981fae2f8c35eb17667767ba84756"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 23346,
+      "sha256": "ee5f645bc1e15273255f55f12579386220be97eb71c77cda3a046a76286ca22c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "4385c09efc5b3a3bbe8ade179b421569d454c1b88dc12ebe320ee0d60ce97f2a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19521,
+      "sha256": "5500a0ed5ea7824d977b9c3a4d9478bd52468706337926a07b3d320b64c91ef6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

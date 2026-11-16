@@ -1,0 +1,71 @@
+{
+  "id": "SN-W00285",
+  "title": "Cloud Suite Landing Page UI",
+  "summary": "Responsive landing page with fixed header, smooth scrolling, mobile menu, and 3D background iframe integration.",
+  "tags": [
+    "Landing Page",
+    "Responsive",
+    "Navigation",
+    "Mobile Menu",
+    "3D Background",
+    "Tailwind CSS",
+    "Smooth Scroll"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3629,
+      "sha256": "66720b91ae3557b49d711d9bf127e042da5e36f224619c44bcb4a72ca8bbb2a5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17834,
+      "sha256": "493f40f1954fc5587bd6a4d7cd83c40d9f84f01b6686fad09f2209b2d6e27043"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 804,
+      "sha256": "578065471e6ecb626a037b2c8f7abc3f855db0d0b9c9439fe46e6b7ecd8a4edc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25406,
+      "sha256": "ec4c9f9d12781da139b84513451ea71528861cbb79d0804aff630b715bbbf810"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "navbar",
+    "hero",
+    "features",
+    "blog-articles",
+    "integrations",
+    "testimonials",
+    "faq",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

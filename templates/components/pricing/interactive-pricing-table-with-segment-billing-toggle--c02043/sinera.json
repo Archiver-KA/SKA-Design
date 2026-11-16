@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02043",
+  "title": "Interactive Pricing Table with Segment & Billing Toggle",
+  "summary": "Responsive three-tier pricing section featuring personal/business segment switcher and monthly/yearly billing toggle. Dynamic JS updates prices and knob positions. Tailwind-styled cards with hover effects, ideal for SaaS landing pages.",
+  "tags": [
+    "pricing",
+    "table",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "saas",
+    "javascript"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22590,
+      "sha256": "999ea6e215b6ddebbcf2f1cb1c8f60a2cd105abea3f31a6d4b9c09c144d45555"
+    },
+    {
+      "path": "component.html",
+      "bytes": 21678,
+      "sha256": "246416f0a040b0b85c9c2d929cacb80f2687fc50823bfde9f3e7e9b1836387d5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22688,
+      "sha256": "48f20d5804ea8ab44e952f61a380f9437787884f4adb8b5b6dec91fd6f7f07cc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

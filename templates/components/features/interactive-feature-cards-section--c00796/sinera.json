@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00796",
+  "title": "Interactive Feature Cards Section",
+  "summary": "Two-column section of animated feature cards highlighting real-time collaboration and version history. Uses Tailwind-style utility classes, hover interactions, and iconography to present product capabilities in a modern, visually rich layout.",
+  "tags": [
+    "feature",
+    "section",
+    "interactive",
+    "animated",
+    "responsive",
+    "tailwind",
+    "cards"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9476,
+      "sha256": "9df832ac7b3efffe09d9cf858c6891832f6e376df5f2da899e97092cd98eb66a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5970,
+      "sha256": "4c192b99970be940b6f00816424d5403319a2a637d29baf836abdec2f5e8070d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6954,
+      "sha256": "934bed95eb148d63630c5c43ed82c6f4b34cb7c30beb2c0480bf35d9154a0136"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

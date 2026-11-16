@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01178",
+  "title": "Responsive Tailwind Navbar with Mobile Toggle & CTA",
+  "summary": "Full-width navigation bar using Tailwind CSS, featuring brand logo, desktop links, sign-in and call-to-action buttons. Automatically collapses into a hamburger menu with slide-down panel on mobile, employs Lucide icons. Ideal for site headers needing responsive navigation.",
+  "tags": [
+    "navbar",
+    "navigation",
+    "tailwind",
+    "responsive",
+    "mobile-menu",
+    "header",
+    "cta",
+    "lucide",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3910,
+      "sha256": "d734212c266103883a3bff55a35047ab17b116df2c00f041057b5269ace7b01b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4834,
+      "sha256": "23f192b69843ce4b4a2018e8b37961df0452e1a1fdd16542e8729cf71892a4dd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5840,
+      "sha256": "5b3b1198cac0f27fc861392db03d74eb43e8528e62bd4bb1ac8ecf253f87d3f9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

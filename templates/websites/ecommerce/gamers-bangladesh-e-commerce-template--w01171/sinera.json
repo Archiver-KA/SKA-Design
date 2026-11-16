@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01171",
+  "title": "Gamers Bangladesh E-commerce Template",
+  "summary": "A high-performance gaming e-commerce template designed for retailers selling gear, digital subscriptions, and merchandise with a premium dark-themed aesthetic.",
+  "tags": [
+    "Technology",
+    "E-commerce",
+    "Landing Page",
+    "Dark",
+    "Futuristic",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3908,
+      "sha256": "f51fd8c9b313d614f0f2bd6693cf4cbf4bdaa02aaa6ff44931c68cba745dea10"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 26970,
+      "sha256": "c984e2ce00b8fa0ac7b245743cd7028ff2a6c5855b2a2c71c639d2741c1d5eb6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 810,
+      "sha256": "48636cd60f8d778d88b09268a952a75a6514e79dc0d68eece0f263bcd5bf19e6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 46191,
+      "sha256": "ae1aa0598ea63347ab0576611e318a98dbf3c05757eeb80c6200f9aab78872de"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "newsletter",
+    "pricing",
+    "product-grid",
+    "logo-cloud",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

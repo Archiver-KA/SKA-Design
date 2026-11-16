@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02045",
+  "title": "Interactive SaaS Pricing & Feature Showcase Section",
+  "summary": "Responsive pricing section with plan selector, monthly/annual toggle, animated feature cards and typing effect. Uses Tailwind CSS and vanilla JS for dynamic updates, ideal for SaaS landing pages displaying plans and key product capabilities.",
+  "tags": [
+    "pricing",
+    "tailwind",
+    "responsive",
+    "animation",
+    "interactive",
+    "landing-page",
+    "saas",
+    "cards",
+    "section"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 27756,
+      "sha256": "c0f06851a17bd3667a5541e23393e3456bf96d5c94f4cfc04739fed6ab0cf489"
+    },
+    {
+      "path": "component.html",
+      "bytes": 20495,
+      "sha256": "5115f0079aa933b04a5c38f51e32b827797c141c23b200b0fbb8e42b59e85a71"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21371,
+      "sha256": "d4f2b1bc2011eaabb340498ffe6e531f7e828748c374e296ebfda380b53f47b7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

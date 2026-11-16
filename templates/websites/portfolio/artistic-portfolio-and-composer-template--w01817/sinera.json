@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01817",
+  "title": "Artistic Portfolio & Composer Template",
+  "summary": "A sophisticated, dark-themed template designed for composers, creative directors, and artists to showcase high-end musical and generative media projects.",
+  "tags": [
+    "Portfolio",
+    "Artist",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Music",
+    "Creative",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3472,
+      "sha256": "8a7c9907b8e527b49942cad7cb32e3a86c358ac3f203ae7e954e8701f5f6d1ac"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18098,
+      "sha256": "4e426d6c96585d227a62e746de0bf21b34cef777926949fc5c833d3719da12fe"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 866,
+      "sha256": "e976bde02595c07c8d6b0d061c70172d991f95d6e20e72d61f48847b975a049d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23322,
+      "sha256": "8b6f3109247aeb0ae6d86e8f339499da3624a0ec642b3e36c96cd8a7577a5bfc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "gallery-portfolio",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "SN-W00316",
+  "title": "Cybersecurity Advisory Landing Page Template",
+  "summary": "A reusable cybersecurity advisory template for security firms, red teams, and consultants to showcase services, process, deliverables, and lead-generation CTAs.",
+  "tags": [
+    "Technology",
+    "Services",
+    "Landing Page",
+    "Dark",
+    "Futuristic",
+    "Grid",
+    "Animated",
+    "Minimal",
+    "cybersecurity",
+    "advisory"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3549,
+      "sha256": "54e17dc410c7fe640510df9cd46f7c15f1ceea056499e836b30d4874a9cc9106"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18348,
+      "sha256": "27a5588436d46d489a5082d77427d8ab4ea132d5eed29c971f2eaf9dfa5b0912"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "af10cf6bc2d2c1b8d67870206517878713b0d9e0390a3c1d770a82584f35fbe5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 79592,
+      "sha256": "b1a49414f4c6d7dd04cf528c551716b12ab8a12c19eae4034a6cad78068d3944"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "bento-grid",
+    "how-it-works",
+    "features",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

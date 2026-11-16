@@ -1,0 +1,64 @@
+{
+  "id": "SN-W02294",
+  "title": "Web Designer Portfolio Landing Page Template",
+  "summary": "A reusable landing page template designed for web designers to showcase portfolios, services, and selected work with a sleek, modern interface.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Hero",
+    "Services",
+    "Selected Work",
+    "Dark Mode",
+    "UI/UX",
+    "Branding",
+    "SEO",
+    "Contact"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3440,
+      "sha256": "9e10a368f8e986c713c21c7c5bb989b0edc3c9b75921215d29094e79ff75c2da"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11522,
+      "sha256": "9b0251806adaa4c2bc441751b62f1efb44b3a78103cb30ab60cf8c1e35bedb48"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 732,
+      "sha256": "d4a3354ea3b78f15795ef92af9691f77b6d591b9a7b80c56cc2164d59448bcbc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24636,
+      "sha256": "4b269b79ee7f952dbd4d54cd6ee1231cbf20eb68a0d528ff1bb671f3d75ef586"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "case-studies"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

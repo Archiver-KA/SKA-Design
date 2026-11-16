@@ -1,0 +1,78 @@
+{
+  "id": "SN-W03138",
+  "title": "Travel Agency Landing Page Template",
+  "summary": "This reusable landing page template is designed for travel agencies to showcase curated eco-friendly travel packages and capture leads effectively.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "Features",
+    "Destinations",
+    "Reviews",
+    "Lead Capture",
+    "Travel",
+    "Sustainable Travel",
+    "Booking",
+    "Testimonials"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3647,
+      "sha256": "d17249d8815bf1fcd2abd5579ac3d135bf5bee5175a309eb4165d30f7bfe73c2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13640,
+      "sha256": "96f4e2152c67e400517fe44d3ae89edac3b7d9a0e8e828057b2d4769b3ffb802"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1067,
+      "sha256": "ef308af44c52687087b426adee1f53aa0256c388e7f762191305d52ec590718d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 383,
+      "sha256": "d597bebd6b3e334e962ba4feb12a6aecabeef6615eecf16b149256bb75078402"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 275,
+      "sha256": "9f057d9111a5e616776ad44f920699a27f9850197a516f7c82fd3bf1d8f60e15"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37894,
+      "sha256": "98526b3bcb1701e4848b2429eb6dbf4cf61d06d00641808d68f9b25bce2ff613"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "map-location",
+    "listings",
+    "features",
+    "testimonials",
+    "footer",
+    "contact-form"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

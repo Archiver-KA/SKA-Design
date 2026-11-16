@@ -1,0 +1,76 @@
+{
+  "id": "SN-W00317",
+  "title": "Cybersecurity Advisory Landing Page Template",
+  "summary": "A reusable cybersecurity advisory landing page template for security firms and consultants to showcase services, engagement models, deliverables, and lead-gen CTAs.",
+  "tags": [
+    "Technology",
+    "Services",
+    "Landing Page",
+    "Dark",
+    "Futuristic",
+    "Animated",
+    "Clean",
+    "cyber security",
+    "advisory",
+    "consulting"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3303,
+      "sha256": "0ab32286b4bac3591e6bd18a0c69e43a5b50f1cbb5d85ab58556063407ab418f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2854,
+      "sha256": "f3980032320c7586891b6cefc72ed78f8198e8feecaf93c9f0a108dc6250e10b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 961,
+      "sha256": "4facd4da76c657ca42a3bef90e55c705b021038eedc05008f523afa0b6484741"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "845a8c33647082b21c3db87d511ee26caa07aa7a2c9bf6b015aad47a996ab97f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 75677,
+      "sha256": "2d30834ed285850a7683410f00013e09f3b2d35ab7dde42f073e4f2d71197b6a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "how-it-works",
+    "stats",
+    "dashboard-preview",
+    "services",
+    "pricing",
+    "cta"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

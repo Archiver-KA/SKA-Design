@@ -1,0 +1,66 @@
+{
+  "id": "SN-W00160",
+  "title": "AI Startup Idea Generator Landing Page Template",
+  "summary": "Dark, theatrical AI startup idea generator landing page template for showcasing dynamic product reveals, storytelling reports, and call-to-action flows.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Animated",
+    "Large Type",
+    "Gradient",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3525,
+      "sha256": "59d777064e997a0a2f38ce8a88199ee3cbabdf4cdbf4b6d5b6e2e91f8633fb31"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4834,
+      "sha256": "dbdcf9b8ea7a8acf9fec09729d41b0d7ce5929303675ec293eebf50f71011092"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 741,
+      "sha256": "fd70205b005461eb7ad2834ce5f3824135aa8c7d77e3fac95c5927cc8a49ada3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21879,
+      "sha256": "d3946b86a41949f97ad97a5f23e5739a0dbe0974a1720a36bab7a6bccbd1ce81"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "hero"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "blank-render"
+    ],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

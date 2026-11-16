@@ -1,0 +1,65 @@
+{
+  "id": "SN-W00218",
+  "title": "Astro Developer Platform Landing Page Template",
+  "summary": "A polished Astro-inspired landing page template for edge-ready developer platforms and web frameworks, ready to customize for your own product.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Futuristic",
+    "Large Type",
+    "Developer Tools",
+    "Startup"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3480,
+      "sha256": "1d1e0e380628a6ab261b2287f8e22009cb29d8b1b89e32a7bd1bacafc82718ca"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16538,
+      "sha256": "ab6588f6aed74d472193eb13beed9c177d0be7ba29bc9a6bda8d6d9225c5abaf"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 740,
+      "sha256": "7c36985a271865cda97cb20fba28ba4e392e84406befffaa4c8a9b89005d48ab"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28827,
+      "sha256": "1479a780b6783f41afab8c19033bb7deaafff10b123bf937fc58c67267feae7b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "timeline",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

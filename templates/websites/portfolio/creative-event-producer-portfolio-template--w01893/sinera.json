@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01893",
+  "title": "Creative Event Producer Portfolio Template",
+  "summary": "A dark, futuristic portfolio template for creative event producers to showcase luxury events, case studies, and experiential production work.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Entertainment",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Large Type",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3633,
+      "sha256": "c1eee7d22080de12f8b795246ab572d828409d50d43ff5b4eb89e29559b2311e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18696,
+      "sha256": "89a779da72547d07d616b959c377baeb879757bd8a7f35657d9f2219e4131854"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "73cb24cea1bf24570812f3fc086df286c243a68fa16813220b226906a38cd72c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35648,
+      "sha256": "e3920aa35d7a705fb943ab8c3d9a41e10683bf49f7400041b9f1644833741a66"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "bento-grid",
+    "listings",
+    "footer",
+    "case-studies",
+    "contact-form"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

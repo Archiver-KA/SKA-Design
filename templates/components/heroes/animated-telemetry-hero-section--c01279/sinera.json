@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01279",
+  "title": "Animated Telemetry Hero Section",
+  "summary": "Dark futuristic hero section with a 3D telemetry tunnel, GSAP text reveal, parallax interaction, and dual CTA buttons. Built with Tailwind CSS and Iconify, ideal for SaaS, infrastructure, devtools, or platform landing pages.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "gsap",
+    "animated",
+    "interactive",
+    "saas",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19790,
+      "sha256": "949e8140ac186dab061e399854d2317656578b381c0710deab0205b4645a1ddf"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10018,
+      "sha256": "6f849fb9c8ecf3e7a2e4d32e3bfbd6e04053c7f4e405e2c5784a7d97ce6cc3bd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10870,
+      "sha256": "dd41be5ffc3b74d7093fcacf5531831dba23a6e9436908e3a39205105e3ae657"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

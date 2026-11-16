@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01955",
+  "title": "Developer Portfolio Landing Page Template",
+  "summary": "A modern dark portfolio landing page template for visual designers and full-stack developers to showcase skills, projects, services, and testimonials.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3595,
+      "sha256": "3c3977c5259e9e1169ab65aa06558cc5081d2acf8e5a0716b9a9679a2795d7ca"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12454,
+      "sha256": "7f3454a5df6af2bfe6edeb9288a8878b08969baeb0b3d21dd6d056104ef40fa1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "218c399975c793ec415fc071c2ea879f5e887985c693f36ecfd4b9b28d071095"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31708,
+      "sha256": "9334e73ee08ca16a333c692d73e45dfda623c4372004ff44e213ce736cba9133"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "stats",
+    "case-studies",
+    "testimonials",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

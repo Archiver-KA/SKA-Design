@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03104",
+  "title": "Luxury Travel Landing Page Template",
+  "summary": "A premium landing page template for promoting exclusive Rio travel packages, VIP nightlife experiences, and high-end concierge tourism services.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Services",
+    "Dark",
+    "Minimal",
+    "Luxury",
+    "VIP",
+    "Tourism",
+    "Hospitality"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3219,
+      "sha256": "92181ca10df19da13f204534494fc70e31ef3592847e5551bd335f177caeb229"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17798,
+      "sha256": "eddc59e17acf45a05bca79b9a18e1113e306859a73227c7a50dd821314e167aa"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 810,
+      "sha256": "7de884c67acc958aa3ffb5c3473f1bb8c61c6c929001c457fdd5958a1207cd23"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33013,
+      "sha256": "a1a264d3a6da716f7fc2a174668d20cfd177da57e02cbb19d0242e4b57810cfe"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "cta",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

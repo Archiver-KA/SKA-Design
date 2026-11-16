@@ -1,0 +1,30 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Responsive Header with Status Indicator &amp; CTA</title><script src="https://cdn.tailwindcss.com"></script><link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet"><script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script><style>body{margin:0;min-height:100vh;display:flex;flex-direction:column;justify-content:center;background:#0a0a0a;color:#fafafa;font-family:Inter,ui-sans-serif,system-ui,sans-serif}</style></head><body><div id="component-root"><header class="max-w-7xl sm:px-6 mr-auto ml-auto pt-6 pr-4 pl-4 w-full">
+  <div class="flex items-center justify-between">
+    <div class="flex items-center gap-3">
+      <span class="h-1.5 w-1.5 rounded-full bg-green-500 animate-pulse"></span>
+      <span class="text-xs sm:text-sm tracking-tight text-gray-600 font-geist">STUDIO/ <span id="localTime" class="tabular-nums font-geist">22:02:32</span></span>
+    </div>
+    <div class="hidden sm:flex items-center gap-2 text-gray-400">
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+        data-lucide="grip-horizontal" class="lucide lucide-grip-horizontal w-4 h-4 stroke-1.5">
+        <circle cx="12" cy="9" r="1"></circle>
+        <circle cx="19" cy="9" r="1"></circle>
+        <circle cx="5" cy="9" r="1"></circle>
+        <circle cx="12" cy="15" r="1"></circle>
+        <circle cx="19" cy="15" r="1"></circle>
+        <circle cx="5" cy="15" r="1"></circle>
+      </svg>
+    </div>
+    <a href="#contact"
+      class="group inline-flex items-center gap-2 rounded-full px-4 py-2 text-sm font-medium tracking-tight text-white bg-gray-900 hover:bg-gray-800 border border-gray-200">
+      <span class="font-geist">Start Project</span>
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="arrow-right"
+        class="lucide lucide-arrow-right w-4 h-4 stroke-1.5 transition-transform group-hover:translate-x-0.5">
+        <path d="M5 12h14"></path>
+        <path d="m12 5 7 7-7 7"></path>
+      </svg>
+    </a>
+  </div>
+</header></div><script>try{lucide.createIcons()}catch(e){}</script><script>try{var r=document.getElementById("component-root");if(r.children.length===1){var d=getComputedStyle(r.children[0]).display;if(d.indexOf("inline")===0)r.style.textAlign="center"}}catch(e){}</script></body></html>

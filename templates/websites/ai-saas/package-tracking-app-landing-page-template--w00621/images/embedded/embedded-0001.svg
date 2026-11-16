@@ -1,0 +1,11 @@
+<svg class="w-full h-full" viewBox="0 0 320 340" preserveAspectRatio="none">
+                                    <rect width="320" height="340" fill="#f3f4f6"/>
+                                    <!-- Roads -->
+                                    <path d="M 50 0 V 340 M 150 0 V 340 M 250 0 V 340 M 0 100 H 320 M 0 240 H 320" stroke="white" stroke-width="8" />
+                                    <!-- Path Line -->
+                                    <path d="M 80 80 Q 150 120 200 240" stroke="#7847CB" stroke-width="4" fill="none" stroke-dasharray="8 4" />
+                                    <!-- Points -->
+                                    <circle cx="80" cy="80" r="6" fill="#7847CB" />
+                                    <circle cx="200" cy="240" r="12" fill="#7847CB" class="animate-pulse"/>
+                                    <circle cx="200" cy="240" r="6" fill="white" />
+                                </svg>

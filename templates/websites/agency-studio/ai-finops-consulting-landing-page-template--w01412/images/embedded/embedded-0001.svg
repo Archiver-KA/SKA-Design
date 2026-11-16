@@ -1,0 +1,26 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none overflow-visible">
+                                <defs>
+                                    <filter id="glow-line">
+                                        <feGaussianBlur stdDeviation="1.5" result="coloredBlur"/>
+                                        <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+                                    </filter>
+                                </defs>
+                                <path d="M 120 200 L 160 200" stroke="#facf39" stroke-width="1" stroke-opacity="0.2" fill="none" />
+                                <path d="M 240 200 L 280 200" stroke="#facf39" stroke-width="1" stroke-opacity="0.2" fill="none" />
+                                <!-- Split -->
+                                <path d="M 360 200 L 380 200 L 380 120 L 400 120" stroke="#facf39" stroke-width="1" stroke-opacity="0.2" fill="none" />
+                                <path d="M 360 200 L 380 200 L 380 280 L 400 280" stroke="#facf39" stroke-width="1" stroke-opacity="0.2" fill="none" />
+                                <!-- Rejoin -->
+                                <path d="M 480 280 L 520 280" stroke="#facf39" stroke-width="1" stroke-opacity="0.2" fill="none" />
+
+                                <!-- Animated Dots -->
+                                <circle r="2" fill="#facf39" filter="url(#glow-line)">
+                                    <animateMotion dur="2s" repeatCount="indefinite" path="M 120 200 L 160 200" />
+                                </circle>
+                                <circle r="2" fill="#facf39" filter="url(#glow-line)">
+                                    <animateMotion dur="2s" begin="0.5s" repeatCount="indefinite" path="M 240 200 L 280 200" />
+                                </circle>
+                                <circle r="2" fill="#facf39" filter="url(#glow-line)">
+                                    <animateMotion dur="3s" begin="1s" repeatCount="indefinite" path="M 360 200 L 380 200 L 380 280 L 400 280" />
+                                </circle>
+                            </svg>

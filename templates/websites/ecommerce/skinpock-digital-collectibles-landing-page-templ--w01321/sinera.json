@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01321",
+  "title": "SkinPock Digital Collectibles Landing Page Template",
+  "summary": "This template provides a sleek, dark-themed landing page for a digital collectibles marketplace, perfect for showcasing and trading unique skins and assets.",
+  "tags": [
+    "Landing Page",
+    "Digital Collectibles",
+    "Marketplace",
+    "NFTs",
+    "Hero",
+    "Features",
+    "Collections",
+    "Search",
+    "Newsletter",
+    "Responsive"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3728,
+      "sha256": "d4b02214fc9584cf8b010bb12a6e48ad519b12710a603f76c2a97ec3a405a250"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16312,
+      "sha256": "27a4ae9ae98e37254bbbfa6fe2f466a6a23b726d106faf7502caefe8fda767f4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 824,
+      "sha256": "0ebbe309aa08e05ccaa29d84f35ee4a2abbfc93df312082676093a7f4bdebcee"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32757,
+      "sha256": "f5021ea026b4776446318e9c778c2273a4488fb7559cd1fccdb85dd864b708ef"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "marquee",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01477",
+  "title": "Responsive Hero Section with CTAs and Brand Logos",
+  "summary": "Tailwind-powered landing page hero featuring badge, animated headline, description, primary/secondary CTAs and a grid of brand logos; ideal for SaaS marketing pages.",
+  "tags": [
+    "hero",
+    "landing-page",
+    "tailwind",
+    "cta",
+    "responsive",
+    "logo-grid",
+    "banner",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21202,
+      "sha256": "d4a289bc6af38e6043750b48e287ae081d153080ee82aa6e432c3a566a60252f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 60550,
+      "sha256": "719bff276ab8c5c356179f664f06697b593af16304b6a58f3fb9db584e274f78"
+    },
+    {
+      "path": "index.html",
+      "bytes": 61550,
+      "sha256": "bf7ef6cf0e2d096d0db476f9f2f017315978582d3694ca4e5c2dc126aa23e449"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

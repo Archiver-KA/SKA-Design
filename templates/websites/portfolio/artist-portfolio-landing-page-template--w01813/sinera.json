@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01813",
+  "title": "Artist Portfolio Landing Page Template",
+  "summary": "Elegant dark artist portfolio landing page template for showcasing artworks, selling paintings, and custom commissions for contemporary visual artists.",
+  "tags": [
+    "Landing Page",
+    "Art & Design",
+    "Artist",
+    "Portfolio",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "E-commerce",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3507,
+      "sha256": "fe610ea42bb9eccfe5bf043b3e1e92f39f5b622a14c9babd24240b714167c99a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 31120,
+      "sha256": "2b416e731b23efd39172a0151405b2697a450acf67eb1af66b42f96d082b2329"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "9b4c20b099566a53ff2b2eb13b89cb6071c75f04aa3d1e94f6d9dc5a2ce4432f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30588,
+      "sha256": "0f2a5a8417cefe9e46169216d3a6364179881c73848877a0cd7057bd342163d2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "gallery-portfolio",
+    "product-grid",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

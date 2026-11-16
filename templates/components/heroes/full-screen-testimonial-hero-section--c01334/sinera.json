@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01334",
+  "title": "Full-Screen Testimonial Hero Section",
+  "summary": "Full-width hero block featuring a background image, gradient overlays, animated quote, customer details and partner list. Uses Tailwind utilities and scroll-triggered fade effects—perfect for SaaS landing pages or case-study showcases.",
+  "tags": [
+    "testimonial",
+    "section",
+    "tailwind",
+    "responsive",
+    "animated",
+    "quote",
+    "landing-page"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 37840,
+      "sha256": "79f7e2c284b5712994addabe5941a2b7874c17e124d339b1b55cb39f914c92b6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5676,
+      "sha256": "54f07108e886d4b76754eae8cc754253769c2434dd186191e233b7ce9851fb62"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6663,
+      "sha256": "7c49c1fa02806f347e98c79a2f843c871cc6f05b5fff86eaaac6bfcffcd1a8f3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

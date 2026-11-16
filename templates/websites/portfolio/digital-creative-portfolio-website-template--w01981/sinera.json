@@ -1,0 +1,86 @@
+{
+  "id": "SN-W01981",
+  "title": "Digital Creative Portfolio Website Template",
+  "summary": "A modern, minimal portfolio website template for digital creatives and web designers to showcase work, services, experience, awards, and testimonials with a strong personal brand.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Graphic Design",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3628,
+      "sha256": "376bd0d4122b38110e848027adeca0a5d0c26224ee871ae07b695a50986f01ba"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5924,
+      "sha256": "aaa6769dcb2937faa3d102526be61f0c753b53ec892409921b988b562fd540c3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1268,
+      "sha256": "82cbcd8df5b46d6177fab3f7b5a6a333711de58b3f85b18473746fedbe2f1f21"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 169,
+      "sha256": "7e2fe328e11dc053ce3842c1e3b45b2c68b6936956f7f4ab3f9cd00238b3fb9e"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 240,
+      "sha256": "9ba1dc8d2e12f98de8136097aa90c130db77c10a38f561df4cf2296c1c2e8bc4"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 100,
+      "sha256": "b64b45a18a81b0e0f44e0e0064e724c83ef7eee11ceae6e8bdb511cb15b531f5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33186,
+      "sha256": "59150d0cab625e7267fe2315c3b58bc1269c3d2131f94850bf1d9b4f73fd70ff"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "gallery-portfolio",
+    "product-grid",
+    "services",
+    "timeline",
+    "bento-grid",
+    "stats",
+    "awards-press",
+    "testimonials",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

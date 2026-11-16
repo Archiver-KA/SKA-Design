@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02145",
+  "title": "Responsive Three-Step How-It-Works Section",
+  "summary": "Animated, responsive feature section illustrating a three-step workflow with headline, divider, and interactive cards. Built with Tailwind CSS utilities and subtle scale/fade animations, ideal for SaaS landing pages to explain processes or onboarding steps.",
+  "tags": [
+    "section",
+    "feature",
+    "steps",
+    "tailwind",
+    "responsive",
+    "animated",
+    "landing",
+    "workflow",
+    "how-it-works"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 25674,
+      "sha256": "47f744b673f205befb219a87ca2ff0d0b2589e7d78e56b2bb963d8a859ef0fb0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 14253,
+      "sha256": "df67c47f819a66626d689aac73cd974132687c0ea1fae0757e0e1201e8abe1ac"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15116,
+      "sha256": "929c17ddcf05afe3d2c906fb7971a418796c7c53639783bcd5c5d4365d990759"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

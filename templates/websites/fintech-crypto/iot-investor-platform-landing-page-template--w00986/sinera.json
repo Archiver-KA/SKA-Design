@@ -1,0 +1,68 @@
+{
+  "id": "SN-W00986",
+  "title": "IoT Investor Platform Landing Page Template",
+  "summary": "A reusable landing page template for showcasing vetted IoT startups, investor deal flow, and innovation intelligence with premium, data-driven UX.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Dark",
+    "Clean",
+    "Futuristic",
+    "Minimal",
+    "Animated",
+    "IoT",
+    "Startup"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3468,
+      "sha256": "8868cb727dedd60f3a3b6063f89e7c44e66953bdc0e92d7d7e205640dd997269"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12520,
+      "sha256": "bf384f72e42845ca8286501468f05631c2f1c570986837c3e6a6ddc93edba2cf"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 812,
+      "sha256": "18d59085080a129a22596992ddf1769743e1786bdaaa8391bb9f481b054a3f7f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 52051,
+      "sha256": "b69377c1ad5a685c21eb076bf4da32736abbec08592ffa5ba53c4bceabd9cc17"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "marquee",
+    "map-location",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01111",
+  "title": "Fixed Transparent Navbar with Gradient CTA",
+  "summary": "Fixed, translucent Tailwind header featuring brand logo, desktop links, gradient “Sign Up” button, backdrop blur and mobile hamburger toggle. Ideal for landing pages or SaaS sites needing responsive, elegant navigation.",
+  "tags": [
+    "header",
+    "navbar",
+    "navigation",
+    "tailwindcss",
+    "responsive",
+    "fixed",
+    "mobile",
+    "cta",
+    "blur"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3162,
+      "sha256": "755fcf97e1adf50f8dace55589194af3e5baf9662d11578895e4e3ba9f95ed78"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4008,
+      "sha256": "c93ef35bb615dafe1c3989c20125104c7438cc1aa5be8e2be2d0ef6ca051a512"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5001,
+      "sha256": "af41b8d8940ab65c404e97f641441ee3f77acc63a7df4d572b15b78d124261ec"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

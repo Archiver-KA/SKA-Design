@@ -1,0 +1,80 @@
+{
+  "id": "SN-W00916",
+  "title": "DeFi Protocol Landing Page Template",
+  "summary": "A dark, futuristic DeFi protocol landing page template for showcasing institutional-grade crypto lending, borrowing, and yield products with security-focused messaging.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "DeFi",
+    "Web3"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3817,
+      "sha256": "9ad608106dfa9f9634819a56b5b26dc8d4c6aabb46281ff1f9999673e67b7fe9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19620,
+      "sha256": "02f193110591955c522f50822502540af9964759de9512cbf1714d6594cd9c04"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1145,
+      "sha256": "8dafc2fe97a23587500e1c39c70e1245699b96c369b11cf17aa47725ea9ad52f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 400,
+      "sha256": "c42de3e9722af81cc531bb12fb6383efca172a9ce26755f6a845a982662f5f06"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 273,
+      "sha256": "06b8f35c66ced388782f64d10740f3f4f5bec46658300e1aa0fed90b6e48ceea"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37359,
+      "sha256": "2ffd73eca050d732e274e3e9a2ae2a330fd61a629d1cfe04f5fad859252e7197"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "gallery-portfolio",
+    "features",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

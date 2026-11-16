@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01661",
+  "title": "Outdoor Sales Agency Landing Page Template",
+  "summary": "A high-end, dark-themed template designed for sales agencies, B2B services, and premium outdoor brand distribution partners.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Landing Page",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3460,
+      "sha256": "ff1d51256f27ee27a4844d0edab25999c62a03c3b30670b246841ee6a3ce64ff"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10760,
+      "sha256": "2fb86f407bb1dcc578dde43a6391ed3727e0fc77238932b8899cdc7cbe3e04d4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "b2ad33e3176d79e3e4eab87b4678afbe6f8df3b328de885aa9b8e1b22b327b5b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24892,
+      "sha256": "db145a8ec1203993ec7462eee1c5de5e16705a82f61fc907191ca8e20beae2aa"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "about",
+    "logo-cloud",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01563",
+  "title": "Newsroom Layout with Featured Articles Grid",
+  "summary": "Full newsroom page section featuring a header with search and filters, featured article spotlight, responsive article cards grid, load-more control, newsletter signup, and footer. Styled with Tailwind-style utility classes for a modern, dark UI.",
+  "tags": [
+    "section",
+    "feature",
+    "newsroom",
+    "articles",
+    "layout",
+    "responsive",
+    "interactive",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20412,
+      "sha256": "61d66da26a2a95b7d5a7ba24fb235f33f38d499761dc28962ceb727bf7400ffe"
+    },
+    {
+      "path": "component.html",
+      "bytes": 29856,
+      "sha256": "ff6e394efdf7b638cca246c8228ed32af759ab20bc217c4511b37f597b205ac5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31337,
+      "sha256": "7d19d392ea2726a1ea03c972604f49ab987b00c01782202a64cdf5bf25db6908"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01903",
+  "title": "Creative Portfolio Landing Page Template",
+  "summary": "A modern and bold creative portfolio landing page template designed to showcase designers' skills, projects, and client testimonials effectively.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Creative",
+    "Skills",
+    "Testimonials",
+    "FAQ",
+    "Subscription",
+    "Contact",
+    "Design",
+    "Visual Storytelling"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3560,
+      "sha256": "23b05130b7989be2b6cd04504ed35bd2a5a9f78692fe17e12fc391f10860a389"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2576,
+      "sha256": "6a8f43c146c6f5376c973d59683f8960ed1f96fd97d392188bbc782c05084bba"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 873,
+      "sha256": "3a32ea9385be484550c1bfca1e79dd17cb14d0f4bc03afb3c46aff1b03b5ec41"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 872,
+      "sha256": "2e6452fa468d7a68094ef7ee67a6b9588cd002c9d63db600a127f8c43e74a752"
+    },
+    {
+      "path": "index.html",
+      "bytes": 49651,
+      "sha256": "955bc2fe285766189d584eb2f6e15de43dfcd0a4f1a197f998d3e8dd9ad4a590"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "stats",
+    "faq",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "SN-W04121",
+  "title": "Used Car Dealership Landing Page Template",
+  "summary": "A reusable landing page template for premium used car dealerships to showcase inventory, financing options, reviews, and showroom contact details.",
+  "tags": [
+    "Landing Page",
+    "Automotive",
+    "Services",
+    "Dark",
+    "3D",
+    "Gradient",
+    "Clean",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3688,
+      "sha256": "5a6e43d9d796070a347730f39285e0c3fa0488aa69efc46597c9e0abf105e448"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16782,
+      "sha256": "9d0a28ba79d9d9d2c58a8d6470e41d923d3bcde460d9f9b300a0c33df1be0a38"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 819,
+      "sha256": "f85e2d98f201cdeba45ab1d6e8844c761f3a4ed632491d76c587072e02373408"
+    },
+    {
+      "path": "index.html",
+      "bytes": 44974,
+      "sha256": "6f291e74fe853b332fe0f6554501adcf87159935a97fc457d5bbbe1d2fd027ae"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "about",
+    "listings",
+    "services",
+    "testimonials",
+    "features",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

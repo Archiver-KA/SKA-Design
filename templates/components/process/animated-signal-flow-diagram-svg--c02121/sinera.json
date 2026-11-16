@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02121",
+  "title": "Animated Signal Flow Diagram SVG",
+  "summary": "Animated SVG diagram showing a signal flowing through labeled nodes with pulsing and drawn-path effects. Ideal for illustrating processes, decision flows, or AI pipelines within dashboards, product pages, or technical explanations. Styled via inline CSS.",
+  "tags": [
+    "card",
+    "svg",
+    "animated",
+    "diagram",
+    "process",
+    "visualization",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6766,
+      "sha256": "d13569c6f8724f8b130524e69b14043a53c0cdd63e71ba2ec5eecbb1c60fe13a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6077,
+      "sha256": "9e699ed7ca6b82d5de9cfedf62eb179b01de8f7845419a36c56d36d2cc96a233"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6930,
+      "sha256": "33879d67f0d580a6db553ae9a3d4911a98299880917b2c5e63dddefeb059e3d8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

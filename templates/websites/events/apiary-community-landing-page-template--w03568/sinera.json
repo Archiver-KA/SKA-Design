@@ -1,0 +1,80 @@
+{
+  "id": "SN-W03568",
+  "title": "Apiary Community Landing Page Template",
+  "summary": "A modern Hive-themed landing page template for apiary schools, beekeeping clubs, and community programs to showcase training, events, and testimonials.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Education",
+    "Clean",
+    "Colorful",
+    "Large Type",
+    "Community",
+    "Beekeeping",
+    "Apiary",
+    "Events"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3404,
+      "sha256": "79c622fde6b07abf9b0917281e1a226f3170bcdd0d3e3ed62b78318d18e31941"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 31326,
+      "sha256": "612a2b5ad5760557cf54043a5eae6bc675b362fd25eb9d76e3ac6269f7aa0683"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1181,
+      "sha256": "67364977646868c25ec75be91fca4bf4b1364e5c3ad1edfbdf58ab1535c2fafc"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "c969d1af7a32126f8a0cbb73f4010d1f02fe7f8d2dd7bec67e416161e4e80943"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 176,
+      "sha256": "760da32edeaa5f57a714f343b4310da828cac0c630d422947cca808ff62e5ecb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32213,
+      "sha256": "2b929d3625c441ae318984b83cf6759d0e0fd67a082a4bd0fac881d8e619f9a6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "map-location",
+    "services",
+    "schedule-agenda",
+    "testimonials",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

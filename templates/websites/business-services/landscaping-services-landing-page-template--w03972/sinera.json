@@ -1,0 +1,66 @@
+{
+  "id": "SN-W03972",
+  "title": "Landscaping Services Landing Page Template",
+  "summary": "A modern landscaping services landing page template for showcasing eco-focused outdoor design, construction, and maintenance offerings for local clients.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Landscaping",
+    "Outdoor Design",
+    "Home Services",
+    "Local Business"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3681,
+      "sha256": "0f82d5d6aa1136aa2a828f08d86cf95e9cdd415760f0751d3de0d554d4fa8e1b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 67494,
+      "sha256": "d4412fbbabd8ec9e47afb888f7b02d07707c92d26153ea0f14fbb8a5612ef1bf"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 737,
+      "sha256": "71768090ff4dd7b88a30a42c5d6be666855ca665deddd02d3f6e8d4134d12a81"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35574,
+      "sha256": "ba5ea835d0debbfc972b9392c8e4b1e5af3da317454601e91ae55a120435739d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

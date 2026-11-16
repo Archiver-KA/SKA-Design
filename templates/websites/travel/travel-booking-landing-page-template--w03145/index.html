@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="en" data-theme="dwell">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Travel Booking Landing Page Template</title>
+<meta name="description" content="Booking landing page for hotels, resorts and guesthouses: introduce your destination, take direct reservations and capture interested guests.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Be+Vietnam+Pro:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config = {
+  theme: { extend: {
+    colors: { ground:'var(--sa-ground)', surface:'var(--sa-surface)', ink:'var(--sa-ink)', muted:'var(--sa-muted)', line:'var(--sa-line)', accent:'var(--sa-accent)', onaccent:'var(--sa-on-accent)', accent2:'var(--sa-accent-2)', onaccent2:'var(--sa-on-accent-2)' },
+    fontFamily: { display:['Fraunces','system-ui','serif'], body:['"Be Vietnam Pro"','system-ui','sans-serif'] }
+  } }
+}
+</script>
+<style>
+[data-theme="dwell"] {
+  --sa-ground: #F3F1EC; --sa-surface: #FBFAF7; --sa-ink: #1D1B1A; --sa-muted: #5F5A54; --sa-line: #DAD5CB;
+  --sa-accent: #1F4D3A; --sa-on-accent: #FBFAF7; --sa-accent-2: #C99A3B; --sa-on-accent-2: #1D1B1A;
+  --sa-font-display: "Fraunces", system-ui, sans-serif; --sa-font-body: "Be Vietnam Pro", system-ui, sans-serif;
+  --sa-radius-control: 2px; --sa-radius-card: 2px; --sa-display-case: none;
+  color-scheme: light; background: var(--sa-ground); color: var(--sa-ink); font-family: var(--sa-font-body);
+}
+body { background: var(--sa-ground); color: var(--sa-ink); font-family: var(--sa-font-body); font-size: 16px; line-height: 1.65; }
+h1,h2,h3 { font-family: var(--sa-font-display); text-wrap: balance; letter-spacing: -0.01em; }
+.btn { display:inline-flex; align-items:center; justify-content:center; gap:8px; min-height:48px; padding:0 22px; border:0; border-radius:2px; background:var(--sa-accent); color:var(--sa-on-accent); font:600 15px/1 var(--sa-font-body); text-decoration:none; cursor:pointer; }
+.btn:hover { background:#173a2b; }
+.btn-ghost { background:transparent; color:var(--sa-ink); box-shadow:inset 0 0 0 1px var(--sa-ink); }
+.btn-ghost:hover { background:var(--sa-ink); color:var(--sa-surface); }
+:focus-visible { outline:2px solid var(--sa-ink); outline-offset:3px; }
+.on-dark :focus-visible { outline-color:var(--sa-surface); }
+.ph { position:relative; background:repeating-linear-gradient(135deg, #E7E3D9 0 12px, #EDEAE1 12px 24px); border:1px solid var(--sa-line); display:flex; align-items:flex-end; }
+.ph span { margin:12px; padding:4px 8px; background:var(--sa-surface); color:var(--sa-muted); font-size:12px; line-height:1.4; border:1px solid var(--sa-line); }
+.field { display:block; width:100%; min-height:48px; padding:0 12px; background:var(--sa-surface); border:1px solid var(--sa-ink); border-radius:2px; font:400 16px var(--sa-font-body); color:var(--sa-ink); }
+details > summary { list-style:none; cursor:pointer; min-height:56px; display:flex; align-items:center; justify-content:space-between; gap:16px; }
+details > summary::-webkit-details-marker { display:none; }
+details[open] .plus { transform:rotate(45deg); }
+.plus { transition:transform .2s; }
+@media (prefers-reduced-motion: reduce){ .plus{transition:none} }
+</style>
+</head>
+<body>
+
+<a href="#main" class="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:bg-surface focus:p-3">Skip to content</a>
+
+<header class="border-b border-line bg-ground sticky top-0 z-40">
+  <div class="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between gap-4">
+    <a href="#" class="font-display text-xl font-semibold min-h-[44px] inline-flex items-center">[HOTEL NAME]</a>
+    <nav aria-label="Main" class="hidden md:flex items-center gap-8 text-[15px]">
+      <a href="#diem-den" class="hover:underline underline-offset-4">Destination</a>
+      <a href="#phong" class="hover:underline underline-offset-4">Rooms</a>
+      <a href="#dat-truc-tiep" class="hover:underline underline-offset-4">Book direct</a>
+      <a href="#hoi-dap" class="hover:underline underline-offset-4">FAQ</a>
+    </nav>
+    <div class="flex items-center gap-2">
+      <a href="#dat-phong" class="btn hidden sm:inline-flex">Check availability</a>
+      <button id="menuBtn" class="md:hidden w-11 h-11 inline-flex items-center justify-center border border-line" aria-label="Open menu" aria-expanded="false" aria-controls="mobileNav">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+      </button>
+    </div>
+  </div>
+  <nav id="mobileNav" aria-label="Mobile" class="hidden md:hidden border-t border-line bg-surface px-4 py-2">
+    <a href="#diem-den" class="flex items-center min-h-[48px]">Destination</a>
+    <a href="#phong" class="flex items-center min-h-[48px]">Rooms</a>
+    <a href="#dat-truc-tiep" class="flex items-center min-h-[48px]">Book direct</a>
+    <a href="#hoi-dap" class="flex items-center min-h-[48px]">FAQ</a>
+    <a href="#dat-phong" class="btn w-full my-2">Check availability</a>
+  </nav>
+</header>
+
+<main id="main">
+
+<!-- HERO: ảnh lệch phải, thanh đặt phòng dạng "vé" cắt ngang đáy ảnh -->
+<section class="pt-10 md:pt-16 pb-0">
+  <div class="max-w-6xl mx-auto px-4 grid md:grid-cols-12 gap-8 md:gap-10 items-end">
+    <div class="md:col-span-6 pb-2 md:pb-24">
+      <p class="text-sm font-medium text-muted tracking-wide mb-4">[DESTINATION NAME] · Holiday stays</p>
+      <h1 class="text-[40px] leading-[1.08] sm:text-6xl md:text-[64px] font-semibold">Book your whole holiday direct with us.</h1>
+      <p class="mt-6 text-lg text-muted max-w-md">Pick your dates, choose a room and get confirmation from [HOTEL NAME] right on this page. No middlemen, no hidden fees.</p>
+      <div class="mt-8 flex flex-wrap gap-3">
+        <a href="#dat-phong" class="btn">Check availability</a>
+        <a href="#phong" class="btn btn-ghost">See our rooms</a>
+      </div>
+    </div>
+    <div class="md:col-span-6 md:col-start-7 md:-mr-4 lg:-mr-24">
+      <div class="ph aspect-[4/5] md:aspect-[5/6] w-full"><span>Wide shot of the hotel / beach, portrait 4:5</span></div>
+    </div>
+  </div>
+
+  <div id="dat-phong" class="max-w-6xl mx-auto px-4 relative md:-mt-14">
+    <form class="bg-surface border border-ink p-4 md:p-5 grid gap-4 md:grid-cols-[1.3fr_1fr_1fr_0.7fr_auto] items-end" onsubmit="event.preventDefault();document.getElementById('formNote').hidden=false;">
+      <div><label for="dest" class="block text-sm font-medium mb-1">Destination</label>
+        <select id="dest" class="field"><option>[PROPERTY 1]</option><option>[PROPERTY 2]</option></select></div>
+      <div><label for="cin" class="block text-sm font-medium mb-1">Check-in</label><input id="cin" type="date" class="field"></div>
+      <div><label for="cout" class="block text-sm font-medium mb-1">Check-out</label><input id="cout" type="date" class="field"></div>
+      <div><label for="guests" class="block text-sm font-medium mb-1">Guests</label>
+        <select id="guests" class="field"><option>1</option><option selected>2</option><option>3</option><option>4</option><option>5+</option></select></div>
+      <button class="btn w-full md:w-auto" type="submit">Find rooms</button>
+    </form>
+    <p id="formNote" hidden class="mt-3 text-sm text-muted" role="status">This is a sample form. Connect it to your booking system to show real availability.</p>
+  </div>
+</section>
+
+<!-- BẰNG CHỨNG -->
+<section class="py-14 md:py-24" aria-labelledby="proof-h">
+  <div class="max-w-6xl mx-auto px-4">
+    <h2 id="proof-h" class="sr-only">Why guests come back</h2>
+    <div class="grid md:grid-cols-12 gap-8 items-start">
+      <figure class="md:col-span-7 border-t-2 border-ink pt-6">
+        <blockquote class="font-display text-2xl md:text-3xl leading-snug">“[GUEST QUOTE: one specific line about the room, the breakfast or how the team welcomed them.]”</blockquote>
+        <figcaption class="mt-4 text-muted text-sm">[NAME, TITLE] · [REVIEW SOURCE]</figcaption>
+      </figure>
+      <ul class="md:col-span-5 grid gap-0 text-[15px]">
+        <li class="flex gap-3 py-4 border-t border-line"><span class="font-display text-accent text-xl">01</span><span>Booking direct always gets you the same price or better than third-party sites. [YOUR OFFER]</span></li>
+        <li class="flex gap-3 py-4 border-t border-line"><span class="font-display text-accent text-xl">02</span><span>Real people answer your messages, usually within office hours. [RESPONSE WINDOW]</span></li>
+        <li class="flex gap-3 py-4 border-t border-b border-line"><span class="font-display text-accent text-xl">03</span><span>Date-change and cancellation terms are spelled out before you pay.</span></li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- ĐIỂM ĐẾN: lưới bất đối xứng -->
+<section id="diem-den" class="py-14 md:py-24 bg-surface border-y border-line">
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="md:flex justify-between items-end gap-8 mb-10">
+      <h2 class="text-3xl md:text-5xl font-semibold max-w-xl">One place to go, three ways to stay.</h2>
+      <p class="text-muted max-w-sm mt-4 md:mt-0">A short note on location: how far to the airport, the beach or the centre. [REAL DISTANCES]</p>
+    </div>
+    <div class="grid md:grid-cols-12 gap-4">
+      <div class="md:col-span-7 md:row-span-2">
+        <div class="ph aspect-[4/3] md:aspect-auto md:h-full min-h-[280px]"><span>Photo of the main resort grounds, 4:3</span></div>
+      </div>
+      <article class="md:col-span-5 border border-line p-6 bg-ground">
+        <h3 class="text-2xl font-semibold">Close to the sea</h3>
+        <p class="mt-2 text-muted">[NUMBER] minutes on foot to the beach. Ideal for families with young children.</p>
+      </article>
+      <article class="md:col-span-5 border border-line p-6 bg-ground">
+        <h3 class="text-2xl font-semibold">Peace and quiet</h3>
+        <p class="mt-2 text-muted">Private garden and pool, no main-road noise, a proper night's sleep.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- HẠNG PHÒNG -->
+<section id="phong" class="py-14 md:py-24">
+  <div class="max-w-6xl mx-auto px-4">
+    <h2 class="text-3xl md:text-5xl font-semibold max-w-2xl">Choose the room that fits your trip.</h2>
+    <div class="mt-10 grid md:grid-cols-3 gap-6">
+      <article class="flex flex-col">
+        <div class="ph aspect-[4/3]"><span>Standard room photo</span></div>
+        <h3 class="text-2xl font-semibold mt-5">Standard Room</h3>
+        <p class="text-muted mt-1 grow">For 1–2 guests. Double bed, balcony, breakfast. [ROOM SIZE]</p>
+        <p class="mt-4 font-medium">From [YOUR PRICE] / night</p>
+        <a href="#dat-phong" class="btn btn-ghost mt-3">Select this room</a>
+      </article>
+      <article class="flex flex-col">
+        <div class="ph aspect-[4/3]"><span>Family room photo</span></div>
+        <h3 class="text-2xl font-semibold mt-5">Family Room</h3>
+        <p class="text-muted mt-1 grow">For 3–4 guests. Two beds, separate seating area, garden view. [ROOM SIZE]</p>
+        <p class="mt-4 font-medium">From [YOUR PRICE] / night</p>
+        <a href="#dat-phong" class="btn btn-ghost mt-3">Select this room</a>
+      </article>
+      <article class="flex flex-col">
+        <div class="ph aspect-[4/3]"><span>Villa / suite photo</span></div>
+        <h3 class="text-2xl font-semibold mt-5">Private Villa</h3>
+        <p class="text-muted mt-1 grow">Private pool, kitchenette, butler on request. [ROOM SIZE]</p>
+        <p class="mt-4 font-medium">From [YOUR PRICE] / night</p>
+        <a href="#dat-phong" class="btn btn-ghost mt-3">Select this room</a>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ĐẶT TRỰC TIẾP: quy trình 3 bước -->
+<section id="dat-truc-tiep" class="py-14 md:py-24 bg-accent text-onaccent on-dark">
+  <div class="max-w-6xl mx-auto px-4 grid md:grid-cols-12 gap-10">
+    <div class="md:col-span-5">
+      <h2 class="text-3xl md:text-5xl font-semibold">Booked in three steps.</h2>
+      <p class="mt-4 opacity-90">No account needed. You only pay once you have read the policy.</p>
+    </div>
+    <ol class="md:col-span-7 grid gap-0">
+      <li class="flex gap-5 py-5 border-t border-white/30"><span class="font-display text-3xl w-10 shrink-0">1</span><div><h3 class="text-xl font-semibold">Choose dates and room type</h3><p class="opacity-90 mt-1">See the final price at once, taxes and service fees included. [PRICING POLICY]</p></div></li>
+      <li class="flex gap-5 py-5 border-t border-white/30"><span class="font-display text-3xl w-10 shrink-0">2</span><div><h3 class="text-xl font-semibold">Leave your contact details</h3><p class="opacity-90 mt-1">Name, phone number and any special requests, such as an extra bed or airport pickup.</p></div></li>
+      <li class="flex gap-5 py-5 border-t border-b border-white/30"><span class="font-display text-3xl w-10 shrink-0">3</span><div><h3 class="text-xl font-semibold">Get your confirmation</h3><p class="opacity-90 mt-1">A confirmation email with check-in instructions arrives within [TIMEFRAME].</p></div></li>
+    </ol>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section id="hoi-dap" class="py-14 md:py-24">
+  <div class="max-w-3xl mx-auto px-4">
+    <h2 class="text-3xl md:text-5xl font-semibold">Frequently asked questions</h2>
+    <div class="mt-8 border-t border-ink">
+      <details class="border-b border-line"><summary class="font-medium">What are the check-in and check-out times?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted">Check-in from [TIME], check-out by [TIME]. If you need earlier or later, add it to your request and we will arrange it.</p></details>
+      <details class="border-b border-line"><summary class="font-medium">Can I cancel or change my dates?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted">[YOUR CANCELLATION POLICY: free-cancellation window, fee after the deadline].</p></details>
+      <details class="border-b border-line"><summary class="font-medium">Do you offer airport transfers?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted">Transfers are available on request. [TRANSFER PRICE] Please give your flight number when booking.</p></details>
+      <details class="border-b border-line"><summary class="font-medium">Are pets and children welcome?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted">[YOUR POLICY ON CHILDREN AND PETS].</p></details>
+    </div>
+  </div>
+</section>
+
+<!-- CTA CUỐI -->
+<section class="pb-14 md:pb-24">
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="border border-ink bg-surface p-8 md:p-14 grid md:grid-cols-[1fr_auto] gap-6 items-center">
+      <div>
+        <h2 class="text-3xl md:text-4xl font-semibold">The best dates still have rooms. Don't let someone else take them.</h2>
+        <p class="mt-3 text-muted">Or call [PHONE NUMBER] to speak to reception.</p>
+      </div>
+      <a href="#dat-phong" class="btn">Check availability</a>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer class="border-t border-line py-10">
+  <div class="max-w-6xl mx-auto px-4 grid md:grid-cols-3 gap-8 text-[15px]">
+    <div><p class="font-display text-xl font-semibold">[HOTEL NAME]</p><p class="text-muted mt-2">[ADDRESS]</p></div>
+    <div><p class="font-medium">Contact</p><p class="text-muted mt-2">[PHONE NUMBER]<br>[EMAIL]</p></div>
+    <div><p class="font-medium">Information</p><ul class="mt-2 text-muted"><li><a class="inline-flex min-h-[44px] items-center hover:underline" href="#hoi-dap">Cancellation policy</a></li><li><a class="inline-flex min-h-[44px] items-center hover:underline" href="#diem-den">Location</a></li></ul></div>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var b=document.getElementById('menuBtn'), n=document.getElementById('mobileNav');
+  b.addEventListener('click',function(){
+    var open=n.classList.toggle('hidden')===false;
+    b.setAttribute('aria-expanded',open); b.setAttribute('aria-label',open?'Close menu':'Open menu');
+  });
+  n.addEventListener('click',function(e){ if(e.target.tagName==='A'){ n.classList.add('hidden'); b.setAttribute('aria-expanded','false'); } });
+})();
+</script>
+</body>
+</html>

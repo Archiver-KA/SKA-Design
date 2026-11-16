@@ -1,0 +1,64 @@
+{
+  "id": "SN-W04221",
+  "title": "Interactive Pie Chart for Design Tools",
+  "summary": "Displays an animated pie chart of popular design tools using Highcharts and Tailwind CSS styling.",
+  "tags": [
+    "Pie Chart",
+    "Highcharts",
+    "Tailwind CSS",
+    "Animation",
+    "Data Visualization",
+    "Interactive UI"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2721,
+      "sha256": "bb688972964a619ba237e3c93bef7f9f9712bdbc4c6cf5717c1a56a1ff7c2df4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2332,
+      "sha256": "6dac61e3813fec28e15e380bd04b4509ec54c646124ee6503dd17f55b3e3795f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 957,
+      "sha256": "067a419261e9dc63f0d76de3c26416bf1890e091cced50b74cbcfc004e852bcc"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 425,
+      "sha256": "9464080bb09c23eae96b217335b940a8dce13a523933e7630078cbb7fd31a6fb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5079,
+      "sha256": "bc55fa6e9cb2410d5f644f4b32c9d4f9d7d3b2dca5701282cfe41f3a479e8d09"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "snippetType": "dashboard-preview",
+  "design": "DESIGN.md"
+}

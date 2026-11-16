@@ -1,0 +1,64 @@
+{
+  "id": "SN-W03581",
+  "title": "Corporate Conference Landing Page Template",
+  "summary": "A sophisticated dark-themed landing page template designed for corporate annual meetings, tech conferences, and high-end networking events.",
+  "tags": [
+    "Conference",
+    "Technology",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3688,
+      "sha256": "9826eb4847e2af48eee47461ce4a40a2e37a3e27cbdcb430dd250c9bd4935bfb"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12610,
+      "sha256": "2007eaecb537c44297eac723728407ff922bcaf9366ecaa84732d5225528a951"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 727,
+      "sha256": "b55cbbe40d44bdb998c45b74ed91a74ad2910c1fc9e6f3a9e0c7f5500ea9a6ee"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21413,
+      "sha256": "ae45591a0d1f7eb3fd7e83a1183471f2c1f692f73ad43efa7f26cf93a029e0f9"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "services",
+    "team",
+    "schedule-agenda",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

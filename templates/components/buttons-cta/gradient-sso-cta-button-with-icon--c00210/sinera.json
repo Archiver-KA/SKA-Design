@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00210",
+  "title": "Gradient SSO CTA Button with Icon",
+  "summary": "Interactive call-to-action button featuring a fuchsia-to-violet gradient, lucide shield-check icon, hover/focus animations, and click handler for SSO sign-up or free-trial flows. Styled with Tailwind utility classes.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "gradient",
+    "icon",
+    "interactive",
+    "signup",
+    "sso"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1928,
+      "sha256": "4d0ce268f90353e63787c7f2cd3bf2c445a3b613376f52f6dd33da826979dbcf"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1000,
+      "sha256": "3737ec02b8b5f9472825a28c6b00db973bb730702ec25755110bc71be38a2d5a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1984,
+      "sha256": "d978e596195aaf9f9c40efc914f73998b0b3fc67ab7c03293b8f310ab976fd78"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01393",
+  "title": "Hero Section with Booking Card",
+  "summary": "A split-layout hero section featuring large typography on the left and an interactive booking card on the right. Includes rating badges and location info.",
+  "tags": [
+    "hero",
+    "booking",
+    "form",
+    "glassmorphism",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 24074,
+      "sha256": "5d96d1a740c8d1e664a7212171cdd98e7e2ccc64f9287ec7696243f9ffb60dba"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8937,
+      "sha256": "8c0d357a2a1e341c32a3423ad261a1b85e26c6dd06c515ac8e8a750a01ca97c2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9788,
+      "sha256": "97d235d793760d7dded2febace6cc8bbd7850375f023676e4e0c778de02aeadc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

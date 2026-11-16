@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00859",
+  "title": "Responsive Feature Grid with Tailwind Hover Effects",
+  "summary": "Displays a responsive 1–4 column grid of numbered feature cards with icons, subtle hover color transitions, and a highlighted callout tile. Tailwind CSS styling; ideal for landing pages to showcase product benefits or service highlights.",
+  "tags": [
+    "feature",
+    "grid",
+    "tailwind",
+    "responsive",
+    "hover",
+    "icon",
+    "landing-page"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14382,
+      "sha256": "18301abe316a84ccd22895e04dabde32d849a7278d8a7ccbcb5618517afe0a1a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10047,
+      "sha256": "04d69cd00c7c0891688b9d116cbc9e9d48f8df21d2059f1a749af8170fbaff7c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11049,
+      "sha256": "58ac00f636cadf4e7cf0620d9fdb533d699419029ea05148716a89cdeb3f69de"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

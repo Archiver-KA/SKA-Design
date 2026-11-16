@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01722",
+  "title": "Logo in PNG",
+  "summary": "Anchor element styled with Tailwind utilities to function as a button featuring a cover-fit background image and screen blend mode, suitable for image-based CTAs or navigation links.",
+  "tags": [
+    "link",
+    "button",
+    "anchor",
+    "tailwind",
+    "background-image",
+    "cta",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4112,
+      "sha256": "74142325168bf97cd9c0112d7fc664d90e4af1b054d264b9ab99490bf8e0e287"
+    },
+    {
+      "path": "component.html",
+      "bytes": 500,
+      "sha256": "7af971fb66c62c8b4c62a54f3bbf19bf8743bfbd52b42a2bb8d4a87f9df8dbc2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1332,
+      "sha256": "db3e7c7c4e633ae1cd4f1167b209deb17210e973636aff4fd5dae293209d9dc1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

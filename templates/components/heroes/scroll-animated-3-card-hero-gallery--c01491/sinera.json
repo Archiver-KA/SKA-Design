@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01491",
+  "title": "Scroll-Animated 3-Card Hero Gallery",
+  "summary": "Hero section with three stacked image cards styled with Tailwind. Side cards angle and fade while center card enlarges during scroll, forming a 3D merge animation. Perfect for portfolios, photo galleries or landing pages.",
+  "tags": [
+    "gallery",
+    "scroll-animation",
+    "tailwind",
+    "responsive",
+    "3d",
+    "image"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26244,
+      "sha256": "db0c3013ebfebfa8ed8aa8124f4da8be88aac706ba3645fb215abf0cc60e6011"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4890,
+      "sha256": "f1af360f345fa5cf96ce98cd2e51c43369175672c9edcb3dbf36f0fa767ba752"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5876,
+      "sha256": "828453685b27873b47a173a6c07d269388e6db04991954e98326c8e51da21538"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

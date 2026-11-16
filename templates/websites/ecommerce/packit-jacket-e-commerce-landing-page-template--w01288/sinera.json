@@ -1,0 +1,69 @@
+{
+  "id": "SN-W01288",
+  "title": "Packit Jacket E-commerce Landing Page Template",
+  "summary": "Bold e-commerce landing page template for showcasing a hero product like a travel jacket with huge pockets, featuring benefits, video, press, and FAQs.",
+  "tags": [
+    "E-commerce",
+    "Landing Page",
+    "Brand",
+    "Travel",
+    "Large Type",
+    "Colorful",
+    "Minimal",
+    "Fashion",
+    "Services",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3667,
+      "sha256": "bfc83da90a7a5adde569673d6e98b479038f348eee6fbd98c0352412f000ebf4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21576,
+      "sha256": "ae3c45b0af1e67afc38f0a61971efc4820b28db3bd2caae46c24df47edfa558a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "71b14a39c3ad046166482c7172554f59204c243b4d9428b8d5ffccce33d122f7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25130,
+      "sha256": "7ae128b0c1bb35831a4b71b3cc1a8d0c80ce71deb6d79c3206aef5000fa59d08"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "product-grid",
+    "features",
+    "logo-cloud",
+    "comparison",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

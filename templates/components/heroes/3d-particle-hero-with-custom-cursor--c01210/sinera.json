@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01210",
+  "title": "3D Particle Hero with Custom Cursor",
+  "summary": "Fullscreen hero section featuring a Three.js particle background, animated headline, navigation, CTA buttons, and a custom magnetic cursor with blur spotlight and noise overlay. Ideal for creative studio or portfolio landing pages.",
+  "tags": [
+    "hero",
+    "section",
+    "animated",
+    "threejs",
+    "interactive",
+    "landing",
+    "fullscreen"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10826,
+      "sha256": "c8e4c139197e63578f299335a5cd8db1f12799dd4e393898df9dd743ea68f8ed"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8579,
+      "sha256": "c18717e59eadafc6ff7040223522eb5d4ea8b58f03e3700b587df5189bb0d8cb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9435,
+      "sha256": "23878994f8afbd7c40746ad3f5d2bb3fa0dcd8d31849d60e81ef9d649df4a557"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

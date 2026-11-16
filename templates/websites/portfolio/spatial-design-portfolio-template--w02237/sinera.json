@@ -1,0 +1,73 @@
+{
+  "id": "SN-W02237",
+  "title": "Spatial Design Portfolio Template",
+  "summary": "A reusable portfolio template for architecture and spatial design studios, featuring immersive motion, case studies, and a refined editorial presentation.",
+  "tags": [
+    "Portfolio",
+    "Services",
+    "Art & Design",
+    "Minimal",
+    "Clean",
+    "Animated",
+    "Dark",
+    "Large Type",
+    "architecture",
+    "spatial design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3354,
+      "sha256": "b8156dfb8ab98fae69afd574127c0f9780c7acd1a420a498a0453f097eb7b864"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4086,
+      "sha256": "511516d8fb685c11029ebb612e64362eda746e0271880cabd45dd02c461738c4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 861,
+      "sha256": "0592d5407f1dfdde32b388b70109fc31a186a90342d462ed2f4ec4c2e70bcb17"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 242,
+      "sha256": "b0f9a15febabe876c74ae4295bfefca3ebbd9d2f2d5f89ab38670851fbb5c953"
+    },
+    {
+      "path": "index.html",
+      "bytes": 43471,
+      "sha256": "2dcaa060d1b9e147f0717645f9ec213ce106569e896ce56c0deb8f6c5fea4cfa"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "gallery-portfolio",
+    "features",
+    "awards-press",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

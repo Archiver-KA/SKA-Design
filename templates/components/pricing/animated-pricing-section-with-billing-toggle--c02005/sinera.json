@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02005",
+  "title": "Animated Pricing Section with Billing Toggle",
+  "summary": "Dark-themed pricing section featuring three tier cards, monthly/yearly toggle, smooth scroll/fade animations, and a detailed comparison table. Built with Tailwind utility classes, fully responsive and ideal for SaaS or subscription pages.",
+  "tags": [
+    "pricing",
+    "tailwind",
+    "animated",
+    "responsive",
+    "saas",
+    "comparison"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 23990,
+      "sha256": "c3d04522c8adc83d4a70d207a2ec58fc9699b822c85be2ef03cfbefdb706ed80"
+    },
+    {
+      "path": "component.html",
+      "bytes": 20495,
+      "sha256": "67b01e007f91b1ac17c89db7c92ca7dcfa2876dc64373beb75653d7dfce2158a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21490,
+      "sha256": "ee9cc3d3c237eb68c457a869c8533bf5382d111629c14371ac1e8b34d82801f1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00449",
+  "title": "Responsive Yacht Category Card Grid",
+  "summary": "Tailwind section with four hoverable link cards for yacht categories. Icons, titles, blurb text and animated gradient/ring on hover in a 1–4 column responsive grid. Great for landing pages, travel or luxury charter sites needing visual category navigation.",
+  "tags": [
+    "card",
+    "grid",
+    "tailwind",
+    "responsive",
+    "hover",
+    "category",
+    "navigation",
+    "icon"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11768,
+      "sha256": "167bdcb9d2a9a6efcf2d5b8f42146b16435bc0ae935521a9733bc6f441ab56a4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9858,
+      "sha256": "a66c97e878da62d81184414b24eca460a6dbfd793729a075084ab3e1f45048ca"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10844,
+      "sha256": "d2cf70cc9169e38060602490ad142b0fd581dfae7c1623b02e615b4cc8d1dbef"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

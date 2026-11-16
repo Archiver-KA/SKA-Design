@@ -1,0 +1,15 @@
+# Embedded images — SN-W02923
+
+- **Name:** Kampai Sushi Bar Restaurant Landing Page Template
+- **Collection:** Service / Food / Hospitality
+- **Source code:** unchanged from the original export
+- **Source files scanned:** 1 (34966 bytes)
+- **Unique images extracted:** 1
+- **Total occurrences:** 1 (data:image: 1; inline SVG: 0)
+- **Image folder:** images/embedded/ (created when the template has inline images)
+
+Images referenced by external URL are not copied in this step; only image data embedded directly as data:image/* URIs and inline <svg>...</svg> elements is extracted.
+
+| Extracted file | Type | MIME | Bytes | SHA-256 | Location in the original source |
+|---|---|---|---:|---|---|
+| [embedded-0001.svg](images/embedded/embedded-0001.svg) | data-uri | image/svg+xml | 254 | `716b85f622359be5005a2b1fd0b60d40c614528fc3179dd89f3ca298d05ca966` | index.html:51:24 (data-uri) |

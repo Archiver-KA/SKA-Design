@@ -1,0 +1,37 @@
+{
+  "id": "SN-C01317",
+  "title": "DocuFrame Technical Hero Section",
+  "summary": "A sophisticated technical hero section with a blueprint aesthetic, featuring a framed layout, GSAP-powered text reveal animations, and a simulated terminal-style chat interface. Ideal for developer tools, AI platforms, and technical documentation products.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "animated",
+    "gsap",
+    "documentation",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 24908,
+      "sha256": "0d1695cf7379833d7bfc829630856441356ae79ed10e3b0b0cec377103ce3ad1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17848,
+      "sha256": "5469f58d7de6302dddcf47aa60024b4235f252b94b4c383b6b76f02aece3d7f9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

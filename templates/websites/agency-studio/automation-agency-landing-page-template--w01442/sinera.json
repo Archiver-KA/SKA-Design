@@ -1,0 +1,77 @@
+{
+  "id": "SN-W01442",
+  "title": "Automation Agency Landing Page Template",
+  "summary": "A modern French-language landing page template for Make.com automation agencies to showcase services, case studies, and capture consultation bookings.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Automation",
+    "Agency"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3700,
+      "sha256": "1011226aa143ec64dfa90db490c2756784cf751bdb83d5dd442b181a632f6a22"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16620,
+      "sha256": "b7bd718bdf696ea9ee04190f3119a031a28ecb94c54a9fc341cb69403118f3e3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1074,
+      "sha256": "429e7a21a1e84d508b05809ecdc788aa2340d66e1a492ac0d6316b187be5f22d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 312,
+      "sha256": "00234183e3473306849d905672bf0abbf56212bca66d02e1cd585d49f22105d6"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 450,
+      "sha256": "54fe76783191ae65411ece034cee39acbab9e59b85fe5e5381e284405823ea12"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36024,
+      "sha256": "92e1135485bc9d200fc4ae13e44bd0cc8885520dc897d23887af7c61f2bde793"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "testimonials",
+    "how-it-works",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

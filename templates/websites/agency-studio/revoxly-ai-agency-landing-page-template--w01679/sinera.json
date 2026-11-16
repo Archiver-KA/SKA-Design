@@ -1,0 +1,79 @@
+{
+  "id": "SN-W01679",
+  "title": "Revoxly AI Agency Landing Page Template",
+  "summary": "A bold, conversion-focused agency landing page template for AI automation and digital ecosystems, ready to customize for high-growth service brands.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Art & Design",
+    "Portfolio",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3566,
+      "sha256": "d4125adbd2dd87f60e4410ea15c889f055bf5ad74c63d47a7013014c933e8049"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19972,
+      "sha256": "9c3bcb9c4da97952ead65adbb466a71840f306419b1e0d420b2017888166e0c2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1156,
+      "sha256": "a055d0e558eccfd6b930e70877ae8846134007019b4e5b947a66435028fbf768"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 426,
+      "sha256": "b08161a617d9980707621003f64949ed34962e8c4509f626d19e944c7644b4d6"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 710,
+      "sha256": "b156e5fac2d5802aca16b60f0cb5849ce86c1e00961f515a0cb4716bfa16bf58"
+    },
+    {
+      "path": "index.html",
+      "bytes": 65856,
+      "sha256": "a6607c61886e83f479c2cf3e550b77ae94141e6040012b2a69e0220735d4c279"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "faq",
+    "stats",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

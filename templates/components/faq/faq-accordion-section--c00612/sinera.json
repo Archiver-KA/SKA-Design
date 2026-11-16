@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00612",
+  "title": "FAQ Accordion Section",
+  "summary": "Interactive FAQ accordion with collapsible answers, designed for space tourism questions with glassmorphic styling on dark background",
+  "tags": [
+    "faq",
+    "accordion",
+    "dark",
+    "glassmorphic",
+    "interactive",
+    "support",
+    "questions",
+    "animated"
+  ],
+  "kind": "components",
+  "category": "faq",
+  "categoryLabel": "FAQ & accordions",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12402,
+      "sha256": "7980bb2c598740c6d5f7abbb6718683535c4f956ed6f556656ace8c4c9ddda59"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9005,
+      "sha256": "f8a71eebc666d1d16194bcb190c561c23fed1825174cbbb7fed20e4200510ed1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9847,
+      "sha256": "5124a51c399cfe0f8ef8a1087ea003597eefcc04459b04c757ee0e974f8ff790"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

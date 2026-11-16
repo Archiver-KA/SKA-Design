@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02203",
+  "title": "AI Image Generator Dashboard Layout",
+  "summary": "Full-page Tailwind dashboard featuring mac-style title bar, sidebar navigation, credits meter, settings panel, prompt input, and responsive image grid with hover actions—ideal for generative AI or creative studio applications.",
+  "tags": [
+    "dashboard",
+    "image-generator",
+    "settings-panel",
+    "grid",
+    "tailwind",
+    "responsive",
+    "full-page",
+    "layout",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21630,
+      "sha256": "41cb3df254d19b5e16b95c0d45a584685d48d56ec0f39c46efb1ffbf703cd5a3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 31066,
+      "sha256": "114a3c1e2f959967255d5d02ccaddb4dd1eee46fb37c6d37592589a56d842393"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31922,
+      "sha256": "ec6c3bf01436c9bcd48ffb7037945de09ca186c913e05d5b921fa31fe2b45237"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SN-W04045",
+  "title": "Pixel Pals IT Services Landing Page Template",
+  "summary": "A reusable landing page template for local IT and tech support services, inspired by Pixel Pals, to promote computer help, Wi-Fi fixes, and device setup.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Colorful",
+    "Illustrative",
+    "Large Type",
+    "Gradient",
+    "IT services",
+    "Local business"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3487,
+      "sha256": "43d3fc9699f07ec105ace848b902b06699a63d0d52f76814987d9f041bd9b3cf"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18904,
+      "sha256": "0a088e2abea6c18d4d650d4dfc1a3891db2bb9810f1776cca0e1cf394a8b0965"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 739,
+      "sha256": "fcd9ec31e8c9360702a0ff5924cf5b37bc5cbabf87a224179796585dbdbc5792"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23452,
+      "sha256": "d8d17e8d5e014b4369b4a933b84a5704e40385eb04ddf8768e67957525568f1c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "about",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

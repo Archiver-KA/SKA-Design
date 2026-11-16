@@ -1,0 +1,62 @@
+{
+  "id": "SN-W04271",
+  "title": "Release History Timeline and Features",
+  "summary": "Displays a detailed changelog timeline with version tracking, feature showcases, and categorized updates in a styled UI.",
+  "tags": [
+    "Changelog",
+    "Timeline",
+    "Release Notes",
+    "Feature Showcase",
+    "Responsive Design",
+    "Tailwind CSS"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3174,
+      "sha256": "18df5229e42c2b64a605d0f8192908a339b9d52bee7d3f375c5c058841fc46dc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 30678,
+      "sha256": "90bb55b926e534912f971d634ff50b2c3099f13c8a8969d988362b260a450e30"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 876,
+      "sha256": "80745c6fb71e59add5d8e0d0d2f1ae72b5b4aaf7f383f8b3cada265e522aa235"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 284,
+      "sha256": "de12264d9b02f06d8ea6bbfdc64de2e24aa3a84731a734954fba86bc874c4fd9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18506,
+      "sha256": "6001e78adfb479af086c87a3b2c06142eb29645f3c7fc4a2c55e66db0e455e96"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

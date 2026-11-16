@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00860",
+  "title": "Responsive Feature Highlights Grid Section",
+  "summary": "Marketing section displaying up to six feature cards with icons, titles, descriptions and hover effects. Built with Tailwind CSS, it uses a responsive 2-3 column grid ideal for landing pages to showcase product capabilities.",
+  "tags": [
+    "feature section",
+    "card",
+    "grid",
+    "tailwind",
+    "responsive",
+    "hover",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 28358,
+      "sha256": "87a6ceb9311a499d76c30a3ec4f9bb60ab157b1b5c59bb010b1786e4ab5298e2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10773,
+      "sha256": "1edb6b75cde1d8e67134010a6f7b74092fc374342a0a46cd5355fb7d30376078"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11766,
+      "sha256": "766919dbc2c4606b59957ae6d695ed0858dd97fc5e431de8001abe3b98a8ceb3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

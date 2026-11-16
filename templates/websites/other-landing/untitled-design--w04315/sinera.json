@@ -1,0 +1,60 @@
+{
+  "id": "SN-W04315",
+  "title": "Untitled Design",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3700,
+      "sha256": "b15c7289cac6de8403263d92e1111ccae35cb493ec07ebd47a9c72111dd5a8dd"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5490,
+      "sha256": "554c8cd6a2043af3eabdbeedacf5e93b91925655cf05d10d3410a764e69232c0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 854,
+      "sha256": "352d8b8752e60da86009fca709788fb240cba3c6a33c0808dfd257ec12549519"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 510,
+      "sha256": "fe2d7d3077c215e4e32123827ae8e328c77675e8455c50535ac312fba1ecb6a6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 65265,
+      "sha256": "95b613a8879bd0f8bcc91876c50399b49d40b710908663de486cc5312a611f93"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "pricing",
+    "cta",
+    "hero",
+    "video-media",
+    "3d-canvas"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

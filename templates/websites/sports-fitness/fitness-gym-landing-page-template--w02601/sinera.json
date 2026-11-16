@@ -1,0 +1,71 @@
+{
+  "id": "SN-W02601",
+  "title": "Fitness Gym Landing Page Template",
+  "summary": "A bold fitness gym template for promoting classes, trainers, pricing, schedules, and app downloads to attract new members online.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Dark",
+    "Clean",
+    "Large Type",
+    "gym",
+    "fitness",
+    "membership"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3856,
+      "sha256": "a7cbce762287215866091f7a77548d3c28233cf277c7cb2edf15158a450d61cc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20348,
+      "sha256": "98a5a3381411c2e9ffb9bfbaebfe7069ed8a2cb69d157ae015e4b3ef104396f6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "9ea1993d014b3d268c527ce53335b0d0ae159a1db2f035f01a3e79e9d7ac7367"
+    },
+    {
+      "path": "index.html",
+      "bytes": 56786,
+      "sha256": "c8169063c2fbbb30cb63afae59c0834b802e1a8cdcee3e4882247112ca3ee48b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "schedule-agenda",
+    "team",
+    "pricing",
+    "contact-form",
+    "testimonials",
+    "app-download",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

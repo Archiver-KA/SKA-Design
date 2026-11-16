@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02227",
+  "title": "Serious Media Case Study Landing Page Template",
+  "summary": "A reusable landing page template showcasing a fintech case study, designed for digital product agencies to highlight projects and client work.",
+  "tags": [
+    "Landing Page",
+    "Case Study",
+    "Fintech",
+    "Portfolio",
+    "Dark Mode",
+    "Responsive",
+    "CTA",
+    "Product Design",
+    "Development",
+    "Agency"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3524,
+      "sha256": "7ffd71886bb5c05f8669c719931becd723d65649cd0f1ac81a8254bee4f83867"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12004,
+      "sha256": "9ad31ea711f501b0281770ae108ef7e1013fd979f1d58731006b224835f0c904"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "e01a10b11aa0181ed0214bb77a19bd374f569b9988c6f0d9a7d1671a356448bd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17442,
+      "sha256": "9729ad457137030530f147a4cda4dde4daa9bdb3a1b77f8b1fb8bcd3f5876cc8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "timeline",
+    "dashboard-preview",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

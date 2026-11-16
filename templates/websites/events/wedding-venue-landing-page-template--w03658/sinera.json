@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03658",
+  "title": "Wedding Venue Landing Page Template",
+  "summary": "Elegant wedding and events venue website template for showcasing spaces, services, gallery and inquiries for quintas or countryside locations.",
+  "tags": [
+    "Landing Page",
+    "Wedding",
+    "Services",
+    "Travel",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Portfolio",
+    "Event Venue"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3644,
+      "sha256": "18130e3e3bca67338ec3a5355bb150042aa299ff5769f04d18aa2a28172f3890"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7628,
+      "sha256": "6984ad1b6dc7efa0c00a6b2580fd78d4a4101d3658d350935d5f11f19bc928c1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 803,
+      "sha256": "58fef6333d7dc70793e38b310c63f051a30a0af70f99dc22400bc74f9d348591"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40004,
+      "sha256": "eced3caf6878708ace11ffcc29fb14e5652d75280177156691058895b149f21d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "gallery-portfolio",
+    "menu-list",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

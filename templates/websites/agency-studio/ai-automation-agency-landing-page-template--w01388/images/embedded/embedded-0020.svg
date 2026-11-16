@@ -1,0 +1,16 @@
+<svg class="absolute top-[48px] left-0 w-full h-[120px] z-0 pointer-events-none overflow-visible hidden md:block" preserveAspectRatio="none" viewBox="0 0 1200 120">
+              <defs>
+                <linearGradient id="grad-green" gradientUnits="userSpaceOnUse" x1="600" y1="0" x2="200" y2="120">
+                  <stop offset="0" stop-color="#0AB979" stop-opacity="0"></stop>
+                  <stop offset="0.5" stop-color="#0AB979"></stop>
+                  <stop offset="1" stop-color="#0AB979" stop-opacity="0"></stop>
+                </linearGradient>
+              </defs>
+              <path d="M 600 0 C 600 60, 200 60, 200 120" fill="none" stroke="rgba(10, 185, 121, 0.1)" stroke-width="1.5"></path>
+              <path d="M 600 0 L 600 120" fill="none" stroke="rgba(10, 185, 121, 0.1)" stroke-width="1.5"></path>
+              <path d="M 600 0 C 600 60, 1000 60, 1000 120" fill="none" stroke="rgba(10, 185, 121, 0.1)" stroke-width="1.5"></path>
+
+              <path d="M 600 0 C 600 60, 200 60, 200 120" fill="none" stroke="url(#grad-green)" stroke-width="2" class="animate-flow-line" stroke-linecap="round"></path>
+              <path d="M 600 0 L 600 120" fill="none" stroke="url(#grad-green)" stroke-width="2" class="animate-flow-line" stroke-linecap="round" style="animation-delay: 1s;"></path>
+              <path d="M 600 0 C 600 60, 1000 60, 1000 120" fill="none" stroke="url(#grad-green)" stroke-width="2" class="animate-flow-line" stroke-linecap="round" style="animation-delay: 2s;"></path>
+            </svg>

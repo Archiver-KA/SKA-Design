@@ -1,0 +1,66 @@
+{
+  "id": "SN-W03453",
+  "title": "Educational Blog & Career Interview Template",
+  "summary": "A clean, editorial-style template designed for professional interviews, career advice blogs, and educational resource sharing.",
+  "tags": [
+    "Education",
+    "Services",
+    "Blog",
+    "Clean",
+    "Grid",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3706,
+      "sha256": "ca06062cc34d64b2dae4fe63ced9b0f7e07918c487fde49a908e977957593c97"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17892,
+      "sha256": "81f618ab971e5ec9c312e86bd5cce123e08e04da9f2ac3182d84a702a13d7f3a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 873,
+      "sha256": "f678816c502835890cc46338d554b23e94bd858663234612ea69d509774aa817"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 128,
+      "sha256": "6c032119b73f9910172da5554c0dbc0c0b3745576adb51d2b2090ba3b1556c9f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42991,
+      "sha256": "64f61577dbd61401816dee4cda0065c15ca40957f452f96f9451d3f2fdf13307"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "announcement-bar",
+    "navbar",
+    "hero",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

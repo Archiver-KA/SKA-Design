@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01055",
+  "title": "Project Inquiry Contact Form with Budget & Project Type",
+  "summary": "Responsive dark-themed Tailwind contact form capturing name, email, company, project type, budget range and detailed message. Features grid layout, accessible labels, full-width submit button and focus states—ideal for freelancer, agency or portfolio inquiry pages.",
+  "tags": [
+    "form",
+    "contact",
+    "tailwind",
+    "responsive",
+    "dark",
+    "input",
+    "select",
+    "budget",
+    "portfolio"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11484,
+      "sha256": "8ce0444a176fc8439475f55c80eb7fe4f791058dbb0391d73553811a47b0dfc1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5215,
+      "sha256": "fe3df958ba3b2e04e515de241cce20b215418c1adb9e15472b940051de02b16f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6095,
+      "sha256": "dd975610d8515c0003569a11fdfa5a110e0685012730fa4063aed0a57743990c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "SN-W00419",
+  "title": "Genus SaaS Landing Page Template",
+  "summary": "A high-performance SaaS landing page template designed for technical platforms, featuring algorithm-driven matching and organizational talent allocation.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Services",
+    "Dark",
+    "Clean",
+    "Futuristic",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3764,
+      "sha256": "8ea0c5735198477d8df89e58014b18d004a3d041c633f5f017f466be8ebd7b0c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16156,
+      "sha256": "149cd7f5122745785f3f7c3504fb6c31480c65a5b7366775a419eaa83db9299a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 872,
+      "sha256": "aa3b7155b6382cd06d70d25a4987288490d9e6e4e399a592c99592dfb154af5d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1423,
+      "sha256": "3e7b4890b1605098f1ad74219fd342fd9e904b1242fae27b2707d84cdf9423b2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27996,
+      "sha256": "78804f03c78fd6d1d9f7a66645ebae94c475b774b7b1afcbc6f1004a9781913b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "map-location",
+    "features",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

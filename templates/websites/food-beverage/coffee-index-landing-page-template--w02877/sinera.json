@@ -1,0 +1,71 @@
+{
+  "id": "SN-W02877",
+  "title": "Coffee Index Landing Page Template",
+  "summary": "A modern template for a coffee price index and café directory landing page, perfect for showcasing live market data and featured locations.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Directory",
+    "Data Visualization",
+    "Coffee"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3601,
+      "sha256": "5ffbcb58dfe8692e8696768853f40c3cb3ada83910ef71d78e100b9abf4ce118"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 31532,
+      "sha256": "fa131ac0bc7050af5700e2968ccc0e5268b87316a1db8b2662e960ba2087d9d5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 877,
+      "sha256": "1b9949f85e7e17af2d795d387a0d8ca441d521db44940758dd2abd92c0b7cd4e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1681,
+      "sha256": "3c3c84ea4672b31be567ca4e1b0584c6b5a1edf75e06c03e9cc13c2a403d3120"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20697,
+      "sha256": "f47175470058829ea528ce6a6c2b6e8955a504b321cfda2537345df628354ca4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "features",
+    "footer",
+    "comparison"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

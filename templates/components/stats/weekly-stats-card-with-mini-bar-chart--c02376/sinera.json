@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02376",
+  "title": "Weekly Stats Card with Mini Bar Chart",
+  "summary": "Tailwind-styled dashboard card displaying weekly revenue, a compact 7-bar gradient chart, and action menu. Ideal for analytics overviews, financial dashboards, or KPI widgets in responsive UIs.",
+  "tags": [
+    "card",
+    "bar chart",
+    "stats",
+    "dashboard",
+    "widget",
+    "tailwind",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4264,
+      "sha256": "35ec67fabf6036df2a95ae3e8b355aeee5caf84f3fb083429742779aba3cc39f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1683,
+      "sha256": "bd915617981d52c3d80da0c3b365944b579368a07f17fdd035a4edda95617cd7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2671,
+      "sha256": "788f2d359f9b4254b3f64644670e91b5e8f60092623d98e2d97a55eddb053925"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "SN-W01758",
+  "title": "3D Studio Portfolio Landing Page Template",
+  "summary": "A dark, cinematic 3D studio portfolio landing page template for showcasing Blender, Unreal Engine 5, and Adobe compositing projects and pipelines.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Technology",
+    "3D",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3536,
+      "sha256": "ebbd717586d748fd3df42e98378acc33eb4201e1c4446f2d4a406a1670886299"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2054,
+      "sha256": "2f6b2f15241cc5cccff89744ad241950ee5c9d7b4f70128d4f355fbdb6164d0b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 870,
+      "sha256": "7833ae17b7d70e67e798d5f6e57723909884a92fa88e917fb485fe7fcc0961dd"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 168,
+      "sha256": "fd34b444f0a476d0675970aff3151d1d4c5aa86795de8e2929ce8abc09847faa"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32323,
+      "sha256": "d933d17b49f6d1223fe6179c57df60adc09517c0f73c4921c9a92b8dfbad594d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "cta",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,64 @@
+<svg viewBox="0 0 320 220" className="map" preserveAspectRatio="xMidYMid meet">
+          {/* grid */}
+          <defs>
+            <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+              <path d="M20 0H0V20" fill="none" stroke="#16222f" strokeWidth="0.5" />
+            </pattern>
+          </defs>
+          <rect width="320" height="220" fill="url(#grid)" />
+          {/* coordinate rulers */}
+          {[40, 100, 160, 220, 280].map((x, i) => (
+            <text key={x} x={x} y={10} className="map__coord">
+              {String(i * 6 + 12).padStart(2, "0")}
+            </text>
+          ))}
+          {[40, 90, 140, 190].map((y, i) => (
+            <text key={y} x={5} y={y} className="map__coord">
+              {String.fromCharCode(65 + i)}7
+            </text>
+          ))}
+          {/* threat zone */}
+          <path d="M60 30 L128 22 L142 84 L74 96 Z" className="map__threat" />
+          <text x="82" y="58" className="map__zone-label">
+            THREAT Z-2
+          </text>
+          {/* resource zone */}
+          <rect x="232" y="140" width="70" height="52" className="map__resource" />
+          <text x="240" y="168" className="map__zone-label map__zone-label--teal">
+            SUPPLY R-1
+          </text>
+          {/* objective node */}
+          <g>
+            <circle cx="252" cy="52" r="7" className="map__objective" />
+            <circle cx="252" cy="52" r="12" className="map__objective-ring" />
+            <text x="238" y="36" className="map__id">
+              NODE-7
+            </text>
+          </g>
+          {/* path line from selected to objective */}
+          {sel && (
+            <path
+              d={`M${sel.pos.x} ${sel.pos.y} L${(sel.pos.x + 252) / 2} ${(sel.pos.y + 52) / 2 - 14} L252 52`}
+              className="map__path"
+            />
+          )}
+          {/* unit markers */}
+          {units.map((u) => {
+            const t = statusTone[u.status];
+            const active = u.id === selectedId;
+            return (
+              <g
+                key={u.id}
+                transform={`translate(${u.pos.x} ${u.pos.y})`}
+                className={`map__unit map__unit--${t}${active ? " is-active" : ""}`}
+                onClick={() => onSelect(u.id)}
+              >
+                {active && <rect x="-11" y="-11" width="22" height="22" className="map__lock" />}
+                <path d="M0 -6 L6 5 L-6 5 Z" className="map__unit-shape" />
+                <text x="9" y="4" className="map__id">
+                  {u.id}
+                </text>
+              </g>
+            );
+          })}
+        </svg>

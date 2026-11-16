@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01152",
+  "title": "Responsive Collapsible Dashboard Sidebar",
+  "summary": "Fixed left sidebar with branded header, nav links, collapse/expand toggle, and Tailwind-styled design. Persists collapsed state via localStorage and adapts to mobile/desktop layouts—ideal for admin or SaaS dashboards.",
+  "tags": [
+    "sidebar",
+    "navigation",
+    "dashboard",
+    "collapsible",
+    "responsive",
+    "tailwind",
+    "html",
+    "localstorage",
+    "admin"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5576,
+      "sha256": "62d3ecf33d5464b771d12d8d2581d5434aac0e8fcf56103feb98ae75b151028d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13411,
+      "sha256": "d18e9f79c41b6b0bc5003f68716276fcc38be3e819539a4243b263b14b075e92"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14402,
+      "sha256": "f21e78c5ce9b6b222df6ab2e03500f32ff8b067ebcb2ea7e3009604009ada04a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

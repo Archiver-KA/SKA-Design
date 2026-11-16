@@ -1,0 +1,64 @@
+{
+  "id": "SN-W00819",
+  "title": "Weather App Settings Panel",
+  "summary": "Responsive settings UI for weather app with units, appearance, notifications, and about info using Tailwind CSS.",
+  "tags": [
+    "Settings",
+    "Weather",
+    "Tailwind CSS",
+    "UI",
+    "Dark Mode",
+    "Notifications",
+    "Responsive"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2956,
+      "sha256": "f571b97a6fb599694878e6b11b5a40127c3fffffdc8d9d5f762276edc6929caf"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5186,
+      "sha256": "22093e73b0053a8c02a8a88e53d390998eb3c916e4df4e2a3f2118ca2402691c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 863,
+      "sha256": "3eac365dd24b1e6ded6e60579b92f3397133fd9e19c9620418ce7fab00195e67"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 252,
+      "sha256": "544c7d3578fc6efda0026f3f14a16d95b03c20b67b568e5ebba76a9b77f2f7a6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8107,
+      "sha256": "4c7c86d1f311a2e00209ef6706830804fafc04d85f67d323ad6bb98defa00e25"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

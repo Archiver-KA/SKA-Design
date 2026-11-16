@@ -1,0 +1,63 @@
+{
+  "id": "SN-W03386",
+  "title": "System Architecture Features Layout Template",
+  "summary": "A reusable dark-mode system architecture features layout template showcasing processing, encryption, global network, and analytics with interactive UI panels.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "3D",
+    "WebGL"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3390,
+      "sha256": "93a3bdd656e635097fdf072eb2344ab5eed4d1a9a8b2e4b656f03cc3cfeaedd0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15208,
+      "sha256": "66c5b1d3ec3d0e4028333203f36627ab11668fd21659b39e3a5bd50e01838c2b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "29f3cdc3db062c300ff32b71ab2848a9f854df72f921c3e7aed5f9c9c374edfe"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19354,
+      "sha256": "e294a1e858139b2ff32fca0f0cd4ac9914b25907c5ced41015cf11d272ae32c6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "snippet",
+  "components": [
+    "3d-canvas",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

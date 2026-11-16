@@ -1,0 +1,61 @@
+{
+  "id": "SN-W03775",
+  "title": "Newsletter Email Product Update",
+  "summary": "Showcases two workflow features: AI-powered smart workflows and real-time collaborative canvas with beta access info.",
+  "tags": [
+    "Product Update",
+    "Workflow",
+    "AI Features",
+    "Collaboration",
+    "Tailwind CSS",
+    "Beta Access"
+  ],
+  "kind": "websites",
+  "category": "news-blog",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3380,
+      "sha256": "4fa6bb02f68cb4441bcee835b95c768ba168da58c7261fb15ecf4670588758f6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18060,
+      "sha256": "bb3bee7a8ab1810fd6e3b6e1d253eae20add2410a6ecc5cf82172f419063b266"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "c97e73d1e3e91e9407391d4d6d1024653dea8aeebde09a845a347aa9b34ae22e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6738,
+      "sha256": "31061e7fe527dc716270b3b696ffa026429ef61b249402ff6db2560bd606d8b5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "content",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Content / News",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "how-it-works",
+    "3d-canvas",
+    "case-studies",
+    "features"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

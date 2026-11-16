@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01025",
+  "title": "Exit-Intent Newsletter Signup Modal",
+  "summary": "A centered exit-intent modal for capturing newsletter signups, featuring an email input, CTA button, success message, and dismiss icon. Styled with Tailwind-style utility classes, ideal for retaining leaving visitors and growing email lists.",
+  "tags": [
+    "form",
+    "modal",
+    "newsletter",
+    "popup",
+    "tailwind",
+    "responsive",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8128,
+      "sha256": "330c464a4adaad87a78f2c27c7c133e0c7c79db90ead983e1c5757acc929dedb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2825,
+      "sha256": "c3b2ae10e0528963362c3c6da2d09e084f873eb24a40a5858045cceec10b71d9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3725,
+      "sha256": "1283e196ef86aeeb03b300d7535e262bbac82f26b1b4b9a857a33fe51322719c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

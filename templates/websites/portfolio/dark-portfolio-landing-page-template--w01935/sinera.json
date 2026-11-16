@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01935",
+  "title": "Dark Portfolio Landing Page Template",
+  "summary": "A sleek dark-mode portfolio landing page template for visual designers and full-stack developers to showcase work, skills, services, and contact details.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Minimal",
+    "Dark",
+    "Technology",
+    "Brand",
+    "Large Type",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3630,
+      "sha256": "7690e7491aeb8fe37b889a7e4517c48e1305c5367c924e09fc6ff42d42a554e5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13414,
+      "sha256": "b67d2368dfcb4ebb1fb3160cae5234bb68e76801476ab6466679344cc412ab01"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 864,
+      "sha256": "441ab110d60e5ebc4e65a31af6632efc6c02d5d7ddaf63f037bb5438675f732d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "2771d904da1069eee4e129775bc50373fddc2137879cfa41a15c778169529399"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28922,
+      "sha256": "0781d5601f492e6c675ed2c1054a793064eb365403c26d7a42d3fb9b0a89c456"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "about",
+    "stats",
+    "case-studies",
+    "testimonials",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01272",
+  "title": "Animated SaaS Hero with Interactive Feature Cards",
+  "summary": "A full-screen Tailwind CSS landing section with a bold hero, glowing CTA, WebGL laser background, and four interactive feature cards including code preview, dot pattern, chart toggle, and layered panels. Ideal for SaaS or product showcases.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "animated",
+    "interactive",
+    "saas",
+    "dashboard",
+    "webgl"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18410,
+      "sha256": "75f3193c6e81f36cb374e850d652e202fc525324070cac5605cd0b98bca8e0fa"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33772,
+      "sha256": "7c5b0ac61f2e9b31c442a11ebbca187b2fcd5c665e8a54102b0f68c4682a3c35"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

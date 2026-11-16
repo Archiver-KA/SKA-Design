@@ -1,0 +1,41 @@
+{
+  "id": "SN-C02183",
+  "title": "Product Image Display",
+  "summary": "A responsive product image component with optimized loading and scaling. Displays product photography with proper aspect ratio and quality settings for e-commerce applications.",
+  "tags": [
+    "card",
+    "image",
+    "product",
+    "ecommerce",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7230,
+      "sha256": "80d05bc0e6897f4ee4f47f7f78d85f2092c1452a4c5384b3c0a2a496c5a13bcd"
+    },
+    {
+      "path": "component.html",
+      "bytes": 271,
+      "sha256": "9a99ebf542e8d69e2011e9cffd1b93433ee05901a113190abadea123ca9b116c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1113,
+      "sha256": "baf5058d5fd68de080f0bb43ed4e3eca8d208776ec5e42e3948bd33e683aad24"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

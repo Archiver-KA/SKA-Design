@@ -1,0 +1,8 @@
+<svg width="100%" height="100%" viewBox="0 0 400 300" class="w-full max-w-md">
+                        <line x1="0" y1="50" x2="400" y2="50" stroke="#EDE9E0" stroke-width="1" stroke-dasharray="4 4" opacity="0.3"></line>
+                        <line x1="0" y1="150" x2="400" y2="150" stroke="#EDE9E0" stroke-width="1" stroke-dasharray="4 4" opacity="0.3"></line>
+                        <text x="10" y="45" fill="#E8622A" font-family="monospace" font-size="10">BASE - 2FT</text>
+                        <text x="10" y="145" fill="#E8622A" font-family="monospace" font-size="10">CLAY - 6FT</text>
+                        <path id="bore-path" d="M -50 20 Q 150 250, 450 180" fill="none" stroke="#E8622A" stroke-width="4" stroke-dasharray="1000" stroke-dashoffset="1000" stroke-linecap="round"></path>
+                        <circle cx="200" cy="170" r="15" fill="none" stroke="#E8622A" stroke-width="2" class="animate-ping opacity-50"></circle>
+                    </svg>

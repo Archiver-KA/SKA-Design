@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01224",
+  "title": "AI SaaS Hero with Tilted App UI Preview",
+  "summary": "Full-width hero section for an AI productivity/SaaS product featuring animated headline, email capture form, customer logos, and a 3D tilt interactive app UI preview. Built with Tailwind-style utility classes and scroll/hover animations for marketing landing pages.",
+  "tags": [
+    "hero",
+    "tailwind",
+    "ui",
+    "responsive",
+    "interactive",
+    "animated",
+    "landing",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26822,
+      "sha256": "dbaf5571cea751706b12830da41c0db61613052598313daed62f6c9ae4c5eca3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 41136,
+      "sha256": "46ae4d9279e7de49d4f6dc36ac6ba5202642b7ff50500f9132fea363ee25aa05"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42126,
+      "sha256": "a4b7d84db9c3e4a5863f5abf3d4860929ab13f0b25317c7af9ce8f84ce03f1e9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

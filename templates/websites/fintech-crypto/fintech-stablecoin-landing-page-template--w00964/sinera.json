@@ -1,0 +1,84 @@
+{
+  "id": "SN-W00964",
+  "title": "FinTech Stablecoin Landing Page Template",
+  "summary": "A sophisticated FinTech landing page template for digital assets and stablecoins, featuring 3D-inspired animations and a clean, high-trust visual style.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Clean",
+    "Animated",
+    "Futuristic",
+    "Blue",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3719,
+      "sha256": "f6216b58a0b2f7829628fcb83f8d25295be35b3c629787372615a754fe987f4a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4864,
+      "sha256": "116bf4c8fc732a5c0df74006fb198bfb3dd5a6ccf9889bd523b3fc1e74831e97"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1347,
+      "sha256": "125904e445a4d898e524bfa65841bd551b16ccc123c27b9c5a433f3c89fb745a"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 2906,
+      "sha256": "860342b3d9ae179f946f82f0fcec5acc36ab1217dad31ba0975fa8844b6ccbee"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 4034,
+      "sha256": "4b5ef3c6bb5a0055d46ccbc7b2d6832d0abe5dda8c8ae08abd4bbd71d4a66146"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 913,
+      "sha256": "94cb12dfe130f13d80888a0a33cbc78cc32ab47fdceee83f023857ac3b339426"
+    },
+    {
+      "path": "index.html",
+      "bytes": 64165,
+      "sha256": "38fda72083598cdd46934c6f4a28c8c43b639f982082ab144b61fd19e0467d8e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "features",
+    "bento-grid",
+    "faq",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

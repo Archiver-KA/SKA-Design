@@ -1,0 +1,75 @@
+{
+  "id": "SN-W02161",
+  "title": "Photography Portfolio Landing Page Template",
+  "summary": "A reusable photography landing page template for portrait, family, maternity, and wedding photographers to showcase work and turn visitors into bookings.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Services",
+    "Wedding",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Large Type",
+    "Photography",
+    "Personal Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2888,
+      "sha256": "c05fc561aba7ef5f3ea93af65c0e739582b88d7069c87c0d22403b0927598073"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10870,
+      "sha256": "f4b6ca7f9e59f3dd2e8b181fee3f81a2a4e9ac53b003c594e0cfecf9ee278a9a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 871,
+      "sha256": "2bfdaa8906633640d29f794017209e2d43a65bc99b3a78e56f7a91089c08d8f3"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 251,
+      "sha256": "2fc5d0a612fbd415e7b36185962178ea1b12138a91f3aea7f4193dfc82b9f184"
+    },
+    {
+      "path": "index.html",
+      "bytes": 44835,
+      "sha256": "3a4553e6ce8781e7678fe2eba867d04013d18f6f4746c514983e21b8b185e53e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "gallery-portfolio",
+    "services",
+    "testimonials",
+    "faq",
+    "contact-form",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

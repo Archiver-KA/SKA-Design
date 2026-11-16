@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01829",
+  "title": "Background Image Data URL Asset",
+  "summary": "Embedded JPEG image delivered as a base64 data URL. Intended for use as a visual background or media asset within components, such as hero sections, cards, or decorative layouts, without requiring external image hosting.",
+  "tags": [
+    "image",
+    "asset",
+    "media",
+    "decorative",
+    "embedded",
+    "jpeg"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8028,
+      "sha256": "cb9fd5483c588c3b7f5e8293cd3e2b89f2be1279e82d8757991421d28dc6b112"
+    },
+    {
+      "path": "component.html",
+      "bytes": 45537,
+      "sha256": "7dd5df5570209df29bc899762784b90b96384a67aa3ec090c9dc0805287950dc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 46389,
+      "sha256": "e3677b47a709c0a14bdb4c7146aa26b07871002b200100f6fe77adc0bf473b02"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

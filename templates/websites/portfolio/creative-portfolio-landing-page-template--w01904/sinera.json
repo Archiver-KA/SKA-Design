@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01904",
+  "title": "Creative Portfolio Landing Page Template",
+  "summary": "A bold, minimal portfolio landing page template for digital artists and visual directors to showcase selected projects, goods, services, and contact details.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Brand",
+    "Minimal",
+    "Dark",
+    "Large Type",
+    "Gradient",
+    "Technology",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3492,
+      "sha256": "4ac66083b20e4e3766e69c1893f003c4e44ddda8172ceff0776f6b68504439c5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13228,
+      "sha256": "92d4f347dd89b490eeaa1513abf84c375e99189ef08d87e5c88a1e1822a7c7e4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "026657f9980d6aea754918405a01635934ebe126c712d2e0ad145d1dad9909b1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29411,
+      "sha256": "5c3846e3d12c5a6ba615090313f7b8cf58e074afe105fbeeecbfcc6295fa6c6c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "product-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

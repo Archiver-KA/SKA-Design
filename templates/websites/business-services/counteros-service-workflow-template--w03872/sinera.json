@@ -1,0 +1,62 @@
+{
+  "id": "SN-W03872",
+  "title": "CounterOS Service Workflow Template",
+  "summary": "A high-performance technical dashboard template designed for automotive service centers and industrial workflow management.",
+  "tags": [
+    "Technology",
+    "Services",
+    "Dark",
+    "Clean",
+    "Grid",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3057,
+      "sha256": "e14b04af32a70c1e67c816c4475037ced467e9b777b01ec99311057354f45466"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 26276,
+      "sha256": "85c4dbc376e19f98a12355705504579c42e74c32bd4ad1ff0b6e0dc727063eed"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 809,
+      "sha256": "50e3dc5f7719361d60baa12c5ee5f1862d3b4233b6ace482cc036003c253f38f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29250,
+      "sha256": "fb020e439dbba8b22d6f18cb47b308dcc26c09390f1361dc828ea0b0b91dce73"
+    }
+  ],
+  "collection": "logistics",
+  "collectionCategory": "automotive",
+  "collectionLabel": "Logistics",
+  "collectionCategoryLabel": "Automotive",
+  "collectionConfidence": 0.88,
+  "collectionBasis": "business-keywords",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "sidebar",
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "SN-W00927",
+  "title": "FinanceFlow Analytics Landing Page Template",
+  "summary": "This reusable landing page template is designed for financial analytics platforms to showcase cashflow insights, real-time data, and user engagement features.",
+  "tags": [
+    "Landing Page",
+    "Finance",
+    "Analytics",
+    "Cashflow",
+    "Chart",
+    "Real-time Insights",
+    "CTA",
+    "Pricing",
+    "Docs",
+    "Dark Theme"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3813,
+      "sha256": "e626ba281fd0031aec84a1bee62d6094f4e453cd4e29dfbdc6c4d2dd419d3064"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11436,
+      "sha256": "ca5673617d188a7754cf563d4f0bfe3c7eafc4230b6c982b024a54032c100df5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1931,
+      "sha256": "197ed4fbe5124e68d2c92088028ab7919ce047536ab539c33484d64dcbc2ba33"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 315,
+      "sha256": "ddee8f37d2ab21c45d5e1c6cfbbffb66df4a552ee8326e78e7ba6d4f479b8720"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 274,
+      "sha256": "a51c14813263125a12faf50d15d7aa92cffc8c7a6cbc90296f0b0a639af67b06"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 261,
+      "sha256": "333aa44b5d0de595e3b057b667c073ebf952ffcf8e8703264824be5b4e8cabaa"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 395,
+      "sha256": "fb28f644afeb725b42a7baf095cd0d6ffda4f131629471ae5f802d3aa6f1f23b"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 381,
+      "sha256": "1d9b4e127b858659349effec8eff4e9e7d3c8df004a2da3e716bc2e2872ae456"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 300,
+      "sha256": "31f5c4bccf78f53b0439083f50088397e06a7d93ebc6278ece2f169febde9b60"
+    },
+    {
+      "path": "index.html",
+      "bytes": 61111,
+      "sha256": "4f32cb8c09a6af708febab0ea7c075bb7cb17b16b3c6844095e55d4204a91963"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "navbar",
+    "hero",
+    "booking"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

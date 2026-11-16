@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00176",
+  "title": "Gradient CTA Button with Icon & Hover Animation",
+  "summary": "Interactive anchor button featuring indigo-to-blue gradient, rounded XL shape, Lucide chevrons icon, and Tailwind-powered hover effects (color shift, scale, icon slide). Ideal for call-to-action links like downloads or docs.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "gradient",
+    "hover",
+    "icon",
+    "interactive",
+    "animated"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2294,
+      "sha256": "8fcf2471577bdc5f00f73b92585333ffd15058d9b679b2519c873808efddf4ea"
+    },
+    {
+      "path": "component.html",
+      "bytes": 759,
+      "sha256": "1ae59c3949c4f1ef42679932cde2ea4007a5b30188398ae7b727af8738129f65"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1761,
+      "sha256": "6adcfc02e57218b9c0ca051852bd6a3cd2c994dbc1e80e3e7998ddafe980f189"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

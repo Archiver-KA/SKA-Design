@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01847",
+  "title": "Embedded Content Frame",
+  "summary": "A responsive iframe container for embedding external content like videos, demos, or other web pages with rounded corners and full-width display.",
+  "tags": [
+    "iframe",
+    "embed",
+    "responsive",
+    "modern",
+    "rounded"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1066,
+      "sha256": "d09443e90b90d636184d0fe4851c85b8f0729003e22a3d04841edb7f09eb33d1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 158,
+      "sha256": "1146a0a2fed8a8ea4c5b883801ebbc379332747e2cdcc665e274dfacc28e8855"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1044,
+      "sha256": "97a1ccd12454d0be2a49f76826e0600723e78539a8a83c2b5048000cb60f1d35"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

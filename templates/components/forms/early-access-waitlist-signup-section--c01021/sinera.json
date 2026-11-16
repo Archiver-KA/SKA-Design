@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01021",
+  "title": "Early Access Waitlist Signup Section",
+  "summary": "Responsive 2-column waitlist section featuring an email input, submit button, gradient card image, and security badge. Built with Tailwind CSS; ideal as a landing-page CTA to collect early access or beta signup requests.",
+  "tags": [
+    "waitlist",
+    "signup",
+    "email",
+    "form",
+    "cta",
+    "tailwind",
+    "responsive",
+    "landing-page"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11906,
+      "sha256": "9bfa0bde3471fcf63ed44cc73174bbcee50b956e1d71114eb0e355ded736a5ae"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3233,
+      "sha256": "a59f9b72bcb806e0691a236c1907372aa868985bcc9c2d19712383e28b77b1e6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4220,
+      "sha256": "8814311a2e09a23b0c7fb2191d7887427f95375e1d1695e1d4451d918ce613d3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

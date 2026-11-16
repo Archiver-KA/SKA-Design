@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01970",
+  "title": "Unicorn Studio Interactive Project Embed",
+  "summary": "Embeds a Unicorn Studio project via CDN script, auto-initializing an interactive 1920×1080 container. Ideal for integrating animations, games, or interactive media built in Unicorn Studio into any web page.",
+  "tags": [
+    "embed",
+    "unicorn studio",
+    "interactive",
+    "script",
+    "html",
+    "cdn",
+    "integration"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6136,
+      "sha256": "e1fab7953f4feafd232e0cbead41d3749d52fccc3295c7ddd173649fd26d91ac"
+    },
+    {
+      "path": "component.html",
+      "bytes": 535,
+      "sha256": "26dc6a2745c08ced74c1772d55cc6928ffa63accd11ff3c93d83f7b95e127a2c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1396,
+      "sha256": "700336acb8dd1207cc10994bf86cabd7fcebf56ec5b486de6903d5fe2b46323e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02067",
+  "title": "Responsive 3-Plan Pricing Section with Tailwind",
+  "summary": "Grid-based pricing section featuring Free, Pro and Lifetime cards, Yearly billing toggle, hover lift animations, and gradient accents. Built with Tailwind CSS, fully responsive and ideal for SaaS or fintech landing pages.",
+  "tags": [
+    "pricing",
+    "tailwind",
+    "responsive",
+    "hover",
+    "grid",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 31056,
+      "sha256": "a370362a74e7311a3acd3ed897660dba785067fde9a6c25b5310837771fed89d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 15004,
+      "sha256": "399672721fefa8c37c9853d31b7cc02ed0e6bfe0b6a376bdb4d3607bbaac1078"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16002,
+      "sha256": "a65c125c4a95a265512ddaec008c789fd7c756345b5e9554695f1c222a68c291"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

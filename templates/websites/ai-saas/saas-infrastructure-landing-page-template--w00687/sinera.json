@@ -1,0 +1,58 @@
+{
+  "id": "SN-W00687",
+  "title": "SaaS Infrastructure Landing Page Template",
+  "summary": "A high-performance dark-themed landing page template designed for global data networks and infrastructure-as-a-service providers.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Dark",
+    "Animated",
+    "Futuristic",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3490,
+      "sha256": "1a285525c6ba8a035613afcc21de4c8e92ef668982865aa0f624d896ee1f5faa"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17392,
+      "sha256": "b3d79af72f6b548817a9aa382d1242bd0762a41474d38c0d6b90b39d80b5d8b5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "37b471ff1537ca99078aa71fde4e2831cd2115cf2a498aa8708a66b967f507e9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11275,
+      "sha256": "8bc1b0b9fc52d5ba7d97bf8cf5abb91735c0dc3b48855c78fa0a0123399001ec"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

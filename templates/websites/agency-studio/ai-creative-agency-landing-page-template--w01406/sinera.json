@@ -1,0 +1,101 @@
+{
+  "id": "SN-W01406",
+  "title": "AI Creative Agency Landing Page Template",
+  "summary": "A dark, modern landing page template for AI creative agencies offering fast, custom-generated visuals and automation services for brands and businesses.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Art & Design",
+    "Minimal",
+    "Dark",
+    "Gradient",
+    "AI agency template",
+    "Creative studio"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3487,
+      "sha256": "6e9806f4aee674a7c513b0c5ee2c816845365aecd4caa66a3a34e8a8e724eaaa"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16596,
+      "sha256": "d42d53f21ba110eaed59a615d1fc134a23a16feeae4ff94fa4579059d4a7d5ce"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2079,
+      "sha256": "0eee8e8f59f082a352be1156e0aaa500aa0b0805892f72f86037bac1f7e7032d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 359,
+      "sha256": "559fc66b05c6fcd9ac028323ff3576784f9d71e87accc00c17e959c24a903a52"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 1445,
+      "sha256": "9cab707f0d2af6e65b85c674686381c44186752839bcba508db5c4e4502918a2"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 496,
+      "sha256": "94b8ceb19570e29a5df11c60b0bd35041898093d1f23a8b5404acf616d30b3e0"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 548,
+      "sha256": "df6a2b510fb978fa4eb9fef0c5a9851ae1470a1e6aff8146dced5e27c011d964"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 642,
+      "sha256": "0538c0ca771f29e23a984459b32dc99cc055b99bf5f61db4e7dbdc82a06c8bd0"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 252,
+      "sha256": "655c56f22fdc8e05c18d060d254d1b45cd07d9fb830c86ecdab16d8c1ca190bb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 46461,
+      "sha256": "f75bb14f113c69e026ce1faf1a952039e5957716fce75c2691a520e4444c1a24"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "marquee",
+    "features",
+    "services",
+    "how-it-works",
+    "faq",
+    "hero",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "removed-browser-extension-tags",
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

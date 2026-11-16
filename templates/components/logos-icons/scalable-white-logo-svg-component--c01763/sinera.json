@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01763",
+  "title": "Scalable White Logo SVG Component",
+  "summary": "Renders a 120×36 SVG brand logo composed of multiple white paths within a clipPath. Ideal for placement in headers, navbars, or dark backgrounds where a crisp, scalable logo is needed.",
+  "tags": [
+    "svg",
+    "logo",
+    "icon",
+    "vector",
+    "scalable",
+    "brand",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2606,
+      "sha256": "b9d50c2d922d859cf1370fedeb57a82a99c1b2d8c48d0f6a8f1d709061ebe312"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8310,
+      "sha256": "92123ae1180361b77431ae33b4bee437cc100381bd0b32f92efa2dabc0d7f3fc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9164,
+      "sha256": "5a9ec2801d94e929f4dfc28f46a7457f1be47a5528b8840c7738db1f4f013337"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

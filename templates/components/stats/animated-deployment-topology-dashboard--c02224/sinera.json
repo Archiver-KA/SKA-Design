@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02224",
+  "title": "Animated Deployment Topology Dashboard",
+  "summary": "A full-width Tailwind CSS product UI section showcasing animated deployment topology, infrastructure layers, status cards, logs, and control actions. Ideal for SaaS landing pages, cloud platform demos, and developer-focused hero UI presentations.",
+  "tags": [
+    "ui",
+    "tailwind",
+    "animated",
+    "dashboard",
+    "saas",
+    "infrastructure",
+    "responsive",
+    "section"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18028,
+      "sha256": "d5ab051c956c779e0d6dea9b65aeed5150ebb4745b00874659f813de64e062bc"
+    },
+    {
+      "path": "component.html",
+      "bytes": 27061,
+      "sha256": "d183ad041790d4a55d49bbb2a4dd5fdaa68a889b6c0f5c7548c84a35d66e3efc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28010,
+      "sha256": "68786344708f8bb10424674dad9a3697c491e3da0dbd1497ab7131ea35519fc6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "SN-W02290",
+  "title": "Visual Production Studio Template",
+  "summary": "A cinematic and professional landing page template designed for independent film studios, visual directors, and creative agencies.",
+  "tags": [
+    "Technology",
+    "Portfolio",
+    "Entertainment",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Services",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3532,
+      "sha256": "22d447467b8de30bed11fe436bdcb7d07be4c6388b45ca5075c93e421490126a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 28844,
+      "sha256": "4fce7b4d0c04c3dee59cec54a06abe15bac44a662b58cb108da0767efe73b5d4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1060,
+      "sha256": "b8f1a2fac1716f0fd648f7672d46f07fa76427bfbb7a2ae5edc87d0dc8e4c36f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 251,
+      "sha256": "3087c720caf76ce18ca843d449c4c7d48088ab739bb0ad3197692d4eb5892986"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 263,
+      "sha256": "340310d2b00df0392e80a42d5a63847328f4da14f93cfa4d9a21843bb7661590"
+    },
+    {
+      "path": "index.html",
+      "bytes": 45041,
+      "sha256": "9cedf296fa5e118cddb4ada701d53f079c23061ab4e19fe59b0a4c9c5a21b2a3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "team",
+    "case-studies",
+    "bento-grid",
+    "how-it-works",
+    "testimonials",
+    "pricing",
+    "faq",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

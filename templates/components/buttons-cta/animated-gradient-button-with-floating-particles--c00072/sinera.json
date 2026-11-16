@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00072",
+  "title": "Animated Gradient Button with Floating Particles",
+  "summary": "Stylish CTA button featuring layered radial/linear gradients, deep shadow, and floating particle animation. Scales on press and uses pure CSS, ideal for pricing tables, promos, or dark-themed interfaces.",
+  "tags": [
+    "button",
+    "animated",
+    "gradient",
+    "particles",
+    "css",
+    "interactive",
+    "cta",
+    "dark-ui"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1744,
+      "sha256": "b548ea58f778d74d0883b11023fda240ce29b4ba9281ed971af908802f99e6ef"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4284,
+      "sha256": "7fd313923c968ec8e82f5b7963b6dd5299f571a323fcd2c7dcd32915519532b4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5153,
+      "sha256": "966fd09a290ef462dbab483203fecb5c6218c531f16e5ff7072ee9810a6bda86"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

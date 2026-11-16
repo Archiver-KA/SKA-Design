@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02081",
+  "title": "Responsive Pricing Section with Plan Comparison & Billing Toggle",
+  "summary": "Tailwind-styled pricing table showcasing Starter, Professional and Enterprise tiers. Features monthly/annual billing toggle, featured plan highlight, scroll-fade animations, responsive grid and CTA buttons—ideal for SaaS landing pages or product sites.",
+  "tags": [
+    "pricing",
+    "plan",
+    "tailwind",
+    "responsive",
+    "animated",
+    "saas",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 30526,
+      "sha256": "ee7e86c7717954d6d77f06979f6a087d1beadaa8661bc374f7a087ec527406b7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12940,
+      "sha256": "615616ca386ada5ac9294c78d62e9b20b1aafaf3bb5b5be0ec4c7f649071913e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13959,
+      "sha256": "ed297d02890d8d5676804c2de0cc1f4b521393976202c5ce2923aa03e47e23ee"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

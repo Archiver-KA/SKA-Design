@@ -1,0 +1,71 @@
+{
+  "id": "SN-W03381",
+  "title": "Software Architecture & Enterprise Landing Page Template",
+  "summary": "A high-end, dark-themed software engineering template designed for boutique development firms and enterprise agencies targeting global markets.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Dark",
+    "Futuristic",
+    "Services",
+    "Minimal",
+    "Clean",
+    "Fintech"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3753,
+      "sha256": "f8b4a69f1de5e6fd029db4dd1b95a6448bf29a41e166dca3f26fe65fc33792ba"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11464,
+      "sha256": "c44454176abf9d78f5347b50838d70a8b3db4d679aa0db3be7b07dc83223d8d7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 886,
+      "sha256": "b6681690f4f718165e1d855e9f065d2a3693487135ddf996f4298ac3acf70ce2"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "8fdd104ac7843269a0c4bb41aacf62efd383fb500afc71598cfc07a668449fab"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28872,
+      "sha256": "7a15cd7524e5c0aca649c7d68a64fe2a9e9d062a945ef2845851b9471140580c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "about",
+    "bento-grid",
+    "integrations",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

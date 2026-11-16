@@ -1,0 +1,79 @@
+{
+  "id": "SN-W03963",
+  "title": "Interactive Website Footer Layout",
+  "summary": "Responsive footer with navigation, social icons, legal links, and animated background using Tailwind and Vanta.js.",
+  "tags": [
+    "Footer",
+    "Animation",
+    "Tailwind CSS",
+    "Vanta.js",
+    "Responsive Design",
+    "Navigation",
+    "Social Icons"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2727,
+      "sha256": "78f282c92e729bece16f57b7d7dac94b23fe176208d6ad75dafd915df28bf832"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8344,
+      "sha256": "564420a46d196da88f12225b299fe2fe97ee7e956a162e48fb97dade81a79ec2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1456,
+      "sha256": "d8aa2a8e334c9cab253b0bb9a6859ca25a2534221152d2bb38128aedfeba175b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 506,
+      "sha256": "0fc4c03d3213dad2825f095dbbb9f706c7afaac543812fc424b92a27c496e3b6"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 406,
+      "sha256": "5833ee8bd265c9d1f5b0bef2c266887d8d3e7caee2c8140750aad68bb1ac11ca"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 527,
+      "sha256": "1cb95b28dfec88ee3aa818d561c159840b0253cb458c64a60648565db9968aaf"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 864,
+      "sha256": "a151673eb8736a38b15ebe4cb96300a6227742df4049490a28ebcc6088bd1312"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7507,
+      "sha256": "8019a6ec956d743470a54f410f0bc881ec2179205fd2a32f17df2e66db641912"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "snippet",
+  "components": [
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "footer",
+  "design": "DESIGN.md"
+}

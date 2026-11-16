@@ -1,0 +1,75 @@
+{
+  "id": "SN-W01778",
+  "title": "AI Personal Brand Agency Landing Page Template",
+  "summary": "A reusable landing page template for AI-powered personal brand agencies to showcase services, pricing, process, FAQs, and lead-gen booking flows.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Animated",
+    "personal branding",
+    "AI agency"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3968,
+      "sha256": "63c62375a0c21f8f0c835550377e6219747487b1680ccb3b9afda8554dbb46ef"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19528,
+      "sha256": "d0090f5c221597182ed7d8d1a4ec00f63091f087b2f48073d4a1b553625db338"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 874,
+      "sha256": "826559ca179844b56fe6ccef8b07911f7ed98246a05efacdf5580f505046b262"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "a3763baecf3a2bea2af2df6fac76c2d16de48c905f169385aecf87dfd6f57e99"
+    },
+    {
+      "path": "index.html",
+      "bytes": 54945,
+      "sha256": "6ed0a300f2165421b3fae02a73908a1598408e2568e0139d1fcaba64635540f8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "services",
+    "how-it-works",
+    "pricing",
+    "faq",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

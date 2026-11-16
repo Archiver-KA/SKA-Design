@@ -1,0 +1,58 @@
+{
+  "id": "SN-W04145",
+  "title": "3D Interactive Globe Visualization",
+  "summary": "Creates a rotating 3D globe with pulsing points and curved connection lines using Three.js and Tailwind CSS.",
+  "tags": [
+    "Three.js",
+    "WebGL",
+    "3D Globe",
+    "Animation",
+    "JavaScript",
+    "Tailwind CSS"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2358,
+      "sha256": "aafa08f3d5a5068248d8510ec40031a4cba5ea6ad52bb072f37e63a6404d3b35"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7176,
+      "sha256": "425a420afcc98c1874e120ca3a91a1e4c294e321229cb130ac8c6f1ba46bdedc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 727,
+      "sha256": "fa8fa1375cebc0ff8934455bf80d45c74a2b7f25807ff228eb3cb42c2fef6e33"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7027,
+      "sha256": "ba1d76bfb91c41728d639e4d39f351d7f95729fc406a9610658f61a6de2d9fa9"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

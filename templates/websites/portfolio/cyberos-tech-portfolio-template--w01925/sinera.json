@@ -1,0 +1,153 @@
+{
+  "id": "SN-W01925",
+  "title": "CyberOS Tech Portfolio Template",
+  "summary": "A high-tech, futuristic dark-mode portfolio template designed for software engineers and AI researchers to showcase projects and educational roadmaps.",
+  "tags": [
+    "Technology",
+    "Portfolio",
+    "Landing Page",
+    "Dark",
+    "Futuristic",
+    "Clean",
+    "Services",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "react",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3498,
+      "sha256": "41028b25304efedb9d1a2922b870a68874d341e080fff5f7d9679713390822c6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20192,
+      "sha256": "be57e338da3aebbb05ebf91c59e22cad8859710ef432f85469d3d715f081ef68"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 721,
+      "sha256": "247935c2d224e073daa0e87710969c5929b9e80a368c803cb6dd5a85059cc584"
+    },
+    {
+      "path": "index.html",
+      "bytes": 489,
+      "sha256": "fa22ce8a557dda7a9f167d6be6d7f64e660adef8bdfab5696e7aa45382974fe6"
+    },
+    {
+      "path": "package.json",
+      "bytes": 810,
+      "sha256": "f1a2f61c752f814cb8fea6f9e2182a060ab15b827fe9ff5f186943752fc62b53"
+    },
+    {
+      "path": "postcss.config.js",
+      "bytes": 81,
+      "sha256": "e32657baf631d7c5f4dc67b4b2ee0ec8e7d5b3c41860e09cddce7c0377cd80bc"
+    },
+    {
+      "path": "src/App.tsx",
+      "bytes": 774,
+      "sha256": "699d2c5a5f3e3ae183c99aeb1a151e9f1aa03e8bc17059cb2dafa811ae05e367"
+    },
+    {
+      "path": "src/components/About.tsx",
+      "bytes": 3051,
+      "sha256": "fc765d88537e53949e56719cdcf9cecad9dcda61ec7bfe5577342d59393737b0"
+    },
+    {
+      "path": "src/components/Contact.tsx",
+      "bytes": 8326,
+      "sha256": "4c3d810f07b54eae34a783ca05504d7e5170c4c59278aeedfd2daf2ed9f5fd59"
+    },
+    {
+      "path": "src/components/CyberSecurityRoadmap.tsx",
+      "bytes": 23476,
+      "sha256": "aeb6ab1643d605c11526c0b658f722e117d682dc0bde0c7358adfbfc7f370d30"
+    },
+    {
+      "path": "src/components/Footer.tsx",
+      "bytes": 1634,
+      "sha256": "a4292f51e2ce6db25991aaa953a74d81f9288f0aab4c20c21898cd4af94e6d3c"
+    },
+    {
+      "path": "src/components/Hero.tsx",
+      "bytes": 4326,
+      "sha256": "1bfd977034355deb686212e9e53f7adea556ab2e9da2dd4fb3c4a849f1883b1c"
+    },
+    {
+      "path": "src/components/Navbar.tsx",
+      "bytes": 4030,
+      "sha256": "0c139083fcbd8d4b12948bbf95f79db68736ad334c3e9003884f903f7c46b8af"
+    },
+    {
+      "path": "src/components/PortfolioGrid.tsx",
+      "bytes": 5292,
+      "sha256": "6121868e65e60a73a75e5b0fa69442b952259d98ab33a4af07880d5e76cedee0"
+    },
+    {
+      "path": "src/components/Research.tsx",
+      "bytes": 3985,
+      "sha256": "545b2d053d9280c7838928dffebf7d9698b26ef0c427ed26de3a500cab0cb626"
+    },
+    {
+      "path": "src/components/TechStack.tsx",
+      "bytes": 2944,
+      "sha256": "fbe473e62ee76d6b5e49ac9434b5e7d88cb1429199cd46fe15297fea4c48d145"
+    },
+    {
+      "path": "src/data/roadmapData.ts",
+      "bytes": 42194,
+      "sha256": "129818a91a5a9dc1a7e9584f25ae8e7a96304e8c047d6c29ae9ba9c0c2574491"
+    },
+    {
+      "path": "src/main.tsx",
+      "bytes": 248,
+      "sha256": "5aeb241bd61f478d5585570bd51ac4cda21988866a3c42e2a6d68c0a6ca11bb7"
+    },
+    {
+      "path": "src/styles.css",
+      "bytes": 1754,
+      "sha256": "8a86d5812188de345d3f4b91f0de44be2b90fe3b96a42062b625a1aa5a76c740"
+    },
+    {
+      "path": "tailwind.config.js",
+      "bytes": 1341,
+      "sha256": "57040460e296584f4c4649849c9d064aedd2f7493157d7468b2e5441c1a55ae8"
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 564,
+      "sha256": "a0856075d16bfbe4bebf728cc0eb3eec49d2d21f7ff4ffd32097e7c784fc65d1"
+    },
+    {
+      "path": "tsconfig.node.json",
+      "bytes": 213,
+      "sha256": "9e2abb169ea87b7190613a1d4da57ca608463a453bd4231fa3aeee5e308370dd"
+    },
+    {
+      "path": "vite.config.ts",
+      "bytes": 136,
+      "sha256": "eca485c281977125366d4800553256e419f364984e615f75a2d2bae54f7857fd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

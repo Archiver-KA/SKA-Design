@@ -1,0 +1,58 @@
+{
+  "id": "SN-W01454",
+  "title": "Barbearia Clássica",
+  "summary": "Um modelo de página inicial premium para barbearias, ideal para exibir serviços de beleza, imagens em galeria e agendamento rápido de consultas via formulário e WhatsApp.",
+  "tags": [
+    "Barbearia Clássica Site"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3322,
+      "sha256": "bed1388e42488c427070c244a3cbcbcc3ca4494d3a4d7df4c507f6bb4cd92b23"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13982,
+      "sha256": "000cb0dd32212d185f2200e6d3318aeefcd62c5ba45d5baa0c9cee7aa52c5fc5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 713,
+      "sha256": "a02185ed1960b9b38be880e35a995aecb81e3a4c973d5ccb940fead32febb338"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37308,
+      "sha256": "90aba06631777872ded7292b60f1158efc002d7f3dd72292939de9564f79e2b3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "menu-list",
+    "hero",
+    "booking",
+    "services",
+    "marquee",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

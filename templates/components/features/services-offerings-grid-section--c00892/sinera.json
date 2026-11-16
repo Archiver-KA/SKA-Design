@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00892",
+  "title": "Services Offerings Grid Section",
+  "summary": "Responsive Tailwind CSS section displaying service cards with icons, pricing, and details in a dark theme. Includes scale and fade-in animations and supports 1-2 column layouts—ideal for landing pages or pricing/services sections.",
+  "tags": [
+    "section",
+    "services",
+    "pricing",
+    "grid",
+    "tailwind",
+    "responsive",
+    "animated",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22372,
+      "sha256": "1065e24cbaea0346aae82f503eae7516fc93595e247e4a941bdc218388cc24c2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6415,
+      "sha256": "16c8eff5d8ecfa7664ec18ea5b9ba8d491c7756b34c010fad7f8ef0abc6fce7b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7267,
+      "sha256": "39cbcec1e151098614d5219c702d0400d003ea93f0038042988e025b1d19ca35"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

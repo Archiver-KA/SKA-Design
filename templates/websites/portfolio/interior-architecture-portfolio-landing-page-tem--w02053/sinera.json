@@ -1,0 +1,66 @@
+{
+  "id": "SN-W02053",
+  "title": "Interior Architecture Portfolio Landing Page Template",
+  "summary": "A refined dark-mode template for interior architecture studios to showcase projects, services, and contact details with an elegant, editorial-style landing page layout.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Interior Design",
+    "Art & Design",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3542,
+      "sha256": "1e5be0d8174aba2d25afad290711532e7ea0c6182f5fbb75237a9fd0d45df3fe"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17472,
+      "sha256": "6b869b46f0e212864a64d17672d6dfd4c6c88ba19ee70b657376fad641fc1ecf"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 741,
+      "sha256": "71a46b685b5cc9730caaf30a43aa767f6122e103c39346df6e422d8af8e79072"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18450,
+      "sha256": "4b151a42d877736f2aa62f05e8f7b8265c8203f2c1cf5c19e0c8bfc7761fa90d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "timeline",
+    "gallery-portfolio",
+    "services",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00974",
+  "title": "Responsive Tailwind Footer with Newsletter & Social Links",
+  "summary": "Multi-column footer built with Tailwind CSS featuring logo, mission blurb, email subscription form, grouped navigation links, and social media icons. Fully responsive, ideal for nonprofit, SaaS, or marketing sites needing a rich, accessible footer.",
+  "tags": [
+    "footer",
+    "tailwind",
+    "newsletter",
+    "navigation",
+    "social-icons",
+    "responsive",
+    "nonprofit",
+    "grid"
+  ],
+  "kind": "components",
+  "category": "footers",
+  "categoryLabel": "Footers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21128,
+      "sha256": "c2e61e576696d501b75543f609426aebd2b25c29414d25330bc7a22f68225d55"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9299,
+      "sha256": "7e63b39f1abced561b562a10e028de57e0fbfc35e6ab380849d9e336a93178fa"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10311,
+      "sha256": "31c0be9a7fd047a9bbda2f76c6bd98f55e647a74688a478be2e8b9d846575e84"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

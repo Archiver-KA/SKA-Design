@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 180" role="img" aria-label="mijnboomstronkverwijderen.nl logo" class="w-[182px] h-[40px]" stroke-width="2" data-icon-replaced="true" style="width: 182px; height: 40px; color: rgb(14, 17, 22)">
+        <defs>
+            <style>
+                .dk{fill:#0E1B17}
+                .or{fill:#B9400E}
+                .stroke-dk{stroke:#0E1B17;stroke-width:10;fill:none;stroke-linecap:round;stroke-linejoin:round}
+                .stroke-or{stroke:#B9400E;stroke-width:12;fill:none;stroke-linecap:round;stroke-linejoin:round}
+                text{font-family:Satoshi,Poppins,Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
+            </style>
+        </defs>
+        <!-- Icon -->
+        <g transform="translate(20,10)" class="">
+            <circle cx="80" cy="80" r="60" class="stroke-dk"></circle>
+            <circle cx="80" cy="80" r="36" class="stroke-dk" opacity="0.9"></circle>
+            <path d="M60 84c10-12 30-12 40 0" class="stroke-dk" opacity="0.9"></path>
+            <path d="M62 108c12-10 26-10 36 0" class="stroke-dk" opacity="0.75"></path>
+            <!-- Check -->
+            <path d="M52 78l18 18 38-42" class="stroke-or"></path>
+        </g>
+        <!-- Wordmark -->
+        <g transform="translate(180,74)" class="">
+            <text x="0" y="0" font-size="54" font-weight="850" class="dk">mijnboomstronk</text>
+            <text x="0" y="58" font-size="54" font-weight="850" class="or" style="">verwijderen.nl</text>
+        </g>
+    </svg>

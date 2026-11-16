@@ -1,0 +1,65 @@
+{
+  "id": "SN-W03730",
+  "title": "Musician Official Archive Website Template",
+  "summary": "A dark, atmospheric musician archive website template for official artist sites, featuring discography, concerts, interviews, and news updates.",
+  "tags": [
+    "Landing Page",
+    "Entertainment",
+    "Art & Design",
+    "Dark",
+    "Minimal",
+    "Brand",
+    "Large Type",
+    "Portfolio",
+    "musician",
+    "artist website"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3608,
+      "sha256": "501ebd86df2c368e8a66ae2546af05effdfc130725fef9265f4539b375d46c8b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12404,
+      "sha256": "8abec04190d8447fac28cfca63309e15f10da3969f8af69e47b44cc7e61859be"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 817,
+      "sha256": "c736871c2574389c4866259cd884e2f275936611fc7ccad2277cc7d035efb956"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21303,
+      "sha256": "11fc060c96130172d33a9d2eccf0ef6711a63586660614fa5261ce490eb10f57"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "cta",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

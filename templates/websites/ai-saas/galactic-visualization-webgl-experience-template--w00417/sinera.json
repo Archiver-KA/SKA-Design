@@ -1,0 +1,60 @@
+{
+  "id": "SN-W00417",
+  "title": "Galactic Visualization WebGL Experience Template",
+  "summary": "A reusable template for an interactive, WebGL-powered galactic visualization experience with adjustable simulation parameters and cinematic controls.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Art & Design",
+    "Dark",
+    "Futuristic",
+    "Animated",
+    "3D",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3530,
+      "sha256": "67d5c4c1865ff330192ee81ae30f25c0b3ebde9aa55057b55dd36a7adcfd2640"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5490,
+      "sha256": "b4c8e6854f5d03f9ab25ecef884f1e48280cef09197d6da712e81209cbbb6fd0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 742,
+      "sha256": "1c0e298b0980181bd1d594a722e68b3f613ede3a23531549ff3d97edf06c7439"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27645,
+      "sha256": "c78d78b1940e4841b82a6d467892a30ede87ab7be0e09e2376b3ad3200ffc69c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

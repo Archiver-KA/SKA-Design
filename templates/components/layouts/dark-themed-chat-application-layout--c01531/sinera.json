@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01531",
+  "title": "Dark Themed Chat Application Layout",
+  "summary": "Full-screen Slack-style chat UI with sidebar navigation, channel header, message list, threaded panel, and rich composer. Built with Tailwind utility classes and translucent dark backgrounds for modern, responsive team messaging or collaboration apps.",
+  "tags": [
+    "chat",
+    "messaging",
+    "layout",
+    "thread",
+    "tailwind",
+    "dark",
+    "responsive",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26622,
+      "sha256": "b0cb2ab783f517fd3658bc148ac7dc6860f51b2a2b4af8210cf68860d85b4e16"
+    },
+    {
+      "path": "component.html",
+      "bytes": 25341,
+      "sha256": "a758d0be6a60bcfbee31f1b2a1a241a29a93a1cf8e7e0e3109d587eaf3c1822a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26197,
+      "sha256": "900e44a9fb65da86bff3a71b7f910f17409f1c0ab8b30b9a4c09aa03616d737d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

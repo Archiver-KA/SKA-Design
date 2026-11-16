@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00095",
+  "title": "Animated Pill Button with Hover Letter Reveal",
+  "summary": "Pill-shaped CTA button with a sliding top label and staggered letter reveal animation on hover. Uses pure CSS transitions for an engaging \"Start Free\" interaction, ideal for landing pages or prominent call-to-action areas.",
+  "tags": [
+    "button",
+    "animated",
+    "cta",
+    "hover",
+    "interactive",
+    "css"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2468,
+      "sha256": "de182aa70954de4ac3a4a46d0c6ad252ddf01778d3933f3304d428fbd60e4c8c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2713,
+      "sha256": "401e226412c2ac5bfe8bef62e5d30f2d950a4d98937aa7e11d1de440bca60cc5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3579,
+      "sha256": "ae48687ebcc8c939de186a13bfa1210977775a519d1c76b1f5f0cd0e931bf01b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

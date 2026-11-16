@@ -1,0 +1,75 @@
+{
+  "id": "SN-W00485",
+  "title": "Koda Technology Services Landing Page Template",
+  "summary": "A modern Koda-inspired technology services landing page template for showcasing system architecture, AI, and cloud capabilities to enterprise clients.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Brand",
+    "Minimal",
+    "Dark",
+    "Clean",
+    "Large Type",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3593,
+      "sha256": "826003dea7e1404dd9bf46d4e2ab79af58dc3c0d13620ba37a14f936ac2b5368"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15184,
+      "sha256": "93f3f7ce499d7490d0638a7af02f2a9630980389cc47590c4d4e2a56410835b1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 880,
+      "sha256": "2c8b4acac4dcbb37ca9d98ec4b491bcd95df09b4916337fafa3ee8e1f77c89c5"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "6d7f47cc04d290ef4abac372150068099aee31617cc15da366306e3307a84d33"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32592,
+      "sha256": "fa01b70b79d0ed88639cd7ec154644450e2b0e080a4e3f7acb52674d4986ce88"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "about",
+    "services",
+    "gallery-portfolio",
+    "code-terminal",
+    "features",
+    "integrations",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

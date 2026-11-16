@@ -1,0 +1,70 @@
+{
+  "id": "SN-W01221",
+  "title": "Luxury Fashion E-commerce Template",
+  "summary": "A reusable luxury fashion e-commerce template for showcasing limited collections, driving product discovery, and converting shoppers with premium editorial design.",
+  "tags": [
+    "E-commerce",
+    "Fashion",
+    "Landing Page",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Brand",
+    "Style",
+    "luxury retail",
+    "editorial"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3687,
+      "sha256": "29c6c98248e4d25d5ba925dbfdd9a179e1c147dc0fcdca73e7c11c7ae855d7aa"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20040,
+      "sha256": "5b5446fdf9c419c25d672486975fb2c2a354c7bb4edca44024b554467372adb0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "237acaee718d8b72e17927007590c69f0c928dd6b10dda6f973bae29bfcf36c4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35168,
+      "sha256": "04ad1adc6d894d05772ed9c8aa3f8a85c5ff3df68217f7298bfaab66c9e86d50"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "cta",
+    "hero",
+    "marquee",
+    "product-grid",
+    "about",
+    "logo-cloud",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

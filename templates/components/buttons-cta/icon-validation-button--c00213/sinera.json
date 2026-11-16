@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00213",
+  "title": "Icon Validation Button",
+  "summary": "Primary action button with check icon and hover effects. Perfect for form validation, confirmation, and completion actions",
+  "tags": [
+    "button",
+    "validation",
+    "icon",
+    "primary",
+    "hover",
+    "action"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1332,
+      "sha256": "d13ac14a7b8e0809492a5ad321534b219bb7232e90e2d7f06e8878d086a4ff09"
+    },
+    {
+      "path": "component.html",
+      "bytes": 500,
+      "sha256": "b09878f20d1d289469e8cd08e20f66c9edaec372471a5fbca0262f066d407c31"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1343,
+      "sha256": "7b170fc74ab3cce3520de3f177637fc943612646d34a9463e276de2e2bd6a10a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

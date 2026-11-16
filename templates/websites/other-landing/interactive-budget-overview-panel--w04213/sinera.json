@@ -1,0 +1,94 @@
+{
+  "id": "SN-W04213",
+  "title": "Interactive Budget Overview Panel",
+  "summary": "Displays selectable budget categories with animated charts and a details button using Tailwind CSS and SVG animations.",
+  "tags": [
+    "HTML",
+    "CSS",
+    "Tailwind",
+    "JavaScript",
+    "SVG",
+    "Animation",
+    "Dropdown"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2925,
+      "sha256": "d6401cb2bddefe3c7916cb774203946c4178869c4ea0dd320af02aa1d78335a1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7256,
+      "sha256": "a255bc354bb94037a314fd35c6b079ca85b790ff59dc20c142f81788fd36633e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2044,
+      "sha256": "aa401b5377f4514632e8ea43f6eb8e9d8385d8859f167b4eb827d56733a6a43c"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 267,
+      "sha256": "2dc1ef12e0c1bb015fd6d5d5dd3603519df3821eb4d2a7d99a45285c15b3df25"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 369,
+      "sha256": "36f755660a05a2f22a21ca76d7e0a36335668ff805b608bf4d41da65c15fec72"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 644,
+      "sha256": "168f1338cdacfb176f6a2f6cce6bdcb9088ad533c39b57acf745b2c1f7d92032"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 294,
+      "sha256": "518052224e030ddc64a6d84f2c514b96d2c75a85cd0503a0ffb7f98ef082d79f"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 190,
+      "sha256": "bbb625613899d22561882015fee5c58860ce22315154e67f6294c356d21fb0e4"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 189,
+      "sha256": "2ec2d98b0cdcad3910f07813ced2467c1300c100139e95da0414414835670019"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 878,
+      "sha256": "996b5a1dd5f1aafd04c042934b58b6cafc7d2a20baa4cd58a792f58aabde9cb7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13697,
+      "sha256": "cb0d6d0d8aa42c8051d0eeabeebc3eff249a8c4c2fff46ba2c9a321b1db8f417"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

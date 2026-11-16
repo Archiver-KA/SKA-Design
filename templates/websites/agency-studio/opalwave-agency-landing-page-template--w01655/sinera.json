@@ -1,0 +1,78 @@
+{
+  "id": "SN-W01655",
+  "title": "OpalWave Agency Landing Page Template",
+  "summary": "A high-performance dark-themed template for digital studios and engineering agencies focused on clean architecture and conversion-driven design.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Graphic Design"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3618,
+      "sha256": "70386e63e4da626cee5f89e29eecf8366919bd3c419259744b942a17c187a982"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13776,
+      "sha256": "29c972a11b1429979f798c1c6c4505bea3f4a555894b2031a5ef49b7ee54869f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1268,
+      "sha256": "b5e2e1ddc42c1647000b81ea8a525c44ad2dbafbcc90a57dba81883300dd9bbe"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 406,
+      "sha256": "387ef4d083e59f6df87069043286773490e92b3a150a8efa22550555e6c118af"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 380,
+      "sha256": "5fd274e9a10e338ad3ae1b5d56b478bbe67f00f6da58a667984e55a567f71e37"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 373,
+      "sha256": "96de918745700b021ab6555c456d0a89ba81f6315cf3ebfdf4d7c14d910df7fb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24679,
+      "sha256": "914cab25c854ffb0e4589ba8d8cdf7f14c1aa7f653e7235b6265e2ec154c72c3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "bento-grid",
+    "team",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

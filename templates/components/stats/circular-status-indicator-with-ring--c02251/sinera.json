@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02251",
+  "title": "Circular Status Indicator with Ring",
+  "summary": "Tailwind CSS component rendering a 7x7px circular badge with an indigo ring and inner white dot, ideal for status or activity indicators in dashboards, chat apps, and notification UIs.",
+  "tags": [
+    "indicator",
+    "status",
+    "badge",
+    "tailwind",
+    "circle",
+    "ui-element"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1176,
+      "sha256": "b96e4ee7a2fd77c0f74c50a1d8df8221b2f998ef2b890aee8f4f830efcbd45cf"
+    },
+    {
+      "path": "component.html",
+      "bytes": 204,
+      "sha256": "d19c60e04b74b37aebe4cb3286916232d1289f87fdb8568a46e861fe085977af"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1060,
+      "sha256": "59d6d66a48e13fe2f5a3b4c850b954dcf7028aa4bbe4dea7adff369cce71ea17"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

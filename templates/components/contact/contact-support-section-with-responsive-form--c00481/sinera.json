@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00481",
+  "title": "Contact Support Section with Responsive Form",
+  "summary": "Full-width contact section featuring a blurred image backdrop, two-column layout, and a card-style support form. Built with Tailwind CSS, it includes name, email, message fields, highlight bullets, and direct contact card—ideal for landing pages or help centers.",
+  "tags": [
+    "contact",
+    "form",
+    "support",
+    "section",
+    "tailwind",
+    "responsive",
+    "gradient"
+  ],
+  "kind": "components",
+  "category": "contact",
+  "categoryLabel": "Contact & maps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18522,
+      "sha256": "550160654d2b71c073805c5415aab9e9ad20871757c6015c8435d963cb229a81"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8487,
+      "sha256": "ec149ed029cc04329eee4f51e250455ba55911afcecb6ade618777829dba437b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9482,
+      "sha256": "9dc3d94f75bb813773fa371e3750193c9845995e66bc1bf26548198fc0a9ba80"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

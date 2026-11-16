@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01466",
+  "title": "Responsive Hero Banner with Navbar & CTA (Tailwind)",
+  "summary": "Full-screen hero section sporting a background image overlay, top navigation with mobile menu toggle, animated headline, copy, dual CTAs, and partner logos. Tailwind CSS styling, scroll-in animations, and full responsiveness make it ideal for landing or marketing pages.",
+  "tags": [
+    "hero",
+    "navbar",
+    "tailwind",
+    "responsive",
+    "animated",
+    "landing-page",
+    "call-to-action",
+    "background-image"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 41814,
+      "sha256": "3d6b19283a9bc9715aed918670d85617ca28b42d07ad99cb6b06104ef97290a6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9482,
+      "sha256": "94140c413cdc158a34f525a0291d55b536742763aa6a91ccaa3e493a1918b110"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10488,
+      "sha256": "a1c54eebf918efcb526590e9afed43ec1e0383150f993078af26a94bfcf9bdfb"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

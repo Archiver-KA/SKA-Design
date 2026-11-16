@@ -1,0 +1,78 @@
+{
+  "id": "SN-W01133",
+  "title": "Coffee Shop Landing Page UI",
+  "summary": "Responsive landing page showcasing coffee products, subscription form, and customer engagement with Tailwind CSS styling.",
+  "tags": [
+    "HTML",
+    "Tailwind CSS",
+    "Responsive Design",
+    "Landing Page",
+    "Subscription Form",
+    "UI Design"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3353,
+      "sha256": "a4c2aaec85220e6f92f941b8338bb8b80335754f054441d5e3a8818d01beb0a1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 23862,
+      "sha256": "b84e5832bdebcc274ceb8b69bdca5de073d344415bbb375bfd73cdf2f820dcf4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1253,
+      "sha256": "374cb4afd2fb4d4e5a5a799e0728c3629218ce1a497c8010c2c9a18e23579fff"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "beb758e65c7ec7283898d7bbf7f3560bbd65faf96e533d6a27a8a7ebd7a82d99"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 322,
+      "sha256": "bf4b31a234a3ef1c4bcb75cb4dab413f132305893b684ce2e14f6cf595c4b515"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 323,
+      "sha256": "89eee00d1ecba0fc3320ec54685ff18216b236b3b757e01f478a2bbf79292fb3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12417,
+      "sha256": "de4614b023d6ac2ea14784233af4f9d7d20664599900d89acdc6a58753e95f51"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "timeline",
+    "awards-press",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

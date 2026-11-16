@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01512",
+  "title": "Design Agency Landing Page Template",
+  "summary": "A dark, futuristic design agency landing page template for showcasing full-stack digital capabilities, case studies, pricing, and high-end client testimonials.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4029,
+      "sha256": "deae8b756df78bae757eda08f44d7f25d8c2012646a1bd13d6b06a311926b2a4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13026,
+      "sha256": "c43a864c61ceb8a4634c9639e066face27887fcb2f2bcc757a0f20fdbdcfdc6e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "d0c3b88b479e8e3c8cf6194a251c789f8c7f4ecfd09076871b7ba75e66a8f7bf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 87403,
+      "sha256": "bb2f0b833b01f781e7e4d508af9f3aff439391777870916ba2aac5c835fd746c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "case-studies",
+    "about",
+    "testimonials",
+    "features",
+    "faq",
+    "team",
+    "pricing",
+    "video-media",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

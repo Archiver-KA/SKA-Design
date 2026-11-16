@@ -1,0 +1,71 @@
+{
+  "id": "SN-W00239",
+  "title": "Autonomous Drone Systems Landing Page Template",
+  "summary": "A dark, futuristic landing page template for showcasing autonomous drone fleets, hardware specs, and mission use cases for aerial infrastructure brands.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Futuristic",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "3D"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3752,
+      "sha256": "7a9f0dcfeb09a393da4a8675b7138a6f6c24989a28ebb8bc4adc25f760585507"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13336,
+      "sha256": "68f7dde192fae92164d16b94f60cb443dedd4bba07ca98b721bd5d47c771fc46"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 823,
+      "sha256": "8816417866e7bd16b8f3df2e3d679170df87eac0ee69da151063b8c0c148a9bc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 86787,
+      "sha256": "c49974c880f3ba8a4dee6067c365902f9ed421635c39d1180a23354fe4fb4096"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "sidebar",
+    "hero",
+    "features",
+    "product-grid",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

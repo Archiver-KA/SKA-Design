@@ -1,0 +1,60 @@
+{
+  "id": "SN-W00925",
+  "title": "Finance Overview and Budget Tracker",
+  "summary": "Mobile UI displaying balance, budget progress, and upcoming bills with interactive controls and status indicators.",
+  "tags": [
+    "Finance",
+    "Budget",
+    "Mobile UI",
+    "TailwindCSS",
+    "Icons",
+    "Responsive Design"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3102,
+      "sha256": "d5d8068ec5cc1c3d7f6259bac1d45f9dd9c64abcc1b0c02d652f8736056eb2ec"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7880,
+      "sha256": "c5b6c85b385d7916d942d38b723d4fb023312cd2159fae6cc0b5ec6ecc904ecb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 721,
+      "sha256": "99ae4993a81e0d3e3e1a1e3e1471896c16f8f8cbbf0c18039e87a5c4e3fc920b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10128,
+      "sha256": "6d305f1c9def6a55095a7815d25e3704d9eb5a4277eb78a685d29e4ffc869eb7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero",
+    "stats",
+    "navbar"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

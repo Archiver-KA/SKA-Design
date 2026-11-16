@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02002",
+  "title": "Animated Dark Pricing Tiers Section",
+  "summary": "A full-width pricing section with three dark-themed plan cards, highlighted popular tier, custom SVG/CSS animations, and Tailwind-style utility classes. Ideal for SaaS, infrastructure, or developer platform pricing pages.",
+  "tags": [
+    "pricing",
+    "section",
+    "tailwind",
+    "dark",
+    "animated",
+    "saas",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 23674,
+      "sha256": "3dee76f2698dbac48cf1d8e808a6935c71e11ece2734fc54204ed13e134df704"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12525,
+      "sha256": "67d6f281ddce867e3173d14d13900d5d956ad589eddd3645a58e89fd87d5119f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13381,
+      "sha256": "d2bad9cd0252221edc1fceee8084cfc2d7f28d9eab16d54233ef47c39679121b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

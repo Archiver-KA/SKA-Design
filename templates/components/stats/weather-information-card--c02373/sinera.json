@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02373",
+  "title": "Weather Information Card",
+  "summary": "Comprehensive weather card with current conditions, 5-day forecast, air quality index, and environmental data. Features gradient overlays and weather icons.",
+  "tags": [
+    "card",
+    "weather",
+    "forecast",
+    "environmental",
+    "gradient",
+    "overlay",
+    "air-quality",
+    "location"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12578,
+      "sha256": "ac0ced355ddc2825b91b85dd2540ef32019b78baff848a5deb89142b0ac6e28a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8105,
+      "sha256": "544af941687daf411b028a93d7fd0ee9af137c715084bbef9123acafbf8dce4f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8950,
+      "sha256": "50ec60651ea99dd16b92d7ce7c1ff8ba99008688adc236801a8ad04b621b5a3b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

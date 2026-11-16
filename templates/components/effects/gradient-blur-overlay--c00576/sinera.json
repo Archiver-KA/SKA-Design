@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00576",
+  "title": "Gradient Blur Overlay",
+  "summary": "Pure CSS decorative overlay that creates layered blurred gradients. Uses multiple stacked divs and pseudo-elements to simulate depth, fixed to the bottom of the viewport, non-interactive (pointer-events: none). Ideal as a subtle background enhancement behind content in hero or landing sections.",
+  "tags": [
+    "decorative",
+    "gradient",
+    "blur",
+    "css",
+    "pure-css",
+    "overlay"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4262,
+      "sha256": "02e5c0dd49f21b7c84df1b226593280ae34bfc0a92bb9f48c4df1a017b8ac5e4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2540,
+      "sha256": "1c639d2fc03d68693d1e11daf11186f2478820656ac5f6af01f8b0ce422c772a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3382,
+      "sha256": "7850027e9d8d6e8f0ff78e04afc8281485fdb9a828e961f6a84e6899df4df013"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

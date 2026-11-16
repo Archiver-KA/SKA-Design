@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01817",
+  "title": "3D Shape Unicorn Studio Interactive Background Embed",
+  "summary": "Embeds a UnicornStudio project via a full-screen div and lazy-loads the UnicornStudio script to render interactive animated backgrounds. Utilizes Tailwind utility classes; suitable for landing pages, hero sections, or site-wide visual effects.",
+  "tags": [
+    "embed",
+    "script",
+    "tailwind",
+    "background",
+    "animation",
+    "integration",
+    "interactive",
+    "third-party"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10342,
+      "sha256": "0039d7640f06463d90a8fc3e46b888c749228d310a2f6120f5b1afbd6338db87"
+    },
+    {
+      "path": "component.html",
+      "bytes": 535,
+      "sha256": "5beabddf8d3c89faf6513b57d4937b8c85b91d8966a53649cef396d9300ae04e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1408,
+      "sha256": "b14f1bb0bc1256e6285334d33f9f63e73f973897509841535c6c177745227815"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

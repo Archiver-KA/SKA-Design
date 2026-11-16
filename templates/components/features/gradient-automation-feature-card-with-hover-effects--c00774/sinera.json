@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00774",
+  "title": "Gradient Automation Feature Card with Hover Effects",
+  "summary": "Tailwind-styled card displaying sprint automation details inside a blurred gradient container. Features layered borders, hover shadow, responsive heights, and CTA link—perfect for dashboards, landing pages, or product highlights.",
+  "tags": [
+    "card",
+    "tailwind",
+    "gradient",
+    "blur",
+    "hover",
+    "responsive",
+    "dashboard",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8620,
+      "sha256": "4ca593132666e1535f3299eb8f29152341d8dc4e84731c14bd9a7f72c3c17fa2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4260,
+      "sha256": "f36aade02c9d74cc45f31908287f962ac2fd4af73b2121975111a8931d1c977c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5262,
+      "sha256": "7ddf05c5d62ba1e5477ca580679ba8246a5c18d2712b0e629fd6f70ac1cad0e3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

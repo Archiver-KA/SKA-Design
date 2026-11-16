@@ -1,0 +1,75 @@
+{
+  "id": "SN-W02983",
+  "title": "Restaurant Landing Page Template",
+  "summary": "A premium restaurant landing page template for showcasing menus, chefs, reservations, locations, and brand storytelling with a dark cinematic style.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Blog",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Brand",
+    "restaurant",
+    "reservations",
+    "hospitality"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3734,
+      "sha256": "abab8962ea35258d46beae1a981e4eb93b07d13b38b078f8fc7164f6f78c7b24"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17064,
+      "sha256": "55292ef83d6a2b4bcf6b3aadfedee8cc11b93cf95f2e44c3821609d0b12dd15e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 871,
+      "sha256": "b5751e477a03cd257e567c8273130650f2ce04f6a2874c1939a07659b3108455"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "1d477c85a7ad0d3a741110a72123c23e8bdb35a659e27798b40c1804211d7d73"
+    },
+    {
+      "path": "index.html",
+      "bytes": 43448,
+      "sha256": "96a02d23914e0cf0931bd50de348e2613e177da70bb8d446624cfbfa127acbf0"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "booking",
+    "about",
+    "features",
+    "menu-list",
+    "timeline",
+    "blog-articles",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

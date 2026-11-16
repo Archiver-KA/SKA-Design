@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00754",
+  "title": "Feature Highlights Section with Image Cards",
+  "summary": "Responsive landing page section showcasing platform features. Includes heading, call-to-action button, and a three-card grid with images, descriptions, and hover effects over a decorative blurred background. Built with Tailwind CSS for easy customization.",
+  "tags": [
+    "feature section",
+    "card grid",
+    "tailwind",
+    "responsive",
+    "landing page",
+    "cta",
+    "image cards"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 36534,
+      "sha256": "b966ad3098609766b39134baf25617d390493e61405199b534f7fcfe28e899f9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7520,
+      "sha256": "0879b06d9dac15fc84cecd3b83b14bc901739481e8fc839eb7cd9c601c8d50f6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8514,
+      "sha256": "64cfc5c8f81a2cdce05cb6eec738621c2c43078f8ddf8e188c9b5a74cf781efa"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

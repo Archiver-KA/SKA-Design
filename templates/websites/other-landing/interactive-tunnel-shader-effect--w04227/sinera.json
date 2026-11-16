@@ -1,0 +1,60 @@
+{
+  "id": "SN-W04227",
+  "title": "Interactive Tunnel Shader Effect",
+  "summary": "Renders a dynamic 3D tunnel animation using Three.js and GLSL shaders with animated rings and smooth color transitions.",
+  "tags": [
+    "Shader",
+    "Three.js",
+    "WebGL",
+    "GLSL",
+    "Animation",
+    "Tunnel",
+    "Background"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2163,
+      "sha256": "fac3a8ae154a19274847de8a434244c80e950d0e2ab4f996f31c2e6558100d8c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 80158,
+      "sha256": "8ad9843b335f65844cdce728e42099419113237cb7603dd368f208c3172a84b2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "8689cc6940dd5f166b07ff7575f4200f83d0ce552b9a34e7a075905b0ec2a016"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6708,
+      "sha256": "df05bf030f93825c2a3b9f62384bab682eff86923627bbbc5b30a773de724748"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

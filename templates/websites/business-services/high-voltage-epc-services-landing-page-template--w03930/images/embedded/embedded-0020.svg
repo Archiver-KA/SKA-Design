@@ -1,0 +1,12 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none" preserveAspectRatio="none">
+        <defs>
+          <linearGradient id="whyLineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:#0071CE;stop-opacity:0"></stop>
+            <stop offset="50%" style="stop-color:#0071CE;stop-opacity:0.4"></stop>
+            <stop offset="100%" style="stop-color:#0071CE;stop-opacity:0"></stop>
+          </linearGradient>
+        </defs>
+        <path d="M0 120 Q400 100 800 140 T1600 120" stroke="url(#whyLineGrad)" stroke-width="1" fill="none" class="line-animate" style="animation-delay: 0s;"></path>
+        <path d="M0 280 Q400 300 800 260 T1600 300" stroke="url(#whyLineGrad)" stroke-width="1" fill="none" class="line-animate" style="animation-delay: 1s;"></path>
+        <path d="M0 440 Q400 420 800 460 T1600 420" stroke="url(#whyLineGrad)" stroke-width="1" fill="none" class="line-animate" style="animation-delay: 2s;"></path>
+      </svg>

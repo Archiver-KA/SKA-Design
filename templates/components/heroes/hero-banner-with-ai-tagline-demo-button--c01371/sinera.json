@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01371",
+  "title": "Hero Banner with AI Tagline & Demo Button",
+  "summary": "Responsive hero section featuring a background image, bold AI-focused headline, supporting text, and a play-demo CTA button. Styled with Tailwind CSS utilities; ideal for SaaS or product landing pages requiring an engaging header.",
+  "tags": [
+    "hero",
+    "banner",
+    "tailwind",
+    "background-image",
+    "cta",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22110,
+      "sha256": "bb60ae291aad6f5bae5df46234651c82e0c30279a7f3f6ce436a117c6613662b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2550,
+      "sha256": "07b1b426e308f037cb1ed7c0cab09d00a4940a2aad2f13ea98bb78c81e7dd933"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3546,
+      "sha256": "dd16d00ccea67300cf7b8bec04f0c2ffd03fcef58aaab40519f281bd16aa6e01"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

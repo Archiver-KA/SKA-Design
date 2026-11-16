@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01421",
+  "title": "Landing Hero with Marquee Logos, Feature Cards & KPIs",
+  "summary": "Tailwind-styled landing section featuring a scrolling trust bar, headline with CTA, four animated feature cards, and KPI stats. Ideal for SaaS sites to showcase credibility, key solutions, and performance metrics in a responsive, visually rich block.",
+  "tags": [
+    "landing",
+    "hero",
+    "tailwind",
+    "marquee",
+    "kpi",
+    "responsive",
+    "animated"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15110,
+      "sha256": "9b94d8c05082954ec83c4271c717ef962db1ddf2e940a0cd350691ffb6a9838d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 17145,
+      "sha256": "b1693e402f97753e6bc29bd74ca13542a5fb046b3497b37ff5521635b73f1443"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18113,
+      "sha256": "9106ba08b5aa800a3d7ce2786d658b4a0592b3362e9de92c866fead3989976b1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

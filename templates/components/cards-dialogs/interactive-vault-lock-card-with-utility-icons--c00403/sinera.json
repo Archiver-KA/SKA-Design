@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00403",
+  "title": "Interactive Vault Lock Card with Utility Icons",
+  "summary": "Stylized security card featuring concentric rings, frosted utility buttons and a central lock toggle. Built with Tailwind CSS, ideal for dashboards or settings pages requiring session locking, key rotation or vault management visuals.",
+  "tags": [
+    "card",
+    "security",
+    "lock",
+    "tailwind",
+    "interactive",
+    "dashboard",
+    "utility-icons"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7114,
+      "sha256": "090edb02dca78d76895aa23eaff3208abbfa7e7b0a077ab070bbb7da3a3af387"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6686,
+      "sha256": "66d73bc0576d82951ded7ce9c46f04e5d392dcc7df620ae9fd21709577baac71"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7683,
+      "sha256": "2521b7c97ee9f122725e24d00605ad3b047d4b0554ddad5a22df4023a6659e7f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

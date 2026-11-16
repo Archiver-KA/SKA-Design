@@ -1,0 +1,38 @@
+{
+  "id": "SN-C00666",
+  "title": "Animated Bento Feature Grid Section",
+  "summary": "A full-screen Tailwind CSS feature section with a glassmorphism bento grid, hover animations, Iconify icons, and a Three.js WebGL particle background. Ideal for showcasing personas, product pillars, or service differentiators.",
+  "tags": [
+    "feature",
+    "section",
+    "tailwind",
+    "bento",
+    "animated",
+    "glassmorphism",
+    "threejs",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10138,
+      "sha256": "61c26a78daf0837617afc97791fc7fe4e321a81e34a0b900f022bc4a79ccc0aa"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13206,
+      "sha256": "cac83f8b494b46fcc2c9d4b5245b4db029750b739700c42a82ce988d1c38de92"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

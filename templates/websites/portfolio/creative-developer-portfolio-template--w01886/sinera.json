@@ -1,0 +1,64 @@
+{
+  "id": "SN-W01886",
+  "title": "Creative Developer Portfolio Template",
+  "summary": "A high-end, animated dark-mode portfolio template for creative developers and designers featuring motion details and fluid layouts.",
+  "tags": [
+    "Portfolio",
+    "Art & Design",
+    "Technology",
+    "Dark",
+    "Animated",
+    "Clean",
+    "Creative",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2488,
+      "sha256": "9fbaa7e89553a8feda3f0901b3d8d16ecaa898681c5aebcd85bdc891be016f3a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17670,
+      "sha256": "50a193d8b94c67f09e243a536a250f345cd7e34b0eab53f340daf984c209b64b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 871,
+      "sha256": "2cc023ee06b632f0fb26e08c26aa48e89a1fa48c3f82674fa9ed063f79d4836f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 389,
+      "sha256": "6dee7fbcb6272910eb08e92ed0db230a4c54d19a7c5d650fcfebf678ec050a95"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12579637,
+      "sha256": "ff51bd53f7dd465cfb3e31b263377ed661678d1e12d3ec2e9afc4da85e546979"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "huge-file"
+    ],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

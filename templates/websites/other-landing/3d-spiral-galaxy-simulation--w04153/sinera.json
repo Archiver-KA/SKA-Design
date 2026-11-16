@@ -1,0 +1,57 @@
+{
+  "id": "SN-W04153",
+  "title": "3D Spiral Galaxy Simulation",
+  "summary": "Interactive 3D visualization of a spiral galaxy with a central bulge and background stars using Three.js and WebGL.",
+  "tags": [
+    "Galaxy",
+    "Three.js",
+    "WebGL",
+    "3D Visualization",
+    "Interactive",
+    "Astronomy",
+    "OrbitControls"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2011,
+      "sha256": "208560016cbece928a34df827b6061ad60066853eb635db98fc1a2c3d8680cd0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2668,
+      "sha256": "16dfc6c872a4fb8c86e9ab6229705ebb75b6d1be990608cff86e45792674924c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 720,
+      "sha256": "b8265f05636accd58d29e501eeae1e6bbf1010caaa58d31b574cdfff0b863876"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6933,
+      "sha256": "f115ce3585f18f1cfb1538daec9b1d4792c2faabb4a1e368763b232beb2475bd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

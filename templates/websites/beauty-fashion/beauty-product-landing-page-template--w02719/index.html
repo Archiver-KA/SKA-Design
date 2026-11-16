@@ -1,0 +1,942 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Existing Verification -->
+<meta name="google-site-verification" content="udMwF4QQ8_Svsl4Kh_btJPT4ALZm0QGY1b4_r87H6J4" />
+<!-- New Google Merchant Center Verification -->
+<meta name="google-site-verification" content="google328b1d1efdd0998d" />
+<meta name="google-site-verification" content="328b1d1efdd0998d" />
+<title>vora | Wireless Straightening Comb</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+body {
+font-family: 'Manrope', sans-serif;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+background-color: #FCFBF8;
+color: #1A1A1A;
+}
+.glass-card {
+background: rgba(255, 255, 255, 0.7);
+backdrop-filter: blur(20px);
+-webkit-backdrop-filter: blur(20px);
+border: 1px solid rgba(255, 255, 255, 0.4);
+box-shadow: 0 20px 40px rgba(0,0,0,0.05);
+}
+/* Hide scrollbar */
+::-webkit-scrollbar {
+width: 0px;
+background: transparent;
+}
+.scrollbar-hide::-webkit-scrollbar {
+display: none;
+}
+.scrollbar-hide {
+-ms-overflow-style: none;
+scrollbar-width: none;
+}
+@keyframes float {
+0%, 100% { transform: translateY(0) rotate(0deg); }
+50% { transform: translateY(-10px) rotate(2deg); }
+}
+.animate-float {
+animation: float 6s ease-in-out infinite;
+}
+.reveal-on-scroll {
+opacity: 0;
+transform: translateY(30px);
+filter: blur(8px);
+transition: all 1s cubic-bezier(0.2, 0.8, 0.2, 1);
+will-change: opacity, transform, filter;
+}
+.reveal-on-scroll.is-visible {
+opacity: 1;
+transform: translateY(0);
+filter: blur(0);
+}
+.reveal-delay-100 { transition-delay: 0.1s; }
+.reveal-delay-200 { transition-delay: 0.2s; }
+.reveal-delay-300 { transition-delay: 0.3s; }
+/* Smooth accordion transitions */
+details > summary {
+list-style: none;
+}
+details > summary::-webkit-details-marker {
+display: none;
+}
+</style>
+
+
+
+</head>
+<body class="selection:bg-[#F2EAE3] selection:text-black relative">
+
+  <!-- Promo Banner -->
+  <div id="promo-banner" class="fixed top-0 left-0 w-full h-10 bg-[#F2EAE3] border-b border-[#E8DCD1] z-40 flex items-center justify-center transition-transform duration-300">
+    <a href="#shop" class="flex items-center gap-2 md:gap-3 hover:opacity-80 transition-opacity">
+      <span class="relative flex h-1.5 w-1.5">
+        <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-[#D4A3A3] opacity-75"></span>
+        <span class="relative inline-flex rounded-full h-1.5 w-1.5 bg-[#C98A8A]"></span>
+      </span>
+      <p class="text-xs font-medium tracking-wider text-[#4A4A4A] uppercase">
+        Spring Sale <span class="hidden sm:inline mx-2 text-[#C98A8A]">|</span> 33% Off + Free Shipping
+      </p>
+    </a>
+  </div>
+
+  <!-- Header -->
+  <header id="site-header" class="fixed left-0 w-full z-30 transition-all duration-300 px-6 py-4 md:px-12 md:py-5 flex justify-between items-center top-10">
+    <div class="absolute inset-0 w-full h-full -z-10 bg-white/90 backdrop-blur-md border-b border-black/5 shadow-sm transition-all duration-500" id="header-bg"></div>
+    
+    <div class="flex items-center z-10 w-1/3">
+      <button id="header-menu" type="button" class="md:hidden text-sm font-medium text-neutral-900 hover:opacity-70 transition-colors duration-300 uppercase tracking-widest z-10">
+        Menu
+      </button>
+      <nav id="header-nav" class="hidden md:flex items-center gap-8 z-10 text-xs font-medium text-neutral-600 transition-colors duration-300 uppercase tracking-widest">
+        <a href="#features" class="hover:text-black transition-colors whitespace-nowrap">Features</a>
+        <a href="#how-it-works" class="hover:text-black transition-colors whitespace-nowrap">How to Use</a>
+        <a href="#reviews" class="hover:text-black transition-colors whitespace-nowrap">Reviews</a>
+        <a href="#faq" class="hover:text-black transition-colors whitespace-nowrap">FAQ</a>
+      </nav>
+    </div>
+
+    <div class="flex items-center justify-center z-10 w-1/3">
+      <a href="#hero" id="header-logo" class="text-2xl font-bold tracking-tighter text-neutral-900 transition-colors duration-300 lowercase">
+        vora.
+      </a>
+    </div>
+
+    <div class="flex items-center justify-end z-10 w-1/3">
+      <a href="#shop" class="hidden md:inline-flex items-center justify-center px-6 py-2.5 bg-neutral-900 text-white text-xs font-medium rounded-full hover:bg-neutral-800 transition-colors tracking-widest uppercase whitespace-nowrap">
+        Shop Now
+      </a>
+      <a href="#shop" class="md:hidden">
+        <iconify-icon icon="solar:cart-large-minimalistic-linear" class="text-xl text-neutral-900"></iconify-icon>
+      </a>
+    </div>
+
+    <!-- Mobile Menu Overlay -->
+    <div id="mobile-menu-overlay" class="fixed inset-0 bg-[#FCFBF8]/98 backdrop-blur-xl flex flex-col items-center justify-center gap-8 opacity-0 pointer-events-none transition-all duration-500 z-[5] top-0">
+      <button id="close-menu" class="absolute top-6 left-6 text-sm font-medium uppercase tracking-widest text-neutral-900 z-20">Close</button>
+      <a href="#features" class="mobile-link text-3xl font-medium tracking-tight hover:text-[#C98A8A] transition-colors">Features</a>
+      <a href="#how-it-works" class="mobile-link text-3xl font-medium tracking-tight hover:text-[#C98A8A] transition-colors whitespace-nowrap">How to Use</a>
+      <a href="#reviews" class="mobile-link text-3xl font-medium tracking-tight hover:text-[#C98A8A] transition-colors">Reviews</a>
+      <a href="#faq" class="mobile-link text-3xl font-medium tracking-tight hover:text-[#C98A8A] transition-colors">FAQ</a>
+      <a href="#shop" class="mobile-link mt-8 px-8 py-4 bg-neutral-900 text-white rounded-full text-sm font-medium tracking-widest uppercase">Shop Vora</a>
+    </div>
+  </header>
+
+  <script>
+    (function() {
+      const menuBtn = document.getElementById('header-menu');
+      const closeBtn = document.getElementById('close-menu');
+      const mobileOverlay = document.getElementById('mobile-menu-overlay');
+      const mobileLinks = document.querySelectorAll('.mobile-link');
+      
+      let isMenuOpen = false;
+
+      function toggleMenu() {
+          isMenuOpen = !isMenuOpen;
+          if (isMenuOpen) {
+              mobileOverlay.classList.remove('opacity-0', 'pointer-events-none');
+              mobileOverlay.classList.add('opacity-100', 'pointer-events-auto');
+          } else {
+              mobileOverlay.classList.add('opacity-0', 'pointer-events-none');
+              mobileOverlay.classList.remove('opacity-100', 'pointer-events-auto');
+          }
+      }
+
+      menuBtn.addEventListener('click', toggleMenu);
+      closeBtn.addEventListener('click', toggleMenu);
+      mobileLinks.forEach(link => link.addEventListener('click', () => {
+          if(isMenuOpen) toggleMenu();
+      }));
+    })();
+  </script>
+
+  <!-- SECTION 1: HERO -->
+  <section class="relative w-full min-h-[90vh] bg-[#F9F6F0] overflow-hidden flex flex-col pt-32 pb-20" id="hero">
+    
+    <div class="flex-grow z-10 w-full h-full relative max-w-7xl mx-auto px-6 md:px-12 flex flex-col lg:flex-row items-center justify-center gap-12">
+      
+      <!-- Left Content -->
+      <div class="w-full lg:w-1/2 flex flex-col items-start pt-10 lg:pt-0">
+        <div class="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-white border border-neutral-100 shadow-sm mb-8 reveal-on-scroll is-visible">
+          <div class="flex text-[#D4AF37] text-xs">
+            <iconify-icon icon="solar:star-bold"></iconify-icon>
+            <iconify-icon icon="solar:star-bold"></iconify-icon>
+            <iconify-icon icon="solar:star-bold"></iconify-icon>
+            <iconify-icon icon="solar:star-bold"></iconify-icon>
+            <iconify-icon icon="solar:star-bold"></iconify-icon>
+          </div>
+          <span class="text-xs font-semibold tracking-wide text-neutral-800">10,000+ Happy Customers</span>
+        </div>
+        
+        <h1 class="text-5xl md:text-6xl lg:text-7xl font-medium tracking-tight text-neutral-900 leading-[1.1] mb-6 reveal-on-scroll reveal-delay-100 is-visible">
+          Salon-smooth hair <br><span class="text-[#C98A8A] italic font-serif">anywhere</span> in minutes.
+        </h1>
+        
+        <p class="text-base md:text-lg text-neutral-600 leading-relaxed mb-10 max-w-md reveal-on-scroll reveal-delay-200 is-visible">
+          Ditch the cords. Our portable, USB-rechargeable straightening comb delivers flawless, frizz-free styling at home, work, or on the go.
+        </p>
+        
+        <div class="flex flex-col sm:flex-row items-center gap-4 w-full sm:w-auto reveal-on-scroll reveal-delay-300 is-visible">
+          <a href="#shop" class="w-full sm:w-auto bg-neutral-900 text-white px-10 py-4 rounded-full text-sm font-semibold hover:bg-neutral-800 transition-all shadow-xl shadow-neutral-900/20 text-center tracking-wide">
+            Shop Now — Save 33%
+          </a>
+          <div class="flex items-center gap-2 text-xs font-medium text-neutral-500 uppercase tracking-widest whitespace-nowrap">
+            <iconify-icon icon="solar:box-linear" class="text-lg"></iconify-icon>
+            Free Shipping
+          </div>
+        </div>
+      </div>
+
+      <!-- Right Image/Product -->
+      <div class="w-full lg:w-1/2 relative flex justify-center mt-10 lg:mt-0 reveal-on-scroll reveal-delay-200 is-visible">
+        <div class="relative w-full max-w-md aspect-[4/5] bg-[#F9F6F0]">
+          <img src="https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/d269f326-e982-4ff8-a5cd-f2b82223304c_1600w.png" alt="Woman with beautiful straight hair" class="w-full h-full object-cover mix-blend-multiply">
+        </div>
+      </div>
+      
+    </div>
+  </section>
+
+  <!-- SECTION 2: PROBLEM vs SOLUTION -->
+  <section class="py-24 bg-white px-6 md:px-12">
+    <div class="max-w-7xl mx-auto">
+      <div class="text-center max-w-2xl mx-auto mb-16 reveal-on-scroll">
+        <span class="inline-block text-[#C98A8A] text-xs font-bold tracking-widest uppercase mb-4 whitespace-nowrap">
+          The Problem
+        </span>
+        <h2 class="text-3xl md:text-4xl font-medium tracking-tight text-neutral-900 leading-tight">
+          Traditional straighteners weren't made for modern life.
+        </h2>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 reveal-on-scroll reveal-delay-100">
+        <div class="bg-[#FCFBF8] p-8 rounded-2xl text-center border border-neutral-100">
+          <div class="w-12 h-12 mx-auto bg-neutral-100 rounded-full flex items-center justify-center mb-6 text-neutral-400">
+            <iconify-icon icon="solar:plug-circle-linear" class="text-2xl"></iconify-icon>
+          </div>
+          <h3 class="font-semibold text-neutral-900 mb-2 whitespace-nowrap">Tangled Cords</h3>
+          <p class="text-sm text-neutral-500">Always searching for an outlet when you're in a rush.</p>
+        </div>
+        <div class="bg-[#FCFBF8] p-8 rounded-2xl text-center border border-neutral-100">
+          <div class="w-12 h-12 mx-auto bg-neutral-100 rounded-full flex items-center justify-center mb-6 text-neutral-400">
+            <iconify-icon icon="solar:suitcase-linear" class="text-2xl"></iconify-icon>
+          </div>
+          <h3 class="font-semibold text-neutral-900 mb-2 whitespace-nowrap">Too Bulky</h3>
+          <p class="text-sm text-neutral-500">Takes up too much space in your handbag or luggage.</p>
+        </div>
+        <div class="bg-[#FCFBF8] p-8 rounded-2xl text-center border border-neutral-100">
+          <div class="w-12 h-12 mx-auto bg-neutral-100 rounded-full flex items-center justify-center mb-6 text-neutral-400">
+            <iconify-icon icon="solar:fire-linear" class="text-2xl"></iconify-icon>
+          </div>
+          <h3 class="font-semibold text-neutral-900 mb-2 whitespace-nowrap">Heat Damage</h3>
+          <p class="text-sm text-neutral-500">Exposed flat iron plates that burn hair and hands.</p>
+        </div>
+        <div class="bg-[#FCFBF8] p-8 rounded-2xl text-center border border-neutral-100">
+          <div class="w-12 h-12 mx-auto bg-neutral-100 rounded-full flex items-center justify-center mb-6 text-neutral-400">
+            <iconify-icon icon="solar:clock-circle-linear" class="text-2xl"></iconify-icon>
+          </div>
+          <h3 class="font-semibold text-neutral-900 mb-2 whitespace-nowrap">Time Consuming</h3>
+          <p class="text-sm text-neutral-500">Takes 20+ minutes just to touch up your look.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SECTION 3: SCROLLY FEATURES -->
+  <section id="features" class="relative bg-[#F9F6F0] lg:h-[300vh]">
+    <div class="w-full grid grid-cols-1 lg:grid-cols-2 overflow-hidden lg:sticky lg:top-0 lg:h-screen">
+      
+      <!-- Left Panel: Content -->
+      <div class="relative h-full w-full flex flex-col justify-center lg:order-1 bg-[#F9F6F0] border-r border-neutral-200 z-10 py-20 lg:py-0">
+        
+        <!-- Step 1 Content -->
+        <div class="scrolly-content flex flex-col px-8 md:px-20 transition-all duration-700 ease-out lg:absolute lg:inset-0 lg:justify-center opacity-100 translate-y-0" data-step="1">
+          <span class="text-[#C98A8A] text-xs font-bold uppercase tracking-widest mb-6 block whitespace-nowrap">
+            [ 01 — Portability ]
+          </span>
+          <h2 class="text-4xl md:text-5xl font-medium tracking-tight mb-6 text-neutral-900">
+            Cordless Freedom.
+          </h2>
+          <div class="w-12 h-1 bg-neutral-900 mb-8 rounded-full"></div>
+          <p class="text-base leading-relaxed text-neutral-600 max-w-md">
+            Engineered with a high-capacity rechargeable battery. Vora is compact enough to fit in your daily tote, giving you the power to transform your hair in the car, at the office, or right before a date.
+          </p>
+        </div>
+
+        <!-- Step 2 Content -->
+        <div class="scrolly-content hidden lg:flex flex-col px-8 md:px-20 transition-all duration-700 ease-out absolute inset-0 justify-center opacity-0 translate-y-8" data-step="2">
+          <span class="text-[#C98A8A] text-xs font-bold uppercase tracking-widest mb-6 block whitespace-nowrap">
+            [ 02 — Technology ]
+          </span>
+          <h2 class="text-4xl md:text-5xl font-medium tracking-tight mb-6 text-neutral-900">
+            Ceramic Even-Heat.
+          </h2>
+          <div class="w-12 h-1 bg-neutral-900 mb-8 rounded-full"></div>
+          <p class="text-base leading-relaxed text-neutral-600 max-w-md">
+            Our advanced ceramic plates heat up in just 30 seconds. The comb design ensures heat is distributed evenly through every strand, smoothing out frizz and adding a silky shine without the harsh damage of flat irons.
+          </p>
+        </div>
+
+        <!-- Step 3 Content -->
+        <div class="scrolly-content hidden lg:flex flex-col px-8 md:px-20 transition-all duration-700 ease-out absolute inset-0 justify-center opacity-0 translate-y-8" data-step="3">
+          <span class="text-[#C98A8A] text-xs font-bold uppercase tracking-widest mb-6 block whitespace-nowrap">
+            [ 03 — Safety ]
+          </span>
+          <h2 class="text-4xl md:text-5xl font-medium tracking-tight mb-6 text-neutral-900">
+            Anti-Scald Design.
+          </h2>
+          <div class="w-12 h-1 bg-neutral-900 mb-8 rounded-full"></div>
+          <p class="text-base leading-relaxed text-neutral-600 max-w-md">
+            We surrounded the heating plates with heat-resistant protective teeth. You can comfortably glide the comb right from your roots to your ends without ever worrying about burning your scalp or fingers.
+          </p>
+        </div>
+      </div>
+
+      <!-- Right Panel: Images -->
+      <div class="relative h-[400px] sm:h-[500px] lg:h-auto bg-[#F9F6F0] overflow-hidden lg:order-2">
+        <!-- Image 1 -->
+        <img src="https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/4086676e-257b-4961-834c-8c18b4d52ecd_1600w.png" alt="Portable Styling" class="scrolly-image absolute inset-0 w-full h-full object-cover mix-blend-multiply transition-all duration-1000 opacity-100 scale-100" data-step="1">
+        <!-- Image 2 -->
+        <img src="https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/e769ea28-9161-44a7-8e0d-618968394ea1_1600w.png" alt="Ceramic Heating" class="scrolly-image absolute inset-0 w-full h-full object-cover mix-blend-multiply transition-all duration-1000 opacity-0 scale-105 hidden lg:block" data-step="2">
+        <!-- Image 3 -->
+        <img src="https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/86d7fa35-3945-4ac0-9428-d209e76afb99_1600w.png" alt="Anti-Scald" class="scrolly-image mix-blend-multiply transition-all duration-1000 hidden lg:block opacity-0 w-full h-full object-cover absolute top-0 right-0 bottom-0 left-0 scale-105" data-step="3">
+      </div>
+    </div>
+
+    <script>
+      (function () {
+        const section = document.getElementById("features");
+        if (!section) return;
+
+        const contents = section.querySelectorAll(".scrolly-content");
+        const images = section.querySelectorAll(".scrolly-image");
+
+        function setStep(index) {
+          contents.forEach((el, i) => {
+            if (i === index) {
+              el.classList.remove("opacity-0", "translate-y-8");
+              el.classList.add("opacity-100", "translate-y-0");
+            } else {
+              el.classList.remove("opacity-100", "translate-y-0");
+              el.classList.add("opacity-0", "translate-y-8");
+            }
+          });
+
+          images.forEach((el, i) => {
+            if (i === index) {
+              el.classList.remove("opacity-0", "scale-105");
+              el.classList.add("opacity-100", "scale-100");
+            } else {
+              el.classList.remove("opacity-100", "scale-100");
+              el.classList.add("opacity-0", "scale-105");
+            }
+          });
+        }
+
+        function updateScroll() {
+          const isDesktop = window.innerWidth >= 1024;
+          if (!isDesktop) {
+            setStep(0); // Lock to first step on mobile for layout simplicity
+            return;
+          }
+
+          const rect = section.getBoundingClientRect();
+          const windowHeight = window.innerHeight;
+          const scrollableDistance = rect.height - windowHeight;
+
+          if (scrollableDistance <= 0) {
+            setStep(0);
+            return;
+          }
+
+          let progress = -rect.top / scrollableDistance;
+          progress = Math.max(0, Math.min(1, progress));
+
+          let activeIndex = 0;
+          if (progress < 0.33) activeIndex = 0;
+          else if (progress < 0.66) activeIndex = 1;
+          else activeIndex = 2;
+
+          setStep(activeIndex);
+        }
+
+        window.addEventListener("scroll", updateScroll);
+        window.addEventListener("resize", updateScroll);
+        updateScroll(); 
+      })();
+    </script>
+  </section>
+
+  <!-- SECTION 4: HOW IT WORKS -->
+  <section class="py-24 bg-white px-6 md:px-12 border-b border-neutral-100" id="how-it-works">
+    <div class="max-w-7xl mx-auto">
+      <div class="text-center mb-16 reveal-on-scroll">
+        <h2 class="text-3xl md:text-4xl font-medium tracking-tight text-neutral-900">
+          Flawless hair in 3 easy steps.
+        </h2>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-12 relative">
+        <!-- Connecting Line (Desktop) -->
+        <div class="hidden md:block absolute top-12 left-[15%] right-[15%] h-[1px] bg-neutral-200 z-0"></div>
+
+        <!-- Step 1 -->
+        <div class="relative z-10 flex flex-col items-center text-center reveal-on-scroll reveal-delay-100">
+          <div class="w-24 h-24 rounded-full bg-[#FDF2F2] border-4 border-white shadow-sm flex items-center justify-center mb-6">
+            <iconify-icon icon="solar:plug-circle-bold-duotone" class="text-4xl text-[#C98A8A]"></iconify-icon>
+          </div>
+          <h3 class="text-xl font-semibold text-neutral-900 mb-2 whitespace-nowrap">1. Charge &amp; Pack</h3>
+          <p class="text-sm text-neutral-500 max-w-xs">Charge fully via USB-C. Toss it in your bag—no bulky cords required.</p>
+        </div>
+
+        <!-- Step 2 -->
+        <div class="relative z-10 flex flex-col items-center text-center reveal-on-scroll reveal-delay-200">
+          <div class="w-24 h-24 rounded-full bg-[#FDF2F2] border-4 border-white shadow-sm flex items-center justify-center mb-6">
+            <iconify-icon icon="solar:power-button-bold-duotone" class="text-4xl text-[#C98A8A]"></iconify-icon>
+          </div>
+          <h3 class="text-xl font-semibold text-neutral-900 mb-2 whitespace-nowrap">2. Heat Up</h3>
+          <p class="text-sm text-neutral-500 max-w-xs">Press the button and wait 30 seconds. Choose from 3 heat settings for your hair type.</p>
+        </div>
+
+        <!-- Step 3 -->
+        <div class="relative z-10 flex flex-col items-center text-center reveal-on-scroll reveal-delay-300">
+          <div class="w-24 h-24 rounded-full bg-[#FDF2F2] border-4 border-white shadow-sm flex items-center justify-center mb-6">
+            <iconify-icon icon="solar:magic-stick-3-bold-duotone" class="text-4xl text-[#C98A8A]"></iconify-icon>
+          </div>
+          <h3 class="text-xl font-semibold text-neutral-900 mb-2 whitespace-nowrap">3. Simply Brush</h3>
+          <p class="text-sm text-neutral-500 max-w-xs">Brush slowly from root to tip. Watch frizz vanish and sleekness appear instantly.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SECTION 5: PRODUCT PAGE (SHOP) -->
+  <section class="py-24 bg-[#FCFBF8] px-6 md:px-12 border-b border-neutral-100" id="shop">
+    <div class="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 lg:gap-20">
+      
+      <!-- Left: Image Gallery -->
+      <div class="flex flex-col gap-4 reveal-on-scroll">
+        <div class="w-full aspect-square bg-[#F9F6F0] rounded-2xl overflow-hidden relative">
+          <!-- Main Product Image Placeholders (Using abstract/tech/beauty vibe) -->
+          <img id="main-product-image" src="https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/d269f326-e982-4ff8-a5cd-f2b82223304c_1600w.png" alt="Vora Comb Silk White" class="w-full h-full object-cover mix-blend-multiply">
+          <div class="absolute top-4 left-4 bg-[#D4AF37] text-white text-[10px] font-bold uppercase tracking-widest px-3 py-1.5 rounded-full whitespace-nowrap">
+            Save 33%
+          </div>
+        </div>
+        <div class="grid grid-cols-4 gap-4">
+          <button class="aspect-square bg-[#F9F6F0] rounded-xl overflow-hidden border-2 border-neutral-900 focus:outline-none">
+            <img src="https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/d269f326-e982-4ff8-a5cd-f2b82223304c_320w.png" alt="Thumbnail 1" class="w-full h-full object-cover mix-blend-multiply">
+          </button>
+          <button class="aspect-square bg-[#F9F6F0] rounded-xl overflow-hidden border border-neutral-200 focus:outline-none hover:border-neutral-400 transition-colors">
+            <img src="https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/4086676e-257b-4961-834c-8c18b4d52ecd_320w.png" alt="Thumbnail 2" class="w-full h-full object-cover mix-blend-multiply">
+          </button>
+          <button class="aspect-square bg-[#F9F6F0] rounded-xl overflow-hidden border border-neutral-200 focus:outline-none hover:border-neutral-400 transition-colors">
+            <img src="https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/e769ea28-9161-44a7-8e0d-618968394ea1_320w.png" alt="Thumbnail 3" class="w-full h-full object-cover mix-blend-multiply">
+          </button>
+          <button class="aspect-square bg-[#F9F6F0] rounded-xl overflow-hidden border border-neutral-200 focus:outline-none hover:border-neutral-400 transition-colors">
+            <img src="https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/451e7d7c-3dac-4495-95e1-fe2b37ecfbb5_320w.png" alt="Thumbnail 4" class="w-full h-full object-cover mix-blend-multiply">
+          </button>
+        </div>
+      </div>
+
+      <!-- Right: Product Info -->
+      <div class="flex flex-col justify-center reveal-on-scroll reveal-delay-100">
+        <div class="flex items-center gap-2 mb-2">
+          <div class="flex text-[#D4AF37] text-sm">
+            <iconify-icon icon="solar:star-bold"></iconify-icon>
+            <iconify-icon icon="solar:star-bold"></iconify-icon>
+            <iconify-icon icon="solar:star-bold"></iconify-icon>
+            <iconify-icon icon="solar:star-bold"></iconify-icon>
+            <iconify-icon icon="solar:star-bold"></iconify-icon>
+          </div>
+          <span class="text-xs text-neutral-500 underline cursor-pointer whitespace-nowrap">4.9/5 (834 Reviews)</span>
+        </div>
+        
+        <h1 class="text-3xl md:text-4xl font-medium tracking-tight text-neutral-900 mb-4">
+          Vora™ Wireless Comb
+        </h1>
+        
+        <div class="flex items-end gap-3 mb-6">
+          <span class="text-2xl font-semibold text-neutral-900 whitespace-nowrap">£30.00</span>
+          <span class="text-lg text-neutral-400 line-through mb-0.5 whitespace-nowrap">£45.00</span>
+        </div>
+
+        <p class="text-sm text-neutral-600 leading-relaxed mb-8">
+          Achieve salon-quality smoothness anytime, anywhere. This ultra-portable heated brush smooths frizz, straightens waves, and fits perfectly in your purse. Rechargeable via USB-C.
+        </p>
+
+        <!-- Shopify Buy Button Integration -->
+        <div class="flex flex-col gap-4 mb-8 w-full">
+          <div id="product-component-1773509307305"></div>
+        </div>
+
+        <!-- Trust Badges -->
+        <div class="grid grid-cols-3 gap-2 text-center border-t border-neutral-100 pt-6">
+          <div class="flex flex-col items-center gap-2">
+            <iconify-icon icon="solar:box-minimalistic-linear" class="text-2xl text-neutral-700"></iconify-icon>
+            <span class="text-[10px] text-neutral-500 font-medium uppercase tracking-wider whitespace-nowrap">Fast Shipping</span>
+          </div>
+          <div class="flex flex-col items-center gap-2">
+            <iconify-icon icon="solar:shield-check-linear" class="text-2xl text-neutral-700"></iconify-icon>
+            <span class="text-[10px] text-neutral-500 font-medium uppercase tracking-wider whitespace-nowrap">30-Day Guarantee</span>
+          </div>
+          <div class="flex flex-col items-center gap-2">
+            <iconify-icon icon="solar:lock-password-linear" class="text-2xl text-neutral-700"></iconify-icon>
+            <span class="text-[10px] text-neutral-500 font-medium uppercase tracking-wider whitespace-nowrap">Secure Checkout</span>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- SECTION 6: SOCIAL PROOF / REVIEWS -->
+  <section class="overflow-hidden bg-[#FDF2F2]/50 pt-24 pb-32 relative" id="reviews">
+    <div class="px-6 md:px-12 z-10 grid grid-cols-1 lg:grid-cols-12 gap-12 max-w-7xl mx-auto relative items-end">
+      
+      <!-- Left Controls/Info -->
+      <div class="lg:col-span-4 flex flex-col h-full justify-start reveal-on-scroll">
+        <div class="mb-8">
+          <span class="text-xs font-bold text-[#C98A8A] uppercase tracking-widest mb-4 block whitespace-nowrap">
+            [ Real Results ]
+          </span>
+          <h2 class="text-3xl md:text-4xl font-medium tracking-tight text-neutral-900 mb-4">
+            Don't just take our word for it.
+          </h2>
+          <p class="text-neutral-600 text-sm leading-relaxed max-w-xs">
+            See why thousands of women have swapped their bulky flat irons for the freedom of Vora.
+          </p>
+        </div>
+      </div>
+
+      <!-- Right Carousel -->
+      <div class="lg:col-span-8 relative overflow-hidden" style="mask-image: linear-gradient(90deg, transparent, black 15%, black 85%, transparent); -webkit-mask-image: linear-gradient(90deg, transparent, black 15%, black 85%, transparent);">
+        <div class="testimonial-track flex snap-x snap-mandatory pb-8 gap-x-6 reveal-on-scroll reveal-delay-200">
+          
+          <!-- Review 1 -->
+          <div class="group testimonial-card min-w-[300px] md:min-w-[340px] bg-white p-6 rounded-2xl border border-neutral-100 shadow-sm snap-center">
+            <div class="flex text-[#D4AF37] text-sm mb-4">
+              <iconify-icon icon="solar:star-bold"></iconify-icon><iconify-icon icon="solar:star-bold"></iconify-icon><iconify-icon icon="solar:star-bold"></iconify-icon><iconify-icon icon="solar:star-bold"></iconify-icon><iconify-icon icon="solar:star-bold"></iconify-icon>
+            </div>
+            <p class="text-sm text-neutral-700 leading-relaxed mb-6 font-medium">
+              "A lifesaver for travel! I took this to Europe and it was so easy to charge with my phone bank. My hair looked perfectly sleek every day."
+            </p>
+            <div class="flex justify-between items-center border-t border-neutral-100 pt-4">
+              <div class="flex items-center gap-3">
+                <div class="w-8 h-8 rounded-full bg-neutral-200 overflow-hidden">
+                  <img src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&q=80" alt="Sarah" class="w-full h-full object-cover">
+                </div>
+                <span class="text-xs font-bold text-neutral-900 whitespace-nowrap">Sarah M.</span>
+              </div>
+              <span class="text-[10px] text-green-600 uppercase font-bold flex items-center gap-1 whitespace-nowrap">
+                <iconify-icon icon="solar:check-circle-bold"></iconify-icon> Verified
+              </span>
+            </div>
+          </div>
+
+          <!-- Review 2 -->
+          <div class="group testimonial-card min-w-[300px] md:min-w-[340px] bg-white p-6 rounded-2xl border border-neutral-100 shadow-sm snap-center">
+            <div class="flex text-[#D4AF37] text-sm mb-4">
+              <iconify-icon icon="solar:star-bold"></iconify-icon><iconify-icon icon="solar:star-bold"></iconify-icon><iconify-icon icon="solar:star-bold"></iconify-icon><iconify-icon icon="solar:star-bold"></iconify-icon><iconify-icon icon="solar:star-bold"></iconify-icon>
+            </div>
+            <p class="text-sm text-neutral-700 leading-relaxed mb-6 font-medium">
+              "I keep this in my desk drawer at work. Takes 3 minutes to fix my hair before meetings. Heats up surprisingly fast for being wireless."
+            </p>
+            <div class="flex justify-between items-center border-t border-neutral-100 pt-4">
+              <div class="flex items-center gap-3">
+                <div class="w-8 h-8 rounded-full bg-neutral-200 overflow-hidden">
+                  <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&q=80" alt="Jessica" class="w-full h-full object-cover">
+                </div>
+                <span class="text-xs font-bold text-neutral-900 whitespace-nowrap">Jessica T.</span>
+              </div>
+              <span class="text-[10px] text-green-600 uppercase font-bold flex items-center gap-1 whitespace-nowrap">
+                <iconify-icon icon="solar:check-circle-bold"></iconify-icon> Verified
+              </span>
+            </div>
+          </div>
+
+          <!-- Review 3 -->
+          <div class="group testimonial-card min-w-[300px] md:min-w-[340px] bg-white p-6 rounded-2xl border border-neutral-100 shadow-sm snap-center">
+            <div class="flex text-[#D4AF37] text-sm mb-4">
+              <iconify-icon icon="solar:star-bold"></iconify-icon><iconify-icon icon="solar:star-bold"></iconify-icon><iconify-icon icon="solar:star-bold"></iconify-icon><iconify-icon icon="solar:star-bold"></iconify-icon><iconify-icon icon="solar:star-bold"></iconify-icon>
+            </div>
+            <p class="text-sm text-neutral-700 leading-relaxed mb-6 font-medium">
+              "No more burnt fingers! The comb design is genius. It grabs the hair perfectly and smooths out my frizz instantly. Highly recommend."
+            </p>
+            <div class="flex justify-between items-center border-t border-neutral-100 pt-4">
+              <div class="flex items-center gap-3">
+                <div class="w-8 h-8 rounded-full bg-neutral-200 overflow-hidden">
+                  <img src="https://images.unsplash.com/photo-1517841905240-472988babdf9?w=100&q=80" alt="Chloe" class="w-full h-full object-cover">
+                </div>
+                <span class="text-xs font-bold text-neutral-900 whitespace-nowrap">Chloe R.</span>
+              </div>
+              <span class="text-[10px] text-green-600 uppercase font-bold flex items-center gap-1 whitespace-nowrap">
+                <iconify-icon icon="solar:check-circle-bold"></iconify-icon> Verified
+              </span>
+            </div>
+          </div>
+
+          <!-- Duplicates for seamless scroll -->
+          <div class="group testimonial-card min-w-[300px] md:min-w-[340px] bg-white p-6 rounded-2xl border border-neutral-100 shadow-sm snap-center">
+            <div class="flex text-[#D4AF37] text-sm mb-4">
+              <iconify-icon icon="solar:star-bold"></iconify-icon><iconify-icon icon="solar:star-bold"></iconify-icon><iconify-icon icon="solar:star-bold"></iconify-icon><iconify-icon icon="solar:star-bold"></iconify-icon><iconify-icon icon="solar:star-bold"></iconify-icon>
+            </div>
+            <p class="text-sm text-neutral-700 leading-relaxed mb-6 font-medium">
+              "A lifesaver for travel! I took this to Europe and it was so easy to charge with my phone bank. My hair looked perfectly sleek every day."
+            </p>
+            <div class="flex justify-between items-center border-t border-neutral-100 pt-4">
+              <div class="flex items-center gap-3">
+                <div class="w-8 h-8 rounded-full bg-neutral-200 overflow-hidden">
+                  <img src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&q=80" alt="Sarah" class="w-full h-full object-cover">
+                </div>
+                <span class="text-xs font-bold text-neutral-900 whitespace-nowrap">Sarah M.</span>
+              </div>
+              <span class="text-[10px] text-green-600 uppercase font-bold flex items-center gap-1 whitespace-nowrap">
+                <iconify-icon icon="solar:check-circle-bold"></iconify-icon> Verified
+              </span>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .testimonial-track {
+        width: max-content;
+        animation: testimonial-scroll 25s linear infinite;
+      }
+      .testimonial-track:hover {
+        animation-play-state: paused;
+      }
+      @keyframes testimonial-scroll {
+        from { transform: translateX(0); }
+        to { transform: translateX(-50%); }
+      }
+    </style>
+  </section>
+
+  <!-- SECTION 7: FAQ -->
+  <section class="py-24 bg-white px-6 md:px-12" id="faq">
+    <div class="max-w-3xl mx-auto">
+      <div class="text-center mb-16 reveal-on-scroll">
+        <h2 class="text-3xl md:text-4xl font-medium tracking-tight text-neutral-900 mb-4">
+          Frequently Asked Questions
+        </h2>
+      </div>
+
+      <div class="space-y-4 reveal-on-scroll reveal-delay-100">
+        <!-- FAQ 1 -->
+        <details class="group bg-[#FCFBF8] border border-neutral-100 rounded-xl overflow-hidden [&amp;_summary::-webkit-details-marker]:hidden">
+          <summary class="flex cursor-pointer items-center justify-between gap-1.5 p-6 text-neutral-900">
+            <h2 class="font-semibold text-sm">Will it work on my hair type?</h2>
+            <span class="relative h-5 w-5 shrink-0">
+              <iconify-icon icon="solar:add-circle-linear" class="absolute inset-0 text-xl opacity-100 group-open:opacity-0 transition-opacity"></iconify-icon>
+              <iconify-icon icon="solar:minus-circle-linear" class="absolute inset-0 text-xl opacity-0 group-open:opacity-100 transition-opacity"></iconify-icon>
+            </span>
+          </summary>
+          <div class="px-6 pb-6 text-sm text-neutral-600 leading-relaxed">
+            Yes! Vora features 3 adjustable heat settings allowing it to smooth fine, medium, and thick/wavy hair effectively without causing heat damage.
+          </div>
+        </details>
+
+        <!-- FAQ 2 -->
+        <details class="group bg-[#FCFBF8] border border-neutral-100 rounded-xl overflow-hidden [&amp;_summary::-webkit-details-marker]:hidden">
+          <summary class="flex cursor-pointer items-center justify-between gap-1.5 p-6 text-neutral-900">
+            <h2 class="font-semibold text-sm">How long does the battery last?</h2>
+            <span class="relative h-5 w-5 shrink-0">
+              <iconify-icon icon="solar:add-circle-linear" class="absolute inset-0 text-xl opacity-100 group-open:opacity-0 transition-opacity"></iconify-icon>
+              <iconify-icon icon="solar:minus-circle-linear" class="absolute inset-0 text-xl opacity-0 group-open:opacity-100 transition-opacity"></iconify-icon>
+            </span>
+          </summary>
+          <div class="px-6 pb-6 text-sm text-neutral-600 leading-relaxed">
+            A full charge provides up to 45 minutes of continuous styling time depending on the heat setting. It fully recharges via USB-C in just 2 hours.
+          </div>
+        </details>
+
+        <!-- FAQ 3 -->
+        <details class="group bg-[#FCFBF8] border border-neutral-100 rounded-xl overflow-hidden [&amp;_summary::-webkit-details-marker]:hidden">
+          <summary class="flex cursor-pointer items-center justify-between gap-1.5 p-6 text-neutral-900">
+            <h2 class="font-semibold text-sm">Is it safe to put in my bag right after use?</h2>
+            <span class="relative h-5 w-5 shrink-0">
+              <iconify-icon icon="solar:add-circle-linear" class="absolute inset-0 text-xl opacity-100 group-open:opacity-0 transition-opacity"></iconify-icon>
+              <iconify-icon icon="solar:minus-circle-linear" class="absolute inset-0 text-xl opacity-0 group-open:opacity-100 transition-opacity"></iconify-icon>
+            </span>
+          </summary>
+          <div class="px-6 pb-6 text-sm text-neutral-600 leading-relaxed">
+            Yes, the anti-scald teeth protect the hot ceramic plates from touching anything directly. We also include a heat-resistant travel sleeve with every order!
+          </div>
+        </details>
+
+        <!-- FAQ 4 -->
+        <details class="group bg-[#FCFBF8] border border-neutral-100 rounded-xl overflow-hidden [&amp;_summary::-webkit-details-marker]:hidden">
+          <summary class="flex cursor-pointer items-center justify-between gap-1.5 p-6 text-neutral-900">
+            <h2 class="font-semibold text-sm">How long is shipping?</h2>
+            <span class="relative h-5 w-5 shrink-0">
+              <iconify-icon icon="solar:add-circle-linear" class="absolute inset-0 text-xl opacity-100 group-open:opacity-0 transition-opacity"></iconify-icon>
+              <iconify-icon icon="solar:minus-circle-linear" class="absolute inset-0 text-xl opacity-0 group-open:opacity-100 transition-opacity"></iconify-icon>
+            </span>
+          </summary>
+          <div class="px-6 pb-6 text-sm text-neutral-600 leading-relaxed">
+            All orders are processed within 24 hours. Standard free shipping takes 5-8 business days worldwide.
+          </div>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- BRAND FOOTER -->
+  <footer class="text-neutral-900 bg-[#F9F6F0] border-t border-neutral-200 pt-16">
+    <div class="max-w-7xl mx-auto px-6 md:px-12 grid grid-cols-1 md:grid-cols-4 gap-12 mb-16">
+      
+      <!-- Brand -->
+      <div class="md:col-span-2">
+        <h2 class="text-3xl font-bold tracking-tighter text-neutral-900 lowercase mb-4">
+          vora.
+        </h2>
+        <p class="text-sm text-neutral-500 max-w-xs mb-6 leading-relaxed">
+          Premium beauty tech designed for the modern, on-the-go woman. Say goodbye to cords and bad hair days.
+        </p>
+      </div>
+
+      <!-- Links -->
+      <div>
+        <h3 class="text-xs font-bold uppercase tracking-widest text-neutral-900 mb-6 whitespace-nowrap">Shop</h3>
+        <ul class="space-y-4">
+          <li><a href="#shop" class="text-sm text-neutral-600 hover:text-black transition-colors whitespace-nowrap">Vora™ Comb</a></li>
+          <li><a href="#reviews" class="text-sm text-neutral-600 hover:text-black transition-colors whitespace-nowrap">Reviews</a></li>
+          <li><a href="#how-it-works" class="text-sm text-neutral-600 hover:text-black transition-colors whitespace-nowrap">How to Use</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h3 class="text-xs font-bold uppercase tracking-widest text-neutral-900 mb-6 whitespace-nowrap">Support</h3>
+        <ul class="space-y-4">
+          <li><a href="#faq" class="text-sm text-neutral-600 hover:text-black transition-colors whitespace-nowrap">FAQ</a></li>
+          <li><a href="#" class="text-sm text-neutral-600 hover:text-black transition-colors whitespace-nowrap">Contact Us</a></li>
+          <li><a href="#" class="text-sm text-neutral-600 hover:text-black transition-colors whitespace-nowrap">Shipping &amp; Returns</a></li>
+        </ul>
+      </div>
+
+    </div>
+
+    <!-- Copyright Row -->
+    <div class="border-t border-neutral-200 px-6 md:px-12 py-8 flex flex-col md:flex-row justify-between items-center gap-6 text-[10px] text-neutral-500 font-medium tracking-widest uppercase">
+      <div class="whitespace-nowrap">
+        © 2024 Vora Beauty. All rights reserved.
+      </div>
+      <div class="flex gap-8">
+        <a href="#" class="hover:text-black transition-colors whitespace-nowrap">Privacy Policy</a>
+        <a href="#" class="hover:text-black transition-colors whitespace-nowrap">Terms of Service</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- STICKY ADD TO CART BAR -->
+  <div id="sticky-atc" class="fixed bottom-0 left-0 w-full bg-white/90 backdrop-blur-lg border-t border-neutral-200 p-4 transform transition-transform duration-500 z-40 flex justify-between items-center md:px-12 pb-6 md:pb-4 shadow-[0_-10px_40px_rgba(0,0,0,0.05)]">
+    <div class="hidden md:flex items-center gap-4">
+       <div class="w-12 h-12 rounded-lg bg-[#F9F6F0] overflow-hidden">
+         <img src="https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/a8ca9cce-3296-4bda-b1b4-9fa951912eb6_320w.png" alt="Vora Comb" class="w-full h-full object-cover mix-blend-multiply">
+       </div>
+       <div>
+         <p class="text-sm font-semibold text-neutral-900 whitespace-nowrap">Vora™ Wireless Comb</p>
+         <div class="flex items-center gap-2">
+           <div class="flex text-[#D4AF37] text-[10px]">
+             <iconify-icon icon="solar:star-bold"></iconify-icon><iconify-icon icon="solar:star-bold"></iconify-icon><iconify-icon icon="solar:star-bold"></iconify-icon><iconify-icon icon="solar:star-bold"></iconify-icon><iconify-icon icon="solar:star-bold"></iconify-icon>
+           </div>
+           <p class="text-[10px] font-bold text-[#C98A8A] uppercase tracking-wider whitespace-nowrap">33% Off</p>
+         </div>
+       </div>
+    </div>
+    <a href="#shop" class="w-full md:w-auto bg-neutral-900 text-white px-8 py-3.5 rounded-full text-sm font-semibold hover:bg-neutral-800 transition-colors text-center tracking-wide flex justify-center items-center gap-2 shadow-lg shadow-neutral-900/20 whitespace-nowrap">
+      Add to Cart — £30.00
+    </a>
+  </div>
+
+  <script type="text/javascript">
+  /*<![CDATA[*/
+  (function () {
+    var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+    if (window.ShopifyBuy) {
+      if (window.ShopifyBuy.UI) {
+        ShopifyBuyInit();
+      } else {
+        loadScript();
+      }
+    } else {
+      loadScript();
+    }
+    function loadScript() {
+      var script = document.createElement('script');
+      script.async = true;
+      script.src = scriptURL;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+      script.onload = ShopifyBuyInit;
+    }
+    function ShopifyBuyInit() {
+      var client = ShopifyBuy.buildClient({
+        domain: 'g00ykn-bj.myshopify.com',
+        storefrontAccessToken: '64406108a972ae1d60d4c9e9997f05b6',
+      });
+      ShopifyBuy.UI.onReady(client).then(function (ui) {
+        ui.createComponent('product', {
+          id: '15622790316416',
+          node: document.getElementById('product-component-1773509307305'),
+          moneyFormat: '%C2%A3%7B%7Bamount%7D%7D',
+          options: {
+            "product": {
+              "styles": {
+                "product": {
+                  "@media (min-width: 601px)": {
+                    "max-width": "100%",
+                    "margin-left": "0px",
+                    "margin-bottom": "0px"
+                  }
+                },
+                "button": {
+                  "font-family": "Manrope, sans-serif",
+                  "font-size": "14px",
+                  "font-weight": "600",
+                  "letter-spacing": "0.05em",
+                  "text-transform": "uppercase",
+                  "padding-top": "16px",
+                  "padding-bottom": "16px",
+                  "padding-left": "32px",
+                  "padding-right": "32px",
+                  "color": "#ffffff",
+                  "background-color": "#171717",
+                  "border-radius": "9999px",
+                  "width": "100%",
+                  "transition": "all 0.3s ease",
+                  ":hover": {
+                    "background-color": "#262626"
+                  }
+                }
+              },
+              "contents": {
+                "img": false,
+                "title": false,
+                "price": false,
+                "button": true,
+                "buttonWithQuantity": false,
+                "options": true
+              },
+              "text": {
+                "button": "Add to Cart"
+              },
+              "googleFonts": [
+                "Manrope"
+              ]
+            },
+            "option": {
+              "styles": {
+                "label": {
+                  "font-family": "Manrope, sans-serif",
+                  "font-size": "12px",
+                  "font-weight": "700",
+                  "letter-spacing": "0.05em",
+                  "text-transform": "uppercase",
+                  "color": "#171717"
+                },
+                "select": {
+                  "font-family": "Manrope, sans-serif",
+                  "border-radius": "8px"
+                }
+              },
+              "googleFonts": [
+                "Manrope"
+              ]
+            },
+            "cart": {
+              "styles": {
+                "button": {
+                  "font-family": "Manrope, sans-serif",
+                  "background-color": "#171717",
+                  "border-radius": "9999px",
+                  ":hover": {
+                    "background-color": "#262626"
+                  }
+                }
+              },
+              "text": {
+                "total": "Subtotal",
+                "button": "Checkout"
+              },
+              "googleFonts": [
+                "Manrope"
+              ]
+            },
+            "toggle": {
+              "styles": {
+                "toggle": {
+                  "background-color": "#171717",
+                  ":hover": {
+                    "background-color": "#262626"
+                  }
+                }
+              }
+            }
+          }
+        });
+      });
+    }
+  })();
+  /*]]>*/
+  </script>
+
+  <script>
+    // Reveal Animations
+    document.addEventListener('DOMContentLoaded', function(){
+      const observer = new IntersectionObserver(e => {
+        e.forEach(t => {
+          if(t.isIntersecting){
+            t.target.classList.add('is-visible');
+            observer.unobserve(t.target);
+          }
+        });
+      }, {threshold: 0.1, rootMargin: '0px 0px -50px 0px'});
+      document.querySelectorAll('.reveal-on-scroll').forEach(e => observer.observe(e));
+    });
+
+    // Sticky Header & Add to Cart
+    (function() {
+      const headerBg = document.getElementById('header-bg');
+      const stickyAtc = document.getElementById('sticky-atc');
+      const shopSection = document.getElementById('shop');
+
+      function updateHeaderAndAtc() {
+        const scrolled = window.scrollY > 20;
+        
+        // Header
+        if (scrolled) {
+          headerBg.className = 'absolute inset-0 w-full h-full -z-10 bg-white/90 backdrop-blur-md border-b border-black/5 shadow-sm transition-all duration-500';
+        } else {
+          headerBg.className = 'absolute inset-0 w-full h-full -z-10 bg-transparent transition-all duration-500';
+        }
+
+        // Sticky ATC Logic
+        if (!shopSection) return;
+        const shopRect = shopSection.getBoundingClientRect();
+        // Show sticky bar when user scrolls past 600px, but hide it when they are in the shop section
+        if (window.scrollY > 600 && (shopRect.top > window.innerHeight || shopRect.bottom < 0)) {
+          stickyAtc.classList.remove('translate-y-full');
+        } else {
+          stickyAtc.classList.add('translate-y-full');
+        }
+      }
+      
+      window.addEventListener('scroll', updateHeaderAndAtc);
+      updateHeaderAndAtc();
+    })();
+  </script>
+
+</body></html>

@@ -1,0 +1,77 @@
+{
+  "id": "SN-W03580",
+  "title": "Conference Landing Page Template",
+  "summary": "A modern, conference-focused landing page template for promoting academic or professional events with speakers, themes, registration, and call for papers.",
+  "tags": [
+    "Conference",
+    "Education",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Dark",
+    "Technology",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3374,
+      "sha256": "3ca9da0147e45d4789793a1562df75d28f867a69d6b66dfda6df99d6d615ba01"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18844,
+      "sha256": "96864a4ef79eb59583f8a4d5c1e9310d20b23454341d04b1ef0aeb599395139c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1057,
+      "sha256": "bed2ac41050554fe7f21d155e4fedebe4da1e4614bc1eddc247eb50a6a2bdfb4"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 371,
+      "sha256": "7bf9c0f2118368b95ed76d9fb72172ac199c510c1b0c4c265cca8bb968c9b301"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 312,
+      "sha256": "aa0813193696564f6869b210382e71d660426ac07d8d8ff8f70a41b1e10f9f7f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24758,
+      "sha256": "e99d64f1a079b0e5fc7ba51d0bfb91a1e275b18ba49763e903f08a6aeef110d9"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "team",
+    "about",
+    "product-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

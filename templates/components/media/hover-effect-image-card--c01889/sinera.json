@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01889",
+  "title": "Hover Effect Image Card",
+  "summary": "An interactive image card with smooth hover effects including scale transform and shadow enhancement. Perfect for gallery items, product listings, or clickable image content.",
+  "tags": [
+    "card",
+    "image",
+    "hover",
+    "animated",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14718,
+      "sha256": "5ad9e5c53b916797f3b1fc0010b9113c6c0532bf67ade302bf5a57fab111d0fd"
+    },
+    {
+      "path": "component.html",
+      "bytes": 365,
+      "sha256": "8c7db84ae7bb46570b4b6b400da9668246b551e3671f50571e7212b668ea6c53"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1209,
+      "sha256": "43ee138f0590449ad0f01876f9050a1b3f40861e0ff6ffbcce34b27317ea046c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

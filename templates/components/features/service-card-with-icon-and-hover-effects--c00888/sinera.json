@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00888",
+  "title": "Service Card with Icon and Hover Effects",
+  "summary": "Clickable service card featuring an icon blob background, title, description, and \"Learn More\" link with smooth hover transitions. Ideal for service listings, feature grids, or portfolios. Styled with Tailwind-like utility classes.",
+  "tags": [
+    "card",
+    "interactive",
+    "hover",
+    "responsive",
+    "tailwind",
+    "link",
+    "service",
+    "icon"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5614,
+      "sha256": "b352514e27bf07c73ab8c7d986d7f2c8c0222cd5ebaa30695c10e5fe267405fa"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2121,
+      "sha256": "15698758e9cea9833869e2d85695b7eb67090003b1a25639d08dc9d9753cdf1d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3112,
+      "sha256": "3c6c957524af232829030131df5d2ec3cb5cdcb94d84be3ce78d331d29dc2d67"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

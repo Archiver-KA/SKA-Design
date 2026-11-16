@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00025",
+  "title": "Responsive About Me Portfolio Section",
+  "summary": "Two-column About Me block with image collage, bio, skills list, badges and clear CTAs. Built with Tailwind CSS and fully responsive, perfect for personal portfolios, resume pages or landing sections.",
+  "tags": [
+    "about",
+    "portfolio",
+    "tailwind",
+    "responsive",
+    "grid",
+    "cta",
+    "image",
+    "skills"
+  ],
+  "kind": "components",
+  "category": "about",
+  "categoryLabel": "About & team",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 49800,
+      "sha256": "dad918d77d28ddef1884cf8edaf3a8ea3dee9ab6c54304a2876be4f8c2f8aba3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6741,
+      "sha256": "42487162e08d5003f692700a7f6d44d1587d800d68dab868f562581a22df222e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7729,
+      "sha256": "ebf4005aac46723fec7688f49df6ed21e9f94b80bc7876278a17bdb2ac049ff0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

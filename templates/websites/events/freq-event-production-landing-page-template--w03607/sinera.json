@@ -1,0 +1,78 @@
+{
+  "id": "SN-W03607",
+  "title": "Freq Event Production Landing Page Template",
+  "summary": "This reusable landing page template is designed for event production startups seeking investment, showcasing products, team, and business opportunities.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "Features",
+    "Investment",
+    "Products",
+    "Team",
+    "Carousel",
+    "Event Production",
+    "Audio Systems",
+    "Community"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3633,
+      "sha256": "18d718541e781c5879168f8f6f01030302658385306aa91d0945dbdaf52dfc19"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2736,
+      "sha256": "10c39e370be9def1c3b74c75f5023b501cbdbd962348b615c5afbb20b59c2cfc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1070,
+      "sha256": "6e93583de31627048373618f1e8087365b8383f7b70cb3de04462fd80d257b9f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1027,
+      "sha256": "fff27993a820c49af4976f47640cdd6531a7ab8da4587dab85c7cfb4d03376e5"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 300,
+      "sha256": "f82e53df8ab07354bd9151a4dc06c498fe5d01fdf43289334aef6e20e30e5622"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42584,
+      "sha256": "4b453a81582a9a94242bfcf3b9d85a27ade690e7357dbf4870f268cd455e8c00"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "3d-canvas",
+    "integrations",
+    "stats",
+    "product-grid",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

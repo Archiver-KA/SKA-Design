@@ -1,0 +1,66 @@
+{
+  "id": "SN-W00049",
+  "title": "AI Automation SaaS Landing Page Template",
+  "summary": "A dark, modern SaaS landing page template for AI automation platforms to showcase workflows, features, and calls-to-action like demos and strategy calls.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "SaaS",
+    "AI automation",
+    "B2B"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3507,
+      "sha256": "3bf1ac9beda1f9cf73d166db7a8f34353de2b534b90f61684fde58a10e9ae9ce"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19816,
+      "sha256": "2368528bb0417a9106bc0ba1afadea6a627a3b158404deb48b3ffa31eaa9a020"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "2a2e153bdea4b723dede1e8b187059299861ecb816e6d962b86133fdc6be56fc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29670,
+      "sha256": "c58abcec45e878b1be42d9664ac225aaf9b80c16b9145655c1fbd585b2a5380d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "stats",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

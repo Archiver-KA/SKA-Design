@@ -1,0 +1,58 @@
+{
+  "id": "SN-W04264",
+  "title": "Pricing Plans Display in Code Style",
+  "summary": "Renders pricing plans as styled JSON code blocks with interactive selection buttons using Tailwind CSS.",
+  "tags": [
+    "HTML",
+    "Tailwind CSS",
+    "Pricing UI",
+    "Code Syntax",
+    "Responsive Design",
+    "Interactive Elements"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3284,
+      "sha256": "49b33ccd44d3482957c573c5a36d810358953640f4157c2edc3557ef3c951461"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15560,
+      "sha256": "c2d586d63ae6ba007a2e567e0e976fee6ef8782daaf85459e29b67db04f92c14"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "87151366f82de2baff9088074fb1330036eca739de0ca8a26e3cfed0227722f2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13998,
+      "sha256": "3ec2067333168d4076812aad04c9c562fb78147471883566bff1f36c21520409"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "pricing"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

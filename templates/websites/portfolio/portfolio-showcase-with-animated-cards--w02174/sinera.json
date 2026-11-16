@@ -1,0 +1,108 @@
+{
+  "id": "SN-W02174",
+  "title": "Portfolio Showcase with Animated Cards",
+  "summary": "Responsive portfolio UI featuring animated cards, backdrop blur effects, and a fixed background image with navigation menu.",
+  "tags": [
+    "Portfolio",
+    "Animated Cards",
+    "Backdrop Blur",
+    "Responsive Design",
+    "Tailwind CSS",
+    "Navigation Menu"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3064,
+      "sha256": "fa9cd500073a4eece36abb051765c0abe397df957b78dffb42cb0b75a064de40"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16730,
+      "sha256": "c210dd598b45b3adce4d192f1fce854ccbe6375e9aa9c239317d703e1ab3c1b9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2703,
+      "sha256": "83ed003dea9f2fa5b70dce23d56539053ca679b5a4d87d4cf0052c67156f78ad"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 345,
+      "sha256": "1ae308e1e9aa4ed6d8e84b7e0a39a0dac0a62ff9c4e66cdea83b73e126e0e4d8"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 318,
+      "sha256": "fe1facc87835fe323eeaf691c41e5a8cf23ba9ef93091812efe698806c1a7ff1"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 318,
+      "sha256": "be2f1695a163e9cd8b7caa1f7033442fc9d6362f8b5f65afd2f87d65a949b4ec"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 339,
+      "sha256": "26a1b4884ebc2eddf8332eedfb5fe8b272852998806644a02c7d92d6f4691fb5"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 826,
+      "sha256": "8c0c204e87f78abe70f4d7638c3fda26bc4d63fc00383bb063d2d1c1c2807709"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 339,
+      "sha256": "a335c956e6369671cf8337f8e47b2840648ff6b5e8dc01c1b83aa52eb2d1c230"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 447,
+      "sha256": "a9b68dbd7df3869a723562e683ecdb5904b38e78469cc5344a675ed03360076b"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 433,
+      "sha256": "1b6f92e5f0dec4e92bd4264dc05f18636beda5d3e57076c3b256eb1b5fb6cf70"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 437,
+      "sha256": "094206b48f8f54869f9a57b3adf08c4404e31138b48ddc07861ebea97c60a114"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 465,
+      "sha256": "32cd41d67e67c6953a4d48ffcdac0ac50a042807e99c123d7c095f62c4007951"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25639,
+      "sha256": "d4926af94c75891fd0ec17525dbc065e104287ad6fdda550cd722d6b847d5ea6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "features"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "SN-W03013",
+  "title": "Adventure Travel Landing Page Template",
+  "summary": "A reusable travel and trekking website template for tour operators to showcase expeditions, services, offers, guides, and booking CTAs.",
+  "tags": [
+    "Travel",
+    "Landing Page",
+    "Services",
+    "Blog",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Adventure",
+    "Trekking"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3829,
+      "sha256": "14ac8fa9776c42f7e0347fca5b5e3585ec316d2e764060dc1c9d3dfc4d7d631a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 42058,
+      "sha256": "0cb2b0222ce15fc516159144c3b87e34a70d785d6a30d319933af5b34cee175c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 953,
+      "sha256": "a84529392a52120079010588af7c2d7350a0a6593ed88587c90789988b7742cc"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 189,
+      "sha256": "39b894aedbac9ac36eabfbcc24dfb40f6c62be49ba6f3b891775413ca37a2a50"
+    },
+    {
+      "path": "index.html",
+      "bytes": 68706,
+      "sha256": "bc1e0fa7f75dfa810442b173f23d18dee027ed9043666c0f3eb613a9652f8b60"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "gallery-portfolio",
+    "hero",
+    "services",
+    "stats",
+    "features",
+    "booking",
+    "logo-cloud",
+    "listings",
+    "team",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01117",
+  "title": "Glassmorphic Bottom Navigation Bar with FAB",
+  "summary": "Translucent bottom navigation bar featuring four SVG icon buttons and a centered floating action button. Built with Tailwind CSS, it offers glassmorphism, hover scaling, color transitions, and responsive mobile-first design—ideal for PWA or dashboard footers.",
+  "tags": [
+    "bottom-navigation",
+    "navbar",
+    "tailwind",
+    "glassmorphism",
+    "fab",
+    "animated",
+    "mobile",
+    "ui-component"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1968,
+      "sha256": "19a9a390f4e85842c8dc0287b4d03549004b88e8bf3021bda830597e146e1ccf"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2843,
+      "sha256": "98341c8e8a008a07b929680b1b22b1373201ba44b1b2ef8ac2261cbb2833f45a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3707,
+      "sha256": "e43ac69d1263d665ffa73752e74634520a4b94cf556bc0c3a461a9988c353be1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

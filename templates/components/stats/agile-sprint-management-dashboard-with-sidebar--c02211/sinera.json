@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02211",
+  "title": "Agile Sprint Management Dashboard with Sidebar",
+  "summary": "Glassmorphic two-column dashboard for tracking sprint progress. Features icon sidebar, sprint timeline, integrations, progress bar, team tasks, and navigation controls. Built with responsive Tailwind CSS utility classes for project or product management views.",
+  "tags": [
+    "dashboard",
+    "project-management",
+    "tailwind",
+    "glassmorphism",
+    "responsive",
+    "timeline",
+    "progress-bar",
+    "agile",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15364,
+      "sha256": "65cb5794a78a9851cf9dd37fb548641675a7798b53376ae272616560781d0b4b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 24242,
+      "sha256": "426cfb4e0c017f75bdcc6831cb3d41e206632ff70e9aa48443af259f89ebce89"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25239,
+      "sha256": "bb91d162086d485df6b319d5e401e4f5f18349dc7ac5b5c37e7332feed36a347"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

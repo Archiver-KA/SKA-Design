@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00444",
+  "title": "Responsive Destination Card Grid with Hover Effects",
+  "summary": "A responsive Tailwind-based grid of destination cards featuring full-bleed images, gradient overlays, location labels, and hover interactions that reveal a call-to-action icon. Ideal for travel, gallery, or portfolio sections.",
+  "tags": [
+    "feature",
+    "grid",
+    "travel",
+    "gallery",
+    "responsive",
+    "hover",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14574,
+      "sha256": "83ee08244db870770583a77c07f429b2b40f82d715d601df40506bcd7a3024c8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8509,
+      "sha256": "da148e8b4d6fbefe7cea688474cd8b2114200303b5bce30cfba3e57fa1f84f10"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9511,
+      "sha256": "ebb4a89f34fabd041b259c2216f94f4a004df8ba719c1a5ba44826f10e72049e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

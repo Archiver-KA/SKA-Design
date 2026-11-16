@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02209",
+  "title": "AI-Powered UI Design Editor Dashboard",
+  "summary": "Multi-panel design editor interface featuring top bar controls, component library sidebar, central canvas, property inspector, and AI suggestion panes. Built with Tailwind CSS classes, responsive grid layout, ideal for SaaS design tools or prototyping dashboards.",
+  "tags": [
+    "dashboard",
+    "editor",
+    "design-tool",
+    "tailwind",
+    "responsive",
+    "canvas",
+    "saas",
+    "webapp"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 28094,
+      "sha256": "3e9864ad83d5f572b5d204fb86ca384a73f85674426ac3aac7d26b255425f4e9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 47068,
+      "sha256": "e5dffc930c65d6b8a978c0f5bcdf76dc84140169781a724552ba9fafa6a22d73"
+    },
+    {
+      "path": "index.html",
+      "bytes": 48056,
+      "sha256": "ffa8f6d68b53e3b2333c392967818176ababcb5d292fe595779f61b71a45e912"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

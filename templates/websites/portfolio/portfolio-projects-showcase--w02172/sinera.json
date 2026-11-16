@@ -1,0 +1,68 @@
+{
+  "id": "SN-W02172",
+  "title": "Portfolio Projects Showcase",
+  "summary": "Responsive portfolio UI with animated backgrounds, project filtering, hover effects, and a fixed header navigation using Tailwind CSS.",
+  "tags": [
+    "Portfolio",
+    "Animated Background",
+    "Project Filter",
+    "Hover Effects",
+    "Tailwind CSS",
+    "Responsive Design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3359,
+      "sha256": "d7c1c39646b142232ec5abbdf596e0815e71f7e128155f7d4a7434e82f4e7dbe"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12288,
+      "sha256": "af6746d26214f39b2baf27a8c3db9c3002247c67104f9f00e79f9202283782bb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1056,
+      "sha256": "672ea93111da804fe954f62a949ac92cb75f8e941878c5b7aec6a8f1e96db0b0"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "bfb435ebbbaa70672d9f3d3a553b9d91e00926e82de47458be9d3adeb14cb8cc"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 251,
+      "sha256": "20ed58c6a0572b83057c4bfc8d86f1a8390f24c804e32c1fd5cc8187e30dc308"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15394,
+      "sha256": "ee1ae6dfc6f47a28f42989d8797650c777bd2860adf51b35c4f20de6cff31d75"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "case-studies"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02221",
+  "title": "Animated Circular System Status UI",
+  "summary": "Futuristic full-screen dashboard UI with an animated radial progress ring, glowing core, status nodes, and rotating terminal messages. Built with Tailwind CSS and SVG animation for loading, monitoring, or security interface use cases.",
+  "tags": [
+    "ui",
+    "tailwind",
+    "animated",
+    "dashboard",
+    "progress",
+    "svg",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8206,
+      "sha256": "5c207fe0e5e6094e25449978e9255e812e3899224312ebace464719fd1b0d580"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10585,
+      "sha256": "a352c1f4ce96a8fb786754e0fdf3d080564b0c8b84ee3cc17ffb0b465c876a9f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11440,
+      "sha256": "efcbf1856055268e7884b039e1b7f87069552c84976721973799eeccb89848ff"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

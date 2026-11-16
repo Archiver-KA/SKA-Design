@@ -1,0 +1,102 @@
+{
+  "id": "SN-W01554",
+  "title": "Digital Studio Landing Page",
+  "summary": "Responsive landing page with animated background, hero section, stats, and feature highlights using Tailwind CSS and Vanta.js.",
+  "tags": [
+    "Hero",
+    "Features",
+    "Stats",
+    "Responsive Design",
+    "Tailwind CSS",
+    "Vanta.js",
+    "Animation"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3475,
+      "sha256": "fd66a2984ebef01389c3036e945dc22b4dddaa0de51c4ed4b4d5b9ef521baa3d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12696,
+      "sha256": "98c4795f8f74a02f601527dfb2c7dbe9542d16fc61ca7bb4778261ba9f6c9ddc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2511,
+      "sha256": "a77c0a6429b87b48d0ba56d3009e6c81b7907ef66bf0a050d0fa9731eaaf3af3"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 284,
+      "sha256": "d28f612429e8a6337662bba7161a27b53149760bdf72b13715df10fe4bb8b72a"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 337,
+      "sha256": "7ccc6960537fa04ddd98f3b4a5a0d98cd48a11acd7809cc5228e77007d53593e"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 309,
+      "sha256": "2f9c0c9fd77b7e020b8ea7c7a74ee94e7a1b9071cdc6370379a875d51935057c"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 293,
+      "sha256": "2bc079dc4ac4ebf085112bb91649964d43b65fc429656c50046104ad49ca6647"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 356,
+      "sha256": "6f5fc1a8ebc461f290d989f0f220156c72880f35be46960b736e7c473e0c1a5d"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 311,
+      "sha256": "e72ea29650de4a348824b1ff5069b9141a88d42700e4892357fa943bd3293284"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 413,
+      "sha256": "c7bf7349369e175f468052f14369a07c19004915b330a82492c02b04b528bc7a"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 311,
+      "sha256": "e5f65213d0432b4bb74d0ba00bcb0396b7f09598009bc7a05687413e17508fb1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14453,
+      "sha256": "27453ff26a10cbd509bac11734510473df1a0d1eab7ad87fec6cc59b8630f52f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "timeline",
+    "features",
+    "cta"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

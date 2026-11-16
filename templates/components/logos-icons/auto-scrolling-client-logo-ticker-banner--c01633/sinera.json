@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01633",
+  "title": "Auto-Scrolling Client Logo Ticker Banner",
+  "summary": "Horizontally scrolling ticker showcases partner or client logos with gradient edge fade, hover-pause, and seamless looping animation. Built with Tailwind CSS, ideal for hero sections, trust bars, or sponsor strips on responsive sites.",
+  "tags": [
+    "ticker",
+    "logo",
+    "banner",
+    "scroll",
+    "animated",
+    "tailwind",
+    "carousel",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4000,
+      "sha256": "497550ffa18385ab4e4449a535aad6fc68d0046f05efe31327f02a7a23a53721"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5302,
+      "sha256": "37570301d17b637b521e5b78dfba63ec282af42ca6d5c9610f8102f6ba89c6f5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6163,
+      "sha256": "5e693bce6781217a90a99c56ad4456075f0563beebd806891c65d580c85a4b97"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

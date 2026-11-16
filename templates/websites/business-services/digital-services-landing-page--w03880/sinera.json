@@ -1,0 +1,82 @@
+{
+  "id": "SN-W03880",
+  "title": "Digital Services Landing Page",
+  "summary": "Responsive landing page with hero, animated background, services, stats, and call-to-action sections using Tailwind CSS and Vanta.js.",
+  "tags": [
+    "Hero",
+    "Services",
+    "Stats",
+    "CTA",
+    "Tailwind CSS",
+    "Vanta.js",
+    "Responsive Design"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3366,
+      "sha256": "44aa522961664ee6e48c9369fbf6745135d92b5a3ae8babfac85623c00eedecb"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12632,
+      "sha256": "69c636c177a83a200f605d931a0ac7aa934a2bac7bf32062287141be3c143eb5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1454,
+      "sha256": "84352199b65216d5443f01f7ce7b3391dadc42d5e0f47e25504c68e63a576a9d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 284,
+      "sha256": "d28f612429e8a6337662bba7161a27b53149760bdf72b13715df10fe4bb8b72a"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 340,
+      "sha256": "645e16d9d07ecd70e0dfa384462ca7903e2d6ca9027acc47137a28e173df42d8"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 361,
+      "sha256": "82287da46dd11e4aad492a0b6f96452983c3c39882885cf8905aed58c6accb50"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 416,
+      "sha256": "b336a4f56c97bf0542b85f7d88dc1966bf33a5a478b0cbd8fdf43e8a637dc619"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8636,
+      "sha256": "eefd71d019a1b91bee203ff8c258f7687a439a68147322cc311540f076120f19"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "timeline",
+    "services",
+    "cta"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

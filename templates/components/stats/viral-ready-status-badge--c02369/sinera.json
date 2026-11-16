@@ -1,0 +1,41 @@
+{
+  "id": "SN-C02369",
+  "title": "Viral Ready Status Badge",
+  "summary": "Animated status badge with pinging indicator. Shows current viral readiness status with glowing pulse effect. Perfect for highlighting live status or important metrics.",
+  "tags": [
+    "button",
+    "badge",
+    "animated",
+    "status",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1128,
+      "sha256": "1a9e69116d2be0ef2833093df5983d360080d306530d5b0b1ded7e59b8fbc506"
+    },
+    {
+      "path": "component.html",
+      "bytes": 904,
+      "sha256": "bf6dc54d57cd6d2e5bf380d94e8982a1b2d420c3f3adcb5f837d12d6588fd4f4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1749,
+      "sha256": "411cdb5f95d4da68c105a1df3db5b40ecd497100319a94c502dc0f1cc747e594"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

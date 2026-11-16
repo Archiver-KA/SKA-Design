@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01140",
+  "title": "Nav bar - Rulz&Co",
+  "summary": "Stylish header navigation bar with brand, links, account and hamburger icons. Uses Tailwind classes, glassmorphic gradient border, backdrop blur and hover effects. Fully responsive: full menu on desktop, burger button on mobile. Ideal for modern site headers.",
+  "tags": [
+    "navbar",
+    "navigation",
+    "header",
+    "tailwind",
+    "responsive",
+    "glassmorphic",
+    "menu",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2850,
+      "sha256": "2a5a01db0527514eb8e1c5b7a7da0e5b0deeaa0ca3cc48114ae0cca868c1428a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2997,
+      "sha256": "c3c75bef8ab0292796d5d873b796d2b5433cef3605f0df2dc98a84d48b58555d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3839,
+      "sha256": "bdde724569d40e0eee173f60efb53f00c6c0507bf2f7dbd9f625375a13912657"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

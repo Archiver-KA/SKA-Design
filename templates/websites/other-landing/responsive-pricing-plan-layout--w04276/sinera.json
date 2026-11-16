@@ -1,0 +1,67 @@
+{
+  "id": "SN-W04276",
+  "title": "Responsive Pricing Plan Layout",
+  "summary": "HTML and Tailwind CSS code for a responsive pricing section with toggle buttons and feature lists for multiple plans.",
+  "tags": [
+    "HTML",
+    "Tailwind CSS",
+    "Pricing UI",
+    "Responsive Design",
+    "CSS Grid"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3051,
+      "sha256": "948643f93da1baa5d8e99c06e2c7f9d7c76e7f8b1afb9dd4e32a7470099eb83c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17466,
+      "sha256": "e383b4dfc7f28a245bc6fd3dcaf847f9b468001bbed52af97d61be72602d8d28"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1503,
+      "sha256": "7a066e73f4d19f866b9acb7f04bfcb656bda2a4f0a362decc5cdc5948ccb8dff"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 279,
+      "sha256": "d8b751b5689f2595a17b2434dafd35bdd8a9799a05ec2b50db73afa842ec53d0"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 266,
+      "sha256": "ab37ffc19bf26e5fd7b7a9f5166f692315a26e283d75f746bb4bf38f415b9a32"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10714,
+      "sha256": "fc3e07cc71d6d04e6a64039b2a72b8c3556d154e10c657366fea2d5704a182ac"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "pricing"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "pricing",
+  "design": "DESIGN.md"
+}

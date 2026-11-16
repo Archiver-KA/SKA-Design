@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00379",
+  "title": "Glassmorphic Crypto Swap Card",
+  "summary": "Glassmorphic swap card for cryptocurrency exchanges. Shows 'From' and 'Receive' sections with token selector buttons, live balances, amount, and estimated USD value, plus a swap action button. Tailwind CSS, responsive, ideal for wallets, dashboards, or DEX interfaces.",
+  "tags": [
+    "card",
+    "swap",
+    "crypto",
+    "tailwind",
+    "glassmorphism",
+    "dashboard",
+    "wallet",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5922,
+      "sha256": "2ee4966882e7767e1e1b18289a7e9fd7a1588b1e5d2db24d11550d47decd5983"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3697,
+      "sha256": "6519231c2621a4445238bab38cf4516a668531b3dd6df35bf003d4a11134ad66"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4677,
+      "sha256": "5923d4b4763245beb772709f53a33dbd30122180cb70ac53bd827d87549428f9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "SN-W02777",
+  "title": "Luxury Hair Salon Landing Page Template",
+  "summary": "A premium, cinematic landing page template for high-end hair and beauty salons to showcase services, gallery, team, pricing, and online booking in style.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Art & Design",
+    "Portfolio",
+    "Dark",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "beauty-fashion",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4105,
+      "sha256": "a32525b32ab9da557bf776036518456618ef796795ee8c9b3bc35efed05f8c0d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12452,
+      "sha256": "d57a412e54fd7732d20cfad3dfedcd6bc1b5d221f4e496904681d7cb0fec0392"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 957,
+      "sha256": "f6e47920db7c8b52b80331c11d2cee7a37373a97f27b0ccf07d1f953e3b22883"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "8fdd104ac7843269a0c4bb41aacf62efd383fb500afc71598cfc07a668449fab"
+    },
+    {
+      "path": "index.html",
+      "bytes": 79738,
+      "sha256": "7a6cf28c86a23b5f654ebd8f77404954568d048b908147f606cd8d0a78b6ba41"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "beauty",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Beauty / Fashion",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "services",
+    "features",
+    "gallery-portfolio",
+    "modal-overlay",
+    "team",
+    "logo-cloud",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "SN-C01955",
+  "title": "Rounded Image with Caption",
+  "summary": "A centered image component with rounded corners and caption text below. Perfect for blog posts, articles, or featured content sections.",
+  "tags": [
+    "card",
+    "image",
+    "caption",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6074,
+      "sha256": "510676ab1b2ec219076a53a651a93630d3992c636619737bd30648eed9f84abf"
+    },
+    {
+      "path": "component.html",
+      "bytes": 502,
+      "sha256": "7fd6d45f592d919404013cbdfc5e593180db617e456f2664afa533ac61c80365"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1349,
+      "sha256": "3c42bbd70c5311d06e2f78ed4029bfac46c07b75ee1e8466b17c6777132ea26a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

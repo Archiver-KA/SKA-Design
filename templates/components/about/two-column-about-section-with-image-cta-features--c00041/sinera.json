@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00041",
+  "title": "Two-Column About Section with Image, CTA & Features",
+  "summary": "Responsive Tailwind section showcasing an image alongside headline, copy, gradient CTA button, and three feature cards. Includes blur glow background and fade-slide animations—ideal for about or marketing pages.",
+  "tags": [
+    "section",
+    "about",
+    "hero",
+    "tailwind",
+    "responsive",
+    "animated",
+    "cta",
+    "feature-list"
+  ],
+  "kind": "components",
+  "category": "about",
+  "categoryLabel": "About & team",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 25070,
+      "sha256": "58cbff384146431c34349999a0b08c93025d661934dc809ca1183bd1c063e169"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5114,
+      "sha256": "f7659ee32337c89667c91187ee46eab9a182680a561297a55dd817ae77a268c2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6120,
+      "sha256": "ed0e6befd1328488f00d3ec8f1ee485ac0c9d8619c92a29a29ff574029e17e1b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

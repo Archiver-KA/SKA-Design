@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01006",
+  "title": "Checkout Payment Form with Order Summary",
+  "summary": "Responsive two-column Tailwind component featuring a card payment form and detailed order summary. Includes fields for card info, secure pay button, plan breakdown, and accepts multiple card brands—ideal for SaaS or e-commerce checkout pages.",
+  "tags": [
+    "payment",
+    "checkout",
+    "form",
+    "tailwind",
+    "responsive",
+    "credit-card",
+    "order-summary",
+    "ecommerce"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16868,
+      "sha256": "8a7e5737e8eb1857b7c163c72d77bcfe596157ab9a211450c9fecf5ad6498b5b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6605,
+      "sha256": "9cb9753bc29fe5cd23b96728b6f2330cecb1bcd8e2c17ea81c3de94a62915ab0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00058",
+  "title": "Animated Glow Button with Starry Background",
+  "summary": "A pill-shaped call-to-action button featuring animated star particles, glowing gradient halos, and subtle hover/active scaling. Built with utility classes (Tailwind-like) for eye-catching CTAs such as \"Deploy Your Agents\" or other primary actions.",
+  "tags": [
+    "button",
+    "animated",
+    "cta",
+    "tailwind",
+    "interactive",
+    "glow",
+    "particle"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2430,
+      "sha256": "3234d42fe6c9c709b759d07e98043a22770fb757606272c4745b4306e98ede25"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2145,
+      "sha256": "0db70cec1866ec211a078f5e34357cfcda4865073b8fd015e1f8620d68673f36"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3009,
+      "sha256": "31ee4904cb7aeb874ba01b5f379477dc1a96f04d9b1e36fc04fc690ffad3cdd0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

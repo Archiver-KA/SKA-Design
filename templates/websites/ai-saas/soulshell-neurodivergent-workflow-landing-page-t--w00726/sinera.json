@@ -1,0 +1,66 @@
+{
+  "id": "SN-W00726",
+  "title": "SoulShell Neurodivergent Workflow Landing Page Template",
+  "summary": "A dark, futuristic landing page template for SoulShell-style neurodivergent productivity and AI workflow tools, ready to customize for your own product launch.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Futuristic",
+    "Large Type",
+    "Gradient",
+    "AI productivity",
+    "Neurodivergent workflows"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3508,
+      "sha256": "cc7522a6aed8a473c67c60d698b4cdf983751ddaa7041ea5c8d62438b3fb5886"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20488,
+      "sha256": "9e5f524e19d3d0e9138384c4e6c1dcf9872e0a2d5ba9e4d1ab2599d41619171b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 749,
+      "sha256": "c261218eeda67b65c04bcc710f2445a1a6e5a910aaf00e0a36056bad1b925287"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21042,
+      "sha256": "b82d50d0f8ad154220edd0f816bd3f208767eca93595871ea82b86b3a05fe505"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "bento-grid",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

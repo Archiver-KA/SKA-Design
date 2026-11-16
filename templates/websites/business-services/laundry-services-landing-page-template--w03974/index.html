@@ -1,0 +1,575 @@
+<html lang="pl"><head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fresh Spin | Profesjonalne Usługi Pralnicze</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&amp;display=swap" rel="stylesheet">
+<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+
+
+
+</head>
+<body class="font-['Outfit'] font-light text-[#1e293b] antialiased bg-white selection:bg-[#0ea5e9] selection:text-white">
+
+    <!-- NAVIGATION -->
+    <nav id="navbar" class="fixed w-full z-50 transition-all duration-300 bg-transparent py-4 text-white">
+        <div class="max-w-7xl mx-auto px-6 lg:px-8 flex items-center justify-between">
+            <div class="flex items-center gap-2 cursor-pointer" onclick="switchPage('page-home')">
+                <span class="font-['Outfit'] font-medium text-xl tracking-tighter uppercase">Fresh Spin</span>
+            </div>
+            
+            <div class="hidden md:flex items-center gap-8 text-sm">
+                <button onclick="switchPage('page-home')" class="hover:text-[#0ea5e9] transition-colors">Start</button>
+                <button onclick="switchPage('page-how')" class="hover:text-[#0ea5e9] transition-colors">Jak Działamy</button>
+                <button onclick="switchPage('page-contact')" class="hover:text-[#0ea5e9] transition-colors">Kontakt</button>
+            </div>
+
+            <div class="hidden md:flex items-center gap-6">
+                <div class="flex items-center gap-2 text-sm">
+                    <iconify-icon icon="solar:phone-linear" style="stroke-width: 1.5;"></iconify-icon>
+                    <span>+48 22 123 45 67</span>
+                </div>
+                <button onclick="switchPage('page-contact')" class="bg-[#0ea5e9] hover:bg-[#0ea5e9]/90 text-white px-5 py-2.5 rounded-lg text-sm transition-colors border border-transparent">
+                    Wycena online
+                </button>
+            </div>
+
+            <button class="md:hidden text-2xl">
+                <iconify-icon icon="solar:hamburger-menu-linear" style="stroke-width: 1.5;"></iconify-icon>
+            </button>
+        </div>
+    </nav>
+
+    <!-- PAGE 1: STRONA GŁÓWNA -->
+    <main id="page-home" class="block">
+        <!-- HERO -->
+        <section class="relative h-screen min-h-[700px] flex items-center justify-start pt-20">
+            <div class="absolute inset-0 z-0">
+                <video autoplay="" muted="" loop="" playsinline="" class="w-full h-full object-cover"><source src="assets/inline-9e0ea99b37.mp4" type="video/mp4"></video>
+                <div class="absolute inset-0 bg-gradient-to-r from-[#0c4a6e]/90 to-[#0c4a6e]/40"></div>
+            </div>
+            <div class="relative z-10 max-w-7xl mx-auto px-6 lg:px-8 w-full">
+                <div class="max-w-3xl">
+                    <span class="text-white/80 uppercase tracking-widest text-xs mb-4 block font-normal">Pralnia dla hoteli — 365 dni w roku</span>
+                    <h1 class="text-4xl md:text-6xl lg:text-7xl font-['Outfit'] font-semibold tracking-tight text-white leading-tight mb-6">
+                        Twój hotel nigdy nie czeka na czyste tekstylia.
+                    </h1>
+                    <p class="text-lg md:text-xl text-white/90 font-light mb-10 max-w-2xl leading-relaxed">
+                        Obsługujemy hotele w Warszawie 7 dni w tygodniu, włącznie ze świętami. Odbieramy brudne, dowozimy czyste — gotowe do użytku, posegregowane, na czas.
+                    </p>
+                    <div class="flex flex-col sm:flex-row gap-4">
+                        <button onclick="switchPage('page-contact')" class="bg-[#0ea5e9] hover:bg-[#0ea5e9]/90 text-white px-8 py-4 rounded-lg text-sm transition-colors text-center">
+                            Umów rozmowę
+                        </button>
+                        <button onclick="switchPage('page-how')" class="bg-transparent border border-white/30 hover:bg-white/10 text-white px-8 py-4 rounded-lg text-sm transition-colors text-center flex items-center justify-center gap-2">
+                            Jak działamy 
+                            <iconify-icon icon="solar:arrow-right-linear"></iconify-icon>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- STATS BAR -->
+        <section class="bg-[#0c4a6e] py-12 relative z-20">
+            <div class="max-w-7xl mx-auto px-6 lg:px-8">
+                <div class="grid grid-cols-2 md:grid-cols-4 gap-8 divide-x divide-white/10">
+                    <div class="text-center px-4">
+                        <div class="text-3xl font-['Outfit'] font-semibold tracking-tight text-white mb-1">50+</div>
+                        <div class="text-xs text-[#bae6fd]">Hoteli i obiektów</div>
+                    </div>
+                    <div class="text-center px-4">
+                        <div class="text-3xl font-['Outfit'] font-semibold tracking-tight text-white mb-1">24h</div>
+                        <div class="text-xs text-[#bae6fd]">Turnaround</div>
+                    </div>
+                    <div class="text-center px-4">
+                        <div class="text-3xl font-['Outfit'] font-semibold tracking-tight text-white mb-1">100%</div>
+                        <div class="text-xs text-[#bae6fd]">Własna flota</div>
+                    </div>
+                    <div class="text-center px-4">
+                        <div class="text-3xl font-['Outfit'] font-semibold tracking-tight text-white mb-1">24/7</div>
+                        <div class="text-xs text-[#bae6fd]">Dni w roku</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- INTRO -->
+        <section class="py-24 bg-white">
+            <div class="max-w-7xl mx-auto px-6 lg:px-8">
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+                    <div class="relative rounded-xl overflow-hidden shadow-[0_4px_24px_rgba(14,165,233,0.10)] h-[500px]">
+                        <img src="assets/inline-b6dec37750.png" alt="Pralnia" class="w-full h-full object-cover">
+                        <div class="absolute inset-0 bg-[#0c4a6e]/10 mix-blend-multiply"></div>
+                    </div>
+                    <div>
+                        <h2 class="text-3xl md:text-5xl font-['Outfit'] font-semibold tracking-tight text-[#0c4a6e] mb-6 leading-tight">
+                            Partner operacyjny, nie tylko pralnia.
+                        </h2>
+                        <div class="space-y-4 text-base text-[#1e293b] leading-relaxed mb-8">
+                            <p>Housekeeping nie może czekać. Dlatego Fresh Spin pracuje każdego dnia w roku — bez względu na weekend, święto czy wysokie obłożenie.</p>
+                            <p>Sprzęt, który gwarantuje wynik Miele, własna flota, stały harmonogram odbioru i dostawy. Twój zespół fokusuje się na gościach — logistykę pralni przejmujemy my.</p>
+                        </div>
+                        <button onclick="switchPage('page-how')" class="text-[#0ea5e9] flex items-center gap-2 text-sm font-normal hover:gap-3 transition-all">
+                            Zobacz jak działamy <iconify-icon icon="solar:arrow-right-linear"></iconify-icon>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SERVICES -->
+        <section class="py-24 bg-[#f0f9ff]">
+            <div class="max-w-7xl mx-auto px-6 lg:px-8">
+                <div class="text-center max-w-2xl mx-auto mb-16">
+                    <h2 class="text-3xl md:text-4xl font-['Outfit'] font-semibold tracking-tight text-[#0c4a6e] mb-4">
+                        Co obsługujemy
+                    </h2>
+                    <p class="text-sm">Pełna obsługa tekstyliów hotelowych — od odbioru do dostawy gotowej do rozłożenia na łóżkach.</p>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                    <div class="bg-white rounded-xl overflow-hidden shadow-[0_4px_24px_rgba(14,165,233,0.05)] border border-white hover:border-[#bae6fd] transition-colors group">
+                        <div class="h-56 relative overflow-hidden">
+                            <img src="assets/inline-5a5d2389c7.png" alt="Pościel" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                            <div class="absolute inset-0 bg-[#0c4a6e]/10 mix-blend-multiply"></div>
+                        </div>
+                        <div class="p-8">
+                            <h3 class="text-xl font-['Outfit'] font-semibold tracking-tight text-[#0c4a6e] mb-2">Pościel Hotelowa</h3>
+                            <p class="text-sm text-[#1e293b]/70">Pranie, maglowanie i składanie pościeli gotowej do bezpośredniego użycia. Dostarczamy posegregowaną asortymentowo.</p>
+                        </div>
+                    </div>
+                    <div class="bg-white rounded-xl overflow-hidden shadow-[0_4px_24px_rgba(14,165,233,0.05)] border border-white hover:border-[#bae6fd] transition-colors group">
+                        <div class="h-56 relative overflow-hidden">
+                            <img src="assets/inline-61e5b8e04e.png" alt="Ręczniki" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                            <div class="absolute inset-0 bg-[#0c4a6e]/10 mix-blend-multiply"></div>
+                        </div>
+                        <div class="p-8">
+                            <h3 class="text-xl font-['Outfit'] font-semibold tracking-tight text-[#0c4a6e] mb-2">Ręczniki i Szlafroki</h3>
+                            <p class="text-sm text-[#1e293b]/70">Pranie frotte z zachowaniem miękkości i chłonności. Szlafroki i ręczniki wracają jak nowe.</p>
+                        </div>
+                    </div>
+                    <div class="bg-white rounded-xl overflow-hidden shadow-[0_4px_24px_rgba(14,165,233,0.05)] border border-white hover:border-[#bae6fd] transition-colors group">
+                        <div class="h-56 relative overflow-hidden">
+                            <img src="assets/inline-23102dd83d.png" alt="Odzież kucharska" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                            <div class="absolute inset-0 bg-[#0c4a6e]/10 mix-blend-multiply"></div>
+                        </div>
+                        <div class="p-8">
+                            <h3 class="text-xl font-['Outfit'] font-semibold tracking-tight text-[#0c4a6e] mb-2">Odzież Pracownicza</h3>
+                            <p class="text-sm text-[#1e293b]/70">Uniformy, fartuchy, odzież techniczna — pranie z usuwaniem trudnych zabrudzeń przemysłowych.</p>
+                        </div>
+                    </div>
+                    <div class="bg-white rounded-xl overflow-hidden shadow-[0_4px_24px_rgba(14,165,233,0.05)] border border-white hover:border-[#bae6fd] transition-colors group">
+                        <div class="h-56 relative overflow-hidden">
+                            <img src="assets/inline-9c0f059e4a.png" alt="Obrusy" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                            <div class="absolute inset-0 bg-[#0c4a6e]/10 mix-blend-multiply"></div>
+                        </div>
+                        <div class="p-8">
+                            <h3 class="text-xl font-['Outfit'] font-semibold tracking-tight text-[#0c4a6e] mb-2">Obrusy i Serwety</h3>
+                            <p class="text-sm text-[#1e293b]/70">Obrusy i serwety wracają wykrochmalone, wyprasowane i gotowe na salę.</p>
+                        </div>
+                    </div>
+                    <div class="bg-white rounded-xl overflow-hidden shadow-[0_4px_24px_rgba(14,165,233,0.05)] border border-white hover:border-[#bae6fd] transition-colors group">
+                        <div class="h-56 relative overflow-hidden">
+                            <img src="assets/inline-bc34a699b8.png" alt="Pakowanie" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                            <div class="absolute inset-0 bg-[#0c4a6e]/10 mix-blend-multiply"></div>
+                        </div>
+                        <div class="p-8">
+                            <h3 class="text-xl font-['Outfit'] font-semibold tracking-tight text-[#0c4a6e] mb-2">Pakowanie Ochronne</h3>
+                            <p class="text-sm text-[#1e293b]/70">Czyste tekstylia pakujemy i segregujemy asortymentowo — ułatwiamy pracę housekeepingu.</p>
+                        </div>
+                    </div>
+                    <div class="bg-white rounded-xl overflow-hidden shadow-[0_4px_24px_rgba(14,165,233,0.05)] border border-white hover:border-[#bae6fd] transition-colors group">
+                        <div class="h-56 relative overflow-hidden">
+                            <img src="assets/inline-f104a46564.png" alt="Flota" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                            <div class="absolute inset-0 bg-[#0c4a6e]/10 mix-blend-multiply"></div>
+                        </div>
+                        <div class="p-8">
+                            <h3 class="text-xl font-['Outfit'] font-semibold tracking-tight text-[#0c4a6e] mb-2">Logistyka i Transport</h3>
+                            <p class="text-sm text-[#1e293b]/70">Własna flota, ustalone okna czasowe, ten sam kierowca. Logistyka bez niespodzianek.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- FOR WHOM -->
+        <section class="py-24 bg-white">
+            <div class="max-w-7xl mx-auto px-6 lg:px-8">
+                <div class="text-center mb-16">
+                    <h2 class="text-3xl md:text-4xl font-['Outfit'] font-semibold tracking-tight text-[#0c4a6e] mb-4">
+                        Kogo obsługujemy
+                    </h2>
+                </div>
+
+                <div class="space-y-6">
+                    <div class="flex flex-col md:flex-row bg-[#f0f9ff] rounded-xl overflow-hidden shadow-[0_4px_24px_rgba(14,165,233,0.05)]">
+                        <div class="md:w-1/2 h-64 md:h-auto relative">
+                            <img src="assets/inline-2dc2bb2202.png" alt="Hotel" class="w-full h-full object-cover">
+                            <div class="absolute inset-0 bg-[#0c4a6e]/10 mix-blend-multiply"></div>
+                        </div>
+                        <div class="md:w-1/2 p-10 lg:p-16 flex flex-col justify-center">
+                            <h3 class="text-2xl font-['Outfit'] font-semibold tracking-tight text-[#0c4a6e] mb-4">Hotele i Apartamenty</h3>
+                            <p class="text-sm text-[#1e293b]/80 mb-6 leading-relaxed">Rozumiemy, że hotel nie może czekać na pościel. Obsługujemy zarówno duże obiekty sieciowe, jak i butikowe hotele w centrum Warszawy — z tym samym standardem i harmonogramem niezależnie od sezonu.</p>
+                            <span class="text-xs uppercase tracking-widest text-[#0ea5e9]">Dostawa 7 dni w tygodniu</span>
+                        </div>
+                    </div>
+                    <div class="flex flex-col md:flex-row-reverse bg-[#f0f9ff] rounded-xl overflow-hidden shadow-[0_4px_24px_rgba(14,165,233,0.05)]">
+                        <div class="md:w-1/2 h-64 md:h-auto relative">
+                            <img src="assets/inline-c5f3b30e19.png" alt="Restauracja" class="w-full h-full object-cover">
+                            <div class="absolute inset-0 bg-[#0c4a6e]/10 mix-blend-multiply"></div>
+                        </div>
+                        <div class="md:w-1/2 p-10 lg:p-16 flex flex-col justify-center">
+                            <h3 class="text-2xl font-['Outfit'] font-semibold tracking-tight text-[#0c4a6e] mb-4">Gastronomia</h3>
+                            <p class="text-sm text-[#1e293b]/80 mb-6 leading-relaxed">Restauracje i obiekty gastronomiczne potrzebują szybkiego obrotu tekstyliów. Dostarczamy wykrochmalone obrusy i czyste uniformy w ustalonym rytmie.</p>
+                            <span class="text-xs uppercase tracking-widest text-[#0ea5e9]">Krochmalenie i maglowanie</span>
+                        </div>
+                    </div>
+                    <div class="flex flex-col md:flex-row bg-[#f0f9ff] rounded-xl overflow-hidden shadow-[0_4px_24px_rgba(14,165,233,0.05)]">
+                        <div class="md:w-1/2 h-64 md:h-auto relative">
+                            <img src="assets/inline-6e27872a61.png" alt="SPA" class="w-full h-full object-cover">
+                            <div class="absolute inset-0 bg-[#0c4a6e]/10 mix-blend-multiply"></div>
+                        </div>
+                        <div class="md:w-1/2 p-10 lg:p-16 flex flex-col justify-center">
+                            <h3 class="text-2xl font-['Outfit'] font-semibold tracking-tight text-[#0c4a6e] mb-4">Obiekty SPA &amp; Wellness</h3>
+                            <p class="text-sm text-[#1e293b]/80 mb-6 leading-relaxed">Ręczniki i szlafroki po zabiegach wymagają specjalnego procesu prania. Eliminujemy resztki olejków i kosmetyków, przywracamy miękkość i chłonność.</p>
+                            <span class="text-xs uppercase tracking-widest text-[#0ea5e9]">Zmiękczanie włókien</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- FLEET / FULL WIDTH IMAGE -->
+        <section class="relative py-32 flex items-center justify-center">
+            <div class="absolute inset-0 z-0">
+                <img src="assets/inline-bb0d0f59dd.png" alt="Flota dostawcza" class="w-full h-full object-cover">
+                <div class="absolute inset-0 bg-gradient-to-t from-[#0c4a6e]/90 to-[#0c4a6e]/40 mix-blend-multiply"></div>
+            </div>
+            <div class="relative z-10 max-w-4xl mx-auto px-6 text-center">
+                <h2 class="text-3xl md:text-5xl font-['Outfit'] font-semibold tracking-tight text-white mb-6">
+                    Pracujemy 365 dni w roku.<br>Twój hotel też.
+                </h2>
+                <p class="text-base text-white/80">Własna flota, stały harmonogram, zero niespodzianek. Odbiór i dostawa na terenie Warszawy — również w weekendy i święta.</p>
+            </div>
+        </section>
+
+        <!-- CTA SECTION -->
+        <section class="bg-[#0ea5e9] py-24">
+            <div class="max-w-4xl mx-auto px-6 lg:px-8 text-center">
+                <h2 class="text-3xl md:text-5xl font-['Outfit'] font-semibold tracking-tight text-white mb-8 leading-tight">
+                    Porozmawiajmy o Twoim hotelu.
+                </h2>
+                <button onclick="switchPage('page-contact')" class="bg-white text-[#0c4a6e] hover:bg-gray-50 px-8 py-4 rounded-lg text-sm transition-colors shadow-lg">
+                    Umów rozmowę
+                </button>
+            </div>
+        </section>
+    </main>
+
+    <!-- PAGE 2: JAK DZIAŁAMY -->
+    <main id="page-how" class="hidden">
+        <!-- HERO -->
+        <section class="relative h-[60vh] min-h-[500px] flex items-center justify-start pt-20">
+            <div class="absolute inset-0 z-0">
+                <img src="https://images.unsplash.com/photo-1582735689369-4fe89db7114c?q=80&amp;w=2070&amp;auto=format&amp;fit=crop" alt="Pralnia Wnętrze" class="w-full h-full object-cover">
+                <div class="absolute inset-0 bg-gradient-to-r from-[#0c4a6e]/90 to-[#0c4a6e]/60"></div>
+            </div>
+            <div class="relative z-10 max-w-7xl mx-auto px-6 lg:px-8 w-full">
+                <h1 class="text-4xl md:text-6xl font-['Outfit'] font-semibold tracking-tight text-white leading-tight mb-4">
+                    Jak działamy
+                </h1>
+                <p class="text-lg text-[#bae6fd] font-light max-w-xl">Prosty proces, przewidywalny harmonogram. Twój zespół zawsze wie, kiedy przyjedzie odbiór i kiedy wróci czyste.</p>
+            </div>
+        </section>
+
+        <!-- PROCESS STEPS -->
+        <section class="py-24 bg-white">
+            <div class="max-w-7xl mx-auto px-6 lg:px-8">
+                <div class="text-center mb-16">
+                    <h2 class="text-3xl md:text-4xl font-['Outfit'] font-semibold tracking-tight text-[#0c4a6e] mb-4">
+                        Od pierwszego kontaktu do stałej współpracy
+                    </h2>
+                </div>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                    <div class="relative group">
+                        <div class="h-48 rounded-xl overflow-hidden mb-6 relative">
+                            <img src="https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/c543a9e1-f226-4ced-80b0-feb8445a75b9_1600w.jpg" alt="Spotkanie" class="w-full h-full object-cover">
+                            <div class="absolute inset-0 bg-[#0c4a6e]/20 mix-blend-multiply"></div>
+                            <div class="absolute top-4 left-4 bg-white w-8 h-8 rounded-full flex items-center justify-center text-sm font-medium text-[#0c4a6e] shadow">1</div>
+                        </div>
+                        <h3 class="text-lg font-['Outfit'] font-semibold tracking-tight text-[#0c4a6e] mb-2">Audyt i Umowa</h3>
+                        <p class="text-sm text-[#1e293b]/70">Rozmawiamy o wolumenie, rodzajach tekstyliów i logistyce. Ustalamy harmonogram dopasowany do rytmu pracy hotelu.</p>
+                    </div>
+                    <div class="relative group">
+                        <div class="h-48 rounded-xl overflow-hidden mb-6 relative">
+                            <img src="https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/5bab247f-35d9-400d-a82b-fd87cfe913d2_1600w.webp" alt="Logistyka" class="w-full h-full object-cover">
+                            <div class="absolute inset-0 bg-[#0c4a6e]/20 mix-blend-multiply"></div>
+                            <div class="absolute top-4 left-4 bg-white w-8 h-8 rounded-full flex items-center justify-center text-sm font-medium text-[#0c4a6e] shadow">2</div>
+                        </div>
+                        <h3 class="text-lg font-['Outfit'] font-semibold tracking-tight text-[#0c4a6e] mb-2">Planowanie Logistyki</h3>
+                        <p class="text-sm text-[#1e293b]/70">Organizujemy punkt odbioru w obiekcie, dostarczamy worki i wózki. Housekeeping wie dokładnie co i kiedy.</p>
+                    </div>
+                    <div class="relative group">
+                        <div class="h-48 rounded-xl overflow-hidden mb-6 relative">
+                            <img src="https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/30104e3c-5eea-4b93-93e9-5313698a7156_1600w.webp" alt="Pranie" class="w-full h-full object-cover">
+                            <div class="absolute inset-0 bg-[#0c4a6e]/20 mix-blend-multiply"></div>
+                            <div class="absolute top-4 left-4 bg-white w-8 h-8 rounded-full flex items-center justify-center text-sm font-medium text-[#0c4a6e] shadow">3</div>
+                        </div>
+                        <h3 class="text-lg font-['Outfit'] font-semibold tracking-tight text-[#0c4a6e] mb-2">Pranie i Obróbka</h3>
+                        <p class="text-sm text-[#1e293b]/70">Pranie, dezynfekcja termiczna, maglowanie, składanie i pakowanie asortymentowe.</p>
+                    </div>
+                    <div class="relative group">
+                        <div class="h-48 rounded-xl overflow-hidden mb-6 relative">
+                            <img src="https://images.unsplash.com/photo-1601628828688-632f38a5a7d0?q=80&amp;w=600&amp;auto=format&amp;fit=crop" alt="Dostawa" class="w-full h-full object-cover">
+                            <div class="absolute inset-0 bg-[#0c4a6e]/20 mix-blend-multiply"></div>
+                            <div class="absolute top-4 left-4 bg-white w-8 h-8 rounded-full flex items-center justify-center text-sm font-medium text-[#0c4a6e] shadow">4</div>
+                        </div>
+                        <h3 class="text-lg font-['Outfit'] font-semibold tracking-tight text-[#0c4a6e] mb-2">Dostawa do Obiektu</h3>
+                        <p class="text-sm text-[#1e293b]/70">Czyste tekstylia wracają zapakowane i posegregowane — gotowe do bezpośredniego użycia przez housekeeping.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- FACILITY SHOWCASE -->
+        <section class="py-24 bg-[#f0f9ff]">
+            <div class="max-w-7xl mx-auto px-6 lg:px-8 space-y-24">
+                <div class="flex flex-col lg:flex-row gap-16 items-center">
+                    <div class="lg:w-1/2">
+                        <div class="relative rounded-xl overflow-hidden shadow-[0_4px_24px_rgba(14,165,233,0.10)] h-[400px]">
+                            <img src="https://images.unsplash.com/photo-1610557892470-55d9e80c0bce?q=80&amp;w=1000&amp;auto=format&amp;fit=crop" alt="Park Maszynowy" class="w-full h-full object-cover">
+                            <div class="absolute inset-0 bg-[#0c4a6e]/10 mix-blend-multiply"></div>
+                        </div>
+                    </div>
+                    <div class="lg:w-1/2">
+                        <h3 class="text-3xl font-['Outfit'] font-semibold tracking-tight text-[#0c4a6e] mb-6">Sprzęt, który gwarantuje wynik</h3>
+                        <p class="text-sm text-[#1e293b]/80 mb-4 leading-relaxed">Inwestujemy w sprzęt, bo jakość prania zaczyna się od maszyny. Używamy wyłącznie urządzeń przemysłowych Miele i Electrolux — z precyzyjną kontrolą temperatury, dawkowania i czasu cyklu.</p>
+                        <ul class="space-y-3 mt-6">
+                            <li class="flex items-center gap-3 text-sm"><iconify-icon icon="solar:check-circle-linear" class="text-[#0ea5e9] text-xl"></iconify-icon> Komputerowe dozowanie środków piorących</li>
+                            <li class="flex items-center gap-3 text-sm"><iconify-icon icon="solar:check-circle-linear" class="text-[#0ea5e9] text-xl"></iconify-icon> Zmiękczanie i uzdatnianie wody technologicznej</li>
+                            <li class="flex items-center gap-3 text-sm"><iconify-icon icon="solar:check-circle-linear" class="text-[#0ea5e9] text-xl"></iconify-icon> Magle nieckowe o dużej wydajności</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="flex flex-col lg:flex-row-reverse gap-16 items-center">
+                    <div class="lg:w-1/2">
+                        <div class="relative rounded-xl overflow-hidden shadow-[0_4px_24px_rgba(14,165,233,0.10)] h-[400px]">
+                            <img src="https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/917d6f93-fb36-439a-8c48-884b67b35381_1600w.jpg" alt="Środki Chemiczne" class="w-full h-full object-cover">
+                            <div class="absolute inset-0 bg-[#0c4a6e]/10 mix-blend-multiply"></div>
+                        </div>
+                    </div>
+                    <div class="lg:w-1/2">
+                        <h3 class="text-3xl font-['Outfit'] font-semibold tracking-tight text-[#0c4a6e] mb-6">Chemia przemysłowa Ecolab</h3>
+                        <p class="text-sm text-[#1e293b]/80 mb-4 leading-relaxed">Stosujemy środki piorące i dezynfekujące firmy Ecolab — skuteczne w usuwaniu zabrudzeń białkowych, tłuszczowych i kosmetycznych, przy jednoczesnej ochronie włókien.</p>
+                        <p class="text-sm text-[#1e293b]/80 leading-relaxed">Dezynfekcja termiczno-chemiczna spełnia wymogi sanitarne dla obiektów hotelowych. Twój dział jakości dostaje to, czego potrzebuje.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- TESTIMONIAL -->
+        <section class="relative py-32 flex items-center justify-center">
+            <div class="absolute inset-0 z-0">
+                <img src="https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&amp;w=2000&amp;auto=format&amp;fit=crop" alt="Hotel Korytarz" class="w-full h-full object-cover blur-sm scale-105">
+                <div class="absolute inset-0 bg-[#0c4a6e]/80"></div>
+            </div>
+            <div class="relative z-10 max-w-4xl mx-auto px-6 text-center">
+                <iconify-icon icon="solar:quote-right-linear" class="text-5xl text-[#bae6fd]/30 mb-6 block mx-auto"></iconify-icon>
+                <p class="text-2xl md:text-4xl font-['Outfit'] font-semibold tracking-tight text-white mb-8 leading-tight">
+                    "Odkąd współpracujemy z Fresh Spin, problem z dostępnością czystych ręczników przestał istnieć. Dostawy zawsze na czas, nawet w długie weekendy."
+                </p>
+                <p class="text-sm text-[#bae6fd] uppercase tracking-widest">General Manager, hotel 4★ w centrum Warszawy</p>
+            </div>
+        </section>
+    </main>
+
+    <!-- PAGE 3: KONTAKT -->
+    <main id="page-contact" class="hidden">
+        <section class="bg-[#bae6fd] pt-32 pb-24 relative overflow-hidden">
+            <div class="absolute right-0 top-0 opacity-10">
+                <iconify-icon icon="solar:letter-linear" class="text-[300px]"></iconify-icon>
+            </div>
+            <div class="relative z-10 max-w-7xl mx-auto px-6 lg:px-8">
+                <h1 class="text-4xl md:text-6xl font-['Outfit'] font-semibold tracking-tight text-[#0c4a6e] mb-4">
+                    Umów rozmowę
+                </h1>
+                <p class="text-lg text-[#0c4a6e]/80 font-light max-w-xl">Powiedz nam ile masz pokoi i jak wygląda teraz Twoja logistyka pralni. Wrócimy z konkretną propozycją.</p>
+            </div>
+        </section>
+
+        <section class="py-24 bg-white">
+            <div class="max-w-7xl mx-auto px-6 lg:px-8">
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-16">
+                    <div>
+                        <h2 class="text-2xl font-['Outfit'] font-semibold tracking-tight text-[#0c4a6e] mb-8">Dane kontaktowe</h2>
+                        <div class="space-y-8">
+                            <div class="flex items-start gap-4">
+                                <div class="bg-[#f0f9ff] w-12 h-12 rounded-lg flex items-center justify-center shrink-0">
+                                    <iconify-icon icon="solar:phone-linear" class="text-2xl text-[#0ea5e9]"></iconify-icon>
+                                </div>
+                                <div>
+                                    <p class="text-xs uppercase tracking-widest text-gray-400 mb-1">Infolinia / Obsługa</p>
+                                    <p class="text-lg text-[#1e293b] font-medium">+48 22 123 45 67</p>
+                                    <p class="text-sm text-gray-500 mt-1">Pn - Pt: 8:00 - 18:00</p>
+                                </div>
+                            </div>
+                            <div class="flex items-start gap-4">
+                                <div class="bg-[#f0f9ff] w-12 h-12 rounded-lg flex items-center justify-center shrink-0">
+                                    <iconify-icon icon="solar:letter-linear" class="text-2xl text-[#0ea5e9]"></iconify-icon>
+                                </div>
+                                <div>
+                                    <p class="text-xs uppercase tracking-widest text-gray-400 mb-1">Email</p>
+                                    <p class="text-lg text-[#1e293b] font-medium"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4c2e25393e230c2a3e293f243f3c2522623c20">[email&nbsp;protected]</a></p>
+                                </div>
+                            </div>
+                            <div class="flex items-start gap-4">
+                                <div class="bg-[#f0f9ff] w-12 h-12 rounded-lg flex items-center justify-center shrink-0">
+                                    <iconify-icon icon="solar:map-point-linear" class="text-2xl text-[#0ea5e9]"></iconify-icon>
+                                </div>
+                                <div>
+                                    <p class="text-xs uppercase tracking-widest text-gray-400 mb-1">Zakład Pralniczy</p>
+                                    <p class="text-base text-[#1e293b]">ul. Przemysłowa 12<br>00-001 Warszawa</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="mt-12 p-6 bg-[#f0f9ff] rounded-xl border border-[#bae6fd]/50">
+                            <h3 class="text-sm font-medium text-[#0c4a6e] mb-2">Jesteś stałym klientem?</h3>
+                            <p class="text-xs text-gray-600 mb-4">Kontakt dla obiektów objętych umową w sprawach pilnych dotyczących logistyki 24/7:</p>
+                            <p class="text-sm font-medium text-[#0ea5e9]">+48 600 000 000</p>
+                        </div>
+                    </div>
+
+                    <div class="bg-white rounded-xl shadow-[0_4px_24px_rgba(14,165,233,0.10)] p-8 border border-gray-100">
+                        <h2 class="text-2xl font-['Outfit'] font-semibold tracking-tight text-[#0c4a6e] mb-6">Formularz wyceny</h2>
+                        <form class="space-y-5" onsubmit="event.preventDefault();">
+                            <div class="grid grid-cols-2 gap-5">
+                                <div>
+                                    <label class="block text-xs text-gray-500 mb-1.5">Imię i nazwisko</label>
+                                    <input type="text" class="w-full bg-[#f0f9ff] border border-transparent rounded-lg py-3 px-4 outline-none focus:border-[#0ea5e9] focus:bg-white transition-all text-sm" placeholder="Jan Kowalski">
+                                </div>
+                                <div>
+                                    <label class="block text-xs text-gray-500 mb-1.5">Firma / Nazwa obiektu</label>
+                                    <input type="text" class="w-full bg-[#f0f9ff] border border-transparent rounded-lg py-3 px-4 outline-none focus:border-[#0ea5e9] focus:bg-white transition-all text-sm" placeholder="Hotel XYZ">
+                                </div>
+                            </div>
+                            <div class="grid grid-cols-2 gap-5">
+                                <div>
+                                    <label class="block text-xs text-gray-500 mb-1.5">Telefon</label>
+                                    <input type="tel" class="w-full bg-[#f0f9ff] border border-transparent rounded-lg py-3 px-4 outline-none focus:border-[#0ea5e9] focus:bg-white transition-all text-sm" placeholder="+48 --- --- ---">
+                                </div>
+                                <div>
+                                    <label class="block text-xs text-gray-500 mb-1.5">Rodzaj obiektu</label>
+                                    <div class="relative">
+                                        <select class="w-full bg-[#f0f9ff] border border-transparent rounded-lg py-3 px-4 outline-none focus:border-[#0ea5e9] focus:bg-white transition-all text-sm appearance-none text-[#1e293b]">
+                                            <option>Hotel / Apartamenty</option>
+                                            <option>Restauracja / Catering</option>
+                                            <option>SPA / Klinika</option>
+                                            <option>Inne</option>
+                                        </select>
+                                        <iconify-icon icon="solar:alt-arrow-down-linear" class="absolute right-4 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none"></iconify-icon>
+                                    </div>
+                                </div>
+                            </div>
+                            <div>
+                                <label class="block text-xs text-gray-500 mb-1.5">Szacowana ilość kg/miesiąc (opcjonalnie)</label>
+                                <input type="number" class="w-full bg-[#f0f9ff] border border-transparent rounded-lg py-3 px-4 outline-none focus:border-[#0ea5e9] focus:bg-white transition-all text-sm" placeholder="np. 500">
+                            </div>
+                            <div>
+                                <label class="block text-xs text-gray-500 mb-1.5">Wiadomość</label>
+                                <textarea rows="4" class="w-full bg-[#f0f9ff] border border-transparent rounded-lg py-3 px-4 outline-none focus:border-[#0ea5e9] focus:bg-white transition-all text-sm resize-none" placeholder="Dodatkowe informacje, pytania..."></textarea>
+                            </div>
+                            <label class="flex items-start gap-3 cursor-pointer group">
+                                <div class="relative w-5 h-5 mt-0.5">
+                                    <input type="checkbox" class="peer sr-only">
+                                    <div class="w-5 h-5 rounded border-2 border-gray-300 peer-focus:border-[#0ea5e9] peer-checked:bg-[#0ea5e9] peer-checked:border-[#0ea5e9] transition-all flex items-center justify-center">
+                                        <iconify-icon icon="solar:check-read-linear" class="text-white text-xs opacity-0 peer-checked:opacity-100"></iconify-icon>
+                                    </div>
+                                </div>
+                                <span class="text-xs text-gray-500 leading-relaxed">Wyrażam zgodę na przetwarzanie danych osobowych w celu przygotowania oferty.</span>
+                            </label>
+                            <button type="button" class="w-full bg-[#0c4a6e] hover:bg-[#0c4a6e]/90 text-white py-4 rounded-lg text-sm transition-colors mt-2">
+                                Wyślij zapytanie
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="bg-[#0c4a6e] text-white pt-16 pb-8 border-t border-white/10">
+        <div class="max-w-7xl mx-auto px-6 lg:px-8">
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-12 mb-12">
+                <div class="md:col-span-1">
+                    <span class="font-['Outfit'] font-medium text-2xl tracking-tighter uppercase mb-4 block">Fresh Spin</span>
+                    <p class="text-xs text-white/60 leading-relaxed">Obsługa pralni dla hoteli w Warszawie. 7 dni w tygodniu, 365 dni w roku.</p>
+                </div>
+                <div>
+                    <h4 class="text-sm font-medium mb-4 text-[#bae6fd]">Nawigacja</h4>
+                    <ul class="space-y-2 text-xs text-white/70">
+                        <li><button onclick="switchPage('page-home')" class="hover:text-white transition-colors">Start</button></li>
+                        <li><button onclick="switchPage('page-how')" class="hover:text-white transition-colors">Jak Działamy</button></li>
+                        <li><button onclick="switchPage('page-contact')" class="hover:text-white transition-colors">Kontakt</button></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="text-sm font-medium mb-4 text-[#bae6fd]">Usługi</h4>
+                    <ul class="space-y-2 text-xs text-white/70">
+                        <li>Pościel Hotelowa</li>
+                        <li>Ręczniki i SPA</li>
+                        <li>Gastronomia</li>
+                        <li>Odzież Pracownicza</li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="text-sm font-medium mb-4 text-[#bae6fd]">Kontakt</h4>
+                    <ul class="space-y-2 text-xs text-white/70">
+                        <li>ul. Przemysłowa 12, Warszawa</li>
+                        <li>+48 22 123 45 67</li>
+                        <li><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0b69627e79644b6d796e7863787b6265257b67">[email&nbsp;protected]</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="border-t border-white/10 pt-8 flex flex-col md:flex-row items-center justify-between text-xs text-white/40">
+                <p>© 2023 Fresh Spin. Wszelkie prawa zastrzeżone.</p>
+                <div class="flex gap-4 mt-4 md:mt-0">
+                    <a href="#" class="hover:text-white transition-colors">Polityka Prywatności</a>
+                    <a href="#" class="hover:text-white transition-colors">Regulamin</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        function switchPage(pageId) {
+            document.getElementById('page-home').classList.add('hidden');
+            document.getElementById('page-how').classList.add('hidden');
+            document.getElementById('page-contact').classList.add('hidden');
+            document.getElementById(pageId).classList.remove('hidden');
+            window.scrollTo({ top: 0, behavior: 'instant' });
+            handleScroll();
+        }
+
+        function handleScroll() {
+            const nav = document.getElementById('navbar');
+            const isContactPage = !document.getElementById('page-contact').classList.contains('hidden');
+            
+            if (window.scrollY > 50 || isContactPage) {
+                nav.classList.add('bg-white', 'shadow-sm', 'text-[#1e293b]');
+                nav.classList.remove('bg-transparent', 'text-white');
+            } else {
+                nav.classList.remove('bg-white', 'shadow-sm', 'text-[#1e293b]');
+                nav.classList.add('bg-transparent', 'text-white');
+            }
+        }
+
+        window.addEventListener('scroll', handleScroll);
+        handleScroll();
+    </script></body></html>

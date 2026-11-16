@@ -1,0 +1,79 @@
+{
+  "id": "SN-W00306",
+  "title": "Customer Support SaaS Landing Page Template",
+  "summary": "A reusable landing page template for customer support SaaS products, designed to showcase shared inbox features, pricing, trust signals, and conversion-focused CTAs.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "SaaS",
+    "customer support",
+    "shared inbox",
+    "helpdesk",
+    "pricing"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3571,
+      "sha256": "7a046f308ece33d83425e6396af3eb7313a6e8e5c199dbeebfb27ced6f65a30d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20272,
+      "sha256": "0fb59abb60e19ba9ee5faac244ed5cb5c77f8f27a9c4e64087d2baa2c0ed9660"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1074,
+      "sha256": "d4949c214f3cb3894f140cb00110e2cdd3fd63755088a12ed54e5f0b4acd3bd7"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 532,
+      "sha256": "c846a744123ddd0db18934fb36a263a4866d327d182649f7410350427b9da8e9"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 1415,
+      "sha256": "dda91fbc4b7cb816dfd2b493f62ef0c532e56142070b4f6f42c5cc456d2852a5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36274,
+      "sha256": "beb730fba17414c8eae201777bd67e4287085eeef6b6ec6e489e44062c4e6ade"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "features",
+    "team",
+    "faq",
+    "pricing",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00280",
+  "title": "Shiny Call-to-Action Button with Hover Effect",
+  "summary": "Animated CTA link styled as a button with Tailwind classes, glossy shine animation, hover lift, and sliding light overlay. Includes label text and an arrow icon, ideal for booking, signup, or primary action links in hero or landing sections.",
+  "tags": [
+    "button",
+    "cta",
+    "animated",
+    "interactive",
+    "tailwind",
+    "hover"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2468,
+      "sha256": "7693d284a79b182d953c17842fb3ee16b0da52cc16db2619372044146221b1cc"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1248,
+      "sha256": "afb9debb36fe42a4da8457089e2370e42415bfebb4cccc4857a348173f10e8a6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2204,
+      "sha256": "f3db0468b4a613e4cb1b4697fecc63c3c148c9eca9ffd4b8b5d2ceefa3bb9344"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

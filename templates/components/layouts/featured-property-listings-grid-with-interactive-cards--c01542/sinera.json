@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01542",
+  "title": "Featured Property Listings Grid with Interactive Cards",
+  "summary": "Dark-themed Tailwind section displaying a responsive 3-column grid of real estate cards. Each card features image, badge, price, location and actions for virtual tour, directions and favorite—ideal for showcasing featured property listings on real estate websites.",
+  "tags": [
+    "section",
+    "grid",
+    "tailwind",
+    "real estate",
+    "responsive",
+    "interactive",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 47320,
+      "sha256": "b2935ee9881cbfe97ac5543212376efcce696c30a5fc795d9fde28f37f3d3c79"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11113,
+      "sha256": "67e170a1bdffd14151fce8cd9ba0fcc8d1a01f430e5fb24b7309469c0844326f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12118,
+      "sha256": "10ba2520f6832fd28c52783e09799d2957dc310c62961e0c4b840232e9863f1e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

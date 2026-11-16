@@ -1,0 +1,68 @@
+{
+  "id": "SN-W00144",
+  "title": "AI Revenue Orchestration Landing Page Template",
+  "summary": "A reusable landing page template for AI revenue orchestration, sales ops, and RevOps teams to showcase agents, results, integrations, and demo booking.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Animated",
+    "Clean",
+    "SaaS",
+    "AI"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3970,
+      "sha256": "359f5f028312527ba3470d21f222e4d89b129ddcf6bb7b85d8329379964af784"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15156,
+      "sha256": "fcf8607abb9f46bba85acf78120379ed5a7361ea1301fed938c1c5dc64316ca8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 740,
+      "sha256": "45a258f9544b1fd08416586cbe5c36b3016bcd8db5870c09e9ce46e9898072ff"
+    },
+    {
+      "path": "index.html",
+      "bytes": 76196,
+      "sha256": "9ccda83553728ae916967b57aed62a03783ac79791cbb7a73e4b0c3c1b050680"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "bento-grid",
+    "stats",
+    "video-media",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

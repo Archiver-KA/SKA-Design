@@ -1,0 +1,71 @@
+{
+  "id": "SN-W03417",
+  "title": "Bayos Frankenstein project",
+  "summary": "A dark, interactive Frankenstein study guide landing page template designed for teaching literature, science, and ethics with character, theme, and context sections.",
+  "tags": [
+    "Landing Page",
+    "Education",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Literature",
+    "Study Guide",
+    "Interactive"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3470,
+      "sha256": "1dfe6df3554760be1dbb477c8f123d9cc9ee6cc78eeb20266952d31672148005"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12788,
+      "sha256": "467173fb1df408d12ed69b10db466e4f1124f58b1a4d211e9a045d9fcc33b82c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 854,
+      "sha256": "ee769a8f47c1c436b0f6114af7ac2853e5187d594626733573cdef432607c266"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 128,
+      "sha256": "6c032119b73f9910172da5554c0dbc0c0b3745576adb51d2b2090ba3b1556c9f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29999,
+      "sha256": "f64c67076d1c642dc0e34161836463b7ae3fd844b53ef6df48e317880f223b8a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "features",
+    "comparison",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

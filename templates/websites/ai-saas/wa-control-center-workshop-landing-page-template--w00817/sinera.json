@@ -1,0 +1,67 @@
+{
+  "id": "SN-W00817",
+  "title": "WA Control Center Workshop Landing Page Template",
+  "summary": "A dark, tech-forward landing page template for promoting a live n8n & WhatsApp automation workshop, ready to customize for your own event or training offer.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Workshop",
+    "Webinar",
+    "Automation"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3021,
+      "sha256": "3b26a1c03aa7dcc1a8b04dcb9b2b8ab5e5a9a14643f0b3fcaca0c6b3a2f2fce5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16078,
+      "sha256": "c1678970cc76a7775032e793eaf99b6bfd6ce6f4d5cd6629002fd2ab3d42fd70"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 742,
+      "sha256": "3a32494783c1becf201d198fe98682d98e587c3a90c7c1a70a9b1deb917ef024"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23372,
+      "sha256": "7001d5338954db736cd2558f01d474a3ea86eaeb1cc04589b500613f58b314a5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "bento-grid",
+    "pricing",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

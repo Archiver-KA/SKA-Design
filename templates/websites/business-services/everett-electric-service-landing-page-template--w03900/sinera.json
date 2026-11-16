@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03900",
+  "title": "Everett Electric Service Landing Page Template",
+  "summary": "A reusable landing page template designed for local electrical service providers to showcase services, customer reviews, and enable easy booking.",
+  "tags": [
+    "Landing Page",
+    "Electrical Services",
+    "Booking",
+    "Testimonials",
+    "Blog",
+    "Local Business",
+    "Contact Form",
+    "Residential",
+    "EV Chargers",
+    "Code Compliance"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3796,
+      "sha256": "1773ed6e90aac51e47ccfea64ae42b9272d848af9c5b77d21adde6a3fd2a28c9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12212,
+      "sha256": "e519741bc2b3c83eb211df9e6c1430248e44fd8047cc121a60f25f064b363ccb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 741,
+      "sha256": "986d18ec1ebdd6f2373ea6a6c916a2cb28670c3d4b895073cab8a28ed63aedbe"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37995,
+      "sha256": "ced0f885bb7fb84a78dec50584a1362df1e3a7fc896f336cd2442552d89ef103"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "blog-articles",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

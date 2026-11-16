@@ -1,0 +1,62 @@
+{
+  "id": "SN-W01712",
+  "title": "Susan VR Game Agency Template",
+  "summary": "A high-end spatial computing landing page template featuring immersive WebGL effects and smooth GSAP animations for modern game studios.",
+  "tags": [
+    "Technology",
+    "Gaming",
+    "Animated",
+    "Clean",
+    "Dark",
+    "Portfolio",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3344,
+      "sha256": "7576502a7a4184d1a22043eb1b4c73aa5b10c7ce588ea5a433561225937afb9d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 30043,
+      "sha256": "e007a9863378d20753f8f3774aab694acf7b0d0cd9bac4412f2c81399dbfee80"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "7533618e0255417e927c1eb6746c8ae7895bfb30a65c47614c7f9609e41703a1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30555,
+      "sha256": "b92da4f55b152bbbf1fde1aa09648e2190bbb54f8dca45e279dc4b0a51fc0219"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "video-media",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

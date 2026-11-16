@@ -1,0 +1,66 @@
+{
+  "id": "SN-W03559",
+  "title": "Visual Math Solver Template",
+  "summary": "A clean, interactive math calculator template with step-by-step visual solving animations and a paper-grid design for educational tools.",
+  "tags": [
+    "Technology",
+    "Education",
+    "Clean",
+    "Minimal",
+    "Animated",
+    "Style",
+    "Graphic Design"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2943,
+      "sha256": "4426219a2686ac814273a38cef5a58bde5a443c7aafba5bd3056e47e1b00ae5a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3416,
+      "sha256": "651cec62e9550cdb68a09fd81c404c91607fe7b097657b30e158fd6d63b011ab"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 860,
+      "sha256": "8b6322eb90a7c92df77f991200985d7115d10cc2bafaa491ede1884d17b71cc9"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 768,
+      "sha256": "1b40ecab111f75bd554895c57754377725f105d41720d55a7e9156273aaacabe"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13572,
+      "sha256": "52c3280a14d24118dc5a60b61088f146198f430e4df968e4671742ab11076062"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "snippet",
+  "components": [
+    "navbar",
+    "stats",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "stats",
+  "design": "DESIGN.md"
+}

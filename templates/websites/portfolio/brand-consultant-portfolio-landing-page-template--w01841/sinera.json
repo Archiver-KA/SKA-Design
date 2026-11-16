@@ -1,0 +1,74 @@
+{
+  "id": "SN-W01841",
+  "title": "Brand Consultant Portfolio Landing Page Template",
+  "summary": "A sleek, dark portfolio landing page template for independent brand consultants and digital strategists to showcase services, work, and capture project inquiries.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Services",
+    "Brand",
+    "Brand Guidelines",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3596,
+      "sha256": "fa2c44cf6a34a458d6b8607ced184be3e6d1f70e08e6ae5bf670a3e3f4c222f8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15478,
+      "sha256": "d0203e82064816fabb6302eedd4268509bcfd2de5c53fc9e6f910adefd33f7b2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 876,
+      "sha256": "6c89b678d7ab045504fed249bf515c7469941b353a3b5f370e45ad0b0de1285b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "ad1cfa7a2926f1ded0ddf3f9cbb3077358ff3abff7d7895e921c42b480e9e549"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26571,
+      "sha256": "0f268fc0ee76a5a6eba8b607802a28eaa18a2a846521b01492d3fd38ce88f80b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "gallery-portfolio",
+    "features",
+    "logo-cloud",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

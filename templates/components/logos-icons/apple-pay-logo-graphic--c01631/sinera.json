@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01631",
+  "title": "Apple Pay Logo Graphic",
+  "summary": "Inline SVG rendering a horizontal, single-color brand logo (121×36). Ideal for headers, footers, or navigation bars where a lightweight, scalable vector logo is required.",
+  "tags": [
+    "svg",
+    "logo",
+    "vector",
+    "icon",
+    "branding",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2300,
+      "sha256": "dcd5bbfd72e4dec13d5429136de3b49cfc40bb41e1bef5ed18d428ac76757e93"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2113,
+      "sha256": "40ce77b3d1b8369011aadb83ef4f9251de56f13884ef5faac8ec14e6fc9fbe62"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2956,
+      "sha256": "6cf6b5ace01fc6b5bcd4dea7f81048c2ae6815853c69e4f9d81953bfb60ade4b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

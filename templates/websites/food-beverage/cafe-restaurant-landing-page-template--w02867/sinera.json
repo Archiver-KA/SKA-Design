@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02867",
+  "title": "Cafe Restaurant Landing Page Template",
+  "summary": "A modern cafe and restaurant landing page template for showcasing menu, reviews, and location details with a warm, minimal coffee-inspired design.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3769,
+      "sha256": "63e928373dfe384e1aa4b4d5473cc1ab10c30f0ec14f1aef705d2525e56f73ab"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13992,
+      "sha256": "fd83dcb877cb18e5a5473f36a4ce3e65c2a815773b867072416babd63e38c20f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "c0496971db8595ad420048a236d378bcbd9119fa3499199e4ea3320661829b65"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37780,
+      "sha256": "ec5e5d6ced352dee2348b760c225269eb0ff0ac2857dd956af9721a4d3de62cb"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "menu-list",
+    "testimonials",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

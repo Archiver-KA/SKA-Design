@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02084",
+  "title": "Responsive Pricing Table with FAQ Section",
+  "summary": "Three-tier pricing cards (Starter, Professional, Enterprise) with badges, CTA buttons and a FAQ list. Tailwind CSS grid layout, hover effects and responsive design make it ideal for SaaS landing pages and product marketing sites.",
+  "tags": [
+    "pricing",
+    "pricing-table",
+    "plans",
+    "faq",
+    "tailwind",
+    "responsive",
+    "landing-page",
+    "ui-section"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 30992,
+      "sha256": "e4575549742ed1cff5a37b326d3a8927c9a204250d882e94ea97fdd738b11081"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13379,
+      "sha256": "ac5d765c2b4d10e6154a11f299dc2e20834106dc87811f227b38c1e83f2a5d71"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14241,
+      "sha256": "538b0b4a5da84ad9a8fd72623c524cbb091a9baae18635780a86db1d6d6fa6fe"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,666 @@
+<section
+  class="overflow-hidden clip-diagonal-reverse -mt-20 lg:pt-48 lg:-mt-32 lg:pb-0 z-10 select-none antialiased text-stone-700 font-sans bg-[#ebe8e3] pt-40 pb-32 relative"
+ 
+ >
+  <style
+   >
+    /* Sequence Animations */
+    .anim-container .layer-animate {
+      opacity: 0;
+      transform: translateY(30px) scale(0.98);
+    }
+
+    .anim-container.is-visible .layer-animate {
+      animation: explode-up 1.2s cubic-bezier(0, 0, 0.2, 1) forwards;
+    }
+
+    .anim-container .strut-animate {
+      opacity: 0;
+      transform: scaleY(0);
+    }
+
+    .anim-container.is-visible .strut-animate {
+      animation: strut-grow 1s cubic-bezier(0, 0, 0.2, 1) forwards;
+    }
+
+    .anim-container .connector-line {
+      opacity: 0;
+    }
+
+    .anim-container.is-visible .connector-line {
+      animation: draw-offset 1.2s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+      opacity: 1;
+    }
+
+    .anim-container .annotation-element {
+      opacity: 0;
+      transform: translateY(5px);
+    }
+
+    .anim-container.is-visible .annotation-element {
+      animation: fade-up 0.8s cubic-bezier(0, 0, 0.2, 1) forwards;
+    }
+
+    /* Staggered Delays */
+    .anim-container.is-visible .delay-layer-4 {
+      animation-delay: 0s;
+    }
+
+    .anim-container.is-visible .delay-layer-3 {
+      animation-delay: 0.15s;
+    }
+
+    .anim-container.is-visible .delay-layer-2 {
+      animation-delay: 0.3s;
+    }
+
+    .anim-container.is-visible .delay-layer-1 {
+      animation-delay: 0.45s;
+    }
+
+    .anim-container.is-visible .delay-strut-3 {
+      animation-delay: 0.3s;
+    }
+
+    .anim-container.is-visible .delay-strut-2 {
+      animation-delay: 0.45s;
+    }
+
+    .anim-container.is-visible .delay-strut-1 {
+      animation-delay: 0.6s;
+    }
+
+    .anim-container.is-visible .delay-connectors {
+      animation-delay: 0.8s;
+    }
+
+    .anim-container.is-visible .delay-annotations {
+      animation-delay: 1.0s;
+    }
+
+    /* Ambient Floating */
+    .anim-container.is-visible .float-1 {
+      animation: float-y-1 4s ease-in-out infinite alternate;
+      animation-delay: 1.65s;
+    }
+
+    .anim-container.is-visible .float-2 {
+      animation: float-y-2 5s ease-in-out infinite alternate;
+      animation-delay: 2.15s;
+    }
+
+    .anim-container.is-visible .float-3 {
+      animation: float-y-3 4.5s ease-in-out infinite alternate;
+      animation-delay: 1.85s;
+    }
+
+    @keyframes explode-up {
+      to {
+        transform: translateY(0) scale(1);
+        opacity: 1;
+      }
+    }
+
+    @keyframes strut-grow {
+      to {
+        opacity: 1;
+        transform: scaleY(1);
+      }
+    }
+
+    @keyframes draw-offset {
+      to {
+        stroke-dashoffset: 0;
+      }
+    }
+
+    @keyframes fade-up {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @keyframes float-y-1 {
+      to {
+        transform: translateY(-4px);
+      }
+    }
+
+    @keyframes float-y-2 {
+      to {
+        transform: translateY(-2px);
+      }
+    }
+
+    @keyframes float-y-3 {
+      to {
+        transform: translateY(3px);
+      }
+    }
+  </style>
+  <div
+    class="relative w-full h-[800px] md:h-[900px] max-w-[1300px] mx-auto bg-[#fdfcfb] rounded-[2rem] shadow-[0_20px_40px_-15px_rgba(0,0,0,0.05),0_0_0_1px_rgba(231,229,228,0.8)] overflow-hidden flex flex-col anim-container is-visible"
+   
+   >
+    <div class="absolute inset-0 pointer-events-none z-0"
+     
+      style="background: radial-gradient(120% 120% at 50% -10%, rgb(255, 255, 255) 0%, rgb(247, 246, 243) 100%);"></div>
+    <div class="absolute inset-0 pointer-events-none z-0 opacity-40"
+     
+     
+      style="background-image: radial-gradient(circle, rgb(214, 211, 209) 1px, transparent 1px); background-size: 24px 24px;">
+    </div>
+    <header
+      class="relative z-30 p-6 md:p-8 flex flex-col md:flex-row justify-between items-start md:items-center gap-6 pointer-events-none"
+     
+     >
+      <div class="flex flex-col gap-1 pointer-events-auto"
+       >
+        <div class="flex items-center gap-2 text-stone-500"
+         ><iconify-icon
+            icon="solar:server-square-linear" width="18" strokewidth="1.5"
+           
+           
+           ></iconify-icon><span class="text-xs font-medium tracking-widest uppercase">Workspace.Deploy_v2</span>
+        </div>
+        <h1 class="text-xl md:text-2xl font-normal tracking-tight text-stone-800"
+         
+         >Deployment Topology</h1>
+      </div>
+      <div
+        class="hidden md:flex gap-8 bg-white/60 backdrop-blur-md border border-stone-200/80 px-6 py-3 rounded-full text-xs uppercase tracking-widest font-medium pointer-events-auto shadow-sm shadow-stone-200/50"
+       
+       >
+        <div
+          class="flex items-center gap-2 text-stone-400 hover:text-stone-700 cursor-pointer transition-colors duration-300"
+         
+         >
+          <span class="w-1.5 h-1.5 rounded-full bg-stone-300"></span><span>Infrastructure</span>
+        </div>
+        <div class="flex items-center gap-2 text-stone-800"
+         >
+          <span class="w-1.5 h-1.5 rounded-full bg-orange-500 shadow-[0_0_8px_rgba(249,115,22,0.4)]"></span><span class="font-medium text-orange-600">Data Flow</span>
+        </div>
+        <div
+          class="flex items-center gap-2 text-stone-400 hover:text-stone-700 cursor-pointer transition-colors duration-300"
+         
+         >
+          <span class="w-1.5 h-1.5 rounded-full bg-stone-300"></span><span>Performance</span>
+        </div>
+      </div>
+      <div class="flex flex-col items-end gap-2 pointer-events-auto"
+       
+       >
+        <div class="flex gap-2 items-center bg-white border border-stone-200 rounded-full px-3 py-1.5 shadow-sm"
+         
+         >
+          <div class="w-2 h-2 bg-orange-500 rounded-full animate-pulse"
+           
+           ></div>
+          <span class="text-xs font-medium tracking-wide text-stone-600">All services operational</span>
+        </div>
+      </div>
+    </header>
+    <main
+      class="flex-1 relative z-10 w-full h-full flex flex-col md:flex-row items-center justify-between px-6 md:px-8 pb-8 pointer-events-none"
+     
+     >
+      <aside class="hidden lg:flex flex-col gap-6 w-full md:w-64 pointer-events-auto shrink-0 z-20"
+       
+       >
+        <div
+          class="bg-white/80 backdrop-blur-xl border border-stone-200/80 rounded-2xl p-5 shadow-sm shadow-stone-200/50 flex flex-col gap-4 transition-transform hover:-translate-y-1 duration-300"
+         
+         >
+          <div class="flex items-center gap-2 pb-3 border-b border-stone-100"
+           
+           ><iconify-icon icon="solar:widget-3-linear"
+              classname="text-orange-500" width="16"
+             
+             ></iconify-icon>
+            <h2 class="text-xs font-medium tracking-widest text-stone-500 uppercase"
+             
+             >Cluster Status</h2>
+          </div>
+          <div class="flex flex-col gap-3"
+           >
+            <div class="flex justify-between items-center text-sm"
+             
+             >
+              <span class="font-normal text-stone-500">Primary</span><span class="font-medium text-stone-800 bg-stone-100 px-2 py-0.5 rounded-md">us-east-1</span>
+            </div>
+            <div class="flex justify-between items-center text-sm"
+             
+             >
+              <span class="font-normal text-stone-500">Secondary</span><span class="font-medium text-stone-800 bg-stone-100 px-2 py-0.5 rounded-md">eu-central</span>
+            </div>
+            <div class="flex justify-between items-center text-sm"
+             
+             >
+              <span class="font-normal text-stone-400">Edge Node</span><span class="font-medium text-stone-400 bg-stone-50 border border-stone-100 px-2 py-0.5 rounded-md">standby</span>
+            </div>
+          </div>
+        </div>
+        <div
+          class="bg-white/80 backdrop-blur-xl border border-stone-200/80 rounded-2xl p-5 shadow-sm shadow-stone-200/50 flex flex-col gap-4 transition-transform hover:-translate-y-1 duration-300"
+         
+         >
+          <div class="flex items-center gap-2 pb-3 border-b border-stone-100"
+           
+           ><iconify-icon icon="solar:chart-square-linear"
+              classname="text-orange-500" width="16"
+             
+             ></iconify-icon>
+            <h2 class="text-xs font-medium tracking-widest text-stone-500 uppercase"
+             
+             >Resource Allocation</h2>
+          </div>
+          <div class="flex flex-col gap-4"
+           >
+            <div class="flex flex-col gap-1.5"
+             >
+              <div class="flex justify-between text-xs font-medium text-stone-600"
+               
+               >
+                <span class="">Compute</span><span class="text-stone-800">78%</span>
+              </div>
+              <div class="w-full h-1.5 bg-stone-100 rounded-full overflow-hidden"
+               
+               >
+                <div class="h-full bg-orange-500 rounded-full w-[78%]"
+                 
+                 ></div>
+              </div>
+            </div>
+            <div class="flex flex-col gap-1.5"
+             >
+              <div class="flex justify-between text-xs font-medium text-stone-600"
+               
+               >
+                <span>Storage</span><span class="text-stone-800">42%</span>
+              </div>
+              <div class="w-full h-1.5 bg-stone-100 rounded-full overflow-hidden"
+               
+               >
+                <div class="h-full bg-orange-400 rounded-full w-[42%]"
+                 
+                 ></div>
+              </div>
+            </div>
+            <div class="flex flex-col gap-1.5"
+             >
+              <div class="flex justify-between text-xs font-medium text-stone-600"
+               
+               >
+                <span class="">Bandwidth</span><span class="text-stone-800">12%</span>
+              </div>
+              <div class="w-full h-1.5 bg-stone-100 rounded-full overflow-hidden"
+               
+               >
+                <div class="h-full bg-stone-300 rounded-full w-[12%]"
+                 
+                 ></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </aside>
+      <div
+        class="absolute inset-0 flex items-center justify-center pointer-events-none z-10 overflow-visible mt-8 md:mt-0"
+       
+       ><svg
+          class="w-full max-w-[900px] h-full max-h-[700px] overflow-visible" viewBox="0 0 1000 800"
+          preserveAspectRatio="xMidYMid meet"
+         >
+          <defs
+            class="">
+            <filter id="soft-shadow" x="-10%" y="-10%" width="120%" height="120%"
+             
+              class="">
+              <feDropShadow dx="0" dy="15" stdDeviation="20" flood-color="#000000" flood-opacity="0.04"
+               
+                class=""></feDropShadow>
+              <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.02"
+               
+                class=""></feDropShadow>
+            </filter>
+            <filter id="orange-glow" x="-20%" y="-20%" width="140%" height="140%"
+             
+              class="">
+              <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#f97316" flood-opacity="0.15"
+               
+                class=""></feDropShadow>
+            </filter>
+          </defs>
+          <line x1="500" y1="150" x2="500" y2="700" stroke="#e7e5e4" stroke-width="1.5" stroke-dasharray="4 6"
+           
+            class=""></line>
+          <g id="wireframe-group"
+            class="">
+            <g class="layer-animate delay-layer-4"
+             >
+              <ellipse cx="500" cy="620" rx="280" ry="90" fill="#f5f4f0" filter="url(#soft-shadow)"
+               
+                class=""></ellipse>
+              <ellipse cx="500" cy="620" rx="280" ry="90" fill="#ffffff" stroke="#e7e5e4" stroke-width="2"
+               
+                class=""></ellipse>
+              <ellipse cx="500" cy="620" rx="240" ry="75" fill="none" stroke="#f5f5f4" stroke-width="1.5"
+               
+                class=""></ellipse>
+              <ellipse cx="500" cy="620" rx="140" ry="45" fill="#fafaf9" stroke="#e7e5e4" stroke-width="1"
+               
+                class=""></ellipse>
+              <path d="M 220 620 Q 500 710 780 620" fill="none" stroke="#e7e5e4" stroke-width="1.5"
+               
+                class=""></path>
+            </g>
+            <g class="strut-animate delay-strut-3"
+             
+              style="transform-origin: 500px 620px;">
+              <line x1="280" y1="480" x2="220" y2="620" stroke="#d6d3d1" stroke-width="1.5"
+               
+                class=""></line>
+              <line x1="720" y1="480" x2="780" y2="620" stroke="#d6d3d1" stroke-width="1.5"
+               
+                class=""></line>
+              <line x1="500" y1="480" x2="500" y2="620" stroke="#fdba74" stroke-width="2" stroke-dasharray="4 4"
+               
+                class=""></line>
+            </g>
+            <g class="layer-animate delay-layer-3"
+             >
+              <g class="float-3"
+               >
+                <ellipse cx="500" cy="480" rx="220" ry="75" fill="#ffffff" stroke="#e7e5e4" stroke-width="2"
+                  filter="url(#soft-shadow)"
+                  class="">
+                </ellipse>
+                <ellipse cx="500" cy="480" rx="180" ry="60" fill="#fafaf9" stroke="#f5f5f4" stroke-width="1.5"
+                 
+                  class=""></ellipse>
+                <ellipse cx="500" cy="480" rx="90" ry="30" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"
+                 
+                  class=""></ellipse>
+                <line x1="280" y1="480" x2="720" y2="480" stroke="#e7e5e4" stroke-width="1.5"
+                 
+                  class=""></line>
+              </g>
+            </g>
+            <g class="strut-animate delay-strut-2"
+             
+              style="transform-origin: 500px 480px;">
+              <line x1="340" y1="340" x2="280" y2="480" stroke="#d6d3d1" stroke-width="1.5"
+               
+                class=""></line>
+              <line x1="660" y1="340" x2="720" y2="480" stroke="#d6d3d1" stroke-width="1.5"
+               
+                class=""></line>
+              <line x1="500" y1="340" x2="500" y2="480" stroke="#fdba74" stroke-width="2" stroke-dasharray="4 4"
+               
+                class=""></line>
+            </g>
+            <g class="layer-animate delay-layer-2"
+             >
+              <g class="float-2"
+               >
+                <ellipse cx="500" cy="340" rx="160" ry="55" fill="#ffffff" stroke="#e7e5e4" stroke-width="2"
+                  filter="url(#soft-shadow)"
+                  class="">
+                </ellipse>
+                <ellipse cx="500" cy="340" rx="130" ry="45" fill="none" stroke="#f5f5f4" stroke-width="1.5"
+                 
+                  class=""></ellipse>
+                <ellipse cx="500" cy="340" rx="100" ry="35" fill="none" stroke="#e7e5e4" stroke-width="1.5"
+                  stroke-dasharray="4 4"
+                  class="">
+                </ellipse>
+                <line x1="340" y1="340" x2="660" y2="340" stroke="#e7e5e4" stroke-width="1.5"
+                 
+                  class=""></line>
+              </g>
+            </g>
+            <g class="strut-animate delay-strut-1"
+             
+              style="transform-origin: 500px 340px;">
+              <line x1="400" y1="200" x2="340" y2="340" stroke="#d6d3d1" stroke-width="1.5"
+               
+                class=""></line>
+              <line x1="600" y1="200" x2="660" y2="340" stroke="#d6d3d1" stroke-width="1.5"
+               
+                class=""></line>
+              <rect x="490" y="200" width="20" height="140" fill="none" stroke="#fdba74" stroke-width="1.5"
+                stroke-dasharray="2 4"
+                class=""></rect>
+            </g>
+            <g class="layer-animate delay-layer-1"
+             >
+              <g class="float-1"
+               >
+                <ellipse cx="500" cy="200" rx="100" ry="35" fill="#ffffff" stroke="#ea580c" stroke-width="2"
+                  filter="url(#orange-glow)"
+                  class="">
+                </ellipse>
+                <ellipse cx="500" cy="200" rx="80" ry="28" fill="#fff7ed" stroke="#fdba74" stroke-width="1.5"
+                 
+                  class=""></ellipse>
+                <circle cx="500" cy="200" r="14" fill="#ffedd5" stroke="#f97316" stroke-width="1.5"
+                 
+                  class=""></circle>
+                <circle cx="500" cy="200" r="5" fill="#ea580c"
+                  class="">
+                </circle>
+                <line x1="400" y1="200" x2="600" y2="200" stroke="#fed7aa" stroke-width="1.5"
+                 
+                  class=""></line>
+              </g>
+            </g>
+          </g>
+          <g id="annotations-group"
+            class="">
+            <g
+              class="">
+              <path class="connector-line delay-connectors" d="M 440 180 L 300 120 L 180 120" fill="none"
+                stroke="#d6d3d1" stroke-width="1.5" stroke-dasharray="300" stroke-dashoffset="300"
+               
+               ></path>
+              <g class="annotation-element delay-annotations"
+               >
+                <circle cx="440" cy="180" r="3" fill="#f97316"
+                  class="">
+                </circle>
+                <circle cx="180" cy="120" r="2" fill="#d6d3d1"
+                  class="">
+                </circle>
+                <rect x="20" y="95" width="145" height="50" rx="8" fill="#ffffff" stroke="#e7e5e4"
+                  filter="url(#soft-shadow)"
+                  class=""></rect>
+                <text x="35" y="118" class="text-xs font-medium tracking-wide fill-stone-800"
+                 
+                 >API Gateway</text><text x="35" y="134"
+                  class="text-[10px] font-medium uppercase tracking-widest fill-orange-600"
+                 
+                 >Active Routing</text>
+              </g>
+            </g>
+            <g
+              class="">
+              <path class="connector-line delay-connectors" d="M 640 320 L 740 250 L 840 250" fill="none"
+                stroke="#d6d3d1" stroke-width="1.5" stroke-dasharray="250" stroke-dashoffset="250"
+               
+               ></path>
+              <g class="annotation-element delay-annotations"
+               >
+                <circle cx="640" cy="320" r="3" fill="#fdba74"
+                  class="">
+                </circle>
+                <circle cx="840" cy="250" r="2" fill="#d6d3d1"
+                  class="">
+                </circle>
+                <rect x="855" y="225" width="135" height="50" rx="8" fill="#ffffff" stroke="#e7e5e4"
+                  filter="url(#soft-shadow)"
+                  class=""></rect>
+                <text x="870" y="248" class="text-xs font-medium tracking-wide fill-stone-800"
+                 
+                 >Message Broker</text><text x="870" y="264"
+                  class="text-[10px] font-medium uppercase tracking-widest fill-stone-500"
+                 
+                 >Vol: 42.1k / sec</text>
+              </g>
+            </g>
+            <g
+              class="">
+              <path class="connector-line delay-connectors" d="M 290 460 L 190 410 L 90 410" fill="none"
+                stroke="#d6d3d1" stroke-width="1.5" stroke-dasharray="250" stroke-dashoffset="250"
+               
+               ></path>
+              <g class="annotation-element delay-annotations"
+               >
+                <circle cx="290" cy="460" r="3" fill="#fdba74"
+                  class="">
+                </circle>
+                <circle cx="90" cy="410" r="2" fill="#d6d3d1"
+                  class="">
+                </circle>
+                <rect x="30" y="385" width="150" height="50" rx="8" fill="#ffffff" stroke="#e7e5e4"
+                  filter="url(#soft-shadow)"
+                  class=""></rect>
+                <text x="165" y="408" class="text-xs font-medium tracking-wide fill-stone-800" text-anchor="end"
+                 
+                 >Compute Engine</text><text x="165" y="424"
+                  class="text-[10px] font-medium uppercase tracking-widest fill-stone-500" text-anchor="end"
+                 
+                 >Load: Optimal</text>
+              </g>
+            </g>
+            <g
+              class="">
+              <path class="connector-line delay-connectors" d="M 760 600 L 820 560 L 900 560" fill="none"
+                stroke="#d6d3d1" stroke-width="1.5" stroke-dasharray="200" stroke-dashoffset="200"
+               
+               ></path>
+              <g class="annotation-element delay-annotations"
+               >
+                <circle cx="760" cy="600" r="3" fill="#f97316"
+                  class="">
+                </circle>
+                <circle cx="900" cy="560" r="2" fill="#d6d3d1"
+                  class="">
+                </circle>
+                <rect x="915" y="535" width="135" height="50" rx="8" fill="#ffffff" stroke="#e7e5e4"
+                  filter="url(#soft-shadow)"
+                  class=""></rect>
+                <text x="930" y="558" class="text-xs font-medium tracking-wide fill-stone-800"
+                 
+                 >Data Persistence</text><text x="930" y="574"
+                  class="text-[10px] font-medium uppercase tracking-widest fill-stone-500"
+                 
+                 >Synced: 2ms ago</text>
+              </g>
+            </g>
+          </g>
+        </svg></div>
+      <aside
+        class="hidden lg:flex flex-col gap-4 w-full md:w-64 pointer-events-auto shrink-0 z-20 self-end md:self-auto mt-auto mb-8 md:mb-0"
+       
+       >
+        <div
+          class="bg-white/80 backdrop-blur-xl border border-stone-200/80 rounded-2xl p-5 shadow-sm shadow-stone-200/50 flex flex-col gap-4 transition-transform hover:-translate-y-1 duration-300"
+         
+         >
+          <div class="flex items-center justify-between pb-3 border-b border-stone-100"
+           
+           >
+            <h2 class="text-xs font-medium tracking-widest text-stone-500 uppercase"
+             
+             >Deployment Log</h2><iconify-icon
+              icon="solar:history-linear" classname="text-stone-400" width="16"
+             
+             
+             ></iconify-icon>
+          </div>
+          <div class="flex flex-col gap-3 text-xs tracking-wide text-right opacity-90"
+           
+           >
+            <div class="text-stone-600 flex justify-between items-center"
+             
+             >
+              <span class="text-stone-400">10:42 AM</span><span>Sync initialized</span>
+            </div>
+            <div class="text-stone-600 flex justify-between items-center"
+             
+             >
+              <span class="text-stone-400">10:43 AM</span><span>Provisioning nodes</span>
+            </div>
+            <div class="text-stone-600 flex justify-between items-center"
+             
+             >
+              <span class="text-stone-400">10:43 AM</span><span>Validating cache</span>
+            </div>
+            <div
+              class="flex justify-between items-center bg-orange-50 border border-orange-100 px-2 py-1.5 rounded-lg -mr-2 shadow-sm"
+             
+             >
+              <span class="text-orange-400 font-medium">10:44 AM</span><span class="text-orange-600 font-medium">Routing traffic</span>
+            </div>
+            <div class="text-stone-400 flex justify-between items-center"
+             
+             >
+              <span class="text-stone-300">Pending</span><span>Health checks</span>
+            </div>
+          </div>
+        </div>
+      </aside>
+    </main>
+    <footer
+      class="relative z-30 p-6 md:p-8 flex flex-col md:flex-row justify-between items-center md:items-end gap-6 pointer-events-none bg-gradient-to-t from-white/60 to-transparent mt-auto"
+     
+     >
+      <div
+        class="flex items-center gap-3 pointer-events-auto bg-white/80 backdrop-blur-md border border-stone-200 p-2 rounded-2xl shadow-sm"
+       
+       >
+        <button class="w-10 h-10 rounded-xl flex items-center justify-center text-stone-500 hover:text-stone-800 hover:bg-stone-50 transition-colors"><iconify-icon icon="solar:skip-previous-linear" width="18"></iconify-icon></button><button class="w-12 h-12 rounded-xl border border-stone-200 flex items-center justify-center text-white bg-orange-500 shadow-md shadow-orange-500/20 hover:bg-orange-600 transition-colors hover:scale-105"><iconify-icon icon="solar:pause-linear" width="20"></iconify-icon></button><button class="w-10 h-10 rounded-xl flex items-center justify-center text-stone-500 hover:text-stone-800 hover:bg-stone-50 transition-colors"><iconify-icon icon="solar:skip-next-linear" width="18"></iconify-icon></button>
+        <div class="ml-3 pl-4 border-l border-stone-200 flex flex-col justify-center pr-3"
+         
+         >
+          <span class="text-[10px] font-medium text-stone-400 uppercase tracking-widest">Deploy Phase</span><span class="text-sm font-medium tracking-wide text-stone-800">Traffic Routing</span>
+        </div>
+      </div>
+      <div
+        class="absolute left-1/2 -translate-x-1/2 bottom-8 w-full max-w-[400px] hidden lg:flex flex-col gap-3 items-center"
+       
+       >
+        <div class="flex justify-between w-full text-[10px] font-medium text-stone-400 px-1 uppercase tracking-widest"
+         
+         >
+          <span>Init</span><span class="text-orange-600 font-medium">Active</span><span>Verify</span><span>Complete</span>
+        </div>
+        <div class="w-full flex items-center gap-1.5"
+         >
+          <div class="h-1 flex-1 bg-stone-200 rounded-full"
+           ></div>
+          <div class="h-1 w-12 bg-orange-300 rounded-full"
+           ></div>
+          <div class="h-1.5 w-24 bg-orange-500 rounded-full relative shadow-[0_0_8px_rgba(249,115,22,0.4)]"
+           
+           >
+            <div
+              class="absolute top-1/2 left-full w-3 h-3 bg-white border-2 border-orange-500 rounded-full transform -translate-y-1/2 -translate-x-1/2 shadow-sm"
+             
+             ></div>
+          </div>
+          <div class="h-1 w-16 bg-stone-200 rounded-full"
+           ></div>
+          <div class="h-1 flex-1 bg-stone-200 rounded-full"
+           ></div>
+        </div>
+      </div>
+      <div class="flex gap-3 pointer-events-auto"
+       >
+        <button class="border border-stone-200 px-4 py-2.5 rounded-xl flex items-center gap-2 text-sm text-stone-600 bg-white shadow-sm hover:border-stone-300 hover:text-stone-800 transition-all hover:-translate-y-0.5"><iconify-icon icon="solar:cloud-download-linear" width="16"></iconify-icon><span class="tracking-wide font-medium">Export Topology</span></button><button class="border border-orange-500 px-4 py-2.5 rounded-xl flex items-center gap-2 text-sm text-white bg-orange-500 shadow-md shadow-orange-500/20 hover:bg-orange-600 transition-all hover:-translate-y-0.5"><iconify-icon icon="solar:maximize-square-linear" width="16"></iconify-icon><span class="tracking-wide font-medium">View Dashboard</span></button>
+      </div>
+    </footer>
+  </div>
+</section>

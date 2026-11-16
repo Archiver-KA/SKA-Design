@@ -1,0 +1,73 @@
+{
+  "id": "SN-W03585",
+  "title": "Design Conference Landing Page Template",
+  "summary": "A reusable landing page template for design summits and creative conferences, featuring speaker highlights, agenda sections, venue details, sponsors, and registration CTA.",
+  "tags": [
+    "Landing Page",
+    "Conference",
+    "Education",
+    "Technology",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Large Type",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3736,
+      "sha256": "814c8d36246356034969682a4beeaa8e53b6527563667c1c46b1a48625e8596f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 24836,
+      "sha256": "e0a8efbd45e43dd1711514e853a2d6a62cf1c00b4cf50493e4f159309ba8deb8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 902,
+      "sha256": "dcc4e133e852aaef449a8d8750bab6e64bbfde4e896ba723bd48449d4fc4eab0"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 204,
+      "sha256": "17f340270785894f1354a216e20dafe301b703faefbbd98b57c840e162932de7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32360,
+      "sha256": "046e0bef331174b9fa6ffea6c01fa561e91e2f00c1a5ba4fad4cb8d4a481b1f0"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "team",
+    "schedule-agenda",
+    "map-location",
+    "auth-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

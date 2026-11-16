@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02241",
+  "title": "Animated Telemetry Dashboard Section",
+  "summary": "A futuristic dark-themed dashboard section with live metric counters, animated headline reveal, CTA, and a continuously updating Chart.js telemetry graph. Built with Tailwind CSS-inspired utility classes for SaaS, analytics, or product showcase pages.",
+  "tags": [
+    "ui",
+    "tailwind",
+    "dashboard",
+    "analytics",
+    "animated",
+    "interactive",
+    "dark",
+    "section"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16782,
+      "sha256": "7367cde873d06a38a8fdef81ff4a8adb4220c42afa2421b5a958852340d64414"
+    },
+    {
+      "path": "component.html",
+      "bytes": 18097,
+      "sha256": "fa66a01bc1fb4e78285fdc7fc27392989ace30e409ed2622fc9d23ca7f330092"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18954,
+      "sha256": "bc56d0c3f2f901498aed77c561cb7c73528eb1d9c94f628b7837ffde0df96a95"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

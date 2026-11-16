@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01464",
+  "title": "Responsive Hero Banner with Headline, Image and CTAs",
+  "summary": "Landing-page hero section featuring bold headline, supporting text, two call-to-action buttons and a responsive image. Uses Tailwind CSS grid, rounded borders and backdrop blur for modern aesthetic; ideal for marketing sites and product intros.",
+  "tags": [
+    "hero-section",
+    "banner",
+    "tailwind",
+    "responsive",
+    "cta",
+    "landing-page",
+    "marketing",
+    "grid"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 44898,
+      "sha256": "72a4e7007e823979a0037c3238de0da6b8bcc8a3b1559d0f91bc55002c3453ef"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2031,
+      "sha256": "aa2d01f6741ad7b011f75f65db831d08b5cbfba5d3609a856b11dcd78c6146e2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3034,
+      "sha256": "ada8dbc3ec6d7eb05fd7ce2324f8e88fa0761d5717a311600028eb307b1bb98c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01221",
+  "title": "AI SaaS Hero Section with Animated Visual UI",
+  "summary": "Full-screen dark hero section for an AI/SaaS product featuring navigation, animated headline, feature highlight cards, and a right-side case study visual with UI overlays. Uses Tailwind-style utility classes, custom animations, and responsive layout.",
+  "tags": [
+    "hero",
+    "section",
+    "landing",
+    "saas",
+    "ai",
+    "responsive",
+    "animated",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 25400,
+      "sha256": "ddf7b27a5d8c2339fbbdf4ea849c0c145c1e30d76dbdc21cc2d4dd89aa4f7ae4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7634,
+      "sha256": "14060ca90d0441642d635c6a987ef98960bc5c038567fa9c2eee500e349f9ce3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8499,
+      "sha256": "4a31a7f805c677f7524ba20e65191a128a8fdaca949da0c99733b656746fad6c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

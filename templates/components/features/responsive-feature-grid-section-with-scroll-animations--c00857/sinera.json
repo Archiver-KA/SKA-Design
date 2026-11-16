@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00857",
+  "title": "Responsive Feature Grid Section with Scroll Animations",
+  "summary": "Landing-page section showcasing product features in a responsive 3-column grid. Includes headline, promo tag, image cards with gradients, CTAs, and fade-in animations. Built with Tailwind CSS, ideal for SaaS marketing or portfolio sites.",
+  "tags": [
+    "section",
+    "feature",
+    "grid",
+    "tailwind",
+    "responsive",
+    "animated",
+    "landing page"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 28844,
+      "sha256": "2ab2d5aa3cae8600556c3ebaa2cc809fbefd302f1be225ef92f00d77a500ec5d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9699,
+      "sha256": "c2864a424ffc27d3a437d1faf99cf1febe18999ac60c69f2633f77dced0170ad"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10574,
+      "sha256": "28d6e5944f55c63228819e1f56ba1d2899f892ebc4993a2f6bd2a94b4603c5de"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "id": "SN-W04277",
+  "title": "Responsive Two-Column Web Layout",
+  "summary": "HTML and Tailwind CSS code for a responsive two-column webpage with animated navigation and multiple font options.",
+  "tags": [
+    "Two-Column Layout",
+    "Tailwind CSS",
+    "Responsive Design",
+    "Animation",
+    "Navigation",
+    "Web Fonts"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3642,
+      "sha256": "b924b07b1002cc215fd0886017db493536841d0a3012ce06d23666ab9ede7abc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16086,
+      "sha256": "285146d5c673714ea7b73ea7ff74faffd01412555d3cd1316b07a1fc60a32bd5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 3610,
+      "sha256": "83b327e053ef26254455d86aab76ad9d7b4ba28359f6ef5525b3bda520660330"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 396,
+      "sha256": "9df28e8d1dc242c033148a3b56aec504c994134019866acc4aadfbf82ebc37e8"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 354,
+      "sha256": "0a126616154f84580ba64e1e90cf59023a069230367d9a412185844cd89c0342"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 303,
+      "sha256": "adcddec3457f266e363f38777cc8dfd79b4bebc07c8cd359bc2a515702e8eafc"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 343,
+      "sha256": "e06207cab57319be2f3da6663429634de6b5327da00a965d97bfc4b20eca09c7"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 306,
+      "sha256": "acc074650aa47255952ac2346c9312f342f191eb7f8f877f8128d0e18d3db2cb"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 578,
+      "sha256": "38d16b74712173187d6b295ad6ceed0e1e2c650043b87461443e54d57914f00d"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 345,
+      "sha256": "8201c0857bd54c05cf7f20ebed93def36ba963266c2385e481505ace872ceb0c"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 649,
+      "sha256": "9e43a8e03337365d960d5b7f021ae05b882149a1863f07c822477c6e403db914"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 633,
+      "sha256": "7d9086bc2accb073d60750181c9f2033e84773433ba418e1db0c9233eb826ec6"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 408,
+      "sha256": "08f7038ac70a1128cedf28133c85d3e90de7da68fc869f7a1bd6aa637a902bf0"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 338,
+      "sha256": "98840cbc6a48e129ceba6229d305179f63c43cf347676895067ff4042367467d"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 413,
+      "sha256": "0750df2f3c2ba56dd4cbdfcc52af7d238b099c1a00cb92f07f3fd3cdfdf02630"
+    },
+    {
+      "path": "images/embedded/embedded-0013.svg",
+      "bytes": 813,
+      "sha256": "3128e2dfca3a98056bc5675997d6a3918a0c690313b6b27f7552b9e5bdf080eb"
+    },
+    {
+      "path": "images/embedded/embedded-0014.svg",
+      "bytes": 412,
+      "sha256": "37d86b03e9ed87b929845563f7789062547e5aa2e1298efd9b44fe156f6e0ba1"
+    },
+    {
+      "path": "images/embedded/embedded-0015.svg",
+      "bytes": 318,
+      "sha256": "344f1ee4bd0d261b195c14b5723c55143d4fc8a6862c7ac290bbe682ecfbe5a4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20791,
+      "sha256": "6ab51885dde031f176196e0996d4d5148e6504fc65f244310c5764def4cac011"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

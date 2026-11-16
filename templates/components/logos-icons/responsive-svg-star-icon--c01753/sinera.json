@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01753",
+  "title": "Responsive SVG Star Icon",
+  "summary": "Inline SVG star-shaped icon with Tailwind-responsive width and height classes. Inherits currentColor for easy theme customization; ideal for ratings, buttons, or decorative highlights in responsive UIs.",
+  "tags": [
+    "icon",
+    "svg",
+    "star",
+    "responsive",
+    "tailwind",
+    "decorative",
+    "logo"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1174,
+      "sha256": "30f7f525531b641efa1a36ee5c4d1a49ee01bee3e0ff1746f81bd0aa49c40dde"
+    },
+    {
+      "path": "component.html",
+      "bytes": 250,
+      "sha256": "a2cb3d1c69dc283f39c0838c186af8c6711955389de39aa51d3bb863a06a8266"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1095,
+      "sha256": "c1418b40c4cea025971ee20a22c1bf7425e0580fbac349face9181af89186391"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

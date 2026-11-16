@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02309",
+  "title": "Metric Cards Grid with Scrolling Logo Ticker",
+  "summary": "Animated Tailwind section featuring KPI cards with mini charts, progress bars, and fade-in on scroll, plus a continuous marquee of partner logos. Ideal for SaaS or AI landing pages to display performance metrics and social proof.",
+  "tags": [
+    "section",
+    "stats",
+    "cards",
+    "grid",
+    "tailwind",
+    "animated",
+    "responsive",
+    "ticker"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 31096,
+      "sha256": "22d142f6c3e2918753f3d4133127556b419b90d9c31e6447fad1a19d163bba0d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 22054,
+      "sha256": "98fe4a9b4f77ec58312469fa89d0549185a0928ea083b9ce5bb2903132743632"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23049,
+      "sha256": "ce388e2f0812ccf0e55fd4926a84b3bcceb9af7fc999446d8a19c400b07c081b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

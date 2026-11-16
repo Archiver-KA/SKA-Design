@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01996",
+  "title": "Doodle Art Studio Artist Portfolio Template",
+  "summary": "A dark, cinematic artist portfolio template for showcasing original artwork, curated collections, and collector favorites with an integrated studio newsletter.",
+  "tags": [
+    "Art & Design",
+    "Artist",
+    "Portfolio",
+    "Landing Page",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Grid",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3736,
+      "sha256": "7933875c09cf4cdd1b7361d891413440c7b011a623f3696b9e8f7af2c49d3450"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11816,
+      "sha256": "459e48658ed1bb992d7330400f6ee942ce187295793eb2c3578b4416979d64b1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 955,
+      "sha256": "5cfd209bffb5806dd368818d2db6a822c7fecd31d7fd8afec1cdad3abb5d02d0"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 273,
+      "sha256": "90453c81e1f014abcf11b50df954b537551522814dc1f160b8f2aa7941fc053a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36574,
+      "sha256": "bdc530fd60cbd66e8c2343db5153fd7ff91868e24437120f564105c6da468a42"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "product-grid",
+    "newsletter",
+    "footer",
+    "gallery-portfolio",
+    "how-it-works"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

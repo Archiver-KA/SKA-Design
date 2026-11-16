@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01312",
+  "title": "Dark Hero Section with Analytics Visualization",
+  "summary": "Full-width hero section for a logistics or fintech product, featuring headline, subcopy, key stats, and a call-to-action alongside a stylized bar-chart visualization. Uses custom CSS with some utility classes and is optimized for responsive layouts.",
+  "tags": [
+    "hero",
+    "section",
+    "landing",
+    "analytics",
+    "visualization",
+    "responsive",
+    "dark",
+    "css"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 30924,
+      "sha256": "52b0bc9f41664089eb1f7b398fb06eab7eff503d4e68c3e399765dd0c8083e00"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8146,
+      "sha256": "d5a326e3537af09020241f8384b1e685d0746bc18820c0e6f3647fd1d5e20e34"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9013,
+      "sha256": "6a8928f982677a60cafcb424852666eedfd3122f821e52f875122c00048a6be8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

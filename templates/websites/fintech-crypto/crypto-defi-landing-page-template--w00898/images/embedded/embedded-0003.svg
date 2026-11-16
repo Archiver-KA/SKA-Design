@@ -1,0 +1,8 @@
+<svg class="w-full h-full overflow-visible" preserveAspectRatio="none">
+                                <path d="M0,100 C50,100 80,60 120,60 C160,60 200,90 240,70 C280,50 320,10 340,5" fill="none" stroke="#ccff00" stroke-width="2" />
+                                <linearGradient id="chartGrad" x1="0" y1="0" x2="0" y2="1">
+                                    <stop offset="0%" stop-color="#ccff00" stop-opacity="0.2"/>
+                                    <stop offset="100%" stop-color="#ccff00" stop-opacity="0"/>
+                                </linearGradient>
+                                <path d="M0,100 C50,100 80,60 120,60 C160,60 200,90 240,70 C280,50 320,10 340,5 V120 H0 Z" fill="url(#chartGrad)" stroke="none" />
+                            </svg>

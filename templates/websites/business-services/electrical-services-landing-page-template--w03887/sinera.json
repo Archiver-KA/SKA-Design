@@ -1,0 +1,66 @@
+{
+  "id": "SN-W03887",
+  "title": "Electrical Services Landing Page Template",
+  "summary": "A modern electrical services landing page template for local tradies to showcase services, build trust, and capture quote and callout enquiries.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Clean",
+    "Minimal",
+    "Brand",
+    "Large Type",
+    "Technology",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3892,
+      "sha256": "2757b8fc3ea306c669c540f6079cf9ba2501a4cfbe5c4e663882187337bbc263"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22586,
+      "sha256": "9c92f7f6479de0ccecb7412794b16b5264387eed12a4b829b883e22d34607333"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "a27a36e82c60dcb6e1f996426817e0ec33c8b054e3a4beb5b18ecd177c1f773f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35406,
+      "sha256": "746fb851b67af894c6b997c05dfd19bf627e8410288712af88aa856d357cd784"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "auth-form",
+    "about",
+    "services",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

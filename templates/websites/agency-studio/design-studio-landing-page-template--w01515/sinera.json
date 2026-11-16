@@ -1,0 +1,63 @@
+{
+  "id": "SN-W01515",
+  "title": "Design Studio Landing Page Template",
+  "summary": "A dark, high-impact template for digital design studios to showcase branding, web experiences, motion work, and convert visitors into project leads.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Technology",
+    "3D",
+    "Dark",
+    "Minimal",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3354,
+      "sha256": "1f2467b6179a05b72ebf81ce32976c0a49935a133734db553c357cc0527238af"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13398,
+      "sha256": "a156ea7f9e01b428db13da86daa30f0225587eec7b71f5d98bb1bd485da12385"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "90e92a9ee96877653add67d777e8eeb7d0db7abf1629851b91f75b372cac6776"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13713,
+      "sha256": "3786d5b2779c736dd20931ad2115115af3ed25465b903865f785e13dd103c300"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

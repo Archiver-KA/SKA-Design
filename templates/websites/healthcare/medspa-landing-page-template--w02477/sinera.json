@@ -1,0 +1,70 @@
+{
+  "id": "SN-W02477",
+  "title": "Medspa Landing Page Template",
+  "summary": "Refined medspa landing page template for cosmetic laser centers to showcase services, locations, and appointments with a premium spa aesthetic.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Medspa",
+    "Cosmetic Laser"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3651,
+      "sha256": "e5e6bc565be106b7e012b432a2af616012a3e39c6a852d0276a69b74105060d2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18794,
+      "sha256": "904b1457bdcf34a4eff62c4f7d743a2c2f65e4ae047504e06e39629cf01ae7a1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 717,
+      "sha256": "03ef3d798186151062fd4c97d4e21733db4176e0f6a1b4efa311e8332714ec30"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33274,
+      "sha256": "91ac00abf5817e11a75f81b163f4063fb463cf7617cdc9bd2744c8d816c98cb8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "announcement-bar",
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "services",
+    "about",
+    "map-location",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

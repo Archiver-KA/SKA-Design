@@ -1,0 +1,66 @@
+{
+  "id": "SN-W04052",
+  "title": "Plumbing Services Landing Page Template",
+  "summary": "A reusable plumbing services landing page template for local contractors to showcase services, build trust, and capture quote requests online.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Clean",
+    "Minimal",
+    "Brand",
+    "local services",
+    "plumbing",
+    "home repair"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3505,
+      "sha256": "415578d2b7a40b2edc0bdb7047e949142f8ea03115839be5a0609fedbdf9d11e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13902,
+      "sha256": "04dd4e823518e01e859ec792a64dcb6c2138fb72e73086532cb98f1554912753"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 817,
+      "sha256": "8adad71f8fb1e95d6bc0671c439273c66bf212ea475a6d6619939794137fd404"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29194,
+      "sha256": "090ca7409f754acf9fc170282f2d20a82d7c95d62156722d7452b4312f1b8e9a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "stats",
+    "services",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

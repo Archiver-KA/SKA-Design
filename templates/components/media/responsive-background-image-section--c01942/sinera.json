@@ -1,0 +1,40 @@
+{
+  "id": "SN-C01942",
+  "title": "Responsive Background Image Section",
+  "summary": "A full-width responsive background image section with automatic device-based image optimization and thumbnail support for various screen sizes.",
+  "tags": [
+    "section",
+    "responsive",
+    "image",
+    "hero"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 53610,
+      "sha256": "2e5b7cedd0a690abc613e21377bf1bf7a1d5c83f27ed787191b01eae7adcc9f2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1375,
+      "sha256": "629bebb35ca69e24af83ab0a76e2a11e7bf522c582df7fc171c930df2985bc09"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2231,
+      "sha256": "3841e0c69787942ea46fe43d107c9fe9cc3e464fc05fc23c50aa15b2120e6ea7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

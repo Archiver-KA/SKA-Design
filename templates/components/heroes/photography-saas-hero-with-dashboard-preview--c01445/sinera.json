@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01445",
+  "title": "Photography SaaS Hero with Dashboard Preview",
+  "summary": "Full-width hero section for a photography platform featuring navbar, gradient background, marketing copy, feature pills, animated dashboard mockup, horizontal tool cards, and partner logos. Built with Tailwind utility classes for responsive, interactive presentation.",
+  "tags": [
+    "hero",
+    "section",
+    "ui",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "saas",
+    "dashboard"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 25498,
+      "sha256": "802fe3de62ecfb252f24495e3844408b2af92b8cce7199ce3cced5510c3d872b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 23547,
+      "sha256": "d9a1e5d2d6197f0393327282ed44753ce2163334cc5c473e87d954dbe21c8086"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24412,
+      "sha256": "906d1fde9087fa876fb9f74c59c3fea437be402ac26e11d6e62ceaf0b2aca8c3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

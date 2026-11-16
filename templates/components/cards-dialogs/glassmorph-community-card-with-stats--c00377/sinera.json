@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00377",
+  "title": "Glassmorph Community Card with Stats",
+  "summary": "Clickable card showcasing a community/category with blurred image background, gradient icon badge, title, description, member count and status labels. Uses Tailwind CSS, hover overlay and responsive flex layout for dashboards or listings.",
+  "tags": [
+    "card",
+    "tailwind",
+    "glassmorphism",
+    "community",
+    "stats",
+    "hover",
+    "responsive",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6228,
+      "sha256": "2308bf9057830dcf791a33a3ddbc3d2af8e9292b15451839a4c063563d8dd279"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3217,
+      "sha256": "7dbdd225e3073ab9f8ee8d4413c3a9fd02ee0ab90ae5409ed7014753cca9a3ae"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4204,
+      "sha256": "73c5bef63b7a2dce817eb1b5b6defec1379d0a727becc690932cf8a64c45a8ac"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

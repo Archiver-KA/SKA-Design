@@ -1,0 +1,63 @@
+{
+  "id": "SN-W03833",
+  "title": "Automotive Services Landing Page Template",
+  "summary": "A premium, high-performance landing page template designed for car wrapping, PPF protection, and automotive detailing studios.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Dark",
+    "Futuristic",
+    "Clean",
+    "Brand",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3637,
+      "sha256": "7fbca6c54777326358c03b3aabc9d3ce0798b9683c588f8c3ae19b9df53ba03f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19804,
+      "sha256": "d79a132d268b239d39a9bb9c8eb01d16c79849481c49406716478294bc25ee40"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "86dfa45843734a165d28df7f76b9932adf81cfdebae6668b2e55b231f3a90f2f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 83010,
+      "sha256": "f8c74ba663301fab0b5415bee00d5c3c824ccc87515c5818f40547451aa2fb4e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "features",
+    "listings",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

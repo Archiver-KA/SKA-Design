@@ -1,0 +1,76 @@
+{
+  "id": "SN-W02014",
+  "title": "Finance & AI Portfolio Landing Page Template",
+  "summary": "A cinematic dark-mode portfolio template for finance and AI automation professionals to showcase skills, projects, experience, and contact details with a modern UX.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Art & Design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3969,
+      "sha256": "5d478515c5caf560873cc7f2787f64f2393c6d533c5c1379713f813c4d0121e0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11506,
+      "sha256": "9570012056d09deb7a40a6955dc14199ade9f65033660c07a7daf1a106121035"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 955,
+      "sha256": "e45f336525fd4c8dcc27f50ebe9bed14c694b5ec61753285d6ab2107329556dc"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "8fdd104ac7843269a0c4bb41aacf62efd383fb500afc71598cfc07a668449fab"
+    },
+    {
+      "path": "index.html",
+      "bytes": 52724,
+      "sha256": "068273e7da55eded8a4fe6d22986d023e06dabcd60b67a90bf4ebdcedb8fadf0"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "services",
+    "case-studies",
+    "timeline",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

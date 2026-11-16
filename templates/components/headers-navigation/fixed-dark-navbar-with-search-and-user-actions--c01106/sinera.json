@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01106",
+  "title": "Fixed Dark Navbar with Search and User Actions",
+  "summary": "Translucent top header built with Tailwind CSS. Features brand logo, nav links, centered searchable input with clear & shortcut hints, notification/message icons, and user avatar. Stays fixed on scroll, ideal for social, dashboard or inspiration sites.",
+  "tags": [
+    "navbar",
+    "header",
+    "tailwind",
+    "search",
+    "responsive",
+    "dark",
+    "icons",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3736,
+      "sha256": "17aa8e9bda11ad2b631501e9bfe93f7a738dfe7394ce3eefc66e45101c7baf25"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4796,
+      "sha256": "84b51d9867371a56418dba2a5319e00332987657468c9c139182b42496d7e5ad"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5793,
+      "sha256": "f5ea3e6101b5a39adf579a111c76ff5fca553c497807785d028e9e14e7f3d859"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

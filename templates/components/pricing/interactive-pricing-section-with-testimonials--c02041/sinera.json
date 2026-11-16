@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02041",
+  "title": "Interactive Pricing Section with Testimonials",
+  "summary": "A full-width Tailwind CSS pricing section combining customer testimonials with an interactive plan selector. Features dynamic tabs, live pricing updates, metrics, feature lists, and CTA messaging for SaaS or platform pricing pages.",
+  "tags": [
+    "pricing",
+    "section",
+    "tailwind",
+    "interactive",
+    "tabs",
+    "testimonial",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21934,
+      "sha256": "84cc1061ee6c4e0a7ccc185721cfc7e7a5b35495fee31f8cdd5ac23fe3440659"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11704,
+      "sha256": "212e63df47404bddac693a8fbf37a882607d36e66eb25363b6c8fc11f2878798"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12570,
+      "sha256": "47fad9811ba524624c41ae6b76ef016b9e2644d38d33c3da9435488cb6293ff1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

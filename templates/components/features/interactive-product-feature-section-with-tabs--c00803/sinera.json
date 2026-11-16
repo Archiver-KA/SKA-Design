@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00803",
+  "title": "Interactive Product Feature Section with Tabs",
+  "summary": "Responsive Tailwind section featuring an animated diagram and hoverable nodes alongside tab-switchable copy for technology, specs, and certifications. Includes ratings, CTA button, and subtle animations—ideal for product highlight or landing pages.",
+  "tags": [
+    "feature",
+    "section",
+    "tabs",
+    "diagram",
+    "tailwind",
+    "animated",
+    "interactive",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 23412,
+      "sha256": "67ec2a3c1a70ba63ec76d5d5613de06b9520ade05363c4b310b4eadbb9928ed7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12669,
+      "sha256": "20fcb40d30f6b41cbd7f15fdd786269ca17c76e8b704460ae9cbe7a16e05add0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13665,
+      "sha256": "46f34560a272456082fafd636bed82cead4687df2b9f6103c911fe928a1af71d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

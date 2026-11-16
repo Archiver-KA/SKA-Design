@@ -1,0 +1,64 @@
+{
+  "id": "SN-W01226",
+  "title": "Luxury Fragrance E-commerce Template",
+  "summary": "A refined e-commerce template for premium fragrance brands to showcase collections, tell their story, and drive product discovery and newsletter signups.",
+  "tags": [
+    "E-commerce",
+    "Landing Page",
+    "Brand",
+    "Fashion",
+    "Minimal",
+    "Clean",
+    "Luxury",
+    "Fragrance",
+    "Editorial"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3465,
+      "sha256": "2184a62c98437fe0d26fa510daba761e84660f7060ff12943c137c9e921974e2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21354,
+      "sha256": "87086c760db1357a58a984213f9756fcd2c7f7748d1b93e0cc7d972932193073"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 809,
+      "sha256": "92f20ad3709b6ca2aba943a39f71dd24529a030029e6688f1b27e4c43162eae7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21444,
+      "sha256": "320ca75a92360a61e8b343b5bb8230a2eec2c61eda0c75804f164cbac499e6eb"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

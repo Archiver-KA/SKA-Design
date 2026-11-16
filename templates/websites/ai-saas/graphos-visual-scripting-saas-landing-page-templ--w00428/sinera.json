@@ -1,0 +1,74 @@
+{
+  "id": "SN-W00428",
+  "title": "GraphOS Visual Scripting SaaS Landing Page Template",
+  "summary": "A dark, futuristic SaaS landing page template for GraphOS-style visual scripting platforms, ideal for showcasing engine-agnostic developer tools and SDKs.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Large Type",
+    "Developer Tools",
+    "Game Development"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3859,
+      "sha256": "665247d90062d8e0d516c27ac5066047d80a20f18819d27be61f600f241a4a5b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17286,
+      "sha256": "2f443a6168c97f846ea5943188a294ace3f3ff6253e27c10ccf4222bb2cfa450"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 973,
+      "sha256": "f38372c75cd1aa32538b12393fc465fbe545f1ee6af44c085dfec26af93292e5"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 791,
+      "sha256": "65337c34ef7afdfda175a40636e0658b4f38d48896a31890035040f1deefab44"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38225,
+      "sha256": "20851bd074a9f85c876c5766ad914cf7e3b0b7287e7ba4602d81c7d162dcf731"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "code-terminal",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

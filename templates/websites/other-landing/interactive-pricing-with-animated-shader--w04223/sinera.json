@@ -1,0 +1,60 @@
+{
+  "id": "SN-W04223",
+  "title": "Interactive Pricing with Animated Shader",
+  "summary": "Displays a pricing toggle with dynamic yearly/monthly prices and an interactive iridescent shader background reacting to mouse movements.",
+  "tags": [
+    "Pricing Toggle",
+    "Iridescent Shader",
+    "WebGL",
+    "GLSL",
+    "Animation",
+    "Tailwind CSS",
+    "Interactive UI"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3476,
+      "sha256": "859884a265439265b89b8184c99d265651b6ace831467de1f2f2659fb7813def"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 23784,
+      "sha256": "aaf6bf9e8b7c87ced3e6df2c5252d2dfc74767b5a66dd1ec2f93d7a5e653adc7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "79d0eb654d3a5d2f1c3c826fc7e20a0d4d5ac386771e52b847da250834b0e24f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14336,
+      "sha256": "80a7e13d99b557eae40e2096ffafe81cf0d30aadb188df8517c4cd1397ace240"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero",
+    "pricing"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "pricing",
+  "design": "DESIGN.md"
+}

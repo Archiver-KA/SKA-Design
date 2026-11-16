@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00299",
+  "title": "Watch Demo CTA Button with Icon",
+  "summary": "Rounded anchor button styled with Tailwind CSS featuring a play icon, hover transition, and focus ring. Serves as an eye-catching call-to-action for linking to video demos or designated sections on landing pages.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "icon",
+    "rounded",
+    "interactive",
+    "link"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1694,
+      "sha256": "c8c0d47580c1abfba843885637334a00daba826e07a7f0efe4673020bcc30326"
+    },
+    {
+      "path": "component.html",
+      "bytes": 588,
+      "sha256": "03c43cde5a78edf6eadc27af040bdda0d700d20efbb1ca9a249417cd030c370c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1440,
+      "sha256": "03355070b377a5d3a0b04b1688b4ade4eb1a498818bab435ae3e05ff52ee14d8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

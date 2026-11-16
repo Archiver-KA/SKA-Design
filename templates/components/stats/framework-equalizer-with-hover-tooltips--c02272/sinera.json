@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02272",
+  "title": "Framework Equalizer with Hover Tooltips",
+  "summary": "10-bar animated equalizer visualization with staggered grow animations and hover tooltips. Perfect for displaying multi-metric breakdowns and framework scores.",
+  "tags": [
+    "card",
+    "chart",
+    "equalizer",
+    "animated",
+    "visualization",
+    "metrics",
+    "dashboard"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3536,
+      "sha256": "c8c5802893a1bd516d7da3de54f62c4bf1ecbb44416995b16905d9f939313b73"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5858,
+      "sha256": "60bf73080b63d91959af356c3601fdda67bcc8f0acf958179090086520ce9bf9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6718,
+      "sha256": "9071043fdee360a12edcc963c8e08fb477f71f5823cd442be75ab6ea2f4a7c93"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

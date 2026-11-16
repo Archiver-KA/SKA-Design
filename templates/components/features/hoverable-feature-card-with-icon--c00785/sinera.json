@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00785",
+  "title": "Hoverable Feature Card with Icon",
+  "summary": "Tailwind card displaying a step number, moon icon, heading and subtext. Colors shift on hover via group classes, ideal for feature lists, service highlights or onboarding steps.",
+  "tags": [
+    "card",
+    "feature",
+    "tailwind",
+    "hover",
+    "icon",
+    "interactive",
+    "info"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2082,
+      "sha256": "e3c36b84170efc50de969f8fdb1a1db48d2fd340616105c504f8838a2495724a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1061,
+      "sha256": "f4d5dc7cac8535309e88a546970dd05025e78c2febe40a092556f3712e33dfd1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2044,
+      "sha256": "6e5d73f79c514404d0a1f6b0976d00467f81ab5e9fe63773ef94b54a588b9d25"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

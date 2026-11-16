@@ -1,0 +1,125 @@
+{
+  "id": "SN-W04318",
+  "title": "Untitled Design",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3680,
+      "sha256": "2c518851b88aeb39d382bec579cf298bfbf3b9625fa994cb5db1e4313d1fcf3e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 38715,
+      "sha256": "d0849c0184460a1e7aeac6c6bbc48ab6cc7024f9c5cb0d6600ea97033d193c25"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 3301,
+      "sha256": "40775e6d48ad9f4ebd6079a700820e2b927b81027281b4973d11bc7329cfdbfa"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "4347074cfed7073582afe53a9ba97503ba5d83998dc15623635a625134175b8b"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 532,
+      "sha256": "70e9d874d2430db97856dd88365e2a1b2faf807f0e9123d721c53f1cb53108da"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 450,
+      "sha256": "6b261a8481e96b9e95181bef802c5cb2a863b5ad91d3cca81317bbcd785ddb6b"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 468,
+      "sha256": "ce4832565313242b7c32052d68b6bc7a63a32513f11de3b419c40a7654d280a5"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 577,
+      "sha256": "0aa8f4ca0d2e63ebf836716432e5e75f36f6e578352b28fdfe4d24a9ea96ef46"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 266,
+      "sha256": "d2e03a189d9b14e6ed63a2ea2d42f77b3eef9a36a75194d74f80afbac6a9580d"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 306,
+      "sha256": "59154d2345f674772da2188e0287290f7b0cf67dd796b9c483d2e5e05f51aa39"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 270,
+      "sha256": "030c8c882656ac58db6aeecdd2f37a8683a6420ea57d37f689bdd2a64bf7dae0"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 977,
+      "sha256": "b70713039b3907ebe8dd9e4a27aa5c2d49c0fcca710f2fa13dc80700c29d3041"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 337,
+      "sha256": "465dea87e95d63bff721f3a2bb754e4610a788e541e1df526c12389612da8e85"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 309,
+      "sha256": "2c2d9d8cbebee47df41b54603f2b7fdc19d82000caaf5fa0b12c8e2e7b11daa1"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 245,
+      "sha256": "1e342ce807e47b8cce7a08c88e89caf3b965110403a537b57200b747014fae92"
+    },
+    {
+      "path": "images/embedded/embedded-0013.svg",
+      "bytes": 244,
+      "sha256": "734d86606611fa1bb9282040d0cf42ee5be46ace69abbcce54f6408dd3b1d603"
+    },
+    {
+      "path": "index.html",
+      "bytes": 86696,
+      "sha256": "76b44fe371deac5ba51818202b2c242ed20680890b420cf4a8340fa6f27b81db"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "features",
+    "gallery-portfolio",
+    "footer",
+    "auth-form",
+    "contact-form"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

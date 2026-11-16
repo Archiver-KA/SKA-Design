@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00869",
+  "title": "Responsive Services Accordion Section",
+  "summary": "Tailwind-styled section featuring a header and an interactive accordion list of services. Each item expands via native details/summary, showing images, tags, and a CTA button. Ideal for agency landing pages, product sites, or SaaS feature showcases.",
+  "tags": [
+    "accordion",
+    "list",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "services",
+    "cta",
+    "landing-page"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 17694,
+      "sha256": "cee4285fd1e76094e874f046238753a17577ee412195ab0f8bb322cd428a4ee1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9956,
+      "sha256": "6d0e4fae4a42018938a1cc0e2ea3d1b499dc79233b9d1b99349c56f6481d709e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10944,
+      "sha256": "0b8a7c5b0ce3d88099615bf670230b84b2886bf52abd319f7f73413bce16bdfe"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "SN-W00442",
+  "title": "Hiring OS Landing Page Template",
+  "summary": "A reusable landing page template for AI-powered hiring platforms and recruitment operating systems that need to showcase process, proof, and conversion.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "AI recruiting",
+    "HR tech",
+    "SaaS"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3751,
+      "sha256": "af0996419062fc4d971f9894d6a6ba2b7331f00ec02028dcce6132d134bddb2d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17168,
+      "sha256": "66bd05e18ec2c9c1535a136b7953c87b9f8de2db6271a4256f59ae4bb94d5565"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "a63f6b1fa9e4c32dc67deba4c021092364b6957eff82a36bfe0cef0bf0225abe"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39069,
+      "sha256": "9bd99a6cf6ab87730d4730b4f92d08cdefd01cebaac0480114b6369846fb9e5a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "team",
+    "how-it-works",
+    "stats",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

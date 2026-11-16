@@ -1,0 +1,64 @@
+{
+  "id": "SN-W01150",
+  "title": "Etevila Premium E-commerce Template",
+  "summary": "Garden-house e-commerce landing page with a product mosaic hero, category tiles, filterable bestsellers, a size comparison table, delivery steps and FAQ.",
+  "tags": [
+    "E-commerce",
+    "Landing Page",
+    "Real Estate",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Grid",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3020,
+      "sha256": "0860b5ac97b153027708d867f0317aa7ce6c2cd78d617f1029c2a3e2a3455f6d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9732,
+      "sha256": "1adb2c9be77ab08227fcb5da556dbe0fee732739af246b0c8863b348ffe77fcc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 807,
+      "sha256": "48a23df2dd34c93e1700113ccc9822ca1ab303c244196d24e0eff9da14bb380c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19609,
+      "sha256": "9bd6827c46525decef3e59426b0e1add50b96ef9597b8e20b59a86664520a72e"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "rebuilt",
+    "issues": [],
+    "rendered": true
+  },
+  "language": "fr",
+  "designSystem": "sinera-atlas@1.0.0",
+  "design": "DESIGN.md"
+}

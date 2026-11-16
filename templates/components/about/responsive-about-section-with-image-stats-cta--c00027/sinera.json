@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00027",
+  "title": "Responsive About Section with Image, Stats & CTA",
+  "summary": "Responsive Tailwind about/profile section featuring hero image, descriptive copy, focus area badges, client list, numeric stats, learning highlight, and call-to-action. Ideal for personal portfolios or company About pages.",
+  "tags": [
+    "about section",
+    "profile",
+    "tailwind",
+    "responsive",
+    "stats",
+    "cta",
+    "portfolio",
+    "grid"
+  ],
+  "kind": "components",
+  "category": "about",
+  "categoryLabel": "About & team",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 42714,
+      "sha256": "4792ebaccac192f9df63f024689872fef1ba6d40caa8e016fe4780a9099ddf62"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3489,
+      "sha256": "1e8f436af736acab924c58bb83bc5b7d9a16a8dab7edffcf7c5942cb89e06995"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4362,
+      "sha256": "e2b5299695d249d771d96ac7ded56c94da37c6a408d378c7c1b8d6eb95a870d9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

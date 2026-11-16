@@ -1,0 +1,77 @@
+{
+  "id": "SN-W02893",
+  "title": "Fine Dining Restaurant Landing Page Template",
+  "summary": "A cinematic fine dining restaurant landing page template for showcasing menus, ambience, reviews, and reservations with a dark luxury aesthetic.",
+  "tags": [
+    "Food",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Restaurant",
+    "Fine Dining",
+    "Luxury"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3953,
+      "sha256": "28c4100993afeba9f4b5726fb9504024c3e22dfe4b2fff641b50f3dc11a9cbb9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9814,
+      "sha256": "cbba7e8c097f419863d4fbaffe9d233d26dfc222619525dd14d22feaad6921ce"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1073,
+      "sha256": "e4a3c244c933cca5eeca58cc0dce3bbf4702241b82fc2a58582b22439869238c"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 206,
+      "sha256": "23f8760cb524faf96dedae06c15b5cab5ed6b5d9093cac9a9441cf601de59d75"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37059,
+      "sha256": "fd7043c693ec29ef2089f0cc360d8202c57e98011f4b619f92a87348ba4859c9"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "menu-list",
+    "testimonials",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01409",
+  "title": "Immersive WebGL Hero with Three-Panel Layout",
+  "summary": "A full-screen futuristic hero section featuring a three-panel editorial layout, animated title reveal, GSAP scroll transitions, and Three.js WebGL effects including a drifting grid, particle globe, and procedural dither background. Built with Tailwind CSS.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "threejs",
+    "gsap",
+    "webgl",
+    "animated",
+    "fullscreen"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 37496,
+      "sha256": "316667f34be2b7b7efdb8314435c6b0cc92a5d24eff36925604b315a3324185e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10689,
+      "sha256": "55fbadf579500fd92035e72bc78e6813391bb160ce191f33ac695a02f2a38d8c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

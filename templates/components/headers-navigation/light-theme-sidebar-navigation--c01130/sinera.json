@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01130",
+  "title": "Light Theme Sidebar Navigation",
+  "summary": "Clean light-themed sidebar with header, navigation, stats cards, connected apps list, and status footer. Ideal for modern admin interfaces.",
+  "tags": [
+    "sidebar",
+    "light-theme",
+    "navigation",
+    "dashboard",
+    "integration",
+    "responsive",
+    "user-profile"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9842,
+      "sha256": "91ef796acdc4f8bd43e9314a7551ca5e83870a9540b5ce73e83171caf0812387"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10216,
+      "sha256": "50b3d52449b9c509d21c523a51eaed5b21a672e6936a91913610cb9a2dae800a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11067,
+      "sha256": "c16a5665e2d62a3821b97bc48cf7466f550c42f003e76ebbb2c4617a8fba9074"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

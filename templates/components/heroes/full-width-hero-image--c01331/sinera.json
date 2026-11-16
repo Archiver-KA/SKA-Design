@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01331",
+  "title": "Full Width Hero Image",
+  "summary": "A full-width hero image component with overlay text capability. Perfect for headers, banners, or feature sections showcasing large format photography.",
+  "tags": [
+    "hero",
+    "image",
+    "banner",
+    "fullwidth",
+    "overlay"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 33984,
+      "sha256": "3c9c7fee21879f4a3c4da5cf0477147290b12c95ed43d634f3d8d969181808c5"
+    },
+    {
+      "path": "component.html",
+      "bytes": 560,
+      "sha256": "99fe0ac1574e4a3a9588b9896f980d7e8f1140df303a0f693a373fc6bd7aa384"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1402,
+      "sha256": "f90ec875fde0ea61556a16c38ac3a320e4035d894983bf37a7270b3895d07520"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

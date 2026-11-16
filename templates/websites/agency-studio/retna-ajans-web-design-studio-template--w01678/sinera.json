@@ -1,0 +1,64 @@
+{
+  "id": "SN-W01678",
+  "title": "Retna Ajans Web Design Studio Template",
+  "summary": "A modern, conversion-focused landing page template designed for web design agencies and digital studios to showcase portfolios and offer site audits.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Portfolio",
+    "Clean",
+    "Minimal",
+    "Grid",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3968,
+      "sha256": "01632ba8500b4268a7b49f3e83aea697a1bf279125b4658a336a35484ea97f12"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19712,
+      "sha256": "07256ca10c4bef5d0ebca8268b71703f8a6890b0eeb059bb74137d4b1b38e7d2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 732,
+      "sha256": "2905e63bf37802f3b2acf8c7dbdfd12dec795d981126ae2b1fa84128250de083"
+    },
+    {
+      "path": "index.html",
+      "bytes": 78524,
+      "sha256": "068c45ca8a72aee7edf47cfed5fd7df3e069b96a29e380123636703d05fdc169"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "faq",
+    "features",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

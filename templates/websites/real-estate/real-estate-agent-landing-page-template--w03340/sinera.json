@@ -1,0 +1,79 @@
+{
+  "id": "SN-W03340",
+  "title": "Real Estate Agent Landing Page Template",
+  "summary": "A premium real estate agent landing page template for showcasing listings, services, and local expertise to convert visitors into consultations.",
+  "tags": [
+    "Landing Page",
+    "Real Estate",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3625,
+      "sha256": "5365b9bc34d40225876ab7f50148c7f8ca97977dced7330bd0b9961078cb36b4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15418,
+      "sha256": "798db3defab94b4aeed60a05ef6891173452302283ea6ef882bf5345d12ca8f7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 883,
+      "sha256": "4fb8461bd3073e40b2a560ebbd70e9c844ac0b7b20ce94e1d7430e0a2859e0ea"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 150,
+      "sha256": "d55bb55288c1d1b3585ad94e01ca194d1741871e7bf5f3a1321c0c65760a553e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 50764,
+      "sha256": "9dcbe66984b9c4d54e276ddea8d6ec2a9b224744edb411aa2483ff2c7c5e8757"
+    },
+    {
+      "path": "sinera-fx-filter.js",
+      "bytes": 20821,
+      "sha256": "6b5f074b7d846e3a404deda089c33986eb540d0c5cd8c1c0730e314b4c68c287"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "sidebar",
+    "hero",
+    "listings",
+    "about",
+    "services",
+    "pricing",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

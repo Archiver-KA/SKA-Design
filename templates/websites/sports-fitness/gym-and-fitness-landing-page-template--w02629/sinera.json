@@ -1,0 +1,80 @@
+{
+  "id": "SN-W02629",
+  "title": "Gym & Fitness Landing Page Template",
+  "summary": "A modern dark-mode gym and fitness studio landing page template for performance-focused brands to showcase programs, coaches, pricing, and memberships.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Fitness",
+    "Gym",
+    "Health"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3876,
+      "sha256": "22b2c70a9ebaae4dddb06f73da6bcadd2d879aaa26b5f33bb7a9b47fefc921e0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 23134,
+      "sha256": "b140a8d105d62d379c529c8329892678846a92bfd1a798fa3f32d6ada512b9c8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 954,
+      "sha256": "e3e46229ce226eabe88a7d1637e71f78dc56266a8fcdf7f285b34d074ad1b2d9"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 322,
+      "sha256": "d06420989242513a24752efe22d34b801212380d7e1c2be2852abccf6d79893d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 57102,
+      "sha256": "db781a93f8a708a99e641779c465c4dbbabdc01e68eebaefc25a7d0203c97599"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "team",
+    "about",
+    "services",
+    "pricing",
+    "gallery-portfolio",
+    "blog-articles",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "broken-images"
+    ],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

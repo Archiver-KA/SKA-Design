@@ -1,0 +1,38 @@
+<svg class="w-full h-full" viewBox="0 0 600 100" preserveAspectRatio="xMidYMid meet">
+                    <defs>
+                      <marker id="arrow-head" markerWidth="4" markerHeight="4" refX="2" refY="2" orient="auto">
+                        <path d="M0,0 L4,2 L0,4" fill="#111"></path>
+                      </marker>
+                    </defs>
+                    <!-- Base path (faint) -->
+                    <path d="M20,50 C100,50 120,20 200,20 C280,20 300,80 380,80 C460,80 480,50 560,50" fill="none" stroke="#E5E5E5" stroke-width="1.5" stroke-dasharray="4 4"></path>
+
+                    <!-- Animated Path -->
+                    <path d="M20,50 C100,50 120,20 200,20 C280,20 300,80 380,80 C460,80 480,50 560,50" fill="none" stroke="#111" stroke-width="1.5" stroke-dasharray="600" stroke-dashoffset="600" class="transition-all duration-[1500ms] ease-in-out group-hover:stroke-dashoffset-0" marker-end="url(#arrow-head)"></path>
+
+                    <!-- Nodes -->
+                    <g class="transition-all duration-500 delay-0 opacity-100 group-hover:scale-110 origin-center">
+                      <circle cx="20" cy="50" r="4" fill="#111"></circle>
+                      <text x="20" y="70" text-anchor="middle" class="text-[8px] font-mono fill-subtle opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        INPUT
+                      </text>
+                    </g>
+                    <g class="transition-all duration-500 delay-[400ms] opacity-50 scale-75 group-hover:opacity-100 group-hover:scale-100 origin-center">
+                      <circle cx="200" cy="20" r="4" fill="#fff" stroke="#111" stroke-width="1.5"></circle>
+                      <text x="200" y="40" text-anchor="middle" class="text-[8px] font-mono fill-subtle opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        LOGIC A
+                      </text>
+                    </g>
+                    <g class="transition-all duration-500 delay-[800ms] opacity-50 scale-75 group-hover:opacity-100 group-hover:scale-100 origin-center">
+                      <circle cx="380" cy="80" r="4" fill="#fff" stroke="#111" stroke-width="1.5"></circle>
+                      <text x="380" y="100" text-anchor="middle" class="text-[8px] font-mono fill-subtle opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        LOGIC B
+                      </text>
+                    </g>
+                    <g class="transition-all duration-500 delay-[1200ms] opacity-50 scale-75 group-hover:opacity-100 group-hover:scale-100 origin-center">
+                      <circle cx="560" cy="50" r="4" fill="#111"></circle>
+                      <text x="560" y="70" text-anchor="middle" class="text-[8px] font-mono fill-obsidian font-bold opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        RESULT
+                      </text>
+                    </g>
+                  </svg>

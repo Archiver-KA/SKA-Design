@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00914",
+  "title": "Three-Step Deployment Feature Section",
+  "summary": "A dark, glassmorphism-style Tailwind feature section showcasing a three-step deployment workflow with numbered cards, status indicators, and interactive hover states. Ideal for SaaS, security, or infrastructure product landing pages.",
+  "tags": [
+    "feature",
+    "section",
+    "tailwind",
+    "glassmorphism",
+    "workflow",
+    "saas",
+    "responsive",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18944,
+      "sha256": "5a35d93fc6c6f09da372f4824e3727fd742845eff24f5f09ef802c789d523a0a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6283,
+      "sha256": "410166adaf9289c730a03d1dc0839ddb14ba0386cf7116552dc597229d5816bc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7141,
+      "sha256": "3fc8f759a707dda4f04512d806653a032a57eee32e05825ff8a0312ef3159610"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

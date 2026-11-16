@@ -1,0 +1,62 @@
+{
+  "id": "SN-W00046",
+  "title": "AI Automation Cohort Landing Page Template",
+  "summary": "This reusable landing page template is designed for promoting AI automation training programs, ideal for showcasing course features and capturing user sign-ups.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "Features",
+    "Email Capture",
+    "Curriculum",
+    "Animation",
+    "Tailwind CSS",
+    "AI",
+    "Automation",
+    "Enrollment"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3550,
+      "sha256": "503b4da9d569c9406d94a9df5e7578dd88d9ad232236d4f9ca0c044cd488503b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13384,
+      "sha256": "69a736920e2f50743edbf51121d73f0648c308fdbcc2f40382640aadcc0a7de7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "81e212ffec39cc9b65a408a36c82f452ebe2785eed0c7cd0e7b7ef5bae76bc69"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14630,
+      "sha256": "54a07ae6343074d78b1fc82732b1923dc67ee7ad333e8a2fcc4403bb3c208076"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "how-it-works"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

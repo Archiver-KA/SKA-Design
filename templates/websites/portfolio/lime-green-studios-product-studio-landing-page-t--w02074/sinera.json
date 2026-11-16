@@ -1,0 +1,73 @@
+{
+  "id": "SN-W02074",
+  "title": "Lime Green Studios Product Studio Landing Page Template",
+  "summary": "A dark, design-first product studio landing page template for agencies or studios showcasing mobile, AI, and SaaS work, services, process, and testimonials.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Portfolio",
+    "Art & Design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3338,
+      "sha256": "2502066ecbcc63cb2cfa2e74f1c6386cc11777060b36ae3d14cd30cedb8d06b1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3222,
+      "sha256": "ea52c413fd5bfed2079d51dd4ec9d921513667c5f5952a3f6a51dc98af633854"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 826,
+      "sha256": "094a0b1ee19819e28f887b7d9096a436a44eaa0e4933b807227ad6baeb3935c4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 55899,
+      "sha256": "b93b124462767fbb9dc62fe5190f7e06ec717e1bdfc9c8eb2f83444671c74508"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "navbar",
+    "hero",
+    "marquee",
+    "bento-grid",
+    "services",
+    "how-it-works",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

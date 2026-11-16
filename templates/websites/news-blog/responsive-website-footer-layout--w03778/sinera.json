@@ -1,0 +1,79 @@
+{
+  "id": "SN-W03778",
+  "title": "Responsive Website Footer Layout",
+  "summary": "HTML footer with navigation links, newsletter subscription, and social icons styled using Tailwind CSS and custom fonts.",
+  "tags": [
+    "Footer",
+    "Tailwind CSS",
+    "Responsive Design",
+    "Newsletter",
+    "Navigation",
+    "Dark Mode",
+    "Social Icons"
+  ],
+  "kind": "websites",
+  "category": "news-blog",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3243,
+      "sha256": "352a435fe1719b80f8e57d8f18257fa68ca27f74c9b13630c475e34a91987712"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10024,
+      "sha256": "f18ccb1bd9ede7bc37adc38367e4fd3163bdd8942644c91c9e48230b8ddb6d52"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1455,
+      "sha256": "d17560cd56956071971e69938bdf5c3b8889ce3680b47bf5c4740d182a787088"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 528,
+      "sha256": "e3e9fba9acfd13833f06bda9c0ff47963d83aa691549b994812c3fba959c6811"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 540,
+      "sha256": "48c493dc5efeea7d01de42ff8d0307287e21d0d289f586d82a623295a60ee8f2"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 780,
+      "sha256": "7305a84675a2c69eef774fd490363409818164a96708ca7d8e6cf0ed92825ecb"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 308,
+      "sha256": "6ca3f9572a5c4ad8119275f258bb82c7a389db69dffc67dd1f829551b8be2abc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10304,
+      "sha256": "4d843011b3f492696671b7eceb9dd71f202fc5433d1fdf50126c17bd1cf79531"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "content",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Content / News",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "footer",
+  "design": "DESIGN.md"
+}

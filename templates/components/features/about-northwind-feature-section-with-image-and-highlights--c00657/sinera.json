@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00657",
+  "title": "About Northwind Feature Section with Image and Highlights",
+  "summary": "Two-column About section featuring a large product image, headline, supporting copy, gradient CTA button, and three feature highlight cards. Uses Tailwind-style utility classes, subtle animated glow background, and scroll animations for marketing or product overview pages.",
+  "tags": [
+    "feature",
+    "section",
+    "about",
+    "marketing",
+    "landing",
+    "tailwind",
+    "responsive",
+    "animated"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 30756,
+      "sha256": "3834b75030287daee1d5836a6e3fd6b6756a4f3bafa87d7de6e3c80861ee80cb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5127,
+      "sha256": "a380b914a703844546a6c0f2d733b51946d3c22b973d3c4fd8e099883269ee92"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6211,
+      "sha256": "eafbb4fbd239579781c464bea01e11295b4ccd983a6f352abc7efb2a7930f9b9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "SN-C02179",
+  "title": "Product Image Card",
+  "summary": "A product image card with hover effects and shadow styling. Ideal for e-commerce product listings, galleries, or portfolio showcases with interactive feedback.",
+  "tags": [
+    "card",
+    "product",
+    "hover",
+    "animated",
+    "shadow"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10710,
+      "sha256": "483f03799a0844c262b9666584619b1489fee24f55795fd58a2b334bd1f424b0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 387,
+      "sha256": "b3287b7e32393bb370de0a0c5fbdce42f355bc1f2a41768ead9ff8d218c5584d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1226,
+      "sha256": "84bfc7744d36776464ccf6bd62ce81d1be2d7b534e6e390384beb3e2e006d2b1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

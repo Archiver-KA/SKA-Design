@@ -1,0 +1,72 @@
+{
+  "id": "SN-W03794",
+  "title": "Agriculture & Global Export Landing Page Template",
+  "summary": "A high-end, editorial-style landing page template designed for premium agricultural brands and international export businesses.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Minimal",
+    "Clean",
+    "Dark",
+    "Flat",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3348,
+      "sha256": "a340380be0d4c0a866feb2edeeb510173d17a4e98042a561f628b1b32a8abde9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 27176,
+      "sha256": "87d444ff9fea34c10bbb30d7201ee5e9f41b2e3e5306ed56eb6aaea3dbbb4154"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 967,
+      "sha256": "0e55559e0200993f6297b1e4f2056339481bd77cd20cc2239de26446d81b0760"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "2b07fd6bdb9fac52f5f7f1f19b01f6f4bfcd81cd9ca7dd79c7b5e95042ef659a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29614,
+      "sha256": "83de905d39c74e692de89a7dcb23431101981679b0ec54cdf831b511d66fa2d2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "product-grid",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

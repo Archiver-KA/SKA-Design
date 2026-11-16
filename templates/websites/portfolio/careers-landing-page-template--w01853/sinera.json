@@ -1,0 +1,69 @@
+{
+  "id": "SN-W01853",
+  "title": "Careers Landing Page Template",
+  "summary": "A modern careers landing page template for showcasing company culture, open roles, and global locations to attract top talent.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Technology",
+    "Services",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3496,
+      "sha256": "53c7377f61dce808c8ca014b2c1386963d7e763087feda50566d323f03b92615"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11994,
+      "sha256": "10d3d31b4f9936ddcb1a6fb701c406222b71d186a3bbf722d8bfb0eb07c239a9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 862,
+      "sha256": "2f3959ec885fab501b228a9f401aacf40e621be73e8ef7f1d36c37a4e2182944"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 517,
+      "sha256": "5834f6797b4f4d3784e4ccd1a6b6073ff4ff14532ac42aed513a5948508fc527"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22030,
+      "sha256": "4c66acf7faf48f6430e3202ddbf807b033fa2ddf77b5ebed49d793850f391e25"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "product-grid",
+    "schedule-agenda",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

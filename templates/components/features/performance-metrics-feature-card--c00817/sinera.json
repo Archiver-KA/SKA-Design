@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00817",
+  "title": "Performance Metrics Feature Card",
+  "summary": "Dark-themed card presenting Lighthouse scores for performance, best practices and SEO with animated circular badges, edge-optimized label and link to examples. Uses Tailwind CSS utilities for responsive, modern UIs.",
+  "tags": [
+    "card",
+    "stats",
+    "tailwind",
+    "lighthouse",
+    "performance",
+    "badge",
+    "responsive",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15806,
+      "sha256": "3bea134815fe4cbb950a607bfcd703761d11a6939145000153d2886951cead1c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3254,
+      "sha256": "82139934c9a4d3833b7f48861c3ffc86c25399ccc4e685c88b3ce9d55a9ae108"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4237,
+      "sha256": "a5ad3a03283dafb790ecf6ce4f3ab41d6880c6be62768517bb5cb7c90a5d83b0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

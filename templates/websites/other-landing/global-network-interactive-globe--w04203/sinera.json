@@ -1,0 +1,58 @@
+{
+  "id": "SN-W04203",
+  "title": "Global Network Interactive Globe",
+  "summary": "Interactive 3D globe visualizing global network locations with animated UI and location markers highlighting key offices and partners.",
+  "tags": [
+    "Interactive Globe",
+    "Network Visualization",
+    "Tailwind CSS",
+    "3D Canvas",
+    "Animation",
+    "Location Markers"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3266,
+      "sha256": "8df04d98db4b1a9410619b5b4c10b874442f3842ee91dc1d0c952d9268fa288d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13042,
+      "sha256": "8c1261584cf8f4259e25b8650f1d173d3b8a32c3754e1d6b8c1d100287ca7474"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "4e6125955466a48731dd945132cfe4800f61b1d25265b3021f2c296a93b6d818"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5719,
+      "sha256": "dc26fea86a6ff128be987d08014becc1cebde2b912f09bae245f0cc3d6dfba51"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "3d-canvas"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

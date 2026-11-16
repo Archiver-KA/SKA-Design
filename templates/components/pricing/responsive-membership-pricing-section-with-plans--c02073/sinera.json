@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02073",
+  "title": "Responsive Membership Pricing Section with Plans",
+  "summary": "Tailwind-styled section showcasing membership benefits and two subscription plans (monthly & annual) with feature lists and CTA buttons. Fully responsive grid ideal for SaaS, gaming, or subscription sites needing a clean pricing display.",
+  "tags": [
+    "pricing",
+    "membership",
+    "plans",
+    "cta",
+    "tailwindcss",
+    "responsive",
+    "section",
+    "html"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19390,
+      "sha256": "b50a058bdbc221358fe785e3eb0e2cf715fd87b562c6ec9e41b040eef065a600"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10567,
+      "sha256": "dab16a3326f261502929e017e4ab6d34b5864babca3c77f08781f2722a8c84ce"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11566,
+      "sha256": "a23d8946e87c711d30f59cdb8f526babba24b4ae30c6a149827aebee80b1f5d1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "SN-W03231",
+  "title": "darHAYA Architectural  Landing",
+  "summary": "A high-end, cinematic landing page template for architectural firms and interior design studios featuring smooth animations and project showcases.",
+  "tags": [
+    "Real Estate",
+    "Interior Design",
+    "Portfolio",
+    "Clean",
+    "Dark",
+    "Large Type",
+    "Minimal",
+    "Services",
+    "Technology",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3070,
+      "sha256": "c6c0a522f6c8a977271298a88b89bf16e4c1e7285685fc95e38e46bfe90c1ebd"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 32238,
+      "sha256": "e08e064f425283887e35a97c484bee86861fe7ea61a97e35fbce53baeba239bb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 943,
+      "sha256": "470a43921d5f262903bcd74f8ac5a9a8378c9634bfe25699603130bdeab24a0d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 247,
+      "sha256": "85791ee945991c444e4e42c2543c879ee4c345081c89604900e620caeacda5cb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 79532,
+      "sha256": "2b1a3eca9c0cdd858d552cf67827c93fdaa3c9e093177d63ee9c4f020bb79283"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "case-studies",
+    "features",
+    "testimonials",
+    "awards-press",
+    "how-it-works",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

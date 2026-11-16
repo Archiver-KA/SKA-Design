@@ -1,0 +1,77 @@
+{
+  "id": "SN-W00963",
+  "title": "Fintech SaaS Landing Page Template",
+  "summary": "A reusable landing page template for payment, billing, and checkout platforms targeting internet businesses and SaaS founders.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Dark",
+    "Clean",
+    "Futuristic",
+    "SaaS",
+    "Fintech",
+    "Payments",
+    "Billing"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3758,
+      "sha256": "d27d4b3a475f61b6977c8005e024a34ed3b09202bcf58a2fa2ac29b669561bda"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 23234,
+      "sha256": "8725a7ebc45e5439a8e54f81d71a6ee77ea1086599efbdd01714f595b060632d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 948,
+      "sha256": "5c703cf01ab1ba074527b78aa1525c86da6b2a198544c64fc5e3df0fa87fb499"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 407,
+      "sha256": "271d3f43413372fefadfed2c9809204e88a21110658ad8cb60a325a2d6c2775e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 43485,
+      "sha256": "cf5025115a82477343398a1b567af6a6d73d74169e04cb6a0df820c65d1af0cb"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "gallery-portfolio",
+    "features",
+    "pricing",
+    "team",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

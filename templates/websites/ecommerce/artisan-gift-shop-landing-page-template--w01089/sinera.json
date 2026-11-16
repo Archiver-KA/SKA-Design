@@ -1,0 +1,75 @@
+{
+  "id": "SN-W01089",
+  "title": "Artisan Gift Shop Landing Page Template",
+  "summary": "A reusable landing page template for artisan gift shops and local boutiques to showcase handcrafted collections, community roots, and in-store visits.",
+  "tags": [
+    "E-commerce",
+    "Landing Page",
+    "Art & Design",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Local artisans",
+    "Gift shop",
+    "Handmade"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3399,
+      "sha256": "a7236b0219f9b128e6482c26033c0965a765fa651fc11f81502ec77594ceb205"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 27306,
+      "sha256": "ed20afb490974546915305f08fefd50984ab1af7e7a54940c0eaea4ec61f352b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1152,
+      "sha256": "a2d13753eafd681609a4c86bd062a57ecb75f0b1d188585f232f2f1d794cfef0"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 417,
+      "sha256": "bab63d409dc1a682b3ebf60ffa25337f05893f39f88ee5f4f2ef7101b333e2c2"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 295,
+      "sha256": "a79abe11422081cab8d96ebe55d570e58bcec78f14e7a70ec36e5371a959ce60"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38026,
+      "sha256": "b0b38de4e8f1869db9267e8b6600d156732931465f57208d8887aeda765bc6ac"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "cta",
+    "product-grid",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

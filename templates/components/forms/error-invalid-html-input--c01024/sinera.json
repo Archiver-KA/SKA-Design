@@ -1,0 +1,40 @@
+{
+  "id": "SN-C01024",
+  "title": "Error: Invalid HTML Input",
+  "summary": "The provided input is a Figma URL, not HTML code. Please provide actual HTML code for component extraction and analysis.",
+  "tags": [
+    "card",
+    "error",
+    "message",
+    "centered"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6002,
+      "sha256": "9b6b70394b371ee75cf7c3311c88da257e3ee2894d37836a1fa44d9877f0e4ef"
+    },
+    {
+      "path": "component.html",
+      "bytes": 722,
+      "sha256": "7a6b468d04ed19a2df80e128c1f47d07665521a1e23181a70f3d92489956fcf3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1568,
+      "sha256": "7b693193ba2012e3b2d6cc6c6dd1a08df4e7143dd7e22c4645e2a9bf61996a04"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

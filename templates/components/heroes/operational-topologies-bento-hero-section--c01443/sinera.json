@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01443",
+  "title": "Operational Topologies Bento Hero Section",
+  "summary": "Dark, futuristic hero section with a Three.js animated WebGL background, GSAP word-reveal heading, CTA, and responsive bento-grid feature cards. Built with Tailwind CSS for landing pages, product showcases, or consulting sites.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "threejs",
+    "gsap",
+    "bento",
+    "animated",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13326,
+      "sha256": "5b4825269b97f26ebaba2cdd4c348549cd22246bb25917084320eafb8aed9c95"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19813,
+      "sha256": "c2d03657ae4eef319ee86b739d6edae6b9f9a1d41275c29ff3790f557d933d1d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

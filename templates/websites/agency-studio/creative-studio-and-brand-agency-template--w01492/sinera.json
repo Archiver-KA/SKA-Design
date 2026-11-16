@@ -1,0 +1,79 @@
+{
+  "id": "SN-W01492",
+  "title": "Creative Studio & Brand Agency Template",
+  "summary": "A sophisticated, high-performance studio template for independent creators and agencies focusing on identity systems, motion design, and digital experiences.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Portfolio",
+    "Brand",
+    "Minimal",
+    "Dark",
+    "Animated",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3194,
+      "sha256": "1130b4c8624417fa4a5d767045fbaa93794b7e6175bca7e2efea7aa01c9d606c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9488,
+      "sha256": "ddbc0a149aae0b08487c2f35dd2a513974bc3b8de7a4816d0aaeff297332b568"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 956,
+      "sha256": "62311db9ae681a937fd45d06a166cde6ef745dae67f5230e1bff82cfa8f5df39"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 247,
+      "sha256": "85791ee945991c444e4e42c2543c879ee4c345081c89604900e620caeacda5cb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 69691,
+      "sha256": "80e1f1158f52042ed68c640694f6fe44563e466fef24d71ec1c6b0602915f48a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "case-studies",
+    "features",
+    "product-grid",
+    "testimonials",
+    "gallery-portfolio",
+    "cta",
+    "stats",
+    "blog-articles",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

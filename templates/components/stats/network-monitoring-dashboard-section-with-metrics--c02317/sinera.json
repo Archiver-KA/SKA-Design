@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02317",
+  "title": "Network Monitoring Dashboard Section with Metrics",
+  "summary": "Responsive three-column dashboard section showcasing real-time network status, performance metrics, and an overview callout. Built with Tailwind CSS, it features gradient overlays, background images, and icon cards—ideal for SaaS monitoring or analytics landing pages.",
+  "tags": [
+    "dashboard",
+    "monitoring",
+    "stats",
+    "tailwind",
+    "responsive",
+    "analytics",
+    "hero",
+    "grid"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 39660,
+      "sha256": "22c9c010b1ac2fec2a61ad0b387a49a58602e2c03fca5300ad816074ac81ee43"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11225,
+      "sha256": "9cc9379a44c64c969f9f62a62ab78d8835c70ff051717a5aed45317cb369b55f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12095,
+      "sha256": "d554383a467d71e0aff4fb11a089e2ea75d112f4c1706acf7eb74cdec4648c28"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

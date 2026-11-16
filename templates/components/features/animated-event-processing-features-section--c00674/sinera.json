@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00674",
+  "title": "Animated Event Processing Features Section",
+  "summary": "A full-width Tailwind CSS feature section showcasing webhook ingestion and internal event routing with animated SVG diagrams, hover effects, and technical benefit lists. Ideal for SaaS, infrastructure, or developer platform landing pages.",
+  "tags": [
+    "feature",
+    "section",
+    "tailwind",
+    "animated",
+    "svg",
+    "saas",
+    "responsive",
+    "developer"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 28812,
+      "sha256": "946a84240681864ca40a77d7d013e1f1daec6f6f47874038f2962df173041544"
+    },
+    {
+      "path": "component.html",
+      "bytes": 14250,
+      "sha256": "3101abfc80a954c9603772283cd178c29510f85bdd0f4ab0e785e41ec196fe40"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15113,
+      "sha256": "01f96e9d208258f2f344491252d3d5ecfe01cb7987a344414c5a452fdb6bddbe"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

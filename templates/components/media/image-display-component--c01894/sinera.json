@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01894",
+  "title": "Image Display Component",
+  "summary": "A responsive image component that displays a single image from a CDN URL. Perfect for product photos, hero images, or gallery items with automatic sizing and aspect ratio handling.",
+  "tags": [
+    "card",
+    "image",
+    "responsive",
+    "modern",
+    "shadow"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22434,
+      "sha256": "5583bbba5aba1cf8e628292486dd5ef67c6cc731f92d90b1c25c66a4cf876bb6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 251,
+      "sha256": "84a9e1314ddd6104b756c6b023ad213860f61b82e70835deec2370dbee9dc8c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1095,
+      "sha256": "ca074ca4370b82fdfe9b35f2351cac1588c8eaa5396d1c213068569051ecfa5e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

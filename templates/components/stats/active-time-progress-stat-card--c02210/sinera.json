@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02210",
+  "title": "Active Time Progress Stat Card",
+  "summary": "Tailwind-styled card showing activity status with icon, current minutes, gradient progress bar, percentage, and goal text—ideal for dashboards, fitness or productivity trackers.",
+  "tags": [
+    "card",
+    "statistic",
+    "progress bar",
+    "tailwind",
+    "dashboard",
+    "fitness",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4436,
+      "sha256": "7c0bda7e3859361f36296d52e3b447146b7d36ea28f5812635c66b8691416c2a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1409,
+      "sha256": "79f4397275c8c26a4d93e67b4e07dbbbe426a2e708dd8589607d1b766da58728"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2390,
+      "sha256": "7f597ec8465254cb679d8122e4693fc51e03c7c24503b5b327b9cbdd33fb44bf"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

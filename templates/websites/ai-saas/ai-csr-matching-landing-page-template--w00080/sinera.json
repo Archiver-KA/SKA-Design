@@ -1,0 +1,68 @@
+{
+  "id": "SN-W00080",
+  "title": "AI CSR Matching Landing Page Template",
+  "summary": "A reusable landing page template for AI-powered CSR and NGO matchmaking platforms that helps showcase verified projects, smart matching, and partnership workflows.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Non-profit",
+    "Services",
+    "Clean",
+    "Minimal",
+    "AI",
+    "CSR",
+    "NGO",
+    "Marketplace"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3820,
+      "sha256": "3f4c420f2ad5d42007c5e4fed122c678849fb2910812ae00a2599a56ffe41ae2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19638,
+      "sha256": "136d5ce663ef6c4253c7a8e0c92687fa280d8cd25146542bb019b0786e902ad9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 731,
+      "sha256": "ff6d3b17171449d14e42fdbdcc19525ec202e9a90ccf9d5ea45ce6ee229d564b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 64870,
+      "sha256": "718062b0ecde1b02eef0fe8a4c4a0d5da849743f902443faff98ef1f3ad69a65"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "how-it-works",
+    "case-studies",
+    "stats",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02022",
+  "title": "Deployment Tiers Pricing Section",
+  "summary": "A dark-themed Tailwind CSS pricing section with three deployment plans, feature lists, highlighted recommended tier, and a billing cycle toggle. Ideal for SaaS, infrastructure, or platform pricing pages.",
+  "tags": [
+    "pricing",
+    "section",
+    "tailwind",
+    "responsive",
+    "dark",
+    "interactive",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20280,
+      "sha256": "80911f65a000fe3d52019d09ef3771c836354a05fd68f55a31a2780d403c8008"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9753,
+      "sha256": "26a81f15f2e26ef779c1c6a7004f15050337652adb78b95e76aabd00c5ce4c8d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10696,
+      "sha256": "67e1e0d9be20160fac07723b32e763cb1e8c2e8203dda1fe27d3c4deaf1c0749"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

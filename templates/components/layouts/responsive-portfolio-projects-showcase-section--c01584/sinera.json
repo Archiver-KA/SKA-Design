@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01584",
+  "title": "Responsive Portfolio Projects Showcase Section",
+  "summary": "Animated Tailwind section that displays recent projects in a two-column grid. Each card includes category badge, title, summary, tech tags, image, and CTA link. Ideal for personal or agency portfolios to highlight case studies.",
+  "tags": [
+    "section",
+    "portfolio",
+    "grid",
+    "tailwind",
+    "responsive",
+    "animated",
+    "showcase"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 50378,
+      "sha256": "a6d5f29a239e3bfd802be9c46a6e8d9d2ec90272d62269a2f8320e61ff2fe322"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5799,
+      "sha256": "ffde37b5ea60f89244b74c61d58e121be057e7b3238a3ac378050ac85e988176"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6666,
+      "sha256": "d3296c941be4d2037dd70ea2bf0c493ab29c1179f9841d3c49efc0c090c76913"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

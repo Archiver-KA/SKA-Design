@@ -1,0 +1,58 @@
+{
+  "id": "SN-W04330",
+  "title": "User Weather Preferences Profile",
+  "summary": "Responsive user profile UI to manage weather-related preferences and notification settings with toggles and icons.",
+  "tags": [
+    "Profile",
+    "Preferences",
+    "Notifications",
+    "Tailwind CSS",
+    "Responsive UI",
+    "Toggle Switches",
+    "Bootstrap Icons"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3022,
+      "sha256": "6c40cc81cb291e79f72cc1deac6112a1017fc97c211571ca8bbf0899931ea990"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7602,
+      "sha256": "c37a59b3d3a0a35aee1f887aec2c4e4337b1f2b81c2d4be57ba259ebbbd72206"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "d28446c0f24886db099d9a669ae9a6739ba11fb53df305c50e2f1b754e0c9d20"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11850,
+      "sha256": "b51f26c9e418aa3280ecdbb11d822d4678b2c56e00061ac7764a8a9a4331f6af"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

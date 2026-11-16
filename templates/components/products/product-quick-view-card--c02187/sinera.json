@@ -1,0 +1,41 @@
+{
+  "id": "SN-C02187",
+  "title": "Product Quick View Card",
+  "summary": "Compact product card with image and quick action overlay. Displays on hover with purchase options for streamlined shopping experiences.",
+  "tags": [
+    "card",
+    "product",
+    "hover",
+    "overlay",
+    "ecommerce"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9548,
+      "sha256": "20ed7f7a76098c1feee28a7fdba3543052f97662f01abd6ef2971ef104ac3f6e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1190,
+      "sha256": "6d69db0214e4591bfef79f617d9a85f41253e99493ceadca0fec85e462f5317b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2034,
+      "sha256": "5e5a579b8ed7b41c95c5e8652257b441ab003f44154410f97f41d1a92de4bb64"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

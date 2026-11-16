@@ -1,0 +1,70 @@
+{
+  "id": "SN-W02899",
+  "title": "Food Delivery Landing Page Template",
+  "summary": "A modern QuickBite food delivery website template for showcasing menus, restaurant partners, and online ordering with cart and checkout flows.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "E-commerce",
+    "Services",
+    "Brand",
+    "Clean",
+    "Colorful",
+    "Minimal",
+    "Large Type",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3966,
+      "sha256": "03afbcdee1bc419c3f57d8e939c7fb91d6920af969a46c91c500d01a2a4e3a2b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 37108,
+      "sha256": "16e291ac3746ab46525ac15444544607f1a15ef5f98e17b934aa736ec2d06e9a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "f6e95f74b452a2b7f810521596bd3adeea9f3e298b7e92446dd8f719a0d687ce"
+    },
+    {
+      "path": "index.html",
+      "bytes": 54403,
+      "sha256": "66933eaa89f99d0f131a9ebc077d010833dad2a562e8939de0edfba73df8a7c3"
+    }
+  ],
+  "collection": "logistics",
+  "collectionCategory": "shipping",
+  "collectionLabel": "Logistics",
+  "collectionCategoryLabel": "Shipping / Delivery",
+  "collectionConfidence": 0.88,
+  "collectionBasis": "business-keywords",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "testimonials",
+    "menu-list",
+    "logo-cloud",
+    "stats",
+    "contact-form",
+    "cart-checkout",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

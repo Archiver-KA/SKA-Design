@@ -1,0 +1,72 @@
+{
+  "id": "SN-W02021",
+  "title": "Full Stack Designer Portfolio Template",
+  "summary": "A dark, animated portfolio template for full stack designers to showcase work, tech stack, and contact details with a cinematic scrolling experience.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Clean",
+    "Dark",
+    "Animated",
+    "Large Type",
+    "Technology",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3795,
+      "sha256": "fff8749d3dc7b275692d80c44c7c5bccd640e216763fb29d6d929d4f31da1fe3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9648,
+      "sha256": "624d8139b2fdae32a9600146014b37dfac57c1c9c41c13026ce0b4d0d58a168a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 871,
+      "sha256": "d9a6873ee671f9b4dcd40923641d4eb635cc71adf9aac65c92bf8afec84ade2f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 327,
+      "sha256": "1d3955b254fde6e51c5308ce4e772d1981ebc5ea229d3edff03bbcf3405aaea0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 47842,
+      "sha256": "1c5c0e10844d48fc37e6b322c9fbb2f3bdf773c1c0f4a91b9274796a3660fd3e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "case-studies",
+    "navbar",
+    "hero",
+    "timeline",
+    "product-grid",
+    "how-it-works",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

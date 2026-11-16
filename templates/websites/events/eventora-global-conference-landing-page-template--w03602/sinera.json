@@ -1,0 +1,90 @@
+{
+  "id": "SN-W03602",
+  "title": "Eventora Global Conference Landing Page Template",
+  "summary": "A bold Eventora-inspired conference landing page template for promoting global events, showcasing speakers, and selling tickets with a modern schedule and FAQ.",
+  "tags": [
+    "Landing Page",
+    "Conference",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Technology",
+    "Services",
+    "Event",
+    "Ticketing"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3792,
+      "sha256": "b2caa8af904fca3cfcd9c5bca00475b74a1afbe328b19c5f00657733a4fd7a0b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14778,
+      "sha256": "2bfaf7b4d0c53181b6096ed3204a20d91f01027cef9ab7966826a20ddea0ca85"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1549,
+      "sha256": "e0014fb1aea9346ffc2d866c7564845f7f6961abe4967417a780549e82535171"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 522,
+      "sha256": "95410556692a465ade8113ae67487048a2b8f5fbd92368f8346f0c865f2f9031"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 482,
+      "sha256": "c69ced4f6968ffd01b52ef39a4a4717a006ec74289a6fa594ff73488a81a7c30"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 519,
+      "sha256": "efdacd4bcd9100ebd7f6a5b029c5c1ce789a7f64e05660a2ae1adf22d1453dc1"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 460,
+      "sha256": "b345f08a61f7ff11d96be892f7c73f2b97aed844ae54016df805cce1df092152"
+    },
+    {
+      "path": "index.html",
+      "bytes": 44258,
+      "sha256": "323e3246874b26d5cf54a7d81858307592893f05f5ac82453d17cb16e4b9b5bd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "marquee",
+    "navbar",
+    "hero",
+    "schedule-agenda",
+    "services",
+    "listings",
+    "team",
+    "features",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

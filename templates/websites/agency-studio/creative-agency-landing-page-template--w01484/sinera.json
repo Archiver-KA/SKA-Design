@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01484",
+  "title": "Creative Agency Landing Page Template",
+  "summary": "A cinematic dark-mode template for digital marketing and creative agencies to showcase services, process, portfolio, and conversion-focused CTAs.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Animated",
+    "Futuristic",
+    "Minimal",
+    "Creative agency"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3824,
+      "sha256": "d1d74c844c428eabcbcaca25b51bea1f936bc2975060281626785fbaf22f6fa6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15450,
+      "sha256": "91f2ca5e00aa6e337ce93286be82526a649ae4d0c0c4763e5f0495771f9a7053"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 876,
+      "sha256": "efa503fe3455ae3c7d89b8630f5b5285e03fc4af4ae08faa2860368ab108865b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 296,
+      "sha256": "37f9a0e881899371fa1c523d73e3e8a1503bbac991945abefb95af90c9e5ed0d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42064,
+      "sha256": "e1bb975c6f710f9d7feb50933fc68867edeebcfcbceaa29bc638acd1d6f9c246"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "how-it-works",
+    "services",
+    "gallery-portfolio",
+    "dashboard-preview",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

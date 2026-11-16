@@ -1,0 +1,94 @@
+{
+  "id": "SN-W02070",
+  "title": "Kuro Storytelling & Portfolio Template",
+  "summary": "An immersive storytelling template featuring interactive 3D WebGL components, GSAP scroll-triggered animations, and a minimalist luxury aesthetic for artisan brands.",
+  "tags": [
+    "Art & Design",
+    "Artist",
+    "Portfolio",
+    "3D",
+    "Animated",
+    "Black & White",
+    "Dark",
+    "Minimal",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3021,
+      "sha256": "ae727038084aba7170b072caff03ebeeee8c779a3b125a2e3128bc1a3269f3ca"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2120,
+      "sha256": "ebb7294d06dc5f514f59d8042daa1057084fc94dd98682b2cd25240181889c1e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1639,
+      "sha256": "5227987806f61b550905cbd7e3fbdae4cff21e492279ef16bdca24fd32112c48"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 207,
+      "sha256": "554dc2ada8375bd142f86fd0d67a2aa7374d357ccf0907b0503228c22e704b35"
+    },
+    {
+      "path": "images/embedded/embedded-0002.jpg",
+      "bytes": 57302,
+      "sha256": "35a4c3f6e8552487fa5fa29caf591b297a09ae42cdc87d2682d4787a4ae2910c"
+    },
+    {
+      "path": "images/embedded/embedded-0003.jpg",
+      "bytes": 66656,
+      "sha256": "84c72fa2696011fe4041926ddd581084c78d36dd354cc063ece20953929755bd"
+    },
+    {
+      "path": "images/embedded/embedded-0004.jpg",
+      "bytes": 81592,
+      "sha256": "107be4b8e694087357f18faff805c11bccce74516a7711db2d0470ccf3050655"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 163,
+      "sha256": "2f8a6708c178e89e0c9f28214b2632dad37083472cce29aca29c2c789779739b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 353044,
+      "sha256": "0a2d99fd6fdc9a0fe656f61cd7b19ff4accf179fb80fcb86386be533d3f69022"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "testimonials",
+    "3d-canvas",
+    "marquee",
+    "cta",
+    "product-grid",
+    "footer",
+    "code-terminal"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

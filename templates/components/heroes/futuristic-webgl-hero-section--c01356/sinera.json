@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01356",
+  "title": "Futuristic WebGL Hero Section",
+  "summary": "A full-screen Tailwind CSS hero with a Three.js animated particle sphere, geometric overlays, branded navigation, and prominent call-to-action buttons. Ideal for AI, tech, networking, or product landing pages with immersive visual storytelling.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "threejs",
+    "webgl",
+    "animated",
+    "landing-page",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 48164,
+      "sha256": "8c8a30f2bf6b4ab0f6adbce624b7abf6ba15dc57d858df2849e28368b152f282"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16131,
+      "sha256": "120edc0feacef25e7ad2a65455c57ab612066266ffc4c89889bda220a25f84a9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

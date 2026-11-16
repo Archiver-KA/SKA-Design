@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01461",
+  "title": "Responsive Gradient Hero Heading",
+  "summary": "A hero section heading featuring responsive font sizes and a gradient-clipped emphasis word. Built with Tailwind CSS utility classes, ideal for landing pages or section headers needing visual impact and scalability across breakpoints.",
+  "tags": [
+    "heading",
+    "typography",
+    "gradient",
+    "responsive",
+    "tailwindcss"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13168,
+      "sha256": "96b4812c579a4b86f48fa42d7dd5af814ee123e2f5853c8db862c895f647b70a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 220,
+      "sha256": "ba68175122604be7388b8eff7f4725af7d48bde7508b59f2213689f8f6bdd35e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1073,
+      "sha256": "6ec97202a0ee5e748d9ecff4860f800eb0393cf0e69d595ffcbac6ffec292881"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

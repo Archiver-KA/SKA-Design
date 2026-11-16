@@ -1,0 +1,39 @@
+{
+  "id": "SN-C02232",
+  "title": "Animated Platform Metrics Dashboard Section",
+  "summary": "A full-width analytics section showcasing platform KPI cards with a clean grid layout, Tailwind CSS styling, Iconify icons, and GSAP scroll-reveal animations. Ideal for SaaS dashboards, status overviews, or product metric highlights.",
+  "tags": [
+    "ui",
+    "dashboard",
+    "metrics",
+    "tailwind",
+    "gsap",
+    "animated",
+    "responsive",
+    "analytics",
+    "section"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12706,
+      "sha256": "557b749177304709783ebd44daf7a63f94db653219c7c154156021edf3f0dd2c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13313,
+      "sha256": "af39f2607cb67beb46f4722836ac31bdf387eca206c4e8e938051e2ec3b0952b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

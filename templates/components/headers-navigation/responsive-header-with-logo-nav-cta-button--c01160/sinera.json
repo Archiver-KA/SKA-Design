@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01160",
+  "title": "Responsive Header with Logo, Nav & CTA Button",
+  "summary": "Tailwind-styled header featuring branded logo, responsive navigation links (hidden on mobile, flex on md+), and an animated \"Subscribe\" call-to-action button. Ideal for websites needing a stylish, branded top bar with primary navigation and signup prompt.",
+  "tags": [
+    "header",
+    "navbar",
+    "navigation",
+    "tailwind",
+    "responsive",
+    "cta",
+    "branding"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4158,
+      "sha256": "7f25e80942178f852489db5b39dc6360807f12e55552a6b31f1e139864eccae0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2260,
+      "sha256": "e2d2e2d4b053d009ef025352128940752cf17a42294d4af901943416b972efc1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3130,
+      "sha256": "2b337a2430f8ba55c306a4875f2f514854acce8fb59068d1d2b6428b132df700"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

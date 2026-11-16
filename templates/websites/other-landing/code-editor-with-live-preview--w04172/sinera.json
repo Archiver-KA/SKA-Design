@@ -1,0 +1,68 @@
+{
+  "id": "SN-W04172",
+  "title": "Code Editor with Live Preview",
+  "summary": "Responsive dual-panel UI showing a code editor with line numbers and a live browser preview of the HTML output.",
+  "tags": [
+    "Code Editor",
+    "Live Preview",
+    "HTML",
+    "Tailwind CSS",
+    "Responsive UI",
+    "Syntax Highlighting"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3192,
+      "sha256": "285b986f90f9ebc092297fd0773313b978066e6fa76266e2019a3992f70fb2cd"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9534,
+      "sha256": "9f24452076ba976b9cb41550d2aa7046a97ec1567e8988f084d7a067c3e8770d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1062,
+      "sha256": "33435c1d4589315a294ebf297cc8ac3b66b827e58d9caa1c2920dfb4bf45d5b9"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 413,
+      "sha256": "a4729b74944229609adfea5b85cb1b507208b53adc2c72e3ded7319e0eb14a4d"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 363,
+      "sha256": "a42122f6cf143dacd28c29657d9dd492f9cba87f76db94a494a49723b3b88429"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6830,
+      "sha256": "80aa4b32922593816c0e22a8a99220ecb261017567f35645464910bb3f7f9051"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "code-terminal",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

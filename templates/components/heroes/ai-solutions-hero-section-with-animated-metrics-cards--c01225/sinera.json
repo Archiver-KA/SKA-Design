@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01225",
+  "title": "AI Solutions Hero Section with Animated Metrics Cards",
+  "summary": "Full-width hero banner featuring 3D background, headline, copy, animated metric cards and client logos. IntersectionObserver triggers fade/slide animations on scroll. Built with Tailwind utility classes; ideal for SaaS or AI product landing pages.",
+  "tags": [
+    "hero-section",
+    "tailwind",
+    "animated",
+    "landing-page",
+    "metrics-cards",
+    "responsive",
+    "intersectionobserver",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 57498,
+      "sha256": "55d6e8731331626198f184b3056630d3965bb21101a373c5d2ab0dd151612381"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13182,
+      "sha256": "f41d75de4dce72e2d2fcc427059a5940f3c18e16a28b1d53087afbe229cc2fbc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14186,
+      "sha256": "6c07219dff1d8be408b6bbcaed9d42b1e5fa2bd6b23118af3b7728d961b8caa1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

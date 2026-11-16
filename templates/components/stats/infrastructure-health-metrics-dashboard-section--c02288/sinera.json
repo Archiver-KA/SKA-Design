@@ -1,0 +1,38 @@
+{
+  "id": "SN-C02288",
+  "title": "Infrastructure Health Metrics Dashboard Section",
+  "summary": "A full-width dark telemetry dashboard section with animated metric cards, live counters, hover spotlight effects, and GSAP entrance animations. Built with Tailwind CSS and Iconify, ideal for SaaS status, infrastructure monitoring, or analytics pages.",
+  "tags": [
+    "ui",
+    "tailwind",
+    "dashboard",
+    "analytics",
+    "animated",
+    "interactive",
+    "dark",
+    "section"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13414,
+      "sha256": "330670b179b5d312bfd706c875563e2c55578e4268aa3549cd0e0f3887f52cee"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18376,
+      "sha256": "a8dcb7a7c101573536f6941240ea0c682045863ec644c0d897cbf3d93b5b8edd"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

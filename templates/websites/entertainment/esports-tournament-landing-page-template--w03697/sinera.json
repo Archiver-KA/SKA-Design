@@ -1,0 +1,72 @@
+{
+  "id": "SN-W03697",
+  "title": "Esports Tournament Landing Page Template",
+  "summary": "A high-performance gaming tournament template for managing sports leagues, team registrations, match schedules, and real-time statistics.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Entertainment",
+    "Style",
+    "Clean",
+    "Animated",
+    "Futuristic",
+    "Dark"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3636,
+      "sha256": "686decdbcd08631fc893a58bbdb37e876995d332cbdb187b34c7717692f710d6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18372,
+      "sha256": "91fa567dcd3feb5bf5a5e8920266dbd430f6a6c320de81657eda705a4cd43fc1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 955,
+      "sha256": "cdfd8583f9eebef7ef498c5015b3b10fbecc488a851497ea4b577145cd032818"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 246,
+      "sha256": "5098a18e12663cbaba8979a6dda2212dca140ae863f83349b13312d5e2a4efb5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 72438,
+      "sha256": "c16a6376f61697f57244bd16fb0fda6207480e151e9eca573c3b63d1e7f2d915"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "cta",
+    "schedule-agenda",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

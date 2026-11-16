@@ -1,0 +1,45 @@
+{
+  "id": "SN-C00383",
+  "title": "Glassmorphic User Profile Card",
+  "summary": "Modern glassmorphic user profile card with avatar, username, handle, and dropdown menu button. Features dark gradient background with blur effects and elegant shadow styling.",
+  "tags": [
+    "card",
+    "profile",
+    "glassmorphic",
+    "modern",
+    "dark",
+    "gradient",
+    "blur",
+    "avatar",
+    "dropdown"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2228,
+      "sha256": "c3213818680d127002e908cc1b7c31ee45dcca3483c4a9b592055b25f58c0a42"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2469,
+      "sha256": "fb12328ac3e9c74da36095e35b8309a9bf8e2daef2838985476ee50ca1a97069"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3320,
+      "sha256": "0a1d65add77231410afe00c0f6e3e212aef16fd1c6234fd869eeefea0e4ea363"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

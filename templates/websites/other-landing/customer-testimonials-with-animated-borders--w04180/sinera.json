@@ -1,0 +1,58 @@
+{
+  "id": "SN-W04180",
+  "title": "Customer Testimonials with Animated Borders",
+  "summary": "Responsive testimonial cards with animated gradient borders, user avatars, and styled read more buttons using Tailwind CSS.",
+  "tags": [
+    "Testimonials",
+    "Animated Borders",
+    "Tailwind CSS",
+    "Gradient Buttons",
+    "Responsive Design",
+    "User Avatars"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2837,
+      "sha256": "c9fe1029c5f129b8f27fba895f1ca2e62df86dde2cf532cacd1f635111bfa4bb"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16990,
+      "sha256": "9b27b88626519f9fc7296a2297cd007df873be891107966de30f8863b0b150e1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "87590c5635eae387cb8cf32294ff5f193794025dc135869b5aed3e194cd6e1da"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7868,
+      "sha256": "2bc5084cc10f39f481f83b0d16c86c8aa130c40d0ba07008abd531b7fe2456f8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "testimonials"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

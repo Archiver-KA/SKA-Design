@@ -1,0 +1,79 @@
+{
+  "id": "SN-W03112",
+  "title": "Luxury Vineyard Resort Landing Page Template",
+  "summary": "A refined, winery-inspired resort landing page template for showcasing luxury accommodations, spa amenities, and dining with an integrated booking experience.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Brand",
+    "Minimal",
+    "Clean",
+    "Large Type",
+    "Gradient",
+    "Luxury hotel",
+    "Resort",
+    "Winery"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3595,
+      "sha256": "3824e16338e9d0fd9f668f8ef0efe3225855625ca3e7830c96a30f81765dc2f4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10290,
+      "sha256": "3cd1f8bf278b1fa07f45f1dfc7c40109bab59112ff98f3927e48b105e5727c32"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1155,
+      "sha256": "7b81d902d4e2c7a7f7eba2abd7727b1354f94bee7bed6d7b08b2236f0a86156a"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 475,
+      "sha256": "e8091320543ea2d871a32fd4371796382f29c58a37e2d69fc04e5f441529914f"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 255,
+      "sha256": "1d477c85a7ad0d3a741110a72123c23e8bdb35a659e27798b40c1804211d7d73"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24145,
+      "sha256": "e9cca4424acb5ec0ea8011f0098b08e200de822ca6ce03bd92d7ff217fa9e47e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "cta",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

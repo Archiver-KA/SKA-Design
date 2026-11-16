@@ -1,0 +1,66 @@
+{
+  "id": "SN-W00574",
+  "title": "Nexus AI Cinematic Agents Landing Page Template",
+  "summary": "A high-performance cinematic template for AI agent systems featuring WebGL particle backgrounds, GSAP-driven scroll animations, and a sophisticated dark aesthetic.",
+  "tags": [
+    "Technology",
+    "Animated",
+    "Dark",
+    "Landing Page",
+    "Futuristic",
+    "Clean",
+    "Portfolio",
+    "3D"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3848,
+      "sha256": "470b36b611e9fff9c1334fddc79cbce9d396f56765584cb25b3bead94bba2d4d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5526,
+      "sha256": "5085e12f7a95dabbf62b00d29286d8cfe7816ad506038b935dc782b68df52fa0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 741,
+      "sha256": "de61b8de342590a4e5f98b3e2366fa875cde7de69fc64cb4d0c858a0031c89a9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 82195,
+      "sha256": "46b8cc8f71826d66293e8ae7109d1054a56e3f8d6a6b397e96da302975ad348b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "pricing",
+    "cta",
+    "integrations",
+    "features",
+    "how-it-works",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

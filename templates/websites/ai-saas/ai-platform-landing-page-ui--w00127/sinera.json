@@ -1,0 +1,85 @@
+{
+  "id": "SN-W00127",
+  "title": "AI Platform Landing Page UI",
+  "summary": "Responsive landing page with background animation, navigation, hero section, and feature cards using Tailwind CSS.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "Features",
+    "Tailwind CSS",
+    "Background Animation",
+    "Responsive Design"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3185,
+      "sha256": "4a7f4e55a48e7a8709e565f799d42cacd6e48283e7ca627b1f7d8dfc9c955a0c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12124,
+      "sha256": "fe0b463ee0426ce12d6cfc51f93810ebd14a9715444a767184fcf8196861566d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1646,
+      "sha256": "3cbe8514936abc7700f51b4ef3085c16d252ff4fa0376a467ef070e804e39e49"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 388,
+      "sha256": "89d3218f369dda693f08f0d7a493f5d13d5a7644d35031a06b351fe6ef48a3c2"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 210,
+      "sha256": "d2611ea6a7181b8d366332cf6a3f1831af067f37400d4f6e427c4a9bf3d9844e"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 231,
+      "sha256": "13603a06442636425ba5ab922fffa3399d486f937089773938a16c5890ef9cc0"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 289,
+      "sha256": "bd7f8ba0c734f7056919c221c6c2b0d2493141bac60d4dd9fab4d049ca5f137a"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 395,
+      "sha256": "39df34dcf830ab3e8143101ddecbc81604d8f63b989b4f6e02940a1f06e9f304"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7365,
+      "sha256": "71f913b430fd64bdb959bd58c70d751783396cec66c74e00b58888ef1178b555"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "modal-overlay",
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

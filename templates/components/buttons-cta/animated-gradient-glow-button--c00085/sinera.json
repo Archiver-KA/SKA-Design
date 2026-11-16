@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00085",
+  "title": "Animated Gradient Glow Button",
+  "summary": "Call-to-action button featuring radial gradient, glowing inset/outset shadows and animated blurred circles. Built with Tailwind utility classes and custom keyframes; perfect for hero sections, forms or generators needing visual punch.",
+  "tags": [
+    "button",
+    "animated",
+    "gradient",
+    "tailwind",
+    "cta",
+    "glow",
+    "particles",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1736,
+      "sha256": "85d50e93739b9a118e8446705c7bba6d1349f35dff8966a6ca33c52808aca1df"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5356,
+      "sha256": "14dd3f6b385463b9d115e1a09171904678a9d4af734eca750f655630e446048c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6206,
+      "sha256": "61a0e7e29885cd9183994e75202f7dc0758af6acf6f9f3e14eefdeb4092dcf53"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

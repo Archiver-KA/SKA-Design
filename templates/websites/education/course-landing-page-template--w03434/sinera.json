@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03434",
+  "title": "Course Landing Page Template",
+  "summary": "A reusable course landing page template for coaches, educators, and marketers to promote programs, showcase modules, and drive enrollments.",
+  "tags": [
+    "Landing Page",
+    "Education",
+    "Services",
+    "Colorful",
+    "Clean",
+    "Large Type",
+    "course",
+    "coaching",
+    "marketing"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3484,
+      "sha256": "fa679d18f89edffafa91856397db8df6c7736f01a3fd4ddf0435df41f6b73a90"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21416,
+      "sha256": "3d84a275e01efa72a6d6be43fab0a304deb9a73dba9848339a40a7e02fd2dcce"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 716,
+      "sha256": "7d567e3152b901d0042c32cbe495ebd00de8f4e759e9b556b6b60155556b88e1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22871,
+      "sha256": "c8c7631f20f201f454b6db4bd3ebdf7d09124b991ab2263f7043f91747b40adc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "how-it-works",
+    "services",
+    "about",
+    "faq",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "SN-W01836",
+  "title": "Bio.tm Digital Identity Landing Page Template",
+  "summary": "Modern bio.tm-inspired landing page template for an intelligent link-in-bio and digital identity SaaS, ready to customize for creators, brands, and teams.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Portfolio",
+    "Services",
+    "Dark"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3489,
+      "sha256": "cf7195d9e6228eee8ede4a361b7febb08d46fb598cdf09f0fca697e57e4cc35a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17094,
+      "sha256": "5f2f5948c61c05a48fa4633fc9ff0ae4eae59229a2c892961ebf0038d5933a10"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 878,
+      "sha256": "fccb4b345365275401157c05fcd81f79f6cd452f3e4e429d10f36c98bed6029d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 204,
+      "sha256": "a1d60765b4ba2e7685d4bda780176b5920aa390dbf19ad702f0cd5bef955c3f9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42071,
+      "sha256": "01253fca6a6f10862629cc9735ddda4577b1d1580f65fa968fe28cd9a79c38d3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "features",
+    "logo-cloud",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

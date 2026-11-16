@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00289",
+  "title": "Stylized CTA Button with Hover Offset Border",
+  "summary": "Interactive sign-up button featuring slight rotation, vibrant background, and animated offset border effect on hover. Built with Tailwind CSS utility classes, ideal for call-to-action elements in landing pages or forms.",
+  "tags": [
+    "button",
+    "tailwind",
+    "cta",
+    "hover",
+    "animated",
+    "signup",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5274,
+      "sha256": "a222670afded7783c533f7a3d4e77a74da1d5924900003e23355c1f076284741"
+    },
+    {
+      "path": "component.html",
+      "bytes": 758,
+      "sha256": "93f147e678f2d4a42cd6ddf3adbe5c930327bd826f366f976863df965904cee7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1623,
+      "sha256": "3ef895c91963a43af827b64c95922b9c3a6267efe085524f603ef0e308c681c3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

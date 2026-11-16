@@ -1,0 +1,59 @@
+{
+  "id": "SN-W04329",
+  "title": "User Settings Panel Layout",
+  "summary": "Responsive user settings UI with sections for account, preferences, appearance, and support using Tailwind CSS and icons.",
+  "tags": [
+    "Settings",
+    "Tailwind CSS",
+    "Responsive",
+    "User Interface",
+    "Select Inputs",
+    "Toggle Switch",
+    "Icons"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2374,
+      "sha256": "aa8feeccce4f6cc0696e12cd2efffacec1a916c8997a3c35b6dcef3a25d95b89"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5908,
+      "sha256": "8fe7edb9265f4b4c1a3552be132d912c75328c490258d07a1e22f4a473a8bcf5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 719,
+      "sha256": "c5447f04509a84481973d96a73261466b60440558c2562c0f027479fb118fa2f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8593,
+      "sha256": "48b2fb6ac425ea4a189516352c1c507f59d4aa87f8991692caf4abf2d4c0263a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

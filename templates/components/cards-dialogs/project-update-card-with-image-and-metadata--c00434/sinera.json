@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00434",
+  "title": "Project Update Card with Image and Metadata",
+  "summary": "Tailwind-styled card displaying a header image, briefcase icon with category/sprint info, and two-line summary. Ideal for project dashboards, sprint overviews, or content previews on web apps.",
+  "tags": [
+    "card",
+    "tailwind",
+    "image",
+    "metadata",
+    "dashboard",
+    "project",
+    "responsive",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 17384,
+      "sha256": "eb187a78410ffa54033a9764d0cc8a28101b586d01cb70a88a093a52a53bbae2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1087,
+      "sha256": "71c0e6d37d83ea23831c228d188aa5df31f44c38d9de61375aca58edd2d85b00"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2081,
+      "sha256": "4437dfc77ca3b45d952d4cf8f428ea098a249ca1d439d2da713d1cac6fd16917"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

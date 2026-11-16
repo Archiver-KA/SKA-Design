@@ -1,0 +1,72 @@
+{
+  "id": "SN-W04263",
+  "title": "Pricing Plans Comparison Table",
+  "summary": "Responsive pricing table comparing plans with features, limits, and benefits using Tailwind CSS.",
+  "tags": [
+    "HTML",
+    "Tailwind CSS",
+    "Pricing Table",
+    "Responsive Design",
+    "UI Components"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3358,
+      "sha256": "6929cb9bfe54bbb9de01d83ece1d6d1f9af8cd776fce02eb60179e453b287190"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10328,
+      "sha256": "8cc27cfdcb5b1498ddac14314ea104e642e7da57cbdd4ab447aa650b75e67c67"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1590,
+      "sha256": "066ca5a5ad0172e9a5e53e47c1aaf2880925fad56677263d597604213e734b60"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 401,
+      "sha256": "5404864a0e65fbc2f63e3ad637bac9c47b1fe0ba4258f679efc5e6cf5ce220f2"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 257,
+      "sha256": "08a7c77596196fcb5833a0000e5ea225e3ffb2a31e16f6e0f7fb1207ce5e732e"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 331,
+      "sha256": "90be338058fa83c0bb1ba25f6e1f24250920c9f20495a3a2acb2308a5fc6eb5b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13664,
+      "sha256": "d4d081961b07346a1f4c4063477d3416bd4d1a93d788f1bb33a02fcb25780c41"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "pricing"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

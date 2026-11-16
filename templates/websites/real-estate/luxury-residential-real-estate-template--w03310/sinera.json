@@ -1,0 +1,64 @@
+{
+  "id": "SN-W03310",
+  "title": "Luxury Residential Real Estate Template",
+  "summary": "A sophisticated and warm landing page template for luxury apartments, boutique residences, or real estate developments focusing on wellness and living.",
+  "tags": [
+    "Real Estate",
+    "Services",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3500,
+      "sha256": "c6d7f5a25a50df3d6d133de493f5db2e414f041e7b25e6c2ce686888f22f00ef"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12476,
+      "sha256": "787bbc27fc558d9b16612cdd6f5f29587f2a05028416125dc0b4a2f3d1cfba36"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 812,
+      "sha256": "2814d93691f85e4ad66dcfca5b0b1076ee0e72f434c7371ff74beed391a247bd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23064,
+      "sha256": "6665ddd5939cb9d86f01c2488048aa1681d0701b1403e5550e69c10e8818be1f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "listings",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

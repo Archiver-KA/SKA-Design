@@ -1,0 +1,148 @@
+{
+  "id": "SN-W02214",
+  "title": "Sakura Portfolio Landing Page Template",
+  "summary": "A reusable portfolio landing page template designed for product designers to showcase recent work, approach, and client testimonials with clean UI and fast delivery.",
+  "tags": [
+    "Portfolio",
+    "Landing Page",
+    "Product Designer",
+    "Work Showcase",
+    "Testimonials",
+    "Contact",
+    "Clean UI",
+    "Fast Delivery",
+    "Creative",
+    "Responsive"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3440,
+      "sha256": "8730e7e354bb06f589416a03d4c9fd63654e60c225bd9126df08cce8a28eb8d2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14040,
+      "sha256": "6cd3854a7045decc94d726053fdb111aaeebdb0a13efcf16e9a6b8c7e84ef8b7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 4427,
+      "sha256": "ad12a12b9739c1c6b974dd0de07e9276f853453ef019f94cb5aeafa205cccaca"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 253,
+      "sha256": "41dd52dc3357554ccd766d03d06327611d25b7f51e81883ba2dafdc0749e3f2a"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 249,
+      "sha256": "10c1e6af8a13c0c62b1739ecdeb572d868f778d8df78bf9f77623d0a00906148"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 213,
+      "sha256": "3800e2086b469485daa47f76f9f98ceab87a6fe6417d3a6cf7ec87d679e4a592"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 240,
+      "sha256": "d20ad63b0d05b8ea87c3304352d9096f419e01c2086e2852cbd43185db53b4f2"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 213,
+      "sha256": "f2092260053e807a7bc94a3a05fad7d5218f03ad06b2b3749206c3fe966c1faa"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 287,
+      "sha256": "c070d8a5b04d22618acba0a9aa679a3fd9c52f19c34bac20637ee4d44737b835"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 229,
+      "sha256": "2543a4d09200d55ec49d909d745d00973e5a12817228ac115766c5be97f0c2c3"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 274,
+      "sha256": "7832bf643a648f85129bbc3debbd0e3070e95a7ee506f7f32b76dd7d179a36fd"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 216,
+      "sha256": "f6ebbdff55a8a500aac92fd420e5466b0bac43bc34d8046b9138112a75672e3e"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 231,
+      "sha256": "ef120e042c3a6d87647f096cc84bbe9958089cab99636969dac70cde69ec6fe8"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 243,
+      "sha256": "ba23e8a9759c59edba7baf2ddc5dea3936ce0b17ba01ef9737eddb780d218571"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 173,
+      "sha256": "a3b226e47d05cd937eac7dc7b2869180609afc76a4bd41fb18303cb4e30a752f"
+    },
+    {
+      "path": "images/embedded/embedded-0013.svg",
+      "bytes": 221,
+      "sha256": "7083df0ebfa5be2685a1609af167945c3740c078a91a77b7d3aa0ea1da111b15"
+    },
+    {
+      "path": "images/embedded/embedded-0014.svg",
+      "bytes": 188,
+      "sha256": "b93e0d16091db37881d7679f5513eb667b4b8296fd881cee39740bc6fbe860ba"
+    },
+    {
+      "path": "images/embedded/embedded-0015.svg",
+      "bytes": 197,
+      "sha256": "5cf59c9e90d51be15a7ac839a9248bf84e0c5804019dec6894acb86333190524"
+    },
+    {
+      "path": "index.html",
+      "bytes": 56564,
+      "sha256": "94b99c65ca44651bd04f9fb465a951011bfd81b6d23980acef6e3996f45eb6ac"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "about",
+    "features",
+    "how-it-works",
+    "logo-cloud",
+    "gallery-portfolio",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

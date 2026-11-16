@@ -1,0 +1,70 @@
+{
+  "id": "SN-W01402",
+  "title": "AI Consulting Landing Page Template",
+  "summary": "A modern AI consulting landing page template for showcasing enterprise AI services, workflows, ROI, and products to convert visitors into high-value leads.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "AI consulting",
+    "Enterprise"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3887,
+      "sha256": "dd6d8e07b87274ecbdc9a1606aa12b5f2105c1097966bb9a7849a2c56058a0db"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12114,
+      "sha256": "68450c368e5703e68ec3316dcb8be84a69a1b04a225b8a04b378a081949b3f0a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "68201730d92c8e52871ed5b3b604d85f1902f9546ca04482d0377482f03b1f7c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 44231,
+      "sha256": "8a14cf7c69e7232c304ad646600be73d2bd11836cdcd3f55beb19c2ae8598902"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "how-it-works",
+    "features",
+    "logo-cloud",
+    "stats",
+    "case-studies",
+    "product-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md"
+}

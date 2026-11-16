@@ -1,0 +1,75 @@
+{
+  "id": "SN-W01992",
+  "title": "Distortion Handwritten Portfolio Template",
+  "summary": "A dark, cinematic portfolio template for filmmakers and creative studios to showcase selected works with handwritten accents, interactive project modals, and smooth scrolling.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Entertainment",
+    "Brand",
+    "Dark",
+    "Animated",
+    "Large Type",
+    "Minimal",
+    "Futuristic"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3682,
+      "sha256": "ec120475b0c016a0d0c01f84ee2ce3e101017b5efd9927f8911747924c5fe528"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7382,
+      "sha256": "7b11c5fa909d7aeae34bad0456fc8ab5199deeaceb4da9ac22ea695dd57b8b36"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1148,
+      "sha256": "e5b7a354fd27dae629f0f2f5418a83e741f04529082f355d6ae5f631c1395db9"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "2c86960a12120d366bb54047b64388bdbd79567092838081b6803b62c166737b"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 365,
+      "sha256": "d91fa7adcfdd721b20378d2f2138c4770c3ead91f27bbf0bc46e5daefa923ead"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41665,
+      "sha256": "464800ba06ab84060a3c41bee0eaae991a6af55afcc97443e92c45a3a899b25b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "hero",
+    "navbar",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

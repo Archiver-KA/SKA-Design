@@ -1,0 +1,67 @@
+{
+  "id": "SN-W00099",
+  "title": "AI Governance Runtime Landing Page Template",
+  "summary": "A high-performance enterprise template designed for AI safety, governance, and zero-trust execution services.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Futuristic"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3791,
+      "sha256": "17d197b4ef3f3d6d0924a6eaba04624da4e5da2bc095d33e0b1313d2cf961066"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15454,
+      "sha256": "27f09611ff60a0f2d62865c88570c188968397a58a89a70f5a28efd5932b4926"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 877,
+      "sha256": "22066b4db17774547bd5d388d3d3c450fa953c66e37de875d8858d3c4c706b4c"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "2b07fd6bdb9fac52f5f7f1f19b01f6f4bfcd81cd9ca7dd79c7b5e95042ef659a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41080,
+      "sha256": "2428bc536da7740b68aa439be6b53a4eb94fd7ae2249a7e134e411652c4acf5c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "cta",
+    "pricing",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

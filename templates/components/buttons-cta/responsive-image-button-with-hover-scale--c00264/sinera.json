@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00264",
+  "title": "Responsive Image Button with Hover Scale",
+  "summary": "Span component renders a responsive, rounded background image tile with violet shadow and smooth hover zoom using Tailwind CSS. Ideal for logo links, thumbnails or interactive icons.",
+  "tags": [
+    "image",
+    "tailwind",
+    "hover",
+    "responsive",
+    "thumbnail",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5966,
+      "sha256": "df6308e2320c55d01a0e489f93f6e29e2fe37a8b026bb3548e1e5a4b923e053e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 754,
+      "sha256": "2a815ad7ccfa09ac14c6aed82e9459192ecfafdfc0947b1f7b72a92a4142aacb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1615,
+      "sha256": "5bbb24f0ed7983e7ac666d360bda3b5151ee4eaec83768e9190afcb2704c5239"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

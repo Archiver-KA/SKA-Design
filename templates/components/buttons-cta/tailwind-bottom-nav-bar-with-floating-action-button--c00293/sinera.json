@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00293",
+  "title": "Tailwind Bottom Nav Bar with Floating Action Button",
+  "summary": "Fixed bottom navigation with 4 icon tabs and a raised gradient FAB center button. Built with Tailwind CSS, Lucide icons, hover/active transitions and backdrop blur. Ideal for mobile dashboards, PWAs or any app needing compact bottom navigation.",
+  "tags": [
+    "navigation",
+    "bottom bar",
+    "tailwind",
+    "fab",
+    "mobile",
+    "responsive",
+    "icons",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3000,
+      "sha256": "00c50e49d1fec1a3fd4d49a396778dad6e6a700cde5adc50ea4072fce2c97a9e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4288,
+      "sha256": "843a131a010b6ab505450837e700033deedf5c3d88629229729ed78035b4a3be"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5290,
+      "sha256": "3bc2f2c883afe1609adfe244a8d9f43fc71038b91d50c8a08d799bf05902b68b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

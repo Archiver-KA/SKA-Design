@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00462",
+  "title": "Tailwind Responsive Portfolio Cards Grid",
+  "summary": "Section displaying selected projects in a 1–2 column responsive grid. Each card shows an image, title, subtitle, and arrow icon with subtle zoom and ring transition on hover. Built with Tailwind CSS, ideal for portfolio or case-study showcases.",
+  "tags": [
+    "portfolio",
+    "grid",
+    "card",
+    "tailwind",
+    "responsive",
+    "hover",
+    "gallery",
+    "image"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 52054,
+      "sha256": "6557c3e97e5f280545b5d432762378a202d4db49e576d30aeee7bd5f80f02c83"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4410,
+      "sha256": "3c31cb46122452327257c66250797eb1facdc130b00f77ac1ad2bb790392ce9e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5401,
+      "sha256": "0db875ebdc9cca945319f43d7ae9f96f4074283d60747f5989148b2cbf178ce6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

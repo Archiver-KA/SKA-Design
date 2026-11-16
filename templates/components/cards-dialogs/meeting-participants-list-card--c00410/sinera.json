@@ -1,0 +1,45 @@
+{
+  "id": "SN-C00410",
+  "title": "Meeting Participants List Card",
+  "summary": "Tailwind-styled card displaying meeting attendees with avatars, emails, roles, bot-check badge and auto-redacted notice. Ideal for video call dashboards or admin panels to manage and review participant details responsively.",
+  "tags": [
+    "card",
+    "list",
+    "avatar",
+    "tailwind",
+    "user",
+    "meeting",
+    "participants",
+    "responsive",
+    "status"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9462,
+      "sha256": "3140b9e56b751d45ca4898002d7fbcd83f2db76cf30afda6aaab5ca7aedc3ac1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4695,
+      "sha256": "137048b671f2c68b67197b673eb1bc408cf6baedc1fde0d59546b6cfcfa90d70"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5546,
+      "sha256": "4c78307966320ba52231733d765513ea780a7f4620aa67ca7178f761568ab41d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01217",
+  "title": "AI Product Hero Section with Bento Feature Grid",
+  "summary": "Responsive hero banner featuring headline, pill label, CTAs and an animated bento-style grid of stat, code, chart, testimonial and image cards. Built with Tailwind CSS; ideal for AI SaaS landing pages and pricing intros.",
+  "tags": [
+    "hero",
+    "bento-grid",
+    "landing-page",
+    "tailwind",
+    "animated",
+    "responsive",
+    "cta",
+    "feature-cards"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22500,
+      "sha256": "d37611a0746a97750627ab4116d9faf05dc147be436b4f5dc2153a04e0351a19"
+    },
+    {
+      "path": "component.html",
+      "bytes": 19645,
+      "sha256": "ef65378ec19ed0eb962883fb83f9a39d98557833a5313b08420696c5763c15b3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20513,
+      "sha256": "52924a683d99097b6df3b02ceba97d2ddbef14567eb31bf8b0d9e36b0a821b65"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

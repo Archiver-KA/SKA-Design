@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00799",
+  "title": "Interactive Feature Highlights Section",
+  "summary": "Landing page section with badge, headline and 4 animated feature cards—real-time KPI bars, looping client list, hover-tilt integrations preview and add-member workflow demo. Built with Tailwind CSS and Lucide icons; scoped JS adds progress, scrolling and dynamic content for SaaS showcases.",
+  "tags": [
+    "section",
+    "feature",
+    "grid",
+    "animated",
+    "interactive",
+    "tailwind",
+    "landing page"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21684,
+      "sha256": "5a988fa79d9d6d4333d03cf353a524dabc648ab5371b3136f237ef5306deb746"
+    },
+    {
+      "path": "component.html",
+      "bytes": 32988,
+      "sha256": "540ad36f85226e267ceb128c5add3a6ca156bdf98803e660a6099d889b74ea88"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33977,
+      "sha256": "3621d789448f8010779473b5dad7afc7183f2c4b2fe5dfbbc51b59b369c0d24c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

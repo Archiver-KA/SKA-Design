@@ -1,0 +1,7 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none" style="z-index: -1;">
+                <!-- Path connecting Center of Card 1 (128, 80) to Center of Card 2 (320, 270) -->
+                <path d="M 128 80 C 128 200, 320 150, 320 270" fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="2" />
+                <path d="M 128 80 C 128 200, 320 150, 320 270" fill="none" stroke="#EA580C" stroke-width="2" class="animate-dash" />
+                <circle cx="128" cy="80" r="4" fill="#EA580C" class="animate-pulse" />
+                <circle cx="320" cy="270" r="4" fill="#EA580C" class="animate-pulse" />
+            </svg>

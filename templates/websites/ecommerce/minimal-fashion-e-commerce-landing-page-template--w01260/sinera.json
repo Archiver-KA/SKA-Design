@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01260",
+  "title": "Minimal Fashion E-commerce Landing Page Template",
+  "summary": "A refined, editorial-style fashion e-commerce landing page template for modern apparel brands to showcase collections, materials, and drive shopping conversions.",
+  "tags": [
+    "E-commerce",
+    "Fashion",
+    "Landing Page",
+    "Brand",
+    "Minimal",
+    "Clean",
+    "Large Type",
+    "Grid",
+    "Style",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3261,
+      "sha256": "04d0c94f20112161f3014bc626f36b24a4bee2571af77f9e9ac48f2c84e22d7a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20288,
+      "sha256": "ff0dfae1d0c9aef61f8062f4bb57b0e635de8d1bf5bbb19b29330f05aacc981a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 878,
+      "sha256": "41e7f3d5b71716f040bc6ff750fb4a97d865a5a5c71a70d9ebba87809a717f25"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19021,
+      "sha256": "78bf328ac47a443be598ed2b5a288fabf4be563ca97094af7167beabc009e4f8"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "product-grid",
+    "logo-cloud",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

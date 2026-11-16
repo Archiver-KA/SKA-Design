@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01114",
+  "title": "Brunish's Grocery Inc",
+  "summary": "A modern grocery store landing page template for promoting local markets, online ordering, and loyalty perks with pickup and delivery CTAs.",
+  "tags": [
+    "Landing Page",
+    "E-commerce",
+    "Food",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Grocery",
+    "Online Ordering",
+    "Loyalty Program"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3532,
+      "sha256": "2f9e22c225219d61b4361e1c1a4cdd2b23f082497dc6e8136401e141a22456f1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 45466,
+      "sha256": "0d11680c6e51d69857dd80ec09fcab98921d1f119394fd61e199b4c449b8728d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 804,
+      "sha256": "633bd840d1062ee9e5d6120f864d1b4fa861e0403f78c5da5399b1cf21ac01f3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15915,
+      "sha256": "f40794f6b7f4ea58e7fa52f1c8027880d8ec0050ec2fa9a18dd14655672a9630"
+    }
+  ],
+  "collection": "logistics",
+  "collectionCategory": "shipping",
+  "collectionLabel": "Logistics",
+  "collectionCategoryLabel": "Shipping / Delivery",
+  "collectionConfidence": 0.88,
+  "collectionBasis": "business-keywords",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

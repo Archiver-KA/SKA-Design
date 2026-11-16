@@ -1,0 +1,59 @@
+{
+  "id": "SN-W02692",
+  "title": "Vocalize Fitness App Template",
+  "summary": "A modern mobile-first calorie tracking template featuring voice-input logging and daily nutrition summaries for health-conscious users.",
+  "tags": [
+    "Health",
+    "Services",
+    "Technology",
+    "Clean",
+    "Minimal",
+    "Animated",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3597,
+      "sha256": "7a9767c2709c4bf7cfa2fe45a94aea785e1f58d0e9ea05a7341b54bd96fdd51f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10544,
+      "sha256": "fd10bfaa545ea2ac56f2fe231f6708af245979253c0517aea7574fa7bbe69e23"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "41362c122eb486ecdab627d47bc35120faff0ff2bc32066882cee0cfbafc51b3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16494,
+      "sha256": "26bb9762a6a4111f77680274c4b0ec8c90db2768b437edb9d863e453b7820665"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "cta"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

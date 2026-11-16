@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01113",
+  "title": "Frosted Glass Fixed Top Navigation Bar",
+  "summary": "A fixed, centered top navigation bar with frosted glass effect, primary links, and a CTA button. Styled with Tailwind-like utility classes, ideal for landing pages or DeFi/fintech sites needing a sleek desktop-only nav.",
+  "tags": [
+    "menu",
+    "navigation",
+    "navbar",
+    "cta",
+    "tailwind",
+    "fixed",
+    "glassmorphism"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4762,
+      "sha256": "283503aae943df28a19683b336a97adad4dc703a667bd66478f8da68890f9bd9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1790,
+      "sha256": "67c033b398758a50b786c2d86284eb12f6b06cd096e347a49010b0caa43cc7a3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2739,
+      "sha256": "aea94cabdbfc48da7fb2767f5bc832d2536ad47d25f5581209d7960f5d696689"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

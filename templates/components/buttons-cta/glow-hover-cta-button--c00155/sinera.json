@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00155",
+  "title": "Glow Hover CTA Button",
+  "summary": "Rounded full-width CTA button styled with Tailwind-like utility classes featuring blue glow hover effects, focus ring accessibility, and responsive width. Ideal for primary actions such as watching a showreel or launching media content.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "interactive",
+    "animated",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2084,
+      "sha256": "923f527eb58d5de758873b8eeaa7295750186ed632ce8eb5d99c690fe33083e2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 449,
+      "sha256": "ba9957cfc57e5846a92f79c8a4007080135d278f5e4592733401b8c5ed3c85f5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1291,
+      "sha256": "ffad6026b3b655ac0fb1469d96b6dc14e3540bbe1717e933b83f5d7f64e21a25"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

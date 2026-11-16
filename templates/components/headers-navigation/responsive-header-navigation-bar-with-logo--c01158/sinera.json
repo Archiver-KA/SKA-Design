@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01158",
+  "title": "Responsive Header Navigation Bar with Logo",
+  "summary": "Top-of-page header featuring logo, primary nav links, sign-in text link, and CTA button. Built with Tailwind CSS, flexbox, and responsive breakpoints (md, sm) to toggle link visibility for smaller screens; ideal for SaaS landing pages and websites.",
+  "tags": [
+    "header",
+    "navbar",
+    "tailwind",
+    "responsive",
+    "navigation",
+    "cta button",
+    "landing page",
+    "flexbox"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3742,
+      "sha256": "005b98be1ab43bfeb98769aa075944133116586b97af6f69f4a1834f8cdf3cec"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2308,
+      "sha256": "42aeb959a49c753fd281ca17288b22bd16243ed4116e1ade1e0aeb9c5dbaa81b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3171,
+      "sha256": "aac0d8475f642031ae1e413391659491838e907c9347777b031be3a44edad64d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

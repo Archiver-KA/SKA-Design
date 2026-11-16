@@ -1,0 +1,73 @@
+{
+  "id": "SN-W04055",
+  "title": "Pool Services Landing Page Template",
+  "summary": "A premium landing page template for local pool design, renovation, and repair services, ready to customize for your own pool construction business.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Technology",
+    "Real Estate",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3531,
+      "sha256": "d36808049625484f5cc651fbac1ecc5b0b8c8110df5de0c47e2ddfab4be9f160"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 40334,
+      "sha256": "e858c35086a6266a02eff30abe93f8a67b28b04c01244c7577dc2667c6d1b15d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 953,
+      "sha256": "a4c0bfa22448162563794c7e0441a511a0b525ecc3b2b93a2ff4be4654354fdc"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 313,
+      "sha256": "4e1a84c4b6bf816bffe3c0aea9bdac735f96fe7c33990beaf04c08a1fe6f85d7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27811,
+      "sha256": "a7c85c527a89d6e2b76d3d70e4285845f9a46a2823b4c4cf31347445c6757631"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "timeline",
+    "hero",
+    "marquee",
+    "testimonials",
+    "gallery-portfolio",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

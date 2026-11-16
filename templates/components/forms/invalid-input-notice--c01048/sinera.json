@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01048",
+  "title": "Invalid Input Notice",
+  "summary": "A simple error message component displaying that the provided input was not valid HTML code. Used for handling invalid input scenarios.",
+  "tags": [
+    "card",
+    "error",
+    "notice",
+    "alert",
+    "validation"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5314,
+      "sha256": "6f2d90222d7839a9e104a4f4fc951922fa0af14ce56c04387713d6f5e7013242"
+    },
+    {
+      "path": "component.html",
+      "bytes": 810,
+      "sha256": "a31352112ea0ad0bb8dfd146da285b99bbf70e5434cb39fd0cb724957e1ebf83"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1651,
+      "sha256": "c406885b36f598c832059257b61cd4715beb4d23e5c77954ed8eb7d67294e1d0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

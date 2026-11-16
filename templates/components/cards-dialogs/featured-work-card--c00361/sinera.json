@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00361",
+  "title": "Featured Work Card",
+  "summary": "A hero card component with background image, tags, and testimonial for showcasing portfolio work with call-to-action button.",
+  "tags": [
+    "portfolio",
+    "hero-card",
+    "testimonial",
+    "background-image",
+    "glassmorphism",
+    "card"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 23946,
+      "sha256": "075677ac5c284df804857eed6048778ee8c67dd6dc10415c147e8d73d5e07b9a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2175,
+      "sha256": "43c7fd6c347dd8fd00362ad03855168d6ff5957130ee977e68e74140222eb70a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3014,
+      "sha256": "202809524761457bd1d5e8cdfff0ac656d431c693bc22211aa1aa03ef84989ae"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

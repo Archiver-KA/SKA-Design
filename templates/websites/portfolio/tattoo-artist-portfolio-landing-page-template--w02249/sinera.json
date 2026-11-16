@@ -1,0 +1,66 @@
+{
+  "id": "SN-W02249",
+  "title": "Tattoo Artist Portfolio Landing Page Template",
+  "summary": "A dark, minimalist tattoo artist portfolio landing page template designed to showcase custom work, studio details, and capture booking inquiries.",
+  "tags": [
+    "Landing Page",
+    "Art & Design",
+    "Portfolio",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Tattoo artist",
+    "tattoo studio"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3883,
+      "sha256": "6510855b90bb9edf3100f4a9753fe97d05d883521fd8c656e5667a53b692b4c3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17017,
+      "sha256": "8c4045cbb556dc3becb2f39a424db827be17ef9e00ed7d12b265f0a830efdbf3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "42f783db831e6ad85615cd93e1dfa164452b7bd3fdb1d5b50c7cbdb58ed343b5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24220,
+      "sha256": "533240d65def0f858a930f4a17ee94c8760ca81653884808a16f05dd376ea574"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "how-it-works",
+    "map-location",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,108 @@
+{
+  "id": "SN-W04254",
+  "title": "Platform Features Showcase",
+  "summary": "Responsive UI highlighting platform features with glass navigation, gradient hero, and alternating grid layout for detailed feature presentation.",
+  "tags": [
+    "Features",
+    "Hero",
+    "Responsive",
+    "TailwindCSS",
+    "Grid Layout",
+    "Navigation"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3262,
+      "sha256": "ac8855bfe3193efefe9d3da4fb6bcfa80fa707a7ba07c3bfc468206383a8c945"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14266,
+      "sha256": "f7bc63c88ed04df3cb5819694107072247921744631df301b473c15f889b4cf2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2628,
+      "sha256": "d3ae4e4aea9c283bb7635f24bce29e995e39ca046dc846fead486503bc287022"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 249,
+      "sha256": "970c82a34446fe665e376454b5055794fed38dae16fa43ef805239486b46356f"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 232,
+      "sha256": "108db995d0d0c7a115c5b71376cf420e31159871053e5a7dc63e5b50137964e7"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 404,
+      "sha256": "04f607ed488b9767bd047105eb297c916004aa2279c66476ecca123feb4e786a"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 329,
+      "sha256": "7257f463f4709ab5eee3bc40749404d9507468c08a16ae4af197cb3cb1ae1884"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 303,
+      "sha256": "06b930414c318fc94c434fd061a90622d31a92fade80f4fd02555e46538d43b6"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 291,
+      "sha256": "dd3daa36b74d668c350630877c465986e65a706eafae853b8b2a57c48c715a61"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 403,
+      "sha256": "75f654fe11bb38e952779cacfa225c7192115c3dd2e9c4299ad1a399e49ccafe"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 411,
+      "sha256": "4e0777900457f20de8c05b12eedc3b56255a418bf32699877386db61bfdacc35"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 347,
+      "sha256": "49daedcb8a42af40ffa0440825af79fe6a7801f7416b7bc855a2b9b93fddb0b1"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 466,
+      "sha256": "af3bcf92775a69c2f5214829cac7c9418fecc97593825f4bb69ccbc6101a608e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16902,
+      "sha256": "257eb9bdc71966bdc82b5243ac5b87692ca30c02c4766b079c8698867157fbd8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

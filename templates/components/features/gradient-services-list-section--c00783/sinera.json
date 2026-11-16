@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00783",
+  "title": "Gradient Services List Section",
+  "summary": "Full-width services section with a bold SERVICES heading, gradient background, and interactive list of modeling service offerings using Tailwind-style utility classes. Ideal for portfolios or agency sites to highlight expertise areas.",
+  "tags": [
+    "feature",
+    "section",
+    "services",
+    "list",
+    "gradient",
+    "tailwind",
+    "interactive",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18314,
+      "sha256": "bad9d8896a334479f5e63f7349ace12b0b9fd8297ad34a2d5623e0484c4efe33"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9875,
+      "sha256": "06932ae7c374d8ba024e65386b4864d6a7012ed20f78a9dca7d21071c4a928c7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10726,
+      "sha256": "5cc49114cce4ee3a51c205e60e3fafabdfa231db72ea97ae454d29b39188425b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

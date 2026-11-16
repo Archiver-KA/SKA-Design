@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00717",
+  "title": "Config-as-Code Feature Section with Code Example",
+  "summary": "Two-column feature section highlighting config-as-code security policies with a sticky text column and a styled code window. Built with Tailwind utility classes, ideal for SaaS security or developer-focused landing pages.",
+  "tags": [
+    "feature",
+    "code-block",
+    "two-column",
+    "developer",
+    "saas",
+    "tailwind",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26964,
+      "sha256": "f8484e950b0e45e89bfbfd00d7fe02b2227b64b623b5436226bc5356391d8f43"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5235,
+      "sha256": "1737344eedb3314b3eef50d95a1f15cdcdfc08ff13582b4352cc9f60337aa77a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6234,
+      "sha256": "329680bca066a293b7fc5d14229e43364db7bf927d136fd748431321501610d8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

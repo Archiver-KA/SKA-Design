@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00367",
+  "title": "Friends Activity Feed Card",
+  "summary": "Tailwind-styled card listing friends’ recent activities with avatars, details, timestamps and an action icon. Ideal for social dashboards, fitness or community apps needing a compact activity feed.",
+  "tags": [
+    "card",
+    "activity feed",
+    "list",
+    "social",
+    "dashboard",
+    "tailwind",
+    "avatar",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5620,
+      "sha256": "691c229cd35dc2af0153de9776cb10f8b9c0a98bb5ca77ea1c561407f976c728"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2512,
+      "sha256": "d210fc2fe31a778180c3233182c6cff627ce253dd06cd6227b1151ed8fff5a10"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3489,
+      "sha256": "b13567ac7c92f5e3fe8eb63040a4b1f4536c1160a4fc7f826356f44c737e3066"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

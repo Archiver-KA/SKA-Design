@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02413",
+  "title": "Infinite Scrolling Testimonials Section with Tailwind CSS",
+  "summary": "Horizontally auto-scrolling marquee of testimonial cards with star ratings, avatars, quotes and edge gradient masks. Includes animated headline, sub-text and smooth loop for continuous display. Built with Tailwind CSS; perfect for SaaS, landing or marketing pages.",
+  "tags": [
+    "testimonial",
+    "carousel",
+    "marquee",
+    "tailwind",
+    "animated",
+    "responsive",
+    "landing page"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 43942,
+      "sha256": "3c87620df5fd746a89bbc1a527eed3df9790aa3acef8d9d384fd2dbf4beef4e3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 21833,
+      "sha256": "ccb557bf17d929d3bf7cddedcd1fe05403f0254e34ad525eb523692690a5fa32"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22711,
+      "sha256": "a599ef78652de18ba88902f4fc74504a0c5a3ff5547f0fba12e2d3728ca2a90b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

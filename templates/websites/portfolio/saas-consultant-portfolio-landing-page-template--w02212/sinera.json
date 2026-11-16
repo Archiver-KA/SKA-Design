@@ -1,0 +1,60 @@
+{
+  "id": "SN-W02212",
+  "title": "SaaS Consultant Portfolio Landing Page Template",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3483,
+      "sha256": "d86c43d4effe1f0f0ce1e0c42c39dfa90fb816302dc813be85c8fbd7e7840896"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13148,
+      "sha256": "c342e5926f5cefd5fdcb2bc7bfe116c8e03ea90b7a0575edb611cbc267bf243f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 875,
+      "sha256": "ada888e081fe9cd730ce44624600843661e4b1cfe8b3f20d83217b671e7c6c35"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "6d7f47cc04d290ef4abac372150068099aee31617cc15da366306e3307a84d33"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21146,
+      "sha256": "3fc92c0381beff8e51f83dcb20625b5b776ee0889264c9658059ee02aee71978"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

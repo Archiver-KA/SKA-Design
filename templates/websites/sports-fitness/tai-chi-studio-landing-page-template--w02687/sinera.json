@@ -1,0 +1,70 @@
+{
+  "id": "SN-W02687",
+  "title": "Tai Chi Studio Landing Page Template",
+  "summary": "Elegant landing page template for a Tai Chi, Qigong or wellness studio, featuring classes, shop, testimonials and FAQ sections ready to customize.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Wellness Studio",
+    "Spanish",
+    "Tai Chi"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3572,
+      "sha256": "05b6f51523b7c589bd31b8d35a8f6df71e4f74b034e613ceffe8164a585961b8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3506,
+      "sha256": "70e43e586e5cc23c56ae0c2c13bd9b0e644e3ad7ae24edba99c356c2c4f6fa71"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 731,
+      "sha256": "9657a43f21dc60343adf46a282146a447a031fa9d0dfe056c4f58d179f946b21"
+    },
+    {
+      "path": "index.html",
+      "bytes": 57163,
+      "sha256": "2f959ed1e3a336be9c11c744e3751829e210be75c2aab52454ee66cb28c57a4a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "cta",
+    "features",
+    "bento-grid",
+    "testimonials",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

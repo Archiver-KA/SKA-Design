@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00343",
+  "title": "Dark Code Window Card with Tailwind Glassmorphism",
+  "summary": "Stylized code editor window featuring header dots, syntax-highlighted HTML, and status bar inside a frosted glass card. Built with Tailwind utilities, perfect for portfolios, landing pages, or docs to showcase code snippets in a dark theme.",
+  "tags": [
+    "card",
+    "code window",
+    "syntax highlight",
+    "tailwind",
+    "glassmorphism",
+    "portfolio",
+    "responsive",
+    "dark theme"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10786,
+      "sha256": "9276e179bf2aa47f21a3c69174d121b0b36adec2ef85a526beb2eac0a7a72c63"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4042,
+      "sha256": "206020d913b456ff49bd43a778c3ba832490c6f0f248d9bd78c6adecf43404b0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4912,
+      "sha256": "631aa0ec678943b5eefe0d699ed2d53d00cce9a3efdeaa8b02cc17292ec8a436"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

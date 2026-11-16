@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01399",
+  "title": "Hero Section with Feature Cards, Image & Stats",
+  "summary": "Tailwind-styled marketing hero showcasing feature chips, large image overlay, animated CTA buttons, key stats, and info cards. Ideal for SaaS or security product landing pages needing responsive, scroll-animated promotion content.",
+  "tags": [
+    "hero",
+    "landing-page",
+    "tailwind",
+    "animated",
+    "grid",
+    "cta-button",
+    "stats",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20308,
+      "sha256": "0024598b5e183e5d3755e2f31558d1e21e4131f6a5b709d4fb901311de307ca7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 22190,
+      "sha256": "7362ee58cfeaa190550fe9ec566f3a2f30db5b79451418ed3c3538b88082c5ce"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23061,
+      "sha256": "37e50d71f55e73cbfb9eb1fe891f51170631a9219252c105c1cd31e56ffb6261"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

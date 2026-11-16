@@ -1,0 +1,71 @@
+{
+  "id": "SN-W03688",
+  "title": "DJ & Music Artist Landing Page Template",
+  "summary": "A dark, tour-ready DJ & music artist landing page template featuring mixes, video showcases, tour dates, and booking contact in a bold, club-inspired layout.",
+  "tags": [
+    "Landing Page",
+    "Entertainment",
+    "Art & Design",
+    "Dark",
+    "Large Type",
+    "Minimal",
+    "Brand",
+    "Portfolio",
+    "Music Artist",
+    "DJ"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3463,
+      "sha256": "cb682ceb93bb88fb13dca37647e78ce5486d7d89c67853d17de51e9f046b59f9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 75814,
+      "sha256": "c0e7335ab0582051c6010dc187da2f11209b17e68245ef016069dd3d5e4ee791"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 871,
+      "sha256": "62f8dca98425a4e82959c9d0a4c3d50e492c8debc7b0b43256b5c61b59f86709"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21306,
+      "sha256": "6bc59486638710076d25ca581a193593969445008ff2c87cf4485a189dd10dee"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "listings",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00178",
+  "title": "Gradient CTA Button with Multicolor Border",
+  "summary": "Animated call-to-action button featuring a multicolor 144° gradient border, hover lift, shadow transition, and ARIA accessibility. Built with Tailwind CSS utilities; ideal for signup or other primary actions.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "gradient",
+    "hover",
+    "animated",
+    "accessible",
+    "shadow"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1582,
+      "sha256": "95e05183203ed100629b1824e7ddbcc1c9948f36b53174e80f96a8412f0d0e8d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 827,
+      "sha256": "7a0c50abfaa7efd3a467624c614fd88228a39a1c8241731cfcdf4a53200434b9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1690,
+      "sha256": "dd9a6b5d283e016faad57d0838993fb8732ecaf1a1156995499cdf7ae35e011f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

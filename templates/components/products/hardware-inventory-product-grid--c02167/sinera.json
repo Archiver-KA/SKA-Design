@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02167",
+  "title": "Hardware Inventory Product Grid",
+  "summary": "Full-width inventory section showcasing three hardware products with badges, pricing, feature icons, hover effects, and scroll-triggered animations. Uses Tailwind utility classes, custom fonts, and Iconify icons for a modern ecommerce catalog layout.",
+  "tags": [
+    "feature",
+    "section",
+    "ecommerce",
+    "grid",
+    "animated",
+    "responsive",
+    "catalog",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 24768,
+      "sha256": "dc2c11756d8b3ca65f0b601b67b8d2142b8f00bc9d95319d85d31506c21222fe"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12784,
+      "sha256": "0656ced52c66d8351ef2c0adb4dfd4d3f70a8e8b3f18906af10d66850f628581"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13636,
+      "sha256": "e2082f6755c6d926266ab182e084a6dccdf8ef4dab211acbe6699f1607517eff"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

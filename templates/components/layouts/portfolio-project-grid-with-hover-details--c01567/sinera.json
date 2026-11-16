@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01567",
+  "title": "Portfolio Project Grid with Hover Details",
+  "summary": "Responsive Tailwind section that lists recent work in a 1–3-column grid. Cards scale images and reveal text via gradient/blur overlay on hover. Includes section heading and CTA buttons—ideal for agency or developer portfolios.",
+  "tags": [
+    "section",
+    "portfolio",
+    "grid",
+    "hover",
+    "tailwind",
+    "responsive",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 75192,
+      "sha256": "8497988c9e2673af37fdb6efd02d167036abb6fc04d03a8cdfb6e9046608fd46"
+    },
+    {
+      "path": "component.html",
+      "bytes": 14503,
+      "sha256": "d2d0c935502a9246de10808dd8bcb3e49798beb3d39c1aad5590f292ad509857"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15495,
+      "sha256": "1859d2ec34050d8e70e4d295e9c1a0ae8f9976cfd07f229f45c09ed99e5bba54"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "SN-W02982",
+  "title": "Restaurant Landing Page Template",
+  "summary": "A refined restaurant website template for showcasing menus, online ordering, reservations, gallery highlights, and location details for premium dining brands.",
+  "tags": [
+    "Food",
+    "Landing Page",
+    "E-commerce",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Restaurant",
+    "Fine Dining"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3643,
+      "sha256": "8ecc385e0842912c550b34ee7244fe733a543424d2cf12c471b45caca8fff2f3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 27588,
+      "sha256": "76e9f184c784bbf2cde6418729f9bd8328fcd86e35c4b9b19f5c346762828e51"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "b6f4a257553b5fd13dd1aa6beda057fed1b3b41efcb94be85b7bf4c0e98267ee"
+    },
+    {
+      "path": "index.html",
+      "bytes": 51920,
+      "sha256": "b1eea0288b249aaae15c63627b7346aaee70f2bd1914bbde0df0d6b774d67ca9"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "cta",
+    "menu-list",
+    "bento-grid",
+    "gallery-portfolio",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

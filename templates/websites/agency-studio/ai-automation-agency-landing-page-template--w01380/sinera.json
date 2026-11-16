@@ -1,0 +1,72 @@
+{
+  "id": "SN-W01380",
+  "title": "AI Automation Agency Landing Page Template",
+  "summary": "A dark, futuristic AI automation agency landing page template for showcasing enterprise intelligent agents, services, and discovery call CTAs.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Services",
+    "AI Automation"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3753,
+      "sha256": "c308e99c21c2d0c8251215313de1a4311f4d2131113cfba3008539c1fbe392ce"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16150,
+      "sha256": "7f5380722fcdea1e065937e89b013331e9202749a2ba9e3e3db47ade99cf8b58"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 876,
+      "sha256": "c992737bfc802e349a181db1626e1833b83d05b5b91bb3cd08db9f9ab0953afa"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 269,
+      "sha256": "e4964d7c4a6e6d75be88469fda44a21defc44c61dbc428c3fa0bac62a2bc79c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22945,
+      "sha256": "1fa30170e50e8b86f718bc7c4612c4938a76ec89c06e2a86114fffdc52e078dd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "bento-grid",
+    "how-it-works",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "SN-W01858",
+  "title": "Cinematic Portfolio Landing Page Template",
+  "summary": "A dark, cinematic portfolio template for filmmakers and creative studios to showcase projects, embedded video reels, and bold branding in a reusable layout.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Video",
+    "Creative Studio",
+    "Filmmaker"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3075,
+      "sha256": "a71c1dd956344bd023b2469f781924c6a9e623a8a06257af7d6159eb54cf753e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9008,
+      "sha256": "dded6a411dddce0a6d37c80c02f3834affba9a182a79f83e7a150cd6212c02da"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 869,
+      "sha256": "82e28d328163fb1b857f87957dd6bd27ea16ead33b225ceb56ae166eca8a146b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "845a8c33647082b21c3db87d511ee26caa07aa7a2c9bf6b015aad47a996ab97f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20840,
+      "sha256": "0fe63877ca1a8d449e55b527180d135f04912a1ed0cc475e9376cfc500e1db0b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "SN-W03441",
+  "title": "DJing Path Educational Landing Page Template",
+  "summary": "This template provides a sleek, dark-themed landing page designed to promote DJing and music production courses with interactive tabs, testimonials, and a clear call-to-action.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "Courses",
+    "Pricing",
+    "Testimonials",
+    "FAQ",
+    "Tabs",
+    "Video",
+    "Slider",
+    "Education"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3622,
+      "sha256": "36f6a91b7089abed545ed7d3e162b51ddf91768214d7fe4ded4509f4dea1dc2c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8724,
+      "sha256": "4db4bc5a697a729980283e79fce64e4fb7a6e686a3371983cd89526415156f15"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1105,
+      "sha256": "2960cfa4ce33a965ecf6a3265d9e63165bcef101018194f33ba0cc77081c2987"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 222,
+      "sha256": "840b63b074a548cd88e65b2778330a39b0c7e27de50b7cdf4db513ff9d27d7e1"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 168,
+      "sha256": "61421ac6730054da1cb51926fad1800062b9b4fcff8c335da75a209548e4b9f8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26144,
+      "sha256": "63284c7bdbe4033409ad63a97ca08c82cea066fbe61adb3aaf6b83fe9d51508e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "features",
+    "blog-articles",
+    "faq"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

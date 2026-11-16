@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02149",
+  "title": "Three-Step Deployment Section with Terminal Demo",
+  "summary": "Animated Tailwind section showcasing a three-step “How it works” guide with numbered cards, gradient background, faux terminal output, and call-to-action button. Ideal for SaaS or dev-tool landing pages explaining deployment workflows.",
+  "tags": [
+    "feature-section",
+    "steps",
+    "terminal",
+    "cta",
+    "tailwind",
+    "animated",
+    "responsive",
+    "landing-page",
+    "section"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 24734,
+      "sha256": "ce717c69fb3af6355869262a67467f38e24f5bdc2d2de0666e73d5f6c43d7152"
+    },
+    {
+      "path": "component.html",
+      "bytes": 20866,
+      "sha256": "d56142b56585453e272349feabb5c9292b55151d4483fcf3d0e9395adb08fbe5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21865,
+      "sha256": "4884340ea9f74879eb0ac3b264be7e8ba7cd4d698086ab977648f6d393e670fc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02158",
+  "title": "Animated Product Gallery Section with Headline",
+  "summary": "Responsive Tailwind section featuring bold headline, subtext, decorative divider and a 4-card image grid. Cards include rounded borders, hover-lift and fade-in on scroll—ideal for product showcases, portfolios or hero banners.",
+  "tags": [
+    "section",
+    "gallery",
+    "image-grid",
+    "tailwind",
+    "animated",
+    "responsive",
+    "product",
+    "hover-effect"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 45292,
+      "sha256": "74a7ca7f2dc4eb01062e4fc1cb8addd4cad1b4402227c8ac938b0ce105c206c5"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2718,
+      "sha256": "65e01e0970115f6d1d30b67f4d4e01d70eb4e1ed301d9b09c56c1e1465435df4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3585,
+      "sha256": "5e2536305b6861f242bfaf86f65d5c7f9ec02a0d693b9d1695c2ee4ee735d98e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

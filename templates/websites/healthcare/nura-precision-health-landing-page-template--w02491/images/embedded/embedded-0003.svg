@@ -1,0 +1,12 @@
+<svg viewBox="0 0 200 200" class="h-64 w-64 opacity-80">
+                            <!-- Grid -->
+                            <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+                                <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#F2F0E9" stroke-opacity="0.2" stroke-width="1"/>
+                            </pattern>
+                            <rect width="200" height="200" fill="url(#grid)" />
+                            <!-- Scanning Laser -->
+                            <line id="svg-laser" x1="0" y1="0" x2="200" y2="0" stroke="#CC5833" stroke-width="2">
+                                <animate attributeName="y1" values="0;200;0" dur="4s" repeatCount="indefinite"/>
+                                <animate attributeName="y2" values="0;200;0" dur="4s" repeatCount="indefinite"/>
+                            </line>
+                        </svg>

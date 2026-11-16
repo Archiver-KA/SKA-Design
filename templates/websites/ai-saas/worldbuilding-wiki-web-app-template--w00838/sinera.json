@@ -1,0 +1,72 @@
+{
+  "id": "SN-W00838",
+  "title": "Worldbuilding Wiki Web App Template",
+  "summary": "A clean, Notion-style worldbuilding wiki template for organizing characters, locations, lore, and items in a structured, editable web app layout.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Technology",
+    "Art & Design",
+    "Portfolio",
+    "Large Type",
+    "Flat",
+    "Documentation"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3500,
+      "sha256": "68825f4a641c9f55472d23919660fa37a82fc4adf7e4d2a6b5af8e862d631103"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7440,
+      "sha256": "5cc9c5bcf4922716f47f219fedaf365d80ebad836db01c3edcba5099a9456540"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 957,
+      "sha256": "d617fc6a73d75d509b94e967ad45e08b2ed5cf44e0a4dc644538aff69d229df3"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 183,
+      "sha256": "58a2220a830e2a3bc7cb6e2bfa99227e4a422dec8879b68c4524c07bda5c31b1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 98805,
+      "sha256": "e42c33df8eb3c0bc0ff881734f79157b68b95ab613044310a163985e538ab340"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "sidebar",
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

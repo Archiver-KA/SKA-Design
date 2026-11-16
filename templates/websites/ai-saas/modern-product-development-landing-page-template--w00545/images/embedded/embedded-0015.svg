@@ -1,0 +1,10 @@
+<svg class="w-full h-full" viewBox="0 0 200 100" preserveAspectRatio="none">
+                                <defs>
+                                    <linearGradient id="emeraldGradient" x1="0" y1="0" x2="0" y2="1">
+                                        <stop offset="0%" stop-color="rgba(16,185,129,0.2)"></stop>
+                                        <stop offset="100%" stop-color="rgba(16,185,129,0)"></stop>
+                                    </linearGradient>
+                                </defs>
+                                <path d="M0,80 Q30,70 50,50 T100,40 T150,30 T200,10 V100 H0 Z" fill="url(#emeraldGradient)" class=""></path>
+                                <path d="M0,80 Q30,70 50,50 T100,40 T150,30 T200,10" fill="none" stroke="#34d399" stroke-width="2"></path>
+                            </svg>

@@ -1,0 +1,70 @@
+{
+  "id": "SN-W00100",
+  "title": "AI Hardware Landing Page Template",
+  "summary": "A dark, futuristic landing page template for showcasing an intelligent AI life-companion device, featuring immersive 3D visuals, features, and pricing sections.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Gradient",
+    "3D"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3812,
+      "sha256": "93048e613780009a91ed6b0cc7d88f542122480873fc538c1fa1dbeec1db7c08"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17312,
+      "sha256": "458b7f36317d99722bdbafa55a25b7842e4ab5f3d086c99f445fad686b35eac0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 867,
+      "sha256": "fd356cd0d385d981a473359819f7af0d0f817a993d83499bed00142ff38db971"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "ec7f8106634cc1e6800f3419db098917d9e23efe4336d1a26af8c2bada9dbabf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28131,
+      "sha256": "62e8039030f8310f7c6a4326d9ef72c8d35e0c81007f9c4ab648a9448e4216e8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "features",
+    "bento-grid",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

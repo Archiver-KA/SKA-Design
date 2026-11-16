@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00773",
+  "title": "Glassmorphism Feature Card with Icon",
+  "summary": "A glass-style feature card showcasing an icon, title, and description with hover gradient highlight and scroll-triggered animation. Built with Tailwind-style utility classes, ideal for feature grids or product highlights.",
+  "tags": [
+    "card",
+    "feature",
+    "glassmorphism",
+    "tailwind",
+    "animated",
+    "hover",
+    "icon",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5312,
+      "sha256": "a9f834a5bc400a506a8782e3816b2c9dc87712749c6f3122174a671b04e932ac"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1204,
+      "sha256": "6c0150f57507b62aa8674d00ce08e64224f746aa971a3eb6cd4204925678247c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2061,
+      "sha256": "844b082c3e0571dc1e2eb94784aa16a404348dfe1af278053fc791011b866a5f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

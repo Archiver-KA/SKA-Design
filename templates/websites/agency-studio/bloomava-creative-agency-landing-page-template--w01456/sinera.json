@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01456",
+  "title": "Bloomava Creative Agency Landing Page Template",
+  "summary": "A high-end, visual-first creative agency template designed to showcase portfolios and brand identities with minimalist aesthetics and cinematic video backgrounds.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Graphic Design",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Services",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3527,
+      "sha256": "6728dd456836ae258a84bc117b979ac83bc6a91f3134c01077b0209ca953f305"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9690,
+      "sha256": "ed073269d0a2aa5df78cfca0cc3268b532187f33d28357fbfa68b159c587de8e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 740,
+      "sha256": "de5e4073c97adb1f790d1d16845dc663f8c42761344ebcdda19d24a818c5ab63"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40415,
+      "sha256": "2c5650c3ad4c43042ecbd35d9200694c46cff79e3e1bb206ed8bf23b3347c1e7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "stats",
+    "case-studies",
+    "bento-grid",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

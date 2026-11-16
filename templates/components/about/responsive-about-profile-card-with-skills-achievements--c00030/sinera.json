@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00030",
+  "title": "Responsive About/Profile Card with Skills & Achievements",
+  "summary": "Stylized About panel highlighting bio, experience, education, achievements and tool tags. Uses Tailwind CSS utilities, lucide SVG icons and responsive grid layout—ideal for portfolios, resumes or personal sites.",
+  "tags": [
+    "about",
+    "profile-card",
+    "portfolio",
+    "tailwind",
+    "responsive",
+    "grid",
+    "icons",
+    "bio"
+  ],
+  "kind": "components",
+  "category": "about",
+  "categoryLabel": "About & team",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 24436,
+      "sha256": "9709fdd5e9e195dd50b0bc2b8dcc8e8328fb005f930b5c56bf4f2e5a25b21176"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8410,
+      "sha256": "ef4eb241827799e4048ffb6c172a1a4ea5e8ff6dbf27541be164beea60e1d459"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9421,
+      "sha256": "125b5e509726224020319d0c4ae9773944b52d9290207a049d3ab2530bcb1e6a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

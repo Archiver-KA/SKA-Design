@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01082",
+  "title": "Voice-Enabled Command Bar with Suggestions",
+  "summary": "Tailwind-styled command bar featuring mic toggle, text prompt field, keyboard shortcut hints, run action button, live listening indicator, and clickable suggestion chips. Ideal for AI assistants, productivity dashboards, or OS command palettes.",
+  "tags": [
+    "command bar",
+    "input",
+    "voice",
+    "tailwind",
+    "interactive",
+    "command palette",
+    "suggestions",
+    "ai assistant"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4452,
+      "sha256": "46debaa6d0386de6b39215482e6a08e3e73799614665b19605485a4da81aab28"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3427,
+      "sha256": "ac151eda6ff93705d8fb5c298734bf93f0b94d7e2ecee3879224029867932d09"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4420,
+      "sha256": "26447c86ce0ac08ada9bc6e8d745fb08e96be32c9f996eece1a05edb4e65bb82"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

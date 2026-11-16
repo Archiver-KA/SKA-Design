@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02371",
+  "title": "Wallet Dashboard Layout with Sidebar & Stats",
+  "summary": "Responsive finance dashboard built with Tailwind CSS. Features desktop-style chrome bar, animated sidebar navigation, stat cards, recent transactions list and quick-action buttons. Gradient borders, glassmorphism and fade/slide effects deliver a sleek modern UX.",
+  "tags": [
+    "dashboard",
+    "layout",
+    "tailwind",
+    "responsive",
+    "finance",
+    "animated",
+    "stats",
+    "wallet",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 23902,
+      "sha256": "851695975ac4b9dabde17409967f087f01ed08a9829dc97b4ea295e26d62ec49"
+    },
+    {
+      "path": "component.html",
+      "bytes": 22868,
+      "sha256": "5022da6b53f84de1b648fb4e17ccce512438a31de14116edd5fb94736561e629"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23737,
+      "sha256": "53aadccc9179f090e4b7fb3f700f3486c4798c2a6970b19b2cfbfc26720cd2b9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

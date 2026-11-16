@@ -1,0 +1,67 @@
+{
+  "id": "SN-W00005",
+  "title": "3D WebGL Product Landing Page Template",
+  "summary": "A dark, futuristic landing page template for WebGL/Three.js or developer tools products, showcasing immersive visuals, features, and performance stats.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Large Type",
+    "3D",
+    "Developer Tools",
+    "WebGL"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3490,
+      "sha256": "8065ca2299d7bd256b60e45d1db6d1a19b3b608b4b5d6731737db3a4b2a13559"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9690,
+      "sha256": "88eff261030b0884c338d6ecd5ca32569334df8940f9cb4946e4e977a82b304e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 732,
+      "sha256": "4ee0e96af1d1e5f896c13d54ec7e4dfdd5ce616c579cfd6892fda31e9a310ba4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23964,
+      "sha256": "db34bd30320403a645dd51ed844a9833e5b6dc2034c138cb8e4448842c027971"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "navbar",
+    "hero",
+    "features",
+    "dashboard-preview",
+    "app-download",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

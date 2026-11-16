@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01373",
+  "title": "Hero Banner with Animated Oversized Typography",
+  "summary": "Responsive hero section featuring massive clamp-based heading and overlayed trademark text. Uses Tailwind CSS and fade-in animation, ideal for portfolios or landing pages that highlight bold typography.",
+  "tags": [
+    "banner",
+    "typography",
+    "tailwind",
+    "animated",
+    "responsive",
+    "landing-page",
+    "portfolio"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10930,
+      "sha256": "d4ccc8c02e80f02062fd4c381d533db5dd76f5619612eec4812110585714d28c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 470,
+      "sha256": "dd549e7a1c9a969c3ce422a3a680d71e78070696495c27407800999c93eb467b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1337,
+      "sha256": "2eaf62519cafffed366098b3c851d42e143fd06b82dfaa71071f8605f0ba30aa"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "SN-W00582",
+  "title": "Nexus Funnel Page Builder Template",
+  "summary": "A reusable template for a Nexus-style funnel page builder UI, including checkout, upsell, downsell, and thank-you flows for conversion-focused experiences.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Funnel builder",
+    "Checkout flow",
+    "SaaS UI"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3894,
+      "sha256": "fae74db17b9746aacb087380cba18810533a4a19a896cf5fee4cefb35d0037be"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 25462,
+      "sha256": "2b7f6822d83a5d6cdab896abaa7b2b1a6eae1774445d997215e68bfce27a6a48"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1542,
+      "sha256": "6fe3cb3b8bb65e656425d10a4d8ce13f8a7e717d55c5dea64ab07701a7086bc0"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "1d477c85a7ad0d3a741110a72123c23e8bdb35a659e27798b40c1804211d7d73"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 269,
+      "sha256": "d37a619700b777dfc6485c3caa17970602fb6dbb7080ac123a4d985631f1bb3e"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 218,
+      "sha256": "06a7d298572a3cbfd0aaadc517b3b539763bc184636cfb996dbc3e9983ebca61"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 217,
+      "sha256": "af373408ef1abcd90a9105707e554438b41754e4dd8ac39f83e550337880054f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 120391,
+      "sha256": "b7e191786c26abf1c37a1a727f508fb38687d3637f2088eac79af0cc8484319a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "logo-cloud",
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "stats",
+    "services",
+    "gallery-portfolio",
+    "pricing",
+    "about",
+    "testimonials",
+    "contact-form",
+    "booking",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "broken-images"
+    ],
+    "rendered": true,
+    "fixes": [
+      "removed-missing-favicon-link",
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

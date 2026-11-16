@@ -1,0 +1,60 @@
+<svg
+            viewBox="0 0 320 78"
+            class="mt-2 h-20 w-full"
+            fill="none"
+            role="img"
+            aria-label="Heart-rate line from 02:00 to 06:00 with a peak of plus 21 BPM at 03:14"
+          >
+            <defs>
+              <linearGradient id="hrFill" x1="0" y1="0" x2="0" y2="1">
+                <stop
+                  offset="0%"
+                  stop-color="#7B5CFF"
+                  stop-opacity="0.3"
+                ></stop>
+                <stop
+                  offset="100%"
+                  stop-color="#7B5CFF"
+                  stop-opacity="0"
+                ></stop>
+              </linearGradient>
+            </defs>
+            <text
+              x="99"
+              y="11"
+              text-anchor="middle"
+              fill="#B8A4FF"
+              font-size="8"
+              font-family="Inter,sans-serif"
+            >
+              +21 BPM · 03:14
+            </text>
+            <line
+              x1="99"
+              y1="15"
+              x2="99"
+              y2="68"
+              stroke="#7B5CFF"
+              stroke-opacity="0.7"
+              stroke-width="1"
+            ></line>
+            <path
+              d="M0 56 C18 54 34 58 50 55 C66 52 82 50 90 42 C95 34 97 24 99 22 C101 24 105 36 113 46 C123 55 142 57 162 55 C186 54 206 58 230 56 C254 54 280 57 300 55 L320 56 L320 78 L0 78 Z"
+              fill="url(#hrFill)"
+            ></path>
+            <path
+              d="M0 56 C18 54 34 58 50 55 C66 52 82 50 90 42 C95 34 97 24 99 22 C101 24 105 36 113 46 C123 55 142 57 162 55 C186 54 206 58 230 56 C254 54 280 57 300 55 L320 56"
+              stroke="#EDE7D2"
+              stroke-opacity="0.65"
+              stroke-width="1.5"
+            ></path>
+            <circle
+              class="halo"
+              cx="99"
+              cy="22"
+              r="7"
+              fill="#7B5CFF"
+              fill-opacity="0.25"
+            ></circle>
+            <circle cx="99" cy="22" r="2.5" fill="#B8A4FF"></circle>
+          </svg>

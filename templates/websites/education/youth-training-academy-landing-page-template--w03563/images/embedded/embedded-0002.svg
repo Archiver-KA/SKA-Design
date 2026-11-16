@@ -1,0 +1,27 @@
+<svg viewBox="0 0 200 200" class="w-full h-full max-w-[180px] drop-shadow-[0_0_12px_rgba(204,88,51,0.3)]">
+                            <!-- Background Circles -->
+                            <circle cx="100" cy="100" r="80" fill="none" stroke="#2E4036" stroke-width="0.5" stroke-dasharray="4 4"/>
+                            <circle cx="100" cy="100" r="40" fill="none" stroke="#2E4036" stroke-width="0.5"/>
+                            
+                            <!-- BJJ / Grappling Abstract Geometry -->
+                            <g id="wireframe-figure" stroke="#CC5833" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+                                <!-- Opponent Base -->
+                                <path d="M 60 140 L 100 110 L 140 140" stroke="#F2F0E9" stroke-opacity="0.3"/>
+                                <circle cx="100" cy="110" r="3" fill="#F2F0E9" stroke="none" opacity="0.3"/>
+                                
+                                <!-- Practitioner Guard Structure -->
+                                <path id="leg-left" d="M 100 160 L 70 120 L 95 90" />
+                                <path id="leg-right" d="M 100 160 L 130 120 L 105 90" />
+                                <path id="torso" d="M 100 160 L 100 80" />
+                                <path id="arm-left" d="M 100 90 L 60 70" />
+                                <path id="arm-right" d="M 100 90 L 140 70" />
+                                
+                                <!-- Joints (Nodes) -->
+                                <circle cx="100" cy="160" r="2.5" fill="#CC5833" /> <!-- Hips -->
+                                <circle cx="100" cy="80" r="3.5" fill="#CC5833" class="node-active" /> <!-- Head -->
+                                <circle cx="70" cy="120" r="2" fill="#CC5833" /> <!-- Knee L -->
+                                <circle cx="130" cy="120" r="2" fill="#CC5833" /> <!-- Knee R -->
+                                <circle cx="60" cy="70" r="2" fill="#CC5833" /> <!-- Hand L -->
+                                <circle cx="140" cy="70" r="2" fill="#CC5833" /> <!-- Hand R -->
+                            </g>
+                        </svg>

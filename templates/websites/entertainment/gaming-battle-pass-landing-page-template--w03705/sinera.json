@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03705",
+  "title": "Gaming Battle Pass Landing Page Template",
+  "summary": "A high-impact gaming Battle Pass landing page template designed to showcase tiers, rewards, and pricing for seasonal passes and in-game progression systems.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Technology",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Gaming",
+    "battle pass",
+    "webgl background",
+    "cs-style rewards"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3501,
+      "sha256": "459b554733be8627c4e074fe42afa6693c16086d50cc9369c5e3a8ea6b0e98ea"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12340,
+      "sha256": "ec10c39ca0068af22e2e0893bc9ee3d395a1c4feb60ef4a1489a412b5055e684"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 732,
+      "sha256": "67df6b8daa13004ac610882dd194dfc8de15748a9c15d0070710aa8a3f366c78"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40654,
+      "sha256": "53523860739aa98b0dff0d4d897158ca4f7c2ec24fd15a39f01ccc7b3d891a09"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "pricing",
+    "listings",
+    "about",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

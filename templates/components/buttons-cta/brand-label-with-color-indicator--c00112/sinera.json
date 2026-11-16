@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00112",
+  "title": "Brand Label with Color Indicator",
+  "summary": "Flexbox layout shows a rounded emerald square beside bold brand text. Built with Tailwind utilities, ideal for status badges, headers, or list items that pair a color indicator with a label.",
+  "tags": [
+    "badge",
+    "label",
+    "status",
+    "branding",
+    "tailwind",
+    "flexbox",
+    "button"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2036,
+      "sha256": "871fa03b450660d01218ff10ac767fd0e681e7674afa711cc560552a44b64572"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1473,
+      "sha256": "3292624eca641c83f7c6c33a2fa6d1e994c5a2ebb6c30acb13208b6a575220be"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2326,
+      "sha256": "88b116b2753bea9b4eb657ca06be3b695cf152f9d656d7ebfbbe58920c5f19ce"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

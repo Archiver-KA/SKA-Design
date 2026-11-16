@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01252",
+  "title": "Animated Hero Section with Oversized Headline",
+  "summary": "Responsive hero/banner featuring slide-up animation, large blend-mode headline, centered 16:9 background image, and subtle crosshair lines. Built with Tailwind CSS, ideal for landing pages, product promos, and marketing headers.",
+  "tags": [
+    "hero",
+    "banner",
+    "tailwind",
+    "animated",
+    "responsive",
+    "landing",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13544,
+      "sha256": "15cd6039d569941149974bc6719ad8c54dabe6ce892a9a1953dc3012af1c1387"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1788,
+      "sha256": "bad2dab983e07ff3d04247052fb3eb3f64aeda6d314e746daac474a01eb655d5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2654,
+      "sha256": "e787078ff54d65d3b8b54ae75f2e2227f47dc52be4755997d0a1f884b358e971"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

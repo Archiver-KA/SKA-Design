@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01262",
+  "title": "Minimal Mono E-commerce Landing Page Template",
+  "summary": "A minimalist mono-style e-commerce landing page template for fashion brands featuring hero, collections, product grid, journal story, newsletter, and footer sections.",
+  "tags": [
+    "E-commerce",
+    "Landing Page",
+    "Brand",
+    "Minimal",
+    "Clean",
+    "Fashion",
+    "Style",
+    "Large Type",
+    "Gradient",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3557,
+      "sha256": "1ddbe8504b237dcd970796e79f2a42346f310c67896ddae8fcc2fd812079963f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7170,
+      "sha256": "0e7cc65926cc619ede6be453be119d15a6978bbe536ddbaef7429cb14e748e26"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "9b6ea66b72bb21988309036bd5a7750aefb7715568d387fce1986f29ed0223c9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34890,
+      "sha256": "0ea4b118ab53d409ce461e01b35b447781a0ca1c3ce886931102d66d3fdbdf89"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "announcement-bar",
+    "navbar",
+    "hero",
+    "marquee",
+    "product-grid",
+    "timeline",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

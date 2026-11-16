@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01429",
+  "title": "Makeup Course Hero Section with CTA",
+  "summary": "Responsive hero for a makeup mastery course landing page. Includes avatar social proof, bold headline, gradient/outlined CTAs, rating and certification badges, animated slide-up effects, image banner with overlay controls, progress bar, and floating stat card. Tailwind CSS styled.",
+  "tags": [
+    "hero",
+    "landing-page",
+    "cta",
+    "tailwind",
+    "responsive",
+    "animated",
+    "course",
+    "image-overlay"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 36152,
+      "sha256": "49e84194aee6ed8468e02408f2664bc08227c16bac9f245cf3d01c692b3560ae"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13173,
+      "sha256": "21561c6f0a8399728e0c0954e09f7e9536e1db5bc9a6100bdd688e4d618e1f5e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14159,
+      "sha256": "76421599f090a05906c4b1f3b5a6e9d363ff5a068ffd716302d8f8a21475e439"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

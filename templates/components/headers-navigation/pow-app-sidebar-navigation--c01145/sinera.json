@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01145",
+  "title": "POW App Sidebar Navigation",
+  "summary": "Sidebar navigation component with logo, menu items, child profiles section, and footer links for parent dashboard.",
+  "tags": [
+    "sidebar",
+    "navigation",
+    "menu",
+    "dashboard",
+    "parent",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6884,
+      "sha256": "ef7074e7671c3f0e329c70cdc48bbcfc797958c410dae86b4de88395a466b4d8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1897,
+      "sha256": "e25972174cb755dc57cba94625a34961422c939c3f9c4e9cc3af291ce65de383"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2744,
+      "sha256": "29aa8eb2a9a8330abfa50823e2a5db40606c8109b4d97fb00b2572ae7c50d3bb"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

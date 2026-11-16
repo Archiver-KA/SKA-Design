@@ -1,0 +1,70 @@
+{
+  "id": "SN-W03815",
+  "title": "Auto Detailing Landing Page Template",
+  "summary": "Premium auto detailing landing page template for showcasing services, portfolio, pricing, reviews, and contact to convert car care leads.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Automotive",
+    "Detailing"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3609,
+      "sha256": "7b74220f295a4604639607206a3fefbbaa01cfc095ae4540003f64e58af2db06"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16316,
+      "sha256": "fe1639679551f3b81372bb2e2e6f8e3026470ebcc3b071fe8ccc4afb3f9477e6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 814,
+      "sha256": "bae49956500bca6ccbcf59c07d5f263f8bb981111face23cf14102c1ec39337d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38342,
+      "sha256": "05ccdd7e3fae9266e324577ec1be2f6c1f219974795d27e327a4064fc02fe67c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "product-grid",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

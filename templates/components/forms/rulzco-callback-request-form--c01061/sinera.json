@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01061",
+  "title": "RulzCo - Callback Request Form",
+  "summary": "Glassmorphic contact section styled with Tailwind CSS featuring company details and a multi-field form (name, business, email, phone, service select, message). Enables users to request a callback; ideal for SaaS or agency landing pages.",
+  "tags": [
+    "contact",
+    "form",
+    "tailwind",
+    "dark",
+    "responsive",
+    "callback",
+    "landing",
+    "section"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20410,
+      "sha256": "b085b3c1828967861c6ad5e01f6c8206bf8456ae4bcfaa7ec3eb2ba8d777c744"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6627,
+      "sha256": "e0c2fb39adbd5db74e89b137987228a9059ce7589bbce05cf272b44453306235"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7608,
+      "sha256": "09c72c6fb8af1d2288b5a11a38dfe8085c0da429004ee245a7d6c037b4996ae2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

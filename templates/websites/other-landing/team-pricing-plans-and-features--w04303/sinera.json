@@ -1,0 +1,60 @@
+{
+  "id": "SN-W04303",
+  "title": "Team Pricing Plans and Features",
+  "summary": "Displays tiered pricing options with feature comparison and call-to-action buttons for team subscription plans.",
+  "tags": [
+    "Pricing",
+    "Features",
+    "Comparison Table",
+    "Tailwind CSS",
+    "Responsive Design",
+    "CTA"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2965,
+      "sha256": "f35b3886936b99d4fa351a17b219fb6700a7f010e68dbfd0ded7d18e203f02ad"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13362,
+      "sha256": "2491d5e8fd0fc8d4826c9a3870c3aba9f6b46f89c326e504fb39db194b68ca66"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "272dc8d0760d1cb1afa563dd742f0c60943b64f29316787e6cd31eed417345c6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6031,
+      "sha256": "e2a29b5685752ff62226479fcf946d2ce01410dfcf8629f1391adc079a22e4e1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "pricing",
+    "comparison",
+    "cta"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

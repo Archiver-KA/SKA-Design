@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02193",
+  "title": "Scrollable Gradient Credit Card Tile (Tailwind)",
+  "summary": "Stylized credit card component featuring gradient background, masked card data, and expiry/CVV labels. Built with Tailwind CSS and placed in a horizontal, scrollbar-hidden flex container for wallet-style scrolling. Ideal for payment method lists or dashboards.",
+  "tags": [
+    "card",
+    "credit-card",
+    "payment",
+    "tailwind",
+    "gradient",
+    "scrollable",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6518,
+      "sha256": "7a5f552355d63eeac010c3b69af54fe652b0b002e7cce6429222cc1e69928019"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1287,
+      "sha256": "2abe6420e700b20ac7440d848a59876efe22f45b49359e58c439c8b53e711db2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2285,
+      "sha256": "3da320fbf8b9f779615199e37add13a052ec1effb66ac84ccd5ca195c0b65e01"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "SN-W01926",
+  "title": "Cybersecurity Engineer & Portfolio Template",
+  "summary": "A high-performance personal portfolio template designed for cybersecurity experts, ethical hackers, and developers featuring a terminal-inspired UI.",
+  "tags": [
+    "Technology",
+    "Portfolio",
+    "Dark",
+    "Animated",
+    "Minimal",
+    "Futuristic",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3790,
+      "sha256": "9b977b64cc0465c44c6123dc11ea87510fb0c5745a99971c39deaea2cdb716a8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22464,
+      "sha256": "5401adfc92da93da01801bf45d86343fa24fc3d12994906efae46519b5761c5c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 871,
+      "sha256": "e12f7cb761bf78548156daea25f51b554db159ed0c795129573fa1192083f8b2"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "6d7f47cc04d290ef4abac372150068099aee31617cc15da366306e3307a84d33"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33778,
+      "sha256": "9686bd28cdaeb5a5be59a21ef94e56157826f42a60f1a4bf3e18e998b7ccf533"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "about",
+    "features",
+    "timeline",
+    "case-studies",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00221",
+  "title": "Interactive Gradient CTA Button",
+  "summary": "Animated call-to-action button built with Tailwind CSS. Features gradient overlays, pulse animation, ring/shadow effects, and icon shift on hover. Ideal for landing pages or section links like \"Contact\" or \"View Spaces\".",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "gradient",
+    "animated",
+    "hover",
+    "interactive",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2172,
+      "sha256": "fbce82b334417339a3922129ede9cd939380a9dcfa3f0dd47ec619645aaae93b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2058,
+      "sha256": "a042afe3e3271f02ca8e5d570512102170cd159118129b495c9bc8013bcd9bdc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3040,
+      "sha256": "f9ca7608cbbf9122eff95ef14145a952f83a2af4bfee571e09e50a951c9183d9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

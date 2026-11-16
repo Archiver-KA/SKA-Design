@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02255",
+  "title": "Community Dashboard Layout with Icon Sidebar",
+  "summary": "Responsive dashboard shows featured, popular and recent community cards beside a sticky icon sidebar. Uses Tailwind CSS gradients, blur and rounded cards for a modern look, ideal for social or content apps needing a community overview.",
+  "tags": [
+    "dashboard",
+    "card",
+    "tailwindcss",
+    "responsive",
+    "navigation",
+    "community",
+    "layout",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14140,
+      "sha256": "4ef1403b59eeb401381f87a4be7a45f2285a345131abf934f3fc5f41b24ed6ab"
+    },
+    {
+      "path": "component.html",
+      "bytes": 21390,
+      "sha256": "aef413c131808f894c6f5ea737a492a263c9f5daac6d5f0e6c13a776b8803b2c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22385,
+      "sha256": "a48e869f546d1b5a768f49e254d27d7ab1076cb528504c20ce2e7fea5126fba2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

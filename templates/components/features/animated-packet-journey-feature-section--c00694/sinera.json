@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00694",
+  "title": "Animated Packet Journey Feature Section",
+  "summary": "A dark, full-width Tailwind CSS feature section that visualizes a four-stage data flow with staggered glassmorphism cards, curved SVG connection lines, and subtle animations. Ideal for showcasing process steps, system architecture, or product workflows.",
+  "tags": [
+    "feature",
+    "section",
+    "tailwind",
+    "animated",
+    "glassmorphism",
+    "timeline",
+    "workflow",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13252,
+      "sha256": "e1e937379fc47acac33627a6be76672f46a2f058c8b8d54a185de23877a710ac"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5571,
+      "sha256": "5908bc99827b7514dfa1416ebd4c4cc039bf941783134bd13299b1a9226e328d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6431,
+      "sha256": "e23beca831716a25f490fe7b3dacdd9b334fd1c918b33cdd2db4d1425e47466f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

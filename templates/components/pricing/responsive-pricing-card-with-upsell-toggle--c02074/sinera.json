@@ -1,0 +1,41 @@
+{
+  "id": "SN-C02074",
+  "title": "Responsive Pricing Card with Upsell Toggle",
+  "summary": "Tailwind-styled pricing section featuring main rate, feature list, add-on upsell switch, and CTA button. Fully responsive grid ideal for SaaS or agency landing pages requiring clear pricing and optional upgrade selection.",
+  "tags": [
+    "pricing",
+    "tailwind",
+    "responsive",
+    "upsell",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11162,
+      "sha256": "563d11f532ee50eccf05f2eda81ee2636ad50d49668aac1232ffc614fb48feaf"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4718,
+      "sha256": "6ab6a329c5f9802c160c48843e5682c04054d244f2791b5db6137fd31b12274e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5711,
+      "sha256": "a06626d5cb418995a954ec679d12cfbbf37f017a73cd0dbf9915e7993cae13f0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

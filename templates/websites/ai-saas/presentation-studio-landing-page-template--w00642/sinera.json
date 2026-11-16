@@ -1,0 +1,68 @@
+{
+  "id": "SN-W00642",
+  "title": "Presentation Studio Landing Page Template",
+  "summary": "A modern presentation studio landing page template for showcasing pitch deck services, process, portfolio, pricing, and booking strategy calls.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "presentation design",
+    "pitch decks"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3544,
+      "sha256": "ae7c6fd7aec7651d223e33aced503b6732e0d018fe2a157cc5b365604818126c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12608,
+      "sha256": "22228977c7d131908f632158916e3403dc0c0e30f38e10c27091c3348f7e3315"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "9491dd8e183d62c268c1895dac7f6fccf25b2ab6ea85977f07c86c44f743fbe1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35658,
+      "sha256": "7d092ea0e533f46b7bb0b44963fab011a6ad4075c128cbeaeea1b47953f8ff48"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "how-it-works",
+    "gallery-portfolio",
+    "logo-cloud",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

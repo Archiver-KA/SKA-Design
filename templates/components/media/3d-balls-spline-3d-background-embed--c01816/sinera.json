@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01816",
+  "title": "3D Balls Spline 3D Background Embed",
+  "summary": "Absolute-positioned container embedding a Spline iframe for a full-width, full-height interactive 3D background. Tailwind utility classes handle sizing and layering, ideal for hero sections or immersive landing pages.",
+  "tags": [
+    "background",
+    "iframe",
+    "spline",
+    "3d",
+    "tailwind",
+    "overlay",
+    "full-screen"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6104,
+      "sha256": "75587724a367597367f48e0515b5ca40a75cc47bc03843b8089f3f96d7d8ad19"
+    },
+    {
+      "path": "component.html",
+      "bytes": 233,
+      "sha256": "d169b65c899b6696b1e0b3ccb15bd26518e148f1ea835578e8c87b263fe37938"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1089,
+      "sha256": "00e7ab5fcd4ca0f774ece9a669ef80a91b1e92c5b0ffd983321188f7de5fa80b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

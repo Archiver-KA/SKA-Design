@@ -1,0 +1,93 @@
+{
+  "id": "SN-W03389",
+  "title": "VECTR Structural Development Landing Page Template",
+  "summary": "A high-performance engineering and architectural landing page template designed for industrial developers and institutional capital firms focused on structural ROI.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Real Estate",
+    "Business",
+    "Dark",
+    "Futuristic",
+    "Clean",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3859,
+      "sha256": "9515b9dd298b28f1858fb77e9c5091408b0607172cb6b43ba4c30feca2ecaa9d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 26836,
+      "sha256": "d7a4bef911100a638eaf73d52aa58d701e0abfd969528f1eeabe8818fe1b25be"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1756,
+      "sha256": "0f568491a5ea875472249eaff51dd2a2a64d43dd7f74d9c8965fbadf786ed6d8"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 274,
+      "sha256": "becfaee5324acbea0b68111d36dc46b2e715984ef9d1cd4289b1d72d63f903bf"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 1273,
+      "sha256": "695dad1e374356bfc927d0e96358a061898858855648b6f51085532c5e2c87d1"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 161,
+      "sha256": "5f7fdedc1bd5ce456a5a00b2c2995aa5cdaf0fcd72a9975d5d31fd90d748117e"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 280,
+      "sha256": "da2980d3a6a19df00baaa571ada9c5543ce667262d44a9a2caa2ee0e73cafe22"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 196,
+      "sha256": "c16dab02e81f0c2a6d49ace241bd5950f64665bf34a8f8641430fccec838421e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 50123,
+      "sha256": "0d86d00112d224f7fd237cd9fbe71a684f0b10c964561c39ccff41ee331c1176"
+    }
+  ],
+  "collection": "logistics",
+  "collectionCategory": "industry",
+  "collectionLabel": "Logistics",
+  "collectionCategoryLabel": "Industry / Energy",
+  "collectionConfidence": 0.88,
+  "collectionBasis": "business-keywords",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "timeline",
+    "marquee",
+    "bento-grid",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

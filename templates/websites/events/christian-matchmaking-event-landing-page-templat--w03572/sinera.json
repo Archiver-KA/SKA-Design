@@ -1,0 +1,80 @@
+{
+  "id": "SN-W03572",
+  "title": "Christian Matchmaking Event Landing Page Template",
+  "summary": "A refined landing page template for a private Christian matchmaking launch event, featuring event details, benefits, and an invite request form.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Event",
+    "Matchmaking",
+    "Christian"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3436,
+      "sha256": "a8dee614f2b5e8be6dc7189807238b4b5093edc5274b7c51f7da719b65a55f26"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16082,
+      "sha256": "6e8a4c9b71303abdd835d601dadf644212e816023ecda9b8d26ab96fc669f360"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1270,
+      "sha256": "818fcd528a51051e31fb2ea528635e85b4353a4a462eb631879815118674b874"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 320,
+      "sha256": "2ab60e0623bd18c294e0555f77a9d7783e71c063133dbe2c567c1da59ca87237"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 299,
+      "sha256": "842763645f1135c7426bb9f04ace80a62758dfb5fcba57d411ad3411f2db0e9e"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 352,
+      "sha256": "c11fdbe83b913c66a160f2718f465063910dc5ef2095df0e63edce5681fe09db"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21996,
+      "sha256": "3b08f2e280380cfea7cc78f8bf0652c372bffa81ba9f46231d29f65539ee98ab"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

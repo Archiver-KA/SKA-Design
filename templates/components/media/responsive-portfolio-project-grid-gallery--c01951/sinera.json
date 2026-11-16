@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01951",
+  "title": "Responsive Portfolio Project Grid Gallery",
+  "summary": "Tailwind grid gallery with featured and regular project cards, image overlays, category badges and hover-lift/scale animations. Includes external link and play overlays. Fits portfolios, agency landings or case-study sections.",
+  "tags": [
+    "grid",
+    "gallery",
+    "portfolio",
+    "tailwind",
+    "responsive",
+    "hover",
+    "animation",
+    "image"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 37354,
+      "sha256": "ae86d6fe74da8b33251a7aac2238c185657645202b8e5c5730823748b2fd6650"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9529,
+      "sha256": "9b2cdcb8411e71b7d58170d3cb3ff743f02d47a228a8257e978e6353edd2690f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10521,
+      "sha256": "519f54be594cc01fda45ac40c701ddf40b3f8a3023a9783e504e387ced4d23b5"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

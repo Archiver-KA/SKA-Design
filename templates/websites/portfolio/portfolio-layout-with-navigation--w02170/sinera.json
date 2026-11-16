@@ -1,0 +1,63 @@
+{
+  "id": "SN-W02170",
+  "title": "Portfolio Layout with Navigation",
+  "summary": "Responsive portfolio UI with sections for About, Work, Projects, and Contact using Tailwind CSS styling.",
+  "tags": [
+    "Portfolio",
+    "Navigation",
+    "Tailwind CSS",
+    "Responsive",
+    "User Profile",
+    "Web Layout"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3061,
+      "sha256": "39a28ff838dafdb4869a7d463550f86fd8bed749b76b7570c0df506328e2e428"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8732,
+      "sha256": "2ff8a5e4fb33facfad7c7896fe10acf6dd9afce3d1445d09071ff082654639f1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 719,
+      "sha256": "40c8f1e05c0c150dc59840f8391a7650fc94770072d4251b7cb14403a7591325"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3470,
+      "sha256": "f8d6a1031283c371063b9cbccc90feb5342dd0111212a707ed6d2a7290fa20c0"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "snippet",
+  "components": [
+    "hero",
+    "navbar",
+    "about",
+    "case-studies",
+    "contact-form"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "snippetType": "navbar",
+  "design": "DESIGN.md"
+}

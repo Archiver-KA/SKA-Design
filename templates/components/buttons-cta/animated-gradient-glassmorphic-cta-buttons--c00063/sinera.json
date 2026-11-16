@@ -1,0 +1,45 @@
+{
+  "id": "SN-C00063",
+  "title": "Animated Gradient & Glassmorphic CTA Buttons",
+  "summary": "Pair of call-to-action buttons: a green gradient button with floating particle animation and arrow stroke effect, and a glassmorphic button featuring blur, gradients and click-ripple. Built with Tailwind utilities, custom CSS and minimal JS—ideal for hero or landing sections.",
+  "tags": [
+    "button",
+    "cta",
+    "animated",
+    "gradient",
+    "glassmorphism",
+    "particle",
+    "ripple",
+    "tailwind",
+    "css"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4590,
+      "sha256": "b2fd9133855da9b09620c008c3a5cb65a7972a90226d212f9f793544c7dc7292"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6936,
+      "sha256": "6c3c5860738200e94c6bd66f3ddff4fe6690592cc72f8709b96c162f7a99fdbd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7805,
+      "sha256": "9f745f61a2c2e9f807a5a08072180fb885095772031c4d261db621bc627cce2e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

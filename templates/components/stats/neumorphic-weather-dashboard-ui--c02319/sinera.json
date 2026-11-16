@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02319",
+  "title": "Neumorphic Weather Dashboard UI",
+  "summary": "Full weather dashboard layout with navigation rail, hero temperature display, hourly slider, metrics cards, 7-day outlook, and alert module. Uses Tailwind-style utility classes and neumorphic, physical device-inspired styling for modern weather apps.",
+  "tags": [
+    "ui",
+    "dashboard",
+    "weather",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "dark mode",
+    "skeuomorphic"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15752,
+      "sha256": "dd6134b83731ae2ba4972af2be845bb38ffdfd490dd73433dd3e66d4919cbd39"
+    },
+    {
+      "path": "component.html",
+      "bytes": 23592,
+      "sha256": "b160ca16c40e41c23efce5b9a9b5c74302ceeb12e9b7cb90aa65eb9ca8ff0f68"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24534,
+      "sha256": "4bbb8df4ab74144833f50d6819437f2c8acac3c147ca700ac28395b1f4f85e93"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

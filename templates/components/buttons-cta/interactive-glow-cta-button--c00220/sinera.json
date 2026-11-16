@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00220",
+  "title": "Interactive Glow CTA Button",
+  "summary": "Call-to-action button featuring cursor-tracking inner glow, expanding underline, and bloom hover effect. Styled with Tailwind utility classes; perfect for landing pages, hero sections, or sign-up prompts.",
+  "tags": [
+    "button",
+    "tailwind",
+    "interactive",
+    "animated",
+    "cta",
+    "hover",
+    "glow",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2042,
+      "sha256": "f0262c15ffd8a740eeb58d3a54929d854e22f0a7158d734fdf7453f1d34fd6c6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1866,
+      "sha256": "4c3247219f04a85d1a08aa929289cb172f0148a08293b4836ebcda3d09ec0373"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2714,
+      "sha256": "7de065ad7777fe20c3a2af5d7414ff299dc6586a7ef79418861c7625d98f673a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

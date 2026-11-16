@@ -1,0 +1,60 @@
+{
+  "id": "SN-W04256",
+  "title": "PRECOG NEXUS Tokenization Landing Page Template",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3629,
+      "sha256": "7eca8c0ed1c54546825041dcd6f176b8ad5cad768b022e5eac1bfedefa1eeba4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20652,
+      "sha256": "2c582b260b3e3faef6f4bd70b3102c8c1371ca6c0624ad8a2899df1911d6f127"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 885,
+      "sha256": "ea5e7f604fec1172dc9c4432428ed82d7509302cacf7b070c219e4e3bf024e4b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 735,
+      "sha256": "965fd72e1700482d54d07f41544cc9f3dc35b5d0d810593b3a6971f44ea4b2a3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34033,
+      "sha256": "eff5fb173953c2369b8b100e9fb143517bea0b062264d6e9eb4a374d387b2f08"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "cta",
+    "logo-cloud",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

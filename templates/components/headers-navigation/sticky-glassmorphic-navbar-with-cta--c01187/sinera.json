@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01187",
+  "title": "Sticky Glassmorphic Navbar with CTA",
+  "summary": "Responsive header bar with logo, navigation links, login link, and gradient “Get started” button. Features sticky position, backdrop blur, glassmorphic style, and Tailwind CSS utilities—ideal for SaaS or product sites seeking a modern top-navigation.",
+  "tags": [
+    "navbar",
+    "header",
+    "tailwind",
+    "sticky",
+    "responsive",
+    "glassmorphism",
+    "gradient",
+    "navigation",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3904,
+      "sha256": "97a51478e517b61b280ecac1ad93986c689c6124fb62834223e4040a7489f7f7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3092,
+      "sha256": "67bd60a8f4ca8d14089449af53d4b60de81fade593fabc147b1a27051e69202f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3948,
+      "sha256": "3759d7fb0231366622ca64eb6a3b2cd457e855126d8eed94abeeecabc20be43c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

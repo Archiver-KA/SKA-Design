@@ -1,0 +1,65 @@
+{
+  "id": "SN-W03761",
+  "title": "Digital Trust Journal Template",
+  "summary": "A reusable landing page template for digital trust journals, advisory firms, and transparency-focused brands showcasing insights, frameworks, tools, and newsletter growth.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Blog",
+    "Brand",
+    "Minimal",
+    "Clean",
+    "Grid",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "news-blog",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3428,
+      "sha256": "c5664ac3e9f1d48e0107dd354a3daffbf0d95a669aa387b684b2cccc40bf219d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13108,
+      "sha256": "8cb60283582e32d8760ae4a895f788cd2440935646bac965d9e895ff8b7ea1ce"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "c4fa66b2f05d8cfa6e103443949c8642eb4adcc124bdb4214491eaa900d160e9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26814,
+      "sha256": "a99a304b17a60edf1397a849670e8b84c37a938ef629701e91838e83d7172d4b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "content",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Content / News",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "awards-press",
+    "blog-articles",
+    "services",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01101",
+  "title": "Auto Parts E-commerce Landing Page Template",
+  "summary": "A modern auto parts e-commerce landing page template for showcasing products, filters, and promotions for online automotive retailers.",
+  "tags": [
+    "E-commerce",
+    "Landing Page",
+    "Business",
+    "Clean",
+    "Colorful",
+    "Large Type",
+    "Grid",
+    "Automotive",
+    "Online Store",
+    "Conversion Focused"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3545,
+      "sha256": "afa62ab6371015e19b30b15668e50d71733249d109d7606508479388e9af85db"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18592,
+      "sha256": "3740eebcb39c887f5918551e5ccb8db93a4c8fe3b15a4b9fa56266df8470fcdd"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "e9efb00a8fb443376e37d85ffeb6809b6fbdeac23e26a2b141782232c3adfdab"
+    },
+    {
+      "path": "index.html",
+      "bytes": 46710,
+      "sha256": "b4800965a0526c1a229e9286e49ac625f1ce8b64ea3345adb182d6f405a35301"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "product-grid",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

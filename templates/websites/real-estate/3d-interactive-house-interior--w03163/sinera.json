@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03163",
+  "title": "3D Interactive House Interior",
+  "summary": "Interactive 3D house interior with advanced lighting, textured walls, furniture, and user controls using Three.js.",
+  "tags": [
+    "3D",
+    "Three.js",
+    "Interior",
+    "Lighting",
+    "Furniture",
+    "WebGL",
+    "Interactive"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2008,
+      "sha256": "984626edcf2bf05ca051d509522616141baf46975b4901d398b8ef452e949aa5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3064,
+      "sha256": "e8017277a64e2b8650ab15620bae04642d33e25db10824416acf969387acb624"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1054,
+      "sha256": "d3459b60e1025ef4723f74dacb449e54caec348a683773a2f497210b4608b668"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 320,
+      "sha256": "3c31843ed663812efb7ec8f9fe79b852b0c38f3ff38dc8fcbb72673d8c40a4d0"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 298,
+      "sha256": "18c4163f982bee37f4ff50cceae2c5e9bc77693f82f45d7ab2456889c9bc9076"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14651,
+      "sha256": "995e371bf3396a27f0be110cf1daf856852e80b5b61d609fd8263f653e07904d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "snippet",
+  "components": [],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

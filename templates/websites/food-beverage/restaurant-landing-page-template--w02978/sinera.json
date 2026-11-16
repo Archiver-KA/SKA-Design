@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02978",
+  "title": "Restaurant Landing Page Template",
+  "summary": "A modern restaurant landing page template for premium burger or dining brands, ready to customize with menu, reviews, and location details.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Restaurant",
+    "Burger",
+    "Single Page"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3505,
+      "sha256": "f7cd99f6076b0e22ac336d37341b094748725a61f56479bb673e172bfc4f677d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 23550,
+      "sha256": "ed78773e7eb4028c654e20e472d1a1dd3c4cd25d5d1ecb225974078ba533a0d8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "a77c5368de6091116c6d3facded2d80370ab96a797d1fe1b972a8e47f5ba9e50"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26915,
+      "sha256": "033028a02f720d5eeae8674d93618b77cda8f0db876b9cd42c42d63db2533633"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "menu-list",
+    "testimonials",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

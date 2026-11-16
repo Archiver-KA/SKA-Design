@@ -1,0 +1,71 @@
+{
+  "id": "SN-W03367",
+  "title": "Real Estate Project Landing Page Template",
+  "summary": "A reusable landing page template for showcasing premium real estate projects with location, amenities, unit mix, pricing, and legal information.",
+  "tags": [
+    "Real Estate",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Portfolio",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3918,
+      "sha256": "bd8f00f0989a35450acbf59fe3741440ecbd6580dc16358272fdd04f32eabdfb"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10956,
+      "sha256": "0c14621aa015814cb65f84e9dd4ceeef4cb74dab00a71ac4df26cc4d5d9cacff"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 815,
+      "sha256": "a76ddb41c864b8bf40389a995f3268592b3004a5f381edfd8f97aa15e2e3cd64"
+    },
+    {
+      "path": "index.html",
+      "bytes": 108202,
+      "sha256": "55c5cfaafd79e23f1a1c3dbdc732f87672498230abfb939ab7f43d8e8ce01443"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "map-location",
+    "gallery-portfolio",
+    "comparison",
+    "features",
+    "stats",
+    "bento-grid",
+    "footer",
+    "cta"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

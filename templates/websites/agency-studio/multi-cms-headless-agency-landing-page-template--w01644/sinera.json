@@ -1,0 +1,78 @@
+{
+  "id": "SN-W01644",
+  "title": "Multi-CMS Headless Agency Landing Page Template",
+  "summary": "A reusable landing page template designed for agencies to showcase a headless Multi-CMS platform that centralizes project management with a unified API.",
+  "tags": [
+    "Landing Page",
+    "Headless CMS",
+    "Agencies",
+    "API",
+    "Pricing",
+    "Testimonials",
+    "Features",
+    "FAQ",
+    "Responsive",
+    "SaaS"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3798,
+      "sha256": "ce8347e2ac24c0d6d671c57a6f768997555a6fd7a157000ec7f7aed6cac8bb64"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11252,
+      "sha256": "674150e455b53d1fc57f9b648c63c75ee710b5a15c5a010ab8e75b5b5152cc7d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1082,
+      "sha256": "d64d636c9895858d2629f03137f5236c2b7a6beeac1f18cd633ab1094edcabec"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 967,
+      "sha256": "2829396d3d11ed433404282db1f7d35c7bd13fed20b8938a18d64d6487f66093"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 425,
+      "sha256": "8c972c7c41fc381c6c533f3bcbdd87cde5936b3f1d9680a9591741d1f7894729"
+    },
+    {
+      "path": "index.html",
+      "bytes": 43157,
+      "sha256": "2485ae2304fb0f3ee1df2cc95e6fb7ca0e71f98cbb4e49053e26e293bc14442b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "logo-cloud",
+    "testimonials",
+    "pricing",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

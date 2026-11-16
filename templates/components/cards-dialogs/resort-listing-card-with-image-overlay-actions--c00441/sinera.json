@@ -1,0 +1,45 @@
+{
+  "id": "SN-C00441",
+  "title": "Resort Listing Card with Image Overlay & Actions",
+  "summary": "Tailwind-styled card showcasing a resort or listing: full-width image with overlay badges, action buttons, price, availability, avatar group, star rating, and “Book Now” CTA. Ideal for travel, hotel, or marketplace grids; responsive and interactive.",
+  "tags": [
+    "card",
+    "travel",
+    "tailwind",
+    "listing",
+    "responsive",
+    "interactive",
+    "overlay",
+    "rating",
+    "booking"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19972,
+      "sha256": "1f95206d77329c5827116af951c262d976fbdd2170ee7679bd30fb4037f00039"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7698,
+      "sha256": "ba638434775ff842a919b0c918e80cff7fe1cf732b616b975da1874b182bb131"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8701,
+      "sha256": "d658c004e547cdc098ef054de639b87eed40ae4123fe897e29cfe0f24253f9dd"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

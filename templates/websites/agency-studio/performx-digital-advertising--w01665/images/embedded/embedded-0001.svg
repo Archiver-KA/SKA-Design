@@ -1,0 +1,39 @@
+<svg
+                    viewBox="0 0 100 30"
+                    preserveAspectRatio="none"
+                    class="w-full h-full overflow-visible"
+                  >
+                    <path
+                      d="M0,25 C10,25 15,15 25,18 C35,21 40,5 50,10 C60,15 65,2 75,5 C85,8 90,20 100,5"
+                      fill="none"
+                      stroke="#2BFFB1"
+                      stroke-width="0.5"
+                      stroke-linecap="round"
+                    ></path>
+                    <!-- Area under curve -->
+                    <path
+                      d="M0,25 C10,25 15,15 25,18 C35,21 40,5 50,10 C60,15 65,2 75,5 C85,8 90,20 100,5 L100,30 L0,30 Z"
+                      fill="url(#grad)"
+                      opacity="0.2"
+                    ></path>
+                    <defs>
+                      <linearGradient
+                        id="grad"
+                        x1="0%"
+                        y1="0%"
+                        x2="0%"
+                        y2="100%"
+                      >
+                        <stop
+                          offset="0%"
+                          stop-color="#2BFFB1"
+                          stop-opacity="1"
+                        ></stop>
+                        <stop
+                          offset="100%"
+                          stop-color="#2BFFB1"
+                          stop-opacity="0"
+                        ></stop>
+                      </linearGradient>
+                    </defs>
+                  </svg>

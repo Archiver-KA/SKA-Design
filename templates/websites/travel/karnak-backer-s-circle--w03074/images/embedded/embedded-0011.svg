@@ -1,0 +1,11 @@
+<svg class="w-full h-full stroke-white/10" stroke-width="1" fill="none">
+                <!-- Dashed connectors -->
+                <path d="M200 200 C 200 180, 150 150, 150 120" stroke-dasharray="4 4"></path> 
+                <path d="M400 250 C 400 200, 400 180, 400 100" stroke-dasharray="4 4"></path>
+                <path d="M600 220 C 600 180, 650 150, 650 120" stroke-dasharray="4 4"></path>
+                
+                <!-- Map Nodes -->
+                <circle cx="200" cy="200" r="3" fill="#1a1a1a" stroke="#C09C6E" stroke-width="1.5"></circle>
+                <circle cx="400" cy="250" r="3" fill="#1a1a1a" stroke="#C09C6E" stroke-width="1.5"></circle>
+                <circle cx="600" cy="220" r="3" fill="#1a1a1a" stroke="#C09C6E" stroke-width="1.5"></circle>
+            </svg>

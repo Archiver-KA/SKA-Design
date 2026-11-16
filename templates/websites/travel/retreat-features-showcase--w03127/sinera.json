@@ -1,0 +1,58 @@
+{
+  "id": "SN-W03127",
+  "title": "Retreat Features Showcase",
+  "summary": "Displays a features section with animated black & white background, highlight cards, and a call-to-action button using Tailwind and GSAP.",
+  "tags": [
+    "Features",
+    "Animation",
+    "Tailwind CSS",
+    "GSAP",
+    "Responsive",
+    "UI Components"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3348,
+      "sha256": "d744dabc0b8fcbffd936e7d967244126b911afe2e7ff5ca4dbc4185d6c20f587"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4774,
+      "sha256": "9a18f53877ea079b58a723ca6afd919a33e2631f6201f9e199b98bc546f49572"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 716,
+      "sha256": "d3087cdf84e7a11de91ec8ad763066f8c3813f629f3b6bcf57198ced7342f741"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6218,
+      "sha256": "a8b90fd0894910cca0d9c91c3d02eaab858d5a54053fc032617d61cf978432c7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "features"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

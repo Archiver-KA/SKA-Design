@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02042",
+  "title": "Interactive Pricing Table with Plan/Billing Toggle",
+  "summary": "Tailwind-styled pricing section featuring monthly/annual toggle, dynamic plan selection, animated transitions and CTA. Ideal for SaaS landing pages needing flexible, responsive pricing displays.",
+  "tags": [
+    "pricing",
+    "table",
+    "tailwind",
+    "interactive",
+    "responsive",
+    "saas",
+    "component",
+    "section"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21146,
+      "sha256": "5981650f44d21e639d9e7faca6fa05098963ab433fe393d84b9fa7ea9a0fd79a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 15539,
+      "sha256": "746d9ebdaa0461e086f96b9198b849e70eee1f707ae316a72d4a725a85e2f54d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16410,
+      "sha256": "bad8bf3fdbb7b0c6c4db14263c26d5010d62dd23a6f1ef6db370b8475fd3187c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01498",
+  "title": "Testimonial Hero Section with Floating Images",
+  "summary": "Dark hero banner showcasing a testimonial headline surrounded by four rotated, rounded photos and a CTA button. Built with Tailwind CSS, fully responsive, perfect for portfolios, agency sites, or landing pages needing visual storytelling.",
+  "tags": [
+    "testimonial",
+    "section",
+    "tailwind",
+    "banner",
+    "cta",
+    "images",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 45218,
+      "sha256": "396b5159b0407c11bf66dffb479fdac6991948c1e22ce959f8dc2f2aca04b19e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2575,
+      "sha256": "149d247897d8c0a02784889599f840dd4b9c980c0399922cafbf84559bd05b31"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3571,
+      "sha256": "0a87d278699bdee92114c60ebd9596c67cd599d53d171a7cd1852900b27f5f27"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

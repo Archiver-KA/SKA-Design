@@ -1,0 +1,61 @@
+{
+  "id": "SN-W01894",
+  "title": "Creative Interactive Studio Template",
+  "summary": "A high-end studio landing page template featuring immersive video scrubbing and MediaPipe hand-tracking interactions.",
+  "tags": [
+    "Technology",
+    "Portfolio",
+    "Art & Design",
+    "Dark",
+    "Animated",
+    "Minimal",
+    "Futuristic",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3317,
+      "sha256": "63632d627bf2ef0c9f47cacd0beeee6723988aa41115afe52d674dbc8a19db02"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12516,
+      "sha256": "016977ca651c903ec2886814d46cfcf4c8939974fe3117d02bef2eb986f490e4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "65db32b287bb2bfdcf31039975d9f6f9aab6982c405dc21ea4f596f639c077d5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15606,
+      "sha256": "601ba8e9e036b9293294ce80d71a8a93e72e0262e216caf0fe57672d9ee99bee"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "video-media"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

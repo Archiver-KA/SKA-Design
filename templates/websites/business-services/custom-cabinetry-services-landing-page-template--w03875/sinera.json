@@ -1,0 +1,69 @@
+{
+  "id": "SN-W03875",
+  "title": "Custom Cabinetry Services Landing Page Template",
+  "summary": "A modern landing page template for custom cabinetry, joinery, and renovation services, perfect for showcasing kitchens, residential, and commercial projects.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Portfolio",
+    "Minimal",
+    "Clean",
+    "Large Type",
+    "Dark",
+    "Gradient",
+    "Interior Design"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3715,
+      "sha256": "3c2d5ba59b8ee46148ac5f77e9c91678c39f5c14f72571d1203b48e4e89fa5da"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12230,
+      "sha256": "d28bb0393cfe92ccb49eea40e660d8d499e6ee347d81778824b37f3847eaaa18"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 742,
+      "sha256": "5ca25d9fd4e7a6df6e9283fe3b5168c780891a7544ed5c6364e586d6badb2887"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39183,
+      "sha256": "d81990dc57717a58d0b84bde8c9c30e2130d072cdfaba21c769269b017465704"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "gallery-portfolio",
+    "how-it-works",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02345",
+  "title": "Smart Portfolio Analytics Card with Dashboard Preview",
+  "summary": "Interactive hover card featuring a mini portfolio dashboard, performance stats, and CTA link. Uses Tailwind CSS utilities, responsive layout, subtle animations, and grid background—ideal for fintech landing pages or feature highlights.",
+  "tags": [
+    "card",
+    "portfolio",
+    "dashboard",
+    "tailwind",
+    "interactive",
+    "hover",
+    "fintech",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11018,
+      "sha256": "88f1aa1570eef1add0ec55e45550a4db49f344efd2c97662800590f54bc07db2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5247,
+      "sha256": "d81c96c25066cbda31aecca924f0afd0f4932ba988b6f43e0299eccbc4fd29cb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6251,
+      "sha256": "e66d2296228fceddacb35de7ac36ec364e87dadf5ba93336c8caeb5dd0f71be8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

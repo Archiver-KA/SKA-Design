@@ -1,0 +1,73 @@
+{
+  "id": "SN-W04071",
+  "title": "Recruitment & Placement Landing Page Template",
+  "summary": "A modern NexCareer-style landing page template for recruitment agencies to showcase verified jobs, employer services, and fast placement support.",
+  "tags": [
+    "Landing Page",
+    "Business",
+    "Services",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Technology",
+    "Recruitment",
+    "Job Board"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4006,
+      "sha256": "7b22785bd0c166eebe8ed529875729e4272fee2c1dd2e2fd7c5329b0b888b39d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 24880,
+      "sha256": "ca96312809f77e33390524d835beb04df98359ae1f95daefb6aba7db4223162a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 740,
+      "sha256": "14db3e40d679c9c03b4abe2d9e5472e6d02281f8470b37ce5ed642135da68cf9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 60064,
+      "sha256": "32c96b2a4f7d76804d9a6effe364db9716da76e28c2af5d3adc9bad2ec71fc77"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "how-it-works",
+    "stats",
+    "code-terminal",
+    "cta",
+    "testimonials",
+    "features",
+    "faq",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

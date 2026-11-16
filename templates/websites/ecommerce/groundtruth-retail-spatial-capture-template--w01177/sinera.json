@@ -1,0 +1,62 @@
+{
+  "id": "SN-W01177",
+  "title": "Groundtruth Retail Spatial Capture Template",
+  "summary": "A high-end engineering-forward landing page template for spatial capture and retail geometry services featuring advanced WebGL and 3D effects.",
+  "tags": [
+    "Technology",
+    "Clean",
+    "Animated",
+    "Futuristic",
+    "3D",
+    "Services",
+    "Dark"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2695,
+      "sha256": "13f8aa9ea6581df271492b29ae5fbed22abb89e26b4ebd3f167612f8b0c4fce3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6124,
+      "sha256": "30c4581aa7ead3b66201db804035b825e791b290d59c32dff8001ac4b892366a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "3b27c471d028b88b54785b8a83b8b234d9a2983a25c4073c02855045c97fd39f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 119692,
+      "sha256": "ee1cf5d4304fc90ede744576d01b484e7381ebd5a5216221cae55f35ba31bfe7"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "3d-canvas",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

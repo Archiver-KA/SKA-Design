@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00237",
+  "title": "Pill CTA Button with Arrow Icon",
+  "summary": "Rounded pill-shaped button styled with Tailwind CSS that displays “View All Reviews” text alongside a right-arrow icon. Includes hover fade transition, making it ideal as a call-to-action to navigate users to a reviews page or similar section.",
+  "tags": [
+    "button",
+    "tailwind",
+    "pill",
+    "icon",
+    "cta",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1828,
+      "sha256": "ada94f00f980f723e3e9ad025be5aaf238d855d7cf0d14075037d086ecec7607"
+    },
+    {
+      "path": "component.html",
+      "bytes": 729,
+      "sha256": "f0d5c4dc0b4ec42a6ea4df5d7cbf7b62847764f5e5789d7e58fcca337c64b2ec"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1711,
+      "sha256": "cc85d4f115729d0151baa36e33871ef4773471454872cfd8d816386355cd1c40"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

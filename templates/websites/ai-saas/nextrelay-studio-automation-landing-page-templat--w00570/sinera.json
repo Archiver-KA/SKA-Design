@@ -1,0 +1,76 @@
+{
+  "id": "SN-W00570",
+  "title": "NextRelay Studio Automation Landing Page Template",
+  "summary": "This reusable landing page template is designed for showcasing AI-powered automation services and workflows using Relay.app to build autonomous digital workforces.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "Features",
+    "Pricing",
+    "AI Agents",
+    "Automation",
+    "Workflow",
+    "CTA",
+    "Testimonials",
+    "Footer"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3734,
+      "sha256": "0712dd03419f3f39bbea8d67435569e6c2221940f61d5bed984d33911e1d864c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16102,
+      "sha256": "dd154b6c46bf921adb9ed3c7d51ca3230c521f9476b7463052ec18368e350289"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1083,
+      "sha256": "975b10db55a1a073ada7ede0137c73709b31f13ee32d38befb9997791163a22c"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 546,
+      "sha256": "415104d478795e61abc5f9a2d57a727c248f18338e517ecb5a4fd96afd666906"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 572,
+      "sha256": "9bd171d281ab67590bed8a6b1dfc48783e552aa52bbe5781fcb133dc37a575a8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35990,
+      "sha256": "07e27defeae81abae27a217558a63253420868d6ce2ebfe08f01b40782032d32"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "features",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

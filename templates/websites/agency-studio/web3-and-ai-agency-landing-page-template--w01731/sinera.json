@@ -1,0 +1,74 @@
+{
+  "id": "SN-W01731",
+  "title": "Web3 & AI Agency Landing Page Template",
+  "summary": "A premium Web3 and AI services landing page template for tech-focused agencies to showcase expertise, stack, and services with modern glassmorphism design.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Web3 agency",
+    "AI services"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3805,
+      "sha256": "c7ab006ce159596677618fb19463397a1aa086b6277ee779cb94f40985dcc55c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17354,
+      "sha256": "15840a2b32da71a305f59922f9c6a79e55c43f597af459a54641150eff0fb6ef"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 960,
+      "sha256": "481c5f5a52ad560fedb7ffec189742d5c527f32fcdcfeac4afba452c83e7ec3b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 399,
+      "sha256": "9ca6c6f2e2f9ab476b57198ce0035b01dee11dc99fb3af93ec50493274d0a586"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25558,
+      "sha256": "a8f78140feff462dffdd42aa7f16ef388efd9cfaa11f8f7595cf40315abfd347"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "services",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

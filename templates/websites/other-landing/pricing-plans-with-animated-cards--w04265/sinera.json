@@ -1,0 +1,67 @@
+{
+  "id": "SN-W04265",
+  "title": "Pricing Plans with Animated Cards",
+  "summary": "Responsive pricing section with monthly/annual toggle, animated card blur-in, and feature lists using Tailwind CSS.",
+  "tags": [
+    "Pricing",
+    "Animation",
+    "Tailwind CSS",
+    "Responsive",
+    "Toggle",
+    "Feature List"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3087,
+      "sha256": "cf3936fbf14b3e062baae732c1ce47d3e35ba91f2c4bbf41c654d8267f39b424"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17896,
+      "sha256": "dda8562414df1dd45c19834541bbfa13643c024368eb6eaf2f65217cabed9725"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1410,
+      "sha256": "f533c7787001cca55771cb7ea37ae555d41cc194f9790ba348f1a6e4be8843ee"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 263,
+      "sha256": "a5be155175636b70c8fe6cf02851f02b0082eecb730f1b26dc65db077b1d82ba"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 267,
+      "sha256": "64cd2a7627e35897ce973ff888aa3540335453e76674a7c3de2c12518c21994a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12950,
+      "sha256": "3b7669fab191693caffd0a94b4ce91ab862a2c0d3c1506042f7a788d84caf8d4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "pricing"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

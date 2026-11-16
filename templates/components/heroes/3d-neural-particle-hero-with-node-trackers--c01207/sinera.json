@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01207",
+  "title": "3D Neural Particle Hero with Node Trackers",
+  "summary": "Full-screen hero background using Three.js shaders to render an animated particle sphere with labeled node trackers and connecting SVG lines. Ideal for AI, data, or tech landing pages needing an immersive, interactive visual centerpiece.",
+  "tags": [
+    "hero",
+    "section",
+    "threejs",
+    "animated",
+    "interactive",
+    "fullscreen",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20338,
+      "sha256": "88047855bff9e4a206f41da00239904d4ea09868f8016c2966f5d20fc3f00706"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8017,
+      "sha256": "ec0ec64ef2a4eab377201ce08d4692f154c1295a27812e4202fe9977605fdcd7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8880,
+      "sha256": "7129b1b025681b5917be276e481e792df447f8153b6fe86b14f2fa93bd26d531"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "SN-W02931",
+  "title": "Live Recipe Shared Kitchen Landing Page Template",
+  "summary": "A clean and modern landing page template for shared kitchen spaces and cooking content creators focusing on experience and recording.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Food",
+    "Clean",
+    "Minimal",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3742,
+      "sha256": "7b1b9d02c66c21f41bffd1f111acd22c65d560ea69b021bf50498fa5cbb3c44f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11146,
+      "sha256": "f4c408244042662c8f64fd58f8b2a47918284ad2b270a0f6fc660b4819709ca5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 890,
+      "sha256": "a661633ee2e9b10b1215dbae9a9fbb0dbaa6ccb5427512c97307990ac56c063d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 506,
+      "sha256": "ae4ab0b84f59b3acaf24be0d365b09b3202cbfb58a6eb572e3c95d131890987d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37931,
+      "sha256": "83437d4f3361eafe1feee1f44128dec57f69f2501816caf18290562a416cd2b3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "services",
+    "how-it-works",
+    "pricing",
+    "testimonials",
+    "faq",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

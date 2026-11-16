@@ -1,0 +1,72 @@
+{
+  "id": "SN-W03053",
+  "title": "Heritage Hotel Landing Page Template",
+  "summary": "A refined heritage hotel landing page template for boutique properties to showcase rooms, amenities, offers, and direct booking in a single elegant layout.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Hotel",
+    "Hospitality"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3859,
+      "sha256": "38adeffa796486bdca0fc2dbaea1abc54becdc93b3cb4befbdd16ab4a550dc1d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8166,
+      "sha256": "cf8f80aabc26f91c2dca521f5518095158a28d163ace8feb8cfc2b3e2a4d9177"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "fb491a97e21d2e553ed6dd60696fb8db778e07c3aee71d0fb76c32c1f85abbaf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 49426,
+      "sha256": "3197047be68ddfb7d97bcb1135aadbda1b21a5eeef27d0ff0fcedd11bcdfb368"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "announcement-bar",
+    "navbar",
+    "hero",
+    "about",
+    "listings",
+    "services",
+    "gallery-portfolio",
+    "contact-form",
+    "booking",
+    "pricing",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

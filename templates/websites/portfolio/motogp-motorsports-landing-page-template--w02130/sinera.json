@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02130",
+  "title": "MotoGP Motorsports Landing Page Template",
+  "summary": "A high-performance motorcycle brand template featuring futuristic dark aesthetics, interactive scrolling, and technical spec showcases for automotive products.",
+  "tags": [
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Large Type",
+    "Clean",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3074,
+      "sha256": "6b8119dd682d37da7c0058dea0bae6763afdc586e05b5c3ef4db5964e945a928"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20864,
+      "sha256": "a3c7b192be4e01521503610ab693d97b4df40caea72217b7df3611260b6ca251"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 811,
+      "sha256": "cbed130fecceae665ceab72bb21e7f98ab4599cfb500d9b4f4509e948739a8d4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 79795,
+      "sha256": "cc71a3720f8862168334d214afe8d6b1b9564373ee34f4ab354095437812ba0a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "testimonials",
+    "blog-articles",
+    "services",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

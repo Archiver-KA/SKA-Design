@@ -1,0 +1,41 @@
+{
+  "id": "SN-C02180",
+  "title": "Product Image Card",
+  "summary": "Complete product image card with hover effects and interactive zoom capability. Perfect for product galleries and e-commerce listings with enhanced user engagement.",
+  "tags": [
+    "card",
+    "product",
+    "hover",
+    "interactive",
+    "ecommerce"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8770,
+      "sha256": "f05f32b88b18dddd560fec74ae192161f54d3801f35beb6e757d5563bfdb8f0c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 622,
+      "sha256": "679df234a25ba3d2ce3650d8ceabb99f68829b0d9f102497100078001f853a0f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1461,
+      "sha256": "4a0f1b3adf8fbcc74e168f7c86da2a8ef612f42b36a8d48c97da80321f2ae198"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

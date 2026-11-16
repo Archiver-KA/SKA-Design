@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01599",
+  "title": "Screen Time Configuration",
+  "summary": "Interactive component for setting weekday/weekend screen time limits and earning rates with vertical sliders and visual graph.",
+  "tags": [
+    "screentime",
+    "slider",
+    "configuration",
+    "chart",
+    "limits",
+    "earning",
+    "visual"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7826,
+      "sha256": "7dcc3566721009d8088c76d41a07678078a8c5c3af77cf312b223a5f9b145b60"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1750,
+      "sha256": "df2d234aad7dd6122947b08c1d7b661c15126636200e6f693e8230c763369bba"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2596,
+      "sha256": "bbb34cc824a419041532e41b9d438dc66ed1ff1879994a5bcdc6711fe244e321"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

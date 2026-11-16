@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01297",
+  "title": "Cleaning Service Hero Section with CTA & Steps",
+  "summary": "Responsive hero/banner section for a cleaning service. Features headline, subtitle, two call-to-action buttons, three-step process cards, and an image with overlay badge. Built with Tailwind CSS grid and utility classes; ideal for landing pages or service websites.",
+  "tags": [
+    "hero",
+    "banner",
+    "call-to-action",
+    "steps",
+    "tailwind",
+    "responsive",
+    "grid",
+    "service"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 35304,
+      "sha256": "afe1e65b8a5528911bab65906d4e1086afc1b42a2e8e0c6c66ba6fa5870531a0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4698,
+      "sha256": "63aeb1d01a3db69f63f3aa587559344a3d6d516069e22d32cdd1a3b68ae50470"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5569,
+      "sha256": "ef28fa187c00ac2385f470b052494800392cfccc2827efe9e0041a5bc08cd517"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

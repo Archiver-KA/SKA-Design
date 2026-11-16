@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02231",
+  "title": "Animated Orbiting API Stats Card",
+  "summary": "Dark TailwindCSS card showcasing an API ecosystem: pulsing central hub, orbiting nodes, flowing particles and dynamic counters. Uses custom keyframe animations for orbit, glow and dash, perfect for dashboards, hero sections or product highlights.",
+  "tags": [
+    "card",
+    "tailwind",
+    "animated",
+    "dashboard",
+    "stats",
+    "visualization",
+    "api",
+    "orbit"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6166,
+      "sha256": "f42348b9329b5368f34a1f4dd952de2f8bfa0c55490d19a6f509c9411bd080d8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11136,
+      "sha256": "a53361abb827261934eda0ca0de38e634fdaced063fd88c40f89c96a83ea0387"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11989,
+      "sha256": "b10f2df4ac7f94487fb3d96d09681d3a349e18694dbcf282c64a5398c0c4e0f4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

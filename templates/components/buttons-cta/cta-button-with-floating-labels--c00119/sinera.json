@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00119",
+  "title": "CTA Button with Floating Labels",
+  "summary": "Compact call-to-action block featuring a primary rounded button with icon, floating label badge, and speech-bubble style micro copy. Uses Tailwind-style utility classes and subtle hover/entry animations for promotional or onboarding CTAs.",
+  "tags": [
+    "cta",
+    "section",
+    "button",
+    "animated",
+    "interactive",
+    "responsive",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8732,
+      "sha256": "1c330727eae0ef1b3e5f57551952222f87a9cc525ada183c9a218a4c62af836b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1596,
+      "sha256": "a22a60e31c65a28c13b0be18602068d175087a6394845bd1c19d3c1ec21889a8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2538,
+      "sha256": "3cc149552260caa5f83e43feafda1eaec0f6c07aed9ff30b6fd1b151e35b3a4a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "SN-W00119",
+  "title": "AI Nexus",
+  "summary": "A dark, futuristic SaaS landing page template for AI workflow and autonomous agent platforms, perfect for showcasing features, metrics, and developer-focused CTAs.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "SaaS",
+    "AI"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3786,
+      "sha256": "d077e7dba90ffcba8d8d12beecfb25d177f10d2ee6abaa760c8bd47289559dbb"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13052,
+      "sha256": "290a82583cee38949ea5000df45006186420d222e471187677c88dd3804846fb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 702,
+      "sha256": "3fcd41d7ff8eee3a8a8bec07b68a747d31477b312b933cd1b1231eae49632a1b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35374,
+      "sha256": "54b61a7217998c70fbae06845215373f6be1dd0a246453b6a2e50f190ab3715b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "stats",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

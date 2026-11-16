@@ -1,0 +1,68 @@
+{
+  "id": "SN-W02972",
+  "title": "Restaurant Café Landing Page Template",
+  "summary": "A clean, modern restaurant and café website template for showcasing your story, menu, hours, and location with 24/7-friendly design.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Restaurant template",
+    "Cafe template",
+    "Menu",
+    "Local business"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3872,
+      "sha256": "c9abdcb7ff297a40e23e31faabe6b0207dbd327cd5197519081934d6033e3047"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 28826,
+      "sha256": "2c990ea1b59c026f27dab902913890e718120b6324b399ad8d4f21a438e1a3ab"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "4f9a1f4b0f49430f646a166c267db86da3e2c886b284ce391bb8b2f0de4a83b9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28762,
+      "sha256": "4c6c763984d165c871156a76a45be6f53aff4df9c8a671f651534a6ba13d115b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "modal-overlay",
+    "booking",
+    "services",
+    "menu-list",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

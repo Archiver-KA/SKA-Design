@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01062",
+  "title": "SVG Filter Effects",
+  "summary": "Reusable SVG filter definitions for creating threshold and blur effects. Can be applied to various elements for advanced visual styling and text effects.",
+  "tags": [
+    "svg",
+    "filter",
+    "effects",
+    "blur",
+    "threshold",
+    "graphics",
+    "utility",
+    "visual"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3464,
+      "sha256": "557a8b7db26953b38f3a4082ab2fb825626134dc93bf9cf5060f3bcc8b4b4a3e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 474,
+      "sha256": "dc6caa1e94a0ba3bf9c4d4d693e08294af16e73736149d092eb651b3cb82e105"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1313,
+      "sha256": "f607ae9a69bb8d842f25ee112fa7d8173f693d2bc55ee7156c37e450653b4a33"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

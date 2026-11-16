@@ -1,0 +1,59 @@
+{
+  "id": "SN-W04331",
+  "title": "Virtual Keyboard Shortcut Display",
+  "summary": "Interactive virtual keyboard showing key codes and common shortcuts on key press with styled visual feedback.",
+  "tags": [
+    "Virtual Keyboard",
+    "Keyboard Shortcuts",
+    "Interactive UI",
+    "Tailwind CSS",
+    "Monospace Font",
+    "Web Accessibility"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2800,
+      "sha256": "b04a86e6454478f189239a7f79a4a29fddb0e76992ee0b5dd2689964da4a90de"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15200,
+      "sha256": "2916267c45cda4c812364453d9bfde74019c7ec7858d351bb2594d267ebcd568"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 727,
+      "sha256": "f765c94a1e3dd38fcd3fd4679b6c4d6de90ffdb59382259630b80a25062e83c7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12795,
+      "sha256": "a38314aa318739ba97172f31fa6138dc70b32bdb14c766c85a2a0265287427d8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

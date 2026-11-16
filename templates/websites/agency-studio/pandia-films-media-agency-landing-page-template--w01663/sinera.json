@@ -1,0 +1,71 @@
+{
+  "id": "SN-W01663",
+  "title": "Pandia Films Media Agency Landing Page Template",
+  "summary": "A cinematic media & entertainment landing page template for film studios and production agencies to showcase services, team, AI capabilities, and capture project leads.",
+  "tags": [
+    "Landing Page",
+    "Entertainment",
+    "Services",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Large Type",
+    "Gradient",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3589,
+      "sha256": "88a4555c2a0a2f56ba95a47703cf984b4c50f56e16fe4f0ea3b3095185305525"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17964,
+      "sha256": "387116bfa96885d42c07d36d2eedb868c835318ec4ce56b5d695587fba0dfe4f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 881,
+      "sha256": "2c8ef957acead31b5f5741db2fc1f1e98087bc8d839757e9b9f46b0307c245e5"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34983,
+      "sha256": "5dc1266915a8fc45822b5f72a642ce2db5c74f38b45f5f280aed1589499d1a18"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "marquee",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

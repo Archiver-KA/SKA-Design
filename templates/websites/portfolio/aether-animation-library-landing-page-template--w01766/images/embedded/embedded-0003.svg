@@ -1,0 +1,11 @@
+<svg class="w-full h-full" preserveAspectRatio="xMidYMid slice">
+                    <defs>
+                        <mask id="text-mask">
+                            <!-- White = Opaque (Keep the black rect), Black = Transparent (Cut hole) -->
+                            <rect width="100%" height="100%" fill="white"></rect>
+                            <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Space Grotesk, sans-serif" font-weight="900" font-size="15vw" fill="black">IMPACT</text>
+                        </mask>
+                    </defs>
+                    <!-- The Black Overlay using the Mask -->
+                    <rect width="100%" height="100%" fill="black" mask="url(#text-mask)"></rect>
+                </svg>

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01029",
+  "title": "GitHub Social Login Button",
+  "summary": "Full-width button for initiating GitHub OAuth login. Includes GitHub SVG icon, TailwindCSS hover/focus states, responsive transition effects—ideal for authentication forms or social sign-in sections.",
+  "tags": [
+    "button",
+    "github",
+    "social login",
+    "oauth",
+    "authentication",
+    "tailwind",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1982,
+      "sha256": "bab57c54042526a0875c354a1227e54908a7554b1275307bdbd938e9a6b7f8d9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1364,
+      "sha256": "d73cc5e7e3940eae39ad1da56b65cfaa7cb013b07942a386da29f7b778a10a30"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2211,
+      "sha256": "681792186f1813cfa8a5c56563e31369df6d669011bd430b3e8a362cc9a53fc1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01459",
+  "title": "Responsive Dashboard Device Mockup Hero",
+  "summary": "Full-screen hero section showcasing animated mobile, tablet, and desktop dashboard mockups with ambient background, scroll-driven transitions, and a Chart.js line chart. Ideal for highlighting responsive products or analytics platforms using Tailwind-style utility classes.",
+  "tags": [
+    "hero",
+    "section",
+    "ui",
+    "responsive",
+    "animated",
+    "dashboard",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18722,
+      "sha256": "b6db102120ce951706fc044aad9c39e40f0663ba5885480dac7706650b557893"
+    },
+    {
+      "path": "component.html",
+      "bytes": 21582,
+      "sha256": "2db8b43b097ebb765a1487f8e90dd800d687d557e6f5d3940f59076fb7fe59b0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22442,
+      "sha256": "5650ee4d8c177e6832c51a26aa89ed6d40e154e63919db7128018a7da49f33d3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01182",
+  "title": "Simple Logo Header",
+  "summary": "Minimalist header with clickable logo image linking to homepage. Clean and lightweight design suitable for any website layout.",
+  "tags": [
+    "header",
+    "logo",
+    "minimal",
+    "navigation",
+    "simple"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5846,
+      "sha256": "0650011d52a7d060a754abe3438db3a29f92ead332480184411536f8f1aefd8d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 594,
+      "sha256": "aaa7785749759be914e2746f08407d2a20ec24cf992dd807b71a841342ec2e73"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1433,
+      "sha256": "d10a8a90780983e8f8f3668ac95ef1cc7cef67e01a46c685b8a44ab26b347c4b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

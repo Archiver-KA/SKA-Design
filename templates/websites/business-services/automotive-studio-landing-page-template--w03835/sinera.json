@@ -1,0 +1,65 @@
+{
+  "id": "SN-W03835",
+  "title": "Automotive Studio Landing Page Template",
+  "summary": "A cinematic, dark-themed premium landing page template designed for high-end automotive detailing, car wrapping, and luxury service businesses.",
+  "tags": [
+    "Technology",
+    "Services",
+    "Landing Page",
+    "Dark",
+    "Minimal",
+    "Futuristic",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3633,
+      "sha256": "aec6b139505d35b7f000c8259e06977e7b8284908e9f426f61cd3810df3c6039"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20420,
+      "sha256": "db0bb1ad11514c468e61b40381888b3c3f49309593cfda586e015a4ae96499ce"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 817,
+      "sha256": "6f37fe0b931bd52016f5761734659c5824647099e38105e97a1574b8369f138f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 99666,
+      "sha256": "6f4eb0b9b62fd30a66d5ad2612b5b532651001fa05261121ca5fb2bcd2cb5115"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "bento-grid",
+    "gallery-portfolio",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

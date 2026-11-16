@@ -1,0 +1,46 @@
+{
+  "id": "SN-C00707",
+  "title": "Bento Feature Grid Section with Chart & Timeline",
+  "summary": "Responsive Tailwind section showcasing product features in a bento-style grid. Includes large and small cards, Chart.js line graph, progress timeline, badges and gradients—ideal for SaaS or startup landing pages highlighting analytics, security and automation.",
+  "tags": [
+    "feature",
+    "landing section",
+    "bento grid",
+    "tailwind",
+    "chart.js",
+    "responsive",
+    "analytics",
+    "marketing",
+    "timeline",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 37112,
+      "sha256": "d6689fb9ba48c83200d8b2bbc52cf4708fd4722bb060d473f0766e328af018eb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 18480,
+      "sha256": "b153444e60a352279b639c90b2bcfe26fd284abcb261f13bc31fd67ed421e93d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19483,
+      "sha256": "b0441816c977731fa55cae1b29e98ad4b71053c95c9cfd80488a42aef1f6faa0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

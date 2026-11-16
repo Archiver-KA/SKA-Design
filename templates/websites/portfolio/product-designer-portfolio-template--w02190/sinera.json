@@ -1,0 +1,102 @@
+{
+  "id": "SN-W02190",
+  "title": "Product Designer Portfolio Template",
+  "summary": "A sleek, dark-mode portfolio template for product designers to showcase projects, achievements, and contact details with a polished, startup-ready layout.",
+  "tags": [
+    "Portfolio",
+    "Landing Page",
+    "Technology",
+    "Art & Design",
+    "Minimal",
+    "Dark",
+    "Grid",
+    "Brand",
+    "Large Type",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3594,
+      "sha256": "023b334346f1f2cadbebcfd687244c923e03060ad7b8c4c379f4bc28170f1978"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12944,
+      "sha256": "ec48ae7bd701abe909dde48f9b25739ac640306beef7501bdf8a3223822e42d6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2178,
+      "sha256": "d534002369789dcff8853e6a81dca42a97bdd5fe399c57edbec86f4bef58c60f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 328,
+      "sha256": "71a0e150d29956b958447e56fed2a0a6479e3b70530ab1f81e76511fcab0c29c"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 615,
+      "sha256": "040e4f67c5db7104806692d913ba56a68c5821de2a8721c5da0d2525e6038dae"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 435,
+      "sha256": "38bc38d5d8f3703c1b8e3caeeb125e124c956f1296627fd883b4eeac85733326"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 301,
+      "sha256": "4d2f238cc961036315a3dc0bd5ffe6534de35c05bcb672ce57610fcbeb8437d8"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 129,
+      "sha256": "c3e8f2e0dc064c13addcb71877bf06ec98d89b19eb3940f8c825f2f0e77ed6b9"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 377,
+      "sha256": "d46effbd94d3c4b9047a90da6fafd5a0c1424dce98bb267f874e48ace4541845"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 419,
+      "sha256": "741f365ee0482a013a0f10ecd0e68840c5f3e89138739e9f674c031b7784ab8a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37786,
+      "sha256": "278990c8ec8bf703faa38f82166316d4ba45ef8171af71ca1850f692a45345b3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "case-studies",
+    "features",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

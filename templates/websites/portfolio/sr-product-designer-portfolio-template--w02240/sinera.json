@@ -1,0 +1,64 @@
+{
+  "id": "SN-W02240",
+  "title": "Sr. Product Designer Portfolio Template",
+  "summary": "A clean Sr. Product Designer portfolio template showcasing hero, video reel, featured work, and experience sections for UX/UI designers.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3658,
+      "sha256": "a4e9b87f10f576ddee1c67221257eadb65d502e1455a215b09ae494101c2468b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13712,
+      "sha256": "7132f759413f31ce3b33a90fd77e9e39122a72773227891940caf6e23769fbf2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 727,
+      "sha256": "ea0b94750813957876009eb6fa7a6853e743150326e8213e562b974b65b2703c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17892,
+      "sha256": "38a65d4677773ce36817b1a0e83836e152a5837d9ed3b2a5d79da305defae82b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "video-media",
+    "case-studies",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

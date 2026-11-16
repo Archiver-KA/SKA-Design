@@ -1,0 +1,65 @@
+{
+  "id": "SN-W00002",
+  "title": "3D General Contractor Landing Page Template",
+  "summary": "Immersive 3D general contractor landing page template featuring interactive city navigation, service modals, and project gallery for construction brands.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "3D",
+    "Large Type",
+    "Minimal",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3358,
+      "sha256": "7a3fdd6c08116e6ed66488bd836440ec01f604edac4cae381a765e959a2677e0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2390,
+      "sha256": "29695c8491bb061d8e1a9363b90016c732bc82c77da20a934c3337ebc35092b3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 737,
+      "sha256": "abf25dcf0cdabcfa0e8989a3aedf3031f238fef732a4c044053446d90416128a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35249,
+      "sha256": "57e8cd04a52a82981acc76271bce824007ea2978068bb9ddb2dff5ddb0c2ed26"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "3d-canvas",
+    "about",
+    "services",
+    "case-studies"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

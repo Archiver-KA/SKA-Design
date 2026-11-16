@@ -1,0 +1,57 @@
+{
+  "id": "SN-W04335",
+  "title": "VR Plan Pricing Options",
+  "summary": "Displays a responsive VR subscription pricing section with three plans, animated highlights, and a matrix-style background.",
+  "tags": [
+    "Pricing",
+    "Subscription Plans",
+    "Tailwind CSS",
+    "Animation",
+    "Responsive Design",
+    "UI Cards"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3286,
+      "sha256": "13242d65515b094229b66036432ce37c966a41bd5f87a75b9bb8f57f69c8fffc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19120,
+      "sha256": "ac5976a6a4c70e6c83e09167354cf9920fafc44456b80f7e54c05f49b1feae0a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 716,
+      "sha256": "73ffe457a678407ddf382cabe252b612109e4b12cedfd471cd7663b3bbc0c159"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6624,
+      "sha256": "d0c34355be6692577400499413ec904d4915410e35c7334fafa021fbf46319a1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "pricing"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

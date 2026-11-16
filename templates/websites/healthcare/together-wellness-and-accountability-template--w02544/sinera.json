@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02544",
+  "title": "Together Wellness and Accountability Template",
+  "summary": "A private peer-support and mindfulness template designed for pairs to track goals, values, and mental well-being together.",
+  "tags": [
+    "Health",
+    "Services",
+    "Social",
+    "Clean",
+    "Minimal",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3793,
+      "sha256": "f97219427a8b4e74ce6fd2a3f286a000745e87f9a09d8fe089790adc34ec38e0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12250,
+      "sha256": "c6486b10f2f51d870c30241264c04eb14824358f764382d188531ff04be49407"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "891e8e4eefe73bc8995e75af0eaf0b6dc5e2875ec18747af9cc1090a64048591"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33826,
+      "sha256": "882c9c7aff09adfb8833580e80df068cafca165d63ffeeaaf0197aba6fb291b5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "auth-form",
+    "benefits",
+    "about",
+    "cta",
+    "listings",
+    "logo-cloud",
+    "dashboard-preview",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

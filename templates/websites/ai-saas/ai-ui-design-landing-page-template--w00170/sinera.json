@@ -1,0 +1,68 @@
+{
+  "id": "SN-W00170",
+  "title": "AI UI Design Landing Page Template",
+  "summary": "A reusable landing page template for AI-powered UI design platforms, showcasing product features, case studies, social proof, and conversion-focused CTAs.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Futuristic",
+    "SaaS",
+    "AI",
+    "Design Systems"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4082,
+      "sha256": "94ff5e618974b92789b97f678cbe66c4623d5389471473c6991238b411301e55"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19390,
+      "sha256": "e88e49ff0ac050e7eab8c0d5b61c41dde324c95d0add3fec3a64b99a178ab061"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "9bd3510e0fb57255aed0a0f381353ac4f34632de25adc1b1da4322aaacb84e58"
+    },
+    {
+      "path": "index.html",
+      "bytes": 55221,
+      "sha256": "770b6df93a00f5d7303acee1c763958598b96b8a0bb202635e9729d000c291c8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "3d-canvas",
+    "navbar",
+    "hero",
+    "testimonials",
+    "comparison",
+    "product-grid",
+    "stats"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

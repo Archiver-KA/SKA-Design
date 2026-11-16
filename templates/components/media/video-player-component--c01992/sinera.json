@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01992",
+  "title": "Video Player Component",
+  "summary": "A simple HTML5 video player element for displaying MP4 video files. Can be customized with controls, autoplay, and other attributes.",
+  "tags": [
+    "card",
+    "video",
+    "media",
+    "player",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2064,
+      "sha256": "99153d91173236b4dace09192905a54b86e72ba0f0d380b49be6c3dbd6dc11f1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 232,
+      "sha256": "ccec6b5ef91a6922b27c8d16067023aa9610d5a906b5858c51b4cf632862c4e4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1075,
+      "sha256": "f4ca0bc5de236dfbfba8b18470b597b5cc6d116016b2473c90b2ca662e74c0e7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

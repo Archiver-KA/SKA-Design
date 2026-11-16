@@ -1,0 +1,66 @@
+{
+  "id": "SN-W03932",
+  "title": "HVAC and Sanitary Services Landing Page Template",
+  "summary": "A professional and clean landing page template designed for heating, sanitation, and ventilation service providers to showcase expertise and capture leads.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Clean",
+    "Minimal",
+    "Business",
+    "Dark",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3825,
+      "sha256": "ae0d5484d7497b450e69507fb89430cca8550e6afa866f0f55853439133a5fe9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17988,
+      "sha256": "350e3aa570c07ab967d4fa0aa7f550fb6161551cf205367d9e54b80c7312c8e6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 743,
+      "sha256": "7253b05d564459ec64d6ee2827307f9729cb45bc0ea6c91bb7c04098577caa2f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 47400,
+      "sha256": "979f57148bb246901ed41bdb7cc923599b2a9832577238dcfbf7ed76ac6a44c4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "features",
+    "logo-cloud",
+    "testimonials",
+    "cta",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

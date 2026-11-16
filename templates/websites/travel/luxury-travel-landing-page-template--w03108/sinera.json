@@ -1,0 +1,128 @@
+{
+  "id": "SN-W03108",
+  "title": "Luxury Travel Landing Page Template",
+  "summary": "A reusable luxury travel landing page template for showcasing curated destinations, exclusive escapes, concierge services, and lead capture.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Services",
+    "Dark",
+    "Luxury",
+    "Clean",
+    "Minimal",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "react",
+  "entry": "package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3688,
+      "sha256": "14003bac111c47ebc1eb54005f6d5cec36cf02031215325d04eabfd25ce68e44"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 32068,
+      "sha256": "2f3a4629e3391e52f078aa3cf3a05b10ebcf89210746aceaa18f46e496da5730"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "623f02e8939d9a39933ae9c12699bd2e02c7a412d603994f35b2038c8519e53a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 750,
+      "sha256": "a9714bcef9c3850aeb9d0cbfdd8376c53674ec99743642acc692589388ffac7c"
+    },
+    {
+      "path": "package.json",
+      "bytes": 564,
+      "sha256": "6cbcc260a1b83aac2b842d70dcebca4179c9764b1d58089368509526742b9221"
+    },
+    {
+      "path": "postcss.config.js",
+      "bytes": 79,
+      "sha256": "010e8774c76996e28b1f2290d690b3b64f56f2fbe26c747b4419ee0110d0a002"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 605,
+      "sha256": "4a160d528d9d1963328eafb8d99f6b376ce39337bdc023e6c8b80ba2ba3aa399"
+    },
+    {
+      "path": "src/components/Destinations.jsx",
+      "bytes": 9767,
+      "sha256": "9edb9ff9bfc27f48695c3dec226a10b46bc04e227e0db0bd90c417c6aa9e53a8"
+    },
+    {
+      "path": "src/components/Footer.jsx",
+      "bytes": 16637,
+      "sha256": "c554926e15cc79ee2c5b8ca6d8a4e4f86d99e06b6a0059e962aad420aee8d27a"
+    },
+    {
+      "path": "src/components/Hero.jsx",
+      "bytes": 24226,
+      "sha256": "357de62c5455ea9cc677af4451fa3eebabdfbdedb992a9c7541049c15894938c"
+    },
+    {
+      "path": "src/components/HiddenGems.jsx",
+      "bytes": 8708,
+      "sha256": "496de724468f52581df32c365e513212fad671b7e9d1fd9bf92860064d730efc"
+    },
+    {
+      "path": "src/components/Newsletter.jsx",
+      "bytes": 3145,
+      "sha256": "66b990dc4d9ecd6d82f6839ea98e59bea012df492528eccc6ba4c5f502b683c9"
+    },
+    {
+      "path": "src/components/PromiseSection.jsx",
+      "bytes": 7098,
+      "sha256": "917941c1a473b7876a14c46024472f5a5a1cb9bc353664d562b5bc0d8773b84f"
+    },
+    {
+      "path": "src/components/Spotlight.jsx",
+      "bytes": 9342,
+      "sha256": "3447fe655d46861108ebe5db3623e2c395f0e330e1eaf0d330c53a1d42551f9e"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 1207,
+      "sha256": "af2ef702c009eafd11422a5a1b540767776ae508ae8321f1883c338452515e91"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 262,
+      "sha256": "c4a3627cf9188552ccf7d514f3611cb381e96e644a3ad0eec62a0c017f65aa7d"
+    },
+    {
+      "path": "tailwind.config.js",
+      "bytes": 345,
+      "sha256": "5b593152e0fbf000ddbefc3f1151cf9c4715d5254c121b155830ec13e9c052b6"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 135,
+      "sha256": "c502a59d3e39f4e6ebf1bbdb640cc7f153af3ab764efba8124b44bd03bab32ed"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

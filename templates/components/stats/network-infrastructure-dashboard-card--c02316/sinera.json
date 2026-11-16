@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02316",
+  "title": "Network Infrastructure Dashboard Card",
+  "summary": "A comprehensive dashboard card featuring multi-column layout with network metrics, performance data, and monitoring interface. Perfect for enterprise dashboards.",
+  "tags": [
+    "dashboard",
+    "enterprise",
+    "monitoring",
+    "network",
+    "dark",
+    "complex"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 37366,
+      "sha256": "e06b3867a7bddd0501cdb5db01466f85f3075a58ab905da86b52ae043985c0f8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10536,
+      "sha256": "84ef772de48686f5e87059b6dce4fae271154ec1005226a916e16c1f9710546f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11394,
+      "sha256": "2840646e15fd3784187f4cceb956811fc1134e9dd7cf3b2c18f0a05ebdcfee04"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

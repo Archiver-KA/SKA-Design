@@ -1,0 +1,70 @@
+{
+  "id": "SN-W01982",
+  "title": "Digital Creator Portfolio Landing Page Template",
+  "summary": "A dark, modern portfolio landing page template for digital creators and designers to showcase services, skills, and projects with bold visuals and smooth interactions.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Graphic Design",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3762,
+      "sha256": "0503a20c1a699892844e0737b8fd9e97fbf4172efb22cf420642d93ac45df78c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11162,
+      "sha256": "e9c0e7a0c9b3d7dfebebee0a317124e505944a1804ddb88fd0ddc9f4f63f85d8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "bec11d287067cf13db59825aa1d13d851c04af135ec61047b00b3956260fd016"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42242,
+      "sha256": "79bb108bce7bef02a44a12bbe3ffabf385e8fdaa3b5bf7ea13c74024d661cec9"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "stats",
+    "services",
+    "gallery-portfolio",
+    "blog-articles",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

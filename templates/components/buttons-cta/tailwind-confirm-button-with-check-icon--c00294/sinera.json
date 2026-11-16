@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00294",
+  "title": "Tailwind Confirm Button with Check Icon",
+  "summary": "Flex-aligned button component styled with Tailwind CSS featuring an inline lucide check-circle icon. Ideal for submit, validate, or confirm actions in forms, modals, or toolbars, with hover feedback and responsive utility classes.",
+  "tags": [
+    "button",
+    "icon",
+    "tailwind",
+    "confirm",
+    "flex",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1836,
+      "sha256": "b4be9935930a04990c74be60b7c1333f08bf584f6f3f1026a75b815aaacb0ee5"
+    },
+    {
+      "path": "component.html",
+      "bytes": 627,
+      "sha256": "1be15b071a99d6aa5c2058c7b81c81eeb741d4c6b978ff62ca5575b09c381f91"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1617,
+      "sha256": "b0cb5ecf75a7761a6d7828080dfc11f48c4b67941344faa24aa65db0581cfc16"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

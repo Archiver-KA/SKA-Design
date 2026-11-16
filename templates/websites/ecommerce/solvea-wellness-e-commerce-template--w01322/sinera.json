@@ -1,0 +1,74 @@
+{
+  "id": "SN-W01322",
+  "title": "SOLVEA Wellness E-commerce Template",
+  "summary": "A clean and beautifully designed e-commerce landing page template focused on supplement rituals and clean-label wellness products.",
+  "tags": [
+    "Health",
+    "Services",
+    "E-commerce",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4007,
+      "sha256": "deb8426f9fc76eb7589ec011ca6ee2194344773e1e68f089131e4f26becc692f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5988,
+      "sha256": "36f34fffc8dd01df1a207635702f9c77dd72890edb99c167da69d60f239f4ad9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 808,
+      "sha256": "56bca39acb843c6f8a63633f6742a1060c7a719b83d67d479d2673ccff198691"
+    },
+    {
+      "path": "index.html",
+      "bytes": 61849,
+      "sha256": "652ddb94291f4d87c70991f4c3d0538d8150926758b898eef2a43c2356f3850e"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "announcement-bar",
+    "navbar",
+    "hero",
+    "benefits",
+    "features",
+    "stats",
+    "bento-grid",
+    "product-grid",
+    "cta",
+    "3d-canvas",
+    "testimonials",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

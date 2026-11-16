@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01379",
+  "title": "Hero Heading with Inline Images & Gradient Text",
+  "summary": "Responsive hero headline combining Tailwind typography, inline illustrative images, and gradient-clipped text for eye-catching landing pages and marketing sections.",
+  "tags": [
+    "heading",
+    "tailwind",
+    "responsive",
+    "gradient text",
+    "inline images",
+    "landing page",
+    "typography"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12948,
+      "sha256": "1b3e8dc0e8266c6ab2698457cf1faba9216452abf392c05f5b6b96add9e5e46c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1081,
+      "sha256": "b20a1c98808f2a3694932e2d75350449648b211a105b82f9f0ad2306502b292c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1953,
+      "sha256": "27c125a3137577130a7a556fa8cc5d0663d6dd4d7c6d0744e7b6a6f335b564a2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

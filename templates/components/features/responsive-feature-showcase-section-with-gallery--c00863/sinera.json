@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00863",
+  "title": "Responsive Feature Showcase Section with Gallery",
+  "summary": "Landing page section highlighting product features using icon list, gradient-framed hero image with thumbnail gallery, and dual call-to-action buttons. Fully responsive and styled with Tailwind CSS for quick integration into marketing pages.",
+  "tags": [
+    "section",
+    "landing",
+    "feature",
+    "gallery",
+    "cta",
+    "tailwind",
+    "responsive",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 39138,
+      "sha256": "7f7e87865eebe40690b2554411be20c9a01029d571701f48365b109367a75d6b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6317,
+      "sha256": "fe0bfd1004277599177a22af97a2b87e96ddf0c81bfbf8c12ab941378669feeb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7316,
+      "sha256": "32f8d9c765ba77dcc31124e13fccb1a160402b2bd0567c1c955a4e636cdecba8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

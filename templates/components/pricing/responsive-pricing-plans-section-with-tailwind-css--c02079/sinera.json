@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02079",
+  "title": "Responsive Pricing Plans Section with Tailwind CSS",
+  "summary": "Three-tier pricing section featuring highlighted plan, detailed feature lists, and CTA buttons. Built with Tailwind utility classes, responsive grid layout, and hover/transition effects for SaaS or agency sites.",
+  "tags": [
+    "pricing",
+    "section",
+    "tailwind",
+    "responsive",
+    "cta",
+    "grid",
+    "highlight"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 30178,
+      "sha256": "5e2846e6c348efe05cafd6fe34593930229d19354327466e8f528c7b6f40f8fe"
+    },
+    {
+      "path": "component.html",
+      "bytes": 14135,
+      "sha256": "f8f9e3ed5dbb16a6836a9b9fabad20e6b0cfe4955cbabcdda306da630fad2666"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15136,
+      "sha256": "bebe5cb81f4840e4665fdb0a01a505c0e65c73d7f9babb0eccf37e10e50b31b6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

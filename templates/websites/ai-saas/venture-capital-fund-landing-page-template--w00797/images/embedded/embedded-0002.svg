@@ -1,0 +1,17 @@
+<svg class="w-full h-32 overflow-visible" viewBox="0 0 400 150" fill="none" stroke="currentColor">
+                                <!-- Line 1 -->
+                                <path d="M0 120 C 50 120, 100 80, 150 90 S 250 140, 300 60 S 400 20, 400 20" stroke="url(#gradientLine)" stroke-width="2" stroke-linecap="round" class="drop-shadow-md"/>
+                                <!-- Area under curve -->
+                                <path d="M0 120 C 50 120, 100 80, 150 90 S 250 140, 300 60 S 400 20, 400 20 V 150 H 0 Z" fill="url(#gradientArea)" opacity="0.1"/>
+                                
+                                <defs>
+                                    <linearGradient id="gradientLine" x1="0" y1="0" x2="400" y2="0" gradientUnits="userSpaceOnUse">
+                                        <stop offset="0%" stop-color="#93c5fd" />
+                                        <stop offset="100%" stop-color="#2563eb" />
+                                    </linearGradient>
+                                    <linearGradient id="gradientArea" x1="0" y1="0" x2="0" y2="150" gradientUnits="userSpaceOnUse">
+                                        <stop offset="0%" stop-color="#3b82f6" />
+                                        <stop offset="100%" stop-color="transparent" />
+                                    </linearGradient>
+                                </defs>
+                            </svg>

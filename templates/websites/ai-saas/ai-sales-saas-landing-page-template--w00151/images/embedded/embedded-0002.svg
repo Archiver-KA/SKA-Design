@@ -1,0 +1,14 @@
+<svg class="absolute inset-0 pointer-events-none w-full h-full z-0">
+                                        <!-- Node 1 to Node 2 -->
+                                        <path d="M 330 300 C 400 300, 400 200, 500 200" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="2"></path>
+                                        <path d="M 330 300 C 400 300, 400 200, 500 200" fill="none" stroke="#2563eb" stroke-width="2" stroke-dasharray="8 8" class="animate-flow"></path>
+                                        
+                                        <!-- Node 1 to Node 3 -->
+                                        <path d="M 330 300 C 400 300, 400 400, 500 400" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="2"></path>
+                                        <path d="M 330 300 C 400 300, 400 400, 500 400" fill="none" stroke="#2563eb" stroke-width="2" stroke-dasharray="8 8" class="animate-flow-slow"></path>
+
+                                        <!-- Connection Dots -->
+                                        <circle cx="330" cy="300" r="4" fill="#080808" stroke="#2563eb" stroke-width="2" class="animate-pulse shadow-[0_0_8px_#2563eb]"></circle>
+                                        <circle cx="500" cy="200" r="4" fill="#080808" stroke="#2563eb" stroke-width="2"></circle>
+                                        <circle cx="500" cy="400" r="4" fill="#080808" stroke="#2563eb" stroke-width="2"></circle>
+                                    </svg>

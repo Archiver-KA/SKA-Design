@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00111",
+  "title": "Book Meeting Button",
+  "summary": "A call-to-action button with calendar icon for scheduling meetings or appointments. Features hover effects and modern rounded design.",
+  "tags": [
+    "button",
+    "cta",
+    "modern",
+    "responsive",
+    "calendar",
+    "meeting",
+    "white"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1718,
+      "sha256": "16401b2c48bd16ead6b4c234d9447caa9bdb0ba6cdf25017c7e6e8af854547d8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 850,
+      "sha256": "e294e841d517cd87f2450e756efbb624c862166e1716eca63661c386163d2b9a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1690,
+      "sha256": "996d029d8f0cef369d6eda46b7b7dff09fbcf705ee3cf390d4219b62f253c608"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

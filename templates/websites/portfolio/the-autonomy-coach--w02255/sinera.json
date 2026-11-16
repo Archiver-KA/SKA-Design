@@ -1,0 +1,69 @@
+{
+  "id": "SN-W02255",
+  "title": "The Autonomy Coach",
+  "summary": "A reusable landing page template for sales coaches, consultants, and thought leaders to showcase purpose-driven services and drive booking calls.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Large Type",
+    "sales coaching",
+    "personal brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3789,
+      "sha256": "11da213b46ee655d360c646edce421df0dd494e7eb96b95ee43c0b75dc707386"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19414,
+      "sha256": "b49ce68d63249d7d49255e7008fe157f2bcd02df69850fa010486cde6bfe7a6c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 706,
+      "sha256": "723aaf8158340fae869a6513b1575a16612d41ad447e996c4159a267683ffce3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36413,
+      "sha256": "47a84fc844df2af9b7067137268458fd72ba42f4e1c9e20d8bca228060eefbbe"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "features",
+    "about",
+    "testimonials",
+    "how-it-works",
+    "faq",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

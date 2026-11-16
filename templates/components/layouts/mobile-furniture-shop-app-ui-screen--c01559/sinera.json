@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01559",
+  "title": "Mobile Furniture Shop App UI Screen",
+  "summary": "iOS-style furniture ecommerce screen featuring status bar, navigation header, search input, filter chips, 2-column product cards and sticky bottom tab bar. Tailwind-styled component for prototyping shopping apps or showcasing mobile UI layouts.",
+  "tags": [
+    "mobile",
+    "ecommerce",
+    "ui",
+    "tailwind",
+    "product-grid",
+    "search-bar",
+    "tab-bar",
+    "navigation"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21266,
+      "sha256": "6811c861e7b1b0084c3670094e1807928053e799a3206e8eec0791fc3ac323c2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 14390,
+      "sha256": "352b7d2c08b60bfc5debf7f31ed79bcd8ad15519c20d115d469ffcd22d936627"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15376,
+      "sha256": "8e97f3f8208d4cbbaa72185864ead62c588d3b68ad599e0d92016d0180a57eba"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

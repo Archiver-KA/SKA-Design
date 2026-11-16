@@ -1,0 +1,57 @@
+{
+  "id": "SN-W01715",
+  "title": "Tech PR Agency Landing Page Template",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3594,
+      "sha256": "fe258d9286195c0b41d47e639b9cb769bdf94b5491938bcdf965dd6e5adc2458"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13586,
+      "sha256": "7e75e05676291dab27eaf70a7514816583aadd34cad2e8e0649f508cafc5c497"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "c10d4d2cb008e1c23064b0487b43d253a640ac818c4e401842e9193f131711d7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 43353,
+      "sha256": "ba64f2b5632bb6d768535d72d67b599c7e060f4f8ccef03e4804fad1ed7e31af"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "how-it-works",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

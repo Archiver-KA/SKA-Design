@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01481",
+  "title": "Responsive Landing Hero with Header Nav and Animated CTA",
+  "summary": "Full-width hero section featuring logo, responsive navigation, Playfair headline with inline images, feature badges, and two call-to-actions—one is a gradient button with floating points animation. Styled with Tailwind utilities for modern agency or product landing pages.",
+  "tags": [
+    "hero",
+    "navigation",
+    "cta",
+    "tailwind",
+    "animated",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7876,
+      "sha256": "bd2d440211295198df728fa8c36f71d610d13188a9e52c06d421b5f39b2e9f6f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11849,
+      "sha256": "186a70f86c2157eee2e9ab4c1e3c24240ef34dacb8b209d642419e2afdc8186d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12856,
+      "sha256": "cfc3299c12a1eda245d36af223fbf64adfda05be0812824e1bec89ff78b3c513"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

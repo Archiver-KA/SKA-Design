@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02295",
+  "title": "Interactive Dashboard Grid with Animated Feature Cards",
+  "summary": "Responsive Tailwind grid presenting dark, glassmorphic cards—component generator chat, code optimizer, theme switcher, collaboration feed, and template library. Includes hover effects, scroll animations, and CTA buttons for SaaS dashboards or landing pages.",
+  "tags": [
+    "dashboard",
+    "grid",
+    "tailwind",
+    "animated",
+    "interactive",
+    "dark",
+    "chat",
+    "glassmorphism",
+    "section"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 33090,
+      "sha256": "c26c42b5e8d414b7188cbdd37715971ef5dbb2943c75e700487f67e076a8965a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 16327,
+      "sha256": "51c04ecd7fae79795992681508d4796e1d0de6c9737b92d68aebe326b6981f15"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17202,
+      "sha256": "0367142d006761de21076f78464312b32190eaf7ea7d518d28b86a886202d81c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

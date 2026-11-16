@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00328",
+  "title": "Certification Info Card with Stats & Image Background",
+  "summary": "Responsive Tailwind article card presenting a certification, featuring background image, category label, title, description, stats grid, footer badge, and hover border highlight—ideal for showcasing courses, products, or achievements.",
+  "tags": [
+    "card",
+    "tailwind",
+    "responsive",
+    "hover",
+    "background-image",
+    "stats",
+    "course",
+    "certification"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15434,
+      "sha256": "1a5f018f66df5463369793002edaede2f2d142e4105f0a7746c7b9d2836299cb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2491,
+      "sha256": "b111a1cd2dac60c3dad9216394f54da32a434851d45835564fc71948f52effca"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3369,
+      "sha256": "275badffcf3ca691beaece216ee9e53e5a8b1c976a3144094a34b922919578a3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

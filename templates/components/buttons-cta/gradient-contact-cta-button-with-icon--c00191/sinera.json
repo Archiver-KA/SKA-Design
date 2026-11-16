@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00191",
+  "title": "Gradient Contact CTA Button with Icon",
+  "summary": "Rounded anchor element styled as a green gradient button with Tailwind CSS. Includes a message icon, inline-flex alignment, and hover brightness transition. Suited for contact links or call-to-action spots in headers, footers, and landing pages.",
+  "tags": [
+    "button",
+    "cta",
+    "contact",
+    "gradient",
+    "icon",
+    "tailwind",
+    "hover",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1914,
+      "sha256": "fbf7c899c9a5f51f22805cd490cb351d3f78af5c27321dd652ed584104df93cf"
+    },
+    {
+      "path": "component.html",
+      "bytes": 576,
+      "sha256": "6641f0ee9bb2c635c11c8fbcab99c88e5bcabda00c48e1ebb586c6f128609ec9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1434,
+      "sha256": "3cf769d22df6ecb70d071c54d7693c8383a59e5ccadde0b4eab173ca3419f7fb"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

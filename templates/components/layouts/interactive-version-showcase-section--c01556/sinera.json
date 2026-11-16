@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01556",
+  "title": "Interactive Version Showcase Section",
+  "summary": "A dark Tailwind CSS feature section with tabbed model/version switching, dynamic image preview, metadata tags, and changelog CTA. Ideal for product updates, release notes, AI model comparisons, or deployment spec highlights.",
+  "tags": [
+    "feature",
+    "section",
+    "tailwind",
+    "interactive",
+    "tabs",
+    "dark",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 36366,
+      "sha256": "02ac742ea8b137711826a3df2688e8a2728bf86e7579b152d18ebe49eea6d6ae"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8258,
+      "sha256": "2dbf8a44ebe0e7febdf52e38712fdb83be46e883a1165ad8142e62b6e78d1465"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9205,
+      "sha256": "232bf6104f71d73dd06731546349c594afc9acda46dcfdb16d57edf3a2617cdf"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "SN-C00373",
+  "title": "Generic Content Placeholder Block",
+  "summary": "A minimal placeholder block displaying the text 'ECM L'. Can serve as a stub or label area to be replaced with real content in layouts or during early UI scaffolding.",
+  "tags": [
+    "card",
+    "placeholder",
+    "label",
+    "minimal",
+    "static"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2240,
+      "sha256": "50d34a9e09d475a09837c381ab3f40e72649e55f6d63ed72b99017e0c9b696f8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8,
+      "sha256": "bc38b3ec3a4d35083896deae8fccdbe80cab1c99e0b900be519072bd4555e232"
+    },
+    {
+      "path": "index.html",
+      "bytes": 862,
+      "sha256": "90715383f8e977a3dfff65dc4c77a889a896a6aed6e5c244bb137c2fcbaeba9d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

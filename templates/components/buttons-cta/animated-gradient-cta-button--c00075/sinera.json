@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00075",
+  "title": "Animated Gradient CTA Button",
+  "summary": "Rounded call-to-action button with animated multi-color gradient background, radial overlay, hover scale & deep shadow effects. Uses Tailwind utilities plus inline SVG gradients for vivid, interactive landing or hero sections.",
+  "tags": [
+    "button",
+    "cta",
+    "gradient",
+    "animated",
+    "interactive",
+    "tailwind",
+    "hover",
+    "rounded"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2008,
+      "sha256": "854bdba84735e36cdfe7688ff7d5b057c7d801f7795e48d896ac50d0616f736f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4372,
+      "sha256": "b85d61d75e3108f0b615a4d70d8184cce303f6d65ea5119b0a5f701022747ac9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5221,
+      "sha256": "8f596fbb88280e720a948c779982c372d54bb3c628f0d1cca68cb80ade6f49a0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "SN-W03211",
+  "title": "Commercial Construction Landing Page Template",
+  "summary": "A modern, dark-themed commercial construction landing page template for showcasing services, certifications, and contact details for building specialists.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Large Type",
+    "Minimal",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3654,
+      "sha256": "4d08ce9617b310c5286f378bb2ef67852b64c6474732f46f44dd0c599568b7ca"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 101456,
+      "sha256": "2f7f42457717ade13c3b1257b06da582afdb98f0ffa1897167786772b16e8c15"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 876,
+      "sha256": "7e0689cc6f4b15ff7103fbc32a09b922bf9196236839650253345b6365899c32"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 266,
+      "sha256": "074ed0506eccb0e042d707a916bd688adc9900bd78096464344d56a5b79d15eb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25609,
+      "sha256": "594b98002b04984e8f2f312721815535a6745122d4820ed6cf71e8fec133200d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "SN-C00423",
+  "title": "Policy Drift Alert Card",
+  "summary": "Security alert card displaying policy deviation details with severity indicators, impacted resources, and action buttons for cloud infrastructure monitoring.",
+  "tags": [
+    "card",
+    "alert",
+    "security",
+    "policy",
+    "monitoring",
+    "cloud",
+    "dashboard",
+    "modern",
+    "glass",
+    "shadow"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10438,
+      "sha256": "851de7eeba3d8a57f7bdce97d23571f885233944a5ef8a585b3bfcec3e1834de"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2904,
+      "sha256": "3d3cba1cc65e39cc962c052c81365ee44440c746528ef3b3902c47980633869d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3748,
+      "sha256": "1b3543413abd71fb28a991748c164fa0613ea10e16990289977b5bbf2e221ad6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

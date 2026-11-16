@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01654",
+  "title": "OmegaDigital Agency Landing Page Template",
+  "summary": "A high-performance dark-themed template for SEO, digital PR, and marketing agencies seeking a professional and modern online presence.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Portfolio",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3294,
+      "sha256": "eae1c192a4aef93479b4a2883d93a819651b9e3f5bd5efd2ff000cc3a39319fe"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4152,
+      "sha256": "f0d210c5440b8ac38a1bacc8df511f9d9afb31076b656cb850e9df30745e1335"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "36cde30eb3d253ad69ea20ecef1cd555f333d53cf86e8f74e52f1713bef69ee0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36773,
+      "sha256": "bb96a0a46fc3e62317338e90dd13eda067e7aa7af8768e64611ba4f2b25f4c12"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "logo-cloud",
+    "contact-form",
+    "team",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

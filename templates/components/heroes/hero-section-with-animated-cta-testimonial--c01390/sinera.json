@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01390",
+  "title": "Hero Section with Animated CTA & Testimonial",
+  "summary": "Responsive hero block featuring headline, copy, and glowing CTA button with floating particle animation, paired with a testimonial card and star rating. Styled with Tailwind CSS and custom keyframe effects, perfect for crypto or SaaS landing pages.",
+  "tags": [
+    "hero",
+    "cta",
+    "animated",
+    "testimonial",
+    "tailwind",
+    "responsive",
+    "landing-page"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19750,
+      "sha256": "94ac3561f7bcd45abdfcc5427a7f8cf25856fa48b226217d6b391a16028cfa1c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8638,
+      "sha256": "e2e9189f2aeefa737bc144b118a07fb4c042a6570dbd7d6f24934e27305926cc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9507,
+      "sha256": "a7c7517f425530f02cb2f5ffddf49ba79dcc0df3ff517c2a3595693cbb4b7c36"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

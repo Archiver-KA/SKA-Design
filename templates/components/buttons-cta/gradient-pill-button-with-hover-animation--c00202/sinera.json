@@ -1,0 +1,41 @@
+{
+  "id": "SN-C00202",
+  "title": "Gradient Pill Button with Hover Animation",
+  "summary": "Rounded pill-shaped CTA button with dark gradient background, subtle scale and opacity hover effects, inner border, and animated letter-spacing for the label. Built with Tailwind-style utility classes, ideal for primary call-to-action actions.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "animated",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2242,
+      "sha256": "6c3f5a2c3feab9855018eb51051f4a9243a00102f99bb46e4f639a6548d58ca6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 799,
+      "sha256": "c26fcb29c56d64cfe862bc33f8eaead559898627d52159c4ffc6057b64b0d682"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1661,
+      "sha256": "d5290e4d0c31cfd20fc958dbd90dc9be4fb5f031e5e90375436d02df242baf1e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

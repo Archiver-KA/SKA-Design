@@ -1,0 +1,60 @@
+{
+  "id": "SN-W04286",
+  "title": "Sidebar Navigation Panel",
+  "summary": "Responsive sidebar with search, categorized menu, notification badges, and user profile section using Tailwind CSS and icons.",
+  "tags": [
+    "Sidebar",
+    "Navigation",
+    "Tailwind CSS",
+    "Responsive",
+    "Icons",
+    "Search",
+    "User Profile"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2954,
+      "sha256": "fe735a158cbec33a5b9fa31f9b9644a49a9793f22a96272093b87c4e848e1983"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6026,
+      "sha256": "3f1e714b8743c993b99ebdc6a3e246a8d27c98320c75f520c339f2ac84510b69"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 717,
+      "sha256": "e955dbb69065e063f971c7d7e171479b44c364cac6d4d089d843492874554b32"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7250,
+      "sha256": "0558a76c1b346ca0cd6184c6fa48846fee5d3932cec9f02599602c895f1e33ec"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "navbar"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "snippetType": "sidebar",
+  "design": "DESIGN.md"
+}

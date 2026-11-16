@@ -1,0 +1,32 @@
+<svg class="absolute top-0 right-0 bottom-0 left-0 w-full h-full" viewBox="0 0 400 200" fill="none" preserveAspectRatio="xMidYMid meet">
+                <defs class="">
+                  <linearGradient id="flowGradientLeft" x1="0%" y1="0%" x2="100%" y2="0%" class="">
+                    <stop offset="0%" stop-color="#3B82F6" stop-opacity="0" class=""></stop>
+                    <stop offset="50%" stop-color="#60A5FA" stop-opacity="1" class=""></stop>
+                    <stop offset="100%" stop-color="#3B82F6" stop-opacity="0" class=""></stop>
+                  </linearGradient>
+                  <linearGradient id="flowGradientRight" x1="100%" y1="0%" x2="0%" y2="0%" class="">
+                    <stop offset="0%" stop-color="#3B82F6" stop-opacity="0" class=""></stop>
+                    <stop offset="50%" stop-color="#60A5FA" stop-opacity="1" class=""></stop>
+                    <stop offset="100%" stop-color="#3B82F6" stop-opacity="0" class=""></stop>
+                  </linearGradient>
+                </defs>
+
+                <!-- Static Base Paths -->
+                <path d="M50 100 L120 100 L150 70" stroke="currentColor" stroke-width="1" class="text-white/10"></path>
+                <path d="M350 100 L280 100 L250 130" stroke="currentColor" stroke-width="1" class="text-white/10"></path>
+
+                <!-- Animated Data Flow -->
+                <path d="M50 100 L120 100 L150 70" stroke="url(#flowGradientLeft)" stroke-width="2" stroke-linecap="round" stroke-dasharray="120" stroke-dashoffset="120" style="animation: flowData 3s cubic-bezier(0.4, 0, 0.2, 1) infinite;" class=""></path>
+                <path d="M350 100 L280 100 L250 130" stroke="url(#flowGradientRight)" stroke-width="2" stroke-linecap="round" stroke-dasharray="120" stroke-dashoffset="120" style="animation: flowData 3s cubic-bezier(0.4, 0, 0.2, 1) infinite; animation-delay: 1.5s;" class=""></path>
+
+                <!-- End Nodes -->
+                <g transform="translate(50 100) rotate(45)" class="">
+                  <rect x="-10" y="-10" width="20" height="20" fill="#1A1A20" stroke="white" stroke-opacity="0.2" class="group-hover:stroke-blue-500/50 transition-colors duration-300"></rect>
+                  <circle cx="0" cy="0" r="2" fill="#60A5FA" class="opacity-0 group-hover:opacity-100 transition-opacity duration-500"></circle>
+                </g>
+                <g transform="translate(350 100) rotate(45)" class="">
+                  <rect x="-10" y="-10" width="20" height="20" fill="#1A1A20" stroke="white" stroke-opacity="0.2" class="group-hover:stroke-blue-500/50 transition-colors duration-300"></rect>
+                  <circle cx="0" cy="0" r="2" fill="#60A5FA" class="opacity-0 group-hover:opacity-100 transition-opacity duration-500"></circle>
+                </g>
+              </svg>

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00833",
+  "title": "Responsive 3-Card Feature Grid with Tailwind",
+  "summary": "Landing-page component displaying three glassmorphic feature cards with icons, headings, copy and optional badges. Responsive grid adapts from single to three columns using Tailwind CSS utility classes—ideal for highlighting product benefits or services.",
+  "tags": [
+    "feature",
+    "grid",
+    "tailwind",
+    "responsive",
+    "landing",
+    "marketing",
+    "glassmorphism"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16680,
+      "sha256": "35705b878e9479cfe46f522ca4366ed008d217edb5518d9650d40ba08f634158"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5363,
+      "sha256": "6aa5f2be600988499b4b3f9703398d7d3c446b170216ba83d2bddead4bac82b2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6358,
+      "sha256": "02f7ec64a0fa6f77e5dce6aaf7e041ddb14c6635049eb2dd1cdde020b6cced65"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

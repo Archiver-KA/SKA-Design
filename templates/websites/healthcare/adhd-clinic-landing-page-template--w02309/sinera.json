@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02309",
+  "title": "ADHD Clinic Landing Page Template",
+  "summary": "A specialist ADHD clinic landing page template for private mental health practices to showcase services, pricing, and assessments with a clean, modern design.",
+  "tags": [
+    "Health",
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Grid",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3688,
+      "sha256": "590d214f8244802997bb581b29ae623228da4ac6ff159996abf04570fbe94a25"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22016,
+      "sha256": "2c669454b8916f8077da63a9a0200424aba3e7cf83b5719b6fdb55c9d57c30b4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 722,
+      "sha256": "800fd0a1736c5535aa939cccada219125e8f03ad0e485e063af7d97081741c90"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34035,
+      "sha256": "638228c1c977141fb5700a9119480cdea688d9d47514df6a0373b2d62016cb6d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "services",
+    "timeline",
+    "team",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "SN-W00322",
+  "title": "Cybersecurity SaaS Landing Page Template",
+  "summary": "A high-performance dark-themed template designed for cybersecurity platforms, code audit tools, and developer-centric security SaaS products.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Dark",
+    "Animated",
+    "Services",
+    "Clean",
+    "Futuristic"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4363,
+      "sha256": "dfad531e5c2beff91697bc05569bad9bf6812eba7f26dc1b647c711a164f8f1d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9452,
+      "sha256": "2569d789b9a8111a1a4c71cc354bed7ad1d70646396a99dd30b8f7e6eb918d1d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1074,
+      "sha256": "6ff56c788c37339e6c63f349c63eb763357c8e81a2d1b150c62a3868168977c6"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 562,
+      "sha256": "b184e0d1ce2a53a148e60b2aa3384789007b685ed0e3949580ae1555001e6dab"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 512,
+      "sha256": "fc08cb2b1705095c566acae7726bff1806ad87644be5a543026aa0da91a49fbf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42550,
+      "sha256": "20844e0638793a4fd2de4324180882cbc2c8565264e3056bf28945e2ee4386bf"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "features",
+    "how-it-works",
+    "testimonials",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

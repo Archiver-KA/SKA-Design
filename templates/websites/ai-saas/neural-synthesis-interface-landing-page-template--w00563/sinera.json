@@ -1,0 +1,73 @@
+{
+  "id": "SN-W00563",
+  "title": "Neural Synthesis Interface Landing Page Template",
+  "summary": "A futuristic NeuralMind landing page template for showcasing advanced AI, data, and autonomous reasoning products with bold visuals and interactive stats.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Futuristic",
+    "Dark",
+    "Grid",
+    "Minimal",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3381,
+      "sha256": "a46578886b94f505a7972c935e353eda73bda047e843a07cb8c69bcb23fe05ba"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13274,
+      "sha256": "e34cb030c4ee524b745ca31b522af7e25010a23798216e4c87668fcaa0ec0246"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1080,
+      "sha256": "87a718edebd15628caac47f471b940f025aafd69303e61f006557a7ab4d5539c"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1438,
+      "sha256": "f738c1432a81991f99f9f0e6049da3d660b4f25878cc0ea69e977b2750dcebd8"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 157,
+      "sha256": "e008a0c01fc8e6bfd81d7cb070d060dedf7575d4ecf7c38588164c5b7306d779"
+    },
+    {
+      "path": "index.html",
+      "bytes": 48684,
+      "sha256": "b676a74924cfe4abf4ea2e7ca8be556ff18282a605b19756a162cbe331a403ff"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

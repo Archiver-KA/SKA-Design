@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00960",
+  "title": "Responsive Dark Theme Footer with Social Icons",
+  "summary": "Tailwind-styled footer featuring four-column link grid for courses, support, and company info, rounded social media buttons, and bottom legal bar. Responsive layout adapts from mobile stack to multi-column desktop, ideal for SaaS, e-commerce, or educational sites.",
+  "tags": [
+    "footer",
+    "tailwind",
+    "responsive",
+    "navigation",
+    "social-media",
+    "dark",
+    "grid",
+    "ui-component"
+  ],
+  "kind": "components",
+  "category": "footers",
+  "categoryLabel": "Footers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12978,
+      "sha256": "d5dcd4ad9d1feb80fd50b155468e61b1d2ad1f0a666a83f3acf831d35dfc08b4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7015,
+      "sha256": "4ad7b6922fa98d2e268e3000faab6d858be69fd3a85b86a2f09b1f46dc7c1939"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7882,
+      "sha256": "6b363461b462ea4bca21954ec5ddd394fe246ebdd3975dde9440db1d9cbec0da"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "SN-W04326",
+  "title": "User Activity Bar Chart",
+  "summary": "Responsive bar chart displaying user stats over 6 months with gradient bars, tooltips, and axis labels using Tailwind CSS.",
+  "tags": [
+    "HTML",
+    "CSS",
+    "Tailwind CSS",
+    "Responsive Design",
+    "Bar Chart",
+    "Tooltip"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2614,
+      "sha256": "dabfb1e6a725cb7c1de09ed1872aa93bb6d8eb32d4cc7a78ed94fe1fad1ebbdc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5680,
+      "sha256": "82c83e899f08f6fc602e0ef29eb46b1d58c3cd50bcc914701343f03d5cd19a5c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 716,
+      "sha256": "5c0758f65376e9f37ef4dfc8a56506750643ba50d83b352157aecdcf369313cc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6216,
+      "sha256": "0a387d9a7b1641eb22fbafead55df7f98b4ab8649ae705392f25bcd76e479a59"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "stats"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "dashboard-preview",
+  "design": "DESIGN.md"
+}

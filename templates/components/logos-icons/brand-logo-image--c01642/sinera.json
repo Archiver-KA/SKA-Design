@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01642",
+  "title": "Brand Logo Image",
+  "summary": "A simple brand logo component with centered alignment and auto-width scaling. Perfect for headers, navigation bars, or footer branding elements.",
+  "tags": [
+    "logo",
+    "branding",
+    "header",
+    "image",
+    "minimal"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2304,
+      "sha256": "65680ec0afbfaa6134c7bef0d5148664900b71340d7342e757667edb2f56a5dd"
+    },
+    {
+      "path": "component.html",
+      "bytes": 124,
+      "sha256": "29320305169dfd8b95bb407b3000f1f3969a597549d9f73e0596618f9d817615"
+    },
+    {
+      "path": "index.html",
+      "bytes": 961,
+      "sha256": "8246881322d0beecbc2861ed967abf0229f7b6763f0db0856798542fb6eaaf1a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

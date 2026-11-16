@@ -1,0 +1,72 @@
+{
+  "id": "SN-W02338",
+  "title": "Compounding Pharmacy Landing Page Template",
+  "summary": "Reusable landing page template for premium compounding pharmacies to showcase services, clinical capabilities, and drive provider and patient conversions.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Technology",
+    "Pharmacy",
+    "Compounding"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3634,
+      "sha256": "f16e4c1b8ea9b90129ed778a6d414265cb46b4c1132f2cc5b8b869c4ea9dad86"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16202,
+      "sha256": "46722fc05fa06abcd893b8e2487ffe3fac597c5700681fc8c855c44e764a68e8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 814,
+      "sha256": "cbfc9e20134b3f778e613f38b7f37f158478d5ebd147d737f6f255cbd686e0af"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31997,
+      "sha256": "fa529688e20ba437e12e963fd20f751c580aa6f89e5165a3a03287b6698c5ffa"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "3d-canvas",
+    "blog-articles",
+    "services",
+    "features",
+    "logo-cloud",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

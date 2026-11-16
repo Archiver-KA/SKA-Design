@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01041",
+  "title": "Interactive Billing Period Toggle with Heading",
+  "summary": "Animated annual/monthly billing toggle with gradient styling, icon swap, and dynamic label under a pricing-focused heading. Uses Tailwind utility classes, custom fonts, and Iconify. Ideal for pricing or plan selection UIs requiring clear cost structure controls.",
+  "tags": [
+    "toggle",
+    "interactive",
+    "pricing",
+    "tailwind",
+    "animated",
+    "icon",
+    "switch"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9576,
+      "sha256": "5ecbc7af118dda1d41cd739e501e6a3d78cce5dc04c1d07e638c40319ee8965b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4543,
+      "sha256": "5ac352adb044a63f1cd260c813f1341d70f8432f264381aaa5a6411872cdccb6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5410,
+      "sha256": "532a7eb9b9199202014b89f91b2c09b3206d00281a6687f664d13b7d2afab723"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

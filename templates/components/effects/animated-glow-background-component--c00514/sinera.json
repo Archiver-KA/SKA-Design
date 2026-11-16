@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00514",
+  "title": "Animated Glow Background Component",
+  "summary": "Full-screen, absolute-positioned background layer that loads Unicorn Studio to render animated glow visuals. Adds dynamic, responsive effects behind page content—ideal for hero sections, headers, or immersive landing pages.",
+  "tags": [
+    "background",
+    "animation",
+    "glow",
+    "visual",
+    "tailwind",
+    "unicornstudio",
+    "effect"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5974,
+      "sha256": "e8db314195c95acaf0b916f91c111822f96855994e5dc4c174307028a7957fb5"
+    },
+    {
+      "path": "component.html",
+      "bytes": 627,
+      "sha256": "ddc04372b4fdf1f7adf402954076c4da1eb64f1bb598dd0edf9c5b96d46fef0b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1482,
+      "sha256": "fce905a79dd2b818e0b2552da22722bb8d4dc3c365400c61aa53878fad3d48d9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

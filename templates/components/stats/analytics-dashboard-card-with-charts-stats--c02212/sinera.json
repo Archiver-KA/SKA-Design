@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02212",
+  "title": "Analytics Dashboard Card with Charts & Stats",
+  "summary": "Dark-themed card featuring velocity line chart, key metrics, progress bars and real-time notifications. Perfect for dashboard overviews or analytics previews, styled with Tailwind CSS and built on a responsive grid layout.",
+  "tags": [
+    "card",
+    "dashboard",
+    "analytics",
+    "chart",
+    "stats",
+    "tailwind",
+    "dark",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9828,
+      "sha256": "670003fe9d90fdea7476a50f27df6fd326aa1995d788eede187efc41dacf7a57"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6070,
+      "sha256": "561f7c624892ee42b4c570df7b529dcb3b640a3f04c7ba4ff10dc78f21d366a9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6939,
+      "sha256": "176fc1c9266bd7bc80b7a0c3d3caf111601b620bf7404aae2766ca2a2ea5841f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

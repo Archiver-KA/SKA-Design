@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00457",
+  "title": "Sprint Overview Card with Task & Progress Widgets",
+  "summary": "Responsive Tailwind card combining a mini kanban board, 7-day completion chart, and interactive personal task list with custom checkboxes and quick actions—ideal for dashboards or project management pages.",
+  "tags": [
+    "dashboard",
+    "card",
+    "kanban",
+    "task list",
+    "tailwind",
+    "interactive",
+    "progress",
+    "widget"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13016,
+      "sha256": "acb3bf29f049eff2408bde3ff79b851234cfa7e58c41cb0b646643ad510cdf99"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9979,
+      "sha256": "0e2f0f728675208d3dcd50faa4dfd1509db469152d6b342f4650198f175b2832"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10983,
+      "sha256": "b216ef49ca79d2aac6ca4cbf22440c92fadf0141ea5e110b4bc42aedf145d4ba"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

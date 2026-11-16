@@ -1,0 +1,46 @@
+{
+  "id": "SN-C01003",
+  "title": "Assistant Prompt Bar with Voice Toggle & Suggestions",
+  "summary": "Tailwind-styled hero section featuring a voice/text input bar with mic toggle, run button, shortcut hints, dynamic listening indicator, and quick suggestion chips—ideal for AI assistants or automation dashboards.",
+  "tags": [
+    "hero",
+    "input",
+    "voice",
+    "assistant",
+    "tailwind",
+    "prompt",
+    "responsive",
+    "suggestions",
+    "text",
+    "typography"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10368,
+      "sha256": "24c13295f2a25c76c324bfcc294b6a43efe7db5e6d7b643c86d6aecc5de23ef7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 539,
+      "sha256": "3a8624932100392a1a530b9bcf77c66d601d42b1711b2375eb7cf385b7001272"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1416,
+      "sha256": "ee02ef2843ee03c3a3e7f9a5f6d5b1d6c5e00b8962a79f47622e8d19f248778c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

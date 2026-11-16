@@ -1,0 +1,70 @@
+{
+  "id": "SN-W02140",
+  "title": "netpiedev.in",
+  "summary": "A premium digital agency landing page template for showcasing full-stack web, app, and SEO services to high-growth startups and businesses.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Colorful",
+    "Large Type",
+    "Portfolio",
+    "Agency"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3935,
+      "sha256": "efbd64e174d9564f470a75d62eb7653ed9964c27c5034d2c3327957adf28fbeb"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21326,
+      "sha256": "8927912672e8f8fc491bf71f3f0ed5f8913998deedea81c69409e172b982d0f6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 700,
+      "sha256": "09856d2a8a25dd4cd98ac1a4ed64c64da374ca18a69cb5a52e70e5dca1805e1e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 45453,
+      "sha256": "19834fb7b79321c27adb27a743960242c56558f502d4e96badd24d3b09c03415"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "how-it-works",
+    "stats",
+    "testimonials",
+    "services",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

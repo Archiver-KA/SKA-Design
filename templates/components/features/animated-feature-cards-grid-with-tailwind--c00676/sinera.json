@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00676",
+  "title": "Animated Feature Cards Grid with Tailwind",
+  "summary": "A dark-theme grid displaying three animated feature cards—integrations, AI assistant chat, and performance chart. Built with Tailwind CSS, includes pulse, orbit, hover, and SVG animations. Perfect for SaaS dashboards or landing pages highlighting product capabilities.",
+  "tags": [
+    "feature",
+    "grid",
+    "animated",
+    "tailwind",
+    "dashboard",
+    "landing-page",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14234,
+      "sha256": "093344872870fdd195963b81f808c2ae0e2cdbf8742858edf0828a89cd775773"
+    },
+    {
+      "path": "component.html",
+      "bytes": 22292,
+      "sha256": "69468afd51497f8e4d5bd24bf8f06e7e98c149de4ea509fabe856a60f249a59e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23154,
+      "sha256": "fecbe6ad6466c65b85daea015006e77bc00180b9d0ea4535db0407b5b5b20ede"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

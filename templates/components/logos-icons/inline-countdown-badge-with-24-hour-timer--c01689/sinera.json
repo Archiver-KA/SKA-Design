@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01689",
+  "title": "Inline Countdown Badge with 24-Hour Timer",
+  "summary": "Small inline badge that automatically counts down from 24 hours on initial load. Styled with Tailwind utility classes, it updates every second, making it perfect for flash sales, limited-time offers, or event reminders.",
+  "tags": [
+    "countdown",
+    "timer",
+    "badge",
+    "tailwind",
+    "interactive",
+    "widget",
+    "offer",
+    "inline"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1814,
+      "sha256": "ecd0b1659571455039bc74ca39b745a11ee2ff4a969f3a144af3623fef9f8330"
+    },
+    {
+      "path": "component.html",
+      "bytes": 993,
+      "sha256": "2f1bc9e7c849fcbc2bd051c239d1741e104fb8d0ce0a099aafabe8ab25aa5386"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1855,
+      "sha256": "dbcd384e06a43db71f94462d51b35826a3f63b6d63e8ba1ba1ece594fe5bcd64"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

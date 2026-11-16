@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00793",
+  "title": "Interactive AI Capabilities Feature Section",
+  "summary": "A full-width dark-themed feature section with tabbed navigation to showcase AI platform capabilities like compute, inference, pipelines, edge deployment, and security. Uses custom CSS, inline styling, and interactive JavaScript for SaaS landing pages.",
+  "tags": [
+    "feature",
+    "section",
+    "interactive",
+    "tabs",
+    "saas",
+    "dark",
+    "responsive",
+    "css"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16968,
+      "sha256": "ec6e05cb9fc65d6191864854ea6d08175af196a65cc8be0915b4673643fd45f2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11214,
+      "sha256": "ada7d30df7d20c37bae6f560fabac5ff368463c30be0444c7218a4b233446a51"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12078,
+      "sha256": "94e9a2ac8c908c4de24a8e3e340a4e9d1663a8d6f6e572a2c25c7c0592ddb46c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

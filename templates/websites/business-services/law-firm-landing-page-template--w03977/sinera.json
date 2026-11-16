@@ -1,0 +1,75 @@
+{
+  "id": "SN-W03977",
+  "title": "Law Firm Landing Page Template",
+  "summary": "A polished, mobile-responsive law firm landing page template for showcasing practice areas, partners, and legal insights while driving consultation inquiries.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Technology",
+    "Legal",
+    "Law Firm"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3894,
+      "sha256": "ecca44db1f4d1792c57f9b0f1d06fc7e3dd31ab31a56abbce1276682f5246a1c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13278,
+      "sha256": "c2e78526eadbba62cf21f8820da0be760fcb4767dd64569c71def574887f2886"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 866,
+      "sha256": "d1010b3a1d5fa0c1e9d613dd108f6d9cacfcc9bd2290f3d8c7ebea03f36b306d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 71996,
+      "sha256": "9ef53f5eb6075da126f22dbf891a7fcdb9c46b991c2f068e7b74bad7cd30fe64"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "gallery-portfolio",
+    "booking",
+    "testimonials",
+    "contact-form",
+    "footer",
+    "auth-form",
+    "dashboard-preview"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

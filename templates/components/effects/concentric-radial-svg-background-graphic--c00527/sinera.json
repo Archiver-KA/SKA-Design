@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00527",
+  "title": "Concentric Radial SVG Background Graphic",
+  "summary": "Scalable SVG background with semi-transparent concentric arcs and radial lines, ideal for hero sections, banners, or cards. Provides a lightweight decorative element without external assets and scales crisply across screen sizes.",
+  "tags": [
+    "svg",
+    "decorative",
+    "radial",
+    "concentric",
+    "vector",
+    "responsive",
+    "graphic"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6756,
+      "sha256": "018bb8d9c68f10a41f124073f7e89089345192ea317a50e18d6f1fcb1c3267c7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1715,
+      "sha256": "118eadc59502a09a41f72c5e7779f7cd54f90f0d83edbda4e19437ee04189488"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2576,
+      "sha256": "4ea0b0d1bc79b6054f4c3dde6c4d55b5e34bee15d49c03c8ca3cb2e9e4664b1e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

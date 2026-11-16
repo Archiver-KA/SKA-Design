@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02083",
+  "title": "Responsive Pricing Table with Billing Toggle",
+  "summary": "Three-plan pricing section featuring hover-animated cards, yearly/monthly toggle, and gradient styling. Built with Tailwind CSS grid for full responsiveness—ideal for SaaS or product landing pages.",
+  "tags": [
+    "pricing",
+    "cards",
+    "table",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "grid",
+    "landing",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 31902,
+      "sha256": "f58a4cc834cc23368444e9d8d7fe191c50028ea3a07dd7caaeaf17653c7ff326"
+    },
+    {
+      "path": "component.html",
+      "bytes": 16671,
+      "sha256": "cc713c558d0f7692e41d6a762d5bc21f029e049c2a3ada99005dcbee1a365be5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17666,
+      "sha256": "03ca30c795bcf9b865a6ee60e89e43293ba4c9725abd1b959fd58c10be242ef0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

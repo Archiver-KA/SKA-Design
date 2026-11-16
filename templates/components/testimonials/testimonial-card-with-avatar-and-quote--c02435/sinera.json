@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02435",
+  "title": "Testimonial Card with Avatar and Quote",
+  "summary": "Responsive testimonial card featuring quote icon, customer feedback text, avatar, name, and role. Styled with Tailwind classes, includes hover shadow and rounded corners. Ideal for landing pages, SaaS marketing, and product showcases.",
+  "tags": [
+    "card",
+    "testimonial",
+    "avatar",
+    "quote",
+    "tailwind",
+    "responsive",
+    "marketing",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19444,
+      "sha256": "48ac22c6e54090034a069158604c53d509742844635a6011722c85e2681cbb3a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1399,
+      "sha256": "0f327de8451d4cf4e30485eeb3ad5e67ff5d9a0a62079499ba45cc2037b347e8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2388,
+      "sha256": "106584c02f0ebcf537c79d20a3296e5fcebfd60afea74e4899de40ea5a4ec687"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

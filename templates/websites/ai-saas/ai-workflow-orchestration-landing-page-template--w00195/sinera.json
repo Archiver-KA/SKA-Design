@@ -1,0 +1,66 @@
+{
+  "id": "SN-W00195",
+  "title": "AI Workflow Orchestration Landing Page Template",
+  "summary": "A reusable dark-mode template for AI workflow orchestration platforms to showcase visual agents, integrations, pricing, and enterprise-ready automation features.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "SaaS",
+    "AI",
+    "Automation"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3649,
+      "sha256": "5e75099ba59507dbaec9c0310fa78551d3e57fe0aef9934ad09c4146cc43fa0d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16160,
+      "sha256": "fe5c4afc25c2dd32c46b1fa7758edf7e459f48e2dab8fb00b0429478e1c9904f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 741,
+      "sha256": "506a81759e5d9dbd52284d0b22977b93f36ab6ff87f8d06753d1e3c3f8bfabf7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30548,
+      "sha256": "675a40b4a535455fc3c257f8bbbdeefc8ac1497cd10a9c722a9de7ce627c1367"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "bento-grid",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

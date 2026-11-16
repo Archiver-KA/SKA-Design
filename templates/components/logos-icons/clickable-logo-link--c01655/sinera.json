@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01655",
+  "title": "Clickable Logo Link",
+  "summary": "An interactive logo component that functions as a clickable link, typically used for navigation back to homepage with hover effects.",
+  "tags": [
+    "logo",
+    "link",
+    "navigation",
+    "interactive",
+    "button"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1230,
+      "sha256": "5054abcc4ec8c25e6029bac9bb12fa298098554970aa21b64320392fe4be8783"
+    },
+    {
+      "path": "component.html",
+      "bytes": 305,
+      "sha256": "c818f4b155189fb4ead859ff1b985971ada8468b1e8c09cdc5eb4ac0096bbf50"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1145,
+      "sha256": "04635a61ffbd3d70279bef2da858acb41e26a837a003ec9e0b99936eb915918e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,11 @@
+<svg viewBox="0 0 100 100" class="w-[82%] h-[82%] absolute z-10 -rotate-90" style="filter: drop-shadow(0 2px 8px rgba(59, 130, 246, 0.2));">
+              <defs>
+                <linearGradient id="indigoGlowRing" x1="0%" y1="0%" x2="100%" y2="100%">
+                  <stop offset="0%" stop-color="#818cf8"></stop>
+                  <stop offset="100%" stop-color="#1e3a8a"></stop>
+                </linearGradient>
+              </defs>
+              <circle cx="50" cy="50" r="46" fill="none" stroke="#e2e8f0" stroke-width="6" opacity="0.4"></circle>
+              <circle id="health-ring" cx="50" cy="50" r="46" fill="none" stroke="url(#indigoGlowRing)" stroke-width="6" stroke-dasharray="289" stroke-dashoffset="289" stroke-linecap="round">
+              </circle>
+            </svg>

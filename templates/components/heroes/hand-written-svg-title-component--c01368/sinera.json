@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01368",
+  "title": "Hand Written SVG Title Component",
+  "summary": "An animated title component featuring a hand-drawn SVG underline with customizable title and subtitle text. Perfect for hero sections and elegant headings.",
+  "tags": [
+    "title",
+    "hero",
+    "animated",
+    "svg",
+    "handwritten",
+    "modern",
+    "responsive",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7000,
+      "sha256": "f5db2a1343e7fbacefef4f9125f8ac1ca0487dd2b44fd52ca29c9ad677f95e36"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1658,
+      "sha256": "57b631f60a5c60806aa0519cada5ad02bc52c5b77697398d4368f8f12b0a870f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2511,
+      "sha256": "e948923c59d6cffd48a840c3b15c6a1a612227e1179f3083c21f79996c723850"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

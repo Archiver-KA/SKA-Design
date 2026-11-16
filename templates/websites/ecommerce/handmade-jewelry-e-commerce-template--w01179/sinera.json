@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01179",
+  "title": "Handmade Jewelry E-commerce Template",
+  "summary": "A high-end, brand-forward e-commerce template for artisan jewelry, featuring motion design and a minimalist luxury aesthetic.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Fashion",
+    "Portfolio",
+    "Clean",
+    "Dark",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3519,
+      "sha256": "36e49b918ab57f68839d84a6c5e237e0a98c1375cb5ca287506c13331c01a8c8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 35706,
+      "sha256": "c73e40db5eb5c5cad864d1892d18b67ebc5b528fd5e2187c9e6f064be565a710"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 809,
+      "sha256": "99c9e6967985c64007538e18b2f33c3489b02cf42e51cc11b9ea034b87e33cd5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 78740,
+      "sha256": "c69b48793b74f2fc34998ae00d1ed3968d3fb7b1d36268f7ac502f8a721f2b27"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "bento-grid",
+    "how-it-works",
+    "product-grid",
+    "cta",
+    "newsletter",
+    "contact-form",
+    "footer",
+    "modal-overlay",
+    "sidebar"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

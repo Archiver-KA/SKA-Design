@@ -1,0 +1,40 @@
+{
+  "id": "SN-C01046",
+  "title": "Invalid Input Error Message",
+  "summary": "A simple error message component displaying that the provided input was not valid HTML code. Used for error handling and user feedback.",
+  "tags": [
+    "card",
+    "error",
+    "message",
+    "feedback"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5202,
+      "sha256": "9570137cadd8f72671fe5acd3e0064bd802976377d567f293d9dacaf182a9466"
+    },
+    {
+      "path": "component.html",
+      "bytes": 986,
+      "sha256": "2a077de7936b76c81ca16da0d8f30726aeed4b455c0cdf84eab988d393792a02"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1834,
+      "sha256": "9a88948a3e907e33f4c8597b4df4c09303011f6035c61523172008af6ac96fd7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

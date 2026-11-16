@@ -1,0 +1,68 @@
+{
+  "id": "SN-W02036",
+  "title": "Hair Studio Landing Page Template",
+  "summary": "A modern, salon-ready landing page template for hair studios and stylists to showcase services, portfolio, reviews, and online booking in a refined layout.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Beauty",
+    "Hair Salon",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3801,
+      "sha256": "4e6267af0277eeecd92592db1309b4cce5129068216532da5fd9f39fb38bd55a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 28552,
+      "sha256": "32ebe3927b76c9476b10ee9a43ab32ccbde439a4caf9f988af3fe339fddd66ee"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 721,
+      "sha256": "4f150d9589233d270e4b9677ad8e4b6c4e52703252821f04f8370418bc4097e2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34185,
+      "sha256": "c7a6c5d090bbc41eb2dbea63b5f33f017731d87dff8b1b83436ab31a2edd088c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "gallery-portfolio",
+    "testimonials",
+    "cta",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

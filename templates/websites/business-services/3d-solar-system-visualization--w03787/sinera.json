@@ -1,0 +1,59 @@
+{
+  "id": "SN-W03787",
+  "title": "3D Solar System Visualization",
+  "summary": "Interactive 3D solar system model with rotating planets, orbits, starfield, and camera controls using Three.js and Tailwind CSS.",
+  "tags": [
+    "Three.js",
+    "3D Visualization",
+    "Orbit Controls",
+    "Solar System",
+    "WebGL",
+    "Animation",
+    "Interactive UI"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2312,
+      "sha256": "54ca2f6c8e0adade5abda859fefba7e0c87a62b3ae356504911dabbc1290a237"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2348,
+      "sha256": "47fb4bd6fe1fb3426014a60c4f50e3050c2127ecc9a7f96c74fe891c618664ab"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "392f771b77be36de33481db4134de33a4a9df18d8fca591bd1f498d84ecf5ca6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5468,
+      "sha256": "f7eab8a8278c8e8fcca03f257968658e2ee5f1ffe05b15a5c8ee553812a3fec1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "snippet",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

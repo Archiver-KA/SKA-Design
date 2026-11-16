@@ -1,0 +1,66 @@
+{
+  "id": "SN-W02020",
+  "title": "Freelancer Portfolio Landing Page Template",
+  "summary": "Modern dark-mode freelancer portfolio template for full-stack developers and designers, ready to customize and reuse for showcasing projects and services.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Art & Design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3471,
+      "sha256": "67044beb8a8550bf079411b2e02359d14d52d610b10fd1074fd8aa489cb544fb"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16472,
+      "sha256": "f84325e6cebbf6a8ef53ef34dd718d368da3d09dd24c52d2c3436ff3a2f6724a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "e9cce159a24472fc7392246905c0825638a1100241f3c15520990799a05a052d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23184,
+      "sha256": "9bdea3a07e2b0c75014ce6363d838d88e6248a5b68ebef5585d37eceb689b11e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "services",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

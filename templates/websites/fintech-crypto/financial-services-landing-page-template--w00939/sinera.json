@@ -1,0 +1,72 @@
+{
+  "id": "SN-W00939",
+  "title": "Financial Services Landing Page Template",
+  "summary": "A premium financial services landing page template for showcasing market insights, investment solutions, and corporate culture with a sophisticated editorial layout.",
+  "tags": [
+    "Landing Page",
+    "Business",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Technology",
+    "Services",
+    "Financial",
+    "Corporate"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3687,
+      "sha256": "62569400b9163075f89d8184ef092f9debff7eca1e3b62b5f520844a130ff1b2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13774,
+      "sha256": "6286c7fa8e7a5f91f508892744272eb3fe2821c8889ae258eb26611360c57f6d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 871,
+      "sha256": "c6bb2bac4a23cc43ef31d110117e600cb7cbbe0c4a276ef6732cb3dd0a94dcce"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 347,
+      "sha256": "13ae825bb78826af9f191053911f79117a20475c2719ef927f1940af3e3bc077"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41965,
+      "sha256": "3ba35d249cbf6932541e5663a00d371b144fa2f84c819f8f273bc5091f0b447f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "3d-canvas",
+    "bento-grid",
+    "features",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

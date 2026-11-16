@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01527",
+  "title": "Digital Agency Landing Page Template",
+  "summary": "A dark, modern digital agency landing page template for showcasing services, case studies, and brand credibility with bold visuals and clear CTAs.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Brand Guidelines",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Technology",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3721,
+      "sha256": "2ab4bef1468416a1e7a422ff39ae22a7797fc6008447027744c44c788ad5e629"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15048,
+      "sha256": "0e24c93cc4866b2bb6b9e181620990e64c58fca394cc27812574dc518825af23"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "79f264c32d9267dc016d017423952a1c5972fb31b944f9dd0b17ef4324d0eec5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25915,
+      "sha256": "f6a9b540185cfa6d49e436ec7daefaa6d62ea066fe0a802cdcf7d0805972da66"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "services",
+    "case-studies",
+    "stats",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

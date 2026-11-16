@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02244",
+  "title": "Substance Lab Design Practice Template",
+  "summary": "A high-end studio portfolio template for design practices focusing on digital brands, interaction physics, and cinematic motion.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Portfolio",
+    "Minimal",
+    "Animated",
+    "Clean",
+    "Dark"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3690,
+      "sha256": "dfddafdc0f8210d04b38dff3b3da28ca027edc86f6aec55a078986277c9af3e7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4314,
+      "sha256": "4c3a510dc62349bf06af6317da87617f86d91b9b0aedd9ad9c0d14bca0fd7adb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "c50de6210c728d8de35009fe41c60dd5a9da2f5f76fae646c85bf97321beb5f4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37206,
+      "sha256": "cdfbbd811df115ab142603f0f876a697238fabb855bf0cc8a890d56bb7f6d4c9"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "product-grid",
+    "logo-cloud",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

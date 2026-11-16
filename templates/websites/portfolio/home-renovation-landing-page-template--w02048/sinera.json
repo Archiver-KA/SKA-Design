@@ -1,0 +1,71 @@
+{
+  "id": "SN-W02048",
+  "title": "Home Renovation Landing Page Template",
+  "summary": "A polished home renovation and design landing page template for construction and design-build firms to showcase services, process, and client trust.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Real Estate",
+    "Clean",
+    "Minimal",
+    "Brand",
+    "Large Type",
+    "Portfolio",
+    "Construction",
+    "Renovation"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3883,
+      "sha256": "475fea62db376eb8b9afc8c1a99983e41a6c7930a5dcd0e587d22c66cebd2eb3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 25408,
+      "sha256": "ddca8f3db1b6603890c419a043d7a5a38da2d41b3dc45dc8e0b00de6aebf6389"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "c1a2a8303b7da3fb18eb181371060ce3d7344ca48af7fe052a265a9ebb7363d8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 44885,
+      "sha256": "74dac91e5aaf3983595afd7638f6b97f661661491d71331da169fcf9f3fdda0e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "bento-grid",
+    "features",
+    "how-it-works",
+    "pricing",
+    "team",
+    "faq",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01104",
+  "title": "Automotive Parts E-commerce Template",
+  "summary": "A reusable e-commerce template for selling OEM and renewed car mirrors, with premium storytelling, product catalogs, trust sections, and conversion-focused CTAs.",
+  "tags": [
+    "E-commerce",
+    "Landing Page",
+    "Technology",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Automotive",
+    "Catalog",
+    "Premium"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3752,
+      "sha256": "c40831106214c10e62bfa10ce7f89bb84ff7e552792e74a00df9a56278ec5a9d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21610,
+      "sha256": "dc6a3de23ef90f4d75db9654b9f03b634827d320c3a25200df93445749dc7883"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "36e6ecf5067697d4bf8517a875fc5cf7aad019fcb941d10be0189c813a25ad10"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40078,
+      "sha256": "437387f40e8494a7f559324c709ac05031f546be01a834ff4f7bf6149c40badf"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "product-grid",
+    "features",
+    "marquee",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "SN-W00520",
+  "title": "make a app where you can paint paintings and ...",
+  "summary": "A React painting game with a home page, a paint canvas and an auction page.",
+  "tags": [],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "react",
+  "entry": ".config/opencode/package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": ".config/opencode/package.json",
+      "bytes": 65,
+      "sha256": "89eedeb9057a3465202c9844aa534f6c8c5f4c0fbd8cfc7875f8b2edbd289ebb"
+    },
+    {
+      "path": "DESIGN.md",
+      "bytes": 2408,
+      "sha256": "8c07aceef8d0d37dc41cae224977f5ddb8045706f6cce125504f9de13ac62c5d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3076,
+      "sha256": "7571238ce61ff457ba8b8a9dfb12fca6673ef04888c9d9b491816b93ae9466e3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 743,
+      "sha256": "bfcd4231e8867dfabbc734c554b5e8fa8b14bab0af49c325d2e150924a6a5f0d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 301,
+      "sha256": "6e89cc5bf10b1a646c8576ec3c134ba2e01010254d75f03b00a469bcf7857779"
+    },
+    {
+      "path": "package.json",
+      "bytes": 592,
+      "sha256": "ec22ace5948b90c7580cad50dc6474ee31c29a308c48bea96c49a2496379cf26"
+    },
+    {
+      "path": "src/App.tsx",
+      "bytes": 786,
+      "sha256": "f235474812eb8a2b6af25aace03986f3eeae061d2ecc8b9ad939f75040ae02a5"
+    },
+    {
+      "path": "src/components/Navbar.tsx",
+      "bytes": 1175,
+      "sha256": "1a33b536e80cb42387707a30d7c3925157bc9590476c017eecdf01b8d1bc05a7"
+    },
+    {
+      "path": "src/context/GameContext.tsx",
+      "bytes": 3538,
+      "sha256": "665937905ce575c2e53ede25f4be423bbce7ff10642ea53368e094e6f209b4e1"
+    },
+    {
+      "path": "src/main.tsx",
+      "bytes": 234,
+      "sha256": "c7b6724a82c4cb042173f57ce67d71d18eff472f5e8c8f7f304881cc9373e39f"
+    },
+    {
+      "path": "src/pages/Auction.tsx",
+      "bytes": 2899,
+      "sha256": "4bfa55594810a861bf0e72003d4323e72511e9a47b5347cef305712467637f17"
+    },
+    {
+      "path": "src/pages/Home.tsx",
+      "bytes": 1670,
+      "sha256": "6d3070dea98f94f299474940fe0dbaa64edbd8f9e0b3669e995f394b820d1f8b"
+    },
+    {
+      "path": "src/pages/Paint.tsx",
+      "bytes": 7456,
+      "sha256": "d89cbce554796447ea42d8cd461deddd202fc539714002126c5d380d98773baf"
+    },
+    {
+      "path": "src/styles.css",
+      "bytes": 9575,
+      "sha256": "c591683c7597d676a993dd7df891c55f49cacdfe1852c85a34cf91a42a0fd66d"
+    },
+    {
+      "path": "src/utils/sound.ts",
+      "bytes": 3657,
+      "sha256": "5ef68f9a0784f98c7f24dbd189ed3d0a17dd92c536067b71a63c39e8519f2269"
+    },
+    {
+      "path": "vite.config.ts",
+      "bytes": 132,
+      "sha256": "7679dd2d1d73606860bf36d711ad385a18cda4412d6e105062570af4454d6b58"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

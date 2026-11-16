@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02247",
+  "title": "Budget Analytics Dashboard Panel",
+  "summary": "Card-based Tailwind dashboard displaying AI engine status, monthly savings, prediction accuracy, active users, and processing load with interactive hover effects and blurred gradient background—ideal for finance or SaaS analytics pages.",
+  "tags": [
+    "dashboard",
+    "stats",
+    "card",
+    "tailwind",
+    "analytics",
+    "finance",
+    "responsive",
+    "admin",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13522,
+      "sha256": "453eb4964d17c8af7b4b33d327c53366b6f7c76ad7fc23c4361bf5d3499697b1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13236,
+      "sha256": "2b4598ba3e97e47ea9494c6e949586ab352383742802d59f910e4b40d1a71efe"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14089,
+      "sha256": "3de91fb04c00c31f4c9d43f2421203dc2708f442d4395c03109a2ffacba6b3fc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

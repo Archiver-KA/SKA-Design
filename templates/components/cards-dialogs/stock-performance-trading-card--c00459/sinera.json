@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00459",
+  "title": "Stock Performance Trading Card",
+  "summary": "Dark themed trading card displaying stock performance with live indicators, price data, and company details. Max 400px wide, 600px tall.",
+  "tags": [
+    "card",
+    "stock",
+    "trading",
+    "performance",
+    "dark-theme",
+    "financial"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9312,
+      "sha256": "bcc9d51b42efbbc09dc9484873a7e1a3b7be22add99f01d9fd4f159ef735bfa7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2704,
+      "sha256": "7b63fd903e70cbecc0afb41792d1c4b8e12040ecf87695f9ec1727d85b101992"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3555,
+      "sha256": "e204032a0552a349073eb5457bd881818d20f4c1a04c3cf77c7d78338a6ea5b0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

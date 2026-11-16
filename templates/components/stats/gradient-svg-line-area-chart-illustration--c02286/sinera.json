@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02286",
+  "title": "Gradient SVG Line & Area Chart Illustration",
+  "summary": "Scalable SVG depicting a line and area chart over subtle grid lines, with gradient fill and highlighted data point. Ideal as decorative or informative graphic for analytics dashboards, reports, or hero sections; easily color-customizable and framework-agnostic.",
+  "tags": [
+    "svg",
+    "chart",
+    "line-chart",
+    "area-chart",
+    "dashboard",
+    "illustration",
+    "gradient",
+    "responsive",
+    "data-visualization"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5652,
+      "sha256": "2ef67820b74281ab861c54b560ae7f2f5b7262dfb039a554087589e6498d6637"
+    },
+    {
+      "path": "component.html",
+      "bytes": 28993,
+      "sha256": "c51023100e916b1afb5ffdb4e460449c54611714d24c6f18eb975377763cd3e0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29861,
+      "sha256": "6fe0b8c9e83e6f048c45327e583f7c0a94e0ef4c5c31dbf0f9c2c4e9f31657f1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

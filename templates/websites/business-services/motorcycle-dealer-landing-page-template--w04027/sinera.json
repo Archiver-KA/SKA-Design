@@ -1,0 +1,70 @@
+{
+  "id": "SN-W04027",
+  "title": "Motorcycle Dealer Landing Page Template",
+  "summary": "A dark, futuristic motorcycle dealer landing page template designed to showcase performance inventory, technical specs, and asset sell forms for premium vehicles.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Grid",
+    "Large Type",
+    "Minimal",
+    "Automotive",
+    "Motorcycle Dealer"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3266,
+      "sha256": "08fc3bc55458db292dcb6c2daed70c98686d069d213c798e0d64d57764c4e520"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10794,
+      "sha256": "d1d4f730709c507f3736eff77144f8e63360d4a4a5a9e5fd3a4b21bde5af559a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 874,
+      "sha256": "ef11808a5e01a09005c329eaf2a73788b07f03792979911ce3fe5922055ea19d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 129,
+      "sha256": "0d11b1b83178f75466483df7e1a79ed4832983bf21b563b2b2ad1388299329c2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21849,
+      "sha256": "8c91343e2674ad26dd0d43d1430db8f461857d16d5645bd82de88a8e7eaa4d0f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "listings",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

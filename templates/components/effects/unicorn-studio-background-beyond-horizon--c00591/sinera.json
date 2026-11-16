@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00591",
+  "title": "Unicorn Studio Background Beyond Horizon",
+  "summary": "Absolute-positioned background container that embeds a Unicorn Studio project with lazy-loaded external script initialization, opacity and blend styling for visual effects. Ideal for animated decorative backdrops behind page content.",
+  "tags": [
+    "background",
+    "visual",
+    "animated",
+    "overlay",
+    "script",
+    "integration",
+    "effects"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1158,
+      "sha256": "28292ef7b9524a4970cfe4e5786d567f3aafb3c17717a4c99782d13a65e5f48f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1414,
+      "sha256": "b51874edf08e908945a51158cf6d81333b83f71dbe191ffff511362b22851bc7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2275,
+      "sha256": "877909f73c56ddad9a34ac58566d1fe74b3e799ae9143b8e05bbe4720aa6e322"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

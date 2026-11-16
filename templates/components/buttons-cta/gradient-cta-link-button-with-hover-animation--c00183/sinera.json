@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00183",
+  "title": "Gradient CTA Link Button with Hover Animation",
+  "summary": "Animated gradient anchor that functions as a call-to-action button. Utilizes Tailwind CSS for background blend, ring outline, scale effect, and sliding arrow icon on hover. Ideal for navigating to docs, pages, or external resources.",
+  "tags": [
+    "link",
+    "button",
+    "cta",
+    "tailwind",
+    "gradient",
+    "animated",
+    "hover",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2200,
+      "sha256": "0b8dc8f1a19593d56f37b71620ea9cd29cdd8f48c49926454284cf52e3f815b2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 953,
+      "sha256": "2c698322d8cafd5cbf07aa0dce3e862b22b3367ff11b6ced3582b42f4e610cda"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1949,
+      "sha256": "b96958a898da92e232ab3dcfb36ac1aa46e8f359390fd2164bc9a75805cdb0da"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

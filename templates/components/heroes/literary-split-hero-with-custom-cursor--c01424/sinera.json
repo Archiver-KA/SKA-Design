@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01424",
+  "title": "Literary Split Hero with Custom Cursor",
+  "summary": "Full-screen split hero layout for a literary or editorial site, featuring narrative text, background imagery, a highlight card, animated scroll cue, custom cursor interaction, and subtle noise overlay. Built with Tailwind-style utility classes and inline styles.",
+  "tags": [
+    "hero",
+    "section",
+    "landing",
+    "split-layout",
+    "interactive",
+    "animated",
+    "tailwind",
+    "editorial"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 45084,
+      "sha256": "2391bb74a0f1b6058d4f4cd8711c8b6777feff9bfb74ed33f0696bc9066a9467"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6219,
+      "sha256": "b19cbeb09df6b8dbc90872087fedd74cc7dbed96d56ddafdb9ddc307e432de3f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7078,
+      "sha256": "e20793fb61eca83b9bf4ff8b55a3026e394e59cc137b2a53d764e64b084c9df4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

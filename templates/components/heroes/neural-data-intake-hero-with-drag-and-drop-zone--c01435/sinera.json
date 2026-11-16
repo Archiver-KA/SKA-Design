@@ -1,0 +1,37 @@
+{
+  "id": "SN-C01435",
+  "title": "Neural Data Intake Hero with Drag-and-Drop Zone",
+  "summary": "Full-screen hero-style layout showcasing a vertical nav, system initialization copy, and an animated drag-and-drop intake terminal. Uses Tailwind and custom CSS for scan-line and pulse effects, ideal for data platforms or infrastructure dashboards.",
+  "tags": [
+    "hero",
+    "section",
+    "ui",
+    "tailwind",
+    "animated",
+    "dashboard",
+    "drag-and-drop"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20110,
+      "sha256": "9b2347714d3b08f824767507e847fcf350dbbf1baafd54edf81d040381eb8895"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7143,
+      "sha256": "ddf85d6064cc9887cda84144803a8c5569a0a577d405d1f5505c6919b35c3b6f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

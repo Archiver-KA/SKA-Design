@@ -1,0 +1,87 @@
+{
+  "id": "SN-W02618",
+  "title": "FORGEE | Gym and Fitness Center Landing Page Template",
+  "summary": "A high-performance gym template designed for fitness centers and training studios, featuring dark aesthetics and sectioned program details.",
+  "tags": [
+    "Health",
+    "Services",
+    "Landing Page",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Futuristic"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "react",
+  "entry": "package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3153,
+      "sha256": "64c61a2d9c1c3c0e30306eeabba920286ebe37f8282d02afe90cb0a7d0a8a729"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 26412,
+      "sha256": "3131e14cd58f9d66414034ce8d938bee04ac10e4a17df263511e43d462e61718"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 749,
+      "sha256": "d8afa657e5d0228a368505a0b06152a240143efeb4b89f858a0d3cf845ba7748"
+    },
+    {
+      "path": "index.html",
+      "bytes": 541,
+      "sha256": "7c49abfadb35217e3ec3207630d4e6b2dd90ef0a600ef974694cb6654f7581db"
+    },
+    {
+      "path": "package.json",
+      "bytes": 470,
+      "sha256": "b659431340c76f2f32617951b614984a7a134e45d2b1678f75a360e08675cb34"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 25483,
+      "sha256": "110a82c5b8fd47ea789a7e1e67be3d37bf3f1b4e9b9b762ca01a9268dc2892b3"
+    },
+    {
+      "path": "src/data.js",
+      "bytes": 5049,
+      "sha256": "d6689692fce39a73b4711ca10a5d80dc7dc7dab83f882c7d45c2da48e51fc8b7"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 1360,
+      "sha256": "d9b6596ad131ba7e57fb91a4fafb31ff2def4565b2fc9a715ffff52c34dbf7d7"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 261,
+      "sha256": "d3eb62a656a23255820118b712d4e77c3399a5709b0e7e2dfc959df9c20ecb3a"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 135,
+      "sha256": "c502a59d3e39f4e6ebf1bbdb640cc7f153af3ab764efba8124b44bd03bab32ed"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

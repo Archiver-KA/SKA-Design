@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02321",
+  "title": "Neuro Workspace Resource Dashboard Card",
+  "summary": "Dark, gradient-styled workspace dashboard card showing AI hub resources and team work in progress. Includes window header actions, tabbed navigation, resource rows with avatars, and status footer. Built with Tailwind-style utility classes for app UI previews.",
+  "tags": [
+    "card",
+    "dashboard",
+    "tabs",
+    "workspace",
+    "resources",
+    "tailwind",
+    "ui",
+    "dark-mode"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12724,
+      "sha256": "0e946beaa55ae7b37347d95f999be47d5748cd51a2918c0cfd422308762ca462"
+    },
+    {
+      "path": "component.html",
+      "bytes": 24189,
+      "sha256": "8e317c86ffbd3d99091f3ee0d55c5937cbbcc40cda22cff14bd742c6d4470e69"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25049,
+      "sha256": "4b2e8cba2c28a05deefc5217d07bd738937888136f8f3b6345242a417c6e062d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

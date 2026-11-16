@@ -1,0 +1,68 @@
+{
+  "id": "SN-W02335",
+  "title": "Chiropractic Clinic Landing Page Template",
+  "summary": "A clean, professional template for chiropractic clinics to showcase services, conditions treated, reviews, and online appointment booking.",
+  "tags": [
+    "Health",
+    "Services",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Chiropractic",
+    "Medical Practice",
+    "Local Business"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3706,
+      "sha256": "4d30dfb87c52fb0b8ffa6157d22441bb4cfb4509df268b66c4401730f33af1c8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18100,
+      "sha256": "4a61e5625ff0f0c018742b067b3555d3422147f35122fc8f344a443bcbe44fe7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "9b7d3ed30b11734371288803ef4e010623d4f755c5c9b55cb6a4066d41a7cd27"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26346,
+      "sha256": "926f5f7e98d4fd78e1cead2e7cb5ee76f6e1bfbd5151040e7d881d27118d3f62"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "services",
+    "cta",
+    "testimonials",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

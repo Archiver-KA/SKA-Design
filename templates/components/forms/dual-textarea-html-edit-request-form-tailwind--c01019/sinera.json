@@ -1,0 +1,46 @@
+{
+  "id": "SN-C01019",
+  "title": "Dual Textarea HTML Edit Request Form (Tailwind)",
+  "summary": "Responsive two-pane interface for pasting existing HTML and detailing exact changes. Features header nav, tips, action buttons, grid layout, and Tailwind styling—ideal for code review or diff request tools.",
+  "tags": [
+    "form",
+    "textarea",
+    "editor",
+    "dashboard",
+    "two-column",
+    "responsive",
+    "tailwind",
+    "grid",
+    "webapp",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20130,
+      "sha256": "14a395ceaf10dac5d489403dc13752ffd0ce3a0d3a8919af259fb317dfb15226"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10797,
+      "sha256": "2aa88ac4051fc33ac4a4cce4682012e6004ba99b8811069b0dcebafd9e3f2f1f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11795,
+      "sha256": "a2c76b6c4e93981b3460927332a0926bcee1f0cdfe625e052ac250931bdbe535"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

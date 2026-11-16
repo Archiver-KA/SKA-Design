@@ -1,0 +1,69 @@
+{
+  "id": "SN-W00189",
+  "title": "AI Web3 Swarm Landing Page Template",
+  "summary": "Dark, futuristic landing page template for AI-powered, financially aware Web3 agent swarms and infrastructure platforms to showcase features, pricing, and deployment flow.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "AI agents",
+    "Web3"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3621,
+      "sha256": "b788990711184cb0a844b1af6885b26b2909ed99679f7b5a82a36b9bf36df23d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16028,
+      "sha256": "9adabd2aab4155cf04aaa596f15952ca71075fac9c02afdb35a1a9d862842472"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 812,
+      "sha256": "a64d4dcc2e3f69a36b033c48b943d8479a5e5d1216914b56259407d62914bdf7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36610,
+      "sha256": "30ce445f31fb862b6714c2d3d803b6d999e9c74dd6d2d7b116f8d05dc3de4529"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "about",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

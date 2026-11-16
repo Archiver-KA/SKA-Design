@@ -1,0 +1,143 @@
+{
+  "id": "SN-W00981",
+  "title": "Insurance Agency Operating System Template",
+  "summary": "A high-performance SaaS template for insurance agencies featuring SSO integration, agent dashboards, and real-time commission tracking.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Futuristic",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "react",
+  "entry": ".npm-cache/_npx/9ed06546b0653f96/package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": ".npm-cache/_npx/9ed06546b0653f96/package.json",
+      "bytes": 49,
+      "sha256": "ee7f2ad8515d8433e4a4d4e258ec952e6a5bf402ce957f30cbd9e6f02c690b4c"
+    },
+    {
+      "path": ".npm-cache/_npx/eb19d0894a10d169/package.json",
+      "bytes": 54,
+      "sha256": "474b34f6636c59731434f5dfd1fba5ae29f1484afef2c086cc461bf9e0544299"
+    },
+    {
+      "path": "DESIGN.md",
+      "bytes": 3640,
+      "sha256": "dc06bca264f45a9222a9ff3e634739cf6ab613a67b57fa2558fc7e2eea9f2ec2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 24798,
+      "sha256": "ce864325da2a8010c5520b9682adc824049f40f94ae4e2b06ac9f604d4e75a49"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 884,
+      "sha256": "75211d3e5abfd4127f6ebde5ef7d12355cdd669d708e7845b72bc9f22faa6739"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1224,
+      "sha256": "cea3eaaa1e39634e2dd3bd662dc8f13e0adaeb71b368d20de6cc7691ec7f46e8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 472,
+      "sha256": "e07c28ea61627cd2a4036936d4fd5469ac042bb27748a501454b1384904b9a76"
+    },
+    {
+      "path": "package.json",
+      "bytes": 632,
+      "sha256": "46afbb809426701aa780a3db4262b3ff2835dd6b178979e445b483e3b626798f"
+    },
+    {
+      "path": "postcss.config.js",
+      "bytes": 81,
+      "sha256": "e32657baf631d7c5f4dc67b4b2ee0ec8e7d5b3c41860e09cddce7c0377cd80bc"
+    },
+    {
+      "path": "src/App.tsx",
+      "bytes": 1201,
+      "sha256": "eee79d09ffca689981b537af3f062205bcdef3536c3df94703d7413f26a3e34e"
+    },
+    {
+      "path": "src/components/Footer.tsx",
+      "bytes": 5300,
+      "sha256": "85ce3efd11de0d0ec98d2d265752c997f588adb487ee57f0cdc2df52fd6a73d3"
+    },
+    {
+      "path": "src/components/Header.tsx",
+      "bytes": 3274,
+      "sha256": "7f244419afb2ce3999dcf60531471e09e013f8d1a2beea3d3f4dfbb6e0a5d733"
+    },
+    {
+      "path": "src/hooks/useReveal.ts",
+      "bytes": 654,
+      "sha256": "d5b46793cefbc427702a41a7554ef61b58c12c068f5c12c95530e90b50ece311"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 5404,
+      "sha256": "77c7dcbb77d829f3ed55c135352145f723f196c082d53f47cb6bf958224bddf9"
+    },
+    {
+      "path": "src/main.tsx",
+      "bytes": 233,
+      "sha256": "1915b5c5da09917fe349510cea287faa40ffbb1361a1bda98935294845aa5c86"
+    },
+    {
+      "path": "src/pages/About.tsx",
+      "bytes": 12577,
+      "sha256": "a2a10f4c3404c88a41e32b7069649540250e4c75f1c6aeddac5ea3fbb98d65ba"
+    },
+    {
+      "path": "src/pages/Contact.tsx",
+      "bytes": 14260,
+      "sha256": "eda6ed66d46d67b9ffb0d18cf3adcb3927dd0a985af419898f768806a9dbfde7"
+    },
+    {
+      "path": "src/pages/Home.tsx",
+      "bytes": 49050,
+      "sha256": "20717968e973366ca8374e68736179b7b4fd68f63227ae6a430e55bc58ef0401"
+    },
+    {
+      "path": "src/pages/Login.tsx",
+      "bytes": 9271,
+      "sha256": "9f7d2bb1fe6b159e1c48d852fd01800347af4690ab7f7cb01ca782bf2f6f0197"
+    },
+    {
+      "path": "tailwind.config.js",
+      "bytes": 126,
+      "sha256": "cc8261a76bad6514da1a86304a7e949fa688d0757167eff69f27d73096759959"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 136,
+      "sha256": "eca485c281977125366d4800553256e419f364984e615f75a2d2bae54f7857fd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

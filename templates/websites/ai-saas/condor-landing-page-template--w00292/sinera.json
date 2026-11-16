@@ -1,0 +1,70 @@
+{
+  "id": "SN-W00292",
+  "title": "Condor Landing Page Template",
+  "summary": "Modern CONDOR-inspired landing page template for CNH platforms connecting driving students, instructors and CFC hubs under Brazil's new CNH law.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3593,
+      "sha256": "ca952bfaeac88e668cbb5224c75b03961144c2492d7890409b2b25d650dc7439"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 25612,
+      "sha256": "3862e5599ede8d7bcf84fe8cbbe53915407ee29f88cb4ff95b49b1702782d616"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 866,
+      "sha256": "c07bfaeb6cfe700df80ca831b56934ba662d4d663867c115f85a135455128bfd"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 246,
+      "sha256": "6d9c8a4299d48b7a856ed3ad8a9906704218822f095051ea7e40bc799a7240ca"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34750,
+      "sha256": "10f1391577ee5cc2176449459d3bad8cd36c109da381a43a0cdfc64c36a50797"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "cta",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

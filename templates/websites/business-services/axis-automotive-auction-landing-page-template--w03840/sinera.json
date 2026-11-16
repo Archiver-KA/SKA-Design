@@ -1,0 +1,80 @@
+{
+  "id": "SN-W03840",
+  "title": "Axis Automotive Auction Landing Page Template",
+  "summary": "A high-end car auction marketplace template designed for premium vehicle listings and real-time bidding interfaces.",
+  "tags": [
+    "Technology",
+    "Services",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3671,
+      "sha256": "e075abd97cef4907105806dca713a34105e25ada5f61ff82b5538ed5cc787ed7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 33242,
+      "sha256": "f0f537424452582651c1d2dd3a5fa9e7d891a52ac5bde080352d28405a40d8ba"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1169,
+      "sha256": "a5f3296de00d0c58462c4ce9cd7702b8298c6413025f2a452d0cc232fc328f34"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "8fdd104ac7843269a0c4bb41aacf62efd383fb500afc71598cfc07a668449fab"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 150,
+      "sha256": "d55bb55288c1d1b3585ad94e01ca194d1741871e7bf5f3a1321c0c65760a553e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42431,
+      "sha256": "145b21bb96a2648af59d31e1a3caa5c8a309c033671641e803b260ac329b281a"
+    },
+    {
+      "path": "sinera-fx-filter.js",
+      "bytes": 20821,
+      "sha256": "6b5f074b7d846e3a404deda089c33986eb540d0c5cd8c1c0730e314b4c68c287"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "cta",
+    "product-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

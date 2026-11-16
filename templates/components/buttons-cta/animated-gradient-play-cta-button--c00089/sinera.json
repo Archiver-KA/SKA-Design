@@ -1,0 +1,46 @@
+{
+  "id": "SN-C00089",
+  "title": "Animated Gradient Play CTA Button",
+  "summary": "Interactive call-to-action button with play icon, gradient background, glow pulse on hover, and click scale feedback. Uses inline CSS and Tailwind-style utilities, ideal for media players, landing pages, or feature prompts.",
+  "tags": [
+    "button",
+    "cta",
+    "animated",
+    "gradient",
+    "hover",
+    "pulse",
+    "tailwind",
+    "interactive",
+    "icon",
+    "css"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2226,
+      "sha256": "411073fc4e6904335066802fde873ccdea693f948858d9c44d1cd54c80cdbcc2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1339,
+      "sha256": "5ff16dab5da4864a7bbb511649930fce1d84c9a77e4e3d085cb399f5f8517692"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2323,
+      "sha256": "a72e2b02fee195204e384b9277ab36c2e196a869770f636d44125569ac0b6327"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

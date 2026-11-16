@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01968",
+  "title": "Unicorn Studio Background Embed",
+  "summary": "An absolute-positioned full-screen background container that loads and initializes a Unicorn Studio interactive visual via external script. Ideal for animated page backgrounds, decorative effects, and immersive landing page visuals.",
+  "tags": [
+    "ui",
+    "background",
+    "unicorn",
+    "animated",
+    "embed",
+    "fullscreen",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16962,
+      "sha256": "a3a90ba0d57e2aa5ad80084a61089c2e7e9e33323b885b20b51650452ac3deac"
+    },
+    {
+      "path": "component.html",
+      "bytes": 711,
+      "sha256": "459926aed4fde5f628dfbfd8db06ebc45a305320b0888cb83229371dcf3b8164"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1563,
+      "sha256": "2ce69f70bf0eae58f31dc14798db9fc2229e90d287ab6465d9861827c7ced6ad"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

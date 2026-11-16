@@ -1,0 +1,69 @@
+{
+  "id": "SN-W03867",
+  "title": "Clockout Local Services Landing Page Template",
+  "summary": "A high-converting landing page template designed for service businesses like HVAC, plumbing, and electrical to stop losing money to missed calls.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Clean",
+    "Minimal",
+    "Grid",
+    "Large Type",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3623,
+      "sha256": "7cf3a8a1ef983ed4cefc3af508106fadd149e486cc04ee1cc77f3fd56ddb961a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22012,
+      "sha256": "59bd21e37e0ef5647cd117c0bf7eb672c1acfff12b9ebf501072f66b7aa29599"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 886,
+      "sha256": "9b6bb040d03b16413b77a13016820b8b66846ee21161a85265868feb18dbc3be"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 528,
+      "sha256": "de07ebc232ef240701de8316916edcf0c53f1506623e8ad5ca89d3a9f0c81939"
+    },
+    {
+      "path": "index.html",
+      "bytes": 48358,
+      "sha256": "f184991d50a9c75ff4f3af3a70d35599425828c9e626b49138c624ef1cf2062e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "about",
+    "faq",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

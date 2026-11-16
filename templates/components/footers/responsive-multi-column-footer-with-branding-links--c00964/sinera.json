@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00964",
+  "title": "Responsive Multi-Column Footer with Branding & Links",
+  "summary": "Footer component featuring brand logo, tagline, four link columns, gradient divider, and copyright/policy section. Uses Tailwind CSS grid, flex and hover utilities for responsive layout and subtle interactions. Suited for SaaS, marketing, and corporate websites.",
+  "tags": [
+    "footer",
+    "navigation",
+    "tailwind",
+    "responsive",
+    "branding",
+    "links",
+    "grid",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "footers",
+  "categoryLabel": "Footers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9160,
+      "sha256": "88c66c9cc65d50b00209347bf2594bf277f1763bfc39d5861a3f7b27398ed197"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2841,
+      "sha256": "f4c5d0cf81748fd8d71b0dad1b3b9956bec9687e4b10618f9a7777c027b17858"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3718,
+      "sha256": "ccb06de8d73602113ba9e16058ef183dcbfb75e65029c79d9277cd8783f11ef8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

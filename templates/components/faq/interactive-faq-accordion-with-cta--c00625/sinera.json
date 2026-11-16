@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00625",
+  "title": "Interactive FAQ Accordion with CTA",
+  "summary": "Responsive FAQ section featuring Tailwind-styled accordion items, plus/minus icons, and a footer call-to-action. Ideal for help centers, product pages, and support portals needing concise question-answer navigation.",
+  "tags": [
+    "accordion",
+    "faq",
+    "tailwind",
+    "responsive",
+    "collapsible",
+    "cta",
+    "support",
+    "grid"
+  ],
+  "kind": "components",
+  "category": "faq",
+  "categoryLabel": "FAQ & accordions",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26170,
+      "sha256": "8d6f7319d7de972d85d1b9f154707e0ecdb9e022564a1d0fa06f966accc00f78"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12818,
+      "sha256": "2d4f65e56c535ac60d9bcff3b8d391b5a27eb31b459085edd554911d77d2345e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13803,
+      "sha256": "b2e15e4526b3744c6776a8e2d72a17b38ec089d8079e486a3d821870280aa095"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "SN-C01002",
+  "title": "Animated Upload Progress Widget",
+  "summary": "A circular upload progress UI with animated SVG rings, gradient stroke progress, rotating dashed inner ring, and cloud upload icon. Built with Tailwind CSS and Iconify, ideal for file upload states, dashboards, and loading feedback.",
+  "tags": [
+    "card",
+    "tailwind",
+    "animated",
+    "progress",
+    "upload",
+    "svg",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7232,
+      "sha256": "c9b0baba68aaff1dcbce567633aa00b09d27b64151812d61840ec3465bfb2da9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6197,
+      "sha256": "f178b9eadb5c96898950b6df7848bf06f78d2811484b1198683c7f481df08a08"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

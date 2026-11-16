@@ -1,0 +1,64 @@
+{
+  "id": "SN-W04009",
+  "title": "Luxury Car Rental Landing Page Template",
+  "summary": "A reusable landing page template for premium car rental brands to showcase fleets, highlight service benefits, and drive bookings.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Services",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "luxury car rental",
+    "automotive",
+    "premium fleet"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3115,
+      "sha256": "0be181a6650bc8c4b3ffaa8e53180173462915fee646a4c51a43bd62e7dea959"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20268,
+      "sha256": "0f8caad8654a819ed07b9b962e63e083f56df13d9042252c379603a701a2dad0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 817,
+      "sha256": "78e67de4d457e610739460cedf11d8662905aeb60d948c45c3bf05b708d5e3c5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 49127,
+      "sha256": "40e1faa0b307ca55581de7d714195d68c05cdee2f0064018562a05333f76cc8f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

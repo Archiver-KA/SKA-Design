@@ -1,0 +1,31 @@
+<svg
+                  class="absolute inset-0 w-full h-full"
+                  preserveAspectRatio="none"
+                  viewBox="0 0 100 100"
+                >
+                  <defs>
+                    <linearGradient id="chart-grad" x1="0" y1="0" x2="0" y2="1">
+                      <stop
+                        offset="0%"
+                        stop-color="#2aa168"
+                        stop-opacity="0.25"
+                      ></stop>
+                      <stop
+                        offset="100%"
+                        stop-color="#2aa168"
+                        stop-opacity="0"
+                      ></stop>
+                    </linearGradient>
+                  </defs>
+                  <path
+                    d="M0,80 Q25,40 50,60 T100,10 L100,100 L0,100 Z"
+                    fill="url(#chart-grad)"
+                  ></path>
+                  <path
+                    d="M0,80 Q25,40 50,60 T100,10"
+                    fill="none"
+                    stroke="#2aa168"
+                    stroke-width="2"
+                    stroke-dasharray="4 4"
+                  ></path>
+                </svg>

@@ -1,0 +1,19 @@
+<svg viewBox="0 0 200 200" class="h-full">
+                                    <!-- Grid Polygons -->
+                                    <g fill="none" class="stroke-zinc-200 dark:stroke-zinc-700" stroke-width="1">
+                                        <polygon points="100,20 176,64 176,152 100,196 24,152 24,64"></polygon>
+                                        <polygon points="100,50 148,78 148,134 100,162 52,134 52,78" opacity="0.5"></polygon>
+                                        <polygon points="100,80 120,92 120,116 100,128 80,116 80,92" opacity="0.3"></polygon>
+                                    </g>
+                                    <!-- Axes -->
+                                    <g class="stroke-zinc-100 dark:stroke-zinc-800" stroke-width="1">
+                                        <line x1="100" y1="108" x2="100" y2="20"></line>
+                                        <line x1="100" y1="108" x2="176" y2="64"></line>
+                                        <line x1="100" y1="108" x2="176" y2="152"></line>
+                                        <line x1="100" y1="108" x2="100" y2="196"></line>
+                                        <line x1="100" y1="108" x2="24" y2="152"></line>
+                                        <line x1="100" y1="108" x2="24" y2="64"></line>
+                                    </g>
+                                    <!-- Data -->
+                                    <polygon points="100,30 160,70 140,140 100,170 40,140 50,80" fill="rgba(99, 102, 241, 0.2)" stroke="#6366f1" stroke-width="2" class="hover:stroke-indigo-400 transition-all duration-300"></polygon>
+                                </svg>

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02323",
+  "title": "Overlapping Avatars with Live Status Badge",
+  "summary": "A compact UI block showing a small group of overlapping avatar initials with a border and a pulsing green 'Live' status pill, ideal for indicating active participants, live sessions, or online collaborators. Styled with utility classes similar to Tailwind CSS.",
+  "tags": [
+    "card",
+    "avatar",
+    "status",
+    "badge",
+    "tailwind",
+    "compact",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13526,
+      "sha256": "7cf35de226de18885543770520b90438ac8c9dcd694bcd7bd56c75e1dd3925a2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8249,
+      "sha256": "2558248dd7bd94fdf3abd41055b5213570a5281878f4d70d25324cb2f982b4af"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9242,
+      "sha256": "d99f4968cd341261c84333bbf1be5047272e45eb741f34d322fa3f83a1b9d62a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

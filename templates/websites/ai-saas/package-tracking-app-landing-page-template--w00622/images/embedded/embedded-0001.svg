@@ -1,0 +1,12 @@
+<svg class="w-full h-full" viewBox="0 0 340 500" preserveAspectRatio="xMidYMid slice">
+                                    <rect width="340" height="500" fill="#f3f4f6"/>
+                                    <path d="M100 -50 V 600" stroke="white" stroke-width="12"/>
+                                    <path d="M240 -50 V 600" stroke="white" stroke-width="12"/>
+                                    <path d="M-50 150 H 400" stroke="white" stroke-width="12"/>
+                                    <path d="M-50 350 H 400" stroke="white" stroke-width="12"/>
+                                    <!-- Route -->
+                                    <path d="M100 150 Q 170 250 240 350" stroke="#7847CB" stroke-width="4" fill="none" stroke-dasharray="8 6"/>
+                                    <!-- Current Location -->
+                                    <circle cx="240" cy="350" r="24" fill="#7847CB" fill-opacity="0.2" class="animate-ping"/>
+                                    <circle cx="240" cy="350" r="8" fill="#7847CB" stroke="white" stroke-width="3"/>
+                                </svg>

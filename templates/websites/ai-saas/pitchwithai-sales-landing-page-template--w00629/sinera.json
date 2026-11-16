@@ -1,0 +1,72 @@
+{
+  "id": "SN-W00629",
+  "title": "PitchwithAI Sales Landing Page Template",
+  "summary": "A reusable landing page template designed to showcase AI-powered autonomous sales orchestration software for modern revenue teams.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "Features",
+    "Pricing",
+    "Testimonials",
+    "SaaS",
+    "AI Sales",
+    "Automation",
+    "Multi-channel",
+    "Analytics"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3733,
+      "sha256": "ee7cd4c4ff2b47d4d2eb9663b3dc6646947f0aec5db349b2720dea2f4dfe68df"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13612,
+      "sha256": "c75fdcd1617b2a834e92edb40b8c96b4c68fe1b983abf6e2a0110e1b3f65e4b8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 873,
+      "sha256": "1276db25fd182286fbf7746d63b7a8b782116842c9ce4cd1c7737a9474168e6b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 269,
+      "sha256": "f35dd45bf3279530ce1de9f1b5699ffa3d934fc19c57db099eebd850aed33269"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35550,
+      "sha256": "52a046635da4113a1541a738bb50d53cad8712ee36740a85618e16fde77339f0"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "bento-grid",
+    "pricing",
+    "schedule-agenda",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

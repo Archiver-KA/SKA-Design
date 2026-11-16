@@ -1,0 +1,77 @@
+{
+  "id": "SN-W01884",
+  "title": "Creative Developer Collective Portfolio Template",
+  "summary": "A reusable portfolio template for creative developer collectives and studios to showcase immersive work, services, and brand storytelling with bold visual impact.",
+  "tags": [
+    "Portfolio",
+    "Landing Page",
+    "Technology",
+    "Art & Design",
+    "Minimal",
+    "Animated",
+    "Gradient",
+    "Clean",
+    "Creative studio",
+    "WebGL"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3681,
+      "sha256": "d75d2040ed44e5feea24017649647706569f0280fac1a2bff61484813edaaf5a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10332,
+      "sha256": "e8b946cb23fbf216953e85645bcaacac7296732fa974f685364b2d6c501cb52d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 959,
+      "sha256": "bbaf16245a6551916912774711e6a284e42b4b405a30f05ebf92d4e0b45d783e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "2b07fd6bdb9fac52f5f7f1f19b01f6f4bfcd81cd9ca7dd79c7b5e95042ef659a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38384,
+      "sha256": "34473c33746cc7dcffe8406007bf02db39448133029fefd4ebc65cd6ac5f1f25"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "video-media",
+    "features",
+    "schedule-agenda",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

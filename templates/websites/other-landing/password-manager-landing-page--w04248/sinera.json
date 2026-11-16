@@ -1,0 +1,88 @@
+{
+  "id": "SN-W04248",
+  "title": "Password Manager Landing Page",
+  "summary": "Responsive landing page with animated background, navigation, hero section, and password vault UI using Tailwind CSS and 3D waves effect.",
+  "tags": [
+    "Landing Page",
+    "Password Manager",
+    "Tailwind CSS",
+    "Vanta.js",
+    "Animated Background",
+    "Responsive Design"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3301,
+      "sha256": "ce839de6b0538bc3af374a5b9a74b2387870048332c63335ecf6eee801af6486"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18118,
+      "sha256": "c4232142d040ac6566ecddc92f63da1984e0d23f5d8d53d04386f167ecba3ad2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1980,
+      "sha256": "8cb819b95bb3e09f05da1a4fef94b5c805915325a52a03c9fb3dcf7db2d2b0cc"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 316,
+      "sha256": "8be6617bfd1d81f1445cfb25ea7199376d12bf6c7a2a0896ebbcfd4ca3300712"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 485,
+      "sha256": "d6926f9b8a7bc23bba23c039b091843eecbe78b6671dc3b6b9a0a1d0f06b06ca"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 336,
+      "sha256": "6e6e16a2e72ddc4735e21b9b8baf7125fc6633f3bd54c8c01a9d6b15ab585ac3"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 301,
+      "sha256": "d849c5031bc9303735dce004feddeff4e92ffd3cd267ad8534509944ea88267f"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 324,
+      "sha256": "5aea6cef7c2dbbcf2f52884f43899bf07e67448d20470f882474d12a6ac4f014"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 315,
+      "sha256": "a031b94befecae6c8572b7b868b1038006d9a04e003b7cb7a43450f3182efdad"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11156,
+      "sha256": "4541306cf1494f51de21c11abea204375b95296b5f87e216f87f6ba788fff176"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

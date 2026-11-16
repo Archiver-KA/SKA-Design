@@ -1,0 +1,46 @@
+{
+  "id": "SN-C00306",
+  "title": "AI Recap & Actions Dark-Mode Card Component",
+  "summary": "Dark Tailwind card showing AI meeting recaps, key decisions, auto follow-ups, and action buttons (Summarize, Create tasks). Responsive flex layout with icons, blur, and shadow; ideal for dashboards and project-management UIs.",
+  "tags": [
+    "card",
+    "tailwind",
+    "dark-mode",
+    "dashboard",
+    "productivity",
+    "ai",
+    "summary",
+    "buttons",
+    "interactive",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12388,
+      "sha256": "e3259832b8b233e0eac02d175f21d9354dbd9bb51ce4beaee0057c314c523a44"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4350,
+      "sha256": "67ca6c3746890064bab94b988f581a8d6280931bbda66b67f6f6c3ead376c13e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5348,
+      "sha256": "4d9c6babb6538a2eb5952882029c92d42d3df83f4a45dcc12b212cdd0e5d273f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

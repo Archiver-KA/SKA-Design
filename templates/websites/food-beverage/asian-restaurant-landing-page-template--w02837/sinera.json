@@ -1,0 +1,69 @@
+{
+  "id": "SN-W02837",
+  "title": "Asian Restaurant Landing Page Template",
+  "summary": "A polished restaurant website template for Asian eateries to showcase menus, signature dishes, hours, location, and dine-in or takeaway calls to action.",
+  "tags": [
+    "Food",
+    "Landing Page",
+    "Services",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Restaurant",
+    "Menu",
+    "Local Business"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3948,
+      "sha256": "faac4ab467849b94bbe45aefad08503531b8a039e576f65609ac82ecaaf7ffca"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5306,
+      "sha256": "0cc71334e3c8e6d3011dd93427972623bc018a6b67f454c4b00bef7b40744266"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "375fcad834c083fcc11c509849b3666a6f5d223fb71267fabd0bc98a9c6660a4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 83859,
+      "sha256": "a049b48d269a60d0305b7edac5b2feea9e08c146fee219e6728dafc7b14ac782"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "about",
+    "menu-list",
+    "features",
+    "map-location",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

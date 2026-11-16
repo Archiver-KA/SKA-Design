@@ -1,0 +1,66 @@
+{
+  "id": "SN-W02231",
+  "title": "Soccer Player Portfolio Website Template",
+  "summary": "A modern soccer player portfolio template to showcase stats, career highlights, and recruit-ready contact details for athletes and coaches.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Large Type",
+    "Sports",
+    "Athlete",
+    "Soccer",
+    "Recruitment"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3446,
+      "sha256": "35c2fe27fb86607455f81940901f7471846e529635b7f383c48d62668e965cf7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13994,
+      "sha256": "c85ff80cdfc12ba2c13fcb966cc2235e117e4929942d618a571f8830d92b28d2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "59853538c72b315b18b04d64456b9287feef2519e014242d8057187e35763660"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20825,
+      "sha256": "5dc15a512e0592b9ad0b3b05ebd624fe02b04ea22d40fe338af14492ba188d40"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "about",
+    "timeline",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

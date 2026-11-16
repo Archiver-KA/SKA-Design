@@ -1,0 +1,150 @@
+<!doctype html><html lang="uk" data-theme="workshop"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SEO-просування сайту під ключ</title><meta name="description" content="SEO та маркетингова агенція: безкоштовний аудит видимості в Google та AI-сервісах, а потім виправлення кожного пункту.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Onest:wght@500;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>tailwind.config={theme:{extend:{colors:{ground:'#121212',surface:'#1C1C1C',ink:'#F2F0EB',muted:'#A8A49D',line:'#2A2A2A',accent:'#C6F135',accent2:'#FF5C39'},fontFamily:{display:['Onest','system-ui','sans-serif'],body:['Inter','system-ui','sans-serif']},borderRadius:{DEFAULT:'0px',md:'0px',lg:'0px'}}}}</script>
+<style>
+[data-theme="workshop"]{--sa-ground:#121212;--sa-surface:#1C1C1C;--sa-ink:#F2F0EB;--sa-muted:#A8A49D;--sa-line:#2A2A2A;--sa-accent:#C6F135;--sa-on-accent:#121212;--sa-accent-2:#FF5C39;--sa-on-accent-2:#121212;--sa-font-display:"Onest",system-ui,sans-serif;--sa-font-body:"Inter",system-ui,sans-serif;--sa-radius-control:0px;--sa-radius-card:0px;--sa-display-case:none;color-scheme:dark;background:var(--sa-ground);color:var(--sa-ink);font-family:var(--sa-font-body)}
+*,*::before,*::after{box-sizing:border-box;border-radius:0}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--sa-ground);color:var(--sa-ink);font-family:var(--sa-font-body);line-height:1.6;overflow-x:hidden;-webkit-font-smoothing:antialiased}
+h1,h2,h3,h4{font-family:var(--sa-font-display);margin:0;line-height:1.02;letter-spacing:-.02em;font-weight:800;text-wrap:balance}
+p{margin:0;text-wrap:pretty}
+a{color:inherit}
+img,svg{max-width:100%}
+.wrap{max-width:1240px;margin:0 auto;padding:0 20px}
+@media(min-width:768px){.wrap{padding:0 40px}}
+.muted{color:var(--sa-muted)}
+.acc{color:var(--sa-accent)}.acc2{color:var(--sa-accent-2)}
+.eyebrow{font:600 12px/1 var(--sa-font-body);letter-spacing:.14em;text-transform:uppercase;color:var(--sa-muted);display:flex;align-items:center;gap:10px}
+.eyebrow::before{content:"";width:22px;height:2px;background:var(--sa-accent-2)}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:48px;padding:0 24px;font:600 15px var(--sa-font-body);text-decoration:none;border:1.5px solid var(--sa-ink);background:transparent;color:var(--sa-ink);cursor:pointer;transition:background .2s,color .2s,border-color .2s}
+.btn:hover{background:var(--sa-ink);color:var(--sa-ground)}
+.btn-p{background:var(--sa-accent);color:var(--sa-on-accent);border-color:var(--sa-accent)}
+.btn-p:hover{background:var(--sa-ink);border-color:var(--sa-ink);color:var(--sa-ground)}
+:focus-visible{outline:3px solid var(--sa-accent-2);outline-offset:3px}
+.nav{position:sticky;top:0;z-index:50;background:var(--sa-ground);border-bottom:1px solid var(--sa-line)}
+.nav .in{display:flex;align-items:center;justify-content:space-between;min-height:64px;gap:16px}
+.logo{font:800 22px var(--sa-font-display);letter-spacing:-.03em;text-decoration:none;display:flex;align-items:center;gap:8px;min-height:44px}
+.logo i{width:12px;height:12px;background:var(--sa-accent);display:block}
+.links{display:none;gap:28px;align-items:center}
+.links a{text-decoration:none;font-size:14px;font-weight:500;color:var(--sa-muted);min-height:44px;display:inline-flex;align-items:center}
+.links a:hover{color:var(--sa-ink)}
+.burger{width:48px;height:48px;border:1.5px solid var(--sa-line);background:transparent;color:var(--sa-ink);display:inline-flex;align-items:center;justify-content:center;cursor:pointer}
+.mnav{display:none;border-top:1px solid var(--sa-line);padding:8px 20px 20px}
+.mnav.open{display:block}
+.mnav a{display:flex;align-items:center;min-height:52px;border-bottom:1px solid var(--sa-line);text-decoration:none;font:700 20px var(--sa-font-display)}
+@media(min-width:900px){.links{display:flex}.burger,.mnav{display:none!important}}
+section{padding:72px 0}
+@media(min-width:900px){section{padding:112px 0}}
+.rule{border-top:1px solid var(--sa-line)}
+.h2{font-size:clamp(34px,5.5vw,68px)}
+.ph{background:repeating-linear-gradient(135deg,#1C1C1C 0 14px,#212121 14px 28px);border:1px solid var(--sa-line);display:flex;align-items:flex-end;padding:12px;color:var(--sa-muted);font:500 12px var(--sa-font-body);letter-spacing:.04em}
+details{border-top:1px solid var(--sa-line)}
+details:last-of-type{border-bottom:1px solid var(--sa-line)}
+summary{list-style:none;cursor:pointer;min-height:64px;display:flex;align-items:center;justify-content:space-between;gap:16px;font:700 clamp(18px,2.4vw,24px) var(--sa-font-display);letter-spacing:-.01em;padding:12px 0}
+summary::-webkit-details-marker{display:none}
+summary::after{content:"+";font:500 28px var(--sa-font-body);color:var(--sa-accent);flex:none;width:32px;text-align:center}
+details[open] summary::after{content:"\2212"}
+details p{padding:0 48px 24px 0;color:var(--sa-muted);max-width:62ch}
+.foot{border-top:1px solid var(--sa-line);padding:40px 0;font-size:14px;color:var(--sa-muted)}
+.foot .in{display:flex;flex-wrap:wrap;gap:20px 40px;justify-content:space-between}
+.foot a{display:inline-flex;min-height:44px;align-items:center;text-decoration:none}
+.foot a:hover{color:var(--sa-ink)}
+label{display:block;font:600 13px var(--sa-font-body);margin-bottom:8px}
+input,textarea,select{width:100%;min-height:48px;background:var(--sa-surface);border:1.5px solid #4a4a4a;color:var(--sa-ink);font:400 16px var(--sa-font-body);padding:12px 14px}
+input::placeholder,textarea::placeholder{color:#8f8b85}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important;scroll-behavior:auto!important}}
+</style></head><body id="top">
+<header class="nav"><div class="wrap"><div class="in"><a class="logo" href="#top"><i></i>[НАЗВА АГЕНЦІЇ]</a><nav class="links" aria-label="Головна навігація">
+<a href="#van-de">Проблема</a>
+<a href="#dich-vu">Пакети</a>
+<a href="#audit">Аудит</a>
+<a href="#faq">Питання</a>
+<a class="btn btn-p" style="color:#121212;min-height:44px;padding:0 18px" href="#audit">Безкоштовний аудит</a></nav><button class="burger" id="burger" aria-label="Відкрити меню" aria-expanded="false" aria-controls="mnav"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 7h18M3 12h18M3 17h18"/></svg></button></div></div><div class="mnav" id="mnav">
+<a href="#van-de">Проблема</a>
+<a href="#dich-vu">Пакети</a>
+<a href="#audit">Аудит</a>
+<a href="#faq">Питання</a>
+<a href="#audit" style="color:var(--sa-accent)">Безкоштовний аудит</a></div></header>
+<main>
+<section style="padding:56px 0 72px">
+<style>
+.h4{display:grid;gap:48px}
+@media(min-width:960px){.h4{grid-template-columns:6fr 5fr;gap:72px;align-items:center}}
+.serp{background:var(--sa-surface);border:1px solid var(--sa-line);padding:0}
+.serp .q{display:flex;align-items:center;gap:12px;padding:16px 18px;border-bottom:1px solid var(--sa-line);font-size:15px}
+.serp .ai{padding:20px 18px;border-bottom:1px solid var(--sa-line);display:grid;gap:10px}
+.serp .lab{font:600 11px var(--sa-font-body);letter-spacing:.14em;text-transform:uppercase;color:var(--sa-accent)}
+.src{display:inline-flex;align-items:center;min-height:28px;padding:0 10px;border:1px solid var(--sa-accent);color:var(--sa-accent);font-size:12px;font-weight:600}
+.res{padding:16px 18px;display:grid;gap:4px;border-bottom:1px solid var(--sa-line)}
+.res:last-child{border-bottom:0}
+.res .u{font-size:12px;color:var(--sa-muted)}.res .t{font:700 17px var(--sa-font-display);color:#8fb7ff}
+.res.you{background:#1f2410}.res.you .t{color:var(--sa-accent)}
+.bar{height:10px;background:#2a2a2a;display:block}
+</style>
+<div class="wrap"><div class="h4">
+<div><p class="eyebrow">SEO та digital-маркетинг</p>
+<h1 style="font-size:clamp(42px,7vw,98px);margin:26px 0">Клієнти питають у ШІ.<br><span class="acc">Чи називає він ваш бренд?</span></h1>
+<p style="font-size:19px;max-width:50ch" class="muted">Перевіряємо ваш сайт у Google та в сервісах з відповідями на основі ШІ, показуємо, чому цитують конкурентів, а вас ні, і виправляємо кожен пункт.</p>
+<div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:30px"><a class="btn btn-p" href="#audit">Отримати безкоштовний аудит</a><a class="btn" href="#dich-vu">Переглянути послуги</a></div></div>
+<div class="serp" aria-label="Приклад результатів пошуку">
+<div class="q"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg><span>[ЗАПИТ КЛІЄНТА У ВАШІЙ НІШІ]</span></div>
+<div class="ai"><span class="lab">Відповідь ШІ</span><span class="bar" style="width:92%"></span><span class="bar" style="width:78%"></span><span class="bar" style="width:55%"></span><span style="display:flex;gap:8px;flex-wrap:wrap;margin-top:6px"><span class="src">[ВАШ БРЕНД]</span><span class="src" style="border-color:#555;color:var(--sa-muted)">Конкурент А</span></span></div>
+<div class="res you"><span class="u">[vash-domen.ua]</span><span class="t">[Заголовок вашої сторінки]</span></div>
+<div class="res"><span class="u">[konkurent-a.ua]</span><span class="t">[Заголовок сторінки конкурента]</span></div>
+</div></div></div></section>
+
+<section class="rule" id="van-de">
+<div class="wrap">
+<style>.pr{display:grid;gap:36px}@media(min-width:900px){.pr{grid-template-columns:5fr 7fr;gap:80px}}.prb{padding:26px 0;border-top:1px solid var(--sa-line)}.prb:first-child{border-top:0;padding-top:0}.prb h3{font-size:24px;margin-bottom:8px}</style>
+<div class="pr"><h2 class="h2">Пошук змінив спосіб відповідати.</h2>
+<div>
+<div class="prb"><h3>Позиція вже не вирішує все</h3><p class="muted">Користувачі читають зведену відповідь угорі сторінки й часто нікуди не переходять. Бренд, якого немає в цій відповіді, майже непомітний.</p></div>
+<div class="prb"><h3>ШІ обирає чіткі, структуровані джерела</h3><p class="muted">Контент, що прямо відповідає на запитання, містить перевірні дані та стандартну технічну розмітку, цитують частіше.</p></div>
+<div class="prb"><h3>Класичне SEO лишається основою</h3><p class="muted">Швидкість, структура, посилання й корисний контент і далі визначають, чи побачать вас. Ми працюємо над обома рівнями одночасно.</p></div>
+</div></div></div></section>
+
+<section id="dich-vu" class="rule" style="background:var(--sa-surface)">
+<div class="wrap">
+<h2 class="h2" style="margin-bottom:44px">Пакети послуг</h2>
+<style>.pk{display:grid;gap:0;border:1px solid #333}.pk>div{padding:30px 24px;border-bottom:1px solid #333;display:grid;gap:14px;align-content:start}.pk>div:last-child{border-bottom:0}.pk h3{font-size:28px}.pk ul{margin:0;padding:0;list-style:none;display:grid;gap:8px;color:var(--sa-muted);font-size:15px}.pk li{display:flex;gap:10px}.pk li::before{content:"";flex:none;width:8px;height:8px;background:var(--sa-accent);margin-top:9px}.pk .pc{font:800 24px var(--sa-font-display)}.pk .hot{background:var(--sa-ground);outline:2px solid var(--sa-accent);outline-offset:-2px}
+@media(min-width:900px){.pk{grid-template-columns:repeat(3,1fr)}.pk>div{border-bottom:0;border-right:1px solid #333}.pk>div:last-child{border-right:0}}</style>
+<div class="pk">
+<div><span class="eyebrow">Старт</span><h3>Аудит</h3><p class="pc">[ВАША ЦІНА]</p><p class="muted">Одноразовий звіт, який ви або ваша команда впроваджуєте самостійно.</p><ul><li>Технічна перевірка всього сайту</li><li>Аналіз шансів потрапити в цитати ШІ</li><li>Список завдань за пріоритетом впливу</li><li>45-хвилинна консультація з розбором</li></ul></div>
+<div class="hot"><span class="eyebrow">Популярний</span><h3>Оптимізація на 3 місяці</h3><p class="pc">[ВАША ЦІНА] / місяць</p><p class="muted">Ми виправляємо й пишемо контент, ви погоджуєте.</p><ul><li>Усе з пакета «Аудит»</li><li>Виправлення технічних помилок, структуровані дані</li><li>[КІЛЬКІСТЬ] матеріалів щомісяця</li><li>Щомісячний звіт про позиції та цитування</li></ul></div>
+<div><span class="eyebrow">Надовго</span><h3>Партнерство</h3><p class="pc">[ВАША ЦІНА] / місяць</p><p class="muted">SEO-команда, що працює як ваш власний відділ.</p><ul><li>Контент-стратегія на кожен квартал</li><li>Лінкбілдинг і репутація бренду</li><li>Моніторинг конкурентів</li><li>Зустрічі раз на два тижні</li></ul></div>
+</div></div></section>
+
+<section id="audit" class="rule">
+<div class="wrap">
+<h2 class="h2" style="margin-bottom:44px;max-width:16ch">Аудит у чотири кроки</h2>
+<style>.au{display:grid;gap:0}.au>div{display:grid;align-content:start;grid-template-columns:64px 1fr;gap:16px;padding:26px 0;border-top:1px solid var(--sa-line)}.au b{font:800 44px/1 var(--sa-font-display);color:var(--sa-accent-2)}.au h3{font-size:24px;margin-bottom:6px}@media(min-width:900px){.au{grid-template-columns:repeat(4,1fr);gap:28px}.au>div{grid-template-columns:1fr;border-top:2px solid var(--sa-ink);padding-top:18px}}</style>
+<div class="au">
+<div><b>1</b><div><h3>Ви надсилаєте адресу сайту</h3><p class="muted">Разом із трьома конкурентами, яких ви боїтеся найбільше.</p></div></div>
+<div><b>2</b><div><h3>Пробуємо реальні запити</h3><p class="muted">Ставимо AI-сервісам запитання, які ставлять ваші клієнти, і фіксуємо, кого згадують.</p></div></div>
+<div><b>3</b><div><h3>Перевіряємо техніку й контент</h3><p class="muted">Шукаємо вузькі місця, через які сторінку не індексують і не цитують.</p></div></div>
+<div><b>4</b><div><h3>Розбір і пропозиція</h3><p class="muted">Список завдань у порядку доцільності; ви самі обираєте, робити їх самостійно чи з нами.</p></div></div>
+</div></div></section>
+
+<section id="faq" class="rule">
+<div class="wrap" style="max-width:900px;margin:0 auto">
+<h2 class="h2" style="margin-bottom:40px">Поширені запитання</h2>
+<details><summary>Коли буде результат?</summary><p>Технічні помилки зазвичай дають ефект за кілька тижнів. Позиціям і цитуванню потрібно [КІЛЬКІСТЬ] міс. Ми не обіцяємо перше місце, а гарантуємо процес і прозорі звіти.</p></details>
+<details><summary>Що входить у безкоштовний аудит?</summary><p>Короткий підсумок: три найбільші проблеми сайту й що робити в першу чергу. Повний звіт входить у пакет «Аудит».</p></details>
+<details><summary>Чи потрібно змінювати мій сайт?</summary><p>Зазвичай ні. Більшість роботи виконується на наявному сайті. Якщо платформа заважає, ми скажемо про це прямо й запропонуємо варіанти.</p></details>
+<details><summary>Чи є довгострокові зобов'язання за договором?</summary><p>Місячний пакет можна припинити, повідомивши за [КІЛЬКІСТЬ] днів.</p></details>
+</div></section>
+
+<section class="rule" style="padding-bottom:64px">
+<div class="wrap">
+<h2 style="font-size:clamp(38px,7.6vw,110px);letter-spacing:-.045em;line-height:.95;max-width:14ch">Побачте, де конкуренти <span class="acc">попереду вас.</span></h2>
+<div style="display:flex;flex-wrap:wrap;gap:16px;align-items:center;margin-top:36px"><a class="btn btn-p" href="mailto:[ВАШ EMAIL]?subject=%D0%91%D0%B5%D0%B7%D0%BA%D0%BE%D1%88%D1%82%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%B0%D1%83%D0%B4%D0%B8%D1%82">Отримати безкоштовний аудит</a><span class="muted">[ВАШ EMAIL] · [ТЕЛЕФОН]</span></div>
+</div></section>
+</main>
+<footer class="foot"><div class="wrap in"><span>© [РІК] [НАЗВА АГЕНЦІЇ]. [АДРЕСА]</span><span style="display:flex;gap:24px;flex-wrap:wrap"><a href="#dich-vu">Пакети послуг</a><a href="#faq">Питання</a><a href="#">LinkedIn</a></span></div></footer>
+<script>
+(function(){var b=document.getElementById('burger'),m=document.getElementById('mnav');if(b&&m){b.addEventListener('click',function(){var o=m.classList.toggle('open');b.setAttribute('aria-expanded',o)});m.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){m.classList.remove('open');b.setAttribute('aria-expanded','false')})})}})();
+</script>
+</body></html>

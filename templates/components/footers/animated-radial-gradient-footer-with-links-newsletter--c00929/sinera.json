@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00929",
+  "title": "Animated Radial Gradient Footer with Links & Newsletter",
+  "summary": "Responsive animated footer featuring brand logo, social buttons, multi-column navigation, legal links and email subscription input. Styled with Tailwind CSS, radial gradient background and hover effects; ideal for SaaS dashboards or marketing sites.",
+  "tags": [
+    "footer",
+    "tailwind",
+    "responsive",
+    "animated",
+    "social-icons",
+    "newsletter",
+    "navigation",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "footers",
+  "categoryLabel": "Footers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9992,
+      "sha256": "3523bf15c93711e8a2a08828edfaa764b80111114d1a9483be20a84ed4bb2d4d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8620,
+      "sha256": "c34db790cdc44add0625b329a5e5a79539758259b3587f8f72c78bace5b18288"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9500,
+      "sha256": "de569991040516e3e17964de2e3dd44224710fb585a161e3945b43d1368b7f98"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

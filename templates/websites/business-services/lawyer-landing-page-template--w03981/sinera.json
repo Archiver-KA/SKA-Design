@@ -1,0 +1,70 @@
+{
+  "id": "SN-W03981",
+  "title": "Lawyer Landing Page Template",
+  "summary": "Clean Polish-language lawyer landing page template for solo attorneys and law firms to showcase services, build trust, and capture legal consultation leads.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Technology",
+    "Legal",
+    "Lawyer",
+    "Consultation"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3656,
+      "sha256": "53c721a69c6d6ae610aba30072231148eece5ff5e03db455a3ffb3be00c8f75e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 31192,
+      "sha256": "5011ae9175317b52db493deca7b1a0906c26fc1e0c20e27a0e1fd4accd75b709"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 868,
+      "sha256": "eaa9b4d46a7f1e2e74c47c01e3cbcc430fc942f3a48df3c003d092447ec9c1d4"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 164,
+      "sha256": "5f55b21fee4482368fcc0ca254009dd47ad66ab917ecaeaa3262ed3b3c4ab6f7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26781,
+      "sha256": "c8f96a80f480867679b41c56290aacee4b66e697288cf89371423fe5a68a0bca"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "features",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

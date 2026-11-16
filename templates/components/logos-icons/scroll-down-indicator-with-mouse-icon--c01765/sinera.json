@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01765",
+  "title": "Scroll Down Indicator with Mouse Icon",
+  "summary": "Responsive flex element showing 'Scroll down' and 'to view projects' around a mouse icon in a circular badge. Built with Tailwind CSS, it acts as a visual cue prompting users to scroll on landing or portfolio pages.",
+  "tags": [
+    "indicator",
+    "scroll",
+    "icon",
+    "tailwind",
+    "responsive",
+    "ui",
+    "landing",
+    "portfolio"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1644,
+      "sha256": "b9665a3ec959b6a7ad2bba63d6f3bca505bcc90c63e2bc06a6473aab79c58be4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 829,
+      "sha256": "99da38a393a108c4fe24c7c4679427f7d35acdc6f644750ef304e9b6649334c7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1817,
+      "sha256": "4fb85a901232145a37e746a03234d8e37b516aa716e8c9d11039b808bdc9e004"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

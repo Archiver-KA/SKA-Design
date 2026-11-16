@@ -1,0 +1,24 @@
+<svg viewBox="0 0 400 150" class="w-full h-full overflow-visible">
+                        <!-- Grid Lines -->
+                        <line x1="0" y1="150" x2="400" y2="150" stroke="#333" stroke-width="1" stroke-dasharray="4 4" />
+                        <line x1="0" y1="100" x2="400" y2="100" stroke="#333" stroke-width="1" stroke-dasharray="4 4" />
+                        <line x1="0" y1="50" x2="400" y2="50" stroke="#333" stroke-width="1" stroke-dasharray="4 4" />
+                        
+                        <!-- Gradient Def -->
+                        <defs>
+                            <linearGradient id="chartGradient" x1="0" x2="0" y1="0" y2="1">
+                                <stop offset="0%" stop-color="#00F5FF" stop-opacity="0.2"/>
+                                <stop offset="100%" stop-color="#00F5FF" stop-opacity="0"/>
+                            </linearGradient>
+                        </defs>
+                        
+                        <!-- Area -->
+                        <path d="M0,120 C50,115 100,110 150,80 C200,50 250,60 300,30 C350,0 400,10 400,10 V150 H0 Z" fill="url(#chartGradient)" />
+                        
+                        <!-- Line -->
+                        <path d="M0,120 C50,115 100,110 150,80 C200,50 250,60 300,30 C350,0 400,10 400,10" fill="none" stroke="#00F5FF" stroke-width="3" stroke-linecap="round" />
+                        
+                        <!-- Points -->
+                        <circle cx="150" cy="80" r="4" fill="#050505" stroke="#00F5FF" stroke-width="2" />
+                        <circle cx="300" cy="30" r="4" fill="#050505" stroke="#00F5FF" stroke-width="2" />
+                    </svg>

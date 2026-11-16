@@ -1,0 +1,81 @@
+{
+  "id": "SN-W04078",
+  "title": "Responsive Website Footer Layout",
+  "summary": "HTML footer with navigation, social icons, and company info styled using Tailwind CSS and custom fonts.",
+  "tags": [
+    "Footer",
+    "Navigation",
+    "Tailwind CSS",
+    "Responsive Design",
+    "Social Icons",
+    "UI Component"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2743,
+      "sha256": "0fdf523c7f376a4cbfd239dac66bd5eadd8e88e1d6de354294cad20f899b133f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7888,
+      "sha256": "07a3427f7fac0f365d313e5f5c55261a44e5dcaf410aaa6d1605dfe252050575"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1539,
+      "sha256": "e0de41e8d8a82f30be7a0d184669f97846265bd634a1586eddf52cfdec767906"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 527,
+      "sha256": "9bcbf292d6e696101b714204c095beee8a05cf302a96bdb4ba80325baf533169"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 1739,
+      "sha256": "20c340071e73a0e0ab786cbd8f8ab2587503be7c47ff5e81bebc6e70b93ab97a"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 864,
+      "sha256": "deb9fa387484ea2ae578b531aad8ca2eba1381a3001453135aaf824e2a801bc1"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 480,
+      "sha256": "58b8c67ce54e31b7dc77f353467d290eafd5562b144126947c896ac77e8f9e16"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8647,
+      "sha256": "e04381a706898a00858c15beeb424acb97b15d2987044bbcbf061e3fe4d3b65b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "snippet",
+  "components": [
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "added-viewport"
+    ]
+  },
+  "snippetType": "footer",
+  "design": "DESIGN.md"
+}

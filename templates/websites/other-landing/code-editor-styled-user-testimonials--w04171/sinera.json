@@ -1,0 +1,57 @@
+{
+  "id": "SN-W04171",
+  "title": "Code Editor Styled User Testimonials",
+  "summary": "Displays user testimonials formatted as code in a styled code editor interface using Tailwind CSS.",
+  "tags": [
+    "HTML",
+    "Tailwind CSS",
+    "Code Editor",
+    "Testimonials",
+    "UI Design",
+    "Syntax Highlighting"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2869,
+      "sha256": "2217a232d5857d4c2bce9e82aa5b4c7f78e42634034f8071c0638a4c99cecc1b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15074,
+      "sha256": "09b6baf4fdda280a0dbcebad704edcd066452fb0e7486862ac07ebc031fede75"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "44a06123b24c2f4cebce8a821ac0b819b4c2c51ed7e89aedaaf97db0467d8e5c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11253,
+      "sha256": "7f4e34338f1f8e17baf5d68f6e1ebf2943ab8d0ab5ce1fd7385d663573b32a8c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "testimonials"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

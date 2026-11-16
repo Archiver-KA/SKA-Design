@@ -1,0 +1,50 @@
+<svg viewBox="0 0 300 300" class="w-full max-w-[18rem]">
+                <rect
+                  x="60"
+                  y="40"
+                  width="180"
+                  height="220"
+                  rx="8"
+                  fill="rgba(255,249,243,0.03)"
+                  stroke="#515151"
+                  stroke-width="1"
+                  transform="rotate(-6 150 150)"
+                ></rect>
+                <rect
+                  x="60"
+                  y="40"
+                  width="180"
+                  height="220"
+                  rx="8"
+                  fill="rgba(255,249,243,0.06)"
+                  stroke="#FFF9F3"
+                  stroke-width="1"
+                  transform="rotate(3 150 150)"
+                  class=""
+                ></rect>
+                <g transform="rotate(3 150 150)" class="">
+                  <circle
+                    cx="150"
+                    cy="110"
+                    r="30"
+                    fill="rgba(255,249,243,0.1)"
+                    class=""
+                  ></circle>
+                  <path
+                    d="M90 180 L210 180"
+                    stroke="#8E8E8E"
+                    stroke-width="2"
+                    opacity="0.3"
+                  ></path>
+                  <path
+                    d="M90 200 L180 200"
+                    stroke="#8E8E8E"
+                    stroke-width="2"
+                    opacity="0.2"
+                  ></path>
+                  <polygon
+                    points="142,100 165,110 142,120"
+                    fill="#FFF9F3"
+                  ></polygon>
+                </g>
+              </svg>

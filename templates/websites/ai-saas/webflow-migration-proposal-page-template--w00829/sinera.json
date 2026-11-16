@@ -1,0 +1,63 @@
+{
+  "id": "SN-W00829",
+  "title": "Webflow Migration Proposal Page Template",
+  "summary": "A clean, modern proposal page template for presenting Webflow migration and website redevelopment scopes, estimates, and timelines to B2B clients.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Clean",
+    "Minimal",
+    "Brand",
+    "Large Type",
+    "Proposal",
+    "Webflow",
+    "B2B"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3342,
+      "sha256": "9604e5e8d4bafd31da63dc864c5b4a676cf25065f4748bc091a068fa9700ecba"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14026,
+      "sha256": "7f99d5883885ae3c6aafd07448bc3ba0689bcfe1321d46bd5252551c08b37d16"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "4011edc9c53bfb45f259c9f4884dc57f61f07004d4d3a962b5315557ddbac6c3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25620,
+      "sha256": "fb40cffaeffb8eacef7813f600efccbc027a6aef2ca26412c3aca6c6d743eab1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

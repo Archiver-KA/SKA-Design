@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00460",
+  "title": "Synth Keyboard UI Card with Knobs and Switch",
+  "summary": "Highly detailed synth instrument UI card featuring oscillator and filter knobs, central toggle switch, and interactive piano keyboard. Built with Tailwind-style utility classes, ideal for music apps, audio plugins, and dashboard previews.",
+  "tags": [
+    "card",
+    "ui",
+    "interactive",
+    "keyboard",
+    "audio",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5476,
+      "sha256": "f120fb96793083f69afe48c8a68c286354e5a1fb104469d30c0297f7c2bced74"
+    },
+    {
+      "path": "component.html",
+      "bytes": 14416,
+      "sha256": "4034f81c8fd5ca0a7ecb616b4b75f91c910559129a4ebe62969d12a57a7362d9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15281,
+      "sha256": "68520e3b1f671be1a27dc160a741d6447c18feeed82e318de9cf02cc9e6d116f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

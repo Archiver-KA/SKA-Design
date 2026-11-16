@@ -1,0 +1,65 @@
+{
+  "id": "SN-W00265",
+  "title": "Caledonia Digital Studios",
+  "summary": "A modern landing page template for local web design and AI assistant services, perfect for showcasing simple websites and audits for small businesses.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3698,
+      "sha256": "a4f96eaf0956d6f7bdf2d9c2772fd8081a682fd40a572f97b3fa7ab7209b18d6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 36052,
+      "sha256": "715a5c72794442625424003e6191f173ce3fab6ac1784a6e4a708b3406e85810"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 719,
+      "sha256": "0f2da5917dff7a7d7b590d7833431f634732ded41f0d7af22608fec677dacddd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41547,
+      "sha256": "1d047a2cc2f2afb6ace74951438a0fbbb0383d802ec44db3401f9a2b9ab83ad8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "contact-form",
+    "hero",
+    "pricing",
+    "services",
+    "how-it-works",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

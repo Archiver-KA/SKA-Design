@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00550",
+  "title": "Full-Screen Spline 3D Background Animation",
+  "summary": "Embeds a responsive, full-viewport Spline iframe to render a 3D particle portal animation behind all content using Tailwind utility classes; ideal for immersive hero sections, landing pages, or dynamic page backgrounds.",
+  "tags": [
+    "background",
+    "animation",
+    "3d",
+    "iframe",
+    "spline",
+    "responsive",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6104,
+      "sha256": "cb4707c643df6c8aa50b63d414f0e9ee52d80cc705b250ad367ef0e2f6fe50f4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 264,
+      "sha256": "2d751dd99c2a4433f0c54c81f3fb89f27003d2a4838ec9f9ed0b318796c68e5a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1127,
+      "sha256": "459dfd134e9602a3870f2b6dd53f59f2e643e4e56b9590efb87246fc1ef170e2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

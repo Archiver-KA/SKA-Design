@@ -1,0 +1,76 @@
+{
+  "id": "SN-W01330",
+  "title": "The Carved Collection - by Surge",
+  "summary": "A premium dark-mode e-commerce collection template for showcasing curated furniture and decor products with filters, quick-add cart, and editorial styling.",
+  "tags": [
+    "E-commerce",
+    "Landing Page",
+    "Brand",
+    "Art & Design",
+    "Interior Design",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Grid",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3685,
+      "sha256": "2b0d06c276593311d24ae0d86b1eb5ae4ba9d2e5fe3894f48843a90cab399197"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9190,
+      "sha256": "50efccb846c0c71cfb5011c11b535c1bb8c656e9786c3caba83b67bd3a4a6dbf"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1058,
+      "sha256": "26e43e9e02d838610f879451165b414a227007f3492c4b2e2fe1dc128b108c4d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 460,
+      "sha256": "ee1225b3a0bd56d7d0172ccfc5724229dd88a8390c883d2969209853699062bd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36742,
+      "sha256": "52f60d4253c8a533e409667e3110d8e878d2c8c7ac23328a8de66b3c4caeccd2"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "features",
+    "product-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01906",
+  "title": "Image Element Placeholder",
+  "summary": "Basic image element placeholder snippet, likely intended as an <img> tag setup. Useful as a starting point for defining image sources, alt text, and responsive image behavior in HTML or JSX.",
+  "tags": [
+    "card",
+    "image",
+    "html",
+    "placeholder",
+    "basic"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 62244,
+      "sha256": "57edeae52ae57e46fb30285ecc34e8f3739d929f92e0e819802f4bb5bfbc4991"
+    },
+    {
+      "path": "component.html",
+      "bytes": 143,
+      "sha256": "0d8f30311510568eb5e311207d0e14b72d251c13e9377c6c908bdf5166f7bbf5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 989,
+      "sha256": "3372b15acbdf2fab71b1b4d1385ac6a8e77b217d248f4b3960cb08e9f7fb19ce"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

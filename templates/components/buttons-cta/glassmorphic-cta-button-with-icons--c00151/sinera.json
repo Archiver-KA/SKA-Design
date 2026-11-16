@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00151",
+  "title": "Glassmorphic CTA Button with Icons",
+  "summary": "Interactive call-to-action button styled with Tailwind classes and glassmorphism. Features leading eye icon, trailing arrow icon that slides on hover, lift shadow effect, and smooth transitions—ideal for navigating to collection or gallery pages.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwindcss",
+    "glassmorphic",
+    "icons",
+    "hover",
+    "animated",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3804,
+      "sha256": "7cabdaa671ba2a94885e00d73a48c898373e108bc569e8ef435dbf713bc73c67"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1114,
+      "sha256": "a35ac985e3351db60ee97a739446d02a4bbaaa4ab74a3f17c2d8027035da952c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1969,
+      "sha256": "8d7cabf176b63063ecabb09f7c1ed3d563b7549dd22454d90694d940ec0a6d18"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

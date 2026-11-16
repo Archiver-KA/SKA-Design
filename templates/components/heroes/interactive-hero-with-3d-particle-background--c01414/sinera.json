@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01414",
+  "title": "Interactive Hero with 3D Particle Background",
+  "summary": "Full-screen creative studio hero section featuring Three.js particle background, masked fog effect, custom cursor, navigation, headline, CTAs, and footer stats. Ideal for portfolio or agency landing pages with immersive, animated visuals.",
+  "tags": [
+    "hero",
+    "section",
+    "landing",
+    "threejs",
+    "animated",
+    "interactive",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14780,
+      "sha256": "4d4d84a2056eb54e24fd797d3d0e5f4e69a879eb1b22cc13cc93b5884dcd4364"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8331,
+      "sha256": "b7abedbaf92d239c97c48b6fd02b20213451248338337f73317a3d13ddcebb06"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9196,
+      "sha256": "d5961f447ecac7ae0e6898d74b41621a59ae711a435a401d2b4a09f89b8bf75a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "SN-W00828",
+  "title": "Webcam Product Landing Page",
+  "summary": "Landing page showcasing a webcam product with AI features, animated fog background, reviews, and clear CTAs. Hero section.",
+  "tags": [
+    "Landing Page",
+    "Product Showcase",
+    "Vanta Fog",
+    "Tailwind CSS",
+    "Responsive Design",
+    "Call to Action"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3140,
+      "sha256": "a787c26b4fd36de1ae9635f0a72f1ddb757f85f33b3779f31a43d8737b53659c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14160,
+      "sha256": "935953ff42e8506fa28815cb83a81a5587cdba06a4c3d64c7329a8af47b5edac"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 720,
+      "sha256": "9e1ee4c18654ef62960d5b4117a974742f778527e7193fa2d26142c2d68e71d0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5069,
+      "sha256": "8082a96627f2a0d2b210f9d62d4d4be48ff680fd45c47e14d86869e150785f51"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

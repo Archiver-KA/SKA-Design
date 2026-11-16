@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02428",
+  "title": "Scrolling Testimonials Marquee Section",
+  "summary": "Responsive Tailwind section showcasing client testimonials. Cards with avatars, names, roles, and quotes scroll horizontally in alternating marquee directions with fade-in on scroll—ideal for landing pages, portfolios, or SaaS sites.",
+  "tags": [
+    "testimonials",
+    "carousel",
+    "marquee",
+    "tailwind",
+    "responsive",
+    "scroll animation",
+    "landing page",
+    "testimonial"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26940,
+      "sha256": "c326b373eea306c8aa7fbac198b8094813b747e980e13c660269ed4d1b4903a6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 19547,
+      "sha256": "312d5f6633b53a1371e9cdf55e821c99cec858a03762c00711188871f8c16bb7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20406,
+      "sha256": "15f37325ab145f141d431f37a9c868cc2c999681fc8f4c95dbe9055edccda631"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01479",
+  "title": "Creative Agency Landing Page Template",
+  "summary": "A scroll-animated creative agency landing page template designed for design studios to showcase visuals, brand identity, and agency details with bold imagery.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Art & Design",
+    "Minimal",
+    "Animated",
+    "Creative agency",
+    "Portfolio",
+    "Design studio",
+    "Scroll animation",
+    "Modern UI"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3579,
+      "sha256": "44f67deb929a380e66ca62536fab099795521a6ddec47bc2337f01e1a9c01e71"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11738,
+      "sha256": "4494b897ca7096bfa7c1cee9d25b919db9570a542474af4dbbd90bf9637f8722"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 731,
+      "sha256": "0ac06255c7dbef63d9d6fdf1910fd2cfa5c1fffb4495dc955c2f97c9399416bc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21394,
+      "sha256": "1bbe01be6a037c344bf4609e9d44447b798a638908eb970a390835bac7ab7ee4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "cta",
+    "marquee",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

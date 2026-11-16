@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01127",
+  "title": "Coffee Shop Landing Page ",
+  "summary": "A modern coffee shop landing page template for showcasing your café story, menu, location, and table reservations in a clean, inviting layout.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Coffee shop",
+    "Restaurant",
+    "Cafe",
+    "Reservation"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3738,
+      "sha256": "ce51cb590ce01fa02a565e16efe0ab0ba5992c85182ce16fd60c96c564b03e70"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19768,
+      "sha256": "b375d730c4f720b355c464a3978ac522b187a674774c1add8c5195d96e487ced"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 715,
+      "sha256": "04a0c3d0a1a4d13b98b7d9f1b4e113ceca9f5f1117e429e0445456f7dcc7eaee"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27767,
+      "sha256": "2bc994c380174c653409b4871a9da5bae639f8fa2497f0db173eef2f844dcbb3"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "modal-overlay",
+    "booking",
+    "services",
+    "menu-list",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

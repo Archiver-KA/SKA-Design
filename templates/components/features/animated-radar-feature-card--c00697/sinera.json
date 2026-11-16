@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00697",
+  "title": "Animated Radar Feature Card",
+  "summary": "Animated feature card with a radar-style visual, gradient hover background, and supporting title and description. Built with Tailwind utility classes, ideal for highlighting AI or monitoring capabilities in feature grids or product overviews.",
+  "tags": [
+    "card",
+    "feature",
+    "animated",
+    "tailwind",
+    "ui",
+    "visual"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8726,
+      "sha256": "cc949cb60a3b2037291efefda499e4ff737b2825a3ddba454d595d16b5c0b08f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2806,
+      "sha256": "2c9a950e554527b4885f038c453d7f3e071cc577ec9c9eba178a3683539881ae"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3654,
+      "sha256": "463427e70d24ee3e40533e5171906145049db56b04b05a994f507026e9e09bb2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

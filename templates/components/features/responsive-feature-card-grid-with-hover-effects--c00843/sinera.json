@@ -1,0 +1,45 @@
+{
+  "id": "SN-C00843",
+  "title": "Responsive Feature Card Grid with Hover Effects",
+  "summary": "Responsive grid of animated feature cards built with Tailwind CSS. Cards show title, text, image and CTA, featuring scroll-reveal, hover scale, bg change and image zoom—ideal for landing pages or service highlights.",
+  "tags": [
+    "grid",
+    "feature",
+    "tailwind",
+    "hover",
+    "animated",
+    "responsive",
+    "marketing",
+    "ui",
+    "scroll-reveal"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 31500,
+      "sha256": "bffade06b6dbc6bf01bb17db724dac598edb7a675cf6b0de8f173cc8b40d597d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4890,
+      "sha256": "d8b2be1f897eff90d8b0edb46408d8853d51f04416d568a01c690eba55eac390"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5758,
+      "sha256": "39e74aca6357a575b133da7d4769893ac312117788906d6e659690df1c19b0fd"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

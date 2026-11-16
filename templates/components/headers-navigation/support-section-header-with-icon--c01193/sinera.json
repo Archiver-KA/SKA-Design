@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01193",
+  "title": "Support Section Header with Icon",
+  "summary": "Horizontally aligned header featuring a subtitle, prominent question prompt, and square message icon. Built with Tailwind CSS flex utilities; ideal for help center or FAQ callouts within dashboards or landing pages.",
+  "tags": [
+    "support",
+    "callout",
+    "tailwind",
+    "icon",
+    "flexbox",
+    "heading",
+    "text",
+    "typography"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5450,
+      "sha256": "cdc72322a6ab47af8ad60dff78b773dd44dd1368e018659145e142f43e9f2718"
+    },
+    {
+      "path": "component.html",
+      "bytes": 980,
+      "sha256": "01b4e985f4b70dacad2fc5e72e352937d440e04e1bb0f6f68b8f1587df6f9d3a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1963,
+      "sha256": "95f0b3dec91860fcdfecb5181e6cc41ff0bb2538b78e1e4feceeec2942f9244a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

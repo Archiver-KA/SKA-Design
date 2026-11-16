@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01254",
+  "title": "Animated Hero Section with Terminal Demo",
+  "summary": "Responsive hero banner for landing pages showcasing a CLI tool. Features fade-in animations, release badge, headline, description, npm install copy snippet, mock terminal window, and floating feature cards. Built with Tailwind CSS for quick customization.",
+  "tags": [
+    "hero",
+    "landing",
+    "tailwindcss",
+    "animated",
+    "terminal",
+    "marketing",
+    "responsive",
+    "copy-button",
+    "section"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 17586,
+      "sha256": "637ebb499f65bd1b8e22df27ee51ccb257eb1f5e6eefc3e2ccd33c217033fa61"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11914,
+      "sha256": "221f02ac49abf2daa16ca0f35bc05dd25bc702dec05af6f99e55ea90096f8215"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12775,
+      "sha256": "f3d45f76b94e69fa536572faee0681a7cb0ce638e38bb2e631872b9ca1de627f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

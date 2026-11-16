@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02090",
+  "title": "Luxury Landscaping Landing Page Template",
+  "summary": "A premium landing page template for landscaping, pool construction, and outdoor living businesses to showcase services, portfolio work, and consultation CTAs.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Luxury",
+    "Landscaping",
+    "Pools",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3713,
+      "sha256": "1a88f3bb6f6514a5c84a300c7333b24d9500dc0aeb1e2f658af3bf6f04d75385"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 26550,
+      "sha256": "06fe15153e082b144f7cf0814c12a56dc8ff7d76e386d4d51f2a5edb16aa8a6b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "30cca2d7416c20a36529f1a1e5eb25c35e7e5d7790ca028159ad5b18db20b7ad"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20774,
+      "sha256": "cd6265d3689bf823d232d84c3c340e976af312c298cf21bd5dc2ee3f03a1451f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "listings",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

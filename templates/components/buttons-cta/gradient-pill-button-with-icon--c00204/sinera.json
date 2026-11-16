@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00204",
+  "title": "Gradient Pill Button with Icon",
+  "summary": "A rounded pill-shaped gradient button featuring an icon and label, using Tailwind-style utility classes. Ideal for prominent call-to-action elements such as triggering demos, benchmarks, or media playback.",
+  "tags": [
+    "button",
+    "cta",
+    "gradient",
+    "icon",
+    "tailwind",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2042,
+      "sha256": "532be62005e31da73bfdbea263352dcec1bbd839d834318646821b8e67c942a8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 744,
+      "sha256": "6ff68e0d9680caeaf951eb24487b3109b2d436b1c44e9862dcf644ac99a08aa5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1685,
+      "sha256": "cbb8db9cc747e54355243a7fd507641540cb08be8f90875f0435d654987d080c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02343",
+  "title": "Sleep Quality Progress Bar",
+  "summary": "Sleep tracking card with duration display and quality percentage shown via gradient progress bar",
+  "tags": [
+    "sleep",
+    "progress-bar",
+    "health",
+    "quality",
+    "duration",
+    "wellness",
+    "card"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4472,
+      "sha256": "f254d9a3058b02389a2c15880b943784f075fb79fbe3643ba328f76b431d273a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 890,
+      "sha256": "536f37478156fb0ff07129ea0a23d2da0bbc25fc875f740da480418d64af583b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1737,
+      "sha256": "dc6078cf355916151490b29d4a0939dfcc743557e0cc144cdba4cf5c65316f3a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

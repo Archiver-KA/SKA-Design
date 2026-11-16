@@ -1,0 +1,41 @@
+{
+  "id": "SN-C02065",
+  "title": "Pricing Table",
+  "summary": "Modern pricing section with three tiers, feature comparisons, and highlighted popular plan. Includes toggle for monthly/yearly billing and attractive call-to-action buttons.",
+  "tags": [
+    "pricing",
+    "table",
+    "plans",
+    "saas",
+    "popular"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22814,
+      "sha256": "db0050c24d4a23f00b741b9be6655d0d52d4d1796933b90b8850d6759551421e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6967,
+      "sha256": "64583b237ad16971ff9b34b9127eb81d53b6f32d3abf57a50babee06708bc16a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7801,
+      "sha256": "430e7aac3f9ca404659bc503f866b38b74c274fd5a4c2399e53ffd078d8edc9e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

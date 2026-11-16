@@ -1,0 +1,78 @@
+{
+  "id": "SN-W01525",
+  "title": "Digital Agency Landing Page Template",
+  "summary": "A sleek, conversion-focused digital agency landing page template for showcasing web design, development, branding, and SEO services with modern UI.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3807,
+      "sha256": "a76780ab4e162bc26781ac857aada9fb61fa4825d1eb73b4ae87665b2fc62845"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16510,
+      "sha256": "b783f91a07b16a650ff663fce607152011bf9e7619943303c8ad18baff0fe575"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1068,
+      "sha256": "01c1cf13674dd419608bce8c3edf0f0c2e87126d1f5b8c196f1af2a33ff117ca"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "1d477c85a7ad0d3a741110a72123c23e8bdb35a659e27798b40c1804211d7d73"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 1138,
+      "sha256": "03260550bafa15a15795044028d49b24f2424eb549e87513b7dad1b69f4f3927"
+    },
+    {
+      "path": "index.html",
+      "bytes": 43822,
+      "sha256": "919fe44073fb96c3658dd74a8e6bb5979e92a59256f2e028d26357f9460b6b13"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "bento-grid",
+    "stats",
+    "how-it-works",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

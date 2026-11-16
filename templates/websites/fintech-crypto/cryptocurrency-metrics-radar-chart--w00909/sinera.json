@@ -1,0 +1,63 @@
+{
+  "id": "SN-W00909",
+  "title": "Cryptocurrency Metrics Radar Chart",
+  "summary": "Interactive radar chart visualizing key cryptocurrency metrics with animated data points and number counters using Tailwind CSS.",
+  "tags": [
+    "SVG",
+    "Radar Chart",
+    "Animation",
+    "Tailwind CSS",
+    "JavaScript",
+    "Data Visualization"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2619,
+      "sha256": "64d016cf2d5d16cde7c6aed71c0fd816810e1e6a0ced64f7bd9012143eb45486"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7600,
+      "sha256": "e55e49ea05801160d25cd90c0fec6431522e2a4aa3cb0a199d3661253741a7d1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 863,
+      "sha256": "03cc6eda1f30e97f55c166aef402863249376c0e203d97c9c00d47a01a1aa63b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1923,
+      "sha256": "ccf34113cf486f9db50a64880080c58072b3f88cdd4294b013fca78cc39163b7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6821,
+      "sha256": "126d2f5c7bf7b8e4d7d8431d2a7241dc61639dcc9f789193ea26ef9394a3cd7b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "product-grid"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "dashboard-preview",
+  "design": "DESIGN.md"
+}

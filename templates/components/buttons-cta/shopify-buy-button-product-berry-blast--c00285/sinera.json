@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00285",
+  "title": "Shopify Buy Button Product berry blast",
+  "summary": "Embeds a Shopify product widget with cart and modal support using the Shopify Buy Button SDK. Includes custom button typography, responsive product layout, and localized money format for seamless e-commerce integration on any page.",
+  "tags": [
+    "ecommerce",
+    "shopify",
+    "widget",
+    "embedded",
+    "responsive",
+    "button"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5860,
+      "sha256": "7786895386ed5444996f783be5c3e251e5e4a2b6a8707717ed4ffa3b452ef7d5"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2757,
+      "sha256": "f52b67732c6e1bb6e64368aa80ae2ed400a94aa5b26c24683fa488f1fbc73cca"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3738,
+      "sha256": "1633bd44b0685a487c9475ff5c80263de531624f0b942663dc436a81da98cd30"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

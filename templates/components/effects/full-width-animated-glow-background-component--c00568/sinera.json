@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00568",
+  "title": "Full-Width Animated Glow Background Component",
+  "summary": "Renders a full-screen glow background effect powered by Unicorn Studio. Uses Tailwind utility classes for positioning and layering, auto-loads external script, ideal for hero sections or entire page backgrounds requiring subtle animated visuals.",
+  "tags": [
+    "background",
+    "animated",
+    "tailwind",
+    "fullscreen",
+    "effect",
+    "script",
+    "unicornstudio"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10302,
+      "sha256": "41ea59eae53c4ce58ae46e992c2a6c237bce6465c961c025a4218b0dcfb681ca"
+    },
+    {
+      "path": "component.html",
+      "bytes": 627,
+      "sha256": "ada39ec0f8da6dfbd34ab6e1b2a1fda5cf81cc3810f7e7cc27650907640fd3d4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1493,
+      "sha256": "cd67a3fd5d56488b2ec9a0785de74028dcd08402a5c09fe571399e91587abc65"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

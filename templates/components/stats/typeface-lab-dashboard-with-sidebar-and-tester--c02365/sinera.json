@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02365",
+  "title": "Typeface Lab Dashboard with Sidebar and Tester",
+  "summary": "Full-screen typography management UI featuring a sidebar repository, archive header, interactive type tester with size slider, featured font cards, and a master collection list. Styled with Tailwind-like utility classes for dark, modern dashboards.",
+  "tags": [
+    "ui",
+    "dashboard",
+    "sidebar",
+    "interactive",
+    "responsive",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16868,
+      "sha256": "217fc99a3d0b90b225c69ab7e8177ab828bd6f594fdb4becf5765145a84e9309"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12020,
+      "sha256": "4d16e2d7641991e584ff677621c76d5bd3d8aa67a8196384dc868c8991bfd21a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12887,
+      "sha256": "b0432aca179882c5dafb3bfe7d2e16fc859f22a10f2ac8db8af131bae554c82e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

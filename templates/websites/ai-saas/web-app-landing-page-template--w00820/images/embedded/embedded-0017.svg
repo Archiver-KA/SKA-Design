@@ -1,0 +1,19 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none z-0" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+              <linearGradient id="beam-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#6366f1" stop-opacity="0"></stop>
+                <stop offset="50%" stop-color="#818cf8" stop-opacity="0.5"></stop>
+                <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"></stop>
+              </linearGradient>
+            </defs>
+            <!-- Path: Network -> App -->
+            <path d="M 320 250 C 400 250, 400 250, 460 250" stroke="rgba(255,255,255,0.08)" stroke-width="1.5" fill="none" class="hidden md:block"></path>
+            <path d="M 320 250 C 400 250, 400 250, 460 250" stroke="url(#beam-gradient)" stroke-width="2" fill="none" class="hidden md:block noodle-path" stroke-dasharray="10 10"></path>
+
+            <!-- Path: App -> Database -->
+            <path d="M 780 250 C 820 250, 820 180, 880 180" stroke="rgba(255,255,255,0.08)" stroke-width="1.5" fill="none" class="hidden md:block"></path>
+
+            <!-- Path: App -> Cache -->
+            <path d="M 780 250 C 820 250, 820 380, 880 380" stroke="rgba(255,255,255,0.08)" stroke-width="1.5" fill="none" class="hidden md:block"></path>
+            <path d="M 780 250 C 820 250, 820 380, 880 380" stroke="url(#beam-gradient)" stroke-width="2" fill="none" class="hidden md:block noodle-path" stroke-dasharray="8 8" style="animation-duration: 3s;"></path>
+          </svg>

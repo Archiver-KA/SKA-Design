@@ -1,0 +1,38 @@
+{
+  "id": "SN-C02025",
+  "title": "Event Enrollment Pricing Section",
+  "summary": "A premium event enrollment section featuring a 3D ticket mockup, pass details, pricing card, animated heading reveal, and procedural WebGL background. Built with Tailwind CSS, GSAP, and Three.js for modern conference or registration landing pages.",
+  "tags": [
+    "pricing",
+    "section",
+    "tailwind",
+    "gsap",
+    "threejs",
+    "animated",
+    "responsive",
+    "registration"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 39746,
+      "sha256": "8302b68aa13c46fab96a792d4c89fb6cbb475d4749f42de43e7fdbf3a5e955ac"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21249,
+      "sha256": "2e3160d83547d7b018871c5974d8fdcd2142894aaca251b56b0f8b4c48b6eee9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

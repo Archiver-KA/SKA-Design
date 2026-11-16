@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02441",
+  "title": "Animated Brand Ticker Marquee",
+  "summary": "Horizontally scrolling ticker showcasing company names to build social proof. Built with Tailwind utility classes and CSS keyframe animation, fully responsive and hover-interactive—ideal for landing pages or testimonial sections.",
+  "tags": [
+    "ticker",
+    "marquee",
+    "tailwind",
+    "animation",
+    "brand",
+    "carousel",
+    "responsive",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "typography",
+  "categoryLabel": "Text & typography",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4234,
+      "sha256": "ebf0e33158d80f3f47b339db5bc5f0f3dfaa58580f02c24d2e22c5f5624f2636"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3299,
+      "sha256": "2827b56b42703465a101973e4b82d2442aecff40b949223d90e3fb327128904e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4149,
+      "sha256": "5cb6a43ee30bb1ea725eb5e5a0597eee5069c26d80551c013cf1f2f081b77b69"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02310",
+  "title": "Metrics Section with Animated Counters",
+  "summary": "A high-impact performance metrics section featuring animated counters, large background typography, and progress indicators. Built with Tailwind CSS and scroll reveal animations to showcase engagement and conversion statistics.",
+  "tags": [
+    "section",
+    "feature",
+    "metrics",
+    "animated",
+    "responsive",
+    "tailwind",
+    "dark-mode"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12242,
+      "sha256": "67deb23bf556ff21e14877aaaeacfa7d06044bbee5965bd7f26709ca0a506b79"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3469,
+      "sha256": "cf568e4d2a574986ca2ab8b4c8e3dd4a1bb71dcfd6370a41a26cca969554667c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4418,
+      "sha256": "1b88a2fc0fee45ab15115ece53146cc609db45cd76504002dbe6b1cbc06d7493"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01075",
+  "title": "Testimonial Slider with Tailwind and Chart.js",
+  "summary": "Responsive testimonial section featuring auto-rotating quotes, avatars, prev/next controls, pagination dots, and subtle fade animations. Built with Tailwind CSS, vanilla JS, and optional Chart.js line chart integration for showcasing metrics.",
+  "tags": [
+    "testimonial",
+    "slider",
+    "carousel",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "chartjs"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22208,
+      "sha256": "dbf1a1c9a1c1085eb1a4e3c644f9449862bf39eb4d6b7192a21d0bd37d59d048"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10118,
+      "sha256": "6ea36bdcf3fb25cb878da3e66adb54b7739b7171cef4c3f7dcd3c2818705e8e0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10984,
+      "sha256": "a1a44c845235a3aae35beb13a564072feea8f887008d93238e5ec48a5a17a226"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

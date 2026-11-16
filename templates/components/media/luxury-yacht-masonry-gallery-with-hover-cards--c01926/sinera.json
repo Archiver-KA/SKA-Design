@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01926",
+  "title": "Luxury Yacht Masonry Gallery with Hover Cards",
+  "summary": "Responsive masonry gallery showcasing yacht listings. Each Tailwind-styled card features image zoom, gradients, ratings, badges and CTA links, ideal for travel, charter or e-commerce fleet displays. Includes filter and view-all actions.",
+  "tags": [
+    "gallery",
+    "masonry",
+    "listing",
+    "tailwind",
+    "responsive",
+    "hover",
+    "cta",
+    "section"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 61006,
+      "sha256": "d3a3a4fb2bab7925a61ea7ca48f02ed5edbc18086c5082be7669ecc219c0face"
+    },
+    {
+      "path": "component.html",
+      "bytes": 31596,
+      "sha256": "d0fc4f644f1238fa1292243d5176fbffff2cc91e492f7d2747fdd9cbbc80e69c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32592,
+      "sha256": "f1f4012944736e6c35746f56713ab897de592fdd197134b832cefb9e5a75116e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

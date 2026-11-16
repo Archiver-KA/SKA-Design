@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01850",
+  "title": "Featured Image with Overlay",
+  "summary": "An image component with a gradient overlay and centered content area. Great for featured content, call-to-action sections, or hero banners with text overlay.",
+  "tags": [
+    "hero",
+    "overlay",
+    "gradient",
+    "featured",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12902,
+      "sha256": "ebe77f7d91e3a3a20f88bf3901bed8c69adf2bbde75b5d274fb8a65d112ded32"
+    },
+    {
+      "path": "component.html",
+      "bytes": 594,
+      "sha256": "ac39fb87d8e7ca7b432b80a2ee6718c58c57ef08f26c847d5b95d0455ec348d1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1442,
+      "sha256": "b1c71a5c606a776d64e0d109d37cbb6ca4351df3a999ba57c996f3d8cc26eac7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "SN-W04323",
+  "title": "Untitled Design",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3652,
+      "sha256": "a1cbfc4447f5cb2676d7288ffab1b27e62f6219b85e67882eec24ed15e743d6e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17188,
+      "sha256": "8be403486ee4fbc36e0e09935dbc336cf709e0afad49f0d32d7b3543b32b7f40"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 709,
+      "sha256": "e32b92add42d27ad391f34dcf95e8d07372abba3b4582d4b335ec1e94d568e05"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22423,
+      "sha256": "4a50684fcb2773d796b9219e08ca5845e8d2defd0f7c473938c301a981045b65"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "pricing",
+    "video-media",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

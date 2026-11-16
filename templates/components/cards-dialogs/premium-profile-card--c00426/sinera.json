@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00426",
+  "title": "Premium Profile Card",
+  "summary": "Elegant user profile card with gradient background, status indicators, balance display, and premium member badge. Features subtle animations and modern styling.",
+  "tags": [
+    "profile",
+    "user-card",
+    "gradient",
+    "premium",
+    "status",
+    "balance"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4868,
+      "sha256": "cdffe1e7dd65c8164fa039b104c553d6999adb78471ad1c9db5debabbae8c306"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2244,
+      "sha256": "10faf28c89ff7c5c25f8848e0c291ac49baa7d26183864be84af9c5d5e59e053"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3085,
+      "sha256": "9efddfa80ad36d56bbeb7d09948ffb3c5c1070e9d93f30ddc1337e5d21da59cc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,10 @@
+<svg viewBox="0 0 180 80" class="w-full h-full" preserveAspectRatio="none">
+                      <defs>
+                          <linearGradient id="chartFill" x1="0" y1="0" x2="0" y2="1">
+                              <stop offset="0%" stop-color="#00C2FF" stop-opacity="0.3"></stop>
+                              <stop offset="100%" stop-color="#00C2FF" stop-opacity="0"></stop>
+                          </linearGradient>
+                      </defs>
+                      <path d="M0 80 L0 50 Q 20 60, 40 40 T 80 30 T 120 40 T 160 20 L 180 30 L 180 80 Z" fill="url(#chartFill)"></path>
+                      <path d="M0 50 Q 20 60, 40 40 T 80 30 T 120 40 T 160 20 L 180 30" fill="none" stroke="#00C2FF" stroke-width="2"></path>
+                   </svg>

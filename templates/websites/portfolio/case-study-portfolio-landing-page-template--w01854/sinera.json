@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01854",
+  "title": "Case Study Portfolio Landing Page Template",
+  "summary": "A dark, strategic case study landing page template for agencies and studios to showcase results-driven client work and convert new project leads.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Grid",
+    "Large Type",
+    "Portfolio",
+    "Case Studies"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3606,
+      "sha256": "1cffaac330d3f50640be4cd8e26dbfc4d5526f369e0a90ba18ffac32ef511ad0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11308,
+      "sha256": "939895778d7029821924681fa797391f068059b02e541ccfec29303dd7a4b1f3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "be56fc653697f22678fba700bb2ab089f7cac62a0b549b6bc515d5e6e7178b8c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26408,
+      "sha256": "b93ab8fde51f7935fbafe3efc6dcd80339ec8341de4a1c4959ceea8f52fd51eb"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

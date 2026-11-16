@@ -1,0 +1,69 @@
+{
+  "id": "SN-W02145",
+  "title": "One Slide Website Landing Page Template",
+  "summary": "A reusable one-slide website landing page template for freelancers and small businesses to showcase services, pricing, and CTAs with a bold, modern design.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3690,
+      "sha256": "205e44d7f1cc4b87b6c107308ef23a423cc4eef219c7070335df8b2257a743f7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2316,
+      "sha256": "8a05e7d0fc4130658d1ac1b80316b272cbec2cb39d2c163aca00a0088e5223cd"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 810,
+      "sha256": "c6954bb8ff7c6aeb6fb23cf1c5bcab15957098907859e372f39097115859cfe7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30584,
+      "sha256": "387a897cf6b917aa85e81ecb31acd12761df699876a7a45395efa09ef21c2c82"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "navbar",
+    "hero",
+    "services",
+    "pricing",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

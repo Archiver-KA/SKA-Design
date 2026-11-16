@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01192",
+  "title": "Sticky Responsive Navigation Bar with Mobile Menu",
+  "summary": "Sticky top navigation bar with logo, desktop links, and a prominent CTA button. Includes a toggleable mobile menu, smooth hover effects, and Tailwind-style utility classes. Ideal for marketing sites or service businesses needing a responsive header.",
+  "tags": [
+    "menu",
+    "navigation",
+    "responsive",
+    "sticky",
+    "interactive",
+    "tailwind",
+    "header"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5870,
+      "sha256": "f1802e5d12183d6af21c38a947c5d941372103edc2f8215ef560df82f286882c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3919,
+      "sha256": "85eb430ed3c3ec28f9a0e9231eb8ed5d0ad05cc09272a2b918bab26a5ccd4264"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4863,
+      "sha256": "e016a2eac2a5422514deaedc079e466d1f0c16ce8e70183336b6ed59311fbd10"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

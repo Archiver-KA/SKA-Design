@@ -1,0 +1,13 @@
+<svg viewBox="0 0 200 100" class="w-full h-full">
+                            <line x1="0" y1="20" x2="200" y2="20" stroke="#333" stroke-width="1" stroke-dasharray="4"></line>
+                            <line x1="0" y1="50" x2="200" y2="50" stroke="#333" stroke-width="1" stroke-dasharray="4"></line>
+                            <line x1="0" y1="80" x2="200" y2="80" stroke="#333" stroke-width="1" stroke-dasharray="4" class=""></line>
+                            <polyline points="10,80 50,50 90,60 130,20 180,30" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linejoin="round" class=""></polyline>
+                            <path transform="translate(10, 80)" d="M0 -3 L2.6 -1.5 V1.5 L0 3 L-2.6 1.5 V-1.5 Z" fill="#0F0F0F" stroke="#FFFFFF" stroke-width="1.5"></path>
+                            <path transform="translate(50, 50)" d="M0 -3 L2.6 -1.5 V1.5 L0 3 L-2.6 1.5 V-1.5 Z" fill="#0F0F0F" stroke="#FFFFFF" stroke-width="1.5"></path>
+                            <path transform="translate(90, 60)" d="M0 -3 L2.6 -1.5 V1.5 L0 3 L-2.6 1.5 V-1.5 Z" fill="#0F0F0F" stroke="#FFFFFF" stroke-width="1.5"></path>
+                            <g transform="translate(130, 20)">
+                                <path d="M0 -5 L4.3 -2.5 V2.5 L0 5 L-4.3 2.5 V-2.5 Z" fill="#E0FF00" stroke="#E0FF00" stroke-width="1.5"></path>
+                            </g>
+                            <path transform="translate(180, 30)" d="M0 -3 L2.6 -1.5 V1.5 L0 3 L-2.6 1.5 V-1.5 Z" fill="#0F0F0F" stroke="#FFFFFF" stroke-width="1.5"></path>
+                        </svg>

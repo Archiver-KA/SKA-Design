@@ -1,0 +1,72 @@
+{
+  "id": "SN-W01803",
+  "title": "Architecture Portfolio Landing Page Template",
+  "summary": "A refined architecture and interior design portfolio landing page template for showcasing spatial projects, services, and inquiries with a minimalist editorial aesthetic.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Interior Design",
+    "Brand",
+    "Minimal",
+    "Clean",
+    "Large Type",
+    "Gradient",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3327,
+      "sha256": "981ab0f0a5ad4a3491e3c96095b5948c4c018cf03febc537668938f1f9d8c140"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14214,
+      "sha256": "23d738361b422a5bae51782a75f61f248a0795f319e4a795bcb82d4fcf8cee61"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 954,
+      "sha256": "61fa14276a676272ddcdd9cceb10cbb5ca152f28ddc34c8baa08002d0e802bc4"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 4,
+      "sha256": "891b1e15b4ec667c0c14f05c3a5f415c3eee32fb15e2204d20cdc0e7a2168e7e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27049,
+      "sha256": "7120f5261b61a1840e8b3f2f51d906b8c089e20cc5dcdbcec0473aebd8da4699"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "gallery-portfolio",
+    "services",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

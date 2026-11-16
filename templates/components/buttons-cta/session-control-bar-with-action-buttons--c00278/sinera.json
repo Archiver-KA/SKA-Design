@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00278",
+  "title": "Session Control Bar with Action Buttons",
+  "summary": "Horizontal session control bar with primary play/join button, session status text, and a set of circular icon buttons for call and widget actions. Tailwind-style utility classes, suitable for live events, meetings, or webinar interfaces.",
+  "tags": [
+    "card",
+    "tailwind",
+    "toolbar",
+    "session",
+    "controls",
+    "buttons",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2254,
+      "sha256": "85e01fee2ee44dc21dd9ae0e346fc26cb8163d74608ba3f1ab397cbf28cbce37"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5456,
+      "sha256": "32408d92688e8b0ba19a6e4e94351c44da61989fca527e0a1a7139d6e32aa582"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6316,
+      "sha256": "c851e1873c8714eaeaaefa05772f5535b7b29cb6b8e274ae33b291bf83cfc1de"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

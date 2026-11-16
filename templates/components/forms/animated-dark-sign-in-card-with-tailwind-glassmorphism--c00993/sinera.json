@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00993",
+  "title": "Animated Dark Sign-In Card with Tailwind Glassmorphism",
+  "summary": "Secure login form with email, password, remember-me, and GitHub OAuth button. Features rotating blur gradients, glassmorphism border, hover effects, and full Tailwind CSS styling for responsive dark-mode auth pages.",
+  "tags": [
+    "form",
+    "login",
+    "tailwind",
+    "card",
+    "dark mode",
+    "animated",
+    "glassmorphism",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8610,
+      "sha256": "1bda3d253bb1717c98b737cc9244b6432ba6229f98bc1049493eb72215811edd"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10056,
+      "sha256": "01ff50e6dd2b85a97baa120f9cc7da6d03593ef16aa8c492c825a908ba56ce17"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10931,
+      "sha256": "15af9c96473ec2e7781a357f2999d171ca3f000b46143d952b7d31091cc1c11d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

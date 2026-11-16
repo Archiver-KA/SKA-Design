@@ -1,0 +1,77 @@
+{
+  "id": "SN-W01094",
+  "title": "Artisanal Pastry Shop Landing Page Template",
+  "summary": "A refined, citrus-themed artisanal bakery template designed to showcase gourmet pastries with elegant typography and conversion-optimized product cards.",
+  "tags": [
+    "Food",
+    "Landing Page",
+    "Services",
+    "Clean",
+    "Colorful",
+    "Minimal",
+    "Style"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3304,
+      "sha256": "68c80b824ba0f0c8168b00770b83285a2dca9736cd508ad1946050dcc49d1e32"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15522,
+      "sha256": "8b41f8080532d48a40628506e79d114e3c3c80e52f61f3dd4ba0d9babb19b80e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1156,
+      "sha256": "eac046173c17687a1275a2d975a9857995acf055e4c6f39adda1ce98df44b722"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 524,
+      "sha256": "a10d86cc4072ea4d2c5df37dbd36baa8b5fbba771520b7228ee05453246efeb6"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 352,
+      "sha256": "7a3cca99a8e246594d81ce49526afa03e359d1b5cb92bf08ea809e1cf4d270b9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 47319,
+      "sha256": "362432d0d5f17ec6f3a37d447fcde322650484618e81c734df780f2c3bd9f71d"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "testimonials",
+    "cta",
+    "gallery-portfolio",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

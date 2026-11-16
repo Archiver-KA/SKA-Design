@@ -1,0 +1,245 @@
+<!doctype html>
+<html lang="es" data-theme="dwell">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Architecture and Interior Design Landing Page Template</title>
+<meta name="description" content="Landing page para estudios de arquitectura e interiorismo: índice de proyectos en cuadrícula, proceso de trabajo claro y formulario de briefing.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Be+Vietnam+Pro:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config = {
+  theme: { extend: {
+    colors: { ground:'var(--sa-ground)', surface:'var(--sa-surface)', ink:'var(--sa-ink)', muted:'var(--sa-muted)', line:'var(--sa-line)', accent:'var(--sa-accent)', onaccent:'var(--sa-on-accent)', accent2:'var(--sa-accent-2)', onaccent2:'var(--sa-on-accent-2)' },
+    fontFamily: { display:['Fraunces','system-ui','serif'], body:['"Be Vietnam Pro"','system-ui','sans-serif'] }
+  } }
+}
+</script>
+<style>
+[data-theme="dwell"] {
+  --sa-ground: #F3F1EC; --sa-surface: #FBFAF7; --sa-ink: #1D1B1A; --sa-muted: #5F5A54; --sa-line: #DAD5CB;
+  --sa-accent: #1F4D3A; --sa-on-accent: #FBFAF7; --sa-accent-2: #C99A3B; --sa-on-accent-2: #1D1B1A;
+  --sa-font-display: "Fraunces", system-ui, sans-serif; --sa-font-body: "Be Vietnam Pro", system-ui, sans-serif;
+  --sa-radius-control: 2px; --sa-radius-card: 2px; --sa-display-case: none;
+  color-scheme: light; background: var(--sa-ground); color: var(--sa-ink); font-family: var(--sa-font-body);
+}
+body { background: var(--sa-ground); color: var(--sa-ink); font-family: var(--sa-font-body); font-size:16px; line-height:1.65; }
+h1,h2,h3 { font-family: var(--sa-font-display); text-wrap: balance; letter-spacing:-0.02em; }
+.btn { display:inline-flex; align-items:center; justify-content:center; gap:8px; min-height:48px; padding:0 22px; border:0; border-radius:2px; background:var(--sa-accent); color:var(--sa-on-accent); font:600 15px/1 var(--sa-font-body); text-decoration:none; cursor:pointer; }
+.btn:hover { background:#173a2b; }
+.btn-ghost { background:transparent; color:var(--sa-ink); box-shadow:inset 0 0 0 1px var(--sa-ink); }
+.btn-ghost:hover { background:var(--sa-ink); color:var(--sa-surface); }
+:focus-visible { outline:2px solid var(--sa-ink); outline-offset:3px; }
+.ph { position:relative; background:
+  linear-gradient(var(--sa-line),var(--sa-line)) 50% 0/1px 100% no-repeat,
+  linear-gradient(var(--sa-line),var(--sa-line)) 0 50%/100% 1px no-repeat, #ECE9E1;
+  border:1px solid var(--sa-line); display:flex; align-items:flex-end; }
+.ph span { margin:12px; padding:4px 8px; background:var(--sa-surface); color:var(--sa-muted); font-size:12px; line-height:1.4; border:1px solid var(--sa-line); }
+.num { font-family:var(--sa-font-display); font-weight:500; line-height:.9; font-variant-numeric:lining-nums; }
+.row { transition:background-color .2s; }
+.row:hover { background:var(--sa-surface); }
+.field { display:block; width:100%; min-height:48px; padding:0 12px; background:var(--sa-surface); border:1px solid var(--sa-ink); border-radius:2px; font:400 16px var(--sa-font-body); color:var(--sa-ink); }
+textarea.field { padding:10px 12px; min-height:110px; }
+details > summary { list-style:none; cursor:pointer; min-height:56px; display:flex; align-items:center; justify-content:space-between; gap:16px; }
+details > summary::-webkit-details-marker { display:none; }
+details[open] .plus { transform:rotate(45deg); }
+.plus { transition:transform .2s; }
+@media (prefers-reduced-motion: reduce){ .plus,.row{transition:none} }
+</style>
+</head>
+<body>
+
+<a href="#main" class="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:bg-surface focus:p-3">Saltar al contenido</a>
+
+<header class="sticky top-0 z-40 bg-ground border-b border-ink">
+  <div class="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
+    <a href="#" class="font-display text-xl font-semibold inline-flex items-center min-h-[44px]">[NOMBRE DEL ESTUDIO]</a>
+    <nav aria-label="Principal" class="hidden md:flex gap-8 text-[15px]">
+      <a href="#du-an" class="hover:underline underline-offset-4">Proyectos</a>
+      <a href="#dich-vu" class="hover:underline underline-offset-4">Servicios</a>
+      <a href="#quy-trinh" class="hover:underline underline-offset-4">Proceso</a>
+      <a href="#hoi-dap" class="hover:underline underline-offset-4">Preguntas</a>
+    </nav>
+    <div class="flex items-center gap-2">
+      <a href="#brief" class="btn hidden sm:inline-flex">Enviar briefing del proyecto</a>
+      <button id="menuBtn" class="md:hidden w-11 h-11 inline-flex items-center justify-center border border-line" aria-label="Abrir menú" aria-expanded="false" aria-controls="mobileNav">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+      </button>
+    </div>
+  </div>
+  <nav id="mobileNav" aria-label="Móvil" class="hidden md:hidden border-t border-line bg-surface px-4 py-2">
+    <a href="#du-an" class="flex items-center min-h-[48px]">Proyectos</a>
+    <a href="#dich-vu" class="flex items-center min-h-[48px]">Servicios</a>
+    <a href="#quy-trinh" class="flex items-center min-h-[48px]">Proceso</a>
+    <a href="#hoi-dap" class="flex items-center min-h-[48px]">Preguntas</a>
+    <a href="#brief" class="btn w-full my-2">Enviar briefing del proyecto</a>
+  </nav>
+</header>
+
+<main id="main">
+
+<!-- HERO: chữ khổng lồ trên lưới kẻ, cột chú thích kiểu bản vẽ -->
+<section class="border-b border-ink">
+  <div class="max-w-6xl mx-auto px-4 pt-12 md:pt-20 pb-0">
+    <p class="text-sm text-muted tracking-wide">Estudio de arquitectura e interiorismo · [CIUDAD] · Fundado en [AÑO]</p>
+    <h1 class="mt-6 text-[44px] leading-[1.02] sm:text-7xl lg:text-[112px] font-medium">Espacios<br class="hidden sm:block"> dibujados <em class="not-italic text-accent">para vivir</em>.</h1>
+    <div class="mt-10 grid md:grid-cols-12 gap-0 border-t border-line">
+      <p class="md:col-span-5 py-6 md:pr-8 text-lg text-muted">Diseñamos viviendas, apartamentos y locales comerciales desde el primer boceto hasta la entrega de obra, con un único responsable de principio a fin.</p>
+      <div class="md:col-span-3 py-6 md:px-8 md:border-l border-line text-[15px]"><p class="text-muted">Aceptamos</p><p class="mt-1 font-medium">Viviendas, chalets, apartamentos, oficinas y tiendas</p></div>
+      <div class="md:col-span-4 py-6 md:pl-8 md:border-l border-line flex flex-col gap-3 justify-center">
+        <a href="#brief" class="btn">Enviar briefing del proyecto</a>
+        <a href="#du-an" class="btn btn-ghost">Ver proyectos realizados</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- BẰNG CHỨNG: dải ảnh dự án -->
+<section class="py-14 md:py-24" aria-labelledby="h-proof">
+  <div class="max-w-6xl mx-auto px-4">
+    <h2 id="h-proof" class="sr-only">Algunas de nuestras obras</h2>
+    <div class="grid grid-cols-2 md:grid-cols-12 gap-3">
+      <div class="ph col-span-2 md:col-span-7 aspect-[16/10]"><span>Foto de una obra destacada, 16:10</span></div>
+      <div class="ph md:col-span-3 aspect-[3/4]"><span>Detalle de materiales, 3:4</span></div>
+      <div class="ph md:col-span-2 aspect-[3/4]"><span>Detalle, 3:4</span></div>
+    </div>
+    <figure class="mt-10 md:ml-[calc(100%/12*5)] max-w-xl border-t-2 border-ink pt-5">
+      <blockquote class="font-display text-2xl leading-snug">“[CITA DEL CLIENTE: sobre si la casa quedó como en los planos, en plazo y dentro del presupuesto.]”</blockquote>
+      <figcaption class="mt-3 text-sm text-muted">[NOMBRE, CARGO] · [TIPO DE OBRA]</figcaption>
+    </figure>
+  </div>
+</section>
+
+<!-- DỰ ÁN: bảng chỉ mục -->
+<section id="du-an" class="py-14 md:py-24 bg-surface border-y border-line">
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="md:flex items-end justify-between gap-6 mb-10">
+      <h2 class="text-3xl md:text-5xl font-medium max-w-xl">Índice de proyectos</h2>
+      <p class="text-muted max-w-sm mt-3 md:mt-0">Cada fila es un expediente completo: planos, fotos de la obra terminada, materiales y coste orientativo.</p>
+    </div>
+    <ul class="border-t border-ink">
+      <li><a href="#brief" class="row grid grid-cols-[56px_1fr] md:grid-cols-[96px_1.4fr_1fr_1fr_40px] items-center gap-x-4 py-5 border-b border-line min-h-[64px]">
+        <span class="num text-3xl md:text-5xl text-accent">01</span>
+        <span class="font-display text-xl md:text-2xl">[NOMBRE DEL PROYECTO 1]</span>
+        <span class="text-muted text-sm col-start-2 md:col-start-auto">Vivienda · [SUPERFICIE]</span>
+        <span class="text-muted text-sm col-start-2 md:col-start-auto">[LUGAR], [AÑO]</span>
+        <svg class="hidden md:block" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+      </a></li>
+      <li><a href="#brief" class="row grid grid-cols-[56px_1fr] md:grid-cols-[96px_1.4fr_1fr_1fr_40px] items-center gap-x-4 py-5 border-b border-line min-h-[64px]">
+        <span class="num text-3xl md:text-5xl text-accent">02</span>
+        <span class="font-display text-xl md:text-2xl">[NOMBRE DEL PROYECTO 2]</span>
+        <span class="text-muted text-sm col-start-2 md:col-start-auto">Apartamento · [SUPERFICIE]</span>
+        <span class="text-muted text-sm col-start-2 md:col-start-auto">[LUGAR], [AÑO]</span>
+        <svg class="hidden md:block" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+      </a></li>
+      <li><a href="#brief" class="row grid grid-cols-[56px_1fr] md:grid-cols-[96px_1.4fr_1fr_1fr_40px] items-center gap-x-4 py-5 border-b border-line min-h-[64px]">
+        <span class="num text-3xl md:text-5xl text-accent">03</span>
+        <span class="font-display text-xl md:text-2xl">[NOMBRE DEL PROYECTO 3]</span>
+        <span class="text-muted text-sm col-start-2 md:col-start-auto">Chalet · [SUPERFICIE]</span>
+        <span class="text-muted text-sm col-start-2 md:col-start-auto">[LUGAR], [AÑO]</span>
+        <svg class="hidden md:block" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+      </a></li>
+      <li><a href="#brief" class="row grid grid-cols-[56px_1fr] md:grid-cols-[96px_1.4fr_1fr_1fr_40px] items-center gap-x-4 py-5 border-b border-line min-h-[64px]">
+        <span class="num text-3xl md:text-5xl text-accent">04</span>
+        <span class="font-display text-xl md:text-2xl">[NOMBRE DEL PROYECTO 4]</span>
+        <span class="text-muted text-sm col-start-2 md:col-start-auto">Tienda · [SUPERFICIE]</span>
+        <span class="text-muted text-sm col-start-2 md:col-start-auto">[LUGAR], [AÑO]</span>
+        <svg class="hidden md:block" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+      </a></li>
+    </ul>
+  </div>
+</section>
+
+<!-- DỊCH VỤ -->
+<section id="dich-vu" class="py-14 md:py-24">
+  <div class="max-w-6xl mx-auto px-4 grid md:grid-cols-12 gap-10">
+    <div class="md:col-span-4">
+      <h2 class="text-3xl md:text-5xl font-medium md:sticky md:top-24">Tres servicios: elige el que necesitas.</h2>
+    </div>
+    <div class="md:col-span-8 border-t border-ink">
+      <article class="grid sm:grid-cols-[1fr_2fr] gap-3 py-7 border-b border-line">
+        <h3 class="font-display text-2xl">Diseño arquitectónico</h3>
+        <p class="text-muted">Distribución, fachadas, luz natural y ventilación. Recibes el proyecto para la licencia de obra y los planos técnicos de ejecución. Honorarios: [TU PRECIO].</p>
+      </article>
+      <article class="grid sm:grid-cols-[1fr_2fr] gap-3 py-7 border-b border-line">
+        <h3 class="font-display text-2xl">Interiorismo</h3>
+        <p class="text-muted">Mobiliario, materiales, iluminación, cortinas y armarios a medida. Incluye renders 3D para aprobar antes de empezar. Honorarios: [TU PRECIO].</p>
+      </article>
+      <article class="grid sm:grid-cols-[1fr_2fr] gap-3 py-7 border-b border-line">
+        <h3 class="font-display text-2xl">Dirección y ejecución de obra</h3>
+        <p class="text-muted">Dirigimos la obra como autores del proyecto o la ejecutamos llave en mano, con informe semanal de avance en fotos. Honorarios: [TU PRECIO].</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- QUY TRÌNH -->
+<section id="quy-trinh" class="py-14 md:py-24 bg-accent text-onaccent">
+  <div class="max-w-6xl mx-auto px-4">
+    <h2 class="text-3xl md:text-5xl font-medium max-w-2xl">De la primera reunión al día de entrega de llaves.</h2>
+    <ol class="mt-12 grid md:grid-cols-4 gap-0 border-t border-white/40">
+      <li class="py-6 md:pr-6"><span class="num text-5xl block">1</span><h3 class="font-display text-xl mt-4">Visita y briefing</h3><p class="mt-2 opacity-90 text-[15px]">Visitamos el espacio, tomamos medidas y escuchamos tus necesidades y tu presupuesto.</p></li>
+      <li class="py-6 md:px-6 md:border-l border-white/40"><span class="num text-5xl block">2</span><h3 class="font-display text-xl mt-4">Anteproyecto</h3><p class="mt-2 opacity-90 text-[15px]">Dos propuestas de distribución y volumetría para que compares y opines.</p></li>
+      <li class="py-6 md:px-6 md:border-l border-white/40"><span class="num text-5xl block">3</span><h3 class="font-display text-xl mt-4">Proyecto técnico</h3><p class="mt-2 opacity-90 text-[15px]">Planos de detalle, cuadro de materiales y mediciones para que los constructores presupuesten con precisión.</p></li>
+      <li class="py-6 md:pl-6 md:border-l border-white/40"><span class="num text-5xl block">4</span><h3 class="font-display text-xl mt-4">Obra y entrega</h3><p class="mt-2 opacity-90 text-[15px]">Supervisión en obra y recepción de cada partida antes de la entrega.</p></li>
+    </ol>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section id="hoi-dap" class="py-14 md:py-24">
+  <div class="max-w-3xl mx-auto px-4">
+    <h2 class="text-3xl md:text-5xl font-medium">Preguntas frecuentes</h2>
+    <div class="mt-8 border-t border-ink">
+      <details class="border-b border-line"><summary class="font-medium">¿Cómo se calculan los honorarios?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted">[TU FORMA DE COBRO: por m2 construido, porcentaje sobre el coste de obra o precio cerrado]. Presupuesto por escrito tras la primera visita.</p></details>
+      <details class="border-b border-line"><summary class="font-medium">¿Cuánto dura un proyecto?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted">El diseño de una vivienda suele llevar [NÚMERO] semanas y la obra [NÚMERO] meses. El calendario concreto figura en el contrato.</p></details>
+      <details class="border-b border-line"><summary class="font-medium">¿Puedo contratar solo el interiorismo?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted">Sí. Puedes contratar cada servicio por separado o combinarlos.</p></details>
+      <details class="border-b border-line"><summary class="font-medium">¿Trabajáis en otras provincias?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted">[TU ÁMBITO DE TRABAJO].</p></details>
+    </div>
+  </div>
+</section>
+
+<!-- CTA CUỐI + BRIEF -->
+<section id="brief" class="py-14 md:py-24 bg-surface border-t border-ink">
+  <div class="max-w-6xl mx-auto px-4 grid md:grid-cols-12 gap-10">
+    <div class="md:col-span-5">
+      <h2 class="text-3xl md:text-5xl font-medium">Cuéntanos cómo imaginas tu espacio.</h2>
+      <p class="mt-4 text-muted">Escribe unas líneas y te respondemos en [NÚMERO] días laborables para concertar la primera visita.</p>
+    </div>
+    <form class="md:col-span-7 grid gap-4" onsubmit="event.preventDefault();document.getElementById('sent').hidden=false;">
+      <div class="grid sm:grid-cols-2 gap-4">
+        <div><label for="n" class="block text-sm font-medium mb-1">Nombre y apellidos</label><input id="n" class="field" autocomplete="name"></div>
+        <div><label for="p" class="block text-sm font-medium mb-1">Teléfono</label><input id="p" type="tel" class="field" autocomplete="tel"></div>
+      </div>
+      <div><label for="t" class="block text-sm font-medium mb-1">Tipo de proyecto</label>
+        <select id="t" class="field"><option>Vivienda</option><option>Chalet</option><option>Apartamento</option><option>Oficina / tienda</option></select></div>
+      <div><label for="m" class="block text-sm font-medium mb-1">Breve descripción</label><textarea id="m" class="field"></textarea></div>
+      <div><button class="btn w-full sm:w-auto" type="submit">Enviar briefing del proyecto</button></div>
+      <p id="sent" hidden role="status" class="text-sm text-muted">Formulario de ejemplo: conéctalo con tu sistema de recepción de contactos.</p>
+    </form>
+  </div>
+</section>
+</main>
+
+<footer class="border-t border-ink py-10">
+  <div class="max-w-6xl mx-auto px-4 grid md:grid-cols-3 gap-8 text-[15px]">
+    <div><p class="font-display text-xl font-semibold">[NOMBRE DEL ESTUDIO]</p><p class="text-muted mt-2">[DIRECCIÓN]</p></div>
+    <div><p class="font-medium">Contacto</p><p class="text-muted mt-2">[TELÉFONO]<br>[EMAIL]</p></div>
+    <div><p class="font-medium">Índice</p><ul class="mt-2 text-muted"><li><a class="inline-flex min-h-[44px] items-center hover:underline" href="#du-an">Proyectos</a></li><li><a class="inline-flex min-h-[44px] items-center hover:underline" href="#quy-trinh">Proceso</a></li></ul></div>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var b=document.getElementById('menuBtn'), n=document.getElementById('mobileNav');
+  b.addEventListener('click',function(){
+    var open=n.classList.toggle('hidden')===false;
+    b.setAttribute('aria-expanded',open); b.setAttribute('aria-label',open?'Cerrar menú':'Abrir menú');
+  });
+  n.addEventListener('click',function(e){ if(e.target.tagName==='A'){ n.classList.add('hidden'); b.setAttribute('aria-expanded','false'); } });
+})();
+</script>
+</body>
+</html>

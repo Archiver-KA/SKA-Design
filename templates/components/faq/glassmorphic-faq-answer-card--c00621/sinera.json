@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00621",
+  "title": "Glassmorphic FAQ Answer Card",
+  "summary": "Gradient glassmorphism card featuring category badge, question heading, concise answer text, and CTA button. Uses Tailwind utility classes; ideal for FAQ sections, help centers, or knowledge bases.",
+  "tags": [
+    "card",
+    "faq",
+    "tailwind",
+    "glassmorphism",
+    "gradient",
+    "responsive",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "faq",
+  "categoryLabel": "FAQ & accordions",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7220,
+      "sha256": "fbbb204a0e09a7e458088ed8bfb3771c5af1ad705326cd2dc9baf4046949a7e2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1864,
+      "sha256": "882a728b5bc986aa7bb4ea3914a365afdbe2a818b0af43c932af589cfa761a94"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2713,
+      "sha256": "951e8f1cf4efa95c53b5ecb657411abf803df7bf7b2ca934c3a35025ab79617c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

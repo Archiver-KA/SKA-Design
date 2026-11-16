@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00348",
+  "title": "Element Selection Card with Library & Drag-Drop Upload",
+  "summary": "Responsive step panel built with Tailwind CSS that lets users choose predefined UI elements or upload assets via drag-and-drop. Suited for multi-step builders, onboarding wizards, and animation or design editors.",
+  "tags": [
+    "card",
+    "wizard",
+    "step",
+    "uploader",
+    "drag-drop",
+    "tailwindcss",
+    "responsive",
+    "ui-library"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8314,
+      "sha256": "e7a6828c0ab0bb6d39a17c870f0d26d1e4d6719016f59ab2b299e6872a7ab808"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2389,
+      "sha256": "5a511580f473eaadf5d994fbdeb64676bb7ff31f3fb642007c40c3ea3284b294"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3398,
+      "sha256": "77e7e0fd7e0866c4a1fd7811106337145ed4bee6a3311ea8cf185d283446e663"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

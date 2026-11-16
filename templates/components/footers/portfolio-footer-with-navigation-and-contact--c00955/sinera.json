@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00955",
+  "title": "Portfolio Footer with Navigation and Contact",
+  "summary": "Full-width portfolio footer featuring brand name, background typographic watermark, navigation menu, tools list, contact call-to-action, and availability status. Uses utility classes (Tailwind-style) and responsive grid layout for personal or portfolio sites.",
+  "tags": [
+    "footer",
+    "navigation",
+    "portfolio",
+    "responsive",
+    "tailwind",
+    "contact"
+  ],
+  "kind": "components",
+  "category": "footers",
+  "categoryLabel": "Footers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9170,
+      "sha256": "3ec8231c74ffbe87cfa586e3d36e9b9df2c75f27c65b9acd604e33a9928cc911"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3735,
+      "sha256": "7a86415228ad582461699729b2a6e59b969b12bb075ba074d569929178fdde9c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4600,
+      "sha256": "03e45a2a57d230e01c88ca21189aaa82ff936285ae219023e93747be28195c9d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

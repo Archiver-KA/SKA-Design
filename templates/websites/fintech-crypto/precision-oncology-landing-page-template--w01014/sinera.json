@@ -1,0 +1,79 @@
+{
+  "id": "SN-W01014",
+  "title": "Precision Oncology Landing Page Template",
+  "summary": "A reusable biotech landing page template for precision oncology companies to showcase clinical data, pipeline progress, publications, and partner inquiries.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Technology",
+    "Clean",
+    "Minimal",
+    "Brand",
+    "biotech",
+    "oncology",
+    "clinical trials",
+    "investor relations"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3807,
+      "sha256": "c1586b658553965d77bbc7c4249f220d4f12ea5ff7fa70cf92624fc40828aa6f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17834,
+      "sha256": "5b55cfcb910db7c89869690e2d891e78cbead9257765f085e957fbf4f27f0dcb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1104,
+      "sha256": "9fa7c4d1998a6300ef287983db72e12a743f5e0a5613a03fcb23fe261d9e2da2"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 165,
+      "sha256": "056d00be1429e645203a6f3b1897806162612a0631057b2baa873585748bdb25"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 255,
+      "sha256": "1cdd07e30654669a35a6f3f8bc096102c9d44e1b927962d19e4912462fcbbd4c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 55437,
+      "sha256": "1d0c090a06ea1c8a7bc0fd2b8f74c236a37b9e7039912039b37f7f7dd3af823d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "3d-canvas",
+    "services",
+    "team",
+    "features",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

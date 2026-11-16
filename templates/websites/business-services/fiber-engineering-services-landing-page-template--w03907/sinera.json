@@ -1,0 +1,77 @@
+{
+  "id": "SN-W03907",
+  "title": "Fiber Engineering Services Landing Page Template",
+  "summary": "A modern landing page template for fiber optic and OSP engineering service companies to showcase offerings, credibility, and capture project inquiries.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Engineering",
+    "Fiber Optic"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3732,
+      "sha256": "0ceb71dd6b793b4532d198c0745deadbe284594965b17bbe8c2f08bd7e708186"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 28852,
+      "sha256": "57cdd6747680ee78015d6a12231c762cd2d149c07cb5152db999b21e645fd45e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1080,
+      "sha256": "2f056269088a8a5fd14ebc5fe6ef5b15751abee081536d5b530c16da1463e3e6"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 266,
+      "sha256": "074ed0506eccb0e042d707a916bd688adc9900bd78096464344d56a5b79d15eb"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 595,
+      "sha256": "432233d2b5c49264d66ef4f8d2bab08f007d8a0d787efbfab1745933ce574c99"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27517,
+      "sha256": "71baea60f3c2ab4e214637a0efc578b86b49881374547fa52b00e75487e2523d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

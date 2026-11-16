@@ -1,0 +1,77 @@
+{
+  "id": "SN-W02067",
+  "title": "Kerim",
+  "summary": "A dark, cinematic studio website template for creative agencies to showcase digital experiences, portfolio work, and service expertise.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Art & Design",
+    "Portfolio",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Technology",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3833,
+      "sha256": "eea04bdf315d5255da46f431e888f31d993e12b2a4e4c710e73195ebe400bdfc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17476,
+      "sha256": "d15a24b54bafc5291a57095f6d8b699035c14fb4ca00a6f9330cba4c943853f5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1029,
+      "sha256": "7567893c88fcb5daa30ebb646bc807e644aa472934289e5715ef0654da8f1bde"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 269,
+      "sha256": "56966ece18ea30859083b5d1c03364fa273ddd0586c70c9d7e30e8484491d2b3"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 288,
+      "sha256": "c1bb97d058b20023b69854b52e34ea89f007893059bc4534712703c1ddcde42a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 46212,
+      "sha256": "350de4aafd3f4158dd8cbbf68111eed6ced3a1109e5e0a830ce3d557f9c5cd46"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "case-studies",
+    "about",
+    "video-media",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

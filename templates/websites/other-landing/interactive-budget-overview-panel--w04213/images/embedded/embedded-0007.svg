@@ -1,0 +1,10 @@
+<svg class="w-full h-full" viewBox="-1 -1 102 32" preserveAspectRatio="none">
+                                    <path class="chart-line" d="${item.path}" fill="none" stroke="${colorClass}" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+                                    <path class="chart-fill" d="${item.path} V30 H0 Z" fill="url(#${gradientId})"/>
+                                    <defs>
+                                        <linearGradient id="${gradientId}" x1="0%" y1="0%" x2="0%" y2="100%">
+                                            <stop offset="0%" stop-color="${colorClass}"/>
+                                            <stop offset="100%" stop-color="${colorClass}" stop-opacity="0"/>
+                                        </linearGradient>
+                                    </defs>
+                                </svg>

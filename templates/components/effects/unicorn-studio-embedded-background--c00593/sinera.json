@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00593",
+  "title": "Unicorn Studio Embedded Background",
+  "summary": "A fixed-size embed container that loads and initializes a Unicorn Studio project via CDN script. Useful for animated visual backgrounds, interactive canvas effects, or decorative landing page visuals in HTML-based layouts.",
+  "tags": [
+    "ui",
+    "unicorn",
+    "embed",
+    "animated",
+    "interactive",
+    "html",
+    "background"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 73952,
+      "sha256": "eab8e53ed0c825509fa500c4099dd58149edd5036bf3791e092373e6890191b4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 715,
+      "sha256": "5e76010c1cd50c9fd4fb71abd8a69706142c9b4e7bbb6ce22db5759339fbd145"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1570,
+      "sha256": "5eefba0587eda81655d213f2df34e5784a3a3642f964af778f495795f87f3c3e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

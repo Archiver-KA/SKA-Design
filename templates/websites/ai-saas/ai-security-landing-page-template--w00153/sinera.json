@@ -1,0 +1,71 @@
+{
+  "id": "SN-W00153",
+  "title": "AI Security Landing Page Template",
+  "summary": "A reusable landing page template designed to showcase AI-powered cybersecurity solutions with autonomous threat neutralization and system intelligence features.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "Features",
+    "Security",
+    "AI",
+    "Cybersecurity",
+    "Neural Networks",
+    "Documentation",
+    "Call to Action",
+    "Analytics"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3561,
+      "sha256": "3e23f7e2d1736808dff0d5d6101b725f2488a1821e91d832918c10f34978e513"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14430,
+      "sha256": "82e45801c3bdec0d9fb19acc564ffdbfaec4b89e90f07d1999c3e9f250bc7397"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 872,
+      "sha256": "ce3adb2107944799c72ffb699ac593d1c69217588e127e5cbd4259798d643748"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 296,
+      "sha256": "f51a615f47c31e9fd19221b757f843bd9c7208753635eabe0125b3c43dcf96ce"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26116,
+      "sha256": "615fc71f6940c218f9e31140d6c87e2df006af476a97ba5a18c57fbcf8d371cf"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "bento-grid",
+    "product-detail",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

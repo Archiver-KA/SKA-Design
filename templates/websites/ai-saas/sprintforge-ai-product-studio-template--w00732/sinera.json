@@ -1,0 +1,64 @@
+{
+  "id": "SN-W00732",
+  "title": "SprintForge AI Product Studio Template",
+  "summary": "A high-performance agency landing page template designed for AI-native product studios and software development teams focused on rapid delivery.",
+  "tags": [
+    "Technology",
+    "Services",
+    "Landing Page",
+    "Clean",
+    "Animated",
+    "Dark",
+    "Futuristic",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3900,
+      "sha256": "29eb8a9028d19603ccbbc1941fa96c9936bdc8ba2cdf9ece9d9ead4d0a5cfb09"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5088,
+      "sha256": "c6835c4a73fb0f90bc5f58291148a41666356b310743a03f037ce14165e187fa"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "65f1b83bdd94b0680c76cdc393872ca057d6a3054296d006eaedf1ab31dae654"
+    },
+    {
+      "path": "index.html",
+      "bytes": 57989,
+      "sha256": "48ae9ab6989d839178ef6fc05f6ea64e56657ff8ffe571091c3323d68592d982"
+    }
+  ],
+  "collection": "logistics",
+  "collectionCategory": "shipping",
+  "collectionLabel": "Logistics",
+  "collectionCategoryLabel": "Shipping / Delivery",
+  "collectionConfidence": 0.88,
+  "collectionBasis": "business-keywords",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "services",
+    "bento-grid",
+    "stats",
+    "team",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "SN-W01834",
+  "title": "Bespoke Woodworking Landing Page Template",
+  "summary": "A premium template for bespoke woodworking and joinery studios, showcasing custom furniture services, portfolio, and project inquiries in a refined, artisan layout.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Portfolio",
+    "Minimal",
+    "Clean",
+    "Dark",
+    "Large Type",
+    "Art & Design",
+    "Interior Design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3649,
+      "sha256": "3053b035357cb4c5e6c4f94598a978e40b427ae966d3635779fba19e85a6786b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21328,
+      "sha256": "867228ab520f8b8a8285b3ad78e683f1424fdec9a509706c491bce1c8b44b95f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "b464da5d20fa092c47a241db480757e27af88ad5261c11369002d27e04ad5e17"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39142,
+      "sha256": "3cad96f7130583de61eb9d42b8d94eeb86155edfe624cd12ebe90c58eed783a7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "gallery-portfolio",
+    "how-it-works",
+    "logo-cloud",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

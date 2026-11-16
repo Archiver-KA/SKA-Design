@@ -1,0 +1,67 @@
+{
+  "id": "SN-W04133",
+  "title": "Window Cleaning Services Landing Page Template",
+  "summary": "A reusable landing page template for local window cleaning and exterior home services, designed to generate quotes, bookings, and customer trust.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Brand",
+    "local services",
+    "home maintenance",
+    "quote form"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3542,
+      "sha256": "2e49e3f860507675842021d1d7be25fa9e2ce15fee6235b68b1e1680bcff70a4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19808,
+      "sha256": "18f0d5f67354b2eb59e69466e68bbee673149a8fe8652215ae8042389e425208"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 741,
+      "sha256": "94df8fcb548012057d7605bd91a16c4dc6954094724c721ca140c05486108970"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33763,
+      "sha256": "97b758033633c77fddb934cc3bba588ab2c4672aa66dd544f772c3d1fcc5ebcd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "booking",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00378",
+  "title": "Glassmorphic Card with Code Typing Animation",
+  "summary": "Stylish Tailwind CSS card featuring a faux code editor with animated typing, glassmorphic backdrop, and heading/paragraph. Ideal for portfolio hero sections or showcasing dev/design skills in interactive promos.",
+  "tags": [
+    "card",
+    "typing animation",
+    "glassmorphic",
+    "code window",
+    "tailwind",
+    "portfolio",
+    "interactive",
+    "ui component"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6946,
+      "sha256": "2a3a7977c713f6a0b1b65ee6fcb2cbdb83b2e9368b4a5579d77d810de3df9f45"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1707,
+      "sha256": "fb0c8b172761147746dc8e5b0cf696b7902ea9bbf22331a5007e88324940b3cb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2572,
+      "sha256": "ecef8795661c3836cd25e8cbfa65e07e70af819a365d8d1b54c254f7bf1cf48d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

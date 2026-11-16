@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01779",
+  "title": "AI Portfolio Landing Page Template",
+  "summary": "A reusable portfolio template for AI students, developers, and creative technologists to showcase projects, skills, experience, and contact details.",
+  "tags": [
+    "Portfolio",
+    "Landing Page",
+    "Technology",
+    "Dark",
+    "Gradient",
+    "3D",
+    "Animated",
+    "Minimal",
+    "Personal Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3769,
+      "sha256": "18d3b547ee71c53b42d0176ae5ca9f39d121da1c2623e86edb3b30a28009213b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15206,
+      "sha256": "8e5ade9dc30fe148ea7bac232045c5ef617fefcdaa930c79ce1dbc958387e6c6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 722,
+      "sha256": "29f2ad4fa4b97b2015699f496e78de310f76df03cabcab94fafb915449b7614a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39611,
+      "sha256": "aac2ccb03d95d386affd4b01ddb4c34eeeb731699b53f643406bbd77cead07f1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "features",
+    "case-studies",
+    "product-grid",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

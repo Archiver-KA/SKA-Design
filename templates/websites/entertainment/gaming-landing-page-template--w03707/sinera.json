@@ -1,0 +1,92 @@
+{
+  "id": "SN-W03707",
+  "title": "Gaming Landing Page Template",
+  "summary": "A high-performance gaming landing page template featuring immersive video backgrounds and server statistics for Minecraft and esports communities.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Entertainment",
+    "Dark",
+    "Animated",
+    "Futuristic",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "react",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3347,
+      "sha256": "15629b656bb6d2f8bac0163f197e73615dab9cf53f4c235738611959f3ba3376"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13746,
+      "sha256": "7743856454deca5ba66ebfc7d640ed26ed5d7aaed746b93963a6a8b6d36d7562"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 720,
+      "sha256": "904a6ffd1eeff2bc899eef11aff13945713af73fef91ceec13978d6a6fa750c3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 625,
+      "sha256": "44d8f7eda269b60f6d0156acc42c2c0d9b4588595bffce0fe1022954a88010d5"
+    },
+    {
+      "path": "package.json",
+      "bytes": 632,
+      "sha256": "46afbb809426701aa780a3db4262b3ff2835dd6b178979e445b483e3b626798f"
+    },
+    {
+      "path": "postcss.config.js",
+      "bytes": 81,
+      "sha256": "e32657baf631d7c5f4dc67b4b2ee0ec8e7d5b3c41860e09cddce7c0377cd80bc"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 24527,
+      "sha256": "3bde86db35b32fd6cd87bc0fb1689c1ecc47aa9b263f7f9a0fd8feaeada66d7e"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 1796,
+      "sha256": "e92ac11fa08fb3c5821f3df80f8e2ce8fe54836c75549013452cc78b09311b1a"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 237,
+      "sha256": "131d1076b14528384b1aba2fab619093cc85caa85f37f40bf3a12cb7a382db84"
+    },
+    {
+      "path": "tailwind.config.js",
+      "bytes": 126,
+      "sha256": "cc8261a76bad6514da1a86304a7e949fa688d0757167eff69f27d73096759959"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 136,
+      "sha256": "eca485c281977125366d4800553256e419f364984e615f75a2d2bae54f7857fd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

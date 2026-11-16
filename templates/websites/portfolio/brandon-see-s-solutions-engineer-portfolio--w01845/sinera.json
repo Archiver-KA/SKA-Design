@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01845",
+  "title": "Brandon See's Solutions Engineer Portfolio ",
+  "summary": "A clean, professional portfolio template designed for engineers and IoT specialists to showcase technical projects and career experience.",
+  "tags": [
+    "Portfolio",
+    "Technology",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Animated",
+    "Resume",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3629,
+      "sha256": "0805264833fc13a34a666e27b3ebf7858e114f01785a7fe9a2498f2a98a118d3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22786,
+      "sha256": "22bc558bab6dd08624a789559a677733d0ec85934bfe8825b2678c4d7fb350d3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 731,
+      "sha256": "5dabedaec4ddf2a848cfc431e2ba523b80b2a5a9ce3d689958bfcb88f732d470"
+    },
+    {
+      "path": "index.html",
+      "bytes": 45690,
+      "sha256": "c24bc6b7373549db773de11cd0bdce7f3cd12e32a3aecec31f4f5a1487a8d1dc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "3d-canvas",
+    "navbar",
+    "hero",
+    "timeline",
+    "case-studies",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

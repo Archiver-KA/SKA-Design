@@ -1,0 +1,70 @@
+{
+  "id": "SN-W02632",
+  "title": "Gym & Rehabilitation Landing Page Template",
+  "summary": "A premium landing page template for gyms, physiotherapy clinics, and fitness centers to showcase services, memberships, facilities, and booking options.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Fitness",
+    "Gym",
+    "Rehabilitation",
+    "Membership"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3563,
+      "sha256": "45e23193363985531c05d06c95e9fd17a19700392e08afcdeb817f3ee79bfa90"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13772,
+      "sha256": "5c588e55e4e70ad897407ecd4511b8cf1bc562fd17d4fa2f34726adc539f5eca"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 737,
+      "sha256": "36050603d35d0fa5c987a91b27e966d78f0e3ef8568f401bf4de7d933809dc60"
+    },
+    {
+      "path": "index.html",
+      "bytes": 43610,
+      "sha256": "5e8dd6b97e1b9fc2c7d23b57ef38d4b24fba1ec612c1aba9d06007a320d15dc7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "bento-grid",
+    "pricing",
+    "testimonials",
+    "faq",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

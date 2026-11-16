@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="pt-BR" data-theme="circuit">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>iDriver Rastreamento | Proteção Veicular Inteligente</title>
+<meta name="description" content="Rastreamento em tempo real, bloqueio remoto e alertas instantâneos para proteger seu veículo 24h. Planos para moto, carro e frota.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config = { theme: { extend: {
+  colors: { ground:'#F4F6FA', surface:'#FFFFFF', ink:'#0E1726', muted:'#556070', line:'#D9DFE8', accent:'#2B5CE6', accent2:'#F2A33A' },
+  fontFamily: { display:['"Space Grotesk"','system-ui','sans-serif'], sans:['Inter','system-ui','sans-serif'] },
+  borderRadius: { ctl:'6px' }
+} } }
+</script>
+<style>
+[data-theme="circuit"] {
+  --sa-ground: #F4F6FA; --sa-surface: #FFFFFF; --sa-ink: #0E1726; --sa-muted: #556070; --sa-line: #D9DFE8;
+  --sa-accent: #2B5CE6; --sa-on-accent: #FFFFFF; --sa-accent-2: #F2A33A; --sa-on-accent-2: #0E1726;
+  --sa-font-display: "Space Grotesk", system-ui, sans-serif; --sa-font-body: "Inter", system-ui, sans-serif;
+  --sa-radius-control: 6px; --sa-radius-card: 6px; --sa-display-case: none;
+  color-scheme: light; background: var(--sa-ground); color: var(--sa-ink); font-family: var(--sa-font-body);
+}
+html { scroll-behavior:smooth; }
+body { background:var(--sa-ground); color:var(--sa-ink); font-family:var(--sa-font-body); font-size:16px; line-height:1.6; -webkit-font-smoothing:antialiased; overflow-x:hidden; }
+h1,h2,h3,.font-display { font-family:var(--sa-font-display); letter-spacing:-0.02em; line-height:1.08; }
+:focus-visible { outline:3px solid var(--sa-accent); outline-offset:3px; border-radius:4px; }
+.btn { display:inline-flex; align-items:center; justify-content:center; gap:8px; min-height:48px; padding:0 24px; border-radius:6px; font-weight:600; font-family:var(--sa-font-body); transition:background-color .15s, color .15s; }
+.btn-p { background:var(--sa-accent); color:var(--sa-on-accent); }
+.btn-p:hover { background:#1F49C0; }
+.btn-o { border:1px solid var(--sa-ink); color:var(--sa-ink); background:transparent; }
+.btn-o:hover { background:var(--sa-ink); color:#fff; }
+.sec { padding:56px 0; }
+@media (min-width:1024px) { .sec { padding:96px 0; } }
+.wrap { max-width:1200px; margin:0 auto; padding:0 20px; }
+@media (min-width:768px) { .wrap { padding:0 32px; } }
+.kicker { font-size:13px; font-weight:600; letter-spacing:.08em; text-transform:uppercase; color:var(--sa-muted); }
+details > summary { list-style:none; cursor:pointer; min-height:56px; display:flex; align-items:center; justify-content:space-between; gap:16px; }
+details > summary::-webkit-details-marker { display:none; }
+details[open] .plus { transform:rotate(45deg); }
+.plus { transition:transform .2s; flex:none; }
+@media (prefers-reduced-motion: reduce) { * { animation:none !important; transition:none !important; scroll-behavior:auto !important; } }
+
+.map{background:#E9EEF6;border:1px solid var(--sa-line);border-radius:6px;overflow:hidden}
+.pulse{animation:pl 2s ease-out infinite;transform-origin:center;transform-box:fill-box}
+@keyframes pl{0%{transform:scale(.6);opacity:.8}100%{transform:scale(2.2);opacity:0}}
+.step{counter-increment:s}
+.step::before{content:counter(s,decimal-leading-zero);font-family:var(--sa-font-display);font-weight:700;font-size:48px;color:var(--sa-line);display:block;line-height:1}
+
+</style>
+</head>
+<body>
+<a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-50 focus:bg-ink focus:text-white focus:px-4 focus:py-3 focus:rounded-ctl">Pular para o conteúdo</a>
+<header class="sticky top-0 z-40 bg-surface/95 border-b border-line ">
+<div class="wrap flex items-center justify-between h-16">
+<a href="#" class="font-display font-bold text-xl min-h-[44px] inline-flex items-center">iDriver<span class="text-accent">.</span></a>
+<nav aria-label="Principal" class="hidden md:flex items-center gap-1"><a href="#tinh-nang" class="px-3 min-h-[44px] inline-flex items-center text-sm font-medium hover:text-accent">Recursos</a><a href="#cach-hoat-dong" class="px-3 min-h-[44px] inline-flex items-center text-sm font-medium hover:text-accent">Como funciona</a><a href="#bang-gia" class="px-3 min-h-[44px] inline-flex items-center text-sm font-medium hover:text-accent">Planos</a><a href="#faq" class="px-3 min-h-[44px] inline-flex items-center text-sm font-medium hover:text-accent">Dúvidas</a></nav>
+<div class="flex items-center gap-2">
+<a href="#cta" class="btn btn-p hidden md:inline-flex !min-h-[44px] !px-5">Pedir orçamento</a>
+<button id="menu-btn" type="button" aria-label="Abrir menu" aria-expanded="false" aria-controls="menu-panel" class="md:hidden w-11 h-11 inline-flex items-center justify-center border border-line rounded-ctl">
+<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+</div></div>
+<div id="menu-panel" class="hidden md:hidden border-t border-line bg-surface"><div class="wrap py-2"><a href="#tinh-nang" class="block py-3 min-h-[44px] font-medium border-b border-line">Recursos</a><a href="#cach-hoat-dong" class="block py-3 min-h-[44px] font-medium border-b border-line">Como funciona</a><a href="#bang-gia" class="block py-3 min-h-[44px] font-medium border-b border-line">Planos</a><a href="#faq" class="block py-3 min-h-[44px] font-medium border-b border-line">Dúvidas</a><a href="#cta" class="btn btn-p w-full my-3">Pedir orçamento</a></div></div>
+</header>
+
+<main id="main">
+<section class="relative border-b border-line">
+<div class="wrap grid lg:grid-cols-12 gap-0 lg:gap-10 items-stretch">
+<div class="lg:col-span-5 py-12 lg:py-24 order-2 lg:order-1">
+<p class="kicker mb-4">Rastreamento e proteção veicular 24h</p>
+<h1 class="text-4xl sm:text-5xl font-bold">Onde está seu veículo? Você descobre em segundos.</h1>
+<p class="mt-6 text-lg text-muted max-w-md">Rastreador instalado de forma discreta no veículo, com bloqueio remoto do motor e alertas direto no celular. Para carros, motos e frotas.</p>
+<div class="mt-8 flex flex-wrap gap-3"><a href="#cta" class="btn btn-p">Pedir orçamento de instalação</a><a href="#cach-hoat-dong" class="btn btn-o">Ver como funciona</a></div>
+<p class="mt-4 text-sm text-muted">Central: [TELEFONE] &middot; Instalação em [ENDEREÇO]</p>
+</div>
+<div class="lg:col-span-7 order-1 lg:order-2 py-6 lg:py-16">
+<div class="map" role="img" aria-label="Ilustração de mapa de rastreamento com trajeto e posição atual do veículo">
+<svg viewBox="0 0 640 480" class="w-full h-auto block" aria-hidden="true">
+<g stroke="#FFFFFF" stroke-width="14" fill="none"><path d="M-10 120 L300 150 L650 90"/><path d="M120 -10 L160 220 L110 490"/><path d="M-10 380 L400 340 L650 400"/><path d="M470 -10 L430 200 L520 490"/></g>
+<g stroke="#D3DAE6" stroke-width="3" fill="none"><path d="M-10 250 L650 270"/><path d="M290 -10 L300 490"/><path d="M-10 60 L200 40 L650 10"/></g>
+<rect x="330" y="170" width="90" height="60" fill="#D8E3D2"/><rect x="40" y="290" width="100" height="50" fill="#D8E3D2"/>
+<path d="M110 440 L120 380 L160 340 L300 330 L400 300 L430 200 L470 150" stroke="#2B5CE6" stroke-width="5" fill="none" stroke-dasharray="2 10" stroke-linecap="round"/>
+<circle cx="110" cy="440" r="8" fill="#0E1726"/>
+<circle class="pulse" cx="470" cy="150" r="14" fill="#2B5CE6"/><circle cx="470" cy="150" r="12" fill="#2B5CE6" stroke="#fff" stroke-width="4"/>
+<g transform="translate(24 24)"><rect width="230" height="76" rx="6" fill="#fff" stroke="#D9DFE8"/><text x="16" y="28" font-family="Inter,sans-serif" font-size="14" font-weight="600" fill="#0E1726">Veículo [PLACA]</text><text x="16" y="50" font-family="Inter,sans-serif" font-size="13" fill="#556070">Em movimento &#183; [VELOCIDADE] km/h</text><text x="16" y="66" font-family="Inter,sans-serif" font-size="12" fill="#556070">Atualizado há [SEGUNDOS] s</text></g>
+</svg></div></div>
+</div></section>
+
+<section class="py-6 bg-surface border-b border-line"><div class="wrap flex flex-wrap items-center gap-x-10 gap-y-3 text-sm text-muted">
+<span class="font-display font-semibold text-ink">Quem confia</span><span>[NOME DO CLIENTE / FROTA]</span><span>[NOME DO CLIENTE / FROTA]</span><span>[NOME DO CLIENTE / FROTA]</span></div></section>
+
+<section id="tinh-nang" class="sec"><div class="wrap">
+<p class="kicker mb-3">Recursos</p>
+<h2 class="text-3xl sm:text-4xl font-bold max-w-2xl">Resolve o que mais preocupa o dono do veículo: roubo, perda de sinal e falta de controle.</h2>
+<div class="mt-10 grid md:grid-cols-2 gap-4">
+<article class="md:row-span-2 bg-ink text-white rounded-[6px] p-8 flex flex-col justify-between min-h-[320px]">
+<div><svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#F2A33A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="11" width="16" height="10" rx="2"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></svg>
+<h3 class="text-2xl font-semibold mt-5">Bloqueio remoto do motor</h3><p class="text-[#C9D3E3] mt-3 max-w-md">Se o veículo for arrombado ou levado, um toque no aplicativo corta o combustível com segurança. O veículo para e o ladrão não vai longe.</p></div>
+<p class="text-sm text-[#C9D3E3] mt-8">Condições para ativação segura: [SUA REGRA]</p></article>
+<article class="bg-surface border border-line rounded-[6px] p-6"><h3 class="text-xl font-semibold">Localização em tempo real</h3><p class="text-muted mt-2">Veja o veículo no mapa, com histórico de trajetos por dia, paradas e tempo estacionado.</p></article>
+<article class="bg-surface border border-line rounded-[6px] p-6"><h3 class="text-xl font-semibold">Alertas instantâneos</h3><p class="text-muted mt-2">Aviso quando o veículo sai da área segura, é rebocado, perde a alimentação do rastreador ou passa da velocidade definida.</p></article>
+</div></div></section>
+
+<section id="cach-hoat-dong" class="sec bg-surface border-y border-line"><div class="wrap">
+<p class="kicker mb-3">Como funciona</p><h2 class="text-3xl sm:text-4xl font-bold max-w-xl">Instalado em um turno, funcionando no mesmo dia.</h2>
+<ol class="mt-10 grid md:grid-cols-3 gap-8" style="counter-reset:s">
+<li class="step border-t border-ink pt-4"><h3 class="text-xl font-semibold mt-2">Agende a instalação</h3><p class="text-muted mt-2">Escolha uma unidade ou chame um técnico até você: [ÁREA DE ATENDIMENTO].</p></li>
+<li class="step border-t border-ink pt-4"><h3 class="text-xl font-semibold mt-2">Rastreador escondido</h3><p class="text-muted mt-2">O técnico instala o aparelho em local de difícil acesso e testa o sinal na sua frente.</p></li>
+<li class="step border-t border-ink pt-4"><h3 class="text-xl font-semibold mt-2">Acompanhe pelo celular</h3><p class="text-muted mt-2">Entre no aplicativo, defina a área segura e quem recebe os alertas.</p></li>
+</ol></div></section>
+
+<section id="bang-gia" class="sec"><div class="wrap">
+<p class="kicker mb-3">Planos</p><h2 class="text-3xl sm:text-4xl font-bold max-w-xl">Escolha pelo tipo de veículo, não pela lista de recursos.</h2>
+<div class="mt-10 grid md:grid-cols-3 gap-4 items-start">
+<div class="bg-surface border border-line rounded-[6px] p-6"><h3 class="text-lg font-semibold">Moto</h3><p class="font-display text-3xl font-bold mt-3">[SEU PREÇO]</p><ul class="mt-4 space-y-2 text-muted"><li>Localização em tempo real</li><li>Alertas básicos</li><li>[BENEFÍCIO EXTRA]</li></ul><a href="#cta" class="btn btn-o w-full mt-6">Escolher plano</a></div>
+<div class="bg-surface border-2 border-accent rounded-[6px] p-6"><p class="text-sm font-semibold text-accent">Mais escolhido</p><h3 class="text-lg font-semibold mt-1">Carro</h3><p class="font-display text-3xl font-bold mt-3">[SEU PREÇO]</p><ul class="mt-4 space-y-2 text-muted"><li>Tudo do plano Moto</li><li>Bloqueio remoto do motor</li><li>Histórico de trajetos de [N.º DE DIAS]</li></ul><a href="#cta" class="btn btn-p w-full mt-6">Escolher plano</a></div>
+<div class="bg-surface border border-line rounded-[6px] p-6"><h3 class="text-lg font-semibold">Frota</h3><p class="font-display text-3xl font-bold mt-3">[SEU PREÇO]</p><ul class="mt-4 space-y-2 text-muted"><li>Vários veículos em uma única tela</li><li>Relatórios de quilometragem e paradas</li><li>[BENEFÍCIO EXTRA]</li></ul><a href="#cta" class="btn btn-o w-full mt-6">Falar com a equipe</a></div>
+</div></div></section>
+
+<section id="faq" class="sec pt-0"><div class="wrap max-w-3xl">
+<h2 class="text-3xl sm:text-4xl font-bold mb-8">Perguntas frequentes</h2><div class="border-t border-line"><details class="border-b border-line"><summary class="font-display font-semibold text-lg py-2">O rastreador precisa de recarga ou descarrega?<svg class="plus" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 pr-8 text-muted max-w-2xl">O aparelho usa a energia do veículo e tem bateria reserva para continuar avisando mesmo se for desligado. Autonomia da bateria: [ESPECIFICAÇÃO].</p></details><details class="border-b border-line"><summary class="font-display font-semibold text-lg py-2">E se ficar sem sinal?<svg class="plus" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 pr-8 text-muted max-w-2xl">O rastreador guarda a posição e envia assim que o sinal volta, então o trajeto não fica com falhas.</p></details><details class="border-b border-line"><summary class="font-display font-semibold text-lg py-2">A instalação afeta a garantia do veículo?<svg class="plus" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 pr-8 text-muted max-w-2xl">A instalação não corta a fiação original. Política específica: [POLÍTICA DE GARANTIA].</p></details><details class="border-b border-line"><summary class="font-display font-semibold text-lg py-2">Posso cancelar o serviço?<svg class="plus" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 pr-8 text-muted max-w-2xl">Pode. Condições de renovação e cancelamento: [SUAS CONDIÇÕES].</p></details></div></div></section>
+
+<section id="cta" class="sec bg-accent text-white"><div class="wrap flex flex-col md:flex-row gap-6 md:items-center justify-between">
+<h2 class="text-3xl sm:text-4xl font-bold max-w-xl">Agende a instalação para o seu veículo.</h2>
+<a href="tel:[TELEFONE]" class="btn bg-white text-ink hover:bg-ground">Ligar para [TELEFONE]</a></div></section>
+</main>
+<footer class="py-10"><div class="wrap flex flex-col md:flex-row gap-3 justify-between text-sm text-muted"><p><span class="font-display font-bold text-ink">iDriver</span> &middot; [NOME DA EMPRESA] &middot; [ENDEREÇO]</p><p>&copy; [ANO] &middot; Política de privacidade &middot; Termos de uso</p></div></footer>
+<script>
+(function(){
+  var b=document.getElementById('menu-btn'),p=document.getElementById('menu-panel');
+  if(!b||!p)return;
+  b.addEventListener('click',function(){
+    var o=p.classList.toggle('hidden')===false;
+    b.setAttribute('aria-expanded',o?'true':'false');
+  });
+  p.addEventListener('click',function(e){ if(e.target.tagName==='A'){p.classList.add('hidden');b.setAttribute('aria-expanded','false');} });
+})();
+</script>
+</body>
+</html>

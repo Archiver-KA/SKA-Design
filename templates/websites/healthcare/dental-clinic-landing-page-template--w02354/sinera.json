@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02354",
+  "title": "Dental Clinic Landing Page Template",
+  "summary": "A modern dental clinic landing page template to showcase treatments, hours, and contact details, ideal for dentists and healthcare practices.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Technology",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3702,
+      "sha256": "5c3d5e6e85ee1f7e94ae7847da4529f51034c9818f496cce2e1b96d172a66bba"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15790,
+      "sha256": "63edced91dc486de325c5d251bf0504f89726911d177064fde03ca45486516d8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "2cab78282373eb1a79bd456116979afa5e7050070c1f76e3a8ccf16f8fa45050"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27806,
+      "sha256": "3e25623c752682e65ac08bfbd4111451773c07b8c2a46a8af2bc62d225cfe5aa"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "map-location",
+    "services",
+    "team",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

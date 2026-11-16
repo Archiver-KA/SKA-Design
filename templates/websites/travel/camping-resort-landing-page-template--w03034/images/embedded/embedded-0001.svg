@@ -1,0 +1,18 @@
+<svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Tree Far Left -->
+  <path d="M30 120 L55 70 L80 120 Z" fill="black"/>
+  <!-- Tree Left -->
+  <path d="M60 120 L90 55 L120 120 Z" fill="black"/>
+  <!-- Tree Right -->
+  <path d="M220 120 L245 70 L270 120 Z" fill="black"/>
+  <!-- Tree Far Right -->
+  <path d="M250 120 L280 60 L310 120 Z" fill="black"/>
+  <!-- Tent -->
+  <path d="M80 120 L150 40 L220 120 Z" fill="black"/>
+  <path d="M150 50 L195 120 H105 Z" fill="white"/>
+  <path d="M150 50 L180 120 H120 Z" fill="black"/>
+  <!-- Moon -->
+  <path d="M200 30 A 20 20 0 1 0 200 60 A 15 15 0 1 1 200 30" fill="black"/>
+  <!-- Text -->
+  <text x="150" y="165" font-family="sans-serif" font-weight="800" font-size="24" text-anchor="middle" fill="black" letter-spacing="2">HAMPEN CAMPING</text>
+</svg>

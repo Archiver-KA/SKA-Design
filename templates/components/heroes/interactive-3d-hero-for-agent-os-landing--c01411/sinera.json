@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01411",
+  "title": "Interactive 3D Hero for Agent OS Landing",
+  "summary": "Fullscreen hero section with a Three.js WebGL core, animated GSAP text reveal, Tailwind-styled header, CTA buttons, and live mouse-coordinate readout. Ideal for AI/OS or developer tool landing pages needing an immersive interactive hero.",
+  "tags": [
+    "hero",
+    "section",
+    "landing",
+    "threejs",
+    "tailwind",
+    "animated",
+    "interactive",
+    "fullscreen"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26434,
+      "sha256": "f8c9a0a027c3dd20ed140587f96828de01474f3fc21b69897504c8e9b4f7b114"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10100,
+      "sha256": "e407cadb2938c13179a5fa34dbe634a9e9bcacc1df07df525fb0db3d6899a8c0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "SN-W01807",
+  "title": "Architecture Studio Portfolio Website Template",
+  "summary": "A dark, minimal Architecture Studio Portfolio Website Template showcasing projects, case studies, and services for modern architecture and interior firms.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Brand",
+    "Art & Design",
+    "Minimal",
+    "Dark",
+    "Large Type",
+    "Grid",
+    "Architecture",
+    "Interior Design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3092,
+      "sha256": "78523bba1a9ceee0b7ceec3ded303ec4344f8f130bb91cd2554f6d9db1625b18"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11294,
+      "sha256": "2d6d3f5039308bc3bc4fb9902d3085a681069d564abd82b5b7bb7f314b7dd9c0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 957,
+      "sha256": "950cffacca2d5a352a923077ae81cea0875eb45a50685533990d8096b1242819"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 267,
+      "sha256": "6c905d59716ce63cc5ffaa859075358d8c61a0c35b9942d725f59dce957051c5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34238,
+      "sha256": "e7be333783d0f0a7acbdb5be678d58b5dc10298a84123b1b95272cdaa137ba45"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "features",
+    "services",
+    "case-studies",
+    "how-it-works",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

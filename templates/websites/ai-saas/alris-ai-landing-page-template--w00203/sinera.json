@@ -1,0 +1,62 @@
+{
+  "id": "SN-W00203",
+  "title": "ALRIS AI Landing Page Template",
+  "summary": "A high-conversion landing page template for omnichannel AI platforms designed to streamline customer communications across calls, SMS, and email.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Animated",
+    "Futuristic",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3514,
+      "sha256": "48b0cb7fb5b68bbadfdb313eaaff6b53600ece06dd0c70c667fe23e872888930"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 25782,
+      "sha256": "a3002223c7e53d6233c8b0bb24947b030fb2f3147f449f24fb22a83b6e760309"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 806,
+      "sha256": "45fc1e71313b42b003113ad76e2fe16cae0c5c590a75ab6f386b83bdd519f799"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8609,
+      "sha256": "c62826944d0d69b9bcd6d51862ecd63a8cb6a40ae034c64b04b2ed8a2dd3061f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00133",
+  "title": "Contact CTA Section with Avatar and Mailto Link",
+  "summary": "Tailwind-styled call-to-action block featuring a headline, team avatar with name and role, support email text, and an emphasized mailto link—ideal for landing pages, footers, or support sections.",
+  "tags": [
+    "cta",
+    "contact",
+    "avatar",
+    "mailto",
+    "tailwind",
+    "landing",
+    "responsive",
+    "card"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21164,
+      "sha256": "4099802e38a994458b514d16f3273d7e9ade511fc7b75ef263df3329671ff623"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2102,
+      "sha256": "9759364a5a800c14d86864a1cd161c81cada9a620c1ae7e39d754bb897777e1d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3100,
+      "sha256": "bed73dc1c4a1e8f28de801e78face98f794e0235c54e0f1831f9664e61134770"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

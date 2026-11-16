@@ -1,0 +1,57 @@
+{
+  "id": "SN-W04152",
+  "title": "3D Shader Aurora Comets Effect",
+  "summary": "WebGL shader rendering dynamic blue aurora-style comet trails with noise and fractal patterns in fullscreen canvas.",
+  "tags": [
+    "WebGL",
+    "Shader",
+    "Aurora",
+    "Three.js",
+    "FragmentShader",
+    "Animation",
+    "Noise"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2083,
+      "sha256": "7e216c25e095926149fd2721d5e3983852100b88afa60293ab6bcdbec564ad08"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2980,
+      "sha256": "193c9be9ccb2482751aa3560a4b79bdcb631e306fbcd5ed10daac8b476014b22"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "c1702ceec3f26d7c37f114b0c35e01d27d2c1ef49a80a6d0e793b5b6a69709f5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5112,
+      "sha256": "8c5257e91f37fe6126572fe31762a15979ce7d13daae8e5d0a51dbc1ccd13d8a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

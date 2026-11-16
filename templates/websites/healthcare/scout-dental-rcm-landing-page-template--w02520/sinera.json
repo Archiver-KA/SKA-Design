@@ -1,0 +1,66 @@
+{
+  "id": "SN-W02520",
+  "title": "Scout Dental RCM Landing Page Template",
+  "summary": "This template provides a modern, AI-driven landing page design for dental revenue cycle management and analytics platforms, ideal for showcasing intelligent practice solutions.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "Features",
+    "Pricing",
+    "Testimonials",
+    "Analytics",
+    "Dental",
+    "RCM",
+    "AI",
+    "Insurance Verification"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3693,
+      "sha256": "02b87e71aadb5be54ae14824a4a954ea546f78c4479ff92253d72edc0a6a6023"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16104,
+      "sha256": "5425981117a41d65af0d6e1b4a06ceded4fd149db853014ef5d966e358af7572"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 727,
+      "sha256": "db451fa59e905d2137a0d6506fd9571f34d8045255d57644b83f9aeb4deb1b8e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41364,
+      "sha256": "355bc208bf35f71bd359570e08ab5d859c0f52fb8cb7185b28bcae02538410f4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "integrations",
+    "bento-grid",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

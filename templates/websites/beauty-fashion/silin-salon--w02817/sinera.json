@@ -1,0 +1,69 @@
+{
+  "id": "SN-W02817",
+  "title": "Silin Salon",
+  "summary": "A premium hair salon landing page template for showcasing services, locations, and transformations, ready to customize for any modern beauty brand.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Beauty",
+    "Hair Salon"
+  ],
+  "kind": "websites",
+  "category": "beauty-fashion",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3620,
+      "sha256": "b92845bf3bbb2700ee58d016c939fe4ffd053cc94313aa8d1fd74085972644e9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2974,
+      "sha256": "9ae03a05ed22f3e5da90fac3fead6aa6e1c4495a65248258c52a675ae46687a2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 789,
+      "sha256": "694a8c05cdeef1b0effbb74353f2224591bda543764a6c1e14a3a4b6c69685b9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 45459,
+      "sha256": "0372c9ae8a1c009e4372db9fdc4bc715e37098b28e893cf2cbaa9b8fc02fde40"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "beauty",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Beauty / Fashion",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "menu-list",
+    "hero",
+    "services",
+    "gallery-portfolio",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

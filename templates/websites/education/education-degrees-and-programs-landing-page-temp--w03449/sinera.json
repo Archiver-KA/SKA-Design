@@ -1,0 +1,65 @@
+{
+  "id": "SN-W03449",
+  "title": "Education Degrees & Programs Landing Page Template",
+  "summary": "A reusable landing page template for showcasing education degrees and academic programs with hero imagery, program grid, and clear calls to apply.",
+  "tags": [
+    "Education",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Services",
+    "Technology",
+    "Gradient",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3459,
+      "sha256": "142eb0b9b395290e34a4401bd4684fe54eefe17f815c2fe831c650e9ed4979b8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11800,
+      "sha256": "60c9b61775912adb4c1658b6b77cdd357ca7bdcf084254946a3bb2f954d51777"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "d44c4f1ed94c2380bfad4eb728a488bdffc1a8f1d557a4d374d9543f4913b714"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25235,
+      "sha256": "68c960a65a233ae463e1d2a186eb6b733827955e0de5bc777faf2a9b8e54e165"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "bento-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

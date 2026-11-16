@@ -1,0 +1,11 @@
+<svg class="w-full h-28 overflow-visible z-10" viewBox="0 0 100 40" preserveAspectRatio="none">
+                  <defs>
+                    <linearGradient id="revenueGradient" x1="0" y1="0" x2="0" y2="1">
+                      <stop offset="0%" stop-color="#10b981" stop-opacity="0.2"></stop>
+                      <stop offset="100%" stop-color="#10b981" stop-opacity="0"></stop>
+                    </linearGradient>
+                  </defs>
+                  <path d="M0,35 C15,32 25,25 40,22 C55,19 65,26 75,15 C85,6 92,8 100,2" fill="none" stroke="#10b981" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                  <path d="M0,35 C15,32 25,25 40,22 C55,19 65,26 75,15 C85,6 92,8 100,2 V40 H0 Z" fill="url(#revenueGradient)" stroke="none"></path>
+                  <circle cx="100" cy="2" r="3.5" class="fill-white dark:fill-[#0a0a0c] stroke-emerald-500 stroke-2"></circle>
+                </svg>

@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03552",
+  "title": "University Bulletin Landing Page Template",
+  "summary": "A reusable bulletin-style landing page template for universities and campuses to share weekly events, announcements, updates, and community information.",
+  "tags": [
+    "Education",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Newsletter",
+    "Events",
+    "Campus",
+    "Bulletin"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3415,
+      "sha256": "b6b641be264a88f7e059c8cdd3f0b0a81c00963e9654719ee57496b2dc945896"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17478,
+      "sha256": "fc0abf7ebb60f0099633392d2bdb7c8a3775b81d1a6ebf115e44ca66fd1a49f8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 870,
+      "sha256": "7763eb956c9d5a733354c1639fb218e4ab00b57d46be253f98f10f97ed7ed6c9"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 269,
+      "sha256": "10b3fc434a47a7e4c653c9bc0d244dd1eeae60d38b86d6383056670d5aecca1d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26802,
+      "sha256": "04dd3bf590b4853c17a448cf7567640834bd2e2557c5b86a012d55a212d4bb0d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "features",
+    "announcement-bar",
+    "cta"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

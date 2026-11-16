@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00193",
+  "title": "Gradient Glow Button with Hover Sheen",
+  "summary": "Interactive call-to-action button with gradient glow background, sheen hover animation, leading icon, and arrow indicator. Styled with Tailwind utility classes, suitable for primary actions or generative AI triggers.",
+  "tags": [
+    "button",
+    "cta",
+    "interactive",
+    "animated",
+    "gradient",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3768,
+      "sha256": "58b129624a4372f8a38674f3293a37131dd67fc5caf2c5060e86acf7f0587617"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2803,
+      "sha256": "62d82be7dafbf6ea3b88b29192d8aa78a682b0e1c5ec17968d3891d3e1bc62f8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3791,
+      "sha256": "ea1024ebf35509739022186464acd4fd52f7faf3c28651b7c974353f9603a269"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02178",
+  "title": "Product Grid with Featured Item and Load More",
+  "summary": "E-commerce product listing section featuring a highlighted product, responsive grid of product cards with wishlist and add-to-cart actions, and a load more button. Styled with Tailwind-style utility classes for modern, interactive layouts.",
+  "tags": [
+    "section",
+    "feature",
+    "card",
+    "ecommerce",
+    "product",
+    "responsive",
+    "interactive",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 38002,
+      "sha256": "5cfda8b7fff5d5691c39cb1432cb4da173f7b1cee53d1c2392f5b4b687279443"
+    },
+    {
+      "path": "component.html",
+      "bytes": 14376,
+      "sha256": "a43b8723edd51a9c0cebc4801b200dc9ac9cf843d134345af20b7e838ce4d3a5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15242,
+      "sha256": "b8e34b586719218752b2de4775faceeb3f32ac57b59cde99f82797cf94bcbde3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

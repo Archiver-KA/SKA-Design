@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00477",
+  "title": "Contact Info Cards with Hover Spotlight",
+  "summary": "A compact contact panel featuring three glassmorphism-style cards for sales, support, and general inquiries. Uses Tailwind CSS utilities, custom animations, and interactive hover spotlight effects for modern contact or support pages.",
+  "tags": [
+    "card",
+    "tailwind",
+    "contact",
+    "glassmorphism",
+    "interactive",
+    "hover",
+    "support"
+  ],
+  "kind": "components",
+  "category": "contact",
+  "categoryLabel": "Contact & maps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9542,
+      "sha256": "7d297a5acad786d71315f9e52cb378c8a1185e74908c13b4fe0b052ec8109d96"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5768,
+      "sha256": "17ad261c61e7530e67db65af862e7ff3b78417df763c4f14b14385a878492514"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6628,
+      "sha256": "9840a5c5901b17ca8172aa6188e3621c8234d087e6b47a1f22c243f63558ccfc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

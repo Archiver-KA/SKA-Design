@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01897",
+  "title": "Image Display Component",
+  "summary": "A simple, reusable image component that displays an image from a URL. Can be used for logos, product images, or any visual content with responsive sizing.",
+  "tags": [
+    "card",
+    "image",
+    "logo",
+    "responsive",
+    "simple"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5794,
+      "sha256": "91934cf57047f5373c4e701c3b4904bb24c546bb4c587815679c657b15d17253"
+    },
+    {
+      "path": "component.html",
+      "bytes": 225,
+      "sha256": "3b6f7304fa1c8725ef740fad1c6101ce2d98d5c7c53a2d088b3c64a15a692be5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1069,
+      "sha256": "adf0d3dbc3886f6a3c185f47f03ed6b2ce7062862558a74e395161a9f85f3eb5"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

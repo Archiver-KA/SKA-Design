@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01680",
+  "title": "Hexagon SVG Icon with Tailwind Sizing",
+  "summary": "Responsive hexagon-shaped SVG icon utilizing Tailwind utility classes for adaptive width and height; ideal for logos, geometric accents, or status indicators in UIs.",
+  "tags": [
+    "icon",
+    "svg",
+    "hexagon",
+    "tailwind",
+    "responsive",
+    "ui",
+    "logo"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1200,
+      "sha256": "78afc4db5821af64ae0475d10bd82a52f60b974b056528966b2e8a0b7ecc167e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 238,
+      "sha256": "16ae899536701d9d3d4a9f1704af216f8f4be1509bd7a5c0a557622d3997a6b7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1096,
+      "sha256": "51bc2a3ee27a69eff907e61982f18654440b649e5df90b6aae50a5d55372abe3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

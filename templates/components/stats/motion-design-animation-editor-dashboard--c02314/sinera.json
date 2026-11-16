@@ -1,0 +1,46 @@
+{
+  "id": "SN-C02314",
+  "title": "Motion Design Animation Editor Dashboard",
+  "summary": "Interactive motion design studio UI with element library, timeline scrubber, canvas preview and property panels. Built with Tailwind CSS, responsive and suited for prototyping animation editors, creative dashboards or rich mockups.",
+  "tags": [
+    "dashboard",
+    "editor",
+    "animation",
+    "timeline",
+    "tailwind",
+    "ui",
+    "panel",
+    "canvas",
+    "responsive",
+    "prototype"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 24654,
+      "sha256": "57e6c088666238e7b16b604a90d8183025c3a56913a7059b126e7f8fb10efdc6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 54321,
+      "sha256": "8dfd825a084447e2078d54618715fde00fff81a859932fbb9500ae45ab2ac6e3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 55312,
+      "sha256": "a9a16190b78edc09f48f1276f6d8c5373ed7e9f40f9939dd3de8a91e36bf51b4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

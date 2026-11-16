@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02975",
+  "title": "Restaurant Contact Landing Page Template",
+  "summary": "A reusable restaurant and bar contact page template for reservations, private event enquiries, location details, and guest messages in a refined dark layout.",
+  "tags": [
+    "Food",
+    "Landing Page",
+    "Services",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Restaurant",
+    "Bar",
+    "Contact Form",
+    "Events"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3550,
+      "sha256": "ac23d56188a35a09993dbde90b18c49d05b340329efabfeca2d1a1d4a45648dc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9294,
+      "sha256": "8dd691c136c5f4028d6ee282ca36e52b19382176d2557d6ba7e104d912669cfc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 737,
+      "sha256": "a3938169408919d60b7d7b9ca9f1d764687c40e7df5a1944f9051362e11497f5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23370,
+      "sha256": "574ef996744624c36940aa236b8ee912cf102fa5f2fefa31c59cc1f49ada8984"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "contact-form",
+    "map-location",
+    "cta",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

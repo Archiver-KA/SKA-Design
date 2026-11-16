@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01662",
+  "title": "OutreachX AI Agency Landing Page Template",
+  "summary": "A high-performance landing page template designed for AI agencies to automate lead generation and book more meetings with ease.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Dark",
+    "Animated",
+    "Clean",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3708,
+      "sha256": "9ed7ca29f64ee1d1b547cc943522a730834a524d8072bcc691dd1d1e93309072"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15274,
+      "sha256": "87938fb45524b3b81044781f4ad7fb33ef4b7e325da7be73c19a90dd1d9c109d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "b4bc6bc7107aaf0bdb3c9192212ac223664568315b94cbd035e05a0ec2a9a428"
+    },
+    {
+      "path": "index.html",
+      "bytes": 44474,
+      "sha256": "e35197ed646752445b69b8ddc0654384393fb53cb3e241956f0090da447ea961"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "product-grid",
+    "features",
+    "pricing",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

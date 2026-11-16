@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00847",
+  "title": "Responsive Feature Card with Image and Footer",
+  "summary": "Tailwind-styled article card highlighting a numbered feature with icon, title, summary text, full-width image, and footer badge. Fully responsive with rounded design—perfect for SaaS landing pages, dashboards, or feature grids.",
+  "tags": [
+    "card",
+    "tailwind",
+    "responsive",
+    "feature",
+    "image",
+    "landing-page",
+    "marketing",
+    "ui-component"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5436,
+      "sha256": "da7d1167793001b87f39eb6408f1c5fdae8119f369299b2905baa4dcc5476ce5"
+    },
+    {
+      "path": "component.html",
+      "bytes": 872,
+      "sha256": "51dd66fe4c5031fac4274a795b3ff094212f5cb40480d1a4faea01c01ae1b8f8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1868,
+      "sha256": "fc84a770b592e1d566f173ce70aaafc5b4d5c7119a672fa1d85fbd2d1673786b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

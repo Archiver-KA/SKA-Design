@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01396",
+  "title": "Hero Section with Cards",
+  "summary": "Full-screen hero section with floating feature cards, inspirational heading and background image. Includes animated elements and responsive design.",
+  "tags": [
+    "hero",
+    "fullscreen",
+    "cards",
+    "travel",
+    "adventure"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 37146,
+      "sha256": "a564d7e63e4ae88580a985bb8fc9f56053353206348fdfa1d7b734d7a380f4d3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3716,
+      "sha256": "7e127aca2b4a66c64c666bb22b1f9e7d54bd1333bb92b2445d413aed3a0030d8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4560,
+      "sha256": "1255b1dfe687c1963e0c5683bb089ae4123b242d14e2406ecae8ec25d20e03f6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

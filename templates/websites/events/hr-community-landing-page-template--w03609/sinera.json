@@ -1,0 +1,76 @@
+{
+  "id": "SN-W03609",
+  "title": "HR Community Landing Page Template",
+  "summary": "A premium dark-mode template for HR leadership communities, member networks, and event-driven organizations to showcase events, insights, and applications.",
+  "tags": [
+    "Landing Page",
+    "Community",
+    "Business",
+    "Conference",
+    "Membership",
+    "Technology",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Blog"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3896,
+      "sha256": "b6410a5c884cb2ff57636568b64c332911fadce8ca59ec07b6c0d3f88dc31b11"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16910,
+      "sha256": "747f102b0a25d71d11b8d05bbfd9bc501d23005e2a6564a224fc83fcbe714a65"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 859,
+      "sha256": "0253091d85c52ccb35e91ad4414fb742ef54f032ab69fb5c8ba63064dd0d8ae9"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41797,
+      "sha256": "ff9abe8683f83ef4897b50e938d2e6f4f4fdb03ed8a8db9b94413b735246d589"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "stats",
+    "team",
+    "cta",
+    "testimonials",
+    "features",
+    "blog-articles",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

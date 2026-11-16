@@ -1,0 +1,72 @@
+{
+  "id": "SN-W02811",
+  "title": "SaaS Beauty & Hair Salon Landing Page Template",
+  "summary": "A high-end dark-themed landing page template designed for hair salons and beauty professionals to showcase services, gallery works, and manage appointments.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Clean",
+    "Dark",
+    "Animated",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "beauty-fashion",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3670,
+      "sha256": "e0a506cb4a770c6e79a52c0fc2df0441c6cd772d1f743a8fa6a878c159fd1782"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4602,
+      "sha256": "eb8559633f48e109e59846569182842c3253957dc1dc5c19a3b7f90f6da7a1d6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 886,
+      "sha256": "1eecb02ddfd1f627c05eb1c18d4d41847f958639a487f14dac4de7986a168ecb"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1232,
+      "sha256": "ccab8f2155afc489b8d2493e423e13ab45a94fe05a33577772045a5e7ee1fe72"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41435,
+      "sha256": "f9c0b6cfe6bdb9772a8d0226400d49bf62441706123d9f8b4cf6da5caecefdcd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "beauty",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Beauty / Fashion",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "features",
+    "booking",
+    "cta",
+    "modal-overlay",
+    "faq",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

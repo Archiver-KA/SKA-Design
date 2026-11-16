@@ -1,0 +1,70 @@
+{
+  "id": "SN-W02985",
+  "title": "Restaurant Landing Page Template",
+  "summary": "A reusable restaurant landing page template for showcasing signature dishes, late-night dining, outlet locations, and online ordering with a bold food-first design.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "E-commerce",
+    "Dark",
+    "Clean",
+    "Large Type",
+    "restaurant",
+    "online ordering",
+    "late-night dining"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3618,
+      "sha256": "6af6d1cdc80e749e38fb584fe61e4b88bc9392042663f9a1bd9e4871300e45ca"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18396,
+      "sha256": "462c336f652de865ff36a34ca83d80fcc0a68558f7c87fe1569e0c2d66b35f2c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 869,
+      "sha256": "8b9d388ac58ca8fa561c67388db7664adccda81a869306c88003d1bc79d70cbc"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "5be9993794b7c9ae2620978b2b029b7e321d3ce6e80dfeb6ffa73460f52f5d32"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34783,
+      "sha256": "0f655ba6fb121e8e04a75e193b9d2e3700c6b596212dd5c07d9605d58abf9629"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "menu-list",
+    "timeline",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

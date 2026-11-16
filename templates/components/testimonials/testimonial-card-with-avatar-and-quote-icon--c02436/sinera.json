@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02436",
+  "title": "Testimonial Card with Avatar and Quote Icon",
+  "summary": "A dark-themed testimonial card featuring a quote icon, customer quote text, and avatar with name and company, styled with Tailwind-style utility classes. Ideal for showcasing customer feedback in dashboards or marketing pages.",
+  "tags": [
+    "card",
+    "testimonial",
+    "avatar",
+    "quote",
+    "tailwind",
+    "ui",
+    "dark",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9242,
+      "sha256": "d16cf90f711a8809bfd212dffa2656128761bdf965ada752a20914c985684ef3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 917,
+      "sha256": "c37d8d1289e3056b4478c3b6d1fd15848c7bb7a78a289144140d2dc98fe9feb0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1871,
+      "sha256": "5a79b746aed2a2d52f4b7b294894306afcb6f3115ba317159f0f21fef3c81bc3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

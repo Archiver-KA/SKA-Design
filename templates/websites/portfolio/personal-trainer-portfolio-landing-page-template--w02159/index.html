@@ -1,0 +1,239 @@
+<!doctype html>
+<html lang="en" data-theme="workshop">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Personal Trainer Portfolio Landing Page Template</title>
+<meta name="description" content="Landing page for a personal trainer: training programs, a weekly schedule, coaching packages and a trial-session sign-up.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config = {
+  theme: { extend: {
+    colors: { ground:'var(--sa-ground)', surface:'var(--sa-surface)', ink:'var(--sa-ink)', muted:'var(--sa-muted)', line:'var(--sa-line)', accent:'var(--sa-accent)', onaccent:'var(--sa-on-accent)', accent2:'var(--sa-accent-2)', onaccent2:'var(--sa-on-accent-2)' },
+    fontFamily: { display:['"Bricolage Grotesque"','system-ui','sans-serif'], body:['Inter','system-ui','sans-serif'] }
+  } }
+}
+</script>
+<style>
+[data-theme="workshop"] {
+  --sa-ground: #121212; --sa-surface: #1C1C1C; --sa-ink: #F2F0EB; --sa-muted: #A8A49D; --sa-line: #2A2A2A;
+  --sa-accent: #C6F135; --sa-on-accent: #121212; --sa-accent-2: #FF5C39; --sa-on-accent-2: #121212;
+  --sa-font-display: "Bricolage Grotesque", system-ui, sans-serif; --sa-font-body: "Inter", system-ui, sans-serif;
+  --sa-radius-control: 0px; --sa-radius-card: 0px; --sa-display-case: none;
+  color-scheme: dark; background: var(--sa-ground); color: var(--sa-ink); font-family: var(--sa-font-body);
+}
+body { background:var(--sa-ground); color:var(--sa-ink); font-family:var(--sa-font-body); font-size:16px; line-height:1.65; }
+h1,h2,h3 { font-family:var(--sa-font-display); font-weight:700; letter-spacing:-0.035em; text-wrap:balance; }
+.btn { display:inline-flex; align-items:center; justify-content:center; gap:8px; min-height:48px; padding:0 24px; border:0; border-radius:0; background:var(--sa-accent); color:var(--sa-on-accent); font:600 15px/1 var(--sa-font-body); text-decoration:none; cursor:pointer; }
+.btn:hover { background:#d7ff4a; }
+.btn-ghost { background:transparent; color:var(--sa-ink); box-shadow:inset 0 0 0 1px var(--sa-ink); }
+.btn-ghost:hover { background:var(--sa-ink); color:var(--sa-ground); }
+:focus-visible { outline:2px solid var(--sa-accent); outline-offset:3px; }
+.ph { background:repeating-linear-gradient(135deg,#1C1C1C 0 12px,#212121 12px 24px); border:1px solid var(--sa-line); display:flex; align-items:flex-end; }
+.ph span { margin:12px; padding:4px 8px; background:var(--sa-ground); color:var(--sa-muted); font-size:12px; line-height:1.4; border:1px solid var(--sa-line); }
+.bg-accent :focus-visible { outline-color:#121212; }
+.outline-t { color:transparent; -webkit-text-stroke:2px var(--sa-ink); }
+.field { display:block; width:100%; min-height:48px; padding:0 12px; background:var(--sa-surface); border:1px solid var(--sa-muted); border-radius:0; font:400 16px var(--sa-font-body); color:var(--sa-ink); }
+details > summary { list-style:none; cursor:pointer; min-height:56px; display:flex; align-items:center; justify-content:space-between; gap:16px; }
+details > summary::-webkit-details-marker { display:none; }
+details[open] .plus { transform:rotate(45deg); }
+.plus { transition:transform .2s; }
+.prog { transition:background-color .2s, color .2s; }
+.prog:hover { background:var(--sa-accent); color:var(--sa-on-accent); }
+.prog:hover .muted-in { color:var(--sa-on-accent); }
+@media (prefers-reduced-motion: reduce){ .plus,.prog{transition:none} }
+</style>
+</head>
+<body>
+
+<a href="#main" class="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:bg-ground focus:p-3">Skip to content</a>
+
+<header class="sticky top-0 z-40 bg-ground border-b border-line">
+  <div class="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
+    <a href="#" class="font-display text-xl font-bold inline-flex items-center min-h-[44px]">Marcus Fit</a>
+    <nav aria-label="Main" class="hidden md:flex gap-8 text-[15px]">
+      <a href="#chuong-trinh" class="hover:text-accent">Programs</a>
+      <a href="#lich" class="hover:text-accent">Weekly plan</a>
+      <a href="#goi" class="hover:text-accent">Packages</a>
+      <a href="#hoi-dap" class="hover:text-accent">FAQ</a>
+    </nav>
+    <div class="flex items-center gap-2">
+      <a href="#dang-ky" class="btn hidden sm:inline-flex">Book a trial session</a>
+      <button id="menuBtn" class="md:hidden w-11 h-11 inline-flex items-center justify-center border border-line" aria-label="Open menu" aria-expanded="false" aria-controls="mobileNav">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+      </button>
+    </div>
+  </div>
+  <nav id="mobileNav" aria-label="Mobile" class="hidden md:hidden border-t border-line bg-surface px-4 py-2">
+    <a href="#chuong-trinh" class="flex items-center min-h-[48px]">Programs</a>
+    <a href="#lich" class="flex items-center min-h-[48px]">Weekly plan</a>
+    <a href="#goi" class="flex items-center min-h-[48px]">Packages</a>
+    <a href="#hoi-dap" class="flex items-center min-h-[48px]">FAQ</a>
+    <a href="#dang-ky" class="btn w-full my-2">Book a trial session</a>
+  </nav>
+</header>
+
+<main id="main">
+
+<!-- HERO: chữ xếp tầng cỡ lớn, một dòng viền rỗng -->
+<section class="border-b border-line overflow-hidden">
+  <div class="max-w-6xl mx-auto px-4 pt-12 md:pt-20 pb-10 md:pb-16">
+    <p class="text-sm text-muted tracking-wide">Personal training · [CITY] · 1-on-1 or online</p>
+    <h1 class="mt-6 text-[52px] leading-[0.92] sm:text-8xl lg:text-[148px]">
+      Train <span class="text-accent">smart.</span><br>
+      <span class="outline-t">Get</span> strong.<br>
+      Built for <span class="inline-block bg-accent text-onaccent px-3 -rotate-1">you.</span>
+    </h1>
+    <div class="mt-10 grid md:grid-cols-12 gap-8 items-end">
+      <p class="md:col-span-6 text-lg text-muted">I'm Marcus Fit, a personal trainer. Every client gets their own plan built around their body, their schedule and their goals, not a copy of a program off the internet.</p>
+      <div class="md:col-span-6 flex flex-wrap gap-3 md:justify-end">
+        <a href="#dang-ky" class="btn">Book a trial session</a>
+        <a href="#chuong-trinh" class="btn btn-ghost">See the programs</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- BẰNG CHỨNG -->
+<section class="py-14 md:py-24" aria-labelledby="h-proof">
+  <div class="max-w-6xl mx-auto px-4 grid md:grid-cols-12 gap-6">
+    <h2 id="h-proof" class="md:col-span-12 text-3xl md:text-5xl max-w-2xl">Real client results, not stock photos.</h2>
+    <div class="ph md:col-span-4 aspect-[3/4]"><span>Client photo, before, 3:4</span></div>
+    <div class="ph md:col-span-4 aspect-[3/4]"><span>Client photo, after, 3:4</span></div>
+    <figure class="md:col-span-4 flex flex-col justify-between border border-line p-6 bg-surface">
+      <blockquote class="font-display text-2xl leading-snug">“[CLIENT QUOTE: one specific change after [NUMBER] weeks of training.]”</blockquote>
+      <figcaption class="mt-6 text-sm text-muted">[NAME, TITLE]</figcaption>
+    </figure>
+  </div>
+</section>
+
+<!-- CHƯƠNG TRÌNH: danh sách hàng lớn -->
+<section id="chuong-trinh" class="py-14 md:py-24 bg-surface border-y border-line">
+  <div class="max-w-6xl mx-auto px-4">
+    <h2 class="text-3xl md:text-5xl max-w-2xl">Pick a goal and the plan follows.</h2>
+    <ul class="mt-10 border-t border-ink">
+      <li class="prog grid grid-cols-[48px_1fr] md:grid-cols-[96px_1fr_1.2fr] gap-x-4 items-baseline py-6 px-2 border-b border-line">
+        <span class="font-display text-3xl md:text-5xl">01</span>
+        <h3 class="text-2xl md:text-4xl">Fat loss</h3>
+        <p class="muted-in text-muted col-start-2 md:col-start-auto mt-2 md:mt-0">Weights, cardio and realistic eating guidance. Weigh-ins and measurements every [NUMBER] weeks.</p>
+      </li>
+      <li class="prog grid grid-cols-[48px_1fr] md:grid-cols-[96px_1fr_1.2fr] gap-x-4 items-baseline py-6 px-2 border-b border-line">
+        <span class="font-display text-3xl md:text-5xl">02</span>
+        <h3 class="text-2xl md:text-4xl">Muscle &amp; strength</h3>
+        <p class="muted-in text-muted col-start-2 md:col-start-auto mt-2 md:mt-0">Progressive overload and form coaching on every lift, so you grow without getting hurt.</p>
+      </li>
+      <li class="prog grid grid-cols-[48px_1fr] md:grid-cols-[96px_1fr_1.2fr] gap-x-4 items-baseline py-6 px-2 border-b border-line">
+        <span class="font-display text-3xl md:text-5xl">03</span>
+        <h3 class="text-2xl md:text-4xl">Complete beginners</h3>
+        <p class="muted-in text-muted col-start-2 md:col-start-auto mt-2 md:mt-0">Never trained, or been away a long time. Start light and learn the fundamentals in the first 4 weeks.</p>
+      </li>
+      <li class="prog grid grid-cols-[48px_1fr] md:grid-cols-[96px_1fr_1.2fr] gap-x-4 items-baseline py-6 px-2 border-b border-line">
+        <span class="font-display text-3xl md:text-5xl">04</span>
+        <h3 class="text-2xl md:text-4xl">Injury recovery</h3>
+        <p class="muted-in text-muted col-start-2 md:col-start-auto mt-2 md:mt-0">Coordinated with your doctor or physio. [YOUR CERTIFICATIONS]</p>
+      </li>
+    </ul>
+  </div>
+</section>
+
+<!-- LỊCH TUẦN -->
+<section id="lich" class="py-14 md:py-24">
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="md:flex justify-between items-end gap-8">
+      <h2 class="text-3xl md:text-5xl max-w-xl">A sample training week.</h2>
+      <p class="text-muted max-w-sm mt-3 md:mt-0">Your real plan is adjusted to your work schedule. Three sessions a week is enough for most beginners.</p>
+    </div>
+    <div class="mt-10 grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-7 border-l border-t border-line">
+      <div class="border-r border-b border-line p-4 min-h-[120px]"><p class="text-sm text-muted">Mon</p><p class="font-display text-xl mt-2">Lower body</p></div>
+      <div class="border-r border-b border-line p-4 min-h-[120px]"><p class="text-sm text-muted">Tue</p><p class="text-muted mt-2">Rest, easy walk</p></div>
+      <div class="border-r border-b border-line p-4 min-h-[120px] bg-accent text-onaccent"><p class="text-sm">Wed</p><p class="font-display text-xl mt-2">Upper body</p></div>
+      <div class="border-r border-b border-line p-4 min-h-[120px]"><p class="text-sm text-muted">Thu</p><p class="text-muted mt-2">Rest</p></div>
+      <div class="border-r border-b border-line p-4 min-h-[120px]"><p class="text-sm text-muted">Fri</p><p class="font-display text-xl mt-2">Full body</p></div>
+      <div class="border-r border-b border-line p-4 min-h-[120px]"><p class="text-sm text-muted">Sat</p><p class="font-display text-xl mt-2">Cardio</p></div>
+      <div class="border-r border-b border-line p-4 min-h-[120px] col-span-2 sm:col-span-1"><p class="text-sm text-muted">Sun</p><p class="text-muted mt-2">Full rest day</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- GÓI TẬP -->
+<section id="goi" class="py-14 md:py-24 bg-surface border-y border-line">
+  <div class="max-w-6xl mx-auto px-4">
+    <h2 class="text-3xl md:text-5xl max-w-2xl">Three ways to train with me.</h2>
+    <div class="mt-10 grid md:grid-cols-3 gap-0 border border-line">
+      <article class="p-7 border-b md:border-b-0 md:border-r border-line flex flex-col">
+        <h3 class="text-2xl">Single session</h3>
+        <p class="text-muted mt-2 grow">One 1-on-1 session at the gym. Good for trying things out or fixing your technique.</p>
+        <p class="font-display text-3xl mt-6">[YOUR PRICE]</p>
+        <a href="#dang-ky" class="btn btn-ghost mt-5">Choose single session</a>
+      </article>
+      <article class="p-7 border-b md:border-b-0 md:border-r border-ink bg-ground flex flex-col outline outline-1 outline-accent -outline-offset-1">
+        <h3 class="text-2xl">12-session pack</h3>
+        <p class="text-muted mt-2 grow">A personal plan, weekly adjustments and message support between sessions.</p>
+        <p class="font-display text-3xl mt-6">[YOUR PRICE]</p>
+        <a href="#dang-ky" class="btn mt-5">Choose the 12-session pack</a>
+      </article>
+      <article class="p-7 flex flex-col">
+        <h3 class="text-2xl">Online coaching</h3>
+        <p class="text-muted mt-2 grow">Plans and video guides sent through [APP], and I review your training videos every week.</p>
+        <p class="font-display text-3xl mt-6">[YOUR PRICE]</p>
+        <a href="#dang-ky" class="btn btn-ghost mt-5">Choose online coaching</a>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section id="hoi-dap" class="py-14 md:py-24">
+  <div class="max-w-3xl mx-auto px-4">
+    <h2 class="text-3xl md:text-5xl">Questions before you start</h2>
+    <div class="mt-8 border-t border-ink">
+      <details class="border-b border-line"><summary class="font-medium">I've never set foot in a gym. Can I keep up?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted">Yes. In the first session I assess where you are and teach the basic movements before adding load.</p></details>
+      <details class="border-b border-line"><summary class="font-medium">Does the trial session cost anything?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted">[YOUR TRIAL SESSION POLICY].</p></details>
+      <details class="border-b border-line"><summary class="font-medium">Where do we train?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted">At [GYM NAME, ADDRESS], at your home or online by video.</p></details>
+      <details class="border-b border-line"><summary class="font-medium">Do I need to go on a strict diet?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted">No extreme restrictions. I'll show you how to get enough protein and energy from the meals you actually eat.</p></details>
+    </div>
+  </div>
+</section>
+
+<!-- CTA CUỐI -->
+<section id="dang-ky" class="py-14 md:py-24 bg-accent text-onaccent">
+  <div class="max-w-6xl mx-auto px-4 grid md:grid-cols-12 gap-10 items-start">
+    <div class="md:col-span-6">
+      <h2 class="text-4xl md:text-6xl leading-[0.98]">The first session is the hardest. I'll be right there with you.</h2>
+      <p class="mt-4 font-medium">Leave your details and I'll message you back within [NUMBER] hours to set a time.</p>
+    </div>
+    <form class="md:col-span-6 grid gap-4" onsubmit="event.preventDefault();document.getElementById('sent').hidden=false;">
+      <div><label for="n" class="block text-sm font-semibold mb-1">Full name</label><input id="n" class="field" style="background:#121212;border-color:#121212;color:#F2F0EB" autocomplete="name"></div>
+      <div><label for="p" class="block text-sm font-semibold mb-1">Phone or WhatsApp</label><input id="p" type="tel" class="field" style="background:#121212;border-color:#121212;color:#F2F0EB" autocomplete="tel"></div>
+      <div><label for="g" class="block text-sm font-semibold mb-1">Goal</label>
+        <select id="g" class="field" style="background:#121212;border-color:#121212;color:#F2F0EB"><option>Fat loss</option><option>Build muscle</option><option>Just starting out</option><option>Injury recovery</option></select></div>
+      <button type="submit" class="min-h-[48px] px-6 font-semibold bg-ground text-ink hover:bg-black" style="background:#121212;color:#F2F0EB">Book a trial session</button>
+      <p id="sent" hidden role="status" class="text-sm font-medium">Sample form: connect it to your own lead-capture system.</p>
+    </form>
+  </div>
+</section>
+</main>
+
+<footer class="py-10">
+  <div class="max-w-6xl mx-auto px-4 grid md:grid-cols-3 gap-8 text-[15px]">
+    <div><p class="font-display text-xl font-bold">Marcus Fit</p><p class="text-muted mt-2">[GYM ADDRESS]</p></div>
+    <div><p class="font-medium">Contact</p><p class="text-muted mt-2">[PHONE NUMBER]<br>[EMAIL]</p></div>
+    <div><p class="font-medium">Social</p><ul class="mt-2 text-muted"><li><a class="inline-flex min-h-[44px] items-center hover:text-accent" href="#">Instagram [HANDLE]</a></li><li><a class="inline-flex min-h-[44px] items-center hover:text-accent" href="#">TikTok [HANDLE]</a></li></ul></div>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var b=document.getElementById('menuBtn'), n=document.getElementById('mobileNav');
+  b.addEventListener('click',function(){
+    var open=n.classList.toggle('hidden')===false;
+    b.setAttribute('aria-expanded',open); b.setAttribute('aria-label',open?'Close menu':'Open menu');
+  });
+  n.addEventListener('click',function(e){ if(e.target.tagName==='A'){ n.classList.add('hidden'); b.setAttribute('aria-expanded','false'); } });
+})();
+</script>
+</body>
+</html>

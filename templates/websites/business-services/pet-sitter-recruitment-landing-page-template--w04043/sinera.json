@@ -1,0 +1,64 @@
+{
+  "id": "SN-W04043",
+  "title": "Pet Sitter Recruitment Landing Page Template",
+  "summary": "A clean, warm recruitment landing page template designed specifically for pet sitting services and animal care professionals.",
+  "tags": [
+    "Services",
+    "Health",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Colorful"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3583,
+      "sha256": "d876415165a869439b60e0f5cfc5bfd741a6ac444bdbf1dc3b5cd4ad46e500e8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 24014,
+      "sha256": "124bb78b95e8c4347bf7c8aa44ad16f54b927a2d1cc62229c13b14fef2c53e45"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 739,
+      "sha256": "6e4ef2a25c17277da1c6328e74845e836b029ff13fc4b0831576538892cfc151"
+    },
+    {
+      "path": "index.html",
+      "bytes": 68477,
+      "sha256": "107286c874eed40d6341ef1eb0757951168663bdbcd636fc6b14eb08f210597e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "benefits",
+    "how-it-works",
+    "features",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "SN-W03719",
+  "title": "Luxury Cinema Landing Page Template",
+  "summary": "A cinematic luxury cinema website template with hero video, showtimes slider, interactive seat selection, and membership tiers—ready to customize for any theater brand.",
+  "tags": [
+    "Landing Page",
+    "Entertainment",
+    "Brand",
+    "Dark",
+    "Large Type",
+    "Minimal",
+    "Technology",
+    "Art & Design"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3552,
+      "sha256": "069805fb93b0b5a2c13b45583ec0e8a7f5ea2c5d490103ff0f2bc3f7584e3858"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2626,
+      "sha256": "b73a40dab1725148c60f444b79376e8b411a48416b0f1a085bf2367032b3df86"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2210,
+      "sha256": "e776de9695d321e2c36d8430faea48efc2188df386aebbd5cb2ab150b1b7ad4e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 359,
+      "sha256": "e583ff4d10a906b325fad0721cd7b0eead57a4cf1dbeab3e6315ea3ba4918dff"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 359,
+      "sha256": "8912df696aee8fb27adbcc5735312259e71b9ffa07ad7101fecf8c156eedf59c"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 481,
+      "sha256": "83ba937a8f4ebe42fa41e774ad0bbe504a6fb691fff6b9d80115ac6bc53ed43a"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 290,
+      "sha256": "047da0f997b166256ae27a4a04590b373fe6e787ddddcccd451fae4171408acd"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 503,
+      "sha256": "957cbc620e2496568bebc63a1805acc010abdc03cd3c400ab11bd1199d34404d"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 462,
+      "sha256": "e815c5cd119ac47feead916609146f9f4cc4f8f9ffa8b2fd21101ba352c76975"
+    },
+    {
+      "path": "index.html",
+      "bytes": 149895,
+      "sha256": "d0242d3511337483c4488aee9c7a674241a9a82bf68ddc3132497e17e9b5c833"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "video-media",
+    "3d-canvas",
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "features",
+    "timeline",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

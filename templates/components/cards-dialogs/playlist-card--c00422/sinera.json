@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00422",
+  "title": "Playlist Card",
+  "summary": "Curated music playlist card featuring cover art, track preview, and interactive controls. Includes play button, like functionality, and track listing display.",
+  "tags": [
+    "card",
+    "playlist",
+    "music",
+    "cover",
+    "modern",
+    "dark",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11232,
+      "sha256": "c0e3b2462421da2e675524b205e164ac4ec74292f73046933d13ed847e013081"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4304,
+      "sha256": "c02f3f70204752f37a1ceb9fe0fc843809efbabb56a0459b0dbe51af096daf66"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5138,
+      "sha256": "8624d015f90d86f9afef9875d87bf83278c94ed115b9b1b9fb1bacf9811fab62"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

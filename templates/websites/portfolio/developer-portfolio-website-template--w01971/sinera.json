@@ -1,0 +1,71 @@
+{
+  "id": "SN-W01971",
+  "title": "Developer Portfolio Website Template",
+  "summary": "A dark, polished developer portfolio website template for showcasing projects, experience, tech stack, and contact links with a modern, minimal aesthetic.",
+  "tags": [
+    "Portfolio",
+    "Landing Page",
+    "Technology",
+    "Art & Design",
+    "Minimal",
+    "Dark",
+    "Large Type",
+    "Gradient",
+    "Developer",
+    "Personal Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3637,
+      "sha256": "d43aa063f434b2c4766518d259948700517cd7e114f4d0d41937816e2b15bcce"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9584,
+      "sha256": "ec3284e91a9c1d3c7243cb10b70bb29d75a46230e00e6a57a8497c0fae31998b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 864,
+      "sha256": "5bebf37b47b4955d50491dfe3b668a7c12a8fdd9091e85af666e7e52532c9383"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "845a8c33647082b21c3db87d511ee26caa07aa7a2c9bf6b015aad47a996ab97f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23510,
+      "sha256": "96ae69bfb89b66e939778bafe9ea7a88eea289b0cbffb433468f2e20dc91f490"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "about",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

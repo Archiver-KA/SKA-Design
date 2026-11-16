@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01345",
+  "title": "WhatsApp E-commerce Landing Page Template",
+  "summary": "A modern Cartivo-style WhatsApp E-commerce landing page template for showcasing fashion, beauty, and gadget products with simple chat-based ordering.",
+  "tags": [
+    "E-commerce",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Technology",
+    "Fashion",
+    "Mobile First"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3762,
+      "sha256": "fbb74aa4e259bdb4a09fe82c560ca5a22fc216e899e8a8562f4ca9c1c4118275"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10426,
+      "sha256": "415c4a51a701834e6c689eb4ba7f3029368fff103030c63c9c5af682a1695f3b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 814,
+      "sha256": "6a796935b3a72da75721d65cc4f0e99202933fa82715ae53730d805e7dcfb54b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26730,
+      "sha256": "591df37b51d86a7d359c7fc70c23897d58f932fc8cabac895636f4c3e932e959"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "product-grid",
+    "stats",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "SN-W02178",
+  "title": "Portfolio Work Showcase",
+  "summary": "Responsive portfolio layout displaying selected projects with custom buttons and animated cards using Tailwind CSS.",
+  "tags": [
+    "Portfolio",
+    "Tailwind CSS",
+    "Responsive Design",
+    "UI Cards",
+    "Animation",
+    "Custom Button"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2905,
+      "sha256": "f89226f487f5146f1de203b7f19712af6d801370f30212608980d122c06fb84f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19694,
+      "sha256": "616f56f7c8153eb4427f1dc685b677544efdfa40036783c7f26bc37a5d1df9b5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1638,
+      "sha256": "32ccb20c3b8cdae567ff82729fc831a13f9e9cca2c7156b71c41c08cf4d0d08f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 191,
+      "sha256": "439c858a315324f3d4250affde4faf7c81313dbad58d9bf72602281da8e9c71d"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 404,
+      "sha256": "e1972549bd9fdc78878483b56147bc8fd0c74d025d57d902edad1aa896a99bca"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 404,
+      "sha256": "d0d74cb0432f06df268da898581290c89d06ec3cabd0716a82a4b86a49e5a11f"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 404,
+      "sha256": "4d936d88f3b7e43575e6529639df5286df950574c25b3828cd08e9685188ade1"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 403,
+      "sha256": "e017cb2ba71c88355d887fc65d845199c51149ad3a8fe55de715b57b3885969f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9321,
+      "sha256": "e1356376d35a2653c1d51cccf5c826ca6e93f2be356d506e98eade080af85995"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "case-studies",
+    "dashboard-preview"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

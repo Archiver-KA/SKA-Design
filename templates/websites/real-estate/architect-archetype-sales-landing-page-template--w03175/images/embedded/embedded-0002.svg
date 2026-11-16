@@ -1,0 +1,36 @@
+<svg
+                viewBox="0 0 100 50"
+                class="w-full h-full overflow-visible ml-6"
+              >
+                <path
+                  d="M0,45 Q50,40 100,5"
+                  fill="none"
+                  stroke="#A0AEC0"
+                  stroke-width="1"
+                  stroke-dasharray="2,2"
+                ></path>
+                <path
+                  d="M0,45 Q50,45 100,45"
+                  fill="none"
+                  stroke="#1A202C"
+                  stroke-width="1.5"
+                ></path>
+                <path
+                  d="M0,45 Q50,40 100,5 L100,45 Q50,45 0,45 Z"
+                  fill="rgba(229, 62, 62, 0.1)"
+                ></path>
+                <text x="80" y="15" class="text-[5px] font-mono fill-[#A0AEC0]">
+                  Projects Started
+                </text>
+                <text x="80" y="42" class="text-[5px] font-mono fill-[#1A202C]">
+                  Projects Finished
+                </text>
+                <text
+                  x="50"
+                  y="28"
+                  text-anchor="middle"
+                  class="text-[6px] font-mono fill-[#E53E3E] font-semibold"
+                >
+                  Compounding Cost
+                </text>
+              </svg>

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00164",
+  "title": "Gradient Border CTA Button with Icon",
+  "summary": "Interactive call-to-action button featuring a multicolor gradient border, icon support, hover lift, and shadow animation. Built with Tailwind CSS utility classes, ideal for landing pages, hero sections, or signup prompts.",
+  "tags": [
+    "button",
+    "cta",
+    "gradient",
+    "tailwind",
+    "icon",
+    "animated",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1996,
+      "sha256": "513577b050944041ba908602eaeedadc761a900efa92c3b0d09369a367fa3ca7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1583,
+      "sha256": "858dc47bc12c3d6fd304b7cf1e3e01b481a159898347a35a6516d218ab2fe7be"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2570,
+      "sha256": "0e5f2eb7f0d7922dd7441912028b3d096cc0206ef4074455ef626fca1a2601b1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02412",
+  "title": "Hover-Animated Testimonial Card Grid",
+  "summary": "Responsive grid of testimonial cards featuring avatars, quotes and author details. Tailwind CSS hover animations add lift, scale and shadow. Ideal for landing pages, SaaS sites or any layout showcasing customer reviews.",
+  "tags": [
+    "testimonial",
+    "card",
+    "grid",
+    "tailwind",
+    "hover",
+    "responsive",
+    "avatar"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 25154,
+      "sha256": "60272384db1471d2092d788ab3371775563f7c918a8e43ea4750faa00066127a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6726,
+      "sha256": "d83c8e7d690e37647dc326df86ef3793373df30de4e8703c060ac82f32a00dc6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7713,
+      "sha256": "8040d8acec7e0734930c6401f7e22941c6823636d0e1f3b915b02f02cdcc4dcd"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

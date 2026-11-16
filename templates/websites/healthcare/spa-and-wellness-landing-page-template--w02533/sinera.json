@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02533",
+  "title": "Spa & Wellness Landing Page Template",
+  "summary": "A refined spa and wellness template for showcasing treatments, brand philosophy, fitness services, and booking-focused calls to action.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Elegant",
+    "Wellness",
+    "Spa"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3531,
+      "sha256": "148d6170f0a4dd0b6fb7a4f0d75b5ffad6db412f1186624fbb4801f5240ce83d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13000,
+      "sha256": "f0dabb57f551fb95b53e9fd9382b1c442e826bfc3d131e14c9b12550369f682b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 808,
+      "sha256": "f8beb9756b68426ff638b0285dcfea33a885b8ececc80971f94088150bc95c5f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21053,
+      "sha256": "38cdcf37a82c1a2a32a93e7448b82e1885e10b9a4654ac1a2aa983247d8691b6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "about",
+    "how-it-works",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

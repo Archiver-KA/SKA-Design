@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00797",
+  "title": "Interactive Feature Grid Landing Section",
+  "summary": "Dark Tailwind-based landing section with a sticky header, hero copy, and morphing feature cards enhanced by Three.js canvas animations. Ideal for SaaS, product showcases, and modern tech homepage sections.",
+  "tags": [
+    "feature",
+    "section",
+    "tailwind",
+    "animated",
+    "interactive",
+    "threejs",
+    "responsive",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14736,
+      "sha256": "beaa02c517599b30c661ab53bd7bc435bd0fa9fc178447d411f270ad6500fb07"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10988,
+      "sha256": "2feb52ee7b02940f3927d9ad1e2fcc22a113decbef47b196dc3691fb09d4ca98"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11849,
+      "sha256": "41821a6c567821cbd3f3f23425b72ccf7092e13d20a1c46da1c705c0c8128472"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

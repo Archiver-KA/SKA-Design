@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02053",
+  "title": "Night Race Ticket Pricing & Admission Section",
+  "summary": "Full-width admission and ticketing section featuring sprint and beast pricing cards, benefits lists, hero-style admission header, and a book tickets panel with imagery. Styled with Tailwind utility classes for modern, responsive event ticket landing pages.",
+  "tags": [
+    "pricing",
+    "section",
+    "ticketing",
+    "event",
+    "tailwind",
+    "responsive",
+    "cards",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 33610,
+      "sha256": "a158a700850b1406a8f67a47bafc718690b0bf91db716945699b8aeee1232dd2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9268,
+      "sha256": "7ae5206ebcc881b36faef1fb7673755eb75687047e1f8687c5b0c3a277503d06"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10138,
+      "sha256": "2ababe888da3b801b2e1f1c7841c32f07c09b47ff6e12eab9984ca5042298260"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

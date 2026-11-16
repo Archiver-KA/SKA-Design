@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00461",
+  "title": "Tailwind Community Preview Card with Hover Effect",
+  "summary": "Interactive glassmorphism card featuring cover image, title, description, icons, member stats and verified badge. Uses Tailwind CSS utilities, hover transitions and blurred backdrop for community or product listings.",
+  "tags": [
+    "card",
+    "tailwindcss",
+    "hover",
+    "glassmorphism",
+    "responsive",
+    "link",
+    "community",
+    "stats"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20140,
+      "sha256": "a7ebc8a6f754c86c59eadfcbc60e5a21b840be6fce16f4f2244ffafc0090832e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2739,
+      "sha256": "d2697945bb57a074dc177aaef63dbece0feb2d87f17508ae9726d4ef67ecc4c4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3739,
+      "sha256": "2111d11ecf3ac53bbb07238badb341d3c734f06c4d037555f57f2fda3de1c03f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

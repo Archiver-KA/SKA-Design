@@ -1,0 +1,70 @@
+{
+  "id": "SN-W03545",
+  "title": "Terminal Course Landing Page Template",
+  "summary": "A dark, terminal-first landing page template for promoting a developer-focused course or curriculum, ready to reuse for your own tech education offering.",
+  "tags": [
+    "Landing Page",
+    "Education",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3686,
+      "sha256": "476d7b77abb12ece010d3493085c571f0a27efb0b7f1d23655364c5f0b8c17f9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7858,
+      "sha256": "7589769bdc347bc2ec6464c430550c305b1e69448c9236821e4caf48342c7b75"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 865,
+      "sha256": "f0aa6ed09c87f12cf800245dad9aa877fcbda9d0b79ee2272adf210958db48b5"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "845a8c33647082b21c3db87d511ee26caa07aa7a2c9bf6b015aad47a996ab97f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33675,
+      "sha256": "82da94cf578267410b1147c5447dc4fb7ffab737a728d2ac56898803e345e7fd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "features",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

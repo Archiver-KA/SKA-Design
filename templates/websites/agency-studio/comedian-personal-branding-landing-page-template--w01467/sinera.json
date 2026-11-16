@@ -1,0 +1,69 @@
+{
+  "id": "SN-W01467",
+  "title": "Comedian Personal Branding Landing Page Template",
+  "summary": "This reusable template showcases a comedian and speaker's personal brand with sections for bio, services, videos, shows, testimonials, and contact booking.",
+  "tags": [
+    "Landing Page",
+    "Personal Brand",
+    "Comedian",
+    "Speaker",
+    "Services",
+    "Shows",
+    "Testimonials",
+    "Contact",
+    "Video Reels"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3713,
+      "sha256": "b79e6d7554358d7596118f849d207ae40f40843e1637b055075612d5ab195077"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10844,
+      "sha256": "7668431cb69a15d26d0c68dfbb5ed1622437aed2e88e81abb8766e11fc7a64dc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 742,
+      "sha256": "6ab56d2bbdbf3c4120fbd907752e11f1354c36f7d17e1a206361d08f080fe568"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29606,
+      "sha256": "f8f6b9ff6274756e39d2c1e0bcca457ab532dcf186c67a0da05fd97c8bf5eff1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "features",
+    "video-media",
+    "gallery-portfolio",
+    "listings",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

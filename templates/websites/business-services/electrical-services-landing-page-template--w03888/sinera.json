@@ -1,0 +1,77 @@
+{
+  "id": "SN-W03888",
+  "title": "Electrical Services Landing Page Template",
+  "summary": "A modern electrical contractor landing page template for promoting installation, maintenance, generators, and compliance services with strong safety credentials.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Technology",
+    "Gradient",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3832,
+      "sha256": "9dc8c5cb3cacc49238b1548f05d9630f8df54c0c973487dc35d7f68dd4b929da"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15876,
+      "sha256": "01d41ff2636822254d146730dece4da0e77bd7ca25afbc211db4f7b9f75ffd3f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 963,
+      "sha256": "2473b9b217834954aa4aa0f3919b3127ae21185bb6d119825c8ae1dcd01a5580"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 307,
+      "sha256": "b165bc9e57ce539376e9f3c7e8fb01fc2b903db2e1e64351e6ffd5cdb61ae612"
+    },
+    {
+      "path": "index.html",
+      "bytes": 50339,
+      "sha256": "bb42a15a45feffdf0b203cde7de2c82ce91d311af7a83d58de2e8080b2518899"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "auth-form",
+    "services",
+    "about",
+    "features",
+    "case-studies",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03965",
+  "title": "IT Services Landing Page Template",
+  "summary": "A modern IT services landing page template for technology consultancies to showcase infrastructure, cybersecurity, and support offerings with a polished brand.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "IT services template",
+    "Consulting"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3737,
+      "sha256": "3a2fd01dde0f08aef01adcb9b46b0782668ef0cab14d5b717700151d4793b5fd"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13636,
+      "sha256": "7e8fdf0af8491b50bc2ee4565d6a8097bbf56c29757a43a45f030087a1e368bc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "57aadb0c4399f418324be274f92d8d5d2c53b42b8ed8945b07496f6dbc992fe2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35896,
+      "sha256": "ea4d3c6009c25f10aff0d759aa8024ab7ea1127c00a7b5b8053387f80096325a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "features",
+    "about",
+    "blog-articles",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

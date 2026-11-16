@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01342",
+  "title": "Futuristic Brutalist Hero Section with Three.js Integration",
+  "summary": "A high-end hero section featuring a 3D grid floor, an animated particle globe, and a brutalist bento-style grid. Includes text reveal animations via GSAP and interactive Three.js backgrounds for a sophisticated technical aesthetic.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "threejs",
+    "animated",
+    "gsap",
+    "dark-mode",
+    "bento"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 17200,
+      "sha256": "ec4b5138b71d142042b852b52ac4ca9c77aa87a2994fd56cc037a8ff247f589c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13672,
+      "sha256": "2f741526fb18290c866cb31d90e4d7afcee8af42832b2dd864f1a60a44d49e49"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

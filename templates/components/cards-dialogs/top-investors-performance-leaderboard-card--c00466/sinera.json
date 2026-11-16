@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00466",
+  "title": "Top Investors Performance Leaderboard Card",
+  "summary": "Glass-style leaderboard card listing top 10 investment funds with rank, initials avatar, manager name, and YTD performance, featuring scrollable content, Lucide icons, hover states, and Tailwind-style utility classes for dashboards or analytics UIs.",
+  "tags": [
+    "card",
+    "leaderboard",
+    "finance",
+    "dashboard",
+    "tailwind",
+    "scrollable",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7712,
+      "sha256": "004f80752998953ad7a4710642e9ff09841b38be77597a76a5e12d2762e204f1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11125,
+      "sha256": "2ffbe5814a8a9858371dab3888d30e3391edb89c8d974cbc2a92fbf40e1bfc7e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12118,
+      "sha256": "8ed7762aee2521f152cf8e96be2d3a8899ebad9d9a62241d7704d8a84db7a23c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

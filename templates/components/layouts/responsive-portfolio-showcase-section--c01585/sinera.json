@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01585",
+  "title": "Responsive Portfolio Showcase Section",
+  "summary": "Tailwind CSS section presenting six project cards in an adaptive three-column grid. Each card features an image with gradient overlay, title, category, and summary, with a header and CTA button. Ideal for agency or personal portfolio pages.",
+  "tags": [
+    "portfolio",
+    "grid",
+    "section",
+    "tailwind",
+    "responsive",
+    "image-overlay",
+    "showcase"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 56698,
+      "sha256": "a23c6aefc72f07217314cc1be9e95a982d080838ad62f56ba23d19f1f963d552"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6186,
+      "sha256": "a0a14f13275b4789e7ca5527584b035077978b54105ab38b64b209a4009d43bd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7044,
+      "sha256": "87a412ba1e2aba231114bd92cb61af90c656a0d6ae8c176fbaa68203ad800020"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

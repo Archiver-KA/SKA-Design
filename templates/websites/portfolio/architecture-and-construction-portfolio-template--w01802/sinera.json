@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01802",
+  "title": "Architecture & Construction Portfolio Template",
+  "summary": "A high-end architectural studio template designed to showcase bold visions, innovative projects, and sustainable construction services.",
+  "tags": [
+    "Technology",
+    "Services",
+    "Portfolio",
+    "Real Estate",
+    "Clean",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3616,
+      "sha256": "30afb55667820ee3bb7a6c85679ae2067a9ee1d973ff588fe30d5a57675e1771"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 34226,
+      "sha256": "6aa5fe9c4bb2bc52d0b6f04a9a944ff617bd65f8cfe20fabfcb63792b78dfb9e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "4225b66da557aff2b22ca8471bb647672fd077823452047ee9669c375637d284"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30750,
+      "sha256": "09125f6d022f5624cd8ce7d8d85469d41a8cec7cd913578ec90f1af95794dbb3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "stats",
+    "about",
+    "gallery-portfolio",
+    "services",
+    "how-it-works",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

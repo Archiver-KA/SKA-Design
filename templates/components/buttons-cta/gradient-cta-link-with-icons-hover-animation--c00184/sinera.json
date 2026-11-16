@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00184",
+  "title": "Gradient CTA Link with Icons & Hover Animation",
+  "summary": "Interactive anchor styled as a pill-shaped call-to-action button. Uses Tailwind utility classes for blue-to-indigo gradient, shadow on hover, and arrow icon slide animation. Ideal for “contact”, “ask us”, or other prominent actions in responsive UIs.",
+  "tags": [
+    "button",
+    "link",
+    "cta",
+    "icons",
+    "tailwind",
+    "gradient",
+    "hover",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2378,
+      "sha256": "fb76534bf4342bd1120a62df26d498ba365c7a9d3d3d16034a81882cbb90ceaf"
+    },
+    {
+      "path": "component.html",
+      "bytes": 920,
+      "sha256": "dbb258d20b81d6d4072a82802f8d9656523cd739e737ff93cd04cc592dd7d677"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1791,
+      "sha256": "18a0f8036b02343cd7f572eec74811716e321db679abbaf1e827202c426d1b38"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

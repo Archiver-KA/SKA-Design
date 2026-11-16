@@ -1,0 +1,38 @@
+{
+  "id": "SN-C00708",
+  "title": "Bento Grid Feature Section with Atmospheric Gradient",
+  "summary": "A high-fidelity features section utilizing a responsive bento-style grid. It features GSAP-powered text reveal animations, interactive UI mockups for hiring tools, and a dynamic atmospheric sky background with slow-drift animations and glassmorphism.",
+  "tags": [
+    "feature",
+    "section",
+    "tailwind",
+    "gsap",
+    "animated",
+    "responsive",
+    "glassmorphism",
+    "bento"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22264,
+      "sha256": "d6153365bb8c5bd1cdda12358f61e72abd2a87531aeaa762de6085f23d0b2c13"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19467,
+      "sha256": "ddc8805288a7cc30545d8bedf12f407d1d156399c8af300a6e25679d0d1b8a48"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

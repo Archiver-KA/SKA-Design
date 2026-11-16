@@ -1,0 +1,38 @@
+{
+  "id": "SN-C02107",
+  "title": "Tiered Architecture Pricing Comparison Table",
+  "summary": "Full-width pricing section comparing legacy core vs quantum engine capabilities in a tiered table layout. Includes hover-highlighted feature rows, a subscription total row, and a CTA button. Styled with custom CSS and Tailwind CDN, ideal for SaaS or tech pricing pages.",
+  "tags": [
+    "pricing",
+    "section",
+    "responsive",
+    "interactive",
+    "table",
+    "comparison",
+    "cta",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18018,
+      "sha256": "2ebdb3f2089c18a06a69fd259e8e46ae115829eee76d4b6e7ee2baa89e9aa224"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4529,
+      "sha256": "6a048c9567481fb8802479c893c400e0c9eba52f2d9a308ae60225db7bf15d63"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

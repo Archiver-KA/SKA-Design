@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00630",
+  "title": "Responsive FAQ Accordion with Intro & CTA",
+  "summary": "Interactive FAQ section with large heading, description and call-to-action alongside a toggleable accordion list. Uses Tailwind CSS utilities, glassmorphism backdrop blur and responsive grid—ideal for landing pages or help centers.",
+  "tags": [
+    "accordion",
+    "faq",
+    "tailwind",
+    "responsive",
+    "cta",
+    "glassmorphism",
+    "grid",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "faq",
+  "categoryLabel": "FAQ & accordions",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 25908,
+      "sha256": "3e27dea40dc3d423d7ea82afe935629d819072aa3f0c93b9b611c79451ca202e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11147,
+      "sha256": "82f46d1008730afc42ec8be0b7b50eae21d708f17e0180797ab6d98b887a39de"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12143,
+      "sha256": "a4cc57dc8b367b02467f552320f3455f0cda974d11830edce9f0d1b9016cc109"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

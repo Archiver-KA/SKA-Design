@@ -1,0 +1,77 @@
+{
+  "id": "SN-W01786",
+  "title": "ALBA Studio ",
+  "summary": "A brutalist, architecture-inspired landing page template for digital studios and creative agencies to showcase philosophy, process, and selected work.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Art & Design",
+    "Portfolio",
+    "Brutal",
+    "Minimal",
+    "Dark",
+    "Large Type",
+    "Technology",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3478,
+      "sha256": "9ccd68dadc918ded4557395ab6f6b0ca20d9093336a69b0814dd106b3611c723"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11104,
+      "sha256": "48248d1cd2a29d2476ccefda510a9e7c3c304d2c148db214bebc4d7c36a8ea1e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 923,
+      "sha256": "d34369f6846517f34ef8eb0da2aecaf98b75fab0924f47f5f9df7c0c7bdb94d0"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "ec7f8106634cc1e6800f3419db098917d9e23efe4336d1a26af8c2bada9dbabf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31235,
+      "sha256": "47adc726c6b6bc5d67b33f63a77f35729240e3087be866f5bf591edabf74a613"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "contact-form",
+    "hero",
+    "about",
+    "features",
+    "how-it-works",
+    "marquee",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

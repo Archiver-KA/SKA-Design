@@ -1,0 +1,37 @@
+{
+  "id": "SN-C02040",
+  "title": "Interactive Pricing Section with Billing Toggle",
+  "summary": "A full-width Tailwind CSS pricing section featuring three plan cards, a monthly/annual billing toggle, animated price updates, highlighted popular tier, and responsive layout. Ideal for SaaS, hosting, or infrastructure product landing pages.",
+  "tags": [
+    "pricing",
+    "section",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "toggle",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21074,
+      "sha256": "782d79ad45ed4bd25afb941c1f31317da5b1b70ae7adffaa3bff76e6ec0e443f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17435,
+      "sha256": "c4299b832590a472d5b7113d34a7947cc046b657dc48c1ebe0d1be59c6eb4035"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

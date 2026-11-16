@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00215",
+  "title": "Image Background Link Button",
+  "summary": "Anchor element styled with Tailwind utilities to appear as a 200×40 px button featuring a background image, blend and invert effects. Acts as a visually rich link or CTA for navigation or promotions.",
+  "tags": [
+    "link",
+    "image",
+    "tailwind",
+    "navigation",
+    "cta",
+    "logo"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2602,
+      "sha256": "08f9e8f8fe1a5f4a6f2258953b215e9ee369cf16b53691b3a659416852d7a0b9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 578,
+      "sha256": "cfb43f10926ceb5e5284209c0c4131661533b8a105ca57648c13255066a1a604"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1427,
+      "sha256": "7f1b2ed93b90680a07179a6144fbf0c24f3a547a45c64a939a2903a46ec07d90"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

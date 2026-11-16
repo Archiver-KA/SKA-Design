@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01482",
+  "title": "Responsive Portfolio Hero with Carousel and Sidebar",
+  "summary": "Tailwind CSS portfolio hero layout featuring a large studio heading, a 600-px tall image carousel with navigation and dots, and a sidebar holding profile, background image, and social/contact buttons. Perfect for photographer or creative studio landing pages.",
+  "tags": [
+    "portfolio",
+    "carousel",
+    "tailwind",
+    "responsive",
+    "grid",
+    "photography",
+    "profile-card",
+    "hero"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 35424,
+      "sha256": "755d5fd8ca193393934127c678e084e550d173177937dbf41b234118887ad433"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9537,
+      "sha256": "d6a18804067cc0db9d2b37f6d377270dca3373832d3ae2554a5259018a18e146"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10539,
+      "sha256": "f9015131f98d36775dde64674681949e1270b0de6543e0928fd1efc7587b7152"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

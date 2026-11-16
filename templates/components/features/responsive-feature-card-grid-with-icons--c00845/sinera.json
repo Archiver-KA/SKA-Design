@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00845",
+  "title": "Responsive Feature Card Grid with Icons",
+  "summary": "Responsive Tailwind grid showcasing feature cards with icons, headings, descriptions, bullet lists and badges. Includes hover color transitions—ideal for landing pages or product highlights.",
+  "tags": [
+    "feature",
+    "grid",
+    "tailwind",
+    "responsive",
+    "icon",
+    "marketing",
+    "hover"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 28092,
+      "sha256": "f5273ad63502e7a51373e75acaebb0f1220ff0e1bd22f0f12aec33943cecd9be"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8940,
+      "sha256": "8ca8d8b08a86e4e739b7cc96b996b1cf1cef4d8d5802ddf9a7d1119c656427c1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9930,
+      "sha256": "92679432f5666bd951288e7967088bfaa43e22a798035978019e05933a1d8876"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

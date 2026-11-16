@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02016",
+  "title": "Dark Pricing Section with Pro Plan Card",
+  "summary": "A modern dark-theme pricing section featuring a header, monthly/yearly toggle, and a highlighted Pro Plan card with price, feature list, and CTA button. Uses Tailwind-style utility classes, gradients, and subtle animated effects for SaaS or product pricing pages.",
+  "tags": [
+    "pricing",
+    "section",
+    "tailwind",
+    "card",
+    "responsive",
+    "cta",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19060,
+      "sha256": "23beeed9e7580e1295ba1bdfa251ed2da976756221196e5801335772b4b8861b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7644,
+      "sha256": "c6ed2207d547b064facb1d1c36386c95ad692807dbe531c976dc180dede0e5f9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8504,
+      "sha256": "f2ac83e31d82e3dfda09c6d07ccb240de4f8d4aec02888a7c9d4ae414fb31927"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

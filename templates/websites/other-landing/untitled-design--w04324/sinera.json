@@ -1,0 +1,57 @@
+{
+  "id": "SN-W04324",
+  "title": "Untitled Design",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3677,
+      "sha256": "0049e2b3cfaf64b7908177ca4590a7885e228fd82cb17b110aed15482133b5ae"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14650,
+      "sha256": "b22acc3761d25d2f3cb164cac76bd327a8aefc326121158aa8ac5ba21778aade"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 709,
+      "sha256": "da40c0555359b34f1a0448738b9eddf31de5c0a02dce02f1e9b01ef6269b8723"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29567,
+      "sha256": "cf920bee843ebd69e2ba76ae6301a2bec587767719e06f371d0c0374d969942a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "services",
+    "case-studies",
+    "pricing",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

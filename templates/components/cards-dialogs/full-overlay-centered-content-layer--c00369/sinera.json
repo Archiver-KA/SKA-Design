@@ -1,0 +1,41 @@
+{
+  "id": "SN-C00369",
+  "title": "Full-Overlay Centered Content Layer",
+  "summary": "Absolute-positioned full-overlay container that centers its children and transitions text color on parent hover. Useful for hover states, overlays, or interactive layers in Tailwind CSS-based UIs.",
+  "tags": [
+    "card",
+    "overlay",
+    "hover",
+    "tailwind",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5560,
+      "sha256": "93c8f3e50719b1c41008767eb46930ae88bc35c6ed271a5f0b5ff6198937c1eb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 166,
+      "sha256": "6fbad8631f5f7a6eed0f515061aaebef2b2bb3a5dca1a2510f2249da48a6496b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1025,
+      "sha256": "9f4bef55a397e055cada2b6fffd836d83ec5d9a3ba0a84f2fb03861d36d8a8b0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

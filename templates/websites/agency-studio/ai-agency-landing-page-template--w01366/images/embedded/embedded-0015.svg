@@ -1,0 +1,17 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none opacity-30" viewBox="0 0 280 140" preserveAspectRatio="none">
+                    <!-- Path from Input to Brain -->
+                    <path d="M50 70 L 110 70" stroke="url(#gradient-line-aura)" stroke-width="1.5" stroke-dasharray="4 2">
+                        <animate attributeName="stroke-dashoffset" from="12" to="0" dur="1s" repeatCount="indefinite"></animate>
+                    </path>
+                    <!-- Paths from Brain to Outputs -->
+                    <path d="M140 70 C 170 70, 170 40, 210 40" fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="1"></path>
+                    <path d="M140 70 C 170 70, 170 70, 210 70" fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="1"></path>
+                    <path d="M140 70 C 170 70, 170 100, 210 100" fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="1"></path>
+                    
+                    <defs>
+                        <linearGradient id="gradient-line-aura" x1="0%" y1="0%" x2="100%" y2="0%">
+                            <stop offset="0%" stop-color="rgba(59, 130, 246, 0.2)"></stop>
+                            <stop offset="100%" stop-color="#3b82f6"></stop>
+                        </linearGradient>
+                    </defs>
+                </svg>

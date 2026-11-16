@@ -1,0 +1,66 @@
+{
+  "id": "SN-W02024",
+  "title": "Full Stack Developer Portfolio Template",
+  "summary": "A bold full stack developer portfolio template to showcase skills, latest work, and availability for hire with a clean, animated aesthetic.",
+  "tags": [
+    "Portfolio",
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Art & Design",
+    "Clean",
+    "Animated",
+    "Minimal",
+    "Large Type",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3101,
+      "sha256": "3d719feab355a3bf4681108ea76b202d1cde56f7c142b1d8ba29312d5c9f7863"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12070,
+      "sha256": "1fe547c430c21fe3ad9b0149d8fec6a3cd9ded3bbb14a0bb123ea0f094fd6525"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 810,
+      "sha256": "bdd46218156d9e252e47f367bf205991ed5278a2a4e34b1d3233eb7652872a62"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11522,
+      "sha256": "7780acc0f8db16b610e7a2664fc1ff0e0c87a80a0aaccacf6943b37aaf644f37"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,147 @@
+{
+  "id": "SN-W01799",
+  "title": "Architectural Portfolio Landing Panel",
+  "summary": "Responsive landing page panel showcasing architectural portfolio with hero text, navigation, and call-to-action buttons using TailwindCSS.",
+  "tags": [
+    "Hero",
+    "Portfolio",
+    "Navigation",
+    "TailwindCSS",
+    "Responsive",
+    "Call-to-Action",
+    "SVG Icons"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3388,
+      "sha256": "bc28b2f73dc1411af03391181a305dfd9e7710fafc9c2810a789390fd3894382"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21600,
+      "sha256": "2847f1744f67c3875d0a37adb2da95197065c7fc47dcac402635260f60a31ab2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 4165,
+      "sha256": "c797c36dd09960cfe19fa8269e0fd1f8601136976cc375863353645ff2a060f4"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 587,
+      "sha256": "673034702ac554cd90b066651aad5b22bf9485aed32d7ab727b246f8be022bbe"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 287,
+      "sha256": "d90f809e65464242a88445bad917435986deceeee1d89bfe369f63c257f79e11"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 428,
+      "sha256": "fb4955cd94ebdd05a931bcc380f43726ce881de165a6bde6c973644bc01f7f39"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 417,
+      "sha256": "474dde4b1f841b9ca6de8a10ea4a7162eaf18b7ad7975521f63b94864700f409"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 474,
+      "sha256": "c4ea2fe5f7088c15ba4af43b3d642cc5ebc10bcc02351e21500d8a7edc44022c"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 619,
+      "sha256": "976c6590678b7d40501a0c821a01ed69e62295d8a548cd776708e16811222c99"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 578,
+      "sha256": "ac2623063cb96bda42944129d7d3c555382fe751cd64e5ab0717977ad5db8654"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 345,
+      "sha256": "f213baeacc8ac7ea9ef0d1b16b952b8cf868ada152c9515b9e55964092c6627d"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 439,
+      "sha256": "48b04e5fd2a70ca5b63b46e236251bf49116f23a4e4d3995d7045ab53effbfac"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 407,
+      "sha256": "493ed62aa32e89edf94bf3c0b9e3949564c04e0e6645965f93e5869c51a2dcda"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 337,
+      "sha256": "d2f1d186ad6644fa9e1fbfddd148a6213b9bc18e46e1f14a49780b824a557615"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 636,
+      "sha256": "597ade4e67c21442b6eadf94f780cc342df51a250648e738edd74123c5eaf7ee"
+    },
+    {
+      "path": "images/embedded/embedded-0013.svg",
+      "bytes": 320,
+      "sha256": "bf2fa4bf59f736cd861d6f7dfe097a15f3ef3efa6d10d7e4c4d07bea2aca6824"
+    },
+    {
+      "path": "images/embedded/embedded-0014.svg",
+      "bytes": 435,
+      "sha256": "b6bedaab2fd1e7a9811a6e6435655ab6075495bd709b4c736b25c94608d32113"
+    },
+    {
+      "path": "images/embedded/embedded-0015.svg",
+      "bytes": 412,
+      "sha256": "554acb6b2520d76449531166ba2f52d0a78b2922cf309c05f677a018973b9c11"
+    },
+    {
+      "path": "images/embedded/embedded-0016.svg",
+      "bytes": 404,
+      "sha256": "c4d69ef9c92e17a4dafd873a4e43e6bbdb0a6271354a4a5cedc7c92cfbdfaf0b"
+    },
+    {
+      "path": "images/embedded/embedded-0017.svg",
+      "bytes": 379,
+      "sha256": "8a1f17bc9146da0c99f14864d1f540dd087c25976ab468095cb00bf622b80646"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20454,
+      "sha256": "bdcca5230878442c12c034f318b8236cc45e48e9b3feb279e94ec8d45bc8983e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "snippet",
+  "components": [
+    "navbar",
+    "hero",
+    "stats"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

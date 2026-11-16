@@ -1,0 +1,72 @@
+{
+  "id": "SN-W02302",
+  "title": "WordPress Developer Portfolio Landing Page Template",
+  "summary": "Bold, high-converting WordPress developer portfolio landing page template for showcasing services, ROI-focused results, and hiring-focused contact forms.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Large Type",
+    "Minimal",
+    "Portfolio",
+    "WordPress",
+    "Developer",
+    "Freelancer"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3685,
+      "sha256": "2fc1e8cd92ed191420a2ad21773d971af93ccfc2c6721982982357bea212469f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15180,
+      "sha256": "c8e6426688982e777696b7d6a6626cb333437608b8cf952025270859f634eaf8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 880,
+      "sha256": "abb4600d7e95953a3a75b44501844dc24307b2d9835c0378ee5ad6380e6e7dd1"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34426,
+      "sha256": "a9b2ce2a430723504323cd7ba970e7d199f3d2407fae839c9f248d8442b4130d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "stats",
+    "gallery-portfolio",
+    "how-it-works",
+    "faq",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

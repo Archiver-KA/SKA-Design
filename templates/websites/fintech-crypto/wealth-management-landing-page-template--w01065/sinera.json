@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01065",
+  "title": "Wealth Management Landing Page Template",
+  "summary": "A dark, high-end wealth management landing page template for financial advisors and private firms to showcase services, philosophy, and premium inquiries.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Financial",
+    "Wealth Management",
+    "Premium"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3553,
+      "sha256": "df421c997d57c4bd96559d94e5e1730bfc8614a11489727a298f8eaef1b005bd"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18876,
+      "sha256": "25a7fda0b755ab49703e3710815f4716ac851acc62dbc8f0316682e20b1b3d12"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "bbb510c8f6d025be50f302c2124d7cdd446dff4fd64616ffb1653c415ef4ea03"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25426,
+      "sha256": "216a6759dbcc27941cbad9ed83779bee09e7b107549f33a3cf5c4d65c168f710"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "map-location",
+    "cta",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

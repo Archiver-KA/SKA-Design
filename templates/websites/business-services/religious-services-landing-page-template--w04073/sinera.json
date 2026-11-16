@@ -1,0 +1,80 @@
+{
+  "id": "SN-W04073",
+  "title": "Religious Services Landing Page Template",
+  "summary": "A refined landing page template for showcasing faith-based services like donations, omra by proxy, and charitable actions in holy cities, ready to customize for your brand.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Religious",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Large Type",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3610,
+      "sha256": "1419a4501bf3d3cfe9ac6ea069c95dd85f53783d2f04acc093e621af901cefa9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17580,
+      "sha256": "18eb7a05c1786e7da897e60911a7e952609a28164bba96ccebb7234f03ec910f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1267,
+      "sha256": "2a8068554d1bad4ac5ed558224a45e876dbaf54e8201502124f62c5cf172b9c8"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 185,
+      "sha256": "b8ee534a9dfcd00081bef8293daf8b2b0a16e4548115c35ba655382c620557c7"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 1112,
+      "sha256": "93b8c64a68b8409c8f2377c235ad1f1d76efca87e1bc73032ae7f2b26b5d19df"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 525,
+      "sha256": "3ef1ca8fbdcaaf37253c65ee5c6efb529d45e02a52fb1be7e8e8c0e92504cd40"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32094,
+      "sha256": "dc3031963f1503bdfeca58982565cd0acc366ffdd4ec7cb3c06466a582ac70d2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "contact-form",
+    "marquee",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,20 @@
+<svg
+                      class="timeline-noodle absolute inset-0 w-full h-full pointer-events-none hidden md:block"
+                      style="z-index: 1;"
+                    >
+                      <path
+                        d="M 50% 50% C 40% 50% 20% 50% 0% 50%"
+                        stroke="currentColor"
+                        class="text-gray-200 dark:text-gray-800"
+                        stroke-width="1.5"
+                        fill="none"
+                        vector-effect="non-scaling-stroke"
+                      ></path>
+                      <path
+                        d="M 50% 50% C 40% 50% 20% 50% 0% 50%"
+                        class="noodle-beam stroke-[#ff9146]"
+                        stroke-width="3"
+                        fill="none"
+                        vector-effect="non-scaling-stroke"
+                      ></path>
+                    </svg>

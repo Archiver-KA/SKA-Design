@@ -1,0 +1,89 @@
+{
+  "id": "SN-W01919",
+  "title": "Creative web designer Portfolio Template",
+  "summary": "A high-performance portfolio template designed for web designers and developers featuring smooth 3D sliders and parallax effects.",
+  "tags": [
+    "Portfolio",
+    "Technology",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Animated",
+    "Services",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3606,
+      "sha256": "b9d7e087097b43cf02b57298d7b6ecc3e99aa5ddae8c2fde998127f57df90291"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1644,
+      "sha256": "bb9ee769f722f6b9d42beecd2b2caf2df6dfbfa9316e4d4cc426afe39c50b6f9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1451,
+      "sha256": "5e0a09fc0ece5b6b9ec6123e2770236cad10cd89867446bf88c71273dafbeb61"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 266,
+      "sha256": "584b6285e14318beb1a643014b27ff26332d21c64705dbd2dafdef7315953142"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 488,
+      "sha256": "888c847747ca77341af67d8c4aab3dee9e8436cb8c3dca3b59a2f99b03916d3b"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 375,
+      "sha256": "f82cb50fbeed2237786163cbce2af6edaf617d956fa76d6a88febb4892c09b13"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 258,
+      "sha256": "27366d81e5ab2fff338e9d4adb0e1cf7095fcf3ef5b47b890d9cebb4eb45c5ad"
+    },
+    {
+      "path": "index.html",
+      "bytes": 93682,
+      "sha256": "c5b489566132c6cd26d9dcb0f0ba2d195cc72aacae11fe33da9ee40a8e6c90d8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "menu-list",
+    "hero",
+    "auth-form",
+    "case-studies",
+    "services",
+    "testimonials",
+    "faq",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

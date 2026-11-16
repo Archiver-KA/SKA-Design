@@ -1,0 +1,64 @@
+{
+  "id": "SN-W04185",
+  "title": "Digital Experience Landing Page",
+  "summary": "Landing page with 3D background, hero section, stats, and feature highlights using Tailwind CSS and embedded 3D iframe.",
+  "tags": [
+    "3D Background",
+    "Hero Section",
+    "Stats",
+    "Features",
+    "Tailwind CSS",
+    "Responsive Design"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3376,
+      "sha256": "9964be55a67ab4689784254edb0d16c37e054b1f5ec21cbfc993eddc9ecef485"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15896,
+      "sha256": "6526934f55ce4c8550bb3cecdef897979575d01ddbeb38a78548c8876eb57217"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 868,
+      "sha256": "4c9e6e52c31c0817feee168f155927da3970123c1cc9a098e6fdae0fa5875950"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 247,
+      "sha256": "e58b2bd01d6427dc954b11c46e07192e2f8521361c736cd4c258457f5be1b543"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6126,
+      "sha256": "eda3e4d729de7674fc3259a6320b5c7a431a1eab10bff7d5ac02220fb11f7883"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "SN-W00263",
+  "title": "CA Firm Landing Page Template",
+  "summary": "A modern dark-themed landing page template for Indian CA, tax, and compliance firms to showcase services, content, and capture consultation leads.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3828,
+      "sha256": "655c6821df7bb892ab962ae7d8a0a4ea3129ccdecfcd7a60d4a5f1017c270ec3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17344,
+      "sha256": "f680ab64240ae4f8c14a21dee17f37ff322fd928e0957a109521ac99d4e8eb46"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 947,
+      "sha256": "6494c049c17692957cfc3e59e61c66a74a2aff3eaa95b50958dbeb2fee4cfde0"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 128,
+      "sha256": "6c032119b73f9910172da5554c0dbc0c0b3745576adb51d2b2090ba3b1556c9f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 45427,
+      "sha256": "68e2acebcfd8206eb5b58f23be2cf5d42590e1dc936a98706b72921b359d9b21"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "comparison",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

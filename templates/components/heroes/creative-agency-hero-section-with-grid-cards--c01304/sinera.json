@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01304",
+  "title": "Creative Agency Hero Section with Grid Cards",
+  "summary": "Responsive hero for landing pages featuring animated headlines, three-column grid with project stats, team photos, service list and CTA buttons. Built with Tailwind CSS and subtle scroll animations for modern agency sites.",
+  "tags": [
+    "hero",
+    "landing page",
+    "tailwind",
+    "responsive",
+    "animated",
+    "grid",
+    "agency",
+    "stats"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 36976,
+      "sha256": "292f39b8fc466a0d867e21fd353d04ab4b80cf4797b03d72859c52a798092b55"
+    },
+    {
+      "path": "component.html",
+      "bytes": 18553,
+      "sha256": "9eb484164a9153f85fb73dce85e4592b2b27baea7affeb4127913eca2e8ddb8e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19548,
+      "sha256": "7c254573f322a635e3e9a5fcf6e4f344b39178173f8325b253dddfbf6c3c05f9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

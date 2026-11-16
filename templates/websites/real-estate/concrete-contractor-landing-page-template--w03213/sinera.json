@@ -1,0 +1,64 @@
+{
+  "id": "SN-W03213",
+  "title": "Concrete Contractor Landing Page Template",
+  "summary": "A professional landing page template for concrete contractors and construction services to showcase projects, service areas, and capture new project inquiries.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Construction",
+    "Clean",
+    "Minimal",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3862,
+      "sha256": "0bd55c4f9849ebd08dfd0361fe45dd0c771cea41c810a5df4a70161e76621c85"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 45180,
+      "sha256": "ce9a473fc518fbaa1b8c2aabd462f03347f6cf1673a86cf0e7313bb1cd0dca31"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 731,
+      "sha256": "29da7a542bf8c3dc1c2872aef08ae0662ebffe1c4a965dab6e2049ad19cedcb8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27788,
+      "sha256": "05821102ee53cdd09ec6b5f32a49e4f7270c82089725c75851c11835dcc64692"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "services",
+    "case-studies",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

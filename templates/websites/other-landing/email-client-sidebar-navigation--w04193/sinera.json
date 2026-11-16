@@ -1,0 +1,101 @@
+{
+  "id": "SN-W04193",
+  "title": "Email Client Sidebar Navigation",
+  "summary": "Responsive sidebar UI for email navigation with compose button, inbox, labels, and storage info using Tailwind CSS and icons.",
+  "tags": [
+    "Sidebar",
+    "Email UI",
+    "Navigation",
+    "Tailwind CSS",
+    "Responsive",
+    "Icons"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3430,
+      "sha256": "20adedcfadbc36af00597a4e80399ee92f3643e2b25cf961f6d25cd2607e1ab7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11820,
+      "sha256": "cd97a12437ffc3d6190ff687ce1e0eab8ca518365c0c7fd6a74e7d9eb0372150"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2319,
+      "sha256": "2eeed596fd0a3a24ff036da0a1b98ba62a0d05a21b994392bc1d70986410bdba"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 335,
+      "sha256": "b5e7c32f5637813deb7bb9e21fa993f59313a0371c86199ecce50fe1f4d7874e"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 345,
+      "sha256": "c39d3e13beb0356566a89bb75f36f923bcf235199cb9aba8dba9e2d53f3f25bd"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 431,
+      "sha256": "6f29c674c98d68beb5a96d2c35bd8b306e4202a532dfb276a1fa3d4294d18f11"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 638,
+      "sha256": "b644240de1dfb604454a2c9e2d0a7da8010a7899808a14398ad3d5db015602f2"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 445,
+      "sha256": "a4f526d617f6a468c13b54e8dfa7814c342d9bcfb46f9523e18c8542488d495e"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 460,
+      "sha256": "c1d58283b21025fc7e51d8726a946af226a8eb7efc1e200a58febe94977067df"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 357,
+      "sha256": "1fac082326967a17df0e3c6e64849f469c21d89e202fdec37a7b55c1413a13f5"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 447,
+      "sha256": "33a9e5c41948c538641aec69b6ea5b8f5b579ce36f0cda290008fc521394c6a5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15817,
+      "sha256": "b743435ed63c4cb9875bd38f7d666e14a39921ef90acf4ee75b69319b2d670b1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "snippetType": "sidebar",
+  "design": "DESIGN.md"
+}

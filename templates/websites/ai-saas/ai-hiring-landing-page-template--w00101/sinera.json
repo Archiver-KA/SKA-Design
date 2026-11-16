@@ -1,0 +1,76 @@
+{
+  "id": "SN-W00101",
+  "title": "AI Hiring Landing Page Template",
+  "summary": "A reusable landing page template for AI-powered hiring platforms and recruiting services, designed to showcase operating models, proof, and founder-led conversion.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "AI recruiting",
+    "HR tech"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3732,
+      "sha256": "bb799dd1371dbd7bd31daac7a443560d3a38ee9f6daee858bc8d080a2082ba2a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18052,
+      "sha256": "d58157c7c6221016093dfebe376bc8001764e44de420b9a5fa776f81389d6eeb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 952,
+      "sha256": "7bd6c9bd5b9d82c8d88317e3879b3d524d3f936ad32ed7a2d841aa1896cb2cc9"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 246,
+      "sha256": "fef74d3d35564dc314f258e60638be0b0f65974f2356eac69f0bc668ca3fa69e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 43452,
+      "sha256": "fb07c11ded95686bfac1334e1e2c92eee122d122c01064a1ba65627ba170fe28"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "team",
+    "how-it-works",
+    "stats",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

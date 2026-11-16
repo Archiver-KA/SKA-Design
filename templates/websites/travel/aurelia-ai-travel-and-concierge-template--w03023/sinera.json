@@ -1,0 +1,60 @@
+{
+  "id": "SN-W03023",
+  "title": "Aurelia AI Travel & Concierge Template",
+  "summary": "A high-end travel booking and itinerary planning template designed to showcase premium AI-driven concierge services for busy professionals.",
+  "tags": [
+    "Travel",
+    "Technology",
+    "Clean",
+    "Dark",
+    "Animated",
+    "Services",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3798,
+      "sha256": "6b0a9ce40a3c0eb141883bc9231fc28636d40db5f7b6fd9279a295fb0468f68c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9514,
+      "sha256": "38d9879cf0856a8b19b3dc2446b04b268cc31be6aefd64c358bd6c4c43d609b1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "07e504747891d7c98514bb46bfa83e797fc3f7cece6473b6abe6c4eecd52d5f1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 86106,
+      "sha256": "ad90fa16c9b57c508048013996d486b607695cc08846fe6e8a0da45f178524dd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "features",
+    "timeline"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

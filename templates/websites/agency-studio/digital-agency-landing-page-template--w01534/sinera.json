@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01534",
+  "title": "Digital Agency Landing Page Template",
+  "summary": "A dark, futuristic digital agency landing page template for showcasing full-service marketing, industries served, metrics, and an interactive project estimator.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Large Type",
+    "3D",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3520,
+      "sha256": "e9dd686a005bf63c2993961aefe99ced91d47cd8fdfb1ac5615da359e83b37fd"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17322,
+      "sha256": "e1ec775f96de3f31890576ecf8bf0e66ffc45882ecc29b3b1ed7995c56002304"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "5972e7c59f13b708221fe8d835d36f29b17e6340304ee1afda993883416adcc3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37597,
+      "sha256": "6fb124332c64f343e8a252d93c5b632d2b18dfea65aff1ee411378622bd13b3e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "timeline",
+    "stats",
+    "product-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

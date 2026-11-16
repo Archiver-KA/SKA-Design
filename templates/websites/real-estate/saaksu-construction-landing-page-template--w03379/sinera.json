@@ -1,0 +1,62 @@
+{
+  "id": "SN-W03379",
+  "title": "SAAKSU Construction Landing Page Template",
+  "summary": "A high-performance construction and engineering landing page template designed for modern architectural firms and structural specialists.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3748,
+      "sha256": "cb84d29161e9b468102a21ff133fe1f3ae74960883ed107c3899dbdee47269e6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21446,
+      "sha256": "514c52d085388d58e77d04f1ffefbda6cc8085d333a678f9eddb68f47cfb1c88"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 731,
+      "sha256": "06d44a7e6fa6eb33240e073cdf4d08ab952c49b40dae5fc9cffe9a14e07ec60b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17927,
+      "sha256": "f28120a3624f04f2c5ce4d594f1bc7b6b81b7ad07215fab6b1adc12879216695"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "services",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

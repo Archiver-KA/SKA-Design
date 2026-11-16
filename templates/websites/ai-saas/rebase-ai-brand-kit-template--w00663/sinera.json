@@ -1,0 +1,62 @@
+{
+  "id": "SN-W00663",
+  "title": "Rebase AI Brand Kit Template",
+  "summary": "A reusable brand kit template designed to showcase a modern visual identity system with logos, typography, and color palette for tech and development brands.",
+  "tags": [
+    "Brand Kit",
+    "Logo",
+    "Typography",
+    "Color Palette",
+    "Download",
+    "Dark Mode",
+    "Visual Identity",
+    "Design System",
+    "Assets"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3527,
+      "sha256": "efaba419e4767717bc73cfe11d18539b7777e93078183dbd22215603d2d024ae"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9728,
+      "sha256": "be2117f497c5654e8c5fe04b2ae28a2e4d2d8bbcfd97694c4bccb5e9658f95f2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 722,
+      "sha256": "7a65019ded19757e3493c4b48555e7b9507a5d56ad27d9a16c914988155ddf36"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14804,
+      "sha256": "a52fdb6659993ebbee233e999eb5d7e58a9381be5eaeb7d36faf047b3673be4b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

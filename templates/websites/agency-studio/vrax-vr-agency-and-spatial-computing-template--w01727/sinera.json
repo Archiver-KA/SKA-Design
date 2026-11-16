@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01727",
+  "title": "VRAX VR Agency & Spatial Computing Template",
+  "summary": "A high-performance VR agency template featuring immersive WebGL effects, GSAP scroll sequences, and a futuristic dark aesthetic for spatial computing studios.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Dark",
+    "Animated",
+    "Futuristic",
+    "3D",
+    "Portfolio",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3630,
+      "sha256": "d1724fd885e960200838a07840becc0853af75937d17be1f7ce1b2a0873a2fc8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 29013,
+      "sha256": "4e282cc9713ad667c203dce7722db4544be1820a8da441b69ed5df53ae81a7ba"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 737,
+      "sha256": "56c1eff3af20d40c9839f1666a2109a3c95e1e67e472a5906b7bb4d7631cd991"
+    },
+    {
+      "path": "index.html",
+      "bytes": 83255,
+      "sha256": "e26b14f0d284e4a05de319e8bd0036471049e5bcc37a22eebadec2da9ad94096"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "video-media",
+    "cta",
+    "testimonials",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "SN-W00800",
+  "title": "Venture Capital Landing Page Template",
+  "summary": "A high-impact landing page template for startup studios, brand agencies, and fundraising consultants to showcase credibility, services, proof, and conversion-focused CTAs.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Animated",
+    "3D",
+    "Large Type",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3500,
+      "sha256": "335e23fbb1552510e28fda59691b27ce279cb6571c764299ed6d198e16726658"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20202,
+      "sha256": "6038629fedaadba1b7fe0f4f62304993eaf6e97437a850ee50773668fa462db1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1348,
+      "sha256": "a84a8a0d8804cae5731158e44b44031f21d231864900d29fbf116b66a4d8785d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 412,
+      "sha256": "ce8773867bb3751165047836638bc896e66b5d97a85373a75c9c5f2fcae7fb40"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 129,
+      "sha256": "8fc1eb089ad135b3d95123d7580c9278479aaad2c970c4c0d63a79b1c9db7c68"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 402,
+      "sha256": "e72759d821ca18757b37c9f1349f13daef3da50179cce8f19eeaa13f7b12388f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 63926,
+      "sha256": "4fc4204a500f0aa84c35e0780b472850a33c2ef45c9835c464ee4fd863bd1913"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "marquee",
+    "bento-grid",
+    "services",
+    "stats",
+    "features",
+    "pricing",
+    "faq",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

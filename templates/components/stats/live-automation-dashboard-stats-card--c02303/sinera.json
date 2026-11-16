@@ -1,0 +1,46 @@
+{
+  "id": "SN-C02303",
+  "title": "Live Automation Dashboard Stats Card",
+  "summary": "Interactive dashboard card showing real-time automation metrics. Features pulse status, hover scale, three stat widgets with progress bars. Styled with Tailwind CSS for responsive grid layouts; ideal for analytics or admin panels.",
+  "tags": [
+    "dashboard",
+    "stats",
+    "card",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "hover",
+    "analytics",
+    "progress",
+    "pulse"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10488,
+      "sha256": "b4b410c1d2c67d504d86e3e535806de42573f5e4a1b137779a2cb9447c0d7d97"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4094,
+      "sha256": "7382fb262656b590d3f1c9d1c8bb58bd260f4f3caf2404b936cdf900f36e9bd3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4951,
+      "sha256": "41429b0cf664986c148f1e7c79e3f80d15101df4112abdcd302cd73200744db7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

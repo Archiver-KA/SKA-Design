@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02261",
+  "title": "Dark Analytics Widget Card with SVG Growth Chart",
+  "summary": "Tailwind-styled dark card showcasing business growth: title, tags, SVG line chart, brand badge, and checklist overlay. Responsive widget ideal for dashboards, SaaS landing pages, or hero sections needing quick data insights.",
+  "tags": [
+    "card",
+    "analytics",
+    "dashboard",
+    "tailwind",
+    "chart",
+    "responsive",
+    "widget",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12088,
+      "sha256": "912a985fc38e7c5fd380d710416b9f21cea1566bcc836ba0c3543ef9ad980249"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5794,
+      "sha256": "07c1010d9ec4c34eaaf13a1fd9f6bf5cdda53f2fd05029b235d588196ea02f4d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6793,
+      "sha256": "eb811c5587d045f3c6b760fd6ad9bc4f0d4ef3c2928d37d36443e9c974e65692"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "SN-W02146",
+  "title": "OPALWAVE SITE - New",
+  "summary": "A premium digital product studio landing page template for agencies and studios to showcase services, case studies, and capture high-intent project leads.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Clean",
+    "Minimal",
+    "Portfolio",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4001,
+      "sha256": "6deb0a2b814b6c8af75a6f5e0f24afa22969b0174ddb28d4ea1e538583eb4505"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19753,
+      "sha256": "54c94b3a2c2e22a24416ddf69afe9bb7c9775a4f1fe782b10be10daf379bfcaf"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 708,
+      "sha256": "34eafbb19ca59e68c73ad7b37c8b81cbfbc6f84aaa8bf7559c5b615911d8b5f9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 105861,
+      "sha256": "81a5c4b94114bb689dd63aab1dfe3f7656e33238b6e4da236f79c43bb2ec1486"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "navbar",
+    "bento-grid",
+    "services",
+    "newsletter",
+    "features",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

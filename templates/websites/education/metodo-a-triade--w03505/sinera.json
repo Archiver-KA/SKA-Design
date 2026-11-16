@@ -1,0 +1,70 @@
+{
+  "id": "SN-W03505",
+  "title": "Método A Tríade",
+  "summary": "Landing page template para apresentar o Método A Tríade, estruturando proposta de valor, pilares estratégicos e chamadas para acesso ao conteúdo avançado.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Services",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Technology",
+    "Education",
+    "Marketing"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3714,
+      "sha256": "893f697eee410ca5f0ab11154d2843f509abb1536646f67290c6c8d63aff1d53"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21868,
+      "sha256": "4b99a7841aacb8a3f8d18f45ea74fa2d2744911947a41337663a0db4bd38cb04"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 788,
+      "sha256": "8c2eebd1946bfb0c04c0e15e4a84196f79e856cb1fd8413ee8835fcc5a604148"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27237,
+      "sha256": "642dd81a56cdf33722109514cf8d674c26d40b3c6cc2c66e1fa1427e92e9bc3c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "logo-cloud",
+    "navbar",
+    "hero",
+    "features",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

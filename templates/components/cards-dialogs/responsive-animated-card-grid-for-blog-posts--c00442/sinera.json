@@ -1,0 +1,45 @@
+{
+  "id": "SN-C00442",
+  "title": "Responsive Animated Card Grid for Blog Posts",
+  "summary": "Responsive grid of announcement cards featuring images, date, title and summary. Tailwind CSS styling with hover blur, backdrop effects and fade-in scroll animation. Ideal for blog post listings, release notes or product updates.",
+  "tags": [
+    "grid",
+    "blog",
+    "tailwind",
+    "responsive",
+    "animated",
+    "hover",
+    "image",
+    "announcement",
+    "section"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 40384,
+      "sha256": "066b9a07d679b6922cd155e16e7695d8b61fc073de770bbdddbd88b0c8d85a40"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3608,
+      "sha256": "6290f4eb81420742d50021b60b1435787cc37fe00ffa730a64cca96bb0cae047"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4473,
+      "sha256": "3177fac1c62bd24c4a94a849b34ab905a088f29053af71ca0a19d213c6a4b317"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

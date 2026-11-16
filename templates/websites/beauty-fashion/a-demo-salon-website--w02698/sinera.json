@@ -1,0 +1,76 @@
+{
+  "id": "SN-W02698",
+  "title": "A Demo Salon Website",
+  "summary": "A refined premium unisex salon landing page template for showcasing services, pricing, and bookings with a dark, luxurious brand aesthetic.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Beauty",
+    "Salon"
+  ],
+  "kind": "websites",
+  "category": "beauty-fashion",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3774,
+      "sha256": "a21009c5b951994c1d74d915f3b547935279ff61f96b53d6dcae5faf946535f5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17428,
+      "sha256": "9cfad9a04957b5851071ae64c262f311d29cb87190eb7268aee3707d9a4be599"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 938,
+      "sha256": "b10bde4a5ba91ad77b828aa84be513da9fa594a6cb722592b1dcbcb74449c7b5"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 257,
+      "sha256": "0c8dc01bf8e68871453f9aeb82f119918b50c865950fbc4e0eb964db9ba62c95"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35874,
+      "sha256": "abe419303c886cd53d3c8a87f84cbab7e4098f8340c67acee06080269cb1d461"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "beauty",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Beauty / Fashion",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "pricing",
+    "features",
+    "timeline",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

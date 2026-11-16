@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00408",
+  "title": "Live AI Adoption Counter Card",
+  "summary": "An animated stats card showing a live-incrementing AI adoption counter with UnicornStudio background, live status pill, and supporting metrics. Ideal for dashboards, landing pages, or analytics sections using Tailwind-style utility classes.",
+  "tags": [
+    "card",
+    "stats",
+    "counter",
+    "animated",
+    "interactive",
+    "dashboard",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5308,
+      "sha256": "c19acd2634fb74d967a5fd3baea71a6667b574b8a35d062bf18b69fafb5f7402"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5236,
+      "sha256": "eb6cfaa36d518f77536d5b3662c0fc7953014b7eb96cc5d6a5f48de750f5ec23"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6192,
+      "sha256": "b3186636e8d7a8bc864ab8f59f6e2c51db7dc6a1522907d68e7adbab7cc49c84"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

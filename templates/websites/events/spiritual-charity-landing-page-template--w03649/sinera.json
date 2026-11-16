@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03649",
+  "title": "Spiritual Charity Landing Page Template",
+  "summary": "A reusable landing page template for spiritual charities and healing trusts to showcase their mission, events, membership, and donation options.",
+  "tags": [
+    "Landing Page",
+    "Non-profit",
+    "Religious",
+    "Clean",
+    "Minimal",
+    "Brand",
+    "Membership",
+    "Donation",
+    "Events",
+    "Charity"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3674,
+      "sha256": "545ac2947260f2bdb29232e24a2ee5d87334f97d089fffaa85d615def738e924"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14122,
+      "sha256": "623ef4aa2f50e447e17bfbf0c73b4fae57a74f8b82df7d58e7423ac4bfbf416c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "dca6ec25bb960ad1183c7048763f7c2ad83317ab5f7ca20242f56a418506dfed"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29257,
+      "sha256": "001ef51d98f5dcd6e9c62642236ff0c5c3cb18b2ae21da719f04d43091b7a610"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "about",
+    "product-grid",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

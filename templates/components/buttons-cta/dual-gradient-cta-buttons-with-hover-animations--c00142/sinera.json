@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00142",
+  "title": "Dual Gradient CTA Buttons with Hover Animations",
+  "summary": "Responsive button pair featuring a primary radial-gradient CTA with floating dot particles and arrow icon dash animation, plus a secondary glossy gradient button with scale and underline hover effects. Built with Tailwind utility classes and custom CSS for landing pages or hero sections.",
+  "tags": [
+    "cta",
+    "tailwind",
+    "gradient",
+    "animated",
+    "hover",
+    "responsive",
+    "flexbox"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7484,
+      "sha256": "cfbd779eb95e7f6d793626e9ff51fa93b95754a93794514d7304371aed55dd8f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1708,
+      "sha256": "60bb9005dc3007d332e8b576e0889d416f6432834c0e736ed7864526e32e0e5f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2706,
+      "sha256": "ac5df11ddcfc88d9e3083115ae1402a07255952d417c0d6a8ed409b554d7ac72"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

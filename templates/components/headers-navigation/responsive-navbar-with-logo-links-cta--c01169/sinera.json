@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01169",
+  "title": "Responsive Navbar with Logo, Links & CTA",
+  "summary": "Tailwind CSS header navigation bar featuring a logo, center links, sign-in text, gradient \"Get started\" button, and a mobile hamburger menu. Fully responsive, ideal for SaaS, marketing, or enterprise web apps.",
+  "tags": [
+    "navbar",
+    "navigation",
+    "responsive",
+    "tailwind",
+    "gradient",
+    "cta-button",
+    "hamburger-menu"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3368,
+      "sha256": "26439d27ab71841cda160f8a4cef4195019c7bbcac29f381f66fbdc115dc83e6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1552,
+      "sha256": "011ca7001f8c2e9579b9082ba8578b7746e5e332310eedbbbbaee30bb575a026"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2547,
+      "sha256": "915fbdbdde161eae137a1483b1c68c27a8014905143bf7d204e3483851cff2e4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

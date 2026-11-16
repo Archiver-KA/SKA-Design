@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01555",
+  "title": "Interactive Recruiting Cost Calculator Section",
+  "summary": "Full-width interactive calculator section estimating annual, monthly, and daily recruiting losses from manual tasks. Includes role presets, range sliders, dynamic results, and an email capture form. Styled with Tailwind-like utility classes for HR and recruiting landing pages.",
+  "tags": [
+    "feature",
+    "section",
+    "interactive",
+    "calculator",
+    "tailwind",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20760,
+      "sha256": "49c32413f13b171474d3173d389f43d35a35daf460866a20220090974c9aabf2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 33817,
+      "sha256": "66a787d9d04fdad9b8f5b2d50c935637dd0f84631805744d02d05cf616a9b6d6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35284,
+      "sha256": "c9a58052bca971f7ef70b44e2daf6472f41c52f91d2638a213f5068ee8d7d136"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

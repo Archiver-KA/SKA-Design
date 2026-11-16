@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01899",
+  "title": "Image Display Component",
+  "summary": "A simple component that displays an image from a local file path. This component can be used to showcase photos, product images, or any visual content in a responsive container.",
+  "tags": [
+    "card",
+    "image",
+    "responsive",
+    "modern",
+    "shadow"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8780,
+      "sha256": "66e6cd955f3eb325aaf78f6e21b05ab626017bf0d488c2ec91a6602f6f5aa49a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 302,
+      "sha256": "c58a1532309d672fa9c19c84ec3d5e27fa3e4337f410f2c52f5fe11d568654ad"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1146,
+      "sha256": "4ef985383f5fa1a90f607d70f2aec17b819b25028032253e5e30907c83409085"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "SN-W01784",
+  "title": "AI Web Architect Portfolio Landing Page Template",
+  "summary": "A dark, futuristic portfolio landing page template for AI web architects and developers to showcase projects, services, and a high-converting contact form.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3798,
+      "sha256": "58f97b7036a2334b6c7d070b134a3174b3bf143b1bba41294d68a5b450fcc205"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14776,
+      "sha256": "6d44d84a904eff2629f82ccdb44cf57a373fad22ff33cc1c35c8b0bd57ca4661"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 882,
+      "sha256": "858075a47eac9c95b73189b3b494a6c59c0718550ff7d726063fe0a99af622ef"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1553,
+      "sha256": "2573fe26b3e70713356b706a126cc0a6536de996998628be881abe2f4d4f61d6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40815,
+      "sha256": "9dd01d817d0f5bf518cc742606bcf9c032149144bbe75a4c9f6a6dd75d8c78ce"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "how-it-works",
+    "gallery-portfolio",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

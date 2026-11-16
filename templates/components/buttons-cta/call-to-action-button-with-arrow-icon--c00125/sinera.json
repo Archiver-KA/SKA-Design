@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00125",
+  "title": "Call-to-Action Button with Arrow Icon",
+  "summary": "Full-width rounded button styled with Tailwind CSS, displaying “Get Started” text and an arrow-up-right SVG icon. Includes hover color change and smooth transition—ideal for hero sections, landing pages, or onboarding CTAs.",
+  "tags": [
+    "button",
+    "cta",
+    "icon",
+    "tailwindcss",
+    "responsive",
+    "hover",
+    "rounded",
+    "svg"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1480,
+      "sha256": "be191c1a7eb9af92d9b7208f4bfb4a4af87faafd4c36b48c9db01ba85e4bac5a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 566,
+      "sha256": "852192f6835f18304be8b3047d3e8182f4053c5dc36e94ad64bfa0c4aaadf956"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1554,
+      "sha256": "db952fb96f05be204ba3cffd889dcfff1f78f9bb75be28c9def7839a6644e9ce"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

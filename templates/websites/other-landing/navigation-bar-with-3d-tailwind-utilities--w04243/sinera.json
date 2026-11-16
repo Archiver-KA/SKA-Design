@@ -1,0 +1,59 @@
+{
+  "id": "SN-W04243",
+  "title": "Navigation Bar with 3D Tailwind Utilities",
+  "summary": "HTML layout featuring a responsive navigation bar and custom Tailwind CSS utilities for 3D transforms and perspectives.",
+  "tags": [
+    "Navigation",
+    "TailwindCSS",
+    "3D Transforms",
+    "Responsive Design",
+    "Utility Classes",
+    "CSS Extensions"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3631,
+      "sha256": "1fe35eaccebc1085e1f46ee31a570b9533cfa1b3932bc4f90e294181b7d6743c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21376,
+      "sha256": "019de4c936f5f8c4b26be6fb4a4356ecfd32f81e5ddad3b04a7bab93838cce0f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "0ac19162793276ee11e28c37c9449b581f0e1e7c42eaaef846156d03820a6175"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32271,
+      "sha256": "1835d7bfa4d00105bc671aae6703a8abe6a4c6ffebe69ab4b0dea4ac1b25e6a7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "SN-W03193",
+  "title": "Architecture Studio Landing Page Template",
+  "summary": "A sleek architecture studio landing page template for showcasing brutalist-inspired projects, philosophy, and contact CTAs with immersive visuals.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Art & Design",
+    "Portfolio",
+    "Brutal",
+    "Dark",
+    "Large Type",
+    "Minimal",
+    "Architecture",
+    "Studio"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3202,
+      "sha256": "c6e8b6e94db2bded7011da25ff9adc3d08a18faa658e75955ac1da26c9323fab"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 49768,
+      "sha256": "8e2a5338a7665bb58392d4bf9e2282ff80b0bd6909fd7d53db2bf86e74a037b7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 872,
+      "sha256": "584786e682164cf8aab617e2c4831488fe6039c1533e7931ccd4fdd45d9b2af3"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 267,
+      "sha256": "6c905d59716ce63cc5ffaa859075358d8c61a0c35b9942d725f59dce957051c5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23581,
+      "sha256": "0d7d8115e1369f18ad4fbd65a84772eedd4b5c468a13e41ddebf424da9f2e8db"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "auth-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

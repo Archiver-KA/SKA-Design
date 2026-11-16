@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01974",
+  "title": "UnicornStudio Full-Screen Background Embed",
+  "summary": "Embeds a UnicornStudio project as a full-page animated background. Loads the UnicornStudio CDN script once, auto-initializes, and uses Tailwind classes for absolute, full-width/height positioning. Ideal for adding interactive visual effects behind site content.",
+  "tags": [
+    "background",
+    "animation",
+    "embed",
+    "tailwind",
+    "javascript",
+    "cdn",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4130,
+      "sha256": "7ab7c464c4db5a7a6259a443f7a9fb4e4f5dcbf065963cd4170f6a345996601d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 535,
+      "sha256": "adee2857e8cb73495537ae8f91782799b7c9c5720e810ec9e060fa9b86496cbe"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1398,
+      "sha256": "e6338f9627904bd6c5e2cb176d2839f985e2137e85ffe5e452edd0d600e8a381"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00854",
+  "title": "Responsive Feature Grid Section",
+  "summary": "Tailwind CSS marketing section that presents key product features in a responsive grid with images, badges and call-to-action buttons. Perfect for landing pages or SaaS sites.",
+  "tags": [
+    "feature",
+    "section",
+    "grid",
+    "tailwind",
+    "responsive",
+    "landing-page",
+    "marketing",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 54540,
+      "sha256": "8e64cc114a6dc632a1d1ebb5eafb28e1e3a84d19d50c85ba6589c9a5a941a0a3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7799,
+      "sha256": "f0edf47a54e392c1e74805e5427c5fbab3023487fea9b4a50cf90aa1f31f433b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8781,
+      "sha256": "c92030778255d663ebe36748153c12d1bb3208e27419bba3fe46e3504fecccd3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

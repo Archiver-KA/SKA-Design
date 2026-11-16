@@ -1,0 +1,74 @@
+{
+  "id": "SN-W03540",
+  "title": "Student Consulting Club Landing Page Template",
+  "summary": "A dark, modern landing page template for engineering and business student consulting clubs to showcase services, team, applications, and corporate partnerships.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Education",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Technology",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3399,
+      "sha256": "35e5abdc97390709e6be51a49668137c19f1af51c50e0f37bc8d7c975a22c4c7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15752,
+      "sha256": "fd285392439f8bdda3716506346111ee664736ddb55f3b98903cb56f519954c5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 873,
+      "sha256": "18a842ee5a647efd9e08675254d0bd03d876c3a71e4862dc81ceab83d645db30"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "2b07fd6bdb9fac52f5f7f1f19b01f6f4bfcd81cd9ca7dd79c7b5e95042ef659a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42501,
+      "sha256": "c1ef37aa4422d866ef655915609848873c974980ad592377e1cad1f06d0c8bd8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "about",
+    "services",
+    "features",
+    "team",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

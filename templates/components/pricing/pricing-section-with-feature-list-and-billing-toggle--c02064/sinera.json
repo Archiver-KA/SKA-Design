@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02064",
+  "title": "Pricing Section with Feature List and Billing Toggle",
+  "summary": "A full-width Tailwind CSS pricing section featuring a headline, intro copy, billing frequency toggle, supporting feature highlights, and two styled pricing cards. Ideal for SaaS, infrastructure, or creative platform landing pages.",
+  "tags": [
+    "pricing",
+    "section",
+    "tailwind",
+    "responsive",
+    "toggle",
+    "saas",
+    "cards"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 30734,
+      "sha256": "29ed9473dfe8dba9a0c6eb8e9ebb9f22b213258028b629b64f2c882a4b6c1c7d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 17683,
+      "sha256": "ac6ede7aca1d51e1150d85999cb24889365fe60afa92629a4c1bbcc17c70caab"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18556,
+      "sha256": "2ec74e30a18dd78accc647e68160a97f6cea5be3eac1a04ecbe76e4d61c084fc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00777",
+  "title": "Gradient Feature Card with Code Snippet",
+  "summary": "Stylized info card showcasing a feature title, icon, descriptive text, and a mock code window. Built with Tailwind CSS, gradient accents, and responsive layout—ideal for landing pages or developer-focused marketing sections.",
+  "tags": [
+    "card",
+    "feature",
+    "tailwind",
+    "gradient",
+    "code",
+    "marketing",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12414,
+      "sha256": "c6da685e4b84d29cb3b3ce67d9ba773d1185cd203df68c94ea6cfcbb3ed3ad89"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2952,
+      "sha256": "9a0853357fddb9d0ad8ebc87e7a4d70d82c9b0b8f314cdcebb9eb833b91d93f4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3942,
+      "sha256": "20f740e50f63c2b53cb4588a2f995b09a04f6fba66a576ce6e25589b5f08123c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

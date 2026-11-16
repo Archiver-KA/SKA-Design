@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02400",
+  "title": "Customer Success Metrics & Testimonials Section",
+  "summary": "Responsive Tailwind section displaying key performance metric card, star-rated customer testimonials and CTA. Features grid layout, glassmorphism style, backdrop blur and on-scroll fade/slide animations—ideal for SaaS landing or marketing pages.",
+  "tags": [
+    "section",
+    "metrics",
+    "testimonial",
+    "cta",
+    "tailwind",
+    "responsive",
+    "animated",
+    "grid"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 60096,
+      "sha256": "0d9b0b423810c9e9fbc187872e20ac536e26fee1d6a21e0bf3ce61684cde2a25"
+    },
+    {
+      "path": "component.html",
+      "bytes": 19827,
+      "sha256": "3ad933a8e9c630879aba59913ff0b1451ff916f67f1d3f8c1b0d280ab8d4607f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20699,
+      "sha256": "545608a3124743bc505a8c9b740f866362d730ac6bbf2b783ac27d5f02527345"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

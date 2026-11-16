@@ -1,0 +1,58 @@
+{
+  "id": "SN-W01400",
+  "title": "AI Consulting Landing Page Template",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3272,
+      "sha256": "f1032ec32cb513e4ef0578aca1c36d242d6141cc59d0e30a96a8064f1ab7a69a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16344,
+      "sha256": "262c7a6cf68b42b7a96bca2e9c6109325e67a85fb058c61cb589aa2958de1bb8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "a77534b19a72a2cea1170d143c38bc5ac470f1c06cae181c3f65ad59c1136e14"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29891,
+      "sha256": "2f9b442050dffe2e1461a99c725de95c856ca6f98dd274b82c49ece8612d0340"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "features",
+    "schedule-agenda",
+    "cta",
+    "team",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md"
+}

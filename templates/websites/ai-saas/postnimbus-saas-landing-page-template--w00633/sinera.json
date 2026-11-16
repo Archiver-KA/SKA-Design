@@ -1,0 +1,68 @@
+{
+  "id": "SN-W00633",
+  "title": "PostNimbus SaaS Landing Page Template",
+  "summary": "A high-performance SaaS template designed for social operations platforms, featuring unified workflows, multi-brand management, and approval system UI elements.",
+  "tags": [
+    "Technology",
+    "Brand",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Futuristic",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3736,
+      "sha256": "473e7cad655366324c1b60d4eeb4753f24e34dcbf9bb3235f83d3b529cfdf433"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20038,
+      "sha256": "9a43a2ae6187b862986e6665ec89a78f8b56b9e078b1f180d4063e29f18436a4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 732,
+      "sha256": "24529d069e373295a0ce4fb694ad12700355c4024c9bde09057c247015f3e18d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 134398,
+      "sha256": "d423af2af9afb2bc2ce1eb9c801c48e39f193fb6a275d377f210eaeed4e73576"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "how-it-works",
+    "logo-cloud",
+    "integrations",
+    "dashboard-preview",
+    "pricing",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

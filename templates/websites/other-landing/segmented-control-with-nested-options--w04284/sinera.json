@@ -1,0 +1,61 @@
+{
+  "id": "SN-W04284",
+  "title": "Segmented Control with Nested Options",
+  "summary": "Dark mode segmented control UI with nested radio options and animated highlights using Tailwind CSS.",
+  "tags": [
+    "Segmented Control",
+    "Dark Mode",
+    "Tailwind CSS",
+    "Radio Buttons",
+    "Animation",
+    "UI Component"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2651,
+      "sha256": "54f77429138f414e08a8f09c7623a2234c706916aa5e2fadcc62c05655585c9e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1590,
+      "sha256": "8e04d88fba135fa62e1469015ea28b004ffa96c4c7f769f8ce58033fd54e979e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "3961f856e8be840d9753ba17167be4fe722cfb0c4f468087a8c8d40bbb8ba6e0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9086,
+      "sha256": "b2f13ddab9dcb95975c2f9623f119e372a68b297315c78511f430f629dd17647"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "contact-form"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "snippetType": "contact-form",
+  "design": "DESIGN.md"
+}

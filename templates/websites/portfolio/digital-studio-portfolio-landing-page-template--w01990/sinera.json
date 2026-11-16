@@ -1,0 +1,77 @@
+{
+  "id": "SN-W01990",
+  "title": "Digital Studio Portfolio Landing Page Template",
+  "summary": "A dark, minimal portfolio landing page template for digital engineering studios to showcase case studies, services, and capture high-intent project inquiries.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Technology",
+    "Brand",
+    "Minimal",
+    "Dark",
+    "Large Type",
+    "Grid",
+    "Art & Design",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3856,
+      "sha256": "0ad4e24d7507013cb1cab6bd2a5942d815425b570a6d0a46fea467807101b2ca"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14382,
+      "sha256": "9f747ad8002a92c4d8fdac470e49aa11e37cfb37b1b011f89b9fc74bbe5692e1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 957,
+      "sha256": "841acc75477696ab6ae4f9770c4563e27639391fcee6e55a0bce23de30b30748"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 52712,
+      "sha256": "af36ab1d775a86424b08569c49eda406071afbaca1bad3c4ab72cb2ef992f35e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "case-studies",
+    "navbar",
+    "services",
+    "hero",
+    "marquee",
+    "gallery-portfolio",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

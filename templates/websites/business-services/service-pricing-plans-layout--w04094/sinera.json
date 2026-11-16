@@ -1,0 +1,67 @@
+{
+  "id": "SN-W04094",
+  "title": "Service Pricing Plans Layout",
+  "summary": "Responsive pricing section with three subscription plans showcasing features, prices, and call-to-action buttons using Tailwind CSS.",
+  "tags": [
+    "Pricing",
+    "Subscription Plans",
+    "Tailwind CSS",
+    "Responsive Design",
+    "Cards",
+    "Features"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2982,
+      "sha256": "f04288acf06a1c7a7edf2d7714212a7e936b801c209bf036f62e8ccb0603a87d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22806,
+      "sha256": "5ab463a78f299477ab3243d44659b0c1c5a6832943aded1a9c5cc1bd962ebe12"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1498,
+      "sha256": "4d3cd74a261e29a27678441d60b996e4815312ff6e0b024ed757a987c297ee6f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 241,
+      "sha256": "04a6ea4b570d1ae9fa3255c2557082787ad458d485b61a2493b654134633a0ff"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 245,
+      "sha256": "0cde8143f53c9f5c20aa20660c8b778ed1f8842071619579ba2cdb6195a13aec"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9797,
+      "sha256": "408b4f278a5a7e6fa3e185bbc0b1754166c435af2e14b824738ae472a8ee5ca5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "pricing"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

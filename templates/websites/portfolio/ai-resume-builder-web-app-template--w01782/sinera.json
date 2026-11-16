@@ -1,0 +1,76 @@
+{
+  "id": "SN-W01782",
+  "title": "AI Resume Builder Web App Template",
+  "summary": "A modern, AI-powered resume builder web app template with landing page, auth screens, dashboard, editor, and ATS-ready resume preview for job seekers.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Resume",
+    "Web App",
+    "AI",
+    "Career"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3705,
+      "sha256": "71fc43bd86288f3b3c0360c529b20b422e1da018df8d176b292ed79fc39da5e7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 27092,
+      "sha256": "719327ae32d528b5c7253b10f1d179c90b3981194d9682c7e969e977ed5c0059"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 867,
+      "sha256": "fe79b185bb5b9ae1d0afabaedb848a41cc4962c9173c85873a7b3a034a6fe18e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 346,
+      "sha256": "4672096aa50f59fc4bc16626431f480239c1b04efaef8aefafaca1e373e8df04"
+    },
+    {
+      "path": "index.html",
+      "bytes": 49912,
+      "sha256": "0d84c1129b0a5b8b83063c31b431a8ab07de0a37457aa0c458653804d9ce658e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "features",
+    "footer",
+    "logo-cloud",
+    "code-terminal",
+    "dashboard-preview",
+    "contact-form",
+    "timeline"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

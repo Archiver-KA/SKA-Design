@@ -1,0 +1,69 @@
+{
+  "id": "SN-W03223",
+  "title": "Construction Services Landing Page Template",
+  "summary": "A premium construction and remodeling template for contractors to showcase services, portfolio work, trust signals, and quote requests.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Minimal",
+    "Real Estate",
+    "construction",
+    "remodeling",
+    "contractor"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4036,
+      "sha256": "1ef367a303d6fc8eb47d33bbcbc6623a7cc7bbe1ce83ca5fecc5d281b4ccb4f2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16566,
+      "sha256": "582addc880e6c5cd7ce0a6967ad3df507e5a06d6817dd1b66bb46a15b86542ab"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "a00d41b3e003842a2d67d332b2aa1264be58e6ed9790a98ab8db6eecb829112d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36281,
+      "sha256": "0b18871634bfd3d46a74d5f0b6955b3888c4acbaac76afd82c82093c3e14cd31"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "code-terminal",
+    "services",
+    "about",
+    "gallery-portfolio",
+    "contact-form",
+    "footer",
+    "bento-grid"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

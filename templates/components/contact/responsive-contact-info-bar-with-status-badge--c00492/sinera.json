@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00492",
+  "title": "Responsive Contact Info Bar with Status Badge",
+  "summary": "Horizontal banner shows availability badge, location, phone link and email button using Tailwind CSS and Lucide icons. Elements adapt across breakpoints, offering quick contact actions for agency or business sections.",
+  "tags": [
+    "contact",
+    "info-bar",
+    "tailwind",
+    "responsive",
+    "status",
+    "banner",
+    "cta",
+    "lucide-icons"
+  ],
+  "kind": "components",
+  "category": "contact",
+  "categoryLabel": "Contact & maps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5524,
+      "sha256": "9d41b2841bd7595fe8548fe7605f6fafdc45e7c63b9b0b327644b235fd4a69bd"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2489,
+      "sha256": "483b856f9fe37543b153c405f172c25272add8a2c003d11b8f111969160877db"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3485,
+      "sha256": "93fd684e3bb882cfb9fff6c4fd83d5ad5b77fa8e020b4b967113b60380e02e93"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

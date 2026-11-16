@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02294",
+  "title": "Interactive Channel Legend",
+  "summary": "Colorful channel performance grid with hover effects, displaying traffic source statistics and percentages with gradient backgrounds.",
+  "tags": [
+    "legend",
+    "grid",
+    "analytics",
+    "channels",
+    "traffic",
+    "gradient",
+    "hover",
+    "responsive",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6314,
+      "sha256": "99288046b4efcb7ccf0b822734d45c1795423f2b29786ca4851a506e4ece5d36"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2875,
+      "sha256": "7b2448bb33c0716e8bd33c496b0226a21d18b9c8fae8fdef9e35fcf4cedceda6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3722,
+      "sha256": "0be281196b763272579951b6cf3c580d7ac9f6f84fc821a9c426d58ebaf21e4c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

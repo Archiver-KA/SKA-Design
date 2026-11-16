@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00305",
+  "title": "AI Insights Card with Tailwind Metrics Panel",
+  "summary": "Responsive card displaying AI insights, category badge, headline, description, and a stats panel showing performance score and recommendations. Tailwind-styled with hover elevation, suited for dashboards, landing pages, or analytics sections.",
+  "tags": [
+    "card",
+    "dashboard",
+    "analytics",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "badge"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12840,
+      "sha256": "4bf434183e2ea16c9d60b0e40e23fbd3c6f52970ee1e2ed2c2164cf88c05e25f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2949,
+      "sha256": "1ab8446b468f6b3a94ff60e12cd26da2c818f6550c1e8a646b44117df3594483"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3944,
+      "sha256": "b41500772f1e60e79419a69de99fde56ec792ff891b2d9d00ebd142f3925ce63"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

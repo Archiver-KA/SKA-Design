@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01554",
+  "title": "Interactive Recruiting Cost Calculator Section",
+  "summary": "Full-width interactive section with role selector, range sliders, advanced metrics toggle, and sticky results card estimating annual, monthly, and daily recruiting losses, plus an optional lead capture form. Styled with Tailwind-style utility classes for SaaS/HR sites.",
+  "tags": [
+    "section",
+    "interactive",
+    "calculator",
+    "tailwind",
+    "responsive",
+    "form",
+    "dashboard",
+    "hr"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20778,
+      "sha256": "db63103834fdabf3627c17c3194b4a0d35e1c505c60f9cdd088590fd060d2db4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 14266,
+      "sha256": "33c3f83051ab61f3628b77077aa6541e0e201bcf60d10e43d6cdc95d914efcc7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15360,
+      "sha256": "e2683411df85aa9b1dbf79001f0a0dca5cdb57528bf6fa5b74ecf112e53e4275"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

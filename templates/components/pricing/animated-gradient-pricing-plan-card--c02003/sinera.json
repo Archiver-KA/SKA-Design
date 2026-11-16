@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02003",
+  "title": "Animated Gradient Pricing Plan Card",
+  "summary": "Stylish Tailwind CSS card for pricing tiers featuring animated rotating gradient border, hover glow, plan selector radio, and feature list. Ideal for SaaS pricing tables or subscription pages.",
+  "tags": [
+    "card",
+    "pricing",
+    "tailwind",
+    "animated",
+    "gradient",
+    "plan",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12364,
+      "sha256": "c7ab7b8d65749ef06748648ed94533aa1394c5fa1636593288f11129f4669d99"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5380,
+      "sha256": "c3c8300a805937af64f0933bc30dd072eb1a9cb81db7bc1f748cc6ec0bd57da5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6366,
+      "sha256": "43fb7a0f19c1b177af1968e12666b47875a1b825a579929c663ddac71a3de793"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01190",
+  "title": "Sticky Responsive Navbar with Glass Sign-Up Button",
+  "summary": "Sticky top header featuring brand logo, nav links, login, and a glassmorphic sign-up button with ripple effect. Mobile view switches to hamburger icon. Built with Tailwind CSS; ideal for SaaS or product landing pages.",
+  "tags": [
+    "navbar",
+    "header",
+    "tailwind",
+    "responsive",
+    "sticky",
+    "glassmorphism",
+    "ripple",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3480,
+      "sha256": "40171b4580f98b0515a593cfd03f4ee39f393b2f128d7a2c94481c0e4a3b450e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3756,
+      "sha256": "41229d6e048b971ca6ff65d691de76721c8d50de8319866007f8c6ca28f30096"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4757,
+      "sha256": "f67b204ca668947e35668e718a8cb26aa561345bdb307be4b1e2c967fd83de41"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

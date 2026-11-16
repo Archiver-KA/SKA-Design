@@ -1,0 +1,64 @@
+{
+  "id": "SN-W00660",
+  "title": "RAW Developer Platform Landing Page Template",
+  "summary": "A dark, futuristic SaaS landing page template for a developer-focused infrastructure platform, ready to customize for next-gen apps and cloud products.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Futuristic",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Developer Tools",
+    "SaaS"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3622,
+      "sha256": "d05db5f10d5e5c8ce90e623b8e89f94a1978b912780a7e41dde5fd200785cc51"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12304,
+      "sha256": "ab7ef48ca398c8d5d7379bf3114a303aeac358340dddc23775b1b39a8de4af62"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "70ac228a16987b6e24ab409ded882db43f01578ac8328414cb2174712deca366"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22639,
+      "sha256": "d6facba69393a27b273c1368bca4a5bf7f13b9bbce4f9b36c62f3895e5660703"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "bento-grid",
+    "stats",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

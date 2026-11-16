@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01522",
+  "title": "Animated Integrations Showcase Section",
+  "summary": "Full-width integrations section with animated SVG connection paths, badges, and feature highlights. Uses Tailwind-style utility classes to visually illustrate connecting a tech stack, ideal for SaaS or platform integration marketing pages.",
+  "tags": [
+    "feature",
+    "section",
+    "integrations",
+    "animated",
+    "svg",
+    "tailwind",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13802,
+      "sha256": "93fab8c713d072d90c054c80ebbe3a114ff108c62bc0184f28170b7dfbf2a074"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7889,
+      "sha256": "a807e4f106ae39307ee9af80b8a19184a9301d7914e48581ba4ee0d3994d1377"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8991,
+      "sha256": "64d32177cbc6cde05be25d3021eed61a55c4ccab95b1f8926b2c9e6048709af7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

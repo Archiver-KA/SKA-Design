@@ -1,0 +1,41 @@
+{
+  "id": "SN-C00116",
+  "title": "CTA Button",
+  "summary": "Clickable CTA button labeled “Book a FREE Demo”, styled with Tailwind-like utility classes (focus:outline-none, custom font). Ideal for landing pages or product sites to prompt users to schedule a demo.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "interactive",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1858,
+      "sha256": "6c1350fb98a0aed89173f395388383337d21a0a43aa688e65a77504d4361dd47"
+    },
+    {
+      "path": "component.html",
+      "bytes": 309,
+      "sha256": "59d2289f89d9cfeedbeeac487830c6131cd7f7d58a992e4ef91e299deab55db0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1140,
+      "sha256": "fe4fae92a8d3110e5772d40247037840b444eb32766678db79e8d895bed53b0c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

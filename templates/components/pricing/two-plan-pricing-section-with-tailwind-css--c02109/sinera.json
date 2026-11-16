@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02109",
+  "title": "Two-Plan Pricing Section with Tailwind CSS",
+  "summary": "Responsive pricing section presenting Solo and Team plans in a two-column grid. Each card includes price, feature list, badges, hover effects and call-to-action buttons. Ideal for SaaS or product landing pages, built entirely with Tailwind CSS utility classes.",
+  "tags": [
+    "pricing",
+    "card",
+    "tailwind",
+    "responsive",
+    "cta",
+    "grid",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 27406,
+      "sha256": "4e0bb66fbceb671b2045c867ed46c0fb516c79f1ce62fb0f7dfafe87ca0d255b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12288,
+      "sha256": "228be28eb6390340036d8fad2141c909c22f9507a482c0fd6a7c631ca5106bf5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13281,
+      "sha256": "d205f984bcfe49b7bc06338a4cec60df0c9ee40c1f92b4fd7e4a39c360b5a757"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

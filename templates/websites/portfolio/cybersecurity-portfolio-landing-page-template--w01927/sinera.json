@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01927",
+  "title": "Cybersecurity Portfolio Landing Page Template",
+  "summary": "A dark, futuristic portfolio template for cybersecurity engineers and ethical hackers to showcase skills, projects, and services with a conversion-focused layout.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3790,
+      "sha256": "842f86f420426b058a661506d904bd04e707cd45cad04a9aa360f4a83a1bb5dc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21026,
+      "sha256": "af15c66ac2c54215d0a489fd394c3b86f9275fc3f0b4590eb0700c5005869d91"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 873,
+      "sha256": "3f4f80491b8e055ceacac5834dda1b89b2204e714d54ad1ca3d449eb2f0f764c"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "6d7f47cc04d290ef4abac372150068099aee31617cc15da366306e3307a84d33"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33886,
+      "sha256": "06e5e8e09be582303425fcf4202f4288f80c6f6353af64e6ffb63df580622bc5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "about",
+    "features",
+    "timeline",
+    "case-studies",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

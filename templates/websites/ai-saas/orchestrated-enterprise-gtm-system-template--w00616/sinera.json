@@ -1,0 +1,81 @@
+{
+  "id": "SN-W00616",
+  "title": "Orchestrated Enterprise GTM System Template",
+  "summary": "Reusable landing page template designed for enterprise Go-To-Market strategy platforms featuring AI-driven digital twins, committee simulations, and outcome-based pricing.",
+  "tags": [
+    "Landing Page",
+    "Enterprise",
+    "GTM",
+    "AI",
+    "Digital Twins",
+    "Committee Simulation",
+    "Outcome-Based Pricing",
+    "Case Study",
+    "SaaS",
+    "Strategy"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3765,
+      "sha256": "e693ca11db7b54743bbfbce890c7adf914968ffdb56972b2d9560dad8fe9a2db"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18648,
+      "sha256": "aa968739a21d9770e8b9a5a5b4b03bf46670ff6d995dda564a7b492dbdd403a3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1274,
+      "sha256": "a5f01abd4dbe2df734e904f625d4d2dc3d505ddc789638a7a3a604483755db04"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 169,
+      "sha256": "5e7339c51df4c34cee06d331b09b46daeb53b30c90aaf586749eeaccc3ac7984"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 212,
+      "sha256": "4960fa3a6b37159cdd63f0250bf369b78d22cb2d59d1d151a30fb0b3761ee01d"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 160,
+      "sha256": "78076e0986714a3a3e5be7c266b6a52ecf2a9ae9b9cd2d400377eaa85ae5b679"
+    },
+    {
+      "path": "index.html",
+      "bytes": 45657,
+      "sha256": "715d71035050b29955f90484158334c4529ee7598d1f4503179bea87394781d8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "pricing",
+    "bento-grid",
+    "stats",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

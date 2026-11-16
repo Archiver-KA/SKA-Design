@@ -1,0 +1,64 @@
+{
+  "id": "SN-W02610",
+  "title": "Fitness Training Landing Page",
+  "summary": "Responsive fitness landing page with hero section, navigation, stats, and call-to-action buttons using Tailwind CSS.",
+  "tags": [
+    "Hero",
+    "Landing Page",
+    "Tailwind CSS",
+    "Responsive",
+    "Navigation",
+    "Call-To-Action",
+    "Fitness UI"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3690,
+      "sha256": "7712db0a53aaa23c4da06287c1998b76d6b45f0d37472611eb6da52d9c05469e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19928,
+      "sha256": "e8fc67b854543c554f7501a64358a0a64f695b240668c22c6c027681191c6ede"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "57c075077c35178404bc9cb3f2a3631f99c6b6892ef547fd50ca53de8d0451a2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36336,
+      "sha256": "9d60a86b7893d71f32301167a6763f1a42317cd993e02826719a4abd8752986c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "pricing",
+    "services",
+    "testimonials",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

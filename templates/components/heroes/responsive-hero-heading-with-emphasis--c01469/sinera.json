@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01469",
+  "title": "Responsive Hero Heading with Emphasis",
+  "summary": "H2 headline using Tailwind CSS with viewport-scaled font sizes, tight line-height, and bold tracking. Includes a span for highlighted emphasis, ideal for landing pages or section headers requiring impactful, responsive typography.",
+  "tags": [
+    "heading",
+    "typography",
+    "tailwind",
+    "responsive",
+    "text",
+    "title"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5534,
+      "sha256": "443aa3d0b440cb1976f77bf876820ba129c3d0050defd82f7913cbcec6a7c840"
+    },
+    {
+      "path": "component.html",
+      "bytes": 171,
+      "sha256": "dfa153f6e722ebbbd0b7d71bf406d9fc6b3a3a87b104d5b54e04d9a2cf630b19"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1029,
+      "sha256": "c0296588b89a4370560a2ba2cab6d9f73e342e9cacc209d771aba0c433792d4a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

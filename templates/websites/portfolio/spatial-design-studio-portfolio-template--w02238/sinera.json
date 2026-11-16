@@ -1,0 +1,73 @@
+{
+  "id": "SN-W02238",
+  "title": "Spatial Design Studio Portfolio Template",
+  "summary": "A refined portfolio template for architecture and spatial design studios to showcase projects, philosophy, capabilities, and commission inquiries.",
+  "tags": [
+    "Portfolio",
+    "Services",
+    "Art & Design",
+    "Minimal",
+    "Clean",
+    "Dark",
+    "Animated",
+    "Brand",
+    "architecture",
+    "spatial design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3258,
+      "sha256": "ad5fee3793c57124edc8ffd86ec2c69b1d5f5cbb1e4d2a66a9f0e86d3a1109dc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1546,
+      "sha256": "d0020971fd7d237665b2c98fa8414f12c0acee346c97b1d5dddfa2f8a059cafd"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 868,
+      "sha256": "aa74f098e47d40440dddbbff605e228bfbe6fef3e56667082c461d59eff37c16"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 242,
+      "sha256": "b0f9a15febabe876c74ae4295bfefca3ebbd9d2f2d5f89ab38670851fbb5c953"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42886,
+      "sha256": "421e31456fde7bee0598aef644e085d236eeace39395c19329922e0f2e569481"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "gallery-portfolio",
+    "features",
+    "awards-press",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

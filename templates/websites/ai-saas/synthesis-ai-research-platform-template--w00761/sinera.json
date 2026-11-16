@@ -1,0 +1,66 @@
+{
+  "id": "SN-W00761",
+  "title": "Synthesis AI Research Platform Template",
+  "summary": "A sophisticated AI-native academic research template featuring multi-agent orchestration, literature synthesis tools, and verifiable citation management.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Education",
+    "Clean",
+    "Minimal",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3662,
+      "sha256": "23cf3f92e55416a8171f079fe58dd4f9151f27d750bde26b962f7bb258a68a41"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20588,
+      "sha256": "90635aa45191174a62116b2ea3a2b943ddb4d0c3d10df432e9eb15fa5a47b786"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 874,
+      "sha256": "f23c351bbf35239c3b79b65802c35eedc881f92f1c7d417ee7d92a7d4c3d5721"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 122,
+      "sha256": "2e4da90ffb7cfd4e08d5fcef208624b9d72aad002ef8da10737cb87019f609b1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40471,
+      "sha256": "40c6cecdef8af6c0e6c215b77121e81a3145863b30290e4e887760468631f55f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00358",
+  "title": "Featured Collection Card with Image Gallery",
+  "summary": "Responsive Tailwind component showcasing a product collection: large hero image, supporting 3-image grid, hover effects, subtle shadow and dotted overlay. Ideal for ecommerce landing pages or promotional sections under $100.",
+  "tags": [
+    "gallery",
+    "product",
+    "ecommerce",
+    "tailwind",
+    "responsive",
+    "image",
+    "showcase"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22348,
+      "sha256": "abc9801cadc8c56a5c9679af48d803b3d843f409ea1c7faf746fb25cc773b669"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2295,
+      "sha256": "ba513f03f443fd78184b567501850bda2f100c7f174cec299c17557b169b7ffe"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3159,
+      "sha256": "ee39b9399e17e08777b5341dc4236c6f325cfac3224602762b079b5bec478860"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

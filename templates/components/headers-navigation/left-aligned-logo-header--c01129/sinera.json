@@ -1,0 +1,40 @@
+{
+  "id": "SN-C01129",
+  "title": "Left-Aligned Logo Header",
+  "summary": "A left-aligned logo header with space for additional navigation items, commonly used in website headers and application toolbars.",
+  "tags": [
+    "header",
+    "navigation",
+    "logo",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2530,
+      "sha256": "cec9783a484b3e3e8e04908320f2332c26ca75034512e034c61953c627f9619f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1018,
+      "sha256": "7fe1b33eee212381df772ae6a9749975f6917c401de94dbf9efa297ab4f05469"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1863,
+      "sha256": "b49546b9a6d03be1e3525c56593e3c19ad09b90432eec75c22640dc640d0bfc7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

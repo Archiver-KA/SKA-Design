@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00664",
+  "title": "Animated Amenities Feature Section",
+  "summary": "Full-width amenities section showcasing living, restoration, and gathering features with alternating image-text rows. Uses Tailwind-style classes and GSAP ScrollTrigger for scroll-based reveal animations. Ideal for real estate or hospitality landing pages.",
+  "tags": [
+    "feature",
+    "section",
+    "animated",
+    "responsive",
+    "scroll",
+    "tailwind",
+    "real-estate"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18392,
+      "sha256": "303f97c72441ae9b533f3f68db496b6ed4e1ed3cf70376996ca75ec425dd4942"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11291,
+      "sha256": "2e33b3b36261b203d9e5455cbd96a7fdb47dadda94a2c7e939501c17db2423b3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12146,
+      "sha256": "d61b369affac6e46f692947bcc5a916372ad5db878f372ecb4a12668f2825863"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

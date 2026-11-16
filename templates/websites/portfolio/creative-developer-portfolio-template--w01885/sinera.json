@@ -1,0 +1,85 @@
+{
+  "id": "SN-W01885",
+  "title": "Creative Developer Portfolio Template",
+  "summary": "A polished single-page portfolio template for creative developers and designers to showcase work, services, testimonials, and contact details with a modern aesthetic.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Technology",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2493,
+      "sha256": "8fdf0b805d4d6bf03be95f6f88d7ba973b8685281afe6544e154d03fb88d1898"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11874,
+      "sha256": "60ca8e3a87a66200a66ac80cc67caa81cf491c449786115be177fe0172419aca"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1260,
+      "sha256": "88395a7e598b8c91b5c5535dea4fd72159517ed293443acd9426944d9e108b8d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 242,
+      "sha256": "9e3c01b69ef386b04d8084501c989aee8d58470328e0709dbc1bb9617416321a"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 497,
+      "sha256": "9a527ee335d6d6d9637de8a4c878d951d62925cee65e8e1708272636bd461764"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 182,
+      "sha256": "c5b61a6af09222ef7b698833ad3f7111a0c6ae8b1775054a74b4160cb3e28d6b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 49312,
+      "sha256": "0bda65486249416d601ee05436a9710701abcedf8d0cf14c8e472dcc1ff1bda3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "menu-list",
+    "hero",
+    "marquee",
+    "about",
+    "case-studies",
+    "services",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

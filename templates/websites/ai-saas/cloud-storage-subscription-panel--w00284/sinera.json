@@ -1,0 +1,75 @@
+{
+  "id": "SN-W00284",
+  "title": "Cloud Storage Subscription Panel",
+  "summary": "Interactive subscription UI offering unlimited cloud storage with animated particle background and feature highlights.",
+  "tags": [
+    "Subscription",
+    "Cloud Storage",
+    "Particles Background",
+    "Tailwind CSS",
+    "Feature List",
+    "CTA Button",
+    "SVG Icons"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3165,
+      "sha256": "829529d74ad0395ddc62bb47e5b9a21c8636d9343f5a10c1298278441ea8d02d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11430,
+      "sha256": "71bc3504e5a751da594c66c622c107fdf04e4664bfb55a4d8417edc38342d929"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1321,
+      "sha256": "20d9da901da9ad90b69769303bc18a600f893266b9479905aa0ddfcc64d1f6c4"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 381,
+      "sha256": "eaacc742bbe65d552cb9c1dedce8e2d9f6e0da5c3c7a25a0ab032f2862ee6fd8"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 291,
+      "sha256": "d8c9719b285192d404ab68530f2c7943b1f5e44b1be86c387183fa17b4cbabae"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 468,
+      "sha256": "8530c7cb022d21e9d0dcef7149adee926e4aa01dd4b2956cad3d689b3511f629"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7950,
+      "sha256": "3b4f3cb015fd6314dfd5905b954ebf480870c7eecd7cf72f72e802bc2cd946bd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "blog-articles",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "blog-articles",
+  "design": "DESIGN.md"
+}

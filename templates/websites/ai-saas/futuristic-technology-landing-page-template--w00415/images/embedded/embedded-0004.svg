@@ -1,0 +1,16 @@
+<svg class="w-full h-full" viewBox="0 0 1000 520" preserveAspectRatio="none">
+                  <path id="p1" d="M210,260 C380,260 420,170 560,170 C680,170 735,170 820,170" class="beam-base"></path>
+                  <path id="p2" d="M210,260 C380,260 420,350 560,350 C680,350 735,350 820,350" class="beam-base"></path>
+                  <path d="M210,260 C380,260 420,170 560,170 C680,170 735,170 820,170" class="beam-live"></path>
+                  <path d="M210,260 C380,260 420,350 560,350 C680,350 735,350 820,350" class="beam-live" style="animation-delay: -0.5s"></path>
+                  <circle r="4" class="beam-pulse">
+                    <animateMotion dur="2.5s" repeatCount="indefinite" rotate="auto">
+                      <mpath href="#p1"></mpath>
+                    </animateMotion>
+                  </circle>
+                  <circle r="4" class="beam-pulse">
+                    <animateMotion dur="3s" repeatCount="indefinite" rotate="auto" begin="0.5s">
+                      <mpath href="#p2"></mpath>
+                    </animateMotion>
+                  </circle>
+                </svg>

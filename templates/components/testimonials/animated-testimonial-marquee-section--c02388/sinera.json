@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02388",
+  "title": "Animated Testimonial Marquee Section",
+  "summary": "A full-width testimonials section with dual auto-scrolling marquee rows, hover pause effects, glowing cards, and Tailwind-based dark styling. Ideal for SaaS landing pages showcasing customer trust, reviews, and social proof.",
+  "tags": [
+    "testimonial",
+    "section",
+    "tailwind",
+    "animated",
+    "marquee",
+    "social-proof",
+    "dark",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 34138,
+      "sha256": "fd0af0f085531c60c3d4b8af42291f058d9560f12e0e4f24c47540940f273b3d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 44620,
+      "sha256": "c47de2decc32cad8e0ca7ab78e2165f2c8c6ce63464dbec3923e133a2fda58c0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 45567,
+      "sha256": "6c89dc22d2ec969d8a90ed40ab78b262de92530fb4998cdc07d28a156bc601b2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

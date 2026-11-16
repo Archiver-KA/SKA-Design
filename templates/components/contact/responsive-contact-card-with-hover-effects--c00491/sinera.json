@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00491",
+  "title": "Responsive Contact Card with Hover Effects",
+  "summary": "Stylish contact panel featuring email, phone and website links, background image, Tailwind utility classes, hover animations, and responsive sizing. Ideal for footers, sidebars or landing pages.",
+  "tags": [
+    "contact",
+    "card",
+    "tailwind",
+    "hover",
+    "responsive",
+    "interactive",
+    "info"
+  ],
+  "kind": "components",
+  "category": "contact",
+  "categoryLabel": "Contact & maps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14338,
+      "sha256": "4c9f48e7f0c0fad7ac2977c895bd4d846a21b903a3aac687ae08bf544e9b18cf"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4221,
+      "sha256": "6b8b9c127113b76784955068fab26fcd5496ac4f65bb1995583100f40c11dc87"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5214,
+      "sha256": "b9a4b503eb63c308fbb22fb55801a150bc94da0e16c862f1a3eac619928ff2b2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

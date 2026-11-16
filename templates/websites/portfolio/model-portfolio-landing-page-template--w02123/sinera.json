@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02123",
+  "title": "Model Portfolio Landing Page Template",
+  "summary": "A reusable landing page template designed for models to showcase portfolios, measurements, and booking availability with elegant visuals.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Model",
+    "Photography",
+    "Booking",
+    "Contact Form",
+    "Testimonials",
+    "Gallery",
+    "Responsive",
+    "Tailwind CSS"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3458,
+      "sha256": "c22ad4f531327883c9d4e985fa9e5b7c7a439848cc4ca30c2e7bf0085d6000f4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11150,
+      "sha256": "741cbed4027d47566dff10ac057e2a9deb2bc9e0bd6eac2271c141caa6920215"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "b24c4c034b6b3fd3e3dabc60c4933cedec4881a64aa33e6938e866e56b61e6cd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13194,
+      "sha256": "dcd5ccfd646568c55bda6d66ed14add9bd8369deaec0ad9ec934ad528f123334"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

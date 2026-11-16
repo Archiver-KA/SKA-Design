@@ -1,0 +1,37 @@
+{
+  "id": "SN-C02243",
+  "title": "Animated Weather Widget Card",
+  "summary": "A polished weather dashboard card with a custom weather icon, dark mode toggle, animated line chart, and add-city action. Built with Tailwind CSS, Iconify, and Web Animations API for modern app UI showcases, dashboards, and widget interfaces.",
+  "tags": [
+    "card",
+    "tailwind",
+    "animated",
+    "weather",
+    "dashboard",
+    "widget",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8252,
+      "sha256": "96c8ab1dbead88b696f5274fabd8f08d279d53e1e0b67394c139b16bd4673db5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20496,
+      "sha256": "d5558f8d204d373be0100bec160287cad3da33a09f7874c9c734877e5c3f2057"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

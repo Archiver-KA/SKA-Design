@@ -1,0 +1,75 @@
+{
+  "id": "SN-W03622",
+  "title": "Masquerade Event Landing Page Template",
+  "summary": "A dramatic reusable template for promoting exclusive masquerade galas, private soirées, and luxury ticketed events with immersive storytelling.",
+  "tags": [
+    "Landing Page",
+    "Entertainment",
+    "Conference",
+    "Dark",
+    "Elegant",
+    "Luxury",
+    "Event",
+    "Tickets",
+    "Minimal",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3823,
+      "sha256": "818a40bc90412a444e15619ef79745157504f0fecd6131ddfb5b53b880c93865"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18200,
+      "sha256": "38efae2739c8159d043ea14b271d0fcf0cc6053f58fdf4a740a4e05d3645d021"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 863,
+      "sha256": "b5043feae3e8871e0a3dd322fbb68acc279d18e7a01d3edc03d737de79054db3"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "2b07fd6bdb9fac52f5f7f1f19b01f6f4bfcd81cd9ca7dd79c7b5e95042ef659a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 63099,
+      "sha256": "f6ca057be6b5ab92f84dcbf44365e65bc5c1807e5f2654301281512d81f84a02"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "timeline",
+    "gallery-portfolio",
+    "product-grid",
+    "map-location",
+    "faq",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

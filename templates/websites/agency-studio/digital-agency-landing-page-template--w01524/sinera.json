@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01524",
+  "title": "Digital Agency Landing Page Template",
+  "summary": "A premium digital agency landing page template for showcasing services, portfolio, and contact options with a luxury dark UI tailored for creative studios.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Brand Guidelines",
+    "Portfolio",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3730,
+      "sha256": "930392228a00d607ef6d011b7cd08ff562bbb46514a7e7004856044780d56d0c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11586,
+      "sha256": "a9b73d130f71a5548f97d4b0ebe546016385a14900edbfb41bbda1f65a85f0ff"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "4138e8b79afcf12d5dfc0b7bfb1b20b9ad166cdd96352abc8441802e9296127d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25517,
+      "sha256": "7c1d727046b354c65626b76f9f37df1ef40b0a0b49e19d487dc806bedc03c05c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "services",
+    "gallery-portfolio",
+    "about",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "SN-W02712",
+  "title": "Barbershop Landing Page Template",
+  "summary": "A premium barbershop landing page template for men’s grooming brands, featuring services, galleries, locations, and booking-focused CTAs.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Barbershop",
+    "mens grooming",
+    "hair salon"
+  ],
+  "kind": "websites",
+  "category": "beauty-fashion",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4048,
+      "sha256": "09d9bdb7b724f2b55d26e6be7c5012b00041ac91fb08dbe01085150735f8ad5f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17548,
+      "sha256": "403643a004f4d1e6469c98a2f975b3cffaeb91c4486254cf09356ff5b9aff3ea"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 727,
+      "sha256": "53b466e7d23af2cd25dd8844d8518fe91cbd770e4ad9bf4bda6178bdce8dee1f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 62173,
+      "sha256": "fc8e3e3d2df2b7556e2182a20dc2a21b0afaf9332010607cd2ec54a1d092e6e8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "beauty",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Beauty / Fashion",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "menu-list",
+    "hero",
+    "features",
+    "services",
+    "comparison",
+    "gallery-portfolio",
+    "about",
+    "map-location",
+    "faq",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

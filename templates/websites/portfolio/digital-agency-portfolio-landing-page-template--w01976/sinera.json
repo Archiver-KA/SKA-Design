@@ -1,0 +1,71 @@
+{
+  "id": "SN-W01976",
+  "title": "Digital Agency Portfolio Landing Page Template",
+  "summary": "A dark, cinematic digital agency portfolio landing page template for showcasing high-end creative projects, capabilities, and contact inquiries.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Services",
+    "Brand",
+    "Art & Design",
+    "Graphic Design",
+    "Technology",
+    "Dark",
+    "Minimal",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3156,
+      "sha256": "7190cf4ec08bbbd1072a75960b5b2d7e0b0b6fb42baf7e8cc5299fcf084cf7b9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13276,
+      "sha256": "9756f811576c5648f3435eb16dded658564a394534ff6ed43b16d5d4088f5754"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 874,
+      "sha256": "66da2abc4816db838b15c613f0dca47dc664c978bae5608c5f0af81f13c21559"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31348,
+      "sha256": "5741cbef9177d0d3fe9b66050109263e2c676510047a51e4395457b8bdcb2104"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

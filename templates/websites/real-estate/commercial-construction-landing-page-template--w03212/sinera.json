@@ -1,0 +1,71 @@
+{
+  "id": "SN-W03212",
+  "title": "Commercial Construction Landing Page Template",
+  "summary": "A reusable landing page template for commercial construction and concrete service companies to showcase expertise, services, and consultation requests.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Business",
+    "Construction",
+    "Concrete",
+    "Local Services"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3706,
+      "sha256": "3a18e074b75f7bd04dd4b01d328a14a3b7cca71443b364fb56543dabfd86a1d0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14066,
+      "sha256": "a10ec007f42aaf4eafd589ccbe737ed615fe15f0efcb4f850f67b1eae69d0ccf"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 818,
+      "sha256": "82c6276b9b4c2ac83dc7f324e43fac483439c5fa6aa40d553229d1cdbdbbf166"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41966,
+      "sha256": "8722e0ed9eade320d70af14a9bdd1b4b4d6778cebe38d8632eeee12503f20fbc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "announcement-bar",
+    "navbar",
+    "hero",
+    "services",
+    "contact-form",
+    "case-studies",
+    "pricing",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "SN-W00320",
+  "title": "Cybersecurity SaaS Landing Page Template",
+  "summary": "A dark, futuristic SaaS landing page template for an intelligent cybersecurity platform showcasing zero-trust security, AI threat detection, and enterprise features.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Large Type",
+    "Security",
+    "SaaS",
+    "Cybersecurity"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3688,
+      "sha256": "fa17040c2f047cc59ea12edfd235171af48f1cd8847e32b35ad2116f4fe12f1b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12906,
+      "sha256": "3265e4b0aa2a5c0da735d66ca59a5fc11669eb9c90c0e30b90b2e91084d10746"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 962,
+      "sha256": "dce8f4c41b56353d07395c5eff1e8345a7bcd836f70d45026ffbb120b27a54a3"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1121,
+      "sha256": "a213a096b5d03f51268a05d0ff4999d69df169fa78cea97d2659771d115ee156"
+    },
+    {
+      "path": "index.html",
+      "bytes": 47952,
+      "sha256": "d9105f68175fb4e43d3c5848636897c512d17fd84b3a1ece36d3b6b3cfa3db87"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "about",
+    "testimonials",
+    "integrations",
+    "gallery-portfolio",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

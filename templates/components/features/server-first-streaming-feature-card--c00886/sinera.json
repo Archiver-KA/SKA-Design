@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00886",
+  "title": "Server-First Streaming Feature Card",
+  "summary": "Feature card demonstrating streaming architecture with grid layout preview and floating browser window mockup.",
+  "tags": [
+    "feature-card",
+    "dark-theme",
+    "server-streaming",
+    "browser-mockup",
+    "grid-layout",
+    "performance",
+    "card"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18904,
+      "sha256": "5fceff78203f0d328c143963268ebc31dbe9f5998768d910a47a4a658fc8b01f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3503,
+      "sha256": "2ecc24a64e7770e67f3ae835d730f962b6aab1086dedc8ca96f04a03fff37587"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4359,
+      "sha256": "546d473ca2e331ba45eea01c4e0344a2286974b1dd0f64833f1d3bc0ca7704a2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

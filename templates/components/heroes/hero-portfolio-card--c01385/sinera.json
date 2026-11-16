@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01385",
+  "title": "Hero Portfolio Card",
+  "summary": "Large hero card with background image, gradient overlay, and comprehensive content display for showcasing main portfolio information",
+  "tags": [
+    "card",
+    "hero",
+    "portfolio",
+    "background-image",
+    "overlay",
+    "stats",
+    "rating"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20590,
+      "sha256": "68cd345710120ee8031a6b3c20f587a1d0072c56bc7a671d5c3182600d4bc960"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3802,
+      "sha256": "0535d99b49d25babc676cf425c753478e9dfa8bfcec44ee8f37686597ffb4961"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4642,
+      "sha256": "59ce103bbd7380b36b0676680dc3767714739ebf38f7a4668bd3d6a29d9b36e7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

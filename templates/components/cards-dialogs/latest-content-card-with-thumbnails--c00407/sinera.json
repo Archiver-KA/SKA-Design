@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00407",
+  "title": "Latest Content Card with Thumbnails",
+  "summary": "Displays a 'Latest on FlowCast' header, a 'View all' link, and a responsive three-column grid of media items, each featuring a thumbnail, title, and meta details. Built with Tailwind CSS, ideal for dashboards, content feeds, and sidebars.",
+  "tags": [
+    "card",
+    "list",
+    "grid",
+    "feed",
+    "media",
+    "thumbnail",
+    "responsive",
+    "tailwindcss"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12430,
+      "sha256": "580eae5ee2aa9dedcff0e5207abdbf3c05f3330c00423b4a11dffd00d3dd7fc0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2058,
+      "sha256": "5b99b0e1bbb6f8cf3d105a216d04b0b92c903b719ed6cb367fa6f12d6a617bf9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2914,
+      "sha256": "2b1b6a612b05de024400401ee6da95231d864e027ca64d6f4c8c56fe5c61c7cf"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

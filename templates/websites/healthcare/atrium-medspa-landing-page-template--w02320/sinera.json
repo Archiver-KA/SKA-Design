@@ -1,0 +1,66 @@
+{
+  "id": "SN-W02320",
+  "title": "Atrium Medspa Landing Page Template",
+  "summary": "A luxury medical spa and wellness template designed for high-end aesthetic clinics and health practices.",
+  "tags": [
+    "Health",
+    "Services",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Dark"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3769,
+      "sha256": "2cbfeba794a870311305e3407228ab0513c8019df3bf7d36fd82b35165ba73ec"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15028,
+      "sha256": "19a0de9eda80dfb20992fbf500582b0111270d34222feb9430245c61375a5238"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "7d55672fca354f294a2bef50f9e55cce62d9ab8fa391070b026be7b75cc1b14c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34349,
+      "sha256": "39093a65a38776b007e7dd40aee098055b048bb53a21c958a67e7075818318b3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "announcement-bar",
+    "navbar",
+    "hero",
+    "services",
+    "team",
+    "map-location",
+    "contact-form",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

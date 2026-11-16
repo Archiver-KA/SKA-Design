@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01350",
+  "title": "Futuristic Hero with WebGL Glass Background",
+  "summary": "A full-screen sci-fi hero layout with branded logo, heading, and animated Three.js shader background simulating ribbed glass and glowing fluid effects. Built with Tailwind CSS, ideal for landing pages, AI products, or tech showcases.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "threejs",
+    "webgl",
+    "animated",
+    "fullscreen",
+    "futuristic"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19772,
+      "sha256": "465aaa27c5a128aa76909655ed96c8f74b59717fa86562443b4dbc4527a58e8b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8672,
+      "sha256": "3bd85ce4ff85775dfb48af12a9fbd391c804f6956c32d80a6a56222fde0745f6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

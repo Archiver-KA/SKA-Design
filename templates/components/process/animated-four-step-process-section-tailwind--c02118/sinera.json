@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02118",
+  "title": "Animated Four-Step Process Section (Tailwind)",
+  "summary": "Responsive section displaying a four-step workflow with numbered cards, fade/scale animations, and Tailwind CSS styling. Suitable for showcasing project processes, timelines, or onboarding stages on landing or about pages.",
+  "tags": [
+    "steps",
+    "process",
+    "section",
+    "tailwind",
+    "animated",
+    "responsive",
+    "grid",
+    "timeline"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14178,
+      "sha256": "5853632dc74c5198dc26c79506542aa76578806c187f9a2d2088f415d2d08f6a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3527,
+      "sha256": "eb38a9b76d06d3d00f6d7c912fb6fe967fce0f3f54b127fa3b39f5570d3333c6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4393,
+      "sha256": "8ff83232a3a08961bc00a4885cf6a5607e803fcc70da018869d238cd56b132a9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00794",
+  "title": "Interactive Feature Card Rotator",
+  "summary": "Responsive Tailwind section that cycles through feature highlight cards. Bullet list navigation updates accent colors and reveals corresponding card with smooth opacity transitions. Ideal for SaaS landing pages to showcase multiple product capabilities.",
+  "tags": [
+    "slider",
+    "feature",
+    "rotator",
+    "tailwind",
+    "interactive",
+    "responsive",
+    "landing",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18636,
+      "sha256": "85fe0107ad5e0548006b67e6416c417ae0659abb4b0265e869e1344e9741c478"
+    },
+    {
+      "path": "component.html",
+      "bytes": 15205,
+      "sha256": "4d22e91a8af93fcf63f8eca1d0d073e6a733531d18f67482578a85ccb337feb0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16058,
+      "sha256": "793b5c614034a14d1a9b2f187aaf04f0ff8e586d56a7a1210bd2d6d2de229f75"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

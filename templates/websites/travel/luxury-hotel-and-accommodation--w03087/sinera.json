@@ -1,0 +1,66 @@
+{
+  "id": "SN-W03087",
+  "title": "Luxury Hotel & Accommodation",
+  "summary": "A sophisticated, classical-inspired hospitality landing page template featuring room showcases, dining reservation modules, and a premium booking interface.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Elegant"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3735,
+      "sha256": "22e358a44d92d45129fe3f2f981baa5403abdc66cd90aee54a09963e5dcfa1a1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14052,
+      "sha256": "778ac05f1ca65cd1ba524eabe76aabba55c48ce9e511b9dc62abab5971afc514"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 720,
+      "sha256": "e65f20b64da7869a5955e74c9513baee2d41d82aad1fdfb9376a124fdca95f3d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36025,
+      "sha256": "441874d26703679c61fe7a2ee2b2e58ec45530c361e0824e9020afdfa4ac305d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "listings",
+    "cta",
+    "timeline",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

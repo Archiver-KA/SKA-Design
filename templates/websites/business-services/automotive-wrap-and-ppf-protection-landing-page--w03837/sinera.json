@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03837",
+  "title": "Automotive Wrap & PPF Protection Landing Page Template",
+  "summary": "A high-end, cinematic automotive services template designed for car wrapping, PPF protection, and detailing businesses with a dark, futuristic aesthetic.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Dark",
+    "Clean",
+    "Futuristic",
+    "Animated",
+    "Grid",
+    "Business"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3670,
+      "sha256": "e0e49f78ca20f1c8badae2c81e2ef8b617ddc2c13aaccc3571c2c16956722b64"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20346,
+      "sha256": "29482da1fbd5068b800a753afce160966bfb8e4622b4c55bcf35c26dc71a64e0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 833,
+      "sha256": "3734d468b31c765374a10ad214a7e1addca735ab5ea4dec2c42736b425000979"
+    },
+    {
+      "path": "index.html",
+      "bytes": 107526,
+      "sha256": "6cb4d709740b04d96a66b2c00ac6f5a1460bf3953f7bacab2cb88cecd89a3d7a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "bento-grid",
+    "gallery-portfolio",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

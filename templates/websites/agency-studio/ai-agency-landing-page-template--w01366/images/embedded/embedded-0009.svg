@@ -1,0 +1,20 @@
+<svg class="absolute inset-0 w-full h-full z-0 pointer-events-none" preserveAspectRatio="none" viewBox="0 0 400 256">
+        <!-- Paths from Left (Inputs) to Center -->
+        <path d="M70 85 C 130 85, 130 128, 200 128" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1.5" stroke-dasharray="4 4"></path>
+        <path d="M70 171 C 130 171, 130 128, 200 128" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1.5" stroke-dasharray="4 4"></path>
+        
+        <!-- Paths from Center to Right (Outputs) -->
+        <path d="M200 128 C 270 128, 270 64, 330 64" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1.5"></path>
+        <path d="M200 128 C 270 128, 270 128, 330 128" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1.5"></path>
+        <path d="M200 128 C 270 128, 270 192, 330 192" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1.5"></path>
+
+        <!-- Animated Data Packets -->
+        <circle r="2" fill="#eab308" class="opacity-80">
+            <animateMotion repeatCount="indefinite" dur="3s" keyPoints="0;1" keyTimes="0;1" path="M70 85 C 130 85, 130 128, 200 128"></animateMotion>
+        </circle>
+        
+        
+        <circle r="2" fill="#22c55e" class="opacity-80">
+            <animateMotion repeatCount="indefinite" dur="2s" path="M200 128 C 270 128, 270 64, 330 64"></animateMotion>
+        </circle>
+    </svg>

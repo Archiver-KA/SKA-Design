@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01918",
+  "title": "Interactive Audio Player with Lyrics Editor & Sync",
+  "summary": "Tailwind-styled audio player featuring track info, progress bar, prev/play/next controls, volume & speed sliders, visualizer, plus a lyric editor with LRC import/export, tap sync, undo and offset adjustment—ideal for music apps or karaoke tools.",
+  "tags": [
+    "audio-player",
+    "lyrics-editor",
+    "tailwind",
+    "media-controls",
+    "visualizer",
+    "responsive",
+    "interactive",
+    "karaoke"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4900,
+      "sha256": "9604faea3b21af8be47b5f95b9793a939958c569b43d04cfc305309ed469dd66"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6246,
+      "sha256": "e05bd9662c2f85f3de4f020f04ed3c6487af034f0122a8798a0c206c3d52258b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7251,
+      "sha256": "a5fc1aaf24b426927683b4037ee8a2734f1a508a614efd3480b6b6405c155f49"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

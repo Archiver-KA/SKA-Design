@@ -1,0 +1,216 @@
+<!doctype html>
+<html lang="en" data-theme="circuit">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Editorial Archive | A newsletter, one subject per issue</title>
+<meta name="description" content="The Editorial Archive: a newsletter with one subject per issue. Read every back issue, and subscribe to get the next one in your inbox.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config = { theme: { extend: {
+  colors: { ground: "#F4F6FA", surface: "#FFFFFF", ink: "#0E1726", muted: "#556070", line: "#D9DFE8", accent: "#2B5CE6", accent2: "#F2A33A" },
+  fontFamily: { display: ['"Space Grotesk"', "system-ui", "sans-serif"], body: ["Inter", "system-ui", "sans-serif"] }
+}}};
+</script>
+<style>
+[data-theme="circuit"] {
+  --sa-ground: #F4F6FA; --sa-surface: #FFFFFF; --sa-ink: #0E1726; --sa-muted: #556070; --sa-line: #D9DFE8;
+  --sa-accent: #2B5CE6; --sa-on-accent: #FFFFFF; --sa-accent-2: #F2A33A; --sa-on-accent-2: #0E1726;
+  --sa-font-display: "Space Grotesk", system-ui, sans-serif; --sa-font-body: "Inter", system-ui, sans-serif;
+  --sa-radius-control: 6px; --sa-radius-card: 6px; --sa-display-case: none;
+  color-scheme: light; background: var(--sa-ground); color: var(--sa-ink); font-family: var(--sa-font-body);
+}
+[data-theme] :is(h1,h2,h3){font-family:var(--sa-font-display);text-wrap:balance}
+body{font-size:16px;line-height:1.6;overflow-x:hidden}
+.wrap{max-width:1240px;margin-inline:auto;padding-inline:20px}
+@media(min-width:768px){.wrap{padding-inline:40px}}
+.sec{padding-block:56px}@media(min-width:768px){.sec{padding-block:96px}}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;padding:0 22px;border-radius:6px;background:var(--sa-accent);color:#fff;font-weight:600;font-size:15px;text-decoration:none;border:0;cursor:pointer}
+.btn:hover{background:#2250d0}
+:focus-visible{outline:2px solid var(--sa-accent);outline-offset:3px}
+.on-ink :focus-visible{outline-color:#fff}
+.mono{font:500 12px/1.4 var(--sa-font-body);letter-spacing:.1em;text-transform:uppercase}
+/* giant headline: the signature move */
+.mega{font-weight:700;letter-spacing:-.045em;line-height:.88;font-size:clamp(50px,11.5vw,160px)}
+.issue{display:grid;grid-template-columns:84px 1fr;gap:4px 16px;padding:22px 0;border-top:1px solid var(--sa-ink);text-decoration:none;color:inherit;min-height:44px}
+@media(min-width:900px){.issue{grid-template-columns:150px 1.4fr 1fr 120px;gap:32px;align-items:baseline;padding:28px 0}}
+.issue .text-accent{white-space:nowrap}
+.issue:hover .t{color:var(--sa-accent)}
+.issue:hover .arrow{transform:translateX(6px)}
+.arrow{transition:transform .2s}
+details>summary{list-style:none;cursor:pointer;min-height:56px;display:flex;align-items:center;justify-content:space-between;gap:16px;padding-block:12px;font-weight:600}
+details>summary::-webkit-details-marker{display:none}
+details[open] .plus{transform:rotate(45deg)}.plus{transition:transform .2s}
+.ph{display:flex;align-items:center;justify-content:center;text-align:center;border:1px dashed #8995A8;color:var(--sa-muted);font-size:13px;background:repeating-linear-gradient(45deg,transparent 0 10px,rgba(14,23,38,.03) 10px 20px)}
+</style>
+</head>
+<body class="bg-ground text-ink font-body antialiased">
+<a href="#main" class="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:bg-surface focus:p-3">Skip to content</a>
+
+<header class="border-b border-ink">
+  <div class="wrap flex items-center justify-between h-16">
+    <a href="#" class="font-display font-bold text-lg tracking-tight" aria-label="The Editorial Archive - home">The Editorial Archive<span class="text-accent">.</span></a>
+    <nav class="hidden md:flex items-center gap-8 text-[15px] font-medium" aria-label="Main">
+      <a href="#so-moi" class="py-3 hover:text-accent">Latest issue</a>
+      <a href="#kho" class="py-3 hover:text-accent">The archive</a>
+      <a href="#thanh-vien" class="py-3 hover:text-accent">Membership</a>
+      <a href="#hoi-dap" class="py-3 hover:text-accent">FAQ</a>
+      <a href="#dang-ky" class="btn">Subscribe</a>
+    </nav>
+    <button id="menuBtn" class="md:hidden w-11 h-11 inline-flex items-center justify-center border border-ink rounded-md" aria-label="Open menu" aria-expanded="false" aria-controls="mobileNav">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+  </div>
+  <nav id="mobileNav" class="hidden md:hidden border-t border-line bg-surface" aria-label="Mobile menu">
+    <div class="wrap flex flex-col py-2">
+      <a href="#so-moi" class="py-3 min-h-[44px] font-medium">Latest issue</a>
+      <a href="#kho" class="py-3 min-h-[44px] font-medium">The archive</a>
+      <a href="#thanh-vien" class="py-3 min-h-[44px] font-medium">Membership</a>
+      <a href="#hoi-dap" class="py-3 min-h-[44px] font-medium">FAQ</a>
+      <a href="#dang-ky" class="btn my-3">Subscribe</a>
+    </div>
+  </nav>
+</header>
+
+<main id="main">
+
+<!-- HERO: enormous type, form tucked beneath -->
+<section class="pt-10 md:pt-16 pb-12 md:pb-20">
+  <div class="wrap">
+    <p class="mono text-muted mb-6">Editorial newsletter &middot; one subject per issue &middot; [FREQUENCY: e.g. every Friday morning]</p>
+    <h1 class="mega">Every issue,<br><span class="text-accent">still here</span><br>to reread.</h1>
+    <div class="mt-10 md:mt-14 grid md:grid-cols-12 gap-8 items-end border-t border-ink pt-6">
+      <p class="md:col-span-6 text-lg md:text-xl text-muted">Each issue is a long essay on a single subject, with a reading list to go further. No ads in the middle, nothing buried after a few weeks: the whole archive stays open for you to search.</p>
+      <form class="md:col-span-6 grid gap-3" onsubmit="event.preventDefault();this.querySelector('output').textContent='Thanks. This is a demo form.'">
+        <label for="mail" class="mono">Email for new issues</label>
+        <div class="flex flex-col sm:flex-row gap-3">
+          <input id="mail" name="mail" type="email" autocomplete="email" required placeholder="you@email.com" class="flex-1 h-12 px-4 border border-ink rounded-md bg-surface">
+          <button class="btn" type="submit">Subscribe free</button>
+        </div>
+        <output class="text-sm text-muted" aria-live="polite">Unsubscribe anytime with one click.</output>
+      </form>
+    </div>
+  </div>
+</section>
+
+<!-- LATEST ISSUE -->
+<section id="so-moi" class="sec bg-ink text-white on-ink" aria-labelledby="new-h">
+  <div class="wrap grid md:grid-cols-12 gap-10 items-center">
+    <div class="md:col-span-5">
+      <div class="ph aspect-[3/4] max-w-sm !border-[#556070] !text-[#B7C0CF]" style="background:repeating-linear-gradient(45deg,transparent 0 10px,rgba(255,255,255,.04) 10px 20px)">Latest issue cover 3:4</div>
+    </div>
+    <div class="md:col-span-7">
+      <p class="mono" style="color:#F2A33A">Latest issue &middot; [ISSUE NUMBER]</p>
+      <h2 id="new-h" class="mt-4 font-display font-bold text-4xl md:text-6xl tracking-tight leading-[1.02]">[LATEST ISSUE TITLE]</h2>
+      <p class="mt-6 text-lg text-[#DCE2EC] max-w-xl">[2-SENTENCE SUMMARY: what question this issue asks and what the reader takes away after about [NUMBER] minutes.]</p>
+      <dl class="mt-8 grid grid-cols-2 gap-6 max-w-md text-sm">
+        <div><dt style="color:#B7C0CF">Author</dt><dd class="font-semibold mt-1">[AUTHOR NAME]</dd></div>
+        <div><dt style="color:#B7C0CF">Reading time</dt><dd class="font-semibold mt-1">[NUMBER] min</dd></div>
+      </dl>
+      <a href="#dang-ky" class="btn mt-8" style="background:#F2A33A;color:#0E1726">Get this issue by email</a>
+    </div>
+  </div>
+</section>
+
+<!-- ARCHIVE INDEX -->
+<section id="kho" class="sec" aria-labelledby="kho-h">
+  <div class="wrap">
+    <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-4 mb-10">
+      <h2 id="kho-h" class="font-display font-bold text-4xl md:text-7xl tracking-tight leading-none">The archive</h2>
+      <p class="text-muted max-w-sm">Sample list. Replace with your real issues, newest first.</p>
+    </div>
+    <div class="border-b border-ink">
+      <a href="#" class="issue"><span class="font-display font-bold text-2xl md:text-4xl text-accent">No.[N]</span><span class="t font-display font-semibold text-xl md:text-2xl">[ISSUE 1 TITLE]</span><span class="text-muted hidden md:block">[SUBJECT &middot; RELEASE DATE]</span><span class="mono flex items-center gap-2 justify-start md:justify-end col-start-2 md:col-start-auto">Read <svg class="arrow" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 10h13M11 4l6 6-6 6"/></svg></span></a>
+      <a href="#" class="issue"><span class="font-display font-bold text-2xl md:text-4xl text-accent">No.[N]</span><span class="t font-display font-semibold text-xl md:text-2xl">[ISSUE 2 TITLE]</span><span class="text-muted hidden md:block">[SUBJECT &middot; RELEASE DATE]</span><span class="mono flex items-center gap-2 justify-start md:justify-end col-start-2 md:col-start-auto">Read <svg class="arrow" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 10h13M11 4l6 6-6 6"/></svg></span></a>
+      <a href="#" class="issue"><span class="font-display font-bold text-2xl md:text-4xl text-accent">No.[N]</span><span class="t font-display font-semibold text-xl md:text-2xl">[ISSUE 3 TITLE]</span><span class="text-muted hidden md:block">[SUBJECT &middot; RELEASE DATE]</span><span class="mono flex items-center gap-2 justify-start md:justify-end col-start-2 md:col-start-auto">Read <svg class="arrow" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 10h13M11 4l6 6-6 6"/></svg></span></a>
+      <a href="#" class="issue"><span class="font-display font-bold text-2xl md:text-4xl text-accent">No.[N]</span><span class="t font-display font-semibold text-xl md:text-2xl">[ISSUE 4 TITLE]</span><span class="text-muted hidden md:block">[SUBJECT &middot; RELEASE DATE]</span><span class="mono flex items-center gap-2 justify-start md:justify-end col-start-2 md:col-start-auto">Read <svg class="arrow" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 10h13M11 4l6 6-6 6"/></svg></span></a>
+      <a href="#" class="issue"><span class="font-display font-bold text-2xl md:text-4xl text-accent">No.[N]</span><span class="t font-display font-semibold text-xl md:text-2xl">[ISSUE 5 TITLE]</span><span class="text-muted hidden md:block">[SUBJECT &middot; RELEASE DATE]</span><span class="mono flex items-center gap-2 justify-start md:justify-end col-start-2 md:col-start-auto">Read <svg class="arrow" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 10h13M11 4l6 6-6 6"/></svg></span></a>
+    </div>
+  </div>
+</section>
+
+<!-- WHY: three promises -->
+<section class="sec bg-surface border-y border-line" aria-labelledby="why-h">
+  <div class="wrap">
+    <h2 id="why-h" class="font-display font-bold text-3xl md:text-5xl tracking-tight max-w-3xl">Why one more email is worth your inbox.</h2>
+    <div class="mt-12 grid md:grid-cols-3 gap-10">
+      <div><p class="font-display font-bold text-6xl text-line" aria-hidden="true">1</p><h3 class="font-display font-semibold text-xl mt-2">One subject, taken all the way</h3><p class="mt-2 text-muted">Each issue tackles a single question: long enough to make an argument, short enough to finish over a coffee.</p></div>
+      <div><p class="font-display font-bold text-6xl text-line" aria-hidden="true">2</p><h3 class="font-display font-semibold text-xl mt-2">Sources on the page</h3><p class="mt-2 text-muted">Every issue ends with the material we drew on and books worth reading next, so you can check our work and dig deeper.</p></div>
+      <div><p class="font-display font-bold text-6xl text-line" aria-hidden="true">3</p><h3 class="font-display font-semibold text-xl mt-2">Back issues never vanish</h3><p class="mt-2 text-muted">Arrive late and you can still start at issue one. The archive is searchable by subject and author.</p></div>
+    </div>
+    <figure class="mt-14 border-t border-ink pt-8 max-w-3xl">
+      <blockquote class="font-display text-2xl md:text-3xl leading-snug">"[READER QUOTE: one sentence about the issue they keep coming back to]"</blockquote>
+      <figcaption class="mt-3 text-sm text-muted">[NAME, TITLE]</figcaption>
+    </figure>
+  </div>
+</section>
+
+<!-- MEMBERSHIP -->
+<section id="thanh-vien" class="sec" aria-labelledby="mem-h">
+  <div class="wrap">
+    <p class="mono text-muted mb-4">Two ways to read</p>
+    <h2 id="mem-h" class="font-display font-bold text-3xl md:text-5xl tracking-tight max-w-3xl">Read for free, or support us and unlock the whole archive.</h2>
+    <div class="mt-12 grid md:grid-cols-2 gap-6">
+      <article class="bg-surface border border-ink rounded-md p-6 md:p-8">
+        <h3 class="font-display font-semibold text-2xl">Reader</h3>
+        <p class="mt-1 text-muted">Free</p>
+        <ul class="mt-6 space-y-3"><li class="flex gap-3"><svg class="shrink-0 mt-1" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="#2B5CE6" stroke-width="2.4" aria-hidden="true"><path d="M4 10l4 4 8-9"/></svg>A new issue every [FREQUENCY] by email</li><li class="flex gap-3"><svg class="shrink-0 mt-1" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="#2B5CE6" stroke-width="2.4" aria-hidden="true"><path d="M4 10l4 4 8-9"/></svg>Read the latest [NUMBER] issues in the archive</li></ul>
+        <a href="#dang-ky" class="btn mt-8">Subscribe free</a>
+      </article>
+      <article class="bg-surface border border-ink rounded-md p-6 md:p-8">
+        <h3 class="font-display font-semibold text-2xl">Member</h3>
+        <p class="mt-1 text-muted">[YOUR PRICE] per month or [YOUR PRICE] per year</p>
+        <ul class="mt-6 space-y-3"><li class="flex gap-3"><svg class="shrink-0 mt-1" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="#2B5CE6" stroke-width="2.4" aria-hidden="true"><path d="M4 10l4 4 8-9"/></svg>The full archive, searchable by subject</li><li class="flex gap-3"><svg class="shrink-0 mt-1" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="#2B5CE6" stroke-width="2.4" aria-hidden="true"><path d="M4 10l4 4 8-9"/></svg>[EXTRA PERKS: PDF editions, discussion, special issues]</li></ul>
+        <a href="#dang-ky" class="btn btn-ghost mt-8" style="background:transparent;color:#0E1726;box-shadow:inset 0 0 0 1px #0E1726">Explore membership</a>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section id="hoi-dap" class="sec bg-surface border-t border-line" aria-labelledby="faq-h">
+  <div class="wrap grid md:grid-cols-12 gap-10">
+    <h2 id="faq-h" class="md:col-span-4 font-display font-bold text-3xl md:text-4xl tracking-tight">Quick questions</h2>
+    <div class="md:col-span-8 border-t border-ink">
+      <details class="border-b border-line"><summary>How often does a new issue arrive?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">[YOUR PUBLISHING SCHEDULE]. If it changes, we say so in the preceding issue.</p></details>
+      <details class="border-b border-line"><summary>Can I read back issues without subscribing?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">A few recent issues are open so you can try us out. The full archive is for members.</p></details>
+      <details class="border-b border-line"><summary>Can I pitch an essay or suggest a subject?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">Yes. Send a short pitch to [EDITORIAL EMAIL] with a few lines about yourself.</p></details>
+      <details class="border-b border-line"><summary>How do I cancel?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">Every email carries an unsubscribe link. Members can stop their plan from the account page.</p></details>
+    </div>
+  </div>
+</section>
+
+<!-- FINAL CTA -->
+<section id="dang-ky" class="sec bg-accent text-white on-ink" aria-labelledby="cta-h" style="background:#2B5CE6">
+  <div class="wrap">
+    <h2 id="cta-h" class="mega" style="font-size:clamp(48px,11vw,150px)">The next issue<br>is waiting.</h2>
+    <form class="mt-10 max-w-xl grid gap-3" onsubmit="event.preventDefault();this.querySelector('output').textContent='Thanks. This is a demo form.'">
+      <label for="mail2" class="mono">Your email</label>
+      <div class="flex flex-col sm:flex-row gap-3">
+        <input id="mail2" type="email" autocomplete="email" required placeholder="you@email.com" class="flex-1 h-12 px-4 rounded-md text-ink bg-white">
+        <button class="btn" type="submit" style="background:#0E1726">Subscribe free</button>
+      </div>
+      <output class="text-sm" aria-live="polite">No spam. Unsubscribe anytime.</output>
+    </form>
+  </div>
+</section>
+</main>
+
+<footer class="bg-ink text-[#DCE2EC] on-ink">
+  <div class="wrap py-12 grid md:grid-cols-3 gap-8 text-sm">
+    <div><p class="font-display font-bold text-lg text-white">The Editorial Archive<span style="color:#F2A33A">.</span></p><p class="mt-2 max-w-xs">An editorial newsletter, one subject per issue. [PUBLISHER NAME].</p></div>
+    <div><p class="font-semibold text-white mb-2">Contact</p><p>[EDITORIAL EMAIL]</p><p>[SOCIAL LINKS]</p></div>
+    <div><p class="font-semibold text-white mb-2">Information</p><a href="#" class="underline inline-block py-2">Privacy policy</a><br><a href="#" class="underline inline-block py-2">Terms of use</a></div>
+  </div>
+</footer>
+
+<script>
+(function(){var b=document.getElementById('menuBtn'),m=document.getElementById('mobileNav');
+b.addEventListener('click',function(){var o=m.classList.toggle('hidden')===false;b.setAttribute('aria-expanded',o);b.setAttribute('aria-label',o?'Close menu':'Open menu');});
+m.addEventListener('click',function(e){if(e.target.tagName==='A'){m.classList.add('hidden');b.setAttribute('aria-expanded','false');}});})();
+</script>
+</body>
+</html>

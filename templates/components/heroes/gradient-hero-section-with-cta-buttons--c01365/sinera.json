@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01365",
+  "title": "Gradient Hero Section with CTA Buttons",
+  "summary": "Responsive landing-page hero banner with gradient headline, feature badges, supporting text, and primary/secondary call-to-action buttons. Tailwind CSS styling, ideal for SaaS marketing or onboarding pages.",
+  "tags": [
+    "hero",
+    "banner",
+    "cta",
+    "landing-page",
+    "tailwind",
+    "responsive",
+    "marketing",
+    "gradient"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10718,
+      "sha256": "040a71f59e6b27072757235e51017583ba151a84a1f9c91e3ace4e4252c3cdac"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3848,
+      "sha256": "94530b67d593dd7a5804c254f788ef63dca859325f3bf7c42855f450adafdb5a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4707,
+      "sha256": "92630a78ba97afd46cf690b284120f634edae880610b3f422342145a26e74fe8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

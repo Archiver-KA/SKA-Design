@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01199",
+  "title": "Vertical Icon Sidebar Navigation with Tooltips",
+  "summary": "Interactive vertical sidebar menu of circular icon buttons built with Tailwind CSS. Each button reveals a text tooltip on hover, featuring glassmorphism styling and smooth color transitions. Ideal for compact dashboard or overlay navigation.",
+  "tags": [
+    "sidebar",
+    "navigation",
+    "icon",
+    "tooltip",
+    "vertical",
+    "tailwind",
+    "menu",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1824,
+      "sha256": "48c14de35284995af686c215404930df92ba096ce33c08457dfe29e5842763e1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3142,
+      "sha256": "eecec97b44add6df478fcd32adfc5157b17476671d99a01a0e381344e19f7b98"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4139,
+      "sha256": "169916c2bb4fcc11698256f37622482b8921fe88865b14f920513e74be7297eb"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

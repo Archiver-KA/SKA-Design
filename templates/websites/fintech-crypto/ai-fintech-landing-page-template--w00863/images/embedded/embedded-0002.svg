@@ -1,0 +1,54 @@
+<svg class="absolute inset-0 w-full h-full z-0 overflow-visible pointer-events-none">
+                    <defs>
+                      <filter id="glow-connector" x="-50%" y="-50%" width="200%" height="200%">
+                        <feGaussianBlur stdDeviation="2" result="blur"></feGaussianBlur>
+                        <feComposite in="SourceGraphic" in2="blur" operator="over"></feComposite>
+                      </filter>
+                    </defs>
+
+                    <!-- Connection Lines -->
+                    <g stroke="#facf39" stroke-width="1.5" stroke-opacity="0.2" fill="none">
+                      <!-- Email to History -->
+                      <path d="M 100 200 L 120 200"></path>
+                      <!-- History to Decision -->
+                      <path d="M 200 200 L 220 200"></path>
+
+                      <!-- Split Logic -->
+                      <!-- Split Up -->
+                      <path d="M 300 200 L 315 200 L 315 100 L 330 100"></path>
+                      <!-- Split Down -->
+                      <path d="M 300 200 L 315 200 L 315 300 L 330 300"></path>
+
+                      <!-- Bottom Connection (Invoice to Response) -->
+                      <path d="M 410 300 L 430 300"></path>
+                    </g>
+
+                    <!-- Animated Flow Dots -->
+                    <g fill="#facf39" filter="url(#glow-connector)">
+                      <!-- Dot 1 -->
+                      <circle r="3">
+                        <animateMotion dur="3s" repeatCount="indefinite" path="M 100 200 L 120 200" calcMode="linear"></animateMotion>
+                        <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"></animate>
+                      </circle>
+                      <!-- Dot 2 -->
+                      <circle r="3">
+                        <animateMotion dur="3s" begin="0.8s" repeatCount="indefinite" path="M 200 200 L 220 200" calcMode="linear"></animateMotion>
+                        <animate attributeName="opacity" values="0;1;0" dur="3s" begin="0.8s" repeatCount="indefinite"></animate>
+                      </circle>
+                      <!-- Dot Split Up -->
+                      <circle r="3">
+                        <animateMotion dur="4s" begin="1.5s" repeatCount="indefinite" path="M 300 200 L 315 200 L 315 100 L 330 100" calcMode="linear"></animateMotion>
+                        <animate attributeName="opacity" values="0;1;0" dur="4s" begin="1.5s" repeatCount="indefinite"></animate>
+                      </circle>
+                      <!-- Dot Split Down -->
+                      <circle r="3">
+                        <animateMotion dur="4s" begin="1.5s" repeatCount="indefinite" path="M 300 200 L 315 200 L 315 300 L 330 300" calcMode="linear"></animateMotion>
+                        <animate attributeName="opacity" values="0;1;0" dur="4s" begin="1.5s" repeatCount="indefinite"></animate>
+                      </circle>
+                      <!-- Dot Response -->
+                      <circle r="3">
+                        <animateMotion dur="2s" begin="2.5s" repeatCount="indefinite" path="M 410 300 L 430 300" calcMode="linear"></animateMotion>
+                        <animate attributeName="opacity" values="0;1;0" dur="2s" begin="2.5s" repeatCount="indefinite"></animate>
+                      </circle>
+                    </g>
+                  </svg>

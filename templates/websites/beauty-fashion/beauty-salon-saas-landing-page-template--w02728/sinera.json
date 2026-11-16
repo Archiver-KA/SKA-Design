@@ -1,0 +1,80 @@
+{
+  "id": "SN-W02728",
+  "title": "Beauty Salon SaaS Landing Page Template",
+  "summary": "A reusable landing page template for AI-powered tanning studio management apps, showcasing scheduling, WhatsApp automation, pricing, and conversion-focused CTAs.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Brand",
+    "SaaS",
+    "Beauty",
+    "CRM",
+    "AI"
+  ],
+  "kind": "websites",
+  "category": "beauty-fashion",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3827,
+      "sha256": "38dec6ea9cbf4a354c6e9edb2509444c220786adfb325dfef311abd2303e6dbc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17358,
+      "sha256": "46686f3a0d67318678c79ad531d86d2e9496172d0f3cf6c6feea35a6ad7691a3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 971,
+      "sha256": "3d84b10f3b1b5aa3e650d92e0e688c937835077dc71e7dac7c35110964e75b9b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 150,
+      "sha256": "d55bb55288c1d1b3585ad94e01ca194d1741871e7bf5f3a1321c0c65760a553e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 53738,
+      "sha256": "541e6bfc3579b98d1f00610513d18ae4c9ff23a7ff94039dc9d653e76f8c4f0b"
+    },
+    {
+      "path": "sinera-fx-filter.js",
+      "bytes": 20821,
+      "sha256": "6b5f074b7d846e3a404deda089c33986eb540d0c5cd8c1c0730e314b4c68c287"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "beauty",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Beauty / Fashion",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "schedule-agenda",
+    "stats",
+    "features",
+    "product-grid",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,33 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Dark Mode Code Snippet Window with Line Numbers</title><script src="https://cdn.tailwindcss.com"></script><link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet"><style>body{margin:0;min-height:100vh;display:flex;flex-direction:column;justify-content:center;background:#0a0a0a;color:#fafafa;font-family:Inter,ui-sans-serif,system-ui,sans-serif}</style></head><body><div id="component-root"><div class="flex-1 flex flex-col md:pl-2 md:pr-2 md:pt-2 md:pb-2 pt-2 pr-2 pb-2 pl-2 max-w-4xl">
+  <div class="relative rounded-2xl border border-zinc-800/60 bg-zinc-950/80 backdrop-blur-sm flex-1">
+    <!-- window controls -->
+    <div class="flex items-center gap-2.5 px-5 py-4 border-b border-zinc-800/40">
+      <div class="flex gap-2">
+        <span class="h-3 w-3 rounded-full bg-zinc-600"></span>
+        <span class="h-3 w-3 rounded-full bg-zinc-600"></span>
+        <span class="h-3 w-3 rounded-full bg-zinc-600"></span>
+      </div>
+      <div class="flex-1 text-center">
+        <span class="text-zinc-500 text-sm font-geist tracking-tight" style="">budget-analyzer.py</span>
+      </div>
+    </div>
+
+    <div class="p-5 md:p-6 flex-1 flex items-center">
+      <pre class="text-[13px] md:text-[14px] leading-7 text-zinc-300 overflow-x-auto w-full font-geist tracking-tight"
+        style=""><span class="text-zinc-600 select-none w-8 inline-block font-geist tracking-tight" style="">1</span><span class="text-emerald-400 font-geist tracking-tight" style="">import</span> pandas <span class="text-emerald-400 font-geist tracking-tight" style="">as</span> pd
+<span class="text-zinc-600 select-none w-8 inline-block font-geist tracking-tight" style="">2</span><span class="text-emerald-400 font-geist tracking-tight" style="">from</span> ai_models <span class="text-emerald-400 font-geist tracking-tight" style="">import</span> BudgetPredictor
+<span class="text-zinc-600 select-none w-8 inline-block font-geist tracking-tight" style="">3</span>
+<span class="text-zinc-600 select-none w-8 inline-block font-geist tracking-tight" style="">4</span><span class="text-emerald-400 font-geist tracking-tight" style="">class</span> <span class="text-white font-geist tracking-tight" style="">BudgetAnalyzer</span>:
+<span class="text-zinc-600 select-none w-8 inline-block font-geist tracking-tight" style="">5</span>    <span class="text-emerald-400 font-geist tracking-tight" style="">def</span> <span class="text-white font-geist tracking-tight" style="">analyze_spending</span>(<span class="text-orange-400 font-geist tracking-tight" style="">self</span>, data):
+<span class="text-zinc-600 select-none w-8 inline-block font-geist tracking-tight" style="">6</span>        predictions = <span class="text-orange-400 font-geist tracking-tight" style="">self</span>.model.<span class="text-white font-geist tracking-tight" style="">predict</span>(data)
+<span class="text-zinc-600 select-none w-8 inline-block font-geist tracking-tight" style="">7</span>        insights = <span class="text-orange-400 font-geist tracking-tight" style="">self</span>.<span class="text-white font-geist tracking-tight" style="">generate_insights</span>(predictions)
+<span class="text-zinc-600 select-none w-8 inline-block font-geist tracking-tight" style="">8</span>        <span class="text-emerald-400 font-geist tracking-tight" style="">return</span> {
+<span class="text-zinc-600 select-none w-8 inline-block font-geist tracking-tight" style="">9</span>            <span class="text-blue-400 font-geist tracking-tight" style="">'forecast'</span>: predictions,
+<span class="text-zinc-600 select-none w-8 inline-block font-geist tracking-tight" style="">10</span>            <span class="text-blue-400 font-geist tracking-tight" style="">'recommendations'</span>: insights
+<span class="text-zinc-600 select-none w-8 inline-block font-geist tracking-tight" style="">11</span>        }</pre>
+    </div>
+
+    <!-- Subtle inner glow -->
+    <div class="absolute inset-0 ring-inset ring-white/5 ring-1 rounded-2xl"></div>
+  </div>
+</div></div><script>try{var r=document.getElementById("component-root");if(r.children.length===1){var d=getComputedStyle(r.children[0]).display;if(d.indexOf("inline")===0)r.style.textAlign="center"}}catch(e){}</script></body></html>

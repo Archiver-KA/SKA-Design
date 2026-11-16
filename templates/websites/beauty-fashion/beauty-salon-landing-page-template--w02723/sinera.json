@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02723",
+  "title": "Beauty Salon Landing Page Template",
+  "summary": "A modern Beauty Body Bangkok-inspired salon landing page template for showcasing hair, nail, massage, and spa services with clear CTAs and FAQs.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Beauty salon",
+    "Wellness spa"
+  ],
+  "kind": "websites",
+  "category": "beauty-fashion",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3667,
+      "sha256": "6361cb8645b36fd22b3b785975fd43d625e14a7cab034bcf996b8d974ed3ba42"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12228,
+      "sha256": "c043e5d14ac13b1fa17cfee9876e42e709010338fa9a50b312c40d5171ac350c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "f5354285203fb5df253e674f274a911436fde3d9c76bd6c7077aa27dc8319eaa"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28884,
+      "sha256": "84740017f617e640a17aafcf4f2c89421a597a64ccb9c35bbae65a2bb17f3398"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "beauty",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Beauty / Fashion",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "about",
+    "faq",
+    "contact-form",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

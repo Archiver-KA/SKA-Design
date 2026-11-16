@@ -1,0 +1,41 @@
+<svg viewBox="0 0 400 400" class="w-[120%] h-[120%] lg:w-[140%] lg:h-[140%] text-stone-200 drop-shadow-sm" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round">
+                        
+                        <line x1="150" y1="0" x2="150" y2="175" stroke-width="1" class="text-stone-200" style="stroke-dasharray: 1000; animation: drawLine 2s ease-out both; animation-delay: 0.00s;"></line>
+                        <line x1="250" y1="40" x2="250" y2="120" stroke-width="1" class="text-stone-200" style="stroke-dasharray: 1000; animation: drawLine 2s ease-out both; animation-delay: 0.05s;"></line>
+                        <line x1="300" y1="80" x2="300" y2="200" stroke-width="1" class="text-stone-200" style="stroke-dasharray: 1000; animation: drawLine 2s ease-out both; animation-delay: 0.10s;"></line>
+                        <line x1="100" y1="100" x2="100" y2="260" stroke-width="1" class="text-stone-200" style="stroke-dasharray: 1000; animation: drawLine 2s ease-out both; animation-delay: 0.15s;"></line>
+                        
+                        <g transform="translate(200, 200)">
+                            <polygon points="0,0 -50,-28.87 0,-57.74 50,-28.87" fill="#F5F5F4" stroke="currentColor" style="stroke-dasharray: 1000; animation: drawLine 2s ease-out both, fadeInBlock 2s ease-out both; animation-delay: 0.20s;"></polygon>
+                            <polygon points="-50,-28.87 -50,28.87 0,57.74 0,0" fill="#FFFFFF" stroke="currentColor" style="stroke-dasharray: 1000; animation: drawLine 2s ease-out both, fadeInBlock 2s ease-out both; animation-delay: 0.25s;"></polygon>
+                            <polygon points="0,0 0,57.74 50,28.87 50,-28.87" fill="#E7E5E4" stroke="currentColor" style="stroke-dasharray: 1000; animation: drawLine 2s ease-out both, fadeInBlock 2s ease-out both; animation-delay: 0.30s;"></polygon>
+
+                            <g transform="translate(-50, 86.6)">
+                                <polygon points="0,0 -50,-28.87 0,-57.74 50,-28.87" fill="#FAFAFA" stroke="currentColor" style="stroke-dasharray: 1000; animation: drawLine 2s ease-out both, fadeInBlock 2s ease-out both; animation-delay: 0.35s;"></polygon>
+                                <polygon points="-50,-28.87 -50,28.87 0,57.74 0,0" fill="#F5F5F4" stroke="currentColor" style="stroke-dasharray: 1000; animation: drawLine 2s ease-out both, fadeInBlock 2s ease-out both; animation-delay: 0.40s;"></polygon>
+                                <polygon points="0,0 0,57.74 50,28.87 50,-28.87" fill="#FFFFFF" stroke="currentColor" style="stroke-dasharray: 1000; animation: drawLine 2s ease-out both, fadeInBlock 2s ease-out both; animation-delay: 0.45s;"></polygon>
+                            </g>
+
+                            <g transform="translate(100, 28.87)">
+                                <polygon points="0,0 -50,-28.87 0,-57.74 50,-28.87" fill="#FFFFFF" stroke="currentColor" style="stroke-dasharray: 1000; animation: drawLine 2s ease-out both, fadeInBlock 2s ease-out both; animation-delay: 0.50s;"></polygon>
+                                <polygon points="-50,-28.87 -50,28.87 0,57.74 0,0" fill="#E7E5E4" stroke="currentColor" style="stroke-dasharray: 1000; animation: drawLine 2s ease-out both, fadeInBlock 2s ease-out both; animation-delay: 0.55s;"></polygon>
+                                <polygon points="0,0 0,57.74 50,28.87 50,-28.87" fill="#F5F5F4" stroke="currentColor" style="stroke-dasharray: 1000; animation: drawLine 2s ease-out both, fadeInBlock 2s ease-out both; animation-delay: 0.60s;"></polygon>
+                            </g>
+                            
+                            <g transform="translate(50, -86.6)">
+                                <polygon points="-50,-28.87 -50,28.87 0,57.74 0,0" fill="#F5F5F4" stroke="currentColor" style="stroke-dasharray: 1000; animation: drawLine 2s ease-out both, fadeInBlock 2s ease-out both; animation-delay: 0.65s;"></polygon>
+                                <polygon points="0,0 0,57.74 50,28.87 50,-28.87" fill="#FFFFFF" stroke="currentColor" style="stroke-dasharray: 1000; animation: drawLine 2s ease-out both, fadeInBlock 2s ease-out both; animation-delay: 0.70s;"></polygon>
+                            </g>
+
+                             <g transform="translate(-100, -28.87)">
+                                <polygon points="0,0 -50,-28.87 0,-57.74 50,-28.87" fill="#FFFFFF" stroke="currentColor" style="stroke-dasharray: 1000; animation: drawLine 2s ease-out both, fadeInBlock 2s ease-out both; animation-delay: 0.75s;"></polygon>
+                                <polygon points="-50,-28.87 -50,28.87 0,57.74 0,0" fill="#FAFAFA" stroke="currentColor" style="stroke-dasharray: 1000; animation: drawLine 2s ease-out both, fadeInBlock 2s ease-out both; animation-delay: 0.80s;"></polygon>
+                                <polygon points="0,0 0,57.74 50,28.87 50,-28.87" fill="#E7E5E4" stroke="currentColor" style="stroke-dasharray: 1000; animation: drawLine 2s ease-out both, fadeInBlock 2s ease-out both; animation-delay: 0.85s;"></polygon>
+                            </g>
+                        </g>
+
+                        <polyline points="50,258.87 100,287.74 150,258.87 150,201.13" fill="none" stroke-width="1" style="stroke-dasharray: 1000; animation: drawLine 2s ease-out both; animation-delay: 0.90s;"></polyline>
+                        <polyline points="250,258.87 300,287.74 350,258.87 350,201.13" fill="none" stroke-width="1" style="stroke-dasharray: 1000; animation: drawLine 2s ease-out both; animation-delay: 0.95s;"></polyline>
+                        <line x1="200" y1="257.74" x2="200" y2="350" stroke-width="1" class="text-stone-200" style="stroke-dasharray: 1000; animation: drawLine 2s ease-out both; animation-delay: 1.00s;"></line>
+                        <line x1="300" y1="287.74" x2="300" y2="380" stroke-width="1" class="text-stone-200" style="stroke-dasharray: 1000; animation: drawLine 2s ease-out both; animation-delay: 1.05s;"></line>
+                    </svg>

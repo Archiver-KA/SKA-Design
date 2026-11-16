@@ -1,0 +1,143 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none z-10" xmlns="http://www.w3.org/2000/svg">
+              <defs>
+                <marker id="arrow" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+                  <path d="M0,0 L0,6 L6,3 z" fill="#e4e4e7"></path>
+                </marker>
+                <marker id="arrow-dashed" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+                  <path d="M0,0 L0,6 L6,3 z" fill="#71717a"></path>
+                </marker>
+              </defs>
+
+              <!-- Phase 1 Flows -->
+              <!-- User -> Surface -->
+              <line x1="5%" y1="60" x2="15%" y2="60" stroke="#e4e4e7" stroke-width="1" marker-end="url(#arrow)"></line>
+              <text x="10%" y="55" fill="#e4e4e7" text-anchor="middle" font-size="10">
+                Create Account
+              </text>
+
+              <!-- Surface -> KYC -->
+              <line x1="15%" y1="90" x2="25%" y2="90" stroke="#e4e4e7" stroke-width="1" marker-end="url(#arrow)"></line>
+              <text x="20%" y="85" fill="#e4e4e7" text-anchor="middle" font-size="10">
+                Request KYC/AML Checks
+              </text>
+
+              <!-- KYC -> Surface (Dashed) -->
+              <line x1="25%" y1="120" x2="15%" y2="120" stroke="#71717a" stroke-width="1" stroke-dasharray="4 2" marker-end="url(#arrow-dashed)"></line>
+              <text x="20%" y="115" fill="#71717a" text-anchor="middle" font-size="10">
+                Verification Result
+              </text>
+
+              <!-- MODIFICATION: Surface -> Event Store (was KYC -> Event Store) -->
+              <!-- kyc_result event -->
+              <line x1="15%" y1="150" x2="65%" y2="150" stroke="#e4e4e7" stroke-width="1" marker-end="url(#arrow)"></line>
+              <text x="40%" y="145" fill="#e4e4e7" text-anchor="middle" font-size="10">
+                kyc_result event
+              </text>
+
+              <!-- Surface -> Portfolio -->
+              <line x1="15%" y1="180" x2="35%" y2="180" stroke="#e4e4e7" stroke-width="1" marker-end="url(#arrow)"></line>
+              <text x="25%" y="175" fill="#e4e4e7" text-anchor="middle" font-size="10">
+                Normalized Intent
+              </text>
+
+              <!-- Portfolio -> Event Store -->
+              <line x1="35%" y1="210" x2="65%" y2="210" stroke="#e4e4e7" stroke-width="1" marker-end="url(#arrow)"></line>
+              <text x="50%" y="205" fill="#e4e4e7" text-anchor="middle" font-size="10">
+                user_intent event
+              </text>
+
+              <!-- Portfolio -> Surface -->
+              <line x1="35%" y1="240" x2="15%" y2="240" stroke="#71717a" stroke-width="1" stroke-dasharray="4 2" marker-end="url(#arrow-dashed)"></line>
+              <text x="25%" y="235" fill="#71717a" text-anchor="middle" font-size="10">
+                Proposed Portfolio
+              </text>
+
+              <!-- Portfolio -> Event Store -->
+              <line x1="35%" y1="270" x2="65%" y2="270" stroke="#e4e4e7" stroke-width="1" marker-end="url(#arrow)"></line>
+              <text x="50%" y="265" fill="#e4e4e7" text-anchor="middle" font-size="10">
+                engine_plan event
+              </text>
+
+              <!-- Phase 2 Flows -->
+              <!-- User -> Surface -->
+              <line x1="5%" y1="410" x2="15%" y2="410" stroke="#e4e4e7" stroke-width="1" marker-end="url(#arrow)"></line>
+              <text x="10%" y="405" fill="#e4e4e7" text-anchor="middle" font-size="10">
+                First Deposit
+              </text>
+
+              <!-- Surface -> Portfolio -->
+              <line x1="15%" y1="440" x2="35%" y2="440" stroke="#e4e4e7" stroke-width="1" marker-end="url(#arrow)"></line>
+              <text x="25%" y="435" fill="#e4e4e7" text-anchor="middle" font-size="10">
+                Funding Intent
+              </text>
+
+              <!-- Portfolio -> Custody -->
+              <line x1="35%" y1="470" x2="45%" y2="470" stroke="#e4e4e7" stroke-width="1" marker-end="url(#arrow)"></line>
+              <text x="40%" y="465" fill="#e4e4e7" text-anchor="middle" font-size="10">
+                Execute Deposit Plan
+              </text>
+
+              <!-- Custody -> Event Store -->
+              <line x1="45%" y1="500" x2="65%" y2="500" stroke="#e4e4e7" stroke-width="1" marker-end="url(#arrow)"></line>
+              <text x="55%" y="495" fill="#e4e4e7" text-anchor="middle" font-size="10">
+                execution &amp; balance events
+              </text>
+
+              <!-- Custody -> Transparency -->
+              <line x1="45%" y1="530" x2="55%" y2="530" stroke="#e4e4e7" stroke-width="1" marker-end="url(#arrow)"></line>
+              <text x="50%" y="525" fill="#e4e4e7" text-anchor="middle" font-size="10">
+                Custody Metadata / Positions
+              </text>
+
+              <!-- Transparency -> Event Store -->
+              <line x1="55%" y1="560" x2="65%" y2="560" stroke="#e4e4e7" stroke-width="1" marker-end="url(#arrow)"></line>
+              <text x="60%" y="555" fill="#e4e4e7" text-anchor="middle" font-size="10">
+                validated proof events
+              </text>
+
+              <!-- Phase 3 Flows -->
+              <!-- Event Store -> Memory -->
+              <line x1="65%" y1="650" x2="75%" y2="650" stroke="#e4e4e7" stroke-width="1" marker-end="url(#arrow)"></line>
+              <text x="70%" y="645" fill="#e4e4e7" text-anchor="middle" font-size="10">
+                Event Stream (Actions + Proofs)
+              </text>
+
+              <!-- Memory -> Trust Score -->
+              <line x1="75%" y1="680" x2="85%" y2="680" stroke="#e4e4e7" stroke-width="1" marker-end="url(#arrow)"></line>
+              <text x="80%" y="675" fill="#e4e4e7" text-anchor="middle" font-size="10">
+                Graph Features &amp; History
+              </text>
+
+              <!-- Trust Score -> Event Store -->
+              <line x1="85%" y1="710" x2="65%" y2="710" stroke="#e4e4e7" stroke-width="1" marker-end="url(#arrow)"></line>
+              <text x="75%" y="705" fill="#e4e4e7" text-anchor="middle" font-size="10">
+                trust_score_updated event
+              </text>
+
+              <!-- Trust Score -> Agent -->
+              <line x1="85%" y1="740" x2="95%" y2="740" stroke="#e4e4e7" stroke-width="1" marker-end="url(#arrow)"></line>
+              <text x="90%" y="735" fill="#e4e4e7" text-anchor="middle" font-size="10">
+                Trust Scores &amp; Risk State
+              </text>
+
+              <!-- Phase 4 Flows -->
+              <!-- Agent -> Event Store -->
+              <line x1="95%" y1="800" x2="65%" y2="800" stroke="#e4e4e7" stroke-width="1" marker-end="url(#arrow)"></line>
+              <text x="80%" y="795" fill="#e4e4e7" text-anchor="middle" font-size="10">
+                intervention event
+              </text>
+
+              <!-- Agent -> Surface (Loop) -->
+              <path d="M 950 820 L 950 840 L 150 840 L 150 820" fill="none" stroke="#71717a" stroke-width="1" stroke-dasharray="4 2" marker-end="url(#arrow-dashed)" vector-effect="non-scaling-stroke"></path>
+              <!-- Note: For percentage based path we approximate with lines or percent coordinates if supported, switching to line elements for better percent support -->
+              <line x1="95%" y1="830" x2="15%" y2="830" stroke="#71717a" stroke-width="1" stroke-dasharray="4 2" marker-end="url(#arrow-dashed)"></line>
+              <text x="55%" y="825" fill="#71717a" text-anchor="middle" font-size="10">
+                Constraints / Limits
+              </text>
+
+              <!-- Canonical -> User (Completion) -->
+              <line x1="65%" y1="860" x2="5%" y2="860" stroke="#71717a" stroke-width="1" stroke-dasharray="4 2" marker-end="url(#arrow-dashed)"></line>
+              <text x="35%" y="855" fill="#71717a" text-anchor="middle" font-size="10">
+                Account Funded + Trust Score
+              </text>
+            </svg>

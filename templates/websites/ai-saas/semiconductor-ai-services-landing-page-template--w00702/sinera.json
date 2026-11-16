@@ -1,0 +1,70 @@
+{
+  "id": "SN-W00702",
+  "title": "Semiconductor AI Services Landing Page Template",
+  "summary": "A modern, brand-ready landing page template for semiconductor and AI hardware design service companies to showcase capabilities, industries, careers, and academy programs.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Clean",
+    "Large Type",
+    "Portfolio",
+    "Education"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3770,
+      "sha256": "75b68c804852ff22610e648b324f289fd4f71fdbae084f19a344b87b383b05bc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 23768,
+      "sha256": "5628706856bf5506f94e0c5783cfa4b265ee1edfa138726fe9440c821a5e4f5b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 741,
+      "sha256": "d5cd906b945146f82bef7a02a8c3f85a5d2851fde45133bbe926f3189ac1ac8c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32711,
+      "sha256": "a0c20b3243002a81f5ddc9d633071695f2886575077de2ae09e513abc75182f7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "features",
+    "gallery-portfolio",
+    "map-location",
+    "about",
+    "team",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

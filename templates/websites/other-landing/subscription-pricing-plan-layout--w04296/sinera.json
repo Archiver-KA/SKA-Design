@@ -1,0 +1,68 @@
+{
+  "id": "SN-W04296",
+  "title": "Subscription Pricing Plan Layout",
+  "summary": "Responsive pricing plan UI displaying multiple subscription tiers with features, prices, and call-to-action buttons.",
+  "tags": [
+    "Pricing",
+    "Subscription Plans",
+    "Responsive Design",
+    "CSS Grid",
+    "Hover Effects",
+    "UI Components"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2377,
+      "sha256": "fc926861a82e3725043968b09d24f0c2bcbfee54c84ea6e9b1137d1e2278c2b2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13928,
+      "sha256": "23382bb773b1a90fe480a2cb79b53d01caf03c9e285d0522c86832a1ab3ca477"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1408,
+      "sha256": "6f0a8b6b43eecebde2ae7608c4897262a4953a61e103c89a00b6f3818d5b1c07"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 118,
+      "sha256": "e1d29b0ea8ae446bf574e1f54b7a17908bfb45a8ac141c5dad8848ed8842bb96"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 170,
+      "sha256": "1cbd5edcb5552890c9d4ac75c8060d68d192da65b761ff3951014062e53e09f2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8593,
+      "sha256": "88654dd69a928bd3ac0d670dc7b19da9c25607454c90029449c11e1a01ce3f90"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "pricing"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "pricing",
+  "design": "DESIGN.md"
+}

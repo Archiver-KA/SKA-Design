@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01231",
+  "title": "Luxury Living E-commerce Template",
+  "summary": "A sophisticated and minimalist e-commerce template designed for high-end furniture, home decor, and luxury interior design brands.",
+  "tags": [
+    "Landing Page",
+    "Real Estate",
+    "Art & Design",
+    "Interior Design",
+    "Portfolio",
+    "Clean",
+    "Minimal",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3494,
+      "sha256": "52dd14075afe5bbdbf99ff0b4a05504b41d192b12a611609886f6072fa69871a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 45277,
+      "sha256": "f621967bc9d2e926790a9e1be79556fd78034b067f7c57cbc793f0ab834b1d11"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 806,
+      "sha256": "2b2a005ada924a043ca0fe4528af1e86884e862293f9a12f82cdaa7ecb73f99f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32803,
+      "sha256": "ac656170cf7a7a37bbf38d9e030cfddec2f01d6597e8de09792089dbaa01e2a9"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "product-grid",
+    "cta",
+    "features",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

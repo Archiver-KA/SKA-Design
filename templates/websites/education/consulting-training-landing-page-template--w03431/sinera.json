@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03431",
+  "title": "Consulting Training Landing Page Template",
+  "summary": "A reusable landing page template for consulting and cross-cultural training firms to showcase programs, events, global offices, and lead capture.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Education",
+    "Technology",
+    "Clean",
+    "Minimal",
+    "Corporate",
+    "Consulting",
+    "Events"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3629,
+      "sha256": "5c9f9735e72e012ab9322edbda00d37e2cc8478cb0bb8d0eba0697d1b3bcbc0c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 24110,
+      "sha256": "f9090a9fc76497ea2d7dbf6b2f78897269b990db48f41ee029908fdf8bfae990"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "f6975214f13ba28b74cb0f424162c7cf0c89abb130625e1e2df0dc8f1527309f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35413,
+      "sha256": "470454b1afb514d985968434cc27514dd298242767881b0dd7dd2262a11ede41"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "features",
+    "stats",
+    "product-grid",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

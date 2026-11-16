@@ -1,0 +1,70 @@
+{
+  "id": "SN-W01744",
+  "title": "35 Marlow Landing Page Template",
+  "summary": "A modern real estate listing landing page template for showcasing single-family homes with photos, specs, agent details, and a viewing request form.",
+  "tags": [
+    "Real Estate",
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3571,
+      "sha256": "5f0395de6ddebb7cdc662ede9b90d9f5df994fff940eee7659ce5e47d49057c0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13084,
+      "sha256": "8e8b962eb4efd18c29febe7e3c0665156a6a3530888e99aea3de7fcb403b26ce"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 864,
+      "sha256": "74cc81676e65dbc6afbf725d8d9f69b2d71115fa5cf78624f90f4b1723941be7"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 325,
+      "sha256": "b456586b7fe32c3c49c005273cb087b4ecb398100c404412a0e6c1096813eb0e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29862,
+      "sha256": "441e63ff79eeb3de074f2c6de93a1497ac9eb2904000c2eaa16c743f65ac5d91"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "listings",
+    "features",
+    "contact-form"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

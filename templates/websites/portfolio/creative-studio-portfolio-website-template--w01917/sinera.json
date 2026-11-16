@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01917",
+  "title": "Creative Studio Portfolio Website Template",
+  "summary": "A minimalist studio portfolio website template for showcasing creative work, services, and contact details with smooth scrolling and gallery-style case studies.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Brand",
+    "Minimal",
+    "Clean",
+    "Dark",
+    "Large Type",
+    "Technology",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3443,
+      "sha256": "a3a98c1078d888530035247228fad750189611af6a7a2b69db4144319dbdba4d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16046,
+      "sha256": "d4f1cfb86fdc46f90c4556f6fea12c536a64e09a43c9aacfad6d7f01a15ebd5d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "b5993975b99311e952607507b0611240c7c98722ccce37eddee5c2f0d74729f9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32745,
+      "sha256": "055d92815a0ef642c5f8118bf5e3e436ad56f28b87c279a295f27a444f59232c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02266",
+  "title": "Distance Metric Card with Team",
+  "summary": "Distance tracking card showing km traveled with avatar stack and activity button for social fitness tracking",
+  "tags": [
+    "distance",
+    "metric",
+    "social",
+    "avatars",
+    "fitness",
+    "tracking"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2920,
+      "sha256": "844a81229d33b75e250b57619087e3ce6fbd9957acd22e75e4fb2fd5d9a635a7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1596,
+      "sha256": "ef4ad111c32cf984ca7874511f841bc7a4dda99ac7465507d67b216470a5cf12"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2447,
+      "sha256": "2030b0b9337620ecd6b696d9b0d8067bed16d51848494ea45f4212aaf6727ee2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

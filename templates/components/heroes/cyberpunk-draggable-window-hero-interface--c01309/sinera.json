@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01309",
+  "title": "Cyberpunk Draggable Window Hero Interface",
+  "summary": "Full-screen cyberpunk hero interface with draggable terminal-style windows, fixed nav, status bar, and telemetry consent popup. Uses Tailwind classes and custom JS for window dragging and z-index focus. Ideal for experimental landing pages or tech/art experiences.",
+  "tags": [
+    "hero",
+    "section",
+    "ui",
+    "tailwind",
+    "interactive",
+    "landing",
+    "draggable",
+    "desktop"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 27264,
+      "sha256": "e5f60ba315e9a8e3474ff1193f37477b4f7aeca8b0c6c0b1f08e8b49e053e273"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8314,
+      "sha256": "43ca4532038c85ff9dd99273130bcf8560a0631564257df2091221495052212b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

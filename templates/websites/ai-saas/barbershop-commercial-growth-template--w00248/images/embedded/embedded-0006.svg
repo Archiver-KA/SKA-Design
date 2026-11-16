@@ -1,0 +1,16 @@
+<svg viewBox="0 0 400 120" class="w-full mb-10">
+              <path
+                d="M 0 20 Q 100 40 200 60 T 400 100"
+                fill="none"
+                stroke="#515151"
+                stroke-width="1.5"
+                class="draw-path"
+              ></path>
+              <path
+                d="M 0 60 L 400 60"
+                stroke="#515151"
+                stroke-width="0.5"
+                stroke-dasharray="2 4"
+                opacity="0.3"
+              ></path>
+            </svg>

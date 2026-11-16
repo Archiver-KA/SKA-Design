@@ -1,0 +1,78 @@
+{
+  "id": "SN-W02032",
+  "title": "Gonzalez Painting",
+  "summary": "A clean, professional landing page template designed for painting contractors and home service businesses to showcase portfolios and generate leads.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Clean",
+    "Minimal",
+    "Portfolio",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3945,
+      "sha256": "73e711062a117e9e5c41565cc7520f60a28ebf8d968a40c1194b905270d09b32"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 26102,
+      "sha256": "4444d916c7f3f35a8487209f90cd47510d3c5a75f2cac8b0e2c947f82d3a7da7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1038,
+      "sha256": "94d1edf4ce1501b3261ee563d91cd552d11bca65eb84f24d37f9720fe5aef470"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 185,
+      "sha256": "9d0193632975f87ee7273fac535861668c784699491cf3ad8becaa23bba2ca88"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 211,
+      "sha256": "172a97735ffa538261352b331932637f1d2d7d059b4e286c2bda367eb45aee21"
+    },
+    {
+      "path": "index.html",
+      "bytes": 95543,
+      "sha256": "ce8ea3a79fa331d00a3aaa6d088aa8ff6c6c0f32ac4733931b45f6ea2ea5af78"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "testimonials",
+    "services",
+    "gallery-portfolio",
+    "how-it-works",
+    "case-studies",
+    "team",
+    "faq",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

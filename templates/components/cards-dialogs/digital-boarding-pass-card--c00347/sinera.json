@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00347",
+  "title": "Digital Boarding Pass Card",
+  "summary": "A premium airline boarding pass with flight details, passenger info, and QR code. Features gradient background and hover effects.",
+  "tags": [
+    "card",
+    "boarding-pass",
+    "travel",
+    "airline",
+    "gradient",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19428,
+      "sha256": "d9cddfe59f491afeaf3c01a489ea2a5358c56b3726dc6822688daed11985f6f7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4945,
+      "sha256": "dca93d81ffdbe396457edb56b58669898a111d28d40aba6a954736163c09b4ec"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5922,
+      "sha256": "a82086b4ce38e2b1004db4582e8fa413c48e8cd024fbbfcbfcee570fe41b2fae"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

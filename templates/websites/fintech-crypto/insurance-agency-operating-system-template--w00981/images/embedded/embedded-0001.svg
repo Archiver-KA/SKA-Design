@@ -1,0 +1,22 @@
+<svg className="absolute inset-0 w-full h-full" preserveAspectRatio="none" viewBox="0 0 310 100">
+                      <defs>
+                        <linearGradient id="chartGradient" x1="0" y1="0" x2="0" y2="1">
+                          <stop offset="0%" stopColor="#c6f91f" stopOpacity="0.2"></stop>
+                          <stop offset="100%" stopColor="#c6f91f" stopOpacity="0"></stop>
+                        </linearGradient>
+                      </defs>
+                      <path
+                        className="chart-area"
+                        d="M0,85 C30,80 50,68 80,72 C110,76 140,52 170,56 C200,60 230,38 260,22 C270,18 290,26 310,8 L310,100 L0,100 Z"
+                        fill="url(#chartGradient)"
+                      ></path>
+                      <path
+                        className="chart-line"
+                        pathLength={1}
+                        d="M0,85 C30,80 50,68 80,72 C110,76 140,52 170,56 C200,60 230,38 260,22 C270,18 290,26 310,8"
+                        fill="none"
+                        stroke="#c6f91f"
+                        strokeWidth="2"
+                        vectorEffect="non-scaling-stroke"
+                      ></path>
+                    </svg>

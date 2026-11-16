@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01923",
+  "title": "Linked Image Card with Hover Shadow",
+  "summary": "Tailwind CSS anchor card showing a full-width image with gradient overlay, title, subtitle and arrow icon. Adds shadow on hover through group utilities. Ideal for portfolio case studies, project listings, or blog previews.",
+  "tags": [
+    "card",
+    "image",
+    "tailwind",
+    "hover",
+    "responsive",
+    "portfolio",
+    "case study"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 27974,
+      "sha256": "082463e00edd215b31cd0631e04c8d8ac60c587a5910ed6a61f1f28a12080851"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1481,
+      "sha256": "9cb418b64de85d3d90694f2bfcb5d1b267eead933a9321312186e2b25e1acb15"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2467,
+      "sha256": "713b8751c0baf77a4ad37aa2674eeb68b151386d372ef382688da824e30c671d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

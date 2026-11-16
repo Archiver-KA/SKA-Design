@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01513",
+  "title": "Design Agency Landing Page Template",
+  "summary": "A sleek, futuristic design agency landing page template for showcasing creative services, brand identity work, and driving portfolio inquiries.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Art & Design",
+    "Brand",
+    "Futuristic",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Portfolio",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2967,
+      "sha256": "e6acef27f1ed07650475e43351ae8bc0137c91391baba68b3a73f419bad904ea"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13858,
+      "sha256": "8f472303a6167271d3b57111c93bdb89fb1376a8c43ba46544d6d4a18bf5169c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 872,
+      "sha256": "da5637ee29b05a520a0baba20644d6705ef118643fe06d89874397af8215881b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "2c48dc6288404c954ebd23eca4d67ab3cf8cda11f3826c201fc7700bfc3cdf5a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10205,
+      "sha256": "f5ec1fcb0f40907617c0717af48c7d0ce9f9ffac7705b68944c434ea52448c51"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

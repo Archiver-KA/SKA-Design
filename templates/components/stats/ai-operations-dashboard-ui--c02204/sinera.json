@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02204",
+  "title": "AI Operations Dashboard UI",
+  "summary": "A full-width futuristic admin dashboard mockup with sidebar navigation, live metrics, animated charts, activity logs, config panel, and terminal overlay. Built with Tailwind CSS for SaaS, AI ops, or data platform interfaces.",
+  "tags": [
+    "ui",
+    "tailwind",
+    "dashboard",
+    "admin",
+    "animated",
+    "dark",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21230,
+      "sha256": "0e2beeb3b76a230d4ac6b5cd786faf69ee2d300c071a3fe1aee12cf3c92d5713"
+    },
+    {
+      "path": "component.html",
+      "bytes": 33431,
+      "sha256": "30ca1629e656af012178743fa9819b08d687904f3391d4ee49bcb0c81e4cafc4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34368,
+      "sha256": "be662db56cc23444e19b684321dc64e5a1fc0ea64d9908f8e821a44d6ffb1f00"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

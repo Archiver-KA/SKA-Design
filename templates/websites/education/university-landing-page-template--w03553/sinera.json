@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03553",
+  "title": "University Landing Page Template",
+  "summary": "A premium university website template for showcasing academics, research, campus life, and admissions—fully reusable for educational institutions.",
+  "tags": [
+    "Education",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Large Type",
+    "Gradient",
+    "Minimal",
+    "Technology",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3818,
+      "sha256": "ee77b7c8d7e07763e033423c79ce3da060a0123dd6c1f7e2087eba10dd5800f3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 33224,
+      "sha256": "0df64f6ef2585582fc4df50c974129165b63d9950ec7ba40ef7bdc33c1efec8d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 720,
+      "sha256": "bbded31c229caa3ec88ed9e92af68f46f3343e3d322fe1b135cc97b2272cd5f6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42689,
+      "sha256": "f012e86364ac768900ac8d5491323b33a798c85b82e65fbf4ee195bfab9fb04e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "features",
+    "timeline",
+    "cta",
+    "announcement-bar",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

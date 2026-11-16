@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00953",
+  "title": "Multi-Column Website Footer with Social Links",
+  "summary": "Dark multi-column footer with brand summary, navigation links, social icons, contact details, and legal links. Uses Tailwind-style utility classes and responsive grid layout for modern web apps and marketing sites.",
+  "tags": [
+    "footer",
+    "section",
+    "responsive",
+    "navigation",
+    "social",
+    "tailwind",
+    "layout"
+  ],
+  "kind": "components",
+  "category": "footers",
+  "categoryLabel": "Footers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10416,
+      "sha256": "9ba4259da8a95a1c54df53bf91cff617966d468eaa0559fc6bf951d05e42a518"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5590,
+      "sha256": "18bacb80f6116341a1e5c43622152b137fedb073ed7af7eb6aade39a9fde190a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6586,
+      "sha256": "2177db32afe61a3672d115533d00c0ad3a3d8268d3e528c32594806782caf2dd"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

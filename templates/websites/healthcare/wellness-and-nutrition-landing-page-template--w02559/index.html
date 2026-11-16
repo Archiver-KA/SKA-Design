@@ -1,0 +1,233 @@
+<!doctype html>
+<html lang="es" data-theme="calm">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NutriCoach | Coaching de nutrición y bienestar personalizado</title>
+<meta name="description" content="Programa de nutrición personalizado con coach: menús adaptados a tus hábitos reales, seguimiento semanal y sin dietas extremas.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config = { theme: { extend: {
+  colors: { ground:'#F2F7F5', surface:'#FFFFFF', ink:'#0F2A26', muted:'#4E6661', line:'#D3E2DD', accent:'#0F766E', accent2:'#F4B860' },
+  fontFamily: { sans: ['"Be Vietnam Pro"','system-ui','sans-serif'] },
+  borderRadius: { card:'14px' }
+}}}
+</script>
+<style>
+[data-theme="calm"] {
+  --sa-ground:#F2F7F5; --sa-surface:#FFFFFF; --sa-ink:#0F2A26; --sa-muted:#4E6661; --sa-line:#D3E2DD;
+  --sa-accent:#0F766E; --sa-on-accent:#FFFFFF; --sa-accent-2:#F4B860; --sa-on-accent-2:#0F2A26;
+  --sa-font-display:"Be Vietnam Pro",system-ui,sans-serif; --sa-font-body:"Be Vietnam Pro",system-ui,sans-serif;
+  --sa-radius-control:999px; --sa-radius-card:14px; --sa-display-case:none;
+  color-scheme:light; background:var(--sa-ground); color:var(--sa-ink); font-family:var(--sa-font-body);
+}
+html{scroll-behavior:smooth}
+body{background:var(--sa-ground);color:var(--sa-ink);font-family:var(--sa-font-body);-webkit-font-smoothing:antialiased;overflow-x:hidden}
+h1,h2,h3{font-family:var(--sa-font-display);text-wrap:balance;letter-spacing:-.02em}
+:focus-visible{outline:3px solid var(--sa-accent);outline-offset:3px;border-radius:6px}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;padding:0 24px;border-radius:999px;background:var(--sa-accent);color:var(--sa-on-accent);font-weight:600;font-size:15px;text-decoration:none;border:0;cursor:pointer;transition:background-color .2s}
+.btn:hover{background:#0B5F58}
+.btn-ghost{background:transparent;color:var(--sa-ink);box-shadow:inset 0 0 0 1px var(--sa-ink)}
+.btn-ghost:hover{background:var(--sa-surface)}
+.ph{background:repeating-linear-gradient(135deg,#E3EEEA 0 12px,#EAF2EF 12px 24px);color:var(--sa-muted);display:flex;align-items:flex-end;padding:14px;font-size:13px;font-weight:500}
+details>summary{list-style:none;cursor:pointer;min-height:56px}
+details>summary::-webkit-details-marker{display:none}
+details[open] .plus{transform:rotate(45deg)}
+.plus{transition:transform .2s}
+</style>
+</head>
+<body class="font-sans text-ink bg-ground">
+
+<header class="sticky top-0 z-30 bg-ground/95 border-b border-line">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
+    <a href="#top" class="flex items-center gap-2 font-bold text-lg">
+      <svg width="28" height="28" viewBox="0 0 28 28" fill="none" aria-hidden="true"><path d="M14 24c-6-3-9-8-8-14 5 0 8 2 8 6 0-4 3-6 8-6 1 6-2 11-8 14Z" stroke="#0F766E" stroke-width="2" stroke-linejoin="round"/></svg>
+      NutriCoach
+    </a>
+    <nav aria-label="Principal" class="hidden md:flex items-center gap-8 text-[15px] font-medium">
+      <a class="py-3 hover:text-accent" href="#cach-lam">Método</a>
+      <a class="py-3 hover:text-accent" href="#chuong-trinh">Programas</a>
+      <a class="py-3 hover:text-accent" href="#ve-toi">Sobre mí</a>
+      <a class="py-3 hover:text-accent" href="#hoi-dap">Preguntas</a>
+      <a class="btn" href="#dang-ky">Reserva tu primera conversación</a>
+    </nav>
+    <button id="menuBtn" class="md:hidden w-11 h-11 inline-flex items-center justify-center rounded-full border border-line" aria-label="Abrir menú" aria-expanded="false" aria-controls="mobileNav">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+  </div>
+  <nav id="mobileNav" aria-label="Menú móvil" class="hidden md:hidden border-t border-line bg-ground px-4 pb-4">
+    <a class="flex items-center min-h-[48px] font-medium" href="#cach-lam">Método</a>
+    <a class="flex items-center min-h-[48px] font-medium" href="#chuong-trinh">Programas</a>
+    <a class="flex items-center min-h-[48px] font-medium" href="#ve-toi">Sobre mí</a>
+    <a class="flex items-center min-h-[48px] font-medium" href="#hoi-dap">Preguntas</a>
+    <a class="btn w-full mt-2" href="#dang-ky">Reserva tu primera conversación</a>
+  </nav>
+</header>
+
+<main id="top">
+<!-- HERO: chiếc đĩa SVG khổng lồ làm trục -->
+<section class="max-w-6xl mx-auto px-4 sm:px-6 py-12 md:py-20 grid md:grid-cols-12 gap-10 items-center">
+  <div class="md:col-span-6 md:order-1 order-2">
+    <p class="text-sm font-semibold text-accent mb-5">Nutrición personalizada · Trabajo 1 a 1</p>
+    <h1 class="text-4xl sm:text-5xl lg:text-6xl font-bold leading-[1.07]">Come según tu vida, no al revés.</h1>
+    <p class="mt-6 text-lg text-muted max-w-lg leading-relaxed">Empezamos por tus comidas reales, tu agenda real y tus gustos reales, y construimos un programa lo bastante llevadero como para mantenerlo a largo plazo.</p>
+    <div class="mt-8 flex flex-wrap gap-3">
+      <a class="btn" href="#dang-ky">Reserva tu primera conversación</a>
+      <a class="btn btn-ghost" href="#chuong-trinh">Ver los programas</a>
+    </div>
+  </div>
+  <div class="md:col-span-6 md:order-2 order-1 flex justify-center">
+    <svg viewBox="0 0 400 400" class="w-full max-w-[420px]" role="img" aria-label="Ilustración de un plato dividido en verduras, proteína, hidratos de carbono y grasas saludables">
+      <circle cx="200" cy="200" r="190" fill="#FFFFFF" stroke="#D3E2DD" stroke-width="2"/>
+      <circle cx="200" cy="200" r="150" fill="#F2F7F5" stroke="#D3E2DD"/>
+      <path d="M200 200 L200 50 A150 150 0 0 1 350 200 Z" fill="#0F766E"/>
+      <path d="M200 200 L350 200 A150 150 0 0 1 200 350 Z" fill="#F4B860"/>
+      <path d="M200 200 L200 350 A150 150 0 0 1 100 312 Z" fill="#0F2A26"/>
+      <path d="M200 200 L100 312 A150 150 0 0 1 50 200 L200 200 Z" fill="#9CC9C2"/>
+      <path d="M200 200 L50 200 A150 150 0 0 1 200 50 Z" fill="#CFE6E1"/>
+      <g font-family="Be Vietnam Pro, sans-serif" font-size="15" font-weight="700" text-anchor="middle">
+        <text x="270" y="140" fill="#FFFFFF">Verduras</text>
+        <text x="282" y="268" fill="#0F2A26">Proteína</text>
+        <text x="190" y="305" fill="#FFFFFF" font-size="13">Grasas</text>
+        <text x="100" y="260" fill="#0F2A26">Hidratos</text>
+        <text x="115" y="150" fill="#0F2A26">Hojas</text>
+      </g>
+    </svg>
+  </div>
+</section>
+
+<!-- BẰNG CHỨNG -->
+<section class="border-y border-line bg-surface" aria-label="Formación y experiencia">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-8 grid gap-6 sm:grid-cols-3 text-sm">
+    <div><p class="font-semibold">Formación</p><p class="text-muted">[TUS TÍTULOS / CERTIFICACIONES DE NUTRICIÓN]</p></div>
+    <div><p class="font-semibold">Experiencia</p><p class="text-muted">[AÑOS] años trabajando con [TIPO DE CLIENTES]</p></div>
+    <div><p class="font-semibold">Coordinación médica</p><p class="text-muted">Trabajo en paralelo con tu médico cuando hay una patología de base</p></div>
+  </div>
+</section>
+
+<!-- CÁCH LÀM -->
+<section id="cach-lam" class="max-w-6xl mx-auto px-4 sm:px-6 py-14 md:py-24">
+  <div class="grid md:grid-cols-12 gap-10">
+    <h2 class="md:col-span-5 text-3xl sm:text-4xl font-bold">Por qué tantas dietas se abandonan a medias y qué hacemos diferente.</h2>
+    <div class="md:col-span-7 grid gap-0 border-t border-ink">
+      <div class="py-6 border-b border-line grid sm:grid-cols-[170px_1fr] gap-2 sm:gap-6"><h3 class="font-semibold">Empezamos con un diario</h3><p class="text-muted leading-relaxed">Anotas unos días de comidas reales. Solo cambiamos lo que de verdad merece la pena, sin poner patas arriba toda tu cocina.</p></div>
+      <div class="py-6 border-b border-line grid sm:grid-cols-[170px_1fr] gap-2 sm:gap-6"><h3 class="font-semibold">Menús flexibles</h3><p class="text-muted leading-relaxed">Hay alternativas para comer fuera, para los días con prisa y para las celebraciones familiares. Tus platos de siempre también tienen su sitio.</p></div>
+      <div class="py-6 border-b border-line grid sm:grid-cols-[170px_1fr] gap-2 sm:gap-6"><h3 class="font-semibold">Ajustes cada semana</h3><p class="text-muted leading-relaxed">Cada semana revisamos juntos qué te resulta fácil y qué cuesta más, y lo ajustamos. Los objetivos se fijan a tu medida, no según los números de otros.</p></div>
+      <div class="py-6 border-b border-line grid sm:grid-cols-[170px_1fr] gap-2 sm:gap-6"><h3 class="font-semibold">Conocer los límites</h3><p class="text-muted leading-relaxed">No diagnostico ni trato enfermedades. Si hay señales que requieran valoración, te pediré que acudas antes a tu médico.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- CHƯƠNG TRÌNH -->
+<section id="chuong-trinh" class="bg-surface border-y border-line">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-14 md:py-24">
+    <h2 class="text-3xl sm:text-4xl font-bold max-w-2xl">Tres formas de trabajar juntos.</h2>
+    <div class="mt-12 grid gap-6 md:grid-cols-3 items-start">
+      <article class="rounded-card border border-line p-7 bg-ground">
+        <h3 class="text-xl font-semibold">Sesión inicial</h3>
+        <p class="mt-1 text-sm text-muted">1 sesión · [DURACIÓN]</p>
+        <p class="mt-4 text-3xl font-bold">[TU PRECIO]</p>
+        <ul class="mt-5 grid gap-3 text-[15px]">
+          <li class="flex gap-3"><svg class="shrink-0 mt-0.5" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg>Valoración de tus hábitos alimentarios</li>
+          <li class="flex gap-3"><svg class="shrink-0 mt-0.5" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg>3 pequeños cambios para empezar</li>
+        </ul>
+        <a class="btn btn-ghost w-full mt-7" href="#dang-ky">Elegir este programa</a>
+      </article>
+      <article class="rounded-card bg-ink text-white p-7 md:-mt-4 md:pb-11">
+        <p class="inline-block text-xs font-bold bg-accent2 text-ink rounded-full px-3 py-1">Ideal para quien empieza</p>
+        <h3 class="mt-4 text-xl font-semibold">Programa de acompañamiento</h3>
+        <p class="mt-1 text-sm text-[#CFE0DB]">[N.º DE SEMANAS] semanas · cita semanal</p>
+        <p class="mt-4 text-3xl font-bold text-accent2">[TU PRECIO]</p>
+        <ul class="mt-5 grid gap-3 text-[15px]">
+          <li class="flex gap-3"><svg class="shrink-0 mt-0.5" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#F4B860" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg>Menú personalizado, actualizado cada semana</li>
+          <li class="flex gap-3"><svg class="shrink-0 mt-0.5" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#F4B860" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg>Mensajes en horario laboral</li>
+          <li class="flex gap-3"><svg class="shrink-0 mt-0.5" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#F4B860" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg>Ideas semanales para la compra y la cocina</li>
+        </ul>
+        <a class="mt-7 inline-flex w-full items-center justify-center min-h-[48px] rounded-full bg-accent2 text-ink font-semibold hover:bg-white transition-colors" href="#dang-ky">Elegir este programa</a>
+      </article>
+      <article class="rounded-card border border-line p-7 bg-ground">
+        <h3 class="text-xl font-semibold">Mantenimiento a largo plazo</h3>
+        <p class="mt-1 text-sm text-muted">Cada mes · citas según necesidad</p>
+        <p class="mt-4 text-3xl font-bold">[TU PRECIO]</p>
+        <ul class="mt-5 grid gap-3 text-[15px]">
+          <li class="flex gap-3"><svg class="shrink-0 mt-0.5" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg>Revisión mensual de tus hábitos</li>
+          <li class="flex gap-3"><svg class="shrink-0 mt-0.5" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg>Ajustes cuando tu vida cambia</li>
+        </ul>
+        <a class="btn btn-ghost w-full mt-7" href="#dang-ky">Elegir este programa</a>
+      </article>
+    </div>
+    <p class="mt-8 text-sm text-muted max-w-2xl">Los resultados dependen del organismo y de la constancia de cada persona, por eso no garantizamos cifras concretas.</p>
+  </div>
+</section>
+
+<!-- TUẦN MẪU -->
+<section class="max-w-6xl mx-auto px-4 sm:px-6 py-14 md:py-24">
+  <h2 class="text-3xl sm:text-4xl font-bold max-w-2xl">Así es una semana trabajando juntos.</h2>
+  <ol class="mt-10 grid gap-0 sm:grid-cols-2 lg:grid-cols-4 border-t border-ink">
+    <li class="py-6 lg:pr-6 border-b border-line lg:border-b-0"><span class="text-sm font-bold text-accent">Inicio de semana</span><p class="mt-2 text-muted leading-relaxed">Recibes el menú y la lista de la compra para 7 días.</p></li>
+    <li class="py-6 lg:px-6 border-b border-line lg:border-b-0 lg:border-l"><span class="text-sm font-bold text-accent">Mitad de semana</span><p class="mt-2 text-muted leading-relaxed">Envías una foto de tu comida o una nota breve si quieres comentarios.</p></li>
+    <li class="py-6 lg:px-6 border-b border-line lg:border-b-0 lg:border-l"><span class="text-sm font-bold text-accent">Fin de semana</span><p class="mt-2 text-muted leading-relaxed">Una sesión corta para ver qué funciona y qué conviene cambiar.</p></li>
+    <li class="py-6 lg:pl-6 lg:border-l border-line"><span class="text-sm font-bold text-accent">Semana siguiente</span><p class="mt-2 text-muted leading-relaxed">Un menú nuevo, ajustado a tus comentarios.</p></li>
+  </ol>
+</section>
+
+<!-- VỀ TÔI + CHỨNG THỰC -->
+<section id="ve-toi" class="bg-ink text-white">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-14 md:py-24 grid md:grid-cols-12 gap-10 items-center">
+    <div class="md:col-span-4"><div class="ph rounded-card h-72 md:h-96 !text-ink" role="img" aria-label="Retrato de la coach, proporción 3:4">Retrato 3:4</div></div>
+    <div class="md:col-span-7 md:col-start-6">
+      <h2 class="text-3xl sm:text-4xl font-bold">Hola, soy NutriCoach.</h2>
+      <p class="mt-4 text-[#CFE0DB] leading-relaxed">[PRESENTACIÓN BREVE: POR QUÉ HACES ESTE TRABAJO, TU MÉTODO Y A QUÉ CLIENTES ACOMPAÑAS HABITUALMENTE.]</p>
+      <blockquote class="mt-8 border-t border-[#2E4A45] pt-6 text-xl font-medium leading-snug">«[CITA DE UN CLIENTE SOBRE SU EXPERIENCIA TRABAJANDO CONTIGO]»
+        <footer class="mt-3 text-sm font-normal text-[#CFE0DB]">[NOMBRE, PROFESIÓN] · publicado con su consentimiento</footer>
+      </blockquote>
+    </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section id="hoi-dap" class="max-w-3xl mx-auto px-4 sm:px-6 py-14 md:py-24">
+  <h2 class="text-3xl sm:text-4xl font-bold">Preguntas frecuentes</h2>
+  <div class="mt-8 border-t border-line">
+    <details class="border-b border-line"><summary class="flex items-center justify-between gap-4 py-3 font-semibold">¿Tendré que renunciar por completo a lo que me gusta?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted leading-relaxed">No. Buscamos la manera de que tus platos favoritos sigan apareciendo, con una frecuencia y una ración razonables.</p></details>
+    <details class="border-b border-line"><summary class="flex items-center justify-between gap-4 py-3 font-semibold">¿Y si tengo una patología (diabetes, hipertensión…)?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted leading-relaxed">Habla primero con tu médico y comparte conmigo sus indicaciones. El programa las respetará y en ningún caso sustituye el tratamiento.</p></details>
+    <details class="border-b border-line"><summary class="flex items-center justify-between gap-4 py-3 font-semibold">¿Cuánto tardaré en notar cambios?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted leading-relaxed">Cada persona es distinta, así que no prometo plazos. Lo habitual es notar antes los cambios en los hábitos y en cómo te sientes cada día que en los indicadores.</p></details>
+    <details class="border-b border-line"><summary class="flex items-center justify-between gap-4 py-3 font-semibold">¿Trabajamos online o en persona?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted leading-relaxed">[TU MODALIDAD DE TRABAJO: ONLINE / PRESENCIAL / AMBAS].</p></details>
+  </div>
+</section>
+
+<!-- CTA -->
+<section id="dang-ky" class="px-4 sm:px-6 pb-16 md:pb-24 scroll-mt-20">
+  <div class="max-w-6xl mx-auto bg-surface border border-line rounded-card p-6 sm:p-12 grid md:grid-cols-2 gap-10 items-center">
+    <div>
+      <h2 class="text-3xl sm:text-4xl font-bold">Empecemos con una conversación.</h2>
+      <p class="mt-4 text-muted leading-relaxed">Cuéntame cómo comes ahora. Juntos veremos qué programa te encaja, o si todavía no necesitas ninguno.</p>
+    </div>
+    <form class="grid gap-4" onsubmit="event.preventDefault();this.querySelector('[data-ok]').hidden=false">
+      <div><label for="f1" class="block text-sm font-semibold mb-1">Nombre y apellidos</label><input id="f1" required autocomplete="name" class="w-full min-h-[48px] px-5 rounded-full border border-line bg-ground"></div>
+      <div><label for="f2" class="block text-sm font-semibold mb-1">Correo electrónico o teléfono</label><input id="f2" required autocomplete="email" class="w-full min-h-[48px] px-5 rounded-full border border-line bg-ground"></div>
+      <button class="btn" type="submit">Reserva tu primera conversación</button>
+      <p data-ok hidden role="status" class="text-sm font-medium text-accent">Recibido, gracias. Este formulario es solo una demostración: conéctalo a tu propio sistema.</p>
+    </form>
+  </div>
+</section>
+</main>
+
+<footer class="border-t border-line bg-surface">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-10 grid gap-8 md:grid-cols-3 text-sm text-muted">
+    <div><p class="font-bold text-ink text-base">NutriCoach</p><p class="mt-2">[DIRECCIÓN / ZONA]</p><p>[TELÉFONO]</p></div>
+    <div><p class="font-semibold text-ink">Síguenos</p><p class="mt-2">[ENLACES A REDES SOCIALES]</p></div>
+    <p>La información de esta página es orientativa y no sustituye el consejo médico. Si estás embarazada, tienes alguna patología o un trastorno de la conducta alimentaria, consulta con tu médico antes de cambiar tu alimentación.</p>
+  </div>
+</footer>
+
+<script>
+(function(){var b=document.getElementById('menuBtn'),m=document.getElementById('mobileNav');
+b.addEventListener('click',function(){var o=m.classList.toggle('hidden')===false;b.setAttribute('aria-expanded',o);b.setAttribute('aria-label',o?'Cerrar menú':'Abrir menú')});
+m.addEventListener('click',function(e){if(e.target.closest('a')){m.classList.add('hidden');b.setAttribute('aria-expanded','false')}});})();
+</script>
+</body>
+</html>

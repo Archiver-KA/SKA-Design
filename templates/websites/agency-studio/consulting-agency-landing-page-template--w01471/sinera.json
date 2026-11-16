@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01471",
+  "title": "Consulting Agency Landing Page Template",
+  "summary": "Clean, conversion-focused consulting agency landing page template for showcasing services, case studies, and community offers to attract and qualify clients.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Consulting",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3295,
+      "sha256": "c9dd88fc495e1d79564cfdd4306af15df998def040f331c445deaa99e210a4fe"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 39008,
+      "sha256": "483c5e81faeb491a65386d8edd85f6f18abebd5396aea0adcc93ff16b78b4ffb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 816,
+      "sha256": "c3f211b89a7b7decfab5d6cc2728d2f71a4706fbf4f504a9a84e91a6a4ee49ae"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29559,
+      "sha256": "5fa587ba237ac7186701f110a09184a2fac1178f91f4638ce1e30f9d7f6f3cc4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "testimonials",
+    "features",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

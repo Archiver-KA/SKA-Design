@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01820",
+  "title": "AI Music Generator Window UI",
+  "summary": "Full-width dark themed window-style UI showcasing an AI music generator. Includes sidebar navigation, prompt textarea with generate button, configurable chips, and a recent tracks list with animated waveforms. Styled with Tailwind-like utility classes for modern app demos.",
+  "tags": [
+    "ui",
+    "app",
+    "dashboard",
+    "music",
+    "tailwind",
+    "interactive",
+    "animated"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13698,
+      "sha256": "a9e9068d04188aa8941b8b28691c33eb5961b2bda55b558e633aeafb005e37a8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 23930,
+      "sha256": "ebe350ce041a19d5a9d4edc6609951a307ba8001b035d95fedb585ec78c73264"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24909,
+      "sha256": "0656bf46f86affb24f5b401835a721244576f242e0c4cc2cada4869459d25301"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

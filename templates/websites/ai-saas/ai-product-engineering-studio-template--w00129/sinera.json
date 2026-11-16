@@ -1,0 +1,72 @@
+{
+  "id": "SN-W00129",
+  "title": "AI Product Engineering Studio Template",
+  "summary": "A reusable landing page template for AI product studios and tech agencies to showcase services, process, case studies, and book high-value client projects.",
+  "tags": [
+    "Technology",
+    "Services",
+    "Landing Page",
+    "Dark",
+    "Futuristic",
+    "Animated",
+    "Clean",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3969,
+      "sha256": "dd4c9fcc38ffaee07bf182e81e9d57c23229be1a4497bb8cecc1a3ef4b98af63"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17386,
+      "sha256": "751866f725ccb1b5fb2fa0d34cc8e1ae012246fd018feddd3ed43348a0007119"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 877,
+      "sha256": "474a95edefdf699a45235307a68cf52abf54f3dd902e50026ed6ebfa20699725"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 244,
+      "sha256": "02d9f112403aec7bc004df0ff4d0a817190f3fb6e46ed379e7ca88f1f473352a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 94840,
+      "sha256": "4f3c9e3449d7e114a49a3678991b634655cda92df51c59229080276294855e74"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "services",
+    "case-studies",
+    "how-it-works",
+    "newsletter",
+    "about",
+    "features"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

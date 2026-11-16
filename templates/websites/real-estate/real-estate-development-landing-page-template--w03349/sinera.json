@@ -1,0 +1,70 @@
+{
+  "id": "SN-W03349",
+  "title": "Real Estate Development Landing Page Template",
+  "summary": "A modern Worthing Estates-inspired landing page template for premium real estate development and property management brands to showcase projects and capture inquiries.",
+  "tags": [
+    "Real Estate",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Portfolio",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3650,
+      "sha256": "54c97f1222005c9f7a1ab7c71bbe9798f1996003d0e94c6a531f242c6ad363f2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14748,
+      "sha256": "d2e35681432c57bdb5f53043dd7bb309cc5d8ca86a4d8eaee0d8d217e569334e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 818,
+      "sha256": "3025abc61084ed3aa98b74e306e8fee3a3dd4e6643a649a977a6599c430a6a3f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 62886,
+      "sha256": "8fec74d88f5a0f0408448e79429d278fc761e11ee8f18306f24e978e42d5fc29"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "about",
+    "services",
+    "bento-grid",
+    "faq",
+    "contact-form",
+    "gallery-portfolio",
+    "listings",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

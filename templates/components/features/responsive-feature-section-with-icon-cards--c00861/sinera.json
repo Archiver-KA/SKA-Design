@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00861",
+  "title": "Responsive Feature Section with Icon Cards",
+  "summary": "Dark-themed Tailwind section highlighting four product features in an interactive grid with icons, headline, and optional CTA link. Fits SaaS landing pages, product sites, and marketing pages.",
+  "tags": [
+    "section",
+    "feature",
+    "grid",
+    "card",
+    "tailwind",
+    "responsive",
+    "dark",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18274,
+      "sha256": "089d692c4ceb9369212b212924694bcb59da08e1c37bb0ded515419b7f120d58"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5539,
+      "sha256": "401b64f2fc440cc35e1eb2eb88ac69dab1983c5ac73331fff1a84af6c9b4e45f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6532,
+      "sha256": "3a8ed87735ef2984d88ed355783ef46d741ebffb26d43d279b5dad074d65a68e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

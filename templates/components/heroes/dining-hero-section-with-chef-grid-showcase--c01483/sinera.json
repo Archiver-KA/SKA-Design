@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01483",
+  "title": "Restaurant Hero Section with Chef Grid Showcase",
+  "summary": "Responsive landing-page hero for an Italian restaurant featuring logo navigation, headline with inline images, badges, primary/secondary CTAs, and a grid of chef cards. Built with Tailwind CSS; ideal for restaurant sites or food-service startups.",
+  "tags": [
+    "hero section",
+    "landing page",
+    "restaurant",
+    "tailwind",
+    "responsive",
+    "nav bar",
+    "chef grid",
+    "cta buttons"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 29654,
+      "sha256": "be09d2d45027364d2142709221c7a20ac780182cdb88483edd251ba7b9636230"
+    },
+    {
+      "path": "component.html",
+      "bytes": 22285,
+      "sha256": "d64f281cb6dbef2d35538266c834a20068b6187a7ceeccf6712c73e0907f7864"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23283,
+      "sha256": "ea8d4d6e2cbfa0534002fe3b42d5800d9407c6f9e26cdaa00c1685968f949708"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SN-W00926",
+  "title": "Finance Publications Landing Page Template",
+  "summary": "A refined template for finance education publishers to showcase books, authors, and editorial content in a premium landing page experience.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Education",
+    "Finance",
+    "Books",
+    "Publications"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3707,
+      "sha256": "8f53ba27c87b1aedd64aa28a687194eafee9c205d236b53234ad9f35c62610d0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12182,
+      "sha256": "a3f1f23ae75472cf1e3c2ec96ea4c2ecbceca8b938d692ca85ec65b1ea7b60a3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "b82911a8629118f6fd3f50deb6ac40c4ef218ca92fadb998d4c2a3105e2da55a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29504,
+      "sha256": "11ddd98b01e6086b316293b6e685eda2fa4ed70929232db193041360bd6eba1b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02106",
+  "title": "Three-Tier Simple Pricing Grid",
+  "summary": "Dark-themed pricing section with three responsive tiers (Starter, Creator, Studio), feature checklists, highlighted popular plan, and call-to-action buttons. Built with Tailwind-style utility classes for SaaS or subscription product pages.",
+  "tags": [
+    "pricing",
+    "section",
+    "responsive",
+    "tailwind",
+    "grid",
+    "saas",
+    "subscription"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16582,
+      "sha256": "68838602bff7efc636c058bbbf30a9259704cf7dfdf4371e45a858fdaf8b046c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6394,
+      "sha256": "b242135eec923418957f49cdf3bb47cb27677eaf4fba72f5b59360779f3e786a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7375,
+      "sha256": "a856ae2708d805e2bca40b10de34da4d583b07abb1da95434cb0c8ce4c75b8fd"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02292",
+  "title": "Interactive Calendar & Meetings Dashboard",
+  "summary": "Two-column Tailwind panel combining daily timeline, connected accounts, notes, and an interactive calendar with meetings list. Includes month navigation, day selection, event creation, timezone display, and share-day link—ideal for productivity or SaaS dashboards.",
+  "tags": [
+    "calendar",
+    "dashboard",
+    "schedule",
+    "tailwind",
+    "interactive",
+    "events",
+    "timeline",
+    "panel"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20668,
+      "sha256": "2f7ea3cfb1029dfb4c1cc976ca6e8874c4a481289c8cb786231cc497297068bf"
+    },
+    {
+      "path": "component.html",
+      "bytes": 33211,
+      "sha256": "824b7c7bbfeebad540d0cdf6f844f24a05e6a5d3a7d11c5e31dfe1ffb24d75fc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34207,
+      "sha256": "93e9177bca8b6ace1e940c6f65d7cc946d26b2b305793265fa3789e055c7b47c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

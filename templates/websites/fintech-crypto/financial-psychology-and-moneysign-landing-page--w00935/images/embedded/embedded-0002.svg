@@ -1,0 +1,16 @@
+<svg
+                    viewBox="0 0 200 100"
+                    class="w-full h-full stroke-stone-300"
+                    fill="none"
+                    stroke-width="1"
+                  >
+                    <path
+                      d="M0,50 Q25,20 50,50 T100,50 T150,50 T200,50"
+                      class="animate-[pulse_3s_ease-in-out_infinite]"
+                    ></path>
+                    <path
+                      d="M0,50 Q25,80 50,50 T100,50 T150,50 T200,50"
+                      class="animate-[pulse_4s_ease-in-out_infinite]"
+                      stroke-dasharray="4 4"
+                    ></path>
+                  </svg>

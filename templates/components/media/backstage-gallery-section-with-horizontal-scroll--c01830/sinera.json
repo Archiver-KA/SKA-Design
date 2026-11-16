@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01830",
+  "title": "Backstage Gallery Section with Horizontal Scroll",
+  "summary": "A full-width dark-themed gallery section featuring a horizontal scrollable container with production backstage images. Includes section header with navigation controls and responsive card grid with hover effects.",
+  "tags": [
+    "gallery",
+    "dark",
+    "responsive",
+    "horizontal",
+    "scroll"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19054,
+      "sha256": "deaf0d570a59ef2bfd43a9416fa8185bb8e93270ef6ba69b23a355429a997306"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10584,
+      "sha256": "e7c418a36af950cdb04e4c14aea48db792cd1ea346d0374453f89c54a75d1d26"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11543,
+      "sha256": "47be61d080e39acc17084765a1d4510ff525d0152d90f8cc35a35bf4cf355e12"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

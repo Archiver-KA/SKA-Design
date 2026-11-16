@@ -1,0 +1,109 @@
+{
+  "id": "SN-W02891",
+  "title": "Fine Dining Restaurant Landing Page Template",
+  "summary": "A refined restaurant landing page template for showcasing menus, chefs, and reservations with luxurious imagery and calls-to-action for modern eateries.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Restaurant",
+    "Menu",
+    "Reservations"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3840,
+      "sha256": "c0856c4d56911bd67913fa584b0450d3f7f790e006fc11e14101181f58302ef8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 44298,
+      "sha256": "c04e07ba58d2d372216a6752cca355c0adade0dff1637cd448efdb24728783b0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2291,
+      "sha256": "0b00d1758eb9c0194cfca670d55f0e2642a20bcd3a5591227ba9a033e3e0f3e7"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 320,
+      "sha256": "4edc784b87d868851a61a9019ee45b827caa24b2e22a6918497cf64d513263ea"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 347,
+      "sha256": "9e79775eca8ed131dd8a309161bf329db37fe8fdde0bdafa2b51a04697e5f6ee"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 279,
+      "sha256": "5a23a47ed2e8d3a8ee65b06fd4a5688fee7a2559cd36aceca6e929acba3a4800"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 320,
+      "sha256": "13d776d5b9665e3527cf7e403dfec344fcb6a093524977373327b62bb4e0ae71"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 400,
+      "sha256": "226d392614471d08035f44e4d1ed2f8fa63480ea1f8a6a838199ec002908ee4d"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 407,
+      "sha256": "2864bfa47d397f385e23987e64a2238a1931a4e2ccc58f2a77edfc9c8b8761a2"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 368,
+      "sha256": "7443d8754c378a6cd5bc1ac1a615c50c7873a72abd43d9d447e0d5ca5c54e35f"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 342,
+      "sha256": "87a56a3971914172ca188e3995979b6fb4413358cc992bf8aacd7894588629ac"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32601,
+      "sha256": "3ae8c9de2694816da9f45ce9322434a03f5f650f22588374d504aa2b59a069e5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "about",
+    "awards-press",
+    "cta",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "SN-W02155",
+  "title": "Personal Portfolio Landing Page Template",
+  "summary": "A reusable personal portfolio landing page template designed to showcase projects and skills in automation and AI engineering.",
+  "tags": [
+    "Portfolio",
+    "Landing Page",
+    "Hero",
+    "Projects",
+    "Testimonials",
+    "Automation",
+    "AI",
+    "Technology",
+    "Personal Brand",
+    "Call to Action"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3793,
+      "sha256": "608235dfc7390b207d18f4c7bc0866eaac8aaa7f4ba6795fe3f15c6c6bf85107"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15924,
+      "sha256": "75aa2a5d3540e097ae29f257b5f385dce52aae4e3c55a46f6d68cf36c10cbf3a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 811,
+      "sha256": "d74a6f901b58c35c32d4335d404639e4f115494865cc332d583e3b706aa2afdc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27723,
+      "sha256": "e0a9434cbbf7877d0a11910185315a0a7dae4d62834f94a30e95b29696eccdb8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

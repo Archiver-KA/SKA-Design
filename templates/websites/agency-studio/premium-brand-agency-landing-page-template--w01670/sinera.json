@@ -1,0 +1,72 @@
+{
+  "id": "SN-W01670",
+  "title": "Premium Brand Agency Landing Page Template",
+  "summary": "A reusable landing page template for premium branding and digital agency websites serving founders, executives, authors, and other authority-driven personal brands.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Portfolio",
+    "Blog",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Brand Guidelines",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3595,
+      "sha256": "e1e36d22f8358a2c44a6b3a614bf43704ebdca318035ed53d48b494304105cee"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18718,
+      "sha256": "8daaafb4230ea4ae77375c0bb5a6856a09f7dda3d2eb6a9bbbd763c5c88d656a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 819,
+      "sha256": "3abb687e685abfa07e92699065c16a85801a7711786adda0681634aa4467c314"
+    },
+    {
+      "path": "index.html",
+      "bytes": 44563,
+      "sha256": "164ba006487569aa9ca61058c01acb6fccdde83689fd7e30f4a91fe172e6d054"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "about",
+    "services",
+    "bento-grid",
+    "how-it-works",
+    "team",
+    "stats",
+    "faq",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

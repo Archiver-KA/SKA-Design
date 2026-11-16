@@ -1,0 +1,70 @@
+{
+  "id": "SN-W03051",
+  "title": "Guest House Landing Page Template",
+  "summary": "A refined guest house landing page template for showcasing rooms, amenities, reviews, and bookings for boutique accommodations.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Hospitality",
+    "Guest House",
+    "Booking"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3862,
+      "sha256": "f29335510707643ecdcf026994e1b9eafd7fb25c860c1ece0730bcf3312cde27"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14702,
+      "sha256": "0eacb5015412e5d871461c3316b2a03fc4e6449e22bb3996bdba7c43e4d34c78"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "d1474be9dbe43373390fab93bf91406559617855b56cc4b526113d64ad429ff0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42633,
+      "sha256": "78a6be7cf58b2406de9ce113140d30767acaa82a2107b91d93144e797bb68e55"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "awards-press",
+    "listings",
+    "services",
+    "map-location",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02418",
+  "title": "Interactive Video Testimonial Card",
+  "summary": "Tailwind-styled card displaying a customer video thumbnail with play button, overlay controls, progress bar, and testimonial text. Ideal for showcasing user stories or product demos within landing pages or portfolios.",
+  "tags": [
+    "card",
+    "testimonial",
+    "video",
+    "tailwind",
+    "interactive",
+    "overlay",
+    "responsive",
+    "play-button"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26522,
+      "sha256": "937fb8600742158e64aa66aba70ce7689985f1e924994acf03d7bb192a8923c4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3719,
+      "sha256": "eb3cb6b27b1b67f894fe5afdc730a1ed4430201c0cc823c98c33ef3c160ca94f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4704,
+      "sha256": "ec7fc6cd51ba0619923e7056687113f9a2f359d48b13b1200424acc9d1d6085b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

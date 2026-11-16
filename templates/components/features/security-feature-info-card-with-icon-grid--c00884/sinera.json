@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00884",
+  "title": "Security Feature Info Card with Icon Grid",
+  "summary": "Stylized card highlighting security aspects: header emblem, description, and responsive 5-icon grid. Built with Tailwind CSS, gradient backdrop, rings and shadow for depth. Suits SaaS landing pages, product trust sections, or compliance highlights.",
+  "tags": [
+    "card",
+    "feature",
+    "security",
+    "icons",
+    "tailwind",
+    "responsive",
+    "landing",
+    "gradient"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11490,
+      "sha256": "6e30074b39f7cc3c6b8b462cbd026217d208b80743f4ac84a769056322ac5f32"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5556,
+      "sha256": "3eb90a44b2d8bc91b72922cd2866d856c5e09231293c3be70cd4338757bc6505"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6548,
+      "sha256": "588b0d5def30182b968bade2ce900dd59b3170f7ef651c6192623bb01ba95a4d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

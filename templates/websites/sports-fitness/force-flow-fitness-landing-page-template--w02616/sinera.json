@@ -1,0 +1,79 @@
+{
+  "id": "SN-W02616",
+  "title": "Force Flow Fitness Landing Page Template",
+  "summary": "A high-performance landing page template for health and fitness equipment featuring spinal decompression and recovery protocols.",
+  "tags": [
+    "Health",
+    "Services",
+    "Technology",
+    "Clean",
+    "Dark",
+    "Flat",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3757,
+      "sha256": "01b82c50d638f469627018d66e2680d52d9cdbc25d35d91440c86f243ee3d532"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22372,
+      "sha256": "eb725a8d5b692e8354330b11b648dd643f341dd8d84452bb8f7b54cd79466b1f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 958,
+      "sha256": "92dec50878cfa37a3e7b068afc10d9590af2b49ccdabe2dfb83c7dc6f42e8678"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 247,
+      "sha256": "d8b497773dfe58872722a5af2691f4cdf1d7b79acbe4f322a6668fbe477eb1ee"
+    },
+    {
+      "path": "index.html",
+      "bytes": 58680,
+      "sha256": "c35bb3afa8194db474438ba516f97a6b575c949c700251d66bb8d34161706031"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "sidebar",
+    "marquee",
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "features",
+    "3d-canvas",
+    "stats",
+    "comparison",
+    "schedule-agenda",
+    "faq",
+    "cta",
+    "footer",
+    "cart-checkout"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

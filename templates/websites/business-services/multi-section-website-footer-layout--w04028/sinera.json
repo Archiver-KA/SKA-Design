@@ -1,0 +1,98 @@
+{
+  "id": "SN-W04028",
+  "title": "Multi-Section Website Footer Layout",
+  "summary": "Responsive footer with company info, social icons, quick links, services, and contact details styled using Tailwind CSS.",
+  "tags": [
+    "Footer",
+    "Responsive Design",
+    "Tailwind CSS",
+    "Social Icons",
+    "Navigation Links",
+    "Contact Info"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2434,
+      "sha256": "8dd44a8cd2caa9f3ffa45dd46c8388e375b0a1f916f7fa4c9c8cc1c602c4ff8b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9854,
+      "sha256": "60368f1f31d17ddf311c3365b18fa2b1cbf3b67fb64d087a0094e89d0c2a380f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2239,
+      "sha256": "1b0a852d0ea7f02c37a7c2835b20822050665a2652f7dd44833107a6271fe9fa"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 253,
+      "sha256": "9207129bf968440ea83b91f7960e223e435e64ddf16a55bfe21291b01977f2e0"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 438,
+      "sha256": "e3f6a1b305ad6fd00287511e037d57c403e2454d7b7e34110de67c28fa996e5b"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 559,
+      "sha256": "cf2a7f14d7e2f86152434b66e0ee4da0d348bbdd8defcec35c8ae482574c9c0d"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 1771,
+      "sha256": "523712f049f60a5d00aad98e6af748a43687e52077e644da4e1fce220ff124f8"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 896,
+      "sha256": "a0f9470d3fb7c3e1bb82502d71aae3c1d474f6170ce1daab29774baa61666f16"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 436,
+      "sha256": "726621c8a8a570e383ca34f74644157229bb9c9ff825ef793c1b0cc64c2ad140"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 323,
+      "sha256": "83fb4ccf788ec816511c989b31a1ed0e16abac702a9fe9200a0c424e1d939fb7"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 436,
+      "sha256": "8555382af38414b0c888fa0948ccb1775a73dade1b2ab83f47ae6921dbab9a0f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9854,
+      "sha256": "f027bd042a592a3cbed94fccc0e7445a0db14eca2c31933b5a5cfcbd71653573"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "snippet",
+  "components": [
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "footer",
+  "design": "DESIGN.md"
+}

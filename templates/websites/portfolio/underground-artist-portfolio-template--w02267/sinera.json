@@ -1,0 +1,71 @@
+{
+  "id": "SN-W02267",
+  "title": "Underground Artist Portfolio Template",
+  "summary": "A high-contrast, cinematic landing page template designed for musicians and visual artists to showcase archival work and digital content.",
+  "tags": [
+    "Art & Design",
+    "Portfolio",
+    "Dark",
+    "Animated",
+    "Futuristic",
+    "Minimal",
+    "Technology",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4101,
+      "sha256": "11e824b4e43f3d5cb4679c357dcdc24b9f0b2a91ccdc686ca6b494268959aca3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7966,
+      "sha256": "219c5ee39048ca60410a80a1b79fc1e2561a5ba8e6701b6283b4b25e4ac83f6d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 864,
+      "sha256": "ed65e1720780b828da348387433eae247f07c596074bac2e14f9011124de8467"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 4,
+      "sha256": "891b1e15b4ec667c0c14f05c3a5f415c3eee32fb15e2204d20cdc0e7a2168e7e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 51434,
+      "sha256": "d7ab09fa95caaef5c6076d01fb3d9fa60729a94caee3e919cd9f049eb56e0ab3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "gallery-portfolio",
+    "video-media",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

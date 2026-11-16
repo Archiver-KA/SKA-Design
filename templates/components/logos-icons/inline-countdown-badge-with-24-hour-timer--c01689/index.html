@@ -1,0 +1,22 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Inline Countdown Badge with 24-Hour Timer</title><script src="https://cdn.tailwindcss.com"></script><link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet"><style>body{margin:0;min-height:100vh;display:flex;flex-direction:column;justify-content:center;background:#0a0a0a;color:#fafafa;font-family:Inter,ui-sans-serif,system-ui,sans-serif}</style></head><body><div id="component-root"><div
+  class="inline-flex gap-2 text-xs text-rose-300 tracking-[0.15em] bg-white/5 border-white/10 border rounded-md mb-6 pt-2 pr-3 pb-2 pl-3 items-center">
+  <span class="text-rose-300/80">ENDS IN</span>
+  <span id="countdown" class="font-medium text-rose-200">01 : 00 : 00 : 00</span>
+  <script>
+    // Countdown: 24h from first load
+    const el = document.getElementById('countdown');
+    const end = new Date(Date.now() + 24 * 60 * 60 * 1000).getTime();
+    const pad = (n) => String(n).padStart(2, '0');
+    const tick = () => {
+      const now = Date.now();
+      const diff = Math.max(0, end - now);
+      const d = Math.floor(diff / (24*60*60*1000));
+      const h = Math.floor((diff % (24*60*60*1000)) / (60*60*1000));
+      const m = Math.floor((diff % (60*60*1000)) / (60*1000));
+      const s = Math.floor((diff % (60*1000)) / 1000);
+      if (el) el.textContent = `${pad(d)} : ${pad(h)} : ${pad(m)} : ${pad(s)}`;
+    };
+    tick();
+    setInterval(tick, 1000);
+  </script>
+</div></div><script>try{var r=document.getElementById("component-root");if(r.children.length===1){var d=getComputedStyle(r.children[0]).display;if(d.indexOf("inline")===0)r.style.textAlign="center"}}catch(e){}</script></body></html>

@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02443",
+  "title": "Animated Letter Slide-In Heading",
+  "summary": "Responsive heading that animates each letter sliding in with staggered timing. Built with Tailwind utility classes and inline keyframes, perfect for hero banners, logos, or splash screens needing dynamic text reveal.",
+  "tags": [
+    "heading",
+    "animated",
+    "slide-in",
+    "tailwind",
+    "text",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "typography",
+  "categoryLabel": "Text & typography",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5028,
+      "sha256": "d269b2901286523f4124ea5ccfc699ad6d9a3b75f0be95f3ff10f4605b626304"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1729,
+      "sha256": "7cea8cd13c3b633786385d3b9f81c62ebdba13c107c54619e95a6f381cf99c4f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2582,
+      "sha256": "d06fb58222639e2061db5cbe3e544fa2d63a3b8a636caa5f8183e7a4917dd1f7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

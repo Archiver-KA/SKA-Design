@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00396",
+  "title": "Interactive AI Speech Recognition Card",
+  "summary": "Stylized card with AI speech recognition controls, animated mic button, pulsing waveform and gradient/glassmorphic background. Built with Tailwind CSS hover effects; perfect for dashboards, feature highlights or voice-enabled app promos.",
+  "tags": [
+    "card",
+    "speech-recognition",
+    "tailwind",
+    "interactive",
+    "animated",
+    "gradient",
+    "voice",
+    "mic"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6560,
+      "sha256": "18de4492ae5d4ee580838aced86e3e4905c7c3caa4d423d97859b24e370e237e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6734,
+      "sha256": "274a5c594c710ad53e2e7a386cc8cb892d0e768c7f79f55acce74d837a918b9f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7593,
+      "sha256": "5cc4f684f214d11a6bc87816b956376f2337969352e8a9490811cd70798b8d25"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

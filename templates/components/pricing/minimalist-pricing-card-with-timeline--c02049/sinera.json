@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02049",
+  "title": "Minimalist Pricing Card with Timeline",
+  "summary": "Compact dark-themed pricing card displaying amount, billing period, and project timeline. Uses Tailwind utility classes, responsive typography, and subtle ring effect for modern UI pricing sections.",
+  "tags": [
+    "card",
+    "pricing",
+    "tailwind",
+    "responsive",
+    "dark",
+    "timeline",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3774,
+      "sha256": "037cf5ffc28f37d06e94fe430071206853c8600d33f4843e9a809972e63b19a6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 761,
+      "sha256": "3c9da36678ab7f3f55d223f4aecc0fd11a9bc90f5d1f056440713b39a6213a57"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1619,
+      "sha256": "bcb64a582c08c00d191ec7e947cfa74dbbb95412558d6b078758bed000dd2a7b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

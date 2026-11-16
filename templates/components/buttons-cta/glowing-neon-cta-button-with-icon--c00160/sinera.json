@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00160",
+  "title": "Glowing Neon CTA Button with Icon",
+  "summary": "Animated call-to-action button using inline CSS variables to create a neon glow effect. Hover and active states invert colors and intensify shadows. Includes right-arrow SVG icon for directional cue; ideal for landing pages and signup prompts.",
+  "tags": [
+    "button",
+    "cta",
+    "neon",
+    "hover",
+    "animated",
+    "css",
+    "icon",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2088,
+      "sha256": "ee81bae302dcbe45f177d9d7ae8e773f4946ad832159f158878a439b360d64cc"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1822,
+      "sha256": "a6e3ff417687adf42346c0064507236f026dd9963e65d88a0cdaf4aa04c00792"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2806,
+      "sha256": "0a4eaa618ec0129106c2e8cb5018c1cb9398317c3a2cb4a09d1cb7f2260ec9ca"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

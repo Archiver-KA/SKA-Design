@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01705",
+  "title": "status_200 Web Development Agency Landing Page Template",
+  "summary": "A high-performance web development agency landing page template for showcasing engineering-led services, pricing, and contact inquiries with a modern dark UI.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Portfolio",
+    "E-commerce"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3717,
+      "sha256": "75b751c2565bc026bc98288103f152965dc611be1fc3bb6b5f62be353c5b87e6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8050,
+      "sha256": "0eae5d7c690a0c627d5074cd715821fdbebb57826ef8bd9a7640674e6bbabcde"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 749,
+      "sha256": "3ac06521f07fa5ef6e41be09e9c2bc461b76bcd3b9a7130952d436695a3c8f01"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32341,
+      "sha256": "d1e5ee9ecf0a5243ce42c0a597a11db8403e919de241f7b22da5cf1f00563d6c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "about",
+    "bento-grid",
+    "how-it-works",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

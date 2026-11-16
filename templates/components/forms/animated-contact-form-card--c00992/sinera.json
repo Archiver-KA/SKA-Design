@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00992",
+  "title": "Animated Contact Form Card",
+  "summary": "Dark-themed contact form card with Tailwind utility classes, custom CSS glow effects, shimmer submit button, inline validation, and success state feedback. Ideal for contact pages, lead capture, or support inquiry interfaces.",
+  "tags": [
+    "form",
+    "tailwind",
+    "animated",
+    "interactive",
+    "validation",
+    "contact",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6256,
+      "sha256": "efd4b769b02005e232c9b919821399e97c6f3d5a250f5bf8bfb4304082ccc404"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8813,
+      "sha256": "c17893ccb5ff2eb89816542491fad8df4b1ce16f1ba7f74541f7b3f9666b1c9b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9660,
+      "sha256": "a9639789eb06160be5c1d90512796150aa10911b14eb83e0873e20302bae6eee"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

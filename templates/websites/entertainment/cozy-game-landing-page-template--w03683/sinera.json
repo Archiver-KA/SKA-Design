@@ -1,0 +1,71 @@
+{
+  "id": "SN-W03683",
+  "title": "Cozy Game Landing Page Template",
+  "summary": "A cozy, character-driven landing page template for life-sim or casual games, perfect for showcasing worlds, characters, and in‑game shops.",
+  "tags": [
+    "Landing Page",
+    "Entertainment",
+    "Art & Design",
+    "Colorful",
+    "Gradient",
+    "Large Type",
+    "Game",
+    "Life Sim",
+    "Characters",
+    "Storefront"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3649,
+      "sha256": "95c378da6776b611eec1a71510d90e9e7cf49b4cf48328bde7d08f89a53401e9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13052,
+      "sha256": "f8ea38acdf0027320df07a3e68ee9bb7ee223bc8d3188f0d70b484eeffce86f3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 869,
+      "sha256": "69c8c465f1962c03c52fe054488f7358d6b52c3df36a8db7215d4d93803990a2"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1052,
+      "sha256": "af0aa706711ffc84c92cf75a89aa6c14f268490c7efd44cc4802013b506578f5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 47742,
+      "sha256": "cd4c2c1e318e744e284c1058ae4407f1f8dee39a0da58d213ce28bccda732615"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "product-grid",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

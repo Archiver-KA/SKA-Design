@@ -1,0 +1,68 @@
+{
+  "id": "SN-W00038",
+  "title": "AI Art Landing Page Template",
+  "summary": "A reusable landing page template for AI art generators, showcasing styles, pricing, testimonials, and conversion-focused calls to action.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Art & Design",
+    "Portfolio",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Gradient",
+    "AI art",
+    "SaaS"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3549,
+      "sha256": "1833efbc3f2db46f78986b1e6b30239a9d547b8c051cc1a72d91c169dc3cf27d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8850,
+      "sha256": "820db5535c9b03e27d62afe72ac3e1767c07fc22abc0d758edee2ffdf6bfcf2d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 722,
+      "sha256": "3934230c733588f0ff652a72a7dfd2a8643b67747c26c4dbbcd47026bff8d8f7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38147,
+      "sha256": "bbce9f0a7a887930d4a7c2c5b4f08aea0add080ae608382bbed24400c48b92bc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "how-it-works",
+    "pricing",
+    "testimonials",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

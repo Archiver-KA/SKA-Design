@@ -1,0 +1,38 @@
+{
+  "id": "SN-C02262",
+  "title": "Dark Telemetry Dashboard Chart Card",
+  "summary": "A premium Tailwind CSS dashboard card featuring a candlestick-style telemetry chart, segmented controls, action buttons, hover tooltip, and subtle animated particle canvas background. Ideal for fintech, analytics, or monitoring interfaces.",
+  "tags": [
+    "card",
+    "tailwind",
+    "dashboard",
+    "chart",
+    "analytics",
+    "dark",
+    "interactive",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14886,
+      "sha256": "945a3495d2aa1821d3ad127c948ba069744c8f12c27b1f8c4b62f259ffe07909"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12766,
+      "sha256": "452759fa2106244cd761f12565f468b96a2e6391d1c30c77df37c0caddc324ca"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "id": "SN-W01409",
+  "title": "AI Design Agency Landing Page Template",
+  "summary": "A high-performance AI-powered web design agency template featuring liquid glass aesthetics and cinematic video backgrounds for modern studios.",
+  "tags": [
+    "Technology",
+    "Services",
+    "Landing Page",
+    "Dark",
+    "Futuristic",
+    "Clean",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "react",
+  "entry": "package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2933,
+      "sha256": "49722acb0303764d5c48cb91a8063faed05616bdfe4ed2125554aeddfb5c41c4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2484,
+      "sha256": "42e8f6a12033dcc14248245c61ee88273d7f697c4f5b235cc738e9ed5eb52806"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "024e7460771da9a585252675f5385515111cb56a612b03f66ef52e8775a13e19"
+    },
+    {
+      "path": "index.html",
+      "bytes": 430,
+      "sha256": "eeb6a96e51238d7900c0b9925d903e83a271ca6074050560087f35c5b8cdbf69"
+    },
+    {
+      "path": "package.json",
+      "bytes": 669,
+      "sha256": "7fb29e771c2c727e86ad811e47ea5d7a1da9f7ecf00f43db4514f5ba0ad2d03b"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 484,
+      "sha256": "dc205cc647c8cc79ec6220a8435195af6beebd8eb85a11699d6e5da848b0b5e3"
+    },
+    {
+      "path": "src/components/BlurText.jsx",
+      "bytes": 1226,
+      "sha256": "d58a67a3d8d1574bad6d88d62d929448602e27ff90a35eb72cff2d90d910db3f"
+    },
+    {
+      "path": "src/components/HlsVideo.jsx",
+      "bytes": 1286,
+      "sha256": "6001dd88e6d1fb5883d841f1b59a79336c394be81ff8ed789b2abba1cef6e028"
+    },
+    {
+      "path": "src/components/Navbar.jsx",
+      "bytes": 1637,
+      "sha256": "f8d483264fb959c5b64c95e8827824ba8a32149c29d95836caa5153e2cabd999"
+    },
+    {
+      "path": "src/components/sections/CtaFooter.jsx",
+      "bytes": 3353,
+      "sha256": "8f7b9bf9d4b6055930e2b5ec181d6682418827d280484276752c15ab7fe8f5a9"
+    },
+    {
+      "path": "src/components/sections/FeaturesChess.jsx",
+      "bytes": 4464,
+      "sha256": "a0f216a54ab4e8bd1ad86104ab9b6ea05593414cd2902cf91342500571c93d8b"
+    },
+    {
+      "path": "src/components/sections/FeaturesGrid.jsx",
+      "bytes": 2676,
+      "sha256": "65522d6f478adce08182f6b9a2c4616ffb4d57318aae320d91beefaca86f2d17"
+    },
+    {
+      "path": "src/components/sections/Hero.jsx",
+      "bytes": 5006,
+      "sha256": "51b1417116f8d8e9a86922c8b1dcd8f1dc178b58ead92a6964804c815d6988e0"
+    },
+    {
+      "path": "src/components/sections/StartSection.jsx",
+      "bytes": 2593,
+      "sha256": "01c740509d8cc335c211a86609f40d3d271f716ba7e9688017153b6ee0173357"
+    },
+    {
+      "path": "src/components/sections/Stats.jsx",
+      "bytes": 2159,
+      "sha256": "9f8b9719e08100c560cb74b5a025bb97325785c458500929d0adad741734029f"
+    },
+    {
+      "path": "src/components/sections/Testimonials.jsx",
+      "bytes": 2660,
+      "sha256": "3ec7d3e29e43556c9f8a58de8fafe07dd7c9d76052d9a79e6560c3535183424f"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 2927,
+      "sha256": "57d5ce7d2a9c1be402f89635ae82d44ebbb494654f27a839ba126b8a4179925b"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 256,
+      "sha256": "15e60f21ff6a7cedd9dc6aa2364ae2891f1b34cd865b9b94485f05480c5f8c1a"
+    },
+    {
+      "path": "src/pages/Home.jsx",
+      "bytes": 809,
+      "sha256": "9805433960ce77178232a06ad1825668a740230eed7bbb8b7e01187dccb712fa"
+    },
+    {
+      "path": "tailwind.config.js",
+      "bytes": 1226,
+      "sha256": "0af8cae75bd97eb8c25d02d093bbd135458b9283bad1c50098eaeec8d35de5f9"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 132,
+      "sha256": "7679dd2d1d73606860bf36d711ad385a18cda4412d6e105062570af4454d6b58"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

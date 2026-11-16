@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01977",
+  "title": "UnicornStudio Interactive Project Embed",
+  "summary": "Embeds a UnicornStudio project via script into a fixed-size div (1440×900). Automatically loads the UnicornStudio library and initializes the specified project for showcasing interactive demos or prototypes on any webpage.",
+  "tags": [
+    "embed",
+    "widget",
+    "interactive",
+    "html",
+    "script",
+    "unicornstudio",
+    "background"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5724,
+      "sha256": "0e11558089b56cfc339ddd086532614b7f64f4ad1662060e34bcf109fd3a4e18"
+    },
+    {
+      "path": "component.html",
+      "bytes": 535,
+      "sha256": "3b3d35ccec8052a850c0a08f44f8692303e85a58639cf5552b52a0d0cfcdfd95"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1395,
+      "sha256": "0d2848459e76ac9eaca896924356edb5926148ea91b75c161a364eadd4cee1a3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

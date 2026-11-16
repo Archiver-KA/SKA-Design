@@ -1,0 +1,69 @@
+{
+  "id": "SN-W01340",
+  "title": "Vintage Fashion E-commerce Template",
+  "summary": "A reusable e-commerce template for curated vintage women’s fashion boutiques, designed to showcase collections with editorial imagery and timeless branding.",
+  "tags": [
+    "E-commerce",
+    "Fashion",
+    "Style",
+    "Landing Page",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Grid",
+    "Clean",
+    "vintage clothing"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3331,
+      "sha256": "ea2130e8ca29d416a8205c40c5c87305a9aff53ffeaf61496a3c3a1dbeeee4f0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14832,
+      "sha256": "bd47e227ca044d2a29db7b0dec4c2c8d76a82539d250f041827fd1fa52433f0c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 865,
+      "sha256": "7a8eb2d370b82bd36c1763f130cf7b8daf95e3069835d747b8c68c09c23fea77"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "845a8c33647082b21c3db87d511ee26caa07aa7a2c9bf6b015aad47a996ab97f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19415,
+      "sha256": "f57ed93dcc97fef6f05355202cccf09636b5556c89436e351f4386d22da12660"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

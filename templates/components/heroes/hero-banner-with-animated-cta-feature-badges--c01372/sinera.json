@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01372",
+  "title": "Hero Banner with Animated CTA & Feature Badges",
+  "summary": "Responsive Tailwind hero section featuring headline, sub-headline, slide-in CTA button, promotional badges, and subtle fade animations—ideal for e-commerce or product landing pages.",
+  "tags": [
+    "hero",
+    "banner",
+    "cta button",
+    "tailwind",
+    "animated",
+    "responsive",
+    "ecommerce",
+    "landing page"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15508,
+      "sha256": "4d9fad59d4d25fd9580325457fcb38fdb9d0832f5d324b5cd457892a21bedb14"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5746,
+      "sha256": "57e9df2e558b2127bfffa5694efbef0496305283e995abf9c1bede9c5bdfc896"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6617,
+      "sha256": "1962cfd6de95fddd131afe92dae0585d150a666d37060007ec798ee0ef7d8d19"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

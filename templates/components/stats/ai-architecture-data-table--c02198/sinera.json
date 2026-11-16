@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02198",
+  "title": "AI Architecture Data Table",
+  "summary": "Interactive data visualization showing component trees with metrics, types, and progress bars. Perfect for developer tools and analytics dashboards.",
+  "tags": [
+    "table",
+    "dark",
+    "data",
+    "developer",
+    "analytics",
+    "modern",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6588,
+      "sha256": "b70f5215789d8d2f313b96f808a7fbc594d0185d0e11f0940f0efc2d59ff48eb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7604,
+      "sha256": "91477c9d92dbcf4071bded13574706bdf06e4df650724dc731a1d3519b8b38a3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8451,
+      "sha256": "570dbd693933e7c4ea932c83ab930e665ae80af1ac19061a7980da80ca7069a2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

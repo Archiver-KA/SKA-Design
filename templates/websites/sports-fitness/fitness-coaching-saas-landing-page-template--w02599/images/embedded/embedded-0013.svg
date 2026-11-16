@@ -1,0 +1,36 @@
+<svg class="w-full h-full text-white/10" viewBox="0 0 200 200" fill="none">
+                <!-- Vertical Data Lines with Flow -->
+                <line x1="100" y1="20" x2="100" y2="180" stroke="currentColor" stroke-width="1" class=""></line>
+
+                <!-- Left Flow Line -->
+                <line x1="60" y1="20" x2="60" y2="180" stroke="currentColor" stroke-width="1" stroke-dasharray="4 4" style="animation: signal-flow 3s linear infinite;" class=""></line>
+                <!-- Right Flow Line -->
+                <line x1="140" y1="20" x2="140" y2="180" stroke="currentColor" stroke-width="1" stroke-dasharray="4 4" style="animation: signal-flow 4s linear infinite reverse;" class=""></line>
+
+                <!-- Drifting Group 1 (Top Left) -->
+                <g style="animation: drift-vertical-slow 7s ease-in-out infinite;" class="">
+                  <path d="M60 80 C 80 80, 80 100, 100 100" stroke="currentColor" stroke-width="1" style="animation: signal-pulse 5s ease-in-out infinite 0s;" class=""></path>
+                  <circle cx="60" cy="80" r="3" fill="white" style="animation: node-activate 8s ease-in-out infinite 0.5s;" class=""></circle>
+                </g>
+
+                <!-- Drifting Group 2 (Top Right) -->
+                <g style="animation: drift-vertical-reverse 8s ease-in-out infinite 1s;" class="">
+                  <path d="M100 60 C 120 60, 120 80, 140 80" stroke="currentColor" stroke-width="1" style="animation: signal-pulse 5s ease-in-out infinite 2.5s;" class=""></path>
+                  <circle cx="140" cy="80" r="3" fill="white" style="animation: node-activate 8s ease-in-out infinite 3s;" class=""></circle>
+                </g>
+
+                <!-- Drifting Group 3 (Bottom Left) -->
+                <g style="animation: drift-vertical-slow 6s ease-in-out infinite 2s;" class="">
+                  <path d="M100 120 C 80 120, 80 140, 60 140" stroke="currentColor" stroke-width="1" style="animation: signal-pulse 5s ease-in-out infinite 1.5s;" class=""></path>
+                  <circle cx="60" cy="140" r="3" fill="white" style="animation: node-activate 8s ease-in-out infinite 5.5s;" class=""></circle>
+                </g>
+
+                <!-- Central Nodes (Pulsing Sequence) -->
+                <circle cx="100" cy="60" r="3" fill="white" style="animation: node-activate 8s ease-in-out infinite 0s;" class=""></circle>
+                <circle cx="100" cy="100" r="3" fill="white" style="animation: node-activate 8s ease-in-out infinite 2s;" class=""></circle>
+                <circle cx="100" cy="150" r="3" fill="white" style="animation: node-activate 8s ease-in-out infinite 4s;" class=""></circle>
+
+                <!-- Floating Micro Particles -->
+                <circle cx="120" cy="40" r="1" fill="#60A5FA" class="opacity-50" style="animation: drift-vertical-reverse 10s ease-in-out infinite;"></circle>
+                <circle cx="80" cy="160" r="1" fill="#60A5FA" class="opacity-50" style="animation: drift-vertical-slow 9s ease-in-out infinite;"></circle>
+              </svg>

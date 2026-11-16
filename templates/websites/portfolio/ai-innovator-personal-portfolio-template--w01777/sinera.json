@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01777",
+  "title": "AI Innovator Personal Portfolio Template",
+  "summary": "A modern dark portfolio template for AI innovators and digital product builders to showcase flagship products, impact, and partnerships.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4000,
+      "sha256": "4572cc4ca57d72f20e2f726d2894bf49e1076feff786da7ceab085effecc56c1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19332,
+      "sha256": "d55b94e69761c86249aeb0d57aaa14f1f76b7e51837d83d5947e455125929e03"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "8512dfdf13db1533f25ff50fd20f9f0fe9d3b8cad720b303487b2b89270e3a72"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38475,
+      "sha256": "772b13c85a8968bbeb7c79fd61b6bebab117ddef9d701170a8039a281334f9f4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "product-grid",
+    "stats",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

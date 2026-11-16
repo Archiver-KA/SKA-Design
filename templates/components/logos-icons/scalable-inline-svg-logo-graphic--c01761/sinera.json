@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01761",
+  "title": "Scalable Inline SVG Logo Graphic",
+  "summary": "Inline SVG component rendering a white vector logo (99×36 viewBox) using multiple path elements. Suitable for headers, navbars or brand marks; easily recolored with CSS, lightweight and responsive for varied layouts.",
+  "tags": [
+    "svg",
+    "logo",
+    "vector",
+    "graphic",
+    "branding",
+    "responsive",
+    "css",
+    "icon"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2390,
+      "sha256": "32005764b25cffdabc101e5d4f5d77c65f12b577b68076e4c7b58aa2063664b8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8555,
+      "sha256": "2305fdff6dc2ae990af03d09491b69e79ce17708829261587231cdd5195fb34a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9408,
+      "sha256": "6eaaa1cee12725539426c64d55992045e640dc6d6d85435eb04536570bbb939c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

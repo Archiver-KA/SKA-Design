@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01735",
+  "title": "Web3 PR Agency Landing Page Template",
+  "summary": "A dark, modern Web3 PR agency landing page template for showcasing AI search optimization services, client results, FAQs, and call booking.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Web3 PR",
+    "Agency"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3743,
+      "sha256": "51c198e89c00a99e0d51d1b77dcdbe83a0bc870263180ce6ad8d4954ffd0a7b7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14404,
+      "sha256": "fa24df4fd7b5ac2d8e061c1d56cadeac9f86852cce3be244e7b8348d1931facf"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "09c5d3442614fd37a68afb798ba15983fbfaa5ba1d6a8b411eed35e582b6541a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38909,
+      "sha256": "d2a1d9ccbdf386c84bdf6207a14388c8670e5011de14a45be929c2980bff1b05"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "how-it-works",
+    "stats",
+    "cta",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

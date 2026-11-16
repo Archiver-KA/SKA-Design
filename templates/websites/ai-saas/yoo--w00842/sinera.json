@@ -1,0 +1,136 @@
+{
+  "id": "SN-W00842",
+  "title": "Yoo",
+  "summary": "A high-performance landing page template designed specifically for gaming communities, utility hubs, and script repository storefronts.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Dark",
+    "Futuristic",
+    "Clean",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "react",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2519,
+      "sha256": "6fe85ea97e2db7b16636f25c8abbd30474d0cf52750b631d15e374980afe9bf9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19158,
+      "sha256": "53a29173600aad5bf98b019691be3e3434961981fd8b64738aa28b0eb8505d1d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1257,
+      "sha256": "cef0c3ce484ddf80fcc2adbe0b7517031554fdf4796473a007e097ac07c1b217"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 530,
+      "sha256": "eb1d4fa7f2f3dd21b2aeaf41ed289524d1312dd0caab81101362b33e774bcfe2"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 611,
+      "sha256": "3df72fdd3952483e90bb1a93e51b8f4527e7eef1168b08ab792b127e6f24d7ef"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 351,
+      "sha256": "900e7a1eb9046556ee7d8ae5389d22b7da0c64abdbc145d3d0e3cb79db8723e0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 551,
+      "sha256": "8ea38f028f942f54b0dd14e4584c8970e484a0071a54c2f5754d8e24750dd3ff"
+    },
+    {
+      "path": "package.json",
+      "bytes": 594,
+      "sha256": "ea646986680735e27c9d858fc06e47c57d1456cf4454f655f5dbdbcc212af33c"
+    },
+    {
+      "path": "src/App.tsx",
+      "bytes": 5585,
+      "sha256": "62896ff84003af20fb04a67c23cac3eaf092e5a3e6b0f846806ce5b75f6bbc10"
+    },
+    {
+      "path": "src/components/PreviewWindow.tsx",
+      "bytes": 550,
+      "sha256": "483193226435ff58691afaf832cfd37dcbfc2a9d62e0b8c47cf166845dfebab5"
+    },
+    {
+      "path": "src/data/features.tsx",
+      "bytes": 3665,
+      "sha256": "fe104001ec0a50a96be461c6b9de49b840ff6d01c03d6b840bd06fe924de75fd"
+    },
+    {
+      "path": "src/data/script.ts",
+      "bytes": 49875,
+      "sha256": "085d731dd643eb92424b954c8123e387a08c4857eee151305ad917a195697407"
+    },
+    {
+      "path": "src/main.tsx",
+      "bytes": 341,
+      "sha256": "2d7f6813738e249dbf2c61d931284d212d5a2a925247b6a852ab6674cd42c8dc"
+    },
+    {
+      "path": "src/pages/Changelog.tsx",
+      "bytes": 3596,
+      "sha256": "1adbb84eacf717a8e2e2c883c2cfd172f9291a1cfb1a515583e656cc97e1b7ef"
+    },
+    {
+      "path": "src/pages/Console.tsx",
+      "bytes": 8208,
+      "sha256": "6b4dc8b2e5971ed1b16deae40ef8744f3e2568b09fc72b437e29dcfbd346ab5a"
+    },
+    {
+      "path": "src/pages/Download.tsx",
+      "bytes": 5761,
+      "sha256": "bac079ac9f024645a84796056b977003b0d21d22467c12d66e4ab1614447bda1"
+    },
+    {
+      "path": "src/pages/Features.tsx",
+      "bytes": 3569,
+      "sha256": "045a5a92018fe95559d9bb4a27bd4c65f32f18f261d174406cae235a046a0ea2"
+    },
+    {
+      "path": "src/pages/Home.tsx",
+      "bytes": 7987,
+      "sha256": "3f425b42031fd37963eb716442cd8a516debc42d391ce99b89f2ad20b4e1f665"
+    },
+    {
+      "path": "src/styles.css",
+      "bytes": 32800,
+      "sha256": "109d3c5a962a31a297fc1dda0d810b5a1c9148a33d9b4f818bf041c193b26f27"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 136,
+      "sha256": "eca485c281977125366d4800553256e419f364984e615f75a2d2bae54f7857fd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03819",
+  "title": "Auto Repair Service Center Landing Page Template",
+  "summary": "A modern landing page template for an import and European auto repair service center, featuring services, reviews, FAQ, and a booking form for local shops.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Automotive",
+    "Local Business"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3805,
+      "sha256": "165b4078b02ef2eded33c57272c8c34478ee52397c8aebe4c14f23bd4aec729f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15478,
+      "sha256": "8b657349032150eabea50075edb62a8492c344e6177fc56cab979d6fe0ae66c2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 743,
+      "sha256": "44dee2522e2e12a493e11cce395bcfb8798dcfaae6d19767062a1f54281ecc34"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41150,
+      "sha256": "006891c6ef25ed50be4019d16186d50789226562f4cfff2f81a01bb301a31095"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "about",
+    "services",
+    "testimonials",
+    "faq",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

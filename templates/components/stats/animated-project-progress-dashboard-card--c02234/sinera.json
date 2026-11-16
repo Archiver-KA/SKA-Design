@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02234",
+  "title": "Animated Project Progress Dashboard Card",
+  "summary": "A Tailwind CSS progress card showcasing project completion with an animated circular chart, staged task bars, status indicators, and CTA button. Ideal for dashboards, project tracking interfaces, and admin UI summaries.",
+  "tags": [
+    "card",
+    "tailwind",
+    "dashboard",
+    "progress",
+    "animated",
+    "stats",
+    "admin"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10958,
+      "sha256": "a8148a0fe43c3d0b0a6c67f969b864357cc9cee5f9b1c58928ca2a7f370eb962"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11324,
+      "sha256": "bfa5b16e0baa507f6106960353e47204724e0c34020abc7a075b47962774399d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12185,
+      "sha256": "e2e38e2fd36ef9e08af33309265f5bc63c208dbf88131942bad131d868c1c9fd"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "SN-W02025",
+  "title": "Full-Stack Developer Portfolio Template",
+  "summary": "A dark, futuristic full-stack developer portfolio template for showcasing projects, methodology, and inquiries with a high-end, cyber-luxury aesthetic.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Large Type",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3772,
+      "sha256": "20c5970bc0df26dd80b8ba8b777e0b1b169c0be378d4012e7981cab6575e1562"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15436,
+      "sha256": "50a5d1b828aca0123f99975d533290f8a61a3a7bdc59a8030a47fc03e2a3c810"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 873,
+      "sha256": "b5aeb5275ded92fbfd95be5bf1ee7d86103b3515ee404521044db07b1ad281f6"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 2241,
+      "sha256": "7f12b4f323d4900a50bf76a6925157e27a47fd3a1146bef8c7a2573f48ec1c10"
+    },
+    {
+      "path": "index.html",
+      "bytes": 44908,
+      "sha256": "204a25d1ff3f9bd1dedbf386f4e978bad5452508005e2081eb7af7b573e00843"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "how-it-works",
+    "gallery-portfolio",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SN-W01344",
+  "title": "Wellness Marketplace and E-commerce Template",
+  "summary": "A high-end, editorial-style E-commerce template for premium wellbeing brands looking to showcase products through the pillars of health.",
+  "tags": [
+    "E-commerce",
+    "Health",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Lifestyle",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3551,
+      "sha256": "62bb8393d5f20961b9466260abd55cebe85b05c37cda529553c343b54f3c18ee"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14094,
+      "sha256": "532227191cb5c34f09b2dd73f57ea8520ccd4dacdbcdd3f91c92f723a8101c0d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 817,
+      "sha256": "2b00986a3df7e37ebf160188eb413b430124bea6a072e3609507f5d17e652c4c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37487,
+      "sha256": "4a2485e6c4a564fe67bd021a36ca63251bc4322502b1018a030c078ba7b67e86"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "logo-cloud",
+    "navbar",
+    "hero",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

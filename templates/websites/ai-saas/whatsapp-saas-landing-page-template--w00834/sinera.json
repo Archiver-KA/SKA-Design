@@ -1,0 +1,72 @@
+{
+  "id": "SN-W00834",
+  "title": "WhatsApp SaaS Landing Page Template",
+  "summary": "A reusable landing page template for WhatsApp customer support SaaS products, designed to showcase automation, pricing, testimonials, and conversion-focused CTAs.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Clean",
+    "Minimal",
+    "SaaS",
+    "WhatsApp",
+    "Customer Support",
+    "Pricing",
+    "Dark"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3711,
+      "sha256": "6b223619dc30b694f5aa4652523bd9dd91aa30ad40eae212c1ea55cfa4e2f00b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 25952,
+      "sha256": "f5d14b593c1ebd97e305b92421755edbeaeea7bef6abdc9218d85912c7f10984"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 875,
+      "sha256": "5d574ecb8ba702b33ffbd683f91408aa0486891a464991c827ce80effb5f92da"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1189,
+      "sha256": "942b7e807aede63a03dfa1b96579191f7ba9a6390618630e8917d0abad53c01c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41023,
+      "sha256": "be1b6b5f33b3fc9ea473a1dd344e43b29fcfed2098c4017e4f21c12d779907f0"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "stats",
+    "cta",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "SN-W03669",
+  "title": "Arcade Game Landing Page Template",
+  "summary": "A reusable landing page template for showcasing a browser-based arcade game with interactive gameplay, score tracking, and a bold dark UI.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Entertainment",
+    "Dark",
+    "Minimal",
+    "Animated",
+    "arcade game",
+    "browser game"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3311,
+      "sha256": "c4024c1b8feec6b28e721093bb462f60b7a8043505c59ba4830a7079e1d52908"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5660,
+      "sha256": "1e207d29312f94bfa9810a0f01c0eae3a02ac6cdb3710f939083e1389abe09fc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2238,
+      "sha256": "3fe1bffc5c7d84cb7fc84f23deda17ba89ddf83c38235b804a5731f030ea4797"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 370,
+      "sha256": "9dd598ffc10cbc47912489231da368f16c810b3f0f4a4aa52656a9c234179ae7"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 215,
+      "sha256": "d9aa9ca61462179aee478ce038954e9b4069ba96158482d7961109fe8909b9d5"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 410,
+      "sha256": "fd2e74dd10bff1b07483dc28a89777349cf2bc264ea692ada90135ffa378bfb9"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 459,
+      "sha256": "68a61098997295f8bdebc70ca0f5f5fc6e6d85b5db762c6c6cee55f0b692f5b0"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 405,
+      "sha256": "c9564163cafa6052e57b229ebc1d1a162408668719271758edfdf48a594659d7"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 403,
+      "sha256": "462302eee1a5064adb50c93e9e8c2bfd3358d9f132eaea0bc3e22563f3e74bb4"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 158,
+      "sha256": "85c32aba0d455d5dfc43ba19e37f384ae27ccc6c28bebc6f7b7bea94bf88e65c"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 170,
+      "sha256": "d72ef7e1fd207888d68b98b565c0ffe9ff6c1c941a7d11d6fa604954c74da1f4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 83624,
+      "sha256": "2f4061738f95d8ee0d7dc170e15f045e6e8f18f10cf07eae37eb1a0771669dbd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "footer",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

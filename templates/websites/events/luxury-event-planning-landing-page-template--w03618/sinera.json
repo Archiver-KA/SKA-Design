@@ -1,0 +1,76 @@
+{
+  "id": "SN-W03618",
+  "title": "Luxury Event Planning Landing Page Template",
+  "summary": "A refined, dark-mode luxury event planning landing page template for showcasing premium wedding, corporate, and private event services with gallery and lead forms.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Large Type",
+    "Minimal",
+    "Portfolio",
+    "Event Planning",
+    "Wedding"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3640,
+      "sha256": "42eac584b874e6f0e96bddfb9af20a63baef3aa5eb2ab97a947ef176f72ceb08"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 23282,
+      "sha256": "acb532e21cfa53fd282a53853375dec849d2b1f2b3357b22e4d9d864b3bd3204"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 868,
+      "sha256": "bf396bb9d564e3567f4228ac66924180abcb33e84c27a27d3bff6bdade6152e0"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "ad1cfa7a2926f1ded0ddf3f9cbb3077358ff3abff7d7895e921c42b480e9e549"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34387,
+      "sha256": "1192a10a94f7cc6b5b7972aa4b6392ea1d434d414a81fa7c17bc49c518f1c6cc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "stats",
+    "about",
+    "services",
+    "gallery-portfolio",
+    "booking",
+    "faq",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

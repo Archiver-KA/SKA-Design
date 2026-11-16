@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00604",
+  "title": "UnicornStudio WEBGL Background",
+  "summary": "Fullscreen UnicornStudio-powered animated background with lazy loading and one-time initialization. Uses absolute positioning, blend modes, and script loader to embed an interactive visual effect behind page content.",
+  "tags": [
+    "background",
+    "animated",
+    "visual",
+    "effect",
+    "fullscreen",
+    "embed",
+    "integration"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1664,
+      "sha256": "dbaaf74069f60addf8ae9fbe1829e38148f0b98134f29ecc3f85417269e827d8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1277,
+      "sha256": "9e7f28457058bae1116282d8c195b2f4aac21f8d8428ba7df2f9f33609ecf43d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2128,
+      "sha256": "5b340c168071e5d8c999543911d2a69f6dfa59f346c4b7f5a63d41cdc23582b0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

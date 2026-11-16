@@ -1,0 +1,72 @@
+{
+  "id": "SN-W02542",
+  "title": "Therapy and Mental Health Services Template",
+  "summary": "A culturally responsive therapy landing page template designed for mental health professionals focusing on trauma, immigration, and identity-centered care.",
+  "tags": [
+    "Health",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Landing Page",
+    "Social",
+    "Style"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3926,
+      "sha256": "c3d8d854c2da0091b2330a6e329f5b82ecb7cd9dc8a0629ebb282db0f6d252d7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21014,
+      "sha256": "98e97dd74e5dd1e8a2ac4a123ca10a999b131d30ecbbf2d6e8bb1668a8bb8ea7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 877,
+      "sha256": "fde71f97ffb203d69069bb1e54473b5bf64517596c8cf632b84c54f31d00e879"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1314,
+      "sha256": "07c7f6b09cbd324d5ae1ac7f1ef5faa4c46890e1df0db3eb1422c9c2cbf01878"
+    },
+    {
+      "path": "index.html",
+      "bytes": 93760,
+      "sha256": "37120d22987b9576490363924049532887c20958a9b7e64775e27912689b1b0a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "services",
+    "cta",
+    "team",
+    "blog-articles",
+    "logo-cloud",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

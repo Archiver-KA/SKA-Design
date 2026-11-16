@@ -1,0 +1,66 @@
+{
+  "id": "SN-W02479",
+  "title": "Mental Health Wellness Homepage",
+  "summary": "Responsive homepage with animated hero, navigation, and a wellness resource gallery using Tailwind CSS.",
+  "tags": [
+    "Hero",
+    "Gallery",
+    "Animation",
+    "Tailwind CSS",
+    "Responsive Design",
+    "Web Fonts",
+    "UI Components"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2975,
+      "sha256": "2d11f9219baa882b9ce89950e0dcb721d5f8f3f2175171feb5e78d1a05b50738"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4570,
+      "sha256": "072785b198f4f08545280aae88898888493e118e2344aaa4e81b8a195a086e5f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 863,
+      "sha256": "8671cefd974bc743a4ae44c03610e3befec737e900107de31b35b96bb9e91a10"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 414,
+      "sha256": "21f1dbdef37452bf516bc33d631cc3e5388236a70cbc26af158c837599b72401"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13116,
+      "sha256": "9ff496478fa53d670f736921ab3e9a8ef4c901d1ebb96068575650567f622b8e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

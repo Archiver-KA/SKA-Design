@@ -1,0 +1,72 @@
+{
+  "id": "SN-W03573",
+  "title": "Church Landing Page Template",
+  "summary": "A warm, faith-centered template for churches and online ministries to welcome members, share sermons, collect emails, and encourage giving.",
+  "tags": [
+    "Landing Page",
+    "Religious",
+    "Community",
+    "Services",
+    "Clean",
+    "Warm",
+    "Ministry",
+    "Church",
+    "Sermons",
+    "Donation"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3530,
+      "sha256": "39f32986c46ef1b1c5fc02dd51ed0335d6eea6073be858804146a6f0129c2e68"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18538,
+      "sha256": "4cfdf809eb11b83f52f0136c54d664f0b14b56c617a869eb59f70802eb769c67"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 853,
+      "sha256": "b1dcc8b4749e29c12f2b45796bf423d5d826f15299ed99c938b35a8c6f3e4c23"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "845a8c33647082b21c3db87d511ee26caa07aa7a2c9bf6b015aad47a996ab97f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21359,
+      "sha256": "fa4bcf25f3ca021748c8a92b8650e71a9d72930ab81ccb7f43d334e32e8f1787"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "video-media",
+    "features",
+    "cta",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

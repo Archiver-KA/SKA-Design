@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02036",
+  "title": "Interactive Pricing Grid with Billing Toggle",
+  "summary": "Responsive three-tier pricing section with monthly/yearly billing toggle, highlighted Pro plan, feature lists, and call-to-action buttons. Styled with Tailwind-like utility classes for SaaS and subscription pricing pages.",
+  "tags": [
+    "pricing",
+    "section",
+    "responsive",
+    "interactive",
+    "grid",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 24386,
+      "sha256": "464a0b14416bf420282bf7e3ae0d0c22a0d928c7ef3b485f1c63fb2653114c86"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12654,
+      "sha256": "be96949dd331811a3aafd6efade605c63c5c8942d13b4a0d441c2bdd0662792c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13519,
+      "sha256": "ce14f80949f8683e1d4fa9611e61347f154519ed34112eefd4b606fce530b63d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

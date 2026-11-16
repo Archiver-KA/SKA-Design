@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01475",
+  "title": "Responsive Hero Section with CTA & Social Proof",
+  "summary": "Tailwind-styled hero block featuring announcement label, bold headline, supporting text, primary and secondary call-to-action buttons, and avatar group showcasing user count. Ideal for SaaS or product landing pages.",
+  "tags": [
+    "hero",
+    "landing page",
+    "cta",
+    "social proof",
+    "tailwind",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 17898,
+      "sha256": "b960cfdde3d06dbc1e8e82c7d446917a766779ddf3a6db80925a9dd650b46cd6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3372,
+      "sha256": "fa27d82ec51b9a66a6c117b1ce482cff7956a6cd9b0d0e62cad6a0dadbd262e0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4374,
+      "sha256": "1ae2f396e964cf05bc56c33dce9c53f88c93de6f7f56809b3bbe2b2f26943bc1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

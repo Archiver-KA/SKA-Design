@@ -1,0 +1,67 @@
+{
+  "id": "SN-W04036",
+  "title": "Painter & Decorator Services Landing Page Template",
+  "summary": "A polished template for local painter & decorator services, ideal for promoting residential and commercial work with portfolio, testimonials, and contact form.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Portfolio",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3761,
+      "sha256": "a6d94f781b57ee47f37ae070282e2b066f7cd47b22fe57abfe29816dfe58424b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18744,
+      "sha256": "fe0f823eb5aa29f4b82ba6db984ef57ce05cc4a069431291c66eb75bfa771c3e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 745,
+      "sha256": "14752f0afb1567171ff902552b4482a563e0cc87c09121516c8206c2986c574e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34161,
+      "sha256": "ee05c1d60f4c25c035f723a4c79eca939c924d2e0fe2044bd59b31500e059898"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "gallery-portfolio",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

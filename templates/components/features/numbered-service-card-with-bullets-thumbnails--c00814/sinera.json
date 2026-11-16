@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00814",
+  "title": "Numbered Service Card with Bullets & Thumbnails",
+  "summary": "Responsive Tailwind grid card showcasing a numbered service step. Features check-icon bullet list, thumbnail image gallery, and right-aligned heading with tagline—ideal for service pages, feature walkthroughs, or process timelines.",
+  "tags": [
+    "card",
+    "service",
+    "feature",
+    "tailwind",
+    "responsive",
+    "grid",
+    "icons",
+    "gallery"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10142,
+      "sha256": "04586a2b0d4f0334d50f7e167fa7864166b210780664f89d3f21d8484c1bb8f2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3893,
+      "sha256": "fafb0aa4ecc3cdeff4aed14e1a0ae9efad45b924a782b04fd316932c6e8e23f7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4895,
+      "sha256": "c96946b1bfe8a0d7b16d07aaa22507654baf86fa56ee0b943a777290ed4d4b9b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

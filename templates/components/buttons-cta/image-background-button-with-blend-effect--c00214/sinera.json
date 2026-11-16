@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00214",
+  "title": "Image Background Button with Blend Effect",
+  "summary": "Anchor element styled as a button using Tailwind CSS; features fixed 40×150px size, background image with cover, mix-blend-multiply and invert filters for striking visual effects. Ideal for call-to-action links or decorative navigation.",
+  "tags": [
+    "anchor",
+    "tailwind",
+    "blend-mode",
+    "interactive",
+    "cta",
+    "logo"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2062,
+      "sha256": "c85049c7b9268c99844a8da8d4060c969be2a549b616ea5ccff1889c14695c1b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 578,
+      "sha256": "8b656a1a58f92c570a84da93ea28b1f1024481f749781c949967ffdcdd2890c9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1440,
+      "sha256": "c517938fde0937e7621142d616cd8ae084e51deb4f811ec94df9b1a375f25dce"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

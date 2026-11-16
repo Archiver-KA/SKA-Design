@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00174",
+  "title": "Gradient CTA Button with Hover Lift & Icon",
+  "summary": "Interactive call-to-action button featuring a 144° gradient border, hover elevation, color fade, and sliding arrow icon. Built with Tailwind CSS utility classes, ideal for signup, purchase, or any primary action in modern responsive UIs.",
+  "tags": [
+    "button",
+    "tailwind",
+    "cta",
+    "gradient",
+    "hover",
+    "animated",
+    "interactive",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1762,
+      "sha256": "b6e41e54fbc9acc135b19d7efa16283a5e5413ad9937ed25385853172c2f0f2a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1214,
+      "sha256": "34374218156596d6b06b51fbcb01a7a01dcd6adb647189a0df4c21952332983b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2081,
+      "sha256": "4e95c4c951652c58ccc11d61caacdbe214d1098402cd5dcf4b2e86b9945e7cec"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

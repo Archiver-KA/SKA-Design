@@ -1,0 +1,72 @@
+{
+  "id": "SN-W00900",
+  "title": "Crypto Meme Coin Landing Page Template",
+  "summary": "A dark, comic-style crypto meme coin landing page template designed to showcase token lore, tokenomics, roadmap, and community links for new coins.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Entertainment",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Technology",
+    "Crypto",
+    "Meme Coin"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3904,
+      "sha256": "3a596242f2ddf78af090580e7323ca645c905fc18911bd0c086810302a4b176a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14640,
+      "sha256": "c00fd20b445cc9a84b2e0c0f3ba1afa022b5718e2daa70842b15a5048e91ce6d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 864,
+      "sha256": "3f7220af9679ca1f13227971986e713a39d6ff44e4c82e5c9696e1c4968582d2"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 269,
+      "sha256": "88e5b25123acd561f0e245d6c9fc358466b5b7eb64ba33b799f4a9b314e4ddd5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29459,
+      "sha256": "f08470dbb3f4035363bbe582573ac848b8edc3c8472821afcd8c1b4458be5a93"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "stats",
+    "timeline",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

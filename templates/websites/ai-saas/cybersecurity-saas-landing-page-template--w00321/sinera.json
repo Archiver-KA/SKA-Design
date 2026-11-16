@@ -1,0 +1,67 @@
+{
+  "id": "SN-W00321",
+  "title": "Cybersecurity SaaS Landing Page Template",
+  "summary": "A futuristic zero-trust cybersecurity SaaS landing page template featuring metrics, terminal interactions, and service highlights for security platforms.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Futuristic",
+    "Dark",
+    "Gradient",
+    "Animated",
+    "Large Type",
+    "Services",
+    "Cybersecurity"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3712,
+      "sha256": "befcac84e20e92001061092427605af164e2e805b5767e8871c2aac668617a66"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12914,
+      "sha256": "715c200e1be80a375cb3f1fcf55042208641f37ba8fe23ad061d614c1724f576"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "054a1a0ceb9c0601e8e424ef14652dc8167064379db34987ff7f7eed28f5a8dd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25911,
+      "sha256": "c0f6495030531507459be38a07d9fb9ab37eef8c767b62500dc87c67b983944b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "stats",
+    "code-terminal",
+    "bento-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

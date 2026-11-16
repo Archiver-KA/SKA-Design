@@ -1,0 +1,69 @@
+{
+  "id": "SN-W01962",
+  "title": "Developer Portfolio Landing Page Template",
+  "summary": "A dark, hacker-style developer portfolio template for showcasing full-stack projects, experience, and contact details in a terminal-inspired layout.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Grid",
+    "Large Type",
+    "Developer Portfolio",
+    "Personal Website"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3709,
+      "sha256": "5ffda68b4d94e032db104959060ce08ee5acc5be5887c798f526b6f285f88528"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3494,
+      "sha256": "7e0d1e0e97658509899a11b3f377817fce85f8e38289eae7d7df65dd92127fa4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "4ac581aadf092b602b6a9e22fd3d21f1900a4e2287a866bb839f169b42df03c9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39588,
+      "sha256": "1cb368b286935dca96150b7a27a5c49d440f6c85ed19e54a51317eda6992683d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "marquee",
+    "about",
+    "case-studies",
+    "timeline",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

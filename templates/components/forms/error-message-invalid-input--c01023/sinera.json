@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01023",
+  "title": "Error Message - Invalid Input",
+  "summary": "A simple error component indicating that the provided input (URL) is not valid HTML code. Used to inform users when they need to provide actual HTML markup instead of links.",
+  "tags": [
+    "card",
+    "error",
+    "message",
+    "alert",
+    "validation"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7142,
+      "sha256": "938a0fd5a343b68b9f4240d6be6104a25ff00ee5ce29f146a44be07039fed8be"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1018,
+      "sha256": "6778aef225c306725c93d412f42a884923e0c19c1e7c37d80f26d7ab762a1509"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1868,
+      "sha256": "768876c63cb6d2cf4e71622fd43c62937ddd206afbc9b7fdf9b1db0ff8ecf821"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

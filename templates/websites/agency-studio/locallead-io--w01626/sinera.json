@@ -1,0 +1,82 @@
+{
+  "id": "SN-W01626",
+  "title": "locallead.io",
+  "summary": "A reusable landing page template for local marketing agencies, consultants, and service businesses to showcase automated lead generation systems and book calls.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Dark",
+    "Gradient",
+    "Clean",
+    "Minimal",
+    "lead generation",
+    "local SEO",
+    "marketing agency"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3801,
+      "sha256": "d2fd218bc2d3fa3e62d46f56898a938f505431ac4dddf63a9824803e58394176"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16020,
+      "sha256": "e899e3c7e1110b15183086a6f32b762dbc8805758ae070c0295065796fb9e6af"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1132,
+      "sha256": "18203bb26d53f2c93ee4aef3513e219d22f71186e20e1880604c04c1241670b2"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1460,
+      "sha256": "14dc9fd285addc23f00abed6f6db2bd3a447e7a6c9d8c17ec6efa92c65166a1b"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 2183,
+      "sha256": "4b2d7b55223ff7e4c5a44624bee066156afb2ebb105702c5b615b98f62ba4de5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 48076,
+      "sha256": "668d30a84ae8cc4eec1e4042b997bbc4e972a6f4038d6a76c18314f7a7802e26"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "booking",
+    "video-media",
+    "features",
+    "benefits",
+    "logo-cloud",
+    "how-it-works",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

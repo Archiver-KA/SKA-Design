@@ -1,0 +1,63 @@
+{
+  "id": "SN-W03500",
+  "title": "Marlin SC Swimming Coaching Landing Page Template",
+  "summary": "A premium coach-forward website template designed for swimming instructors and fitness professionals to showcase packages and book sessions.",
+  "tags": [
+    "Services",
+    "Health",
+    "Clean",
+    "Minimal",
+    "Animated",
+    "Technology",
+    "Blue"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3553,
+      "sha256": "0b65aca8bd58304ba200da78f8a54ffe0a8a9432fcc854cb1320c0feb95b5fdf"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15902,
+      "sha256": "2e05e29cec2e95f7b36cdbc1841a73c090c8da734560fc0d56ff81d24a645aaa"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 737,
+      "sha256": "9bde7150ad2b9f1344e4d885df734d3c94da9fa9732e7441be17a497953963b7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27441,
+      "sha256": "8777a80cd36623076c49eaf6a12207af171452140e6a25c9177004a80f37ccfd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "product-grid",
+    "booking",
+    "blog-articles",
+    "features",
+    "cta"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

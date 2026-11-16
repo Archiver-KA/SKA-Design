@@ -1,0 +1,84 @@
+{
+  "id": "SN-W02261",
+  "title": "Twenty Two Media",
+  "summary": "A high-performance landing page template designed for independent digital studios, creative agencies, and AI-focused startups.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Portfolio",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3533,
+      "sha256": "ba333f0f5a2432d8371485f0e8e9b560ed0e2dde3eb21c068ffaaada59d07936"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18882,
+      "sha256": "3ea70c71cca384a418090ba63d4c6949d6ad74bda98ab9b02c1cd344109d239a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1322,
+      "sha256": "dcbd96d2ea028d6efb7f35a21040718b17a04efbfee9b7bf3892b85feba3258c"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 346,
+      "sha256": "2c2720c8c2cdac54be459b4eb98455736a077b1317fe69963b528e0d6732f158"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 355,
+      "sha256": "0500f1cf8222977131464c486974049af813ef689e5299101b6b5a645c493022"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 361,
+      "sha256": "417b3e8af4022e9fe1dd94d7726dd0372923623ccee1b9cc1dba36e437a67ffa"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20746,
+      "sha256": "8952856eae374545518bd977b966bfceb81bd50275a0b5abd54c438ec7b502b9"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "case-studies",
+    "services",
+    "cta",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

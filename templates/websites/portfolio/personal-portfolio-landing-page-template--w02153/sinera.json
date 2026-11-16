@@ -1,0 +1,72 @@
+{
+  "id": "SN-W02153",
+  "title": "Personal Portfolio Landing Page Template",
+  "summary": "A bold, animated personal portfolio template for ambitious developers and creators to showcase vision, skills, projects, and an upcoming app.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Brand",
+    "Technology",
+    "Art & Design",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3692,
+      "sha256": "dd8d8fa5bf59335bccfe4be94d001856b3f2f22cbe62e531182e7559cce6a088"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17054,
+      "sha256": "16cda63c818dac8991727216ebff2cbc9d7ec696963da80405a483c9d2d8f4dd"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 873,
+      "sha256": "0affcc47878afbe54ffd99fbd891864ed7ac191a103a8c94d12121a2a83b6dc7"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 654,
+      "sha256": "5472ae605e6736cfef9139cdff5603d7aad30d1b73e9b2527013edfcfac1792a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 49535,
+      "sha256": "e664c16d1e9fe70d14d1e8a60669451155a2a7690674dcd5692fa13e30e44e32"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "cta",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

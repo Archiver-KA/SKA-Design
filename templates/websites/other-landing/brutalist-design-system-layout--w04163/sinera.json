@@ -1,0 +1,63 @@
+{
+  "id": "SN-W04163",
+  "title": "Brutalist Design System Layout",
+  "summary": "A minimalist brutalist style webpage with a dynamic topology background, bold typography, and structured content sections.",
+  "tags": [
+    "Brutalist",
+    "Tailwind CSS",
+    "Topology Background",
+    "Typography",
+    "Grid Layout",
+    "Interactive UI"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2810,
+      "sha256": "c3801ee4deeeb12b30e1b4965d36f4c6001e0bda78258091acef51d18fb45e7f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11812,
+      "sha256": "12fddbff6d27e539c80a560fc54c2f789883e14647c385a3c4735c3d7363cb18"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 806,
+      "sha256": "feda3a997df7ef9f909c38c21f980adbab3f9a3a028d726e6a86e809cbbf1089"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4598,
+      "sha256": "bae0519dd7c7cb3d53ee28448dc3a43f2ccbad4fd57707aeaa4b7bbdd86f2c7d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "navbar",
+    "hero",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "snippetType": "auth-form",
+  "design": "DESIGN.md"
+}

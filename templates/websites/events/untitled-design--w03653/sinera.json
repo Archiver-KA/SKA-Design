@@ -1,0 +1,61 @@
+{
+  "id": "SN-W03653",
+  "title": "Untitled Design",
+  "summary": "A high-end registration template designed for non-profit and community initiatives, featuring a clean dark aesthetic and multi-category role selection.",
+  "tags": [
+    "Social",
+    "Non-profit",
+    "Community",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Landing Page",
+    "Membership"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3113,
+      "sha256": "eedfb5cf09027b60c5d3e1dd19497908f4414ddaf7a9139f211895497f709e57"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9628,
+      "sha256": "12ae5e74107bb481018b937afa5ca8012c99bcf56e18bbca2562dec6255fc64f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 700,
+      "sha256": "b1bda99da66d73f34defddfa5363ea97b9a90b6bc61260e082289ee0ffbb896a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24082,
+      "sha256": "2c7c82887bf4577976cbdc59686705bc28410721484cfbbc97e337fce02631b7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

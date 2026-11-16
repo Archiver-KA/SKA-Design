@@ -1,0 +1,79 @@
+{
+  "id": "SN-W03494",
+  "title": "Learning Platform Landing Page Template",
+  "summary": "This reusable landing page template is designed for online learning platforms to showcase courses, career outcomes, and testimonials to attract learners.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "Courses",
+    "Testimonials",
+    "FAQ",
+    "Career Outcomes",
+    "Call to Action",
+    "Education",
+    "User Testimonials"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3640,
+      "sha256": "abe5014d7917266979c5d70664bd70b204f2890b78b6a0ab9a3680bc595ce0e0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10752,
+      "sha256": "651dee6577824ca1a71bcd4768e18b5a6fe917dfc1674a698dbbae18ef370e87"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1150,
+      "sha256": "9e5b86e169401ca45d1d94d8af6d6d1cab36e7756240837f252e0a93776ea59a"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 339,
+      "sha256": "797d1837917aad44dad31494f4e2e0deec1f9ebffc9df745b0e44fa67811e418"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 207,
+      "sha256": "d7ab8353ad1a1e6f63caa6b7bd1ecaacbb826ef6f3ba4e1c10ea4a7f9e63d473"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28735,
+      "sha256": "bcdf78cda91098cf12a8455934a232e4e5d1f2bcfdcad4c42a755fc31218b770"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "timeline",
+    "services",
+    "newsletter",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

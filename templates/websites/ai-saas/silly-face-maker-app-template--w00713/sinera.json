@@ -1,0 +1,60 @@
+{
+  "id": "SN-W00713",
+  "title": "Silly Face Maker App Template",
+  "summary": "A clean and interactive component-based template for building character customizers, avatar creators, or playful UI generators.",
+  "tags": [
+    "Art & Design",
+    "Entertainment",
+    "Portfolio",
+    "Style",
+    "Clean",
+    "Animated",
+    "Minimal",
+    "Graphic Design"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3244,
+      "sha256": "d57ed13602255b955321bb7ad40b919813a4b5d6268ac6394f1bcf20a9828105"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5654,
+      "sha256": "24936b9480e5cbd38a10bc95793a75b58e0a3658918574b662e66723b15de416"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "666ab218e4646787d49ded82e8ca1157984b8d138bbd015e2924673570c827a0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16161,
+      "sha256": "790e67e56d21c63c98cd7c226a858b9d91203c57ce084d7ead4dc91ce2dcf798"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "SN-W00608",
+  "title": "Oceans of Andromeda Landing Page Template",
+  "summary": "A reusable landing page template designed to showcase a dark, bioluminescent-themed developer or code editor project with immersive visuals and multiple acquisition options.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "Dark Theme",
+    "Bioluminescence",
+    "Code Editor",
+    "Gallery",
+    "Download",
+    "Animation",
+    "Typography",
+    "Developer"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3633,
+      "sha256": "a7d51a6a431730e9045ad653e5bdcdb50993abe7eff83f3683aefe8ad6825bf1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8400,
+      "sha256": "d155ca244aaca5b609be73089996664c6da1a6afd5f01fa839f4dc8cdae72aa7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 876,
+      "sha256": "13d24e852cf34a389dee532f79111bd37a9a66e6bd6cd04c91a74b726e6c5be6"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 208,
+      "sha256": "6d25e1a76a7e9d97a224271ee76af7e0c79f6dd5242d5025740602f9915fe506"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23400,
+      "sha256": "f71797ddc3946f4d5d9e56479d0096bce79686de8c5979aed1e2a0515dedf459"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "code-terminal",
+    "app-download",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

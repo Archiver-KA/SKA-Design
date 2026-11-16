@@ -1,0 +1,72 @@
+{
+  "id": "SN-W01883",
+  "title": "Creative Developer Collective Portfolio Template",
+  "summary": "A high-end portfolio template for creative developer collectives, ideal for showcasing kinetic WebGL work, services, and contact details.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Futuristic"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3623,
+      "sha256": "565c8d848967139a693d3c4ea29ff81e843f187e92ee2a2a54d2226141c67d36"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6362,
+      "sha256": "0fd99a9f35cc86cca484f3262da4d13d91473c96218207d6787948b8a5a75481"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 876,
+      "sha256": "54aca72187e54944093c4fdeb36bd0aa5b26a2c0fb83f813e35a4dce6ba07d8a"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "2b07fd6bdb9fac52f5f7f1f19b01f6f4bfcd81cd9ca7dd79c7b5e95042ef659a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23105,
+      "sha256": "6239775cca87db2c0e96763b3a5e3cfc916831687bd4eae664eeef365dd09315"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "case-studies",
+    "services",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

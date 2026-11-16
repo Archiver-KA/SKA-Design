@@ -1,0 +1,69 @@
+{
+  "id": "SN-W01611",
+  "title": "Kolbe Digital Agency Landing Page Template",
+  "summary": "Modern dark-style landing page template for Kolbe-style digital marketing agencies to showcase services, team, and convert visitors into leads.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Portfolio",
+    "Marketing"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3901,
+      "sha256": "e3d5f342e3a5aed96439c2b54a0c8d206aa8d2b1327d8b3113a89f88882ea849"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22880,
+      "sha256": "baffe326b0612676829787eeb8750a136d2f41712c5b7e7f3326bbb0333cd891"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "73ee3fe0329c1f46a3218a5012a3944592b30b0cdc28b1a5c7f82e74aa87bec6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 50216,
+      "sha256": "e9e80474524767a2751afb6ca17a61adee13f4287a17a6144dcf9e7e37200b32"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "services",
+    "features",
+    "how-it-works",
+    "bento-grid",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "SN-W01768",
+  "title": "Aether OS - Futuristic Creative Portfolio Template",
+  "summary": "A high-tech, interactive landing page template featuring 3D holographic particles, gesture-based interactions, and a clean sci-fi aesthetic for designers and developers.",
+  "tags": [
+    "Technology",
+    "Portfolio",
+    "Art & Design",
+    "Animated",
+    "Dark",
+    "Futuristic",
+    "3D",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3550,
+      "sha256": "c60c8c9ce5b3a45c9e18900c8fe4eba3f6902425067a3a1e5a86ce0a6eb3c9e5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 98072,
+      "sha256": "c13e491069d7be77e0267793d0425b01ddab39e030dccf64b324fc43635a3ab1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "a5509bdd6a16a4d042ac6482223feeb724cc922860a5d0326b0a80d12bff30c9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38797,
+      "sha256": "e41382765c6fcf5c1d408641e1e7af69703f83b9723d88720e58806e003f9d43"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "hero",
+    "about"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

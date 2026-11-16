@@ -1,0 +1,80 @@
+{
+  "id": "SN-W03097",
+  "title": "Luxury Test Drive Landing Page Template",
+  "summary": "A premium landing page template for luxury supercar and racing experience bookings, featuring car listings, step-by-step journey, and on-site booking modal.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Technology",
+    "Automotive",
+    "Booking"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3772,
+      "sha256": "e6fa6e7d8c5f2f111d425e4aeed87db2f0b1effcc87bf3d09a50ff14562b05fa"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19236,
+      "sha256": "37baa7f5fd4cbfc0fc907a1b23d91fc592c2593b0765ff259dedf7acc7caf44b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1074,
+      "sha256": "9d7b4fa06dadcd70f2f16556839871ae16c212aabc99e9b7b6ca48e7029de681"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 325,
+      "sha256": "0be599b957d7de1f5970908c088bcbe8f52d85d9aa6ff5a8e46a854eb995e4a1"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 226,
+      "sha256": "14dddc4ab1034e8f43b1ce5243860b4caf20e933aed94edae8f63a801c0938b4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 142302,
+      "sha256": "726d1db3edb4887f6e9bd2f90fb3ca38222e65a51873573a82198883d72eaf66"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "timeline",
+    "stats",
+    "comparison",
+    "team",
+    "faq",
+    "footer",
+    "booking"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

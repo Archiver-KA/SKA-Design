@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02104",
+  "title": "Three-Tier SaaS Pricing Section",
+  "summary": "Full-width pricing section with three plans (Starter, Growth, Scale), featuring highlighted middle plan, plan details, feature lists, and call-to-action buttons. Styled with Tailwind-style utility classes for modern SaaS landing pages.",
+  "tags": [
+    "pricing",
+    "section",
+    "responsive",
+    "tailwind",
+    "saas",
+    "grid",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 17992,
+      "sha256": "afc6def8a6877d9af7e444a2fe71a7998d23d3971f80077d17db5f6c2b04fa1e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 15451,
+      "sha256": "05064541d2026e293af804c0124f3695c49e37954b9faa188672541aeb72285b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16433,
+      "sha256": "92212c0d5fd9f6869460eca1a4496fbcf41ea3c1a7d4df917c03652e1ea92db6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

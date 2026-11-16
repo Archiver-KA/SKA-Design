@@ -1,0 +1,62 @@
+{
+  "id": "SN-W02033",
+  "title": "Gravity Well 3D Interactive Template",
+  "summary": "A high-performance 3D interactive landing page template featuring an immersive Three.js gravity well animation and minimalist UI.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Dark",
+    "Animated",
+    "Futuristic",
+    "Clean",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2735,
+      "sha256": "f8da93deea43daf5aef760f134cc9d581db98f5cecfbce3bfc9e1873c76fe902"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2030,
+      "sha256": "9f644dc0a7a0740a52d1771e77dbfeccfcd9993b632cdd1048373b3a70f2570d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "a1c337f46c25c1d017a26c5b2aff5d4c04f8322fcba21db68e70c36fe3ca64dc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20487,
+      "sha256": "c6c7df2bf86152fee682631bc85b5572707651888ddbc692b86c78de7864515d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "snippet",
+  "components": [
+    "3d-canvas"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

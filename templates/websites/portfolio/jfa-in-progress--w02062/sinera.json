@@ -1,0 +1,64 @@
+{
+  "id": "SN-W02062",
+  "title": "JFA IN PROGRESS",
+  "summary": "A dark, contemporary architect portfolio landing page template for showcasing featured projects, studio profile, team, and contact details.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Minimal",
+    "Dark",
+    "Large Type",
+    "Grid",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2937,
+      "sha256": "2e1bb46764f2bd43dd6194586f4b89d9b7b98e3c6caf70e85d4d2dc253932e70"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21592,
+      "sha256": "91e53395c257fee15f59236867eddb700f5fc2b195e9a15e30ce5f641bc3f481"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 703,
+      "sha256": "60f41eebada32e13e832e0ea9ec74962d311a0e28900dd5603190ac4b4c840e3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22891,
+      "sha256": "733f7bc65c4449ee0874cc2d6f6462de1e7f27f9ed612978203e56d679bbb7e7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "about",
+    "team",
+    "contact-form"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

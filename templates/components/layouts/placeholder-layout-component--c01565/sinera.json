@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01565",
+  "title": "Placeholder Layout Component",
+  "summary": "Minimal placeholder layout/component containing only a single character, likely used as a stub or test element within a page or design system.",
+  "tags": [
+    "card",
+    "placeholder",
+    "minimal",
+    "layout",
+    "stub"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2316,
+      "sha256": "7dda9ebc08261a7fe1c501deabad04a823f6af0a126e5dc04e0830286c786624"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9,
+      "sha256": "559cc270ed823038ec58c6461bd77898616b1d1dec1d2433c9fee458fca8c092"
+    },
+    {
+      "path": "index.html",
+      "bytes": 858,
+      "sha256": "f9323e32da3ad86e9560713c21196c30999c40bab888a93f2417bbdbd97f65d2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

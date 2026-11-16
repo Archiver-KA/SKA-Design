@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00286",
+  "title": "Skeuomorphic Confirm Button",
+  "summary": "A centered skeuomorphic-style Confirm button wrapped in a flex container. Suitable for confirmation actions in dialogs, forms, or modals. Uses utility classes for layout and a custom skeuomorphic-btn style for visual design.",
+  "tags": [
+    "button",
+    "skeuomorphic",
+    "confirm",
+    "ui",
+    "css",
+    "minimal"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1418,
+      "sha256": "794fa8dcb2f94454bdb06b55ed9359b1abf6980d9bc03ceee86be5346347ee30"
+    },
+    {
+      "path": "component.html",
+      "bytes": 165,
+      "sha256": "69e03df491f4dede7cec935b80a6767a3c9e51c7c7d30b9236113456bde6ba07"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1013,
+      "sha256": "fec11d58c9d189f3eadab3ac2b71c512f521f946e78b6db9c0655adfbd8d2967"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02377",
+  "title": "Weight Tracking Stat Card with Background Image",
+  "summary": "Stylish Tailwind CSS card displaying current weight, weekly and monthly changes, and historical stats over an image background. Ideal for fitness dashboards, health apps, or profile summaries, with menu button for further actions.",
+  "tags": [
+    "card",
+    "stats",
+    "tailwind",
+    "health",
+    "dashboard",
+    "responsive",
+    "metric",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14800,
+      "sha256": "58eaed6cdee535db35f6ad156ebf7fb7862eb6b809003608b7d5a9bcfbf82a55"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2280,
+      "sha256": "d9b4fef4684e685d989207b71b31f4964b6af92bce9f93cdf7b841aaf0ba6247"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3278,
+      "sha256": "f988e3dd0847e14bec879de74cd017542688626af65361a176d0a0f9c25204ee"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

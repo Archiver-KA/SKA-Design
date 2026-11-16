@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00389",
+  "title": "Hotel Listing Card with Like & Book Actions",
+  "summary": "Stylish Tailwind card showing hotel image with location badge and like overlay, property details, price, availability, guest avatars, rating, and a “Book Now” CTA. Great for travel booking sites or property listings. Responsive and interactive.",
+  "tags": [
+    "card",
+    "tailwind",
+    "hotel",
+    "booking",
+    "image-overlay",
+    "interactive",
+    "listing",
+    "ecommerce"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12936,
+      "sha256": "5bfe3442d878345aba0ff640f0abe973bd624b0889adcf880b30de024123b5ca"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4615,
+      "sha256": "fa6bf949f87ed04ec0b01d7661e0a04ba5fd859abe5a2e69e241c139c2d23cf9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5483,
+      "sha256": "df7827b825e8832f1d775b77e6a9c05513fb4c9e2d71a251d374a2151fdca9e0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

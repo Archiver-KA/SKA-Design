@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01917",
+  "title": "Inline Base64 JPEG Image Embed",
+  "summary": "Component contains a JPEG image fully embedded as a base64 data URI, allowing inline display without external asset loading. Useful for icons, placeholders, or self-contained demos where bundling separate images is inconvenient.",
+  "tags": [
+    "image",
+    "jpeg",
+    "base64",
+    "data-uri",
+    "inline",
+    "asset",
+    "html"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8028,
+      "sha256": "e406f1afd0af7902bf6154d59f952668cb01395bff5b8c3829aabbb3a5a80d0a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 36881,
+      "sha256": "59d28c345d602a5549cadfb1aa28eb59bb77418268335cf02bc1d6e42dbab12c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37732,
+      "sha256": "6dcac5e675080a6e440756fea205d287388c789a86695abe0e66e86579a31503"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

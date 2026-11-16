@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00701",
+  "title": "Animated Service Cards Grid",
+  "summary": "Responsive grid of six slide-up animated service cards styled with Tailwind CSS. Each card features custom icon mockups, headings, and descriptions, perfect for agency or portfolio service sections on dark themed sites.",
+  "tags": [
+    "grid",
+    "service",
+    "tailwind",
+    "animated",
+    "responsive",
+    "dark",
+    "portfolio"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 30116,
+      "sha256": "7d28069e6a45dced73c4e18f6b9b77933a1edbfbe9d0ecf888c6e1345909b8f7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9577,
+      "sha256": "99ffbcc20a5fb725f35facec90f40c31f78953479989c906719792e4e395ec17"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10555,
+      "sha256": "f38226ae05aac85a0456ac7478e2f8de0cdb2624f5fdc97dfa5567e2699f9dc4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

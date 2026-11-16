@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03589",
+  "title": "DJ Event Services Landing Page Template",
+  "summary": "A modern DJ & event entertainment landing page template for promoting wedding, birthday and private party services with testimonials, FAQs, and contact form.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Entertainment",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3803,
+      "sha256": "73fc62b0002a65efae8e15e82bbdef233aaa856ce47142ff8dbddb0548c937fb"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13188,
+      "sha256": "b049e57e8558b31af81c448bdf6a4b1cccdbe5b8a8f85adc75697ce3285b20e1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "a871f267f85d6da8b2a08723ce0ef66f8a0038353f8c68b348872c8bccb03a75"
+    },
+    {
+      "path": "index.html",
+      "bytes": 46360,
+      "sha256": "cd28cc05040d732a7aedd5283c952938f39bd475a4e1a305316e7046dce3090e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "about",
+    "testimonials",
+    "faq",
+    "blog-articles",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

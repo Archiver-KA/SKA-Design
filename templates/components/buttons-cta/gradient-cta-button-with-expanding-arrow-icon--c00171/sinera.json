@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00171",
+  "title": "Gradient CTA Button with Expanding Arrow Icon",
+  "summary": "Interactive call-to-action anchor styled as a rounded button featuring a gray gradient, inset shadow, and an arrow icon that widens on hover. Built with Tailwind utility classes and inline styles, ideal for landing pages or signup prompts.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "gradient",
+    "hover",
+    "interactive",
+    "animated",
+    "arrow"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2054,
+      "sha256": "4faceca92ed3cb12dc9fc8b52d014531c40204f9ccd1f959ae602a9bde8ce1e2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1052,
+      "sha256": "de31061ba78eec1750725ecc6892cb2e69b20b365dbfe396b938bc27a4affdad"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2048,
+      "sha256": "b0c5e9d3c5a816648ac8cec3f8ae884daa7633d37a8b6f5305beaab50cb9302d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

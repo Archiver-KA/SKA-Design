@@ -1,0 +1,64 @@
+{
+  "id": "SN-W04100",
+  "title": "Solar System Visualization Experience Template",
+  "summary": "Immersive WebGL solar system visualization template for interactive space simulations, educational demos, and science landing page experiences.",
+  "tags": [
+    "Landing Page",
+    "Education",
+    "Technology",
+    "Entertainment",
+    "Dark",
+    "Futuristic",
+    "Animated",
+    "Large Type",
+    "Gradient",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3239,
+      "sha256": "ce16fcbfa669ef0dad57e28445ffbd52021c6b207647e204f6641fe253dfd6e6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3376,
+      "sha256": "a6ec5450d758353fb95864e244ae7dfc4ecd46d841ff3c985f2a63ce202eeef0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 741,
+      "sha256": "f874bbde8448a49dc99250c9f87828ebbc13d1388dd377182447a3a19994fb0b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22111,
+      "sha256": "131ec90e6e9a56b1bef9370c95e557ff11e6d986b4f0ae77d9e280fc3ff850c3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "hero",
+    "navbar",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

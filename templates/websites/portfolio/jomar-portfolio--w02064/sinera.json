@@ -1,0 +1,84 @@
+{
+  "id": "SN-W02064",
+  "title": "Jomar Portfolio",
+  "summary": "A high-converting portfolio and marketing template designed for AI specialists and video editors to showcase digital work and scale brands.",
+  "tags": [
+    "Portfolio",
+    "Technology",
+    "Animated",
+    "Dark",
+    "Clean",
+    "Services",
+    "Creative"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3407,
+      "sha256": "ad9a7c80290538b33903ec9daed659e0a9185fbb207cbfe5fca982e8a6412695"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11100,
+      "sha256": "88eb7a8191389423ad6dde2758117949ef3b201c6f18ce58b9119b6c69865a16"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2065,
+      "sha256": "c2a563d7fe9f99bda2eefecf867f80d567c77ac99689478695bd3398b8dbee22"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 456,
+      "sha256": "1003b1fa885fced35d83317db54cb74236a401dfad3d284f69a4ba4fa0c98067"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 437,
+      "sha256": "73eca3502f188a1db40497f0dab52194ec275d986cd651f83ad5b5c7b4ea4437"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 410,
+      "sha256": "a9c6309f6dfeec5e899085642c41164c3b94de82434c9757df57059c0849528c"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 258,
+      "sha256": "218d7edeb817e83b9648b1ff4de7de66e201ebfa886c580037611db20cbd2cad"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38358,
+      "sha256": "1467cd32148d4f7a7d7335eb1ee1f5dc624f3f680182166a4c20e44878df3249"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

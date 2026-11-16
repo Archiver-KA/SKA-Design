@@ -1,0 +1,66 @@
+{
+  "id": "SN-W02851",
+  "title": "Burger Heaven Restaurant Landing Page Template",
+  "summary": "A vibrant and mouth-watering restaurant landing page template designed for burger joints and fast-food eateries with built-in shopping cart functionality.",
+  "tags": [
+    "Food",
+    "Services",
+    "Landing Page",
+    "Clean",
+    "Colorful",
+    "Animated",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3658,
+      "sha256": "ec6d0c9d1a169d008f9f4bd6eaad1cb9afd10dcd41744274399cdc7cc18e22c9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 23150,
+      "sha256": "d2d89144e09cd0edbba271e1bcf20929dd36f5029e755c964f019540d7b5ed00"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 826,
+      "sha256": "7ba1f106c2ee4ef0999522627278f17e7e09214a35a828349769474aa0fe0fbc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42716,
+      "sha256": "4480bf82c63fcd7ac63bc1989cdf3411e15cd550b9e18f749927172a5115444d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "cta",
+    "features",
+    "newsletter",
+    "footer",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

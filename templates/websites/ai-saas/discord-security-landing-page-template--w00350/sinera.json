@@ -1,0 +1,72 @@
+{
+  "id": "SN-W00350",
+  "title": "Discord Security Landing Page Template",
+  "summary": "A dark, futuristic landing page template for promoting a Discord member backup, recovery, and anti-nuke protection tool to community owners and server admins.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3836,
+      "sha256": "e0f31d4a77aba1ed7bdcf8f0f1dff6ec230d4f76f9a5148519b384fd5825ce9d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14606,
+      "sha256": "73a8c352a5d963240fa8dce3f534e186b3b04efcbf56b5656ea9b26c14c90714"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 877,
+      "sha256": "86a8b31abed662eb23eb8ee8a6291525f0a75b1fdb2b300d7a9075a91df3df94"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 384,
+      "sha256": "d28e0da27d454739ea58ef837f84182792af265804644c283ff46d9b2d4b6ad8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39777,
+      "sha256": "c4e6acb75be16766c00ec108160904c1c956fe86c3c981ed33f8b52ae11ef7f7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "logo-cloud",
+    "navbar",
+    "hero",
+    "stats",
+    "marquee",
+    "bento-grid",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

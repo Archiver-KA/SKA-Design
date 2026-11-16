@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01040",
+  "title": "Indigo Tailwind Sign-In Button",
+  "summary": "Utility-class button labeled “Sign In” styled with Tailwind CSS indigo palette. Includes hover, focus, and active states, ring focus outline, and responsive cursor/selection behavior. Suited for login forms or primary call-to-action areas.",
+  "tags": [
+    "button",
+    "sign-in",
+    "tailwind",
+    "interactive",
+    "primary",
+    "authentication",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1378,
+      "sha256": "4cb44002fd378fdfaca3942107c46c33f8f1c5a831809ae2efd736e0449bbecd"
+    },
+    {
+      "path": "component.html",
+      "bytes": 648,
+      "sha256": "b0b71da3dce36c5095a4589628c33421cc14a39ef0e5d8bfa382cdc17819211d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1499,
+      "sha256": "5261e5d76880efaea9db39b9f11084511f166f8ab7b04373fb1177340a3aa959"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

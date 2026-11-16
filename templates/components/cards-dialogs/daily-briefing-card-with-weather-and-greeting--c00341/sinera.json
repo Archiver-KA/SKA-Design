@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00341",
+  "title": "Daily Briefing Card with Weather and Greeting",
+  "summary": "Responsive two-column dashboard card showing a morning greeting, date, news highlights, and a dark weather widget with current conditions and 5-day forecast. Built with Tailwind CSS for use in home pages or personal dashboards.",
+  "tags": [
+    "card",
+    "dashboard",
+    "weather",
+    "widget",
+    "tailwind",
+    "responsive",
+    "greeting",
+    "forecast"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12974,
+      "sha256": "3bb970ffb57c4761ef14fb02ff09c15b39e7a1c2bac3677a0ae4b32897776cf7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4764,
+      "sha256": "c32ef92cab500ff9e42553b7281324f7db61372b57d3714ec42b152a7383c514"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5630,
+      "sha256": "56e2592f9ce284b14e6d762503b2675aed22575c16b8012eb0d822975a11d928"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

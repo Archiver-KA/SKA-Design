@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00029",
+  "title": "Responsive About/Profile Card with Image & Stats",
+  "summary": "Dark Tailwind CSS about section featuring portrait, bio, location pin, and animated stat overlays; responsive grid adapts to mobile and desktop, ideal for portfolio hero or team member profiles.",
+  "tags": [
+    "about",
+    "profile",
+    "tailwindcss",
+    "responsive",
+    "stats",
+    "image",
+    "grid"
+  ],
+  "kind": "components",
+  "category": "about",
+  "categoryLabel": "About & team",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 27682,
+      "sha256": "032e48d57b2183ea595fcbf25bb5775fc6074f52218764629151185358beef42"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4960,
+      "sha256": "051d74313ce608a6152babaaa23664a2d269e8b0f35cb60d1293dff524f0a057"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5963,
+      "sha256": "2b97396d46e348afcf1e55e17dfc104cd81e1afe2355ebd3215d5990ad9da2cf"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

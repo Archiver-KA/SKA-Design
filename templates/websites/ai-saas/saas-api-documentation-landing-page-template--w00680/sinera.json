@@ -1,0 +1,61 @@
+{
+  "id": "SN-W00680",
+  "title": "SaaS API Documentation Landing Page Template",
+  "summary": "A clean and functional developer-focused landing page template designed for showcasing API endpoints, deployments, and secure code generation services.",
+  "tags": [
+    "Technology",
+    "Documentation",
+    "Landing Page",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Flat",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3464,
+      "sha256": "07a67fa93dbe7abb780ac50e08f7c7c1e5dc046f6baff60203867300b41ef505"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14516,
+      "sha256": "70654afebdabab20882688b9fc2e3de8a848f552656fddbc7a1a0d345a7d0f78"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "72e446166a68778c5a7a5da25de1a0d263b684e104fd6672be745376de35bd1d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11904,
+      "sha256": "52853437f925494ae81aae980a12ecd87111c9da1423311542a1822e8ca1ad69"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

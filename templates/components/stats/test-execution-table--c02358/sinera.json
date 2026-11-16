@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02358",
+  "title": "Test Execution Table",
+  "summary": "Data table showing recent test execution results with run IDs, suites, duration, and status indicators",
+  "tags": [
+    "table",
+    "data",
+    "testing",
+    "execution",
+    "status",
+    "responsive",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10206,
+      "sha256": "bd32f61c9060b9f39828279b8eeeb4fdece5823776834f089f887ccdba6a50eb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4245,
+      "sha256": "12a69401a89923fe1b9fa089188b86ac5b63c79203b7b061028af7f349bf6802"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5086,
+      "sha256": "08e3716f260549ae7002d2dfac3a84171e3f3979530255ce800901131bdbc3e8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

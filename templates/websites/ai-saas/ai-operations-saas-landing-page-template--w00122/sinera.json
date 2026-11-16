@@ -1,0 +1,72 @@
+{
+  "id": "SN-W00122",
+  "title": "AI Operations SaaS Landing Page Template",
+  "summary": "A modern Beam-style SaaS landing page template for AI-powered operations platforms, ideal for showcasing autonomous agents, features, and developer-focused integrations.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "SaaS",
+    "AI",
+    "Developer Tools"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3923,
+      "sha256": "b24e4252d2d05d5c00faccacb48f01d1233753efda88410b7232feddbb3746f2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13660,
+      "sha256": "c198b13bf664d8f3ae5af3593d20f9fbd888b88634c7b46d0047dcfa0516343a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 879,
+      "sha256": "cbf758c32ae833adab802db81d80f6c62e404dd962ecbc3a6c890e7b04a3441e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 395,
+      "sha256": "ab32cac0a3bc7611d100e888895b9253d75c9d3ae0acfb06e97445ff6bb5c72d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28286,
+      "sha256": "490d13844c9e868f18ec59069a2bc4479602ab284a9168d6d944d2c9ff73319c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "how-it-works",
+    "code-terminal",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

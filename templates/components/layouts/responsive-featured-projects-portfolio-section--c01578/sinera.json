@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01578",
+  "title": "Responsive Featured Projects Portfolio Section",
+  "summary": "Tailwind-based section displaying featured projects in an animated, responsive grid of hover-elevated cards with images, tags and call-to-action links—ideal for agency or personal portfolio pages.",
+  "tags": [
+    "portfolio",
+    "grid",
+    "tailwind",
+    "responsive",
+    "animated",
+    "hover",
+    "section"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22616,
+      "sha256": "243e6e88d1babe21518026e9aafd1e19b9d7cf1a6cbcf2652ee07cad348a3259"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13416,
+      "sha256": "4bb5ebe92e4d5f95e8421204db44ba76e7619b90852c72e6dece36faa44a116a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14283,
+      "sha256": "e248cae32a65c755f3b43f8a7b3e15c814ea264ccc20f253e8400ee0c97f6062"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

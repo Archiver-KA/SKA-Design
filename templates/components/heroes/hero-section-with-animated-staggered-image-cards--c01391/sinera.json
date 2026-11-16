@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01391",
+  "title": "Hero Section with Animated Staggered Image Cards",
+  "summary": "Eye-catching hero section featuring meta label, bold headline, CTA button, and a 3D-tilted image strip with staggered fade-in animation. Built with Tailwind CSS and fully responsive; ideal for portfolios, SaaS landing pages, or product showcases.",
+  "tags": [
+    "hero",
+    "landing",
+    "tailwind",
+    "responsive",
+    "animated",
+    "image-cards",
+    "cta",
+    "portfolio"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 36418,
+      "sha256": "9519356884b1e6981a2712c80d0cbb8fa15019349f833b0f50f927b6e1179401"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4608,
+      "sha256": "569a55946586d250b7b231c95c528e0f39e0e0eff3e574952afc8f1b574d4a82"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5477,
+      "sha256": "2f0e92123e689ad5beacc7b47b65bcf9cb4362b51b9b97d42f6c1df0da88ede0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

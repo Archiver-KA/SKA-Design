@@ -1,0 +1,66 @@
+{
+  "id": "SN-W03190",
+  "title": "Architecture Project Case Study Page Template",
+  "summary": "A minimal, editorial-style template for showcasing a single architecture project case study with imagery, specs, and narrative — ready to reuse for your portfolio.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Minimal",
+    "Clean",
+    "Grid",
+    "Large Type",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3483,
+      "sha256": "a6e1f705409f1d9992befe0624742a8dd0c6f50210fba3ac9b389d405f9668f6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13828,
+      "sha256": "a9eeb9e0486c15ee677f6e4f372a3534d38c079e00d51370e113f8ee1e05faaa"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "c28aed1f7c39f0610406a28216372dbdd841da7b9fd81dc4effe373fca1e068d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34780,
+      "sha256": "8c232805c685b692bdb7562dab4d58eafafb73b57f5c2f6a08234c01878d5494"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "services",
+    "features",
+    "blog-articles",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

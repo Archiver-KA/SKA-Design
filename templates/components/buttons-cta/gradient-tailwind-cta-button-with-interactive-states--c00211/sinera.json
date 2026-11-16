@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00211",
+  "title": "Gradient Tailwind CTA Button with Interactive States",
+  "summary": "Primary call-to-action button styled with Tailwind utilities, gradient overlay and inset shadow. Provides smooth hover, focus ring, active and disabled states. Ideal for sign-up, form submissions or any prominent action in responsive web apps.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "interactive",
+    "gradient",
+    "responsive",
+    "hover",
+    "focus"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1732,
+      "sha256": "b3bac6da5b3a4bf7aaaca3b8cbdb6519c8d2b4c49b06aeda9303fe939f478c7f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 821,
+      "sha256": "da51c34e6b2881d4a9374a2cf4e2d62a9eb00d39b3d95b8d4206bc752d67777f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1694,
+      "sha256": "ff20911779c15baf01dd7c0ed5bfea7f8d5f4f0f0c8328d11a5b1dd9e6c0448c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

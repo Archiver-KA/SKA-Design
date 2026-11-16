@@ -1,0 +1,16 @@
+<svg class="absolute top-0 right-0 bottom-0 left-0 w-[364px] h-[422px]" viewBox="0 0 500 260" preserveAspectRatio="none" stroke-width="2">
+                <!-- Grid lines -->
+                <g stroke="#0F4A33" stroke-width="0.5" opacity="0.3" class="">
+                  <path d="M0 40 H500"></path>
+                  <path d="M0 80 H500"></path>
+                  <path d="M0 120 H500"></path>
+                  <path d="M0 160 H500"></path>
+                  <path d="M0 200 H500"></path>
+                </g>
+
+                <!-- Main curve -->
+                <path d="M0,220 C80,210 150,180 220,165 C290,150 340,100 390,80 C440,60 470,40 500,30" fill="none" stroke="#0AB979" stroke-width="3" class="animate-draw-line"></path>
+                
+                <!-- Fill area -->
+                <path d="M0,220 C80,210 150,180 220,165 C290,150 340,100 390,80 C440,60 470,40 500,30 L500,260 L0,260 Z" fill="#0AB979" fill-opacity="0.1" class="animate-chart-fill"></path>
+              </svg>

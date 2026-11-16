@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00233",
+  "title": "Order CTA Button with User Avatars",
+  "summary": "Horizontal call-to-action area featuring a rounded 'Order Unit' button with arrow icon and overlapping user avatar stack indicating social proof. Built with Tailwind utility classes for responsive layout and hover transitions.",
+  "tags": [
+    "button",
+    "cta",
+    "avatars",
+    "social-proof",
+    "tailwind",
+    "responsive",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5664,
+      "sha256": "e4f24fc8135f585c4a464f73828a726597aeddf5f25bef44864e58280764fd0c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1526,
+      "sha256": "1c118b5a9337ef48ad7abcfc711df3aa419de35f8808f74de39198dc683b1ca4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2511,
+      "sha256": "84d8281ee83235da9b8e39c4a6048985e5b39c2ef3f7bc0c6fcaaca0afac3670"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": "SN-W02452",
+  "title": "Medical & Plastic Surgery Landing Page Template",
+  "summary": "A premium, elegant landing page template designed for medical clinics and plastic surgery centers looking to showcase procedures with a sophisticated aesthetic.",
+  "tags": [
+    "Health",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Landing Page",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3604,
+      "sha256": "46471368b60dc74eac6131b4f42dc0eed74e30848065c213e3bb97a92740e901"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19830,
+      "sha256": "856cb64a62e181d062adc3504f9de907060a2d2cab88bb97297d31fc4437d676"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 3192,
+      "sha256": "6a50da1db374bbb80ba055248c82e6ff6d1cdd3e5fb69647ba78728cac1c459d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 496,
+      "sha256": "fe4ee25316683bd868486775a3c1ddbdd4bcba920a83a3ff5e50f3307053cacc"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 351,
+      "sha256": "3f0e254f587cae83ab0651e329e6e8e8db3d2e77d0c1ae20c724c0cd625d7ec2"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 441,
+      "sha256": "f2e1c277c2c69bf85d984a79e27ddba94e97cd407386d448f60a7662f5307189"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 417,
+      "sha256": "3679d77c6567091d1f1a44cb5f904f290cc2bc68d3a520eea1288286051d160f"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 313,
+      "sha256": "0763b4c281b284dd1856de1234631861a54933a6c3bc66d1b220d77165e21eae"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 470,
+      "sha256": "024bd947f75e7f0e3c68d2dd619eade9825052b0fb48305aa57c8353205391cc"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 388,
+      "sha256": "bf62bfc6f61f9bc59036d3176104be1fd1d9c3bf2cd2db2df73a615459054623"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 2290,
+      "sha256": "305fba88a6d635d71912873c1f6c315d5579cadd2395464dbbe0096c264c1fcf"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 712,
+      "sha256": "a4bc9928184e4b9e25dcdf37fe7a76aa794f7748abeae0a43e19bc7d09263360"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 451,
+      "sha256": "ad92cddb0b9e6cb69d060dd98b0de8c58f0d8617fa238b542f9f2b7a0f29ad80"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 514,
+      "sha256": "0d3e0cffb5191b950f8b5abc12d94039df77efc729b09d761719d01184998314"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 393,
+      "sha256": "416e588dac325c2efef5cac90b15a88089a3ef79d869aa1cdf8fbb64ebd1e410"
+    },
+    {
+      "path": "index.html",
+      "bytes": 45231,
+      "sha256": "171a18524cda856f1ff88bb13b7af5a9a21b00bc73e48b44870eb714c66f16f3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "features",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "broken-images"
+    ],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

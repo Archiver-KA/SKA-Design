@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00167",
+  "title": "Gradient CTA Button with Arrow Icon",
+  "summary": "A glossy gradient call-to-action button with arrow icon, hover and active press effects, and responsive full-width-to-auto sizing. Built with utility-style classes, ideal for trial signup, onboarding, or promotional actions.",
+  "tags": [
+    "button",
+    "tailwind",
+    "cta",
+    "gradient",
+    "interactive",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2266,
+      "sha256": "322370f560c09687112e90e220288983941d923499214261d844b5c2525645ff"
+    },
+    {
+      "path": "component.html",
+      "bytes": 570,
+      "sha256": "1c012b7143b1d9d85f3755dcc87d163b320f97b26f59f926eeb4cbdb6a13b48b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1516,
+      "sha256": "9cc762288a8ee6a82926e66a9a2a0cd9afcbc758e823bb44d9d11217ea268b7d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

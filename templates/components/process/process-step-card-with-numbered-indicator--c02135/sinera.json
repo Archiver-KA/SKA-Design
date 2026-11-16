@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02135",
+  "title": "Process Step Card with Numbered Indicator",
+  "summary": "Dark-themed Tailwind card showing a workflow step: title, numbered badge with progress dot, and brief description. Responsive grid layout suits timelines, onboarding flows, or project roadmaps.",
+  "tags": [
+    "card",
+    "timeline",
+    "step",
+    "process",
+    "badge",
+    "tailwind",
+    "responsive",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3594,
+      "sha256": "359e3fae5e26a3bbd07e8765955e52f005004e2644e0c524d2be2ba22b5b96f3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 875,
+      "sha256": "7e22e8eb5c37e37e110f36a0f3736fa5397f41f110dbcdcbb1e1d747d4e7a041"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1737,
+      "sha256": "622fe46e638cd5ec730e68be81025825d0a91df33b74b623bfe7321a405fb11c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

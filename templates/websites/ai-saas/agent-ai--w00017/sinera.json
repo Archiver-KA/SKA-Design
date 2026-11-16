@@ -1,0 +1,78 @@
+{
+  "id": "SN-W00017",
+  "title": "Agent AI",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3214,
+      "sha256": "4c929c7f63cf65baea2038a625579a97e108ab1506fc95d2ef034fbf05122796"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14154,
+      "sha256": "61fb50a8e389b9929e5314db6c8314b43b83024c9b3522f047dc4fc60778afa7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1040,
+      "sha256": "fb05b8eac0d460624701a619eb5aa9c72cc75af450fe99f97aa67b818ed68f66"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 252,
+      "sha256": "802ee51ad534bde5ede3e86164ad3ba38ef066c5adc14ce10d40a23b54153326"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 451,
+      "sha256": "16a502f727e2f0e11315488e6da708a67912d002cd153adfa571b5acebca9aaa"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4252169,
+      "sha256": "acdb658de4c8f18973735177a2432a870b13ac1b596bf9727ed62330784952b3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "sidebar",
+    "hero",
+    "cta",
+    "features",
+    "stats",
+    "integrations",
+    "pricing",
+    "blog-articles",
+    "team",
+    "faq",
+    "testimonials",
+    "product-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "huge-file"
+    ],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

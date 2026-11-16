@@ -1,0 +1,63 @@
+{
+  "id": "SN-W03715",
+  "title": "Interactive RPG Landing Page UI",
+  "summary": "Responsive landing page with animated button, feature highlights, and a dark-themed RPG game introduction.",
+  "tags": [
+    "Landing Page",
+    "Animated Button",
+    "Tailwind CSS",
+    "Dark Theme",
+    "Responsive Design",
+    "Features"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3075,
+      "sha256": "d32d956e0ebbc78c36e91662bbddc2bcaaf9e105ce2ff22fc96dd48b692d5370"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15364,
+      "sha256": "521078a1c7b1ba568b0994fe796346e2e9995042822e99cc58d3241247d3a3d5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 866,
+      "sha256": "17dc08e9d839f00854bc214c6580fa9dd7d7d2225445f1e958d68ebbfed032f3"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 545,
+      "sha256": "3cd266ae4f0160c1897a268e27ebbe7e753ffeff39d961847774a19a652e1cd6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5955,
+      "sha256": "14090d89d753bd2e394356a3faa95ae9c6da63215c66a3e6f5014ea76af4be37"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "SN-W04146",
+  "title": "3D Interactive Globe Visualization",
+  "summary": "Displays a rotating 3D globe with location markers and descriptive info using WebGL and Tailwind CSS styling.",
+  "tags": [
+    "3D Globe",
+    "WebGL",
+    "Interactive Visualization",
+    "Tailwind CSS",
+    "Canvas",
+    "Location Markers"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2851,
+      "sha256": "5410f87b10e0f6a5f417b353a726c5f32a8ca2c0a8644a35860a20a74c4bf31b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6732,
+      "sha256": "306439ff2b7c9de742d41a2d4eba06b72d9007599e645abfb1d43527f8007c24"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 727,
+      "sha256": "e51d31d61b4d0e044b435629d9ab9c907925ea30a427072b6f408edfe4d6f2f8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2907,
+      "sha256": "b25621462b5ab03dcd04dbaa7140f5168cd2d55efc124ace7a5c6bf7afbe5a33"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "3d-canvas"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

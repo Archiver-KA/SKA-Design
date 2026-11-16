@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01980",
+  "title": "UnicornStudio Project Embed Container",
+  "summary": "Embeds a UnicornStudio project using a sized div and auto-loading script from CDN. Initializes once, displaying interactive prototypes or micro-apps within any webpage.",
+  "tags": [
+    "embed",
+    "widget",
+    "unicornstudio",
+    "javascript",
+    "integration",
+    "interactive",
+    "prototype",
+    "container",
+    "background"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14188,
+      "sha256": "5f803032a8acb3d4b4b5e29846443dcbfb8330196b17181284653d753fb6d69e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 535,
+      "sha256": "8b90553218d92b51d52572f1255fc086f20c6cb444b18f2f4d6298883f2cade4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1393,
+      "sha256": "8797c8af5b0f2011bd944bb8d71c09dc34e7efadaa63cdaab38fdc9b361e0a3a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

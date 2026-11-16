@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03534",
+  "title": "SOL English Education Template",
+  "summary": "A modern English learning community template designed to promote speaking-first courses, group coaching, and student progress tracking.",
+  "tags": [
+    "Education",
+    "Landing Page",
+    "Services",
+    "Dark",
+    "Animated",
+    "Clean",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3651,
+      "sha256": "86e2ac90eca4f3a1fdf3c9c5f638cca59eb69252cb07d5005398be2aa96253e7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17762,
+      "sha256": "240c462453b8dc5f23d3a901c955c944d1f6b1a6cbc9f4455075bf79efa091a4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 718,
+      "sha256": "4c0906d82b500c9b82cc48e445653e5208e6a62ed255cdac8208c21506730a9c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 61658,
+      "sha256": "dc5bc4d6e16ad65be64f6b91ac77a8dcb4e2a32ab0906a55da952badb2f04a09"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "services",
+    "features",
+    "team",
+    "how-it-works",
+    "testimonials",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

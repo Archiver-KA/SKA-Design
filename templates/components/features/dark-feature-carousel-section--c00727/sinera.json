@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00727",
+  "title": "Dark Feature Carousel Section",
+  "summary": "Full-width dark themed feature carousel with horizontally scrollable cards, image previews, titles, descriptions, and CTA buttons. Includes prev/next controls using smooth scroll and Tailwind-style utility classes. Ideal for showcasing product modules or capabilities.",
+  "tags": [
+    "feature",
+    "section",
+    "carousel",
+    "card",
+    "interactive",
+    "responsive",
+    "tailwind",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 34824,
+      "sha256": "a288da8880a7fb52b8ab6e74c672b216775825bdb2d3e4847b491ddbd99005c1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 14273,
+      "sha256": "8db5d4269b7322197976386bca198d6d0677a08fb8d953d0babf2fbee12743df"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15123,
+      "sha256": "17570509bf1a1c2c61b782d4f3dbad45c1087bad99af59502715e5d3594c5a10"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

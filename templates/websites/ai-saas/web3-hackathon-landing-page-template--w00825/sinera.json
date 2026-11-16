@@ -1,0 +1,73 @@
+{
+  "id": "SN-W00825",
+  "title": "Web3 Hackathon Landing Page Template",
+  "summary": "A dark, futuristic Web3 hackathon landing page template designed to recruit developers, showcase tracks, prizes, and timelines, and drive registrations.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Large Type",
+    "Clean",
+    "Web3",
+    "Hackathon"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3557,
+      "sha256": "241abdf1b895f83aafc241466dad5d80992a861eb921d2e961bd148a6ecc85a4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14908,
+      "sha256": "517f8c0ca7b469cc42211983123108fd1d6c6e53571cd1895587117b2993eef1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 875,
+      "sha256": "8670376aa13ccf49d5a190fed07a4c3d999f110cac489f29da16c1246178d5e0"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 398,
+      "sha256": "f8846c3e5148c0e186fc1b2a6f8c069b83e4199e256dd300e2b08ce4dbaa0450"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23642,
+      "sha256": "95d25429fc2a79de19406c2b68036eaad4f81622f44ec1f4d5b61354b0a3a696"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "features",
+    "product-grid",
+    "schedule-agenda",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

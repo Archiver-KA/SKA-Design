@@ -1,0 +1,60 @@
+{
+  "id": "SN-W04156",
+  "title": "Animated Shader Circle with Testimonials",
+  "summary": "Displays an animated multilined shader circle background with fading testimonial cards using WebGL and CSS animations.",
+  "tags": [
+    "Shader",
+    "WebGL",
+    "Animation",
+    "Testimonials",
+    "CSS Animations",
+    "Canvas",
+    "IntersectionObserver"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2711,
+      "sha256": "3be06b5e29ff52655d6dfa97579d2cece1c68fae3bef2359eca7cc2bf0e0a9c0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22076,
+      "sha256": "191143cda0f46bf54a068f0c983bf4ae9eb44fd9565536fba74e004791ff180d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "f33a7e36f28987c15f3485761974277b7c02cc81a28775445f2dcf041a959087"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8956,
+      "sha256": "7eac67907d545aa23a1834bb03ba2b57c426c0a039bfcdd0998d2c8b0cd10476"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "testimonials"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

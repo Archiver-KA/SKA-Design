@@ -1,0 +1,85 @@
+{
+  "id": "SN-W01493",
+  "title": "Creative Studio & Digital Agency Template",
+  "summary": "A high-impact, brand-forward creative agency template designed to transform ideas into cinematic digital experiences with advanced animations.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Portfolio",
+    "Animated",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3285,
+      "sha256": "b142168a035baaf1f0e981658816825bdd630b55656af8623faa0a097e9ff619"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4072,
+      "sha256": "08859644cc235302dc2d798d91d1ac14ec5619fa853be7b54d5fb70e48fbe8a9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1467,
+      "sha256": "0bbc35b25c465a93a6198ecb972f17db3fb20c21e74798cfb8233ed5ddf1b367"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 372,
+      "sha256": "36339db1d9d88bd96acf2182b2bc818f21894c63c4429302504485876a39b9c7"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 390,
+      "sha256": "81512df0e547af87da78ea1b162c0852b7f1b3a37447f992653cdd4e52d2b19a"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 439,
+      "sha256": "065531f69f14199c8abce52914be9ce8ba9286f1f23f8359d3bfe0fcf5d532cf"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 286,
+      "sha256": "6b2378408375123705e3c59aa7f4d3cf723ba30ec62cc17538491ca401044209"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33683,
+      "sha256": "13b850ea01498a54444faa0ab3f309264051f5794fb0ddf2484b81ab135bf8f2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "gallery-portfolio",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

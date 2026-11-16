@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01036",
+  "title": "Gradient Sign In Button with Icon (Tailwind)",
+  "summary": "Full-width submit button featuring gray gradient background, lucide login icon, hover ring and shadow effects. Built with Tailwind CSS utility classes for interactive authentication or call-to-action interfaces.",
+  "tags": [
+    "button",
+    "tailwind",
+    "gradient",
+    "icon",
+    "interactive",
+    "auth",
+    "full-width",
+    "hover"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1578,
+      "sha256": "10906da1c067a1fff4e9714480047dcf8fecd343574ad15425110b938035ef15"
+    },
+    {
+      "path": "component.html",
+      "bytes": 993,
+      "sha256": "de02f9ac4d956011863a5f7ffd8b50f6f0026f4b57be51f2d6be21f11fbed606"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1858,
+      "sha256": "6b1a4afd2f8f5979a0be03d5d8cb84c7e0db8aa8ea3ee08aa45295b1b35494b8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

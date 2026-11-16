@@ -1,0 +1,46 @@
+{
+  "id": "SN-C01056",
+  "title": "Project Location & Land Details Form Section",
+  "summary": "Responsive Tailwind form segment capturing project address, cadastral parcel list with add-row, auto-calculated land area, and impermeabilization data. Includes tables, read-only fields and validation button for property or urban planning apps.",
+  "tags": [
+    "form",
+    "address",
+    "table",
+    "tailwind",
+    "responsive",
+    "input",
+    "property",
+    "parcel",
+    "land",
+    "urbanism"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 23216,
+      "sha256": "08d6eea4a5ea370d02ca51e93662f99b8e0656561ef21550e580bf96a5d84480"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10240,
+      "sha256": "3a08151fc86599edb06508342e18730d69e287a5b3eaa808082a67a992fa0331"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11239,
+      "sha256": "937b8b242c0f6864c80bf6b46d6500e73f39f6402a767afac28539dded327328"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

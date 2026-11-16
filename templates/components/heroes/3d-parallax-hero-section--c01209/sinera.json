@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01209",
+  "title": "3D Parallax Hero Section",
+  "summary": "A full-screen Tailwind CSS hero with layered 3D parallax motion, ambient glow effects, floating UI panels, and interactive mouse-driven depth. Ideal for futuristic landing pages, product showcases, or immersive tech interfaces.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "parallax",
+    "interactive",
+    "animated",
+    "fullscreen",
+    "futuristic"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19910,
+      "sha256": "4e7dadd50a240c3433a3264c9409722fdc21bd32528df78c14f516c1a8fe1142"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10807,
+      "sha256": "f55e2d16aa7f3afa3baa29c1689bb09f8d1bb9af3419416179e5fd44f8a8374c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

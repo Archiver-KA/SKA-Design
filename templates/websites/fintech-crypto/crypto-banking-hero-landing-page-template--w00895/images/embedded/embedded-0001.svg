@@ -1,0 +1,16 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none z-0" viewBox="0 0 1000 600">
+                <defs>
+                    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+                        <stop offset="0%" stop-color="rgba(0,0,0,0)"></stop>
+                        <stop offset="50%" stop-color="rgba(0,0,0,0.1)"></stop>
+                        <stop offset="100%" stop-color="rgba(0,0,0,0)"></stop>
+                    </linearGradient>
+                </defs>
+                <!-- Background static lines -->
+                <path d="M 200 100 L 500 300 L 800 100" stroke="url(#lineGrad)" stroke-width="1" fill="none"></path>
+                <path d="M 200 500 L 500 300 L 800 500" stroke="url(#lineGrad)" stroke-width="1" fill="none"></path>
+                
+                <!-- Animated Data Beams -->
+                <path d="M 100 150 C 300 150, 400 250, 450 300" class="noodle-beam"></path>
+                <path d="M 900 450 C 700 450, 600 350, 550 300" class="noodle-beam" style="animation-delay: -1s;"></path>
+            </svg>

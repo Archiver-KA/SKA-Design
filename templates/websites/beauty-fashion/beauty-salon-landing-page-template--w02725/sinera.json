@@ -1,0 +1,68 @@
+{
+  "id": "SN-W02725",
+  "title": "Beauty Salon Landing Page Template",
+  "summary": "A sleek, reusable template for beauty salons and unisex studios to showcase services, highlight expertise, and drive online appointment bookings.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Fashion",
+    "Dark",
+    "Clean",
+    "Gradient",
+    "Minimal",
+    "booking",
+    "salon",
+    "beauty"
+  ],
+  "kind": "websites",
+  "category": "beauty-fashion",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3589,
+      "sha256": "56fca257a45decea6214214e69b0b812ed53e9e139e6439a476aceaa1325b62e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16636,
+      "sha256": "bc8e1498c96e3ecf106d6f6360aa373fdb47fdfee42ec3209c86b317d5258d86"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 812,
+      "sha256": "f91f02859a41f9d47c637952453e75d53ab04736c5f7a0eccbdeda10d73da4cc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22978,
+      "sha256": "0d037abfd6e0b75d013ff8710dbd11b265f5e902d065c14c89d0f632570c343b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "beauty",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Beauty / Fashion",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01245",
+  "title": "Animated Furniture Hero Section with WebGL Reveal",
+  "summary": "Full-screen ecommerce hero section for a luxury furniture brand, featuring animated headline lettering, WebGL image reveal, navigation bar, supporting copy, CTA button with beam effect, and stats bar. Built with Tailwind-style utility classes and custom CSS/JS animations.",
+  "tags": [
+    "hero",
+    "section",
+    "animated",
+    "responsive",
+    "ecommerce",
+    "tailwind",
+    "webgl"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 17800,
+      "sha256": "3e9b34db271364c7268ff277ac82ff4a7a6944cbe099b161f4d0a76827f0fa88"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11906,
+      "sha256": "586eb58615f0affe4dc964503034f015b7c08f369fb222f9e7db3d7e254d817e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12776,
+      "sha256": "37559599004a745cd904692bdf00789c1730aae480e82c72d66535a8403a15c7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

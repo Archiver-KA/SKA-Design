@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02171",
+  "title": "Mobile Product Detail Page with Add-to-Cart Bar",
+  "summary": "iOS-style mobile product detail screen showcasing hero image, color swatches, ratings, key features, specs, quantity selector and sticky blur add-to-cart bar. Uses Tailwind utility classes and Lucide icons—perfect for e-commerce apps or prototypes.",
+  "tags": [
+    "product page",
+    "ecommerce",
+    "mobile",
+    "tailwind",
+    "ios",
+    "add to cart",
+    "responsive",
+    "card"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20614,
+      "sha256": "2962f327453416f2d744967093be8268feec49cec4c830329651f8dc1597f5ef"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13562,
+      "sha256": "8df92fa136f72604839c96d2e0f7ce17a8a3ae7e4dee2d368ce96e49ec1602f0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14560,
+      "sha256": "25d60ea85f150aae2667a444c536cbeb6a98ecf4b8557b62dd806010cfe9544a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

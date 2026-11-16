@@ -1,0 +1,66 @@
+{
+  "id": "SN-W02100",
+  "title": "Luxury Real Estate Portfolio Landing Page Template",
+  "summary": "A high-end luxury real estate portfolio template for showcasing estates, fireplaces, and garage systems with immersive visuals and an elegant contact flow.",
+  "tags": [
+    "Landing Page",
+    "Real Estate",
+    "Portfolio",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Luxury",
+    "High-end"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3620,
+      "sha256": "8c271baa527a9b08c5945ea5043b2aea0d233c966105d81ed7860256e4e98983"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13346,
+      "sha256": "d1f85ff9e783efdfeeaaaf2a03d6e0ad713f86c40f987e039724ed71110091de"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "7be4c9f06c01327c3ad78c06555eff8ac9c0f272eb1df16a99466552945eb408"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30566,
+      "sha256": "3405685440bb5e47ff992d29fedc1597d55df626a21ec001f7a6f40a124bcbb0"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "modal-overlay",
+    "features",
+    "gallery-portfolio",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

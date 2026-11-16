@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02223",
+  "title": "Animated Database Schema Status Card",
+  "summary": "Stylized dashboard card displaying a live database schema overview with glowing hub, SVG wave animation and real-time stats (tables, relations, queries/s). Built with Tailwind CSS and custom keyframes; perfect for status panels or analytics dashboards.",
+  "tags": [
+    "card",
+    "dashboard",
+    "database",
+    "stats",
+    "animated",
+    "tailwind",
+    "widget",
+    "status"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11942,
+      "sha256": "1437cb36cafa422d4a14ad25998de9ef003f26aa2dbea66606f55c5f7b1233c5"
+    },
+    {
+      "path": "component.html",
+      "bytes": 16182,
+      "sha256": "c15ad0341ee411b93f7ef4dbd081089c7250d9a07cc201d32d9031f47b316144"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17039,
+      "sha256": "0b5f74f1a38f60687c334b2e88292aa830ce0efc7fc387343605d2b0a892c3e8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

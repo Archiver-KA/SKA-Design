@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00753",
+  "title": "Feature Highlights Section with Center Image",
+  "summary": "Responsive three-column marketing section: numbered gradient feature cards flanking a central image. Uses Tailwind CSS, glassmorphism, fade-in animations, and gradient rings—ideal for SaaS landing pages or product showcases.",
+  "tags": [
+    "features",
+    "section",
+    "tailwind",
+    "responsive",
+    "marketing",
+    "gradient",
+    "glassmorphism",
+    "animation"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 25924,
+      "sha256": "1a6568bafecc53e3c351d2f24d5bceb811cbce937ecd801e0f86a00148b8f489"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2987,
+      "sha256": "fbe4d16b7e93ecf781af4b88c626ce7463460f2ac63e85f7ce533832474634e3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3852,
+      "sha256": "2289a42761b6654865b449dbe9ceaf471f6af143f24e7e7d2ff3182804e18016"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

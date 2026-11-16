@@ -1,0 +1,23 @@
+<svg
+      class="fixed inset-0 w-full h-full pointer-events-none z-0 opacity-[0.03]"
+      preserveAspectRatio="none"
+    >
+      <line
+        x1="10%"
+        y1="100%"
+        x2="40%"
+        y2="80%"
+        stroke="#00e5ff"
+        stroke-width="1"
+        class="gsap-line"
+      ></line>
+      <line
+        x1="60%"
+        y1="100%"
+        x2="80%"
+        y2="60%"
+        stroke="#00e5ff"
+        stroke-width="1"
+        class="gsap-line"
+      ></line>
+    </svg>

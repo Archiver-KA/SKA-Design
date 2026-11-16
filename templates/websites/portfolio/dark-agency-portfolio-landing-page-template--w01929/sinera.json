@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01929",
+  "title": "Dark Agency Portfolio Landing Page Template",
+  "summary": "A sleek dark-theme agency portfolio landing page template for showcasing digital projects, services, and case studies with bold CTAs and stats.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Brand",
+    "Art & Design",
+    "Black & White",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Futuristic"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3370,
+      "sha256": "bb2cbcb145c41105ad6a71ffe499063d89821c7b8d35673ae285505c330a2a15"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13742,
+      "sha256": "018a191a9d89807df70f15a448d7fb8a700c4b35f2a3e83df5c11a2cb63589f8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 731,
+      "sha256": "f899b7e9d539a7d388a9f68e3f15371053505d58e9d5dd16ff1615552ff4d872"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33450,
+      "sha256": "d191d008aa57c6db6b4b20c704a064d79fa37b9906259d0a9c468be2e171d46c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "bento-grid",
+    "stats",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

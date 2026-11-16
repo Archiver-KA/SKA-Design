@@ -1,0 +1,56 @@
+{
+  "id": "SN-W04150",
+  "title": "3D Rotating Globe with Lines",
+  "summary": "Renders a 3D rotating globe with animated expanding and contracting lines using vanilla JS and CSS.",
+  "tags": [
+    "3D Globe",
+    "Animation",
+    "JavaScript",
+    "CSS",
+    "Tailwind",
+    "Interactive Visual"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2009,
+      "sha256": "3d0ead1f0603213d64e6ce48ceaeff071643d76e2f73b2a71e171a9642d29002"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6704,
+      "sha256": "463db0bb40c90b026cc5501d545c6374f46869c497e462ea435e1efa1d6833f2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 721,
+      "sha256": "10e9d6137da0c240421e5fc6fc54bb11abb2f73aaa0e150344206df2eb078f08"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3542,
+      "sha256": "cb49fef728ee1fa842e76ef5939e389f76bf02e60ca14f6d601f6fa7f9ba784f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

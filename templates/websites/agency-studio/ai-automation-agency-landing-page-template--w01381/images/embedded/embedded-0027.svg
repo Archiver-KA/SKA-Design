@@ -1,0 +1,16 @@
+<svg class="w-full h-full overflow-visible" viewBox="0 0 400 200">
+                        <defs>
+                           <linearGradient id="pipe-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+                              <stop offset="0%" style="stop-color:rgba(56, 189, 248, 0.1)"></stop>
+                              <stop offset="50%" style="stop-color:rgba(56, 189, 248, 0.5)"></stop>
+                              <stop offset="100%" style="stop-color:rgba(56, 189, 248, 0)"></stop>
+                           </linearGradient>
+                        </defs>
+                        <!-- Top Group Connectors -->
+                        <path d="M 50 10 C 150 10, 150 80, 250 80" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="2"></path>
+                        <path d="M 50 10 C 150 10, 150 80, 250 80" fill="none" stroke="url(#pipe-gradient)" stroke-width="2" stroke-dasharray="10 200" class="animate-[dash-flow_3s_linear_infinite]"></path>
+                        
+                        <!-- Bottom Group Connectors -->
+                        <path d="M 50 80 C 150 80, 150 80, 250 80" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="2"></path>
+                        <path d="M 50 80 C 150 80, 150 80, 250 80" fill="none" stroke="url(#pipe-gradient)" stroke-width="2" stroke-dasharray="10 200" class="animate-[dash-flow_3s_linear_infinite_1s]"></path>
+                     </svg>

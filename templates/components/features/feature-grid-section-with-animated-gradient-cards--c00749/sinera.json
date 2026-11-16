@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00749",
+  "title": "Feature Grid Section with Animated Gradient Cards",
+  "summary": "Responsive landing-page section showcasing features in a masonry grid. Each Tailwind CSS card has gradient borders, image overlays, icons, hover-lift and fade-in animations, ideal for marketing highlights.",
+  "tags": [
+    "feature section",
+    "card grid",
+    "tailwind",
+    "responsive",
+    "animated",
+    "gradient",
+    "landing page"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 57994,
+      "sha256": "f21fe433374eb012616c103578d53f1d093f3f6e88027e44f34d20ff74570b69"
+    },
+    {
+      "path": "component.html",
+      "bytes": 17655,
+      "sha256": "c657b10ac09eae83d3d199fdd7b84fd3b3c2984fec723503b6f140601bdfb774"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18525,
+      "sha256": "b17e5ae8822dc33c97007900701455ec82dce1639b48e70691b48a6a882c0e65"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

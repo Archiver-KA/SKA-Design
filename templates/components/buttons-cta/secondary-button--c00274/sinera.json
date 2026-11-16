@@ -1,0 +1,40 @@
+{
+  "id": "SN-C00274",
+  "title": "Secondary Button",
+  "summary": "A clean secondary button with border styling, perfect for sign-in actions or secondary CTAs. Includes hover state and responsive visibility.",
+  "tags": [
+    "button",
+    "secondary",
+    "responsive",
+    "authentication"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1802,
+      "sha256": "c4ae6d33b3a684b1db43ad3d1a5528d7d3a6d5b31cdeafe5cd1ffa29f70f47cb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 202,
+      "sha256": "18078d50e310b8be95c1b76e5db7c92b257be4ccd69d600c997584e7960f7ca2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1039,
+      "sha256": "178537d69758a197bf5abcceacbe473289a4736bfff265294ca39908aeb1edf2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

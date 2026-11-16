@@ -1,0 +1,41 @@
+{
+  "id": "SN-C00374",
+  "title": "Generic UI Component Stub",
+  "summary": "Placeholder or stub component with no identifiable structure or functionality. Can serve as a starting point for defining a custom UI element once actual markup and logic are added.",
+  "tags": [
+    "card",
+    "placeholder",
+    "stub",
+    "minimal",
+    "customizable"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2746,
+      "sha256": "5a1234f514bf95eaa7421f64a812c30a8078e33b38d4db89911f12052fd775b6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 16,
+      "sha256": "e110af605283f0feb196f94ab47382e0e75b55731f70739912a3670ce3724492"
+    },
+    {
+      "path": "index.html",
+      "bytes": 862,
+      "sha256": "1be185e0e2698073d6089912503c68a3bdb4c84110f53f3606b71ffc8cde4fe1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

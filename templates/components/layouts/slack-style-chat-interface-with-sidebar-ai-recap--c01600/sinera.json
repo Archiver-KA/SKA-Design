@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01600",
+  "title": "Slack-style Chat Interface with Sidebar & AI Recap",
+  "summary": "Responsive Tailwind chat interface featuring icon sidebar, channel list, threaded messages, composer, quick actions and AI recap. Vanilla JS powers message sending, auto-scroll and textarea resize. Ideal for team collaboration dashboards or support apps.",
+  "tags": [
+    "chat",
+    "messaging",
+    "tailwind",
+    "dashboard",
+    "interactive",
+    "responsive",
+    "vanilla-js",
+    "ui",
+    "team"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21788,
+      "sha256": "e7c22c4a4a05f981ca7e0bf7dd1ec0a394ee5b2f480ece11585150d75461b481"
+    },
+    {
+      "path": "component.html",
+      "bytes": 27218,
+      "sha256": "33053d0aca21729ac48a81463cf7ed8a9963b831fb4f7f32d9f1d03b437e5d32"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28223,
+      "sha256": "9a840a1fa7c949e179bea5413b4b27a767225216b93c7c84842d602563d55a16"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

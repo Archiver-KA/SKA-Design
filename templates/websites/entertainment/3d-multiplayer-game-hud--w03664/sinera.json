@@ -1,0 +1,57 @@
+{
+  "id": "SN-W03664",
+  "title": "3D Multiplayer Game HUD",
+  "summary": "Interactive 3D scene with player stats, leaderboard, controls, and character models using Three.js and Tailwind CSS.",
+  "tags": [
+    "3D Scene",
+    "Multiplayer HUD",
+    "Three.js",
+    "Tailwind CSS",
+    "Game UI",
+    "Character Models",
+    "Leaderboard"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2601,
+      "sha256": "af3746c654fca97d755a2cebf3b8c1a6d66116a1045f404e8449003dbdae2dcd"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6644,
+      "sha256": "e393ad3680be0275841de905b68c58d90d94802fe8b877f7b5aa8b645c90f401"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 715,
+      "sha256": "40f782ced334b1cba4e31e46e6156f7179596067ccfdffdf63c6ea43fa9a5622"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18044,
+      "sha256": "d465feb795076c842f3d3b2f84540b357cc06d72acb3a032fb0aca36adbcbef6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "snippet",
+  "components": [],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

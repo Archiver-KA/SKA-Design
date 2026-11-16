@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01833",
+  "title": "Basic Image Display",
+  "summary": "A simple, responsive image component with alt text for accessibility. Perfect for displaying photos, illustrations, or any visual content with semantic markup.",
+  "tags": [
+    "image",
+    "responsive",
+    "basic",
+    "accessible",
+    "simple"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 40434,
+      "sha256": "20d5bca443a7a44cff158486ea8bbece2969f50fe8f6ce2d2a7b9b9163b55a2f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 224,
+      "sha256": "486c29a726dc1da07d11bc8a437f699844626e524abf8eb6753ce68de884fe38"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1064,
+      "sha256": "c3385f43ce31c5436210b60c42b5f848c039a4ecb45fb0c9ec9925991bcf996d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

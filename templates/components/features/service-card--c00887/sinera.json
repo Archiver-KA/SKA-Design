@@ -1,0 +1,41 @@
+{
+  "id": "SN-C00887",
+  "title": "Service Card",
+  "summary": "A glassmorphic service card with icon, category badge, description, and service tags. Features hover animations and backdrop blur effect for modern agency portfolios.",
+  "tags": [
+    "card",
+    "services",
+    "glassmorphism",
+    "hover-effects",
+    "portfolio"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13702,
+      "sha256": "c5735f9a6923aef6d70ea2cc2006347cd958953b402b896638909c4a9e808d8d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1452,
+      "sha256": "bd85bd0b4594e8dbbc70e3fcfb0d8293abf8109343701de6bd50eff8bedffdd9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2285,
+      "sha256": "1fbf902583f1b594cf31209decf971689588b375b4df84aa81cecd6b2e802562"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

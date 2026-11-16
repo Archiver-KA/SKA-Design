@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00147",
+  "title": "Glass Button",
+  "summary": "A pill-shaped call-to-action link styled with Tailwind CSS, featuring a play icon and hover effects. Ideal for linking to demos, videos, or interactive previews in hero sections or feature areas.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "interactive",
+    "link",
+    "icon"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1724,
+      "sha256": "de32a5c384944822b960ec05910bcd9c03e59b366478856685827b5a49cdef63"
+    },
+    {
+      "path": "component.html",
+      "bytes": 621,
+      "sha256": "393de24420ffe47d5c0ce5152d65700bc4f6d1eb8d55def01d19efdec82c170c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1584,
+      "sha256": "e2c37702c1b294aa659e8d452c6d6313dadac3909616e0a761bb5a70d4be34e6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

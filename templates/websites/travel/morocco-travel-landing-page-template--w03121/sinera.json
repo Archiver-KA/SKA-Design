@@ -1,0 +1,106 @@
+{
+  "id": "SN-W03121",
+  "title": "Morocco Travel Landing Page Template",
+  "summary": "A vibrant Morocco travel landing page template for showcasing desert tours, top destinations, and authentic experiences with bookable itineraries.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Services",
+    "Brand",
+    "Colorful",
+    "Gradient",
+    "Large Type",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3693,
+      "sha256": "f6af28e56f3828c00abd35f90f8a64cfe26f3a068dcd6c3807e61e6049f3e822"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 46040,
+      "sha256": "4f8afe272155af4ec926511561deea7d77e3b5f474a584cfe3e7cf8b93646171"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2127,
+      "sha256": "425fd2fb6125b1ca5b7cc5a9f868f8f4687ca3cd9334c8a9c913a5f689b89471"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 523,
+      "sha256": "d734904585ea79281988f6b8f2d9afc479f0fe52ed1ff5f68eed29613d75338d"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 234,
+      "sha256": "1a6afbfb1faf5e102bfd6e8654fb9e0f69d1320bfc794416e0c6ba622f265f7a"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 207,
+      "sha256": "45d1303963eb4f64968e628cb27e0fcbd34c9e43ac11b6b180a4b814b4e81500"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 386,
+      "sha256": "e5dab34c740e4fd6f07368440f8435dffe67ae141ae7c66a6efdec67d2fe59e6"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 268,
+      "sha256": "8209c010aa4ed0e6a2907537dc5ebb131e6cbb48a467b454a86adb97a41b8b06"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 207,
+      "sha256": "814d83f8331bfc094e7bbbab6b7d919d1aaf3c32b760bdcb052daae7692c196f"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 1186,
+      "sha256": "66b70ec86a8f1a989f533a4f66161000883835a07a4eb3359ae0bb8b2c2605e3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39432,
+      "sha256": "8b6087cc9c71f8db56a529ceeb1faae6818347d18c775ea1bac12060e11c3901"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "product-grid",
+    "how-it-works",
+    "testimonials",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "broken-images"
+    ],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

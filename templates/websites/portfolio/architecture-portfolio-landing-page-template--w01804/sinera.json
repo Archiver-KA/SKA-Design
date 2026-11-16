@@ -1,0 +1,64 @@
+{
+  "id": "SN-W01804",
+  "title": "Architecture Portfolio Landing Page Template",
+  "summary": "A modern architecture portfolio landing page template for studios and architects to showcase selected works, studio philosophy, and project inquiries.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Minimal",
+    "Large Type",
+    "Dark",
+    "Clean",
+    "Brand",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3257,
+      "sha256": "dccf765dc854746213ce72f487294bb5878eee97596e118d6de1d26bc5ad3fd3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13786,
+      "sha256": "1dbdb43c86e335771b15d4254df5e99e2a68b92a239d809d19e7b964b4a7c687"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 732,
+      "sha256": "0d291a6f217d75dfd0cceed6727e9a47a2e40b46e683305e6d5c405b901e0683"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21275,
+      "sha256": "45008a99a371af411ded7a69ea260e96ca0be6805d077ce868cdabcca4a744d3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "SN-W01125",
+  "title": "Coco Home Furniture E-commerce Template",
+  "summary": "A refined and minimalist e-commerce template designed for premium furniture brands and modern interior design stores.",
+  "tags": [
+    "E-commerce",
+    "Interior Design",
+    "Clean",
+    "Minimal",
+    "Services",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3508,
+      "sha256": "d54e8665e269e464ba0430821bdcfa81dadcab513756d59d06ff8b6339ab4a04"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21018,
+      "sha256": "9acc2aba94d63151551fb1908b6b9536a83c1c7d2fe238789b7edcd5b72ddb64"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "63db7989e91b2a55d96ef8b28928610fe6b0a7e9ffa169cea946896ea57ce415"
+    },
+    {
+      "path": "index.html",
+      "bytes": 52273,
+      "sha256": "90e2f6e29e030c04204c78e415fe8450027ac26c57dbbdab79dc49a3f9d24170"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "features",
+    "cta",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

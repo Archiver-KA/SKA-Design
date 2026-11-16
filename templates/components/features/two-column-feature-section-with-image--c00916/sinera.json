@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00916",
+  "title": "Two-Column Feature Section with Image",
+  "summary": "Responsive marketing section featuring heading, subtext, check-icon bullet list, command callout badge, and product screenshot. Built with Tailwind CSS grid for landing pages or product feature highlights.",
+  "tags": [
+    "section",
+    "feature",
+    "marketing",
+    "tailwind",
+    "responsive",
+    "image",
+    "bullet list",
+    "landing page"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20534,
+      "sha256": "613d15a0d1e2586b436b6865261da4e7ac6a2904a4907136c0c654deb62dbb7b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3769,
+      "sha256": "e25d96063b3a5652ab4837926af387f3d9a57f6a9bfebd1d0931998bfe50c2b2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4757,
+      "sha256": "7e91e20b61ffaab8882c93f5c9cc6f5dcb516c113036cec04d4fc3b60f6d110a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

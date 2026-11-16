@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01925",
+  "title": "Looping Waves UnicornStudio Full-Screen Background Embed",
+  "summary": "Embeds a UnicornStudio project as an absolute, full-width/height background, auto-loading the UnicornStudio UMD script to initialize interactive visuals behind page content. Ideal for hero sections or immersive site backgrounds.",
+  "tags": [
+    "embed",
+    "background",
+    "interactive",
+    "script",
+    "unicornstudio",
+    "full-screen",
+    "visual",
+    "vanilla-js"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7520,
+      "sha256": "a1677db7c2e75cf894910988cc1686c27735d77fc5ec454e2b97d5ebd95699de"
+    },
+    {
+      "path": "component.html",
+      "bytes": 535,
+      "sha256": "c5b204d50a5c787bc264d8cbbe749f2576a0a108fcc84eb98e6308d1255a5151"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1412,
+      "sha256": "ab446b0e2dd0bdbbb8228f394f410fd7551b9cadb56136839ddfa812b97517fd"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

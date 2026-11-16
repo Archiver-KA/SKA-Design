@@ -1,0 +1,69 @@
+{
+  "id": "SN-W04093",
+  "title": "Security Guard Services Landing Page Template",
+  "summary": "A premium, dark-themed website template for security firms, featuring hero sections, service cards, and trust-building testimonial layouts.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Dark",
+    "Clean",
+    "Business Category",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3707,
+      "sha256": "fcc1d27f61a444f64ae7b99bef17fb46fa0f02a84c49c7b8f65a0fb417e90230"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21808,
+      "sha256": "c022c5ae17edd8a37e0bf610ab9e3d606bc65e595c3cf50eaef0af1fbefd91e5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 740,
+      "sha256": "92542a11c247cd0ae6cc02b2b4ab78ed214b272516a388b2c8b6df197722cbcc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 45572,
+      "sha256": "4df66dde9e64105c52aec3861a0e4606002b7ce9ad7db6aa6686a073fded0945"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "announcement-bar",
+    "navbar",
+    "hero",
+    "listings",
+    "features",
+    "services",
+    "how-it-works",
+    "stats",
+    "testimonials",
+    "about",
+    "contact-form",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

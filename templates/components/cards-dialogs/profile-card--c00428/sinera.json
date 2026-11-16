@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00428",
+  "title": "Profile Card",
+  "summary": "Complete user profile card with image, bio, social links, and primary CTA button. Features availability status and contact information.",
+  "tags": [
+    "profile",
+    "card",
+    "glassmorphism",
+    "social-links",
+    "cta",
+    "dark-theme"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18318,
+      "sha256": "04c9c211ae645f87ad6aea057caa33aa18cd2c7731f0768b3a06c5670afbc2c9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4793,
+      "sha256": "a3f28e17c4e2e74eae73f2f6f04bff4268c98271b75de455c1e552f98572006f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5626,
+      "sha256": "bc15a05751c95f753c2db5846032e4e593157fe29e07f29673373830bd80ed42"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

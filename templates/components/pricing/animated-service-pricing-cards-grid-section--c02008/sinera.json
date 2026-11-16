@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02008",
+  "title": "Animated Service Pricing Cards Grid Section",
+  "summary": "Responsive Tailwind section displaying service offering cards with icons, features, price and timeline. Includes scale-in entrance and hover-lift effects; ideal for agency or portfolio pages.",
+  "tags": [
+    "card",
+    "pricing",
+    "services",
+    "grid",
+    "tailwind",
+    "responsive",
+    "animated"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 25212,
+      "sha256": "497724021e3c4288a8cf7531b816ab64ded1a875acacf7c625d28febbf11e924"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6808,
+      "sha256": "e6572fc1af1ed40354eb84362c949ad44a1a69e25a0639ae4b987e46613525b4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7672,
+      "sha256": "e1413df889ab117eab0aa9996f705685da186248bbcc39efbd781657a951f257"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

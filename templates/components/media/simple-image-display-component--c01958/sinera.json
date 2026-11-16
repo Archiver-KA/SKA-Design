@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01958",
+  "title": "Simple Image Display Component",
+  "summary": "A basic image component rendering a remote JPEG via direct URL. Suitable for displaying property, product, or gallery images within layouts, cards, or listings. Alt text can be customized for accessibility and SEO.",
+  "tags": [
+    "card",
+    "image",
+    "media",
+    "static",
+    "html",
+    "minimal"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 42804,
+      "sha256": "41fac15dfc7421c345eb6dfaa1cdf4c45d11ccda162fa1fcb9e45e9a5c66036e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 100,
+      "sha256": "cc94fe6172aafd94c62552bdbc0c223a17d2ee71d0b3191219c390f9b7b1bf42"
+    },
+    {
+      "path": "index.html",
+      "bytes": 951,
+      "sha256": "c07fae0d2be8e1ed7d738a5389362e348684b7be28dadd93f0d36454a265048c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

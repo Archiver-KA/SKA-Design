@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02157",
+  "title": "Animated Product Collection Card",
+  "summary": "Interactive Tailwind card showcasing a product collection with background image, category list, item counts, hover scale/shadow animation and CTA link—ideal for e-commerce landing pages or category sections.",
+  "tags": [
+    "card",
+    "collection",
+    "e-commerce",
+    "tailwind",
+    "animated",
+    "hover",
+    "responsive",
+    "product"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13684,
+      "sha256": "e761869a0197545dffe325aa28b8efd1787d1fd65c5d2c4117599f7c6de0e69b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5603,
+      "sha256": "b12a658ba34489ca2bd81e44908b40f1eb9664ef6f4c2271da03363ab78008fd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6586,
+      "sha256": "267ed5abbd0ba19aeac685a84a17db9a4cdfedcc8bdbc9ac990af576ce08dbe4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

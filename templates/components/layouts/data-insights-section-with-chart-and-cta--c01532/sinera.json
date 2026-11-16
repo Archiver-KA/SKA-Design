@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01532",
+  "title": "Data Insights Section with Chart and CTA",
+  "summary": "Responsive two-column feature section showcasing advanced analytics. Includes chart canvas in a gradient card, headline, copy and gradient CTA button. Built with Tailwind CSS and fade-in animations; ideal for SaaS dashboards or landing pages promoting data insights.",
+  "tags": [
+    "feature-section",
+    "tailwind",
+    "responsive",
+    "chart",
+    "cta",
+    "analytics",
+    "landing-page",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 27816,
+      "sha256": "892f3d0799f539e85ec4cee83820c82490ce9cfc73304cbaba3ad546102c10e5"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1597,
+      "sha256": "0db1561543999e0ca9741e6a1f62f0827a3d8f1e73bb18477c09b96932635231"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2458,
+      "sha256": "d14e8af428db0969f90e2eb4fbb7b5c176193b16f0a6008efe594da431127d8a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

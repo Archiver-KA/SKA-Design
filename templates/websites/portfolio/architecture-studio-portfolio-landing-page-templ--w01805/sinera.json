@@ -1,0 +1,71 @@
+{
+  "id": "SN-W01805",
+  "title": "Architecture Studio Portfolio Landing Page Template",
+  "summary": "A cinematic architecture studio landing page template for showcasing conceptual projects, brutalist interiors, and future-forward residential work.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Minimal",
+    "Dark",
+    "Large Type",
+    "Grid",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3360,
+      "sha256": "792df29e7894e53550c08ace307390b645080d946416ab9b5b691a7956cb82c1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 29552,
+      "sha256": "2847f260af9e1bc2150fb766e4d181481074d78341b487e1509bb59ffe133187"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 963,
+      "sha256": "49a7c2798111ede4c19f0d2839e0816e2a94b6f3a83e82efd90e984b80137f99"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 266,
+      "sha256": "584b6285e14318beb1a643014b27ff26332d21c64705dbd2dafdef7315953142"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29157,
+      "sha256": "88f497bb185ced88b11f7b6551af447197121955f21fca522b80bb1072f405bf"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "listings",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

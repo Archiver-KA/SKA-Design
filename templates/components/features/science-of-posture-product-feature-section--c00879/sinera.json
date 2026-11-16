@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00879",
+  "title": "Science of Posture Product Feature Section",
+  "summary": "A full-width feature section showcasing posture-focused furniture with descriptive copy and two interactive WebGL image cards featuring flashlight hover, staggered layout, and animated sonar accent. Built with Tailwind utility classes and custom JS for WebGL reveal.",
+  "tags": [
+    "feature",
+    "section",
+    "interactive",
+    "animated",
+    "webgl",
+    "gallery",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18720,
+      "sha256": "f3efb26f664ee71e3d9e1466f4e926307b3babf8d5da561ed04b082e5158d7e3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8390,
+      "sha256": "7282bcb69123521f59c361d7fd061696aff78cf08c2031d14b1836be5c9f4520"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9253,
+      "sha256": "9d00112892e7e32fd5e1a37ab3bed710ef4f781c5a047810aa426736951aa574"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

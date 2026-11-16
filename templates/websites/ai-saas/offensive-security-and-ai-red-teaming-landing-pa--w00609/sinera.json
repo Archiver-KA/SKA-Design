@@ -1,0 +1,81 @@
+{
+  "id": "SN-W00609",
+  "title": "Offensive Security & AI Red Teaming Landing Page Template",
+  "summary": "A dark, high-impact landing page template for offensive security, bug bounty, and AI red teaming platforms to convert security-minded enterprise teams.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Large Type",
+    "Minimal",
+    "Gradient",
+    "Security",
+    "Cybersecurity"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3931,
+      "sha256": "1f5dd274f02b54c7ff5447b6e7c3d280eeb253ce3aac2c19c7c31b8a0e1e7660"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 29070,
+      "sha256": "0a5ecaf6abb58b93940b8a2b0fdd7e8814485425eeba0001ac70dd7fa74662ac"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1167,
+      "sha256": "8c354b8e221861d8b2252f15617bc049358f9a81ff203a6529f7e610ef449720"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 269,
+      "sha256": "f35dd45bf3279530ce1de9f1b5699ffa3d934fc19c57db099eebd850aed33269"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 208,
+      "sha256": "949dfc0a8253fa3564843863a92533111e9e04bda0b999558ccfe933b78c7fbc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34028,
+      "sha256": "b0cb1774e349d7eb4fd91b124e28e3310fa357884b9adc95f6e2db4064c2ddbc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "features",
+    "marquee",
+    "testimonials",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

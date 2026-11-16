@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00852",
+  "title": "Responsive Feature Cards Section with Tailwind",
+  "summary": "Grid-based section showcasing three interactive gradient cards with icons, buttons, and hover effects. Built with Tailwind CSS, backdrop blur, and radial gradients—ideal for SaaS landing pages to highlight product features.",
+  "tags": [
+    "feature section",
+    "tailwind",
+    "responsive",
+    "gradient",
+    "landing page",
+    "marketing",
+    "grid",
+    "section"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26232,
+      "sha256": "42af86d573ebfdb334cb6ef0132a00a888300346a819a1b37393c2ad598222cb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 24984,
+      "sha256": "cc541843ebe35caf775bf7551e05c15fb089633e568a4019c3c1d4bcf39bb60f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25981,
+      "sha256": "fa1caa6c584c1be791fcb0120936b4be70378c004edec1b4f00dc5fb07b2de8e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

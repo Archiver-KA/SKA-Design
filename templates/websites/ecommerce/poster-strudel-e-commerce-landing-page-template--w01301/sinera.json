@@ -1,0 +1,64 @@
+{
+  "id": "SN-W01301",
+  "title": "Poster Strudel E-Commerce Landing Page Template",
+  "summary": "This template provides a stylish, curated art bundle e-commerce landing page designed to showcase and sell art prints and collections effectively.",
+  "tags": [
+    "Landing Page",
+    "E-Commerce",
+    "Art Bundles",
+    "Hero",
+    "Product Grid",
+    "Filters",
+    "Newsletter",
+    "Responsive",
+    "Tailwind CSS"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3678,
+      "sha256": "8b259c9c1529c1b949aceb7d3f2a2a2b3a600cba4ec8209e1568e495c10acbcd"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16000,
+      "sha256": "1d5c084922474d05b9a10b7d7ad77b88fe11826135736ded46f399f7ab03a009"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 737,
+      "sha256": "4ab257b8ba4b32eea3905d9afed4edd7cfceda6c8ffb4bb8d33557a9f38addb4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28801,
+      "sha256": "2478e1bdaa09584e9476fe3229861be1370184eca3411902da58c8b7c32fe71d"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

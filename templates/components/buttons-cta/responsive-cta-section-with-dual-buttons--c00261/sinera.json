@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00261",
+  "title": "Responsive CTA Section with Dual Buttons",
+  "summary": "Promotional call-to-action section built with Tailwind CSS featuring a headline, supporting text, and primary/secondary buttons for actions like free trial or sales contact; ideal for landing or pricing pages.",
+  "tags": [
+    "cta",
+    "section",
+    "tailwind",
+    "responsive",
+    "landing page",
+    "marketing",
+    "web component"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10340,
+      "sha256": "b0af0464ab24d9c6249e5ee77fdc4feeae598b185422ed09b83974f194efdfe2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 945,
+      "sha256": "5b3e7fcad2ed2b6e85e39d1d7255ee73807d9b3c7dd2c4ed5edeaf23ee688401"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1806,
+      "sha256": "5799ccc1d37e9045d3a76cf973a072cea39247e3f3ad3ef0dcdc0b5cd106fb97"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

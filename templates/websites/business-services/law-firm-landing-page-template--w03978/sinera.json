@@ -1,0 +1,66 @@
+{
+  "id": "SN-W03978",
+  "title": "Law Firm Landing Page Template",
+  "summary": "A professional law firm landing page template for personal injury and criminal defense practices, ready to customize for attorneys and legal services.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Clean",
+    "Minimal",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3882,
+      "sha256": "91849cade9d7e0a311133fc509f2e10487a4222a65aad7c21c843ba7411944ef"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22360,
+      "sha256": "f44290a8906a4c203add6c3ebf237a2c4d8f5f10b28f8d7935bcf45fa6de79ff"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "1dfed96b6b85add0a3042e77903175ce8805d6e4f54c88039e13030fb2439cfd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41507,
+      "sha256": "3823f2b42c92d43e59f34ea0d05d987feb448eac8167fd2de297f59f29846859"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "announcement-bar",
+    "navbar",
+    "hero",
+    "services",
+    "about",
+    "testimonials",
+    "map-location",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,66 @@
+<svg
+                    id="hover-footer-svg"
+                    width="100%"
+                    height="100%"
+                    viewBox="0 0 300 100"
+                    xmlns="http://www.w3.org/2000/svg"
+                    class="select-none uppercase cursor-default"
+                >
+                    <defs>
+                        <linearGradient id="footerTextGradient" gradientUnits="userSpaceOnUse" cx="50%" cy="50%" r="25%">
+                            <!-- Gradient stops dynamically injected via JS on hover -->
+                        </linearGradient>
+
+                        <radialGradient id="footerRevealMask" gradientUnits="userSpaceOnUse" r="20%" cx="50%" cy="50%">
+                            <stop offset="0%" stop-color="white" />
+                            <stop offset="100%" stop-color="black" />
+                        </radialGradient>
+                        
+                        <mask id="footerTextMask">
+                            <rect x="0" y="0" width="100%" height="100%" fill="url(#footerRevealMask)" />
+                        </mask>
+                    </defs>
+                    
+                    <!-- Base transparent stroke text (Revealed subtly on hover) -->
+                    <text
+                        x="50%"
+                        y="50%"
+                        text-anchor="middle"
+                        dominant-baseline="middle"
+                        stroke-width="0.3"
+                        class="fill-transparent stroke-slate-800 text-7xl font-semibold transition-opacity duration-300"
+                        id="footer-base-text"
+                        style="opacity: 0;"
+                    >
+                        KREABAIN
+                    </text>
+                    
+                    <!-- Animated drawing stroke text -->
+                    <text
+                        x="50%"
+                        y="50%"
+                        text-anchor="middle"
+                        dominant-baseline="middle"
+                        stroke-width="0.3"
+                        class="fill-transparent stroke-blue-500/80 text-7xl font-semibold"
+                        id="footer-animated-text"
+                        stroke-dasharray="1000"
+                        stroke-dashoffset="1000"
+                    >
+                        KREABAIN
+                    </text>
+                    
+                    <!-- Hover gradient text mapped via mouse mask -->
+                    <text
+                        x="50%"
+                        y="50%"
+                        text-anchor="middle"
+                        dominant-baseline="middle"
+                        stroke="url(#footerTextGradient)"
+                        stroke-width="0.3"
+                        mask="url(#footerTextMask)"
+                        class="fill-transparent text-7xl font-semibold"
+                    >
+                        KREABAIN
+                    </text>
+                </svg>

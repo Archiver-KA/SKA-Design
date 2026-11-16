@@ -1,0 +1,63 @@
+{
+  "id": "SN-W02910",
+  "title": "Genika Café Artisan Landing Page Template",
+  "summary": "A warm and elegant cafe landing page template designed for coffee shops and restaurants to showcase their story and menu.",
+  "tags": [
+    "Food",
+    "Services",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Typography"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3542,
+      "sha256": "2265a8b35d598a0e327e693ebe2eb59dba61f42edd709110fa3a42b9934e44e2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15192,
+      "sha256": "e8690cc0a71ddfc4aa45f0a4a30f8fd96350aa97bc266240c3654d35ef7647de"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 739,
+      "sha256": "742c924dff1e56d6bed807e5cbeed393d74075465bb84f16b31c89345d49f735"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23946,
+      "sha256": "c52358adefda6d4638db1cbc2c96e6fb5362212e7a1164c9c7c4f79b9fd15897"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "menu-list",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

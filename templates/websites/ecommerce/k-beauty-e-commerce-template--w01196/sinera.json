@@ -1,0 +1,72 @@
+{
+  "id": "SN-W01196",
+  "title": "K-Beauty E-commerce Template",
+  "summary": "A premium e-commerce template for K-beauty and skincare brands, featuring product showcases, ritual builders, AI quiz flows, and conversion-focused CTAs.",
+  "tags": [
+    "E-commerce",
+    "Health",
+    "Landing Page",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Technology",
+    "Skincare",
+    "Beauty"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3542,
+      "sha256": "f38f2c5f96c45cba8df7d4e909539ceefd533904f2b47696a46e23d90cb2fcd3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7730,
+      "sha256": "2650a62d3afc65af090d4232766e26d13fa53f8ad2b61137f795148524aaccfe"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 801,
+      "sha256": "39efa9ff9d1f6a82a6578e45d142cd559aae5f3b83a47a531ee7523d09d13153"
+    },
+    {
+      "path": "index.html",
+      "bytes": 75985,
+      "sha256": "a580a4ac945240a352f45e4547549784a5d919ee6e3c6f12ce7e75bee4a73381"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "cta",
+    "stats",
+    "newsletter",
+    "footer",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

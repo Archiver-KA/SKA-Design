@@ -1,0 +1,66 @@
+{
+  "id": "SN-W03180",
+  "title": "Architectural Design Services Landing Page Template",
+  "summary": "A refined, premium landing page template designed for architecture firms and interior designers to showcase residential and urban projects.",
+  "tags": [
+    "Landing Page",
+    "Real Estate",
+    "Portfolio",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Grid",
+    "Style"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3411,
+      "sha256": "b923a8b3e44c4a42d7ca0b3b42646c197cee11446547756ef025ba500ca0c8c7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12612,
+      "sha256": "79c778970324d07bad44d11c700177833da074a6d0f79e216fea0a57d980c4be"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 741,
+      "sha256": "10cfd6fc5cad53f64bae7d8aacc709a61693d5905cddfd9b66d33bc15589d545"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38763,
+      "sha256": "ab19d33bca808d4681ba484df945a52d70b6b4142f9c6b5aedbc3d618aaeb9cc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "testimonials",
+    "services",
+    "gallery-portfolio",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

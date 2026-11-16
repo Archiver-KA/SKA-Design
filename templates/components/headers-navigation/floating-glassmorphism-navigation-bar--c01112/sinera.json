@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01112",
+  "title": "Floating Glassmorphism Navigation Bar",
+  "summary": "Fixed, pill-shaped navigation bar with logo, page links, and login CTA. Uses Tailwind-style utility classes, glassmorphism, and backdrop blur. Ideal for modern landing pages needing a floating top nav over a background effect.",
+  "tags": [
+    "menu",
+    "navigation",
+    "navbar",
+    "tailwind",
+    "fixed",
+    "responsive",
+    "glassmorphism"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4796,
+      "sha256": "a6df48f7f9ad2969adc93eefc17329fb964606db463577cc338542fdf2802de8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2950,
+      "sha256": "72477d56e98579b363b00452bf0b17cb081bf75911cd16afe6b0466fbcb2f959"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3808,
+      "sha256": "a03cb25e7d9b032635a36654b997d89bfdb283991319b060360119f19cd4750b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

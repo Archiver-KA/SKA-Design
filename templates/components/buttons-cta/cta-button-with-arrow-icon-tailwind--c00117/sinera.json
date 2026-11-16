@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00117",
+  "title": "CTA Button with Arrow Icon (Tailwind)",
+  "summary": "Anchor styled as a call-to-action button featuring amber color scheme, hover color transition, and right-facing arrow SVG. Ideal for ordering or checkout prompts on landing pages, e-commerce sites, and marketing sections. Built with Tailwind CSS utility classes.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "icon",
+    "interactive",
+    "hover",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1778,
+      "sha256": "4b8c0fb15abde8f0dc5e29e8b20e7a0bdd528f7f3f068b9d1c01b63384f2eec6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 552,
+      "sha256": "59b3d07829c4018d4325cbd0913746bb90fd8daa797c6aa28aa4219b7b6ca26d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1540,
+      "sha256": "43fa98a052e9e641fd52582685321dc2c44e3d3817834cc5b7be33fdfc8ea063"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

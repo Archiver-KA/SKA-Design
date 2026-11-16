@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01303",
+  "title": "Cosmic Hero Section with WebGL Background",
+  "summary": "Full-screen Tailwind CSS hero section featuring a cinematic WebGL black hole background, GSAP text reveal animations, dual CTA buttons, and a scrolling marquee footer. Ideal for futuristic landing pages, creative studios, or event promos.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "webgl",
+    "gsap",
+    "animated",
+    "responsive",
+    "marquee"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21798,
+      "sha256": "d6ecc8f0d5eaa17b0731b6593d897e763a424d84dcdc8e4a46606c63cbcc8605"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11210,
+      "sha256": "338f7bc210c20477548d851147b15ba20f930d935c1cc546232ae123eabab329"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

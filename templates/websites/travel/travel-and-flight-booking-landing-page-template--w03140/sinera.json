@@ -1,0 +1,64 @@
+{
+  "id": "SN-W03140",
+  "title": "Travel and Flight Booking Landing Page Template",
+  "summary": "A high-conversion reusable template for travel agencies and flight aggregators featuring a sophisticated search interface and deal-oriented design.",
+  "tags": [
+    "Travel",
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Clean",
+    "Minimal",
+    "Colorful"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3706,
+      "sha256": "da33a89a5ff2a082e6873fd3e344eee51b9a7817d07a741c5512f1a8229da542"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20468,
+      "sha256": "ec22d06755dfe12ab750f7623260575d807e01d1fe29adee548aaa65946bc47b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 739,
+      "sha256": "231a6cf8c2b41fdf0e469391be23f8e9eb82eec355f9c9519ec875cf7086b249"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40687,
+      "sha256": "7c243af7c419f376a95e6350bdfb27744d65402e8349db847a054cc972259adb"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "announcement-bar",
+    "navbar",
+    "hero",
+    "stats",
+    "bento-grid",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

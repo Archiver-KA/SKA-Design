@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01647",
+  "title": "Centered Brand Logo Display",
+  "summary": "A simple flexbox container that horizontally centers a responsive brand logo image with fixed height and auto width, ideal for headers, navbars, or branding sections.",
+  "tags": [
+    "card",
+    "logo",
+    "image",
+    "branding",
+    "tailwind",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4316,
+      "sha256": "e0ced9dacfe71e91db69b2386001343ca518371bb45585e0d71edb4b84ad01e9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 216,
+      "sha256": "f335be734d9c0f347f21cc13f80148b8b26cd0d034a7c1437bb91bde99b15c94"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1064,
+      "sha256": "95cfc491c124c56f47f90eb24a0a63398615b6f263c1f5611199c34a24dddbf8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

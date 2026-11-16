@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02082",
+  "title": "Responsive Pricing Section with Tiered Cards",
+  "summary": "Three-plan pricing section featuring Starter, Pro, and Enterprise cards on a gradient hero background. Built with Tailwind CSS, it offers badges, feature lists, CTA buttons, and a responsive grid layout for landing pages or SaaS sites.",
+  "tags": [
+    "pricing",
+    "section",
+    "tailwind",
+    "responsive",
+    "cta",
+    "gradient",
+    "grid"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20364,
+      "sha256": "d0ab8218331d2974337efb752c71d2a9e17f02101b2b7b881e34330b8efddf16"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7050,
+      "sha256": "794500f5a1341dd2c5e4523152d77e34a865996e211e8793be4fd68d435a6258"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8045,
+      "sha256": "511dda1deba7cc6568216a9011d8b5d17f0cff8c47ec9b056521750906c23c26"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

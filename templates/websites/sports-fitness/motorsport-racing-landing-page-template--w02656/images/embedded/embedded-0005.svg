@@ -1,0 +1,8 @@
+<svg key={i} width="40" height="800" viewBox="0 0 40 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <line x1="20" y1="0" x2="20" y2="800" stroke="rgba(238,242,249,0.1)" strokeWidth="1" />
+            <g fill="rgba(238,242,249,0.15)">
+              {Array.from({ length: 20 }).map((_, j) => (
+                <rect key={j} x="16" y={j * 40} width="8" height="1" />
+              ))}
+            </g>
+          </svg>

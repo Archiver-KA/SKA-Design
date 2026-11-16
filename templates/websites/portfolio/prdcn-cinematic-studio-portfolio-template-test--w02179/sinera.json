@@ -1,0 +1,71 @@
+{
+  "id": "SN-W02179",
+  "title": "PRDCN Cinematic Studio Portfolio Template - Test",
+  "summary": "A high-performance, dark-themed portfolio template designed for filmmakers, photographers, and creative agencies seeking a brutalist, minimal aesthetic.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Dark",
+    "Minimal",
+    "Brutal",
+    "Technology",
+    "Art & Design",
+    "Animated",
+    "Services",
+    "Style"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3530,
+      "sha256": "d74e8a0370ab74c8224af6eb23116084528cf7f3a11bd9d4cb26e6f2c756fcc8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13178,
+      "sha256": "5a183d77f6c9035c8731901b7c464d7b351620cb7c5bd65147b78d6802b618ed"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 876,
+      "sha256": "b3e0fbd124de24b6411103d48e383b0aacf94007847095fa958de24e8066926e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "845a8c33647082b21c3db87d511ee26caa07aa7a2c9bf6b015aad47a996ab97f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25019,
+      "sha256": "31c8b712f651f8b2bb974b0caeed6a6e449a036c0a6dc757d28250e30721243f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

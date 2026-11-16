@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01640",
+  "title": "MENA Growth Agency Landing Page Template",
+  "summary": "A high-converting, dark-mode landing page template for growth consultancies serving MENA founders, startups, and e-commerce brands, ready to customize and launch.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3833,
+      "sha256": "5b72adfbcd4fec8fc8121c08c07197ceaa15ae5555426d4ac3a6252f97050334"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15256,
+      "sha256": "8c0489220a695d78a7b7b2bfe91a5b65611703bd8540ca23b4c116b03e52dd48"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "6ebcd13b7ab1515294ead85db84018b7811a0912ab4889ba20915eeb59945d1e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 97536,
+      "sha256": "83dd281352b3fe32a39151415d234686f2a7a8192813a3b13b502289c8009f3d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "team",
+    "stats",
+    "services",
+    "features",
+    "product-grid",
+    "pricing",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

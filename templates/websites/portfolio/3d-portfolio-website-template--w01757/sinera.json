@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01757",
+  "title": "3D Portfolio Website Template",
+  "summary": "A cinematic 3D portfolio website template for creative technologists and digital artists to showcase immersive work and invite visitors to get in touch.",
+  "tags": [
+    "Portfolio",
+    "Art & Design",
+    "Artist",
+    "Technology",
+    "Brand",
+    "3D",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2561,
+      "sha256": "7f9583dd3b89354473b8e0eb83744287eee5904ea689d967763a87c100014867"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1142,
+      "sha256": "6c899654fbd01f882c27a17eb49cabb036c512c996a0bd1e4ce18329fafa8301"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 717,
+      "sha256": "769ad07da606482956c39a5bca5d49a0049883903cc5cc97aa32480c6e944e07"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11401,
+      "sha256": "e674e0778b45cbde631196bfd5641f4e761afec6eacd234720695eeada7b4400"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "snippet",
+  "components": [
+    "modal-overlay",
+    "hero"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "banner-missing-or-tiny"
+    ],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

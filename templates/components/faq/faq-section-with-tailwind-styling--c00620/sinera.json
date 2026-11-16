@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00620",
+  "title": "FAQ Section with Tailwind Styling",
+  "summary": "A responsive Frequently Asked Questions section featuring a heading and multiple question-answer blocks, styled with Tailwind CSS and subtle hover effects. Ideal for adding static informational content to landing pages or portfolios.",
+  "tags": [
+    "faq",
+    "section",
+    "tailwind",
+    "responsive",
+    "informational",
+    "hover",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "faq",
+  "categoryLabel": "FAQ & accordions",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 34272,
+      "sha256": "3855cc23c77b795ffecde1bb1ef4005598460e501fe7d4eba3dde6b13cf0f02e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2660,
+      "sha256": "ef65f1353da2147c30750e95a2f8eac462dd627d1df79fb310c845890de024a8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3514,
+      "sha256": "e31d18afd87965ec003fcdcd78d3d922f5b7db9eb65ece72cce8850538626856"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

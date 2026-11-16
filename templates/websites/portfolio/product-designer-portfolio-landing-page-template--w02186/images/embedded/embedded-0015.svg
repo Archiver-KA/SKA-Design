@@ -1,0 +1,20 @@
+<svg viewBox="0 0 300 90" class="w-full h-20 sm:h-24 text-neutral-700">
+                    <defs>
+                      <pattern id="dots2" x="0" y="0" width="4" height="4" patternUnits="userSpaceOnUse">
+                        <circle cx="1" cy="1" r="0.5" fill="currentColor" opacity="0.3"></circle>
+                      </pattern>
+                    </defs>
+                    <rect width="100%" height="100%" fill="url(#dots2)" class=""></rect>
+                    <!-- Success rate bars -->
+                    <rect x="20" y="25" width="3" height="40" fill="#10B981"></rect>
+                    <rect x="40" y="20" width="3" height="45" fill="#10B981"></rect>
+                    <rect x="60" y="15" width="3" height="50" fill="#10B981"></rect>
+                    <rect x="80" y="10" width="3" height="55" fill="#10B981"></rect>
+                    <rect x="100" y="12" width="3" height="53" fill="#10B981"></rect>
+                    <rect x="120" y="8" width="3" height="57" fill="#10B981"></rect>
+                    <rect x="140" y="5" width="3" height="60" fill="#10B981"></rect>
+                    <rect x="160" y="3" width="3" height="62" fill="#10B981"></rect>
+                    <rect x="180" y="2" width="3" height="63" fill="#10B981"></rect>
+                    <rect x="200" y="1" width="3" height="64" fill="#10B981"></rect>
+                    <polyline points="22,45 42,40 62,35 82,32 102,35 122,30 142,25 162,22 182,20 202,18" fill="none" stroke="#10B981" stroke-width="1.5" stroke-linecap="round"></polyline>
+                  </svg>

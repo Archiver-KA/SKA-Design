@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01026",
+  "title": "Expandable Checkbox Form Card",
+  "summary": "Interactive card with checkbox that reveals additional form fields when checked. Perfect for conditional form sections",
+  "tags": [
+    "form",
+    "checkbox",
+    "expandable",
+    "conditional",
+    "card",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7640,
+      "sha256": "0108c5cd353516cd4dffb5f4a9512a112568bdf24768d6166e1d9e0859519272"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1101,
+      "sha256": "34b25c8a1703d5a9f402c283b99c371a9cff36a58d786541cffab563ddd101fe"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1951,
+      "sha256": "cb802e23820f4d4a075f3611f2abd88cc7ad2faf69346890430f372753be7311"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

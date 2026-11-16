@@ -1,0 +1,72 @@
+{
+  "id": "SN-W03770",
+  "title": "FundedTrader Journal Landing Page Template",
+  "summary": "A dark, analytics-driven FundedTrader Journal landing page template for showcasing multi-account trading dashboards, performance analytics, and private trading workspaces.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Trading",
+    "Dashboard",
+    "Analytics"
+  ],
+  "kind": "websites",
+  "category": "news-blog",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3659,
+      "sha256": "888a02dfb31366291c9ba8c9a8005d92a24698889e356da156d9733d939bc1ef"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16158,
+      "sha256": "8b35f7565c2bef90330ca984fc6fadda0189085754bf14e4c7950183e25d3edf"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 880,
+      "sha256": "da9cf8ade22ce42ff6aa6d6de5a18518b8a08155ce63d57c4b2155cddc385399"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 257,
+      "sha256": "25e20761328a2f63b0bcaf0f172d27aa38b15d21f7a58b8a4f17d2bd924b5a78"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27999,
+      "sha256": "80986f2046557007281b631b6ad79e4238f47d77c671765b9d9e461aeb66797e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "content",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Content / News",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "features",
+    "code-terminal",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

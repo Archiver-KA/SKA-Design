@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01117",
+  "title": "CampusHub Marketplace Landing Page Template",
+  "summary": "A clean and modern marketplace template designed specifically for university campus commerce and student service platforms.",
+  "tags": [
+    "Technology",
+    "Services",
+    "Education",
+    "Clean",
+    "Minimal",
+    "Grid",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3476,
+      "sha256": "9b6c9d32a52484c809ae5817680b221c79074694006b47e315fb09b38ad3c63b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4066,
+      "sha256": "3e15dd3a788f13c3e3f5a2636896bc1949be760888669983521f575193b10551"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 816,
+      "sha256": "470ac0dffe476727e47dbe8f87e4aa22cc76331fdc1dd8e2bd1f62e5107fce32"
+    },
+    {
+      "path": "index.html",
+      "bytes": 60420,
+      "sha256": "ff8aa5e5e327666b7fd63957e2fc225a7e5d52e901685958ce4e0681a9f5cf4e"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "auth-form",
+    "newsletter",
+    "navbar",
+    "product-grid"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "blank-render"
+    ],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

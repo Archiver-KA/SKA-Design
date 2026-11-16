@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01796",
+  "title": "Architect Portfolio Landing Page Template",
+  "summary": "A sleek, dark architect portfolio landing page template for showcasing luxury minimalist projects, studio capabilities, and inquiries with a cinematic layout.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Minimal",
+    "Dark",
+    "Large Type",
+    "Brand",
+    "Services",
+    "Architecture",
+    "Interior Design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3055,
+      "sha256": "1477cbecca322bab68543a1d9902ba3259c214d1b70b796cbffa98d61ae92a80"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7996,
+      "sha256": "96d49372526ce0275b9db57015346ce4ca6885bc7371a475bdc53a89c9d6fde7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "dd6e19433a4b4112fd0c36b15d765d4e1c3a2a82a37f3e55e69a89df1a3975ab"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16657,
+      "sha256": "3a946025cdc90913aa2fe8a2dd4c00d94a3cdf28ca0ae7b3ab4fb018b6c8797b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

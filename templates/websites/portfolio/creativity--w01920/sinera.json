@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01920",
+  "title": "creativity",
+  "summary": "A dark, futuristic landing page template for AI-powered creative or digital agencies to showcase process, projects, and contact in a cinematic single-page experience.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Art & Design",
+    "Technology",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Portfolio",
+    "Animated",
+    "Futuristic"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4014,
+      "sha256": "0fc24db65d0dcdda32c5f1b2b9c45b85264ab625d7a47b059c1cf72d1dcb706c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8354,
+      "sha256": "ac79f0eb9ac620bebcbb7a732ffc01f6bd384fe74794a7c5a04a4b2f06125c3f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 698,
+      "sha256": "59b1531d10655f0e9c18fcfec385b08d6b06bacee4cc8230a8860ec7599a455d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42412,
+      "sha256": "8ad571b45bd8d67a0a0420d38c59708862b7ee1a68a27817454f626f0ca48f23"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "how-it-works",
+    "case-studies",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

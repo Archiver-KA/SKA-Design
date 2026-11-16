@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01605",
+  "title": "Interactive Design Agency Landing Page",
+  "summary": "Responsive landing page with immersive 3D background, navigation, hero section, and service highlights using Tailwind CSS.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "3D Background",
+    "Tailwind CSS",
+    "Responsive Design",
+    "Services",
+    "Navigation"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2982,
+      "sha256": "3c5646c6559cd12e162a2c7ed7c4180c85a0f320ce976a8764d312f31435679b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13926,
+      "sha256": "74572e7b66517248b683d6205209734c62ab518f271dafa2d207827cd0617d45"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 874,
+      "sha256": "fdead0d7245fc2e026c7e42345625231570069672fb89f16148ccf57d933966c"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 245,
+      "sha256": "ff8a10995cd36d920ac1574ec0b2a78a19977135a94f7803a913331c06230e15"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4432,
+      "sha256": "99fb13586c90822893234c9b38bb0f9fb7b3c3bb7139c532dfdf273cbee01531"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

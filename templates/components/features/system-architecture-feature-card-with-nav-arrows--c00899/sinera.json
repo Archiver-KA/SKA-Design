@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00899",
+  "title": "System Architecture Feature Card with Nav Arrows",
+  "summary": "Dark themed feature card highlighting a system phase with heading, description, KPI and prev/next arrow buttons. Built with Tailwind CSS and fully responsive, ideal for feature carousels, onboarding steps, or dashboard overviews.",
+  "tags": [
+    "card",
+    "feature",
+    "tailwind",
+    "responsive",
+    "navigation",
+    "carousel",
+    "dark",
+    "dashboard"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14282,
+      "sha256": "7cd309820983ddff61c3fae136be9e040f1df9d815e8c9ec3feb54eb7223feb1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2982,
+      "sha256": "bca3ef0c639ad83d6551e0637302cb47a1e4da3c14eab79240d14de6fb83e0ea"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3981,
+      "sha256": "33f772d6e7b2e313af7c69f9e03f647250f5f34b78dfef8780d27394b40e823a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

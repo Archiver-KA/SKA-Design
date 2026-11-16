@@ -1,0 +1,45 @@
+{
+  "id": "SN-C00680",
+  "title": "Animated Feature Section with Deploy Progress Card",
+  "summary": "Responsive landing-page block showcasing a product feature. Combines text, bullet list and dual CTAs with an animated floating deploy status card, progress bar and popover. Built with Tailwind utility classes and custom keyframes—ideal for SaaS or cloud-service marketing pages.",
+  "tags": [
+    "feature section",
+    "hero",
+    "progress bar",
+    "cta",
+    "animated",
+    "responsive",
+    "tailwind",
+    "landing page",
+    "section"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 34372,
+      "sha256": "e61f0cc138b6d709e0d8bfab99c299a55bbae5a6a2d8dbd10133d38bed57b17e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 19802,
+      "sha256": "2fc8f9f283c115cf06db3a6d42d5c46d8e45ff811d2dd561af76c3e5fc522699"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20803,
+      "sha256": "c9b354f6752cf8588b26169bcc44bd444cf0e79506a5ab1ad945625f6d3f9e3a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

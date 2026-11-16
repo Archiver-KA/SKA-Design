@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00798",
+  "title": "Interactive Feature Highlight Card (Tailwind)",
+  "summary": "Animated promotional card showcasing a product feature with image backdrop, radial gradients, icon, heading, description, and CTA button. Includes fade-in entrance, hover scale, ring and color transitions, built entirely with Tailwind CSS for responsive layouts.",
+  "tags": [
+    "card",
+    "feature",
+    "promo",
+    "tailwind",
+    "hover",
+    "animated",
+    "cta",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14962,
+      "sha256": "df5a40b491c700eb600d0a1dd90b515ef4508486a01c9d6348e132d79f24ad5e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3374,
+      "sha256": "b8b792c93db0039ef8456a08763a139c3d3f7eb717af84e159aadd0803ddbc98"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4370,
+      "sha256": "a2a14a4351348a0e576a4240622b6ddda22390b10f6fa1f4091ffaab10baeff0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

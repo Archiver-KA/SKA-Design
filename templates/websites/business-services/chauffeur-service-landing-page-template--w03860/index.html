@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="fr" data-theme="route">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vitesse Paris | Chauffeur privé à l'heure ou à la journée</title>
+<meta name="description" content="Service de chauffeur privé à l'heure ou à la journée : un véhicule, un chauffeur, un programme dicté par vos besoins. Pour dirigeants, invités VIP et événements.">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config={theme:{extend:{colors:{ground:'#EEF1F3',surface:'#FFFFFF',ink:'#10212B',muted:'#4A5C68',line:'#CDD5DA',accent:'#F26B1D',accent2:'#1F5F8B'},fontFamily:{display:['"Barlow Condensed"','system-ui','sans-serif'],body:['Inter','system-ui','sans-serif']}}}};
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+[data-theme="route"]{--sa-ground:#EEF1F3;--sa-surface:#FFFFFF;--sa-ink:#10212B;--sa-muted:#4A5C68;--sa-line:#CDD5DA;--sa-accent:#F26B1D;--sa-on-accent:#10212B;--sa-accent-2:#1F5F8B;--sa-on-accent-2:#FFFFFF;--sa-font-display:"Barlow Condensed",system-ui,sans-serif;--sa-font-body:"Inter",system-ui,sans-serif;--sa-radius-control:0px;--sa-radius-card:0px;--sa-display-case:uppercase;color-scheme:light;background:var(--sa-ground);color:var(--sa-ink);font-family:var(--sa-font-body)}
+[data-theme] :is(h1,h2,h3){font-family:var(--sa-font-display);text-transform:var(--sa-display-case);text-wrap:balance;letter-spacing:.005em}
+body{background:var(--sa-ground);color:var(--sa-ink);font-family:var(--sa-font-body);-webkit-font-smoothing:antialiased}
+.sa-btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;padding:0 22px;border:0;border-radius:0;background:var(--sa-accent);color:var(--sa-on-accent);font:600 15px/1 var(--sa-font-body);text-decoration:none;cursor:pointer}
+.sa-btn:hover{background:#FF7F36}
+.sa-btn--ghost{background:transparent;box-shadow:inset 0 0 0 1px var(--sa-ink)}
+.sa-btn--ghost:hover{background:var(--sa-ink);color:#fff}
+:focus-visible{outline:2px solid var(--sa-ink);outline-offset:2px}
+.on-ink :focus-visible{outline-color:#fff}
+.fld{display:block;width:100%;min-height:48px;padding:0 12px;border:1px solid var(--sa-ink);border-radius:0;background:#fff;color:var(--sa-ink);font:400 15px var(--sa-font-body)}
+.lbl{display:block;margin-bottom:6px;font:600 12px/1 var(--sa-font-body);letter-spacing:.08em;text-transform:uppercase;color:var(--sa-muted)}
+details>summary{list-style:none;cursor:pointer;min-height:56px;display:flex;align-items:center;justify-content:space-between;gap:16px}
+details>summary::-webkit-details-marker{display:none}
+details[open] .plus{transform:rotate(45deg)}
+.plus{transition:transform .2s}
+.ph{display:flex;align-items:center;justify-content:center;text-align:center;font-size:13px;color:var(--sa-muted);background:repeating-linear-gradient(135deg,#E3E8EB 0 10px,#EEF1F3 10px 20px);border:1px solid var(--sa-line)}
+</style>
+</head>
+<body>
+<header class="bg-ink text-white on-ink sticky top-0 z-40 border-b border-[#2A3F4D]">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
+    <a href="#top" class="font-display text-2xl font-bold uppercase tracking-[.12em]" aria-label="Vitesse Paris, retour en haut de page">Vitesse<span class="text-accent">.paris</span></a>
+    <nav class="hidden md:flex items-center gap-8 text-[15px]" aria-label="Navigation principale">
+      <a class="hover:underline underline-offset-4" href="#goi-gio">Forfaits horaires</a>
+      <a class="hover:underline underline-offset-4" href="#tai-xe">Chauffeurs</a>
+      <a class="hover:underline underline-offset-4" href="#dip">Occasions</a>
+      <a class="hover:underline underline-offset-4" href="#hoi-dap">Questions fréquentes</a>
+    </nav>
+    <div class="flex items-center gap-2">
+      <a href="#giu-lich" class="sa-btn hidden sm:inline-flex">Réserver un chauffeur</a>
+      <button id="mbtn" class="md:hidden w-11 h-11 inline-flex items-center justify-center border border-white" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="mnav">
+        <svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 6h16M3 11h16M3 16h16"/></svg>
+      </button>
+    </div>
+  </div>
+  <nav id="mnav" class="hidden md:hidden border-t border-[#2A3F4D]" aria-label="Menu mobile">
+    <div class="px-4 py-2 flex flex-col">
+      <a class="min-h-[48px] flex items-center border-b border-[#2A3F4D]" href="#goi-gio">Forfaits horaires</a>
+      <a class="min-h-[48px] flex items-center border-b border-[#2A3F4D]" href="#tai-xe">Chauffeurs</a>
+      <a class="min-h-[48px] flex items-center border-b border-[#2A3F4D]" href="#dip">Occasions</a>
+      <a class="min-h-[48px] flex items-center border-b border-[#2A3F4D]" href="#hoi-dap">Questions fréquentes</a>
+      <a class="sa-btn my-3" href="#giu-lich">Réserver un chauffeur</a>
+    </div>
+  </nav>
+</header>
+
+<main id="top">
+<!-- HERO : très grand titre sur fond encre, cadran d'horloge -->
+<section class="bg-ink text-white on-ink overflow-hidden">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 pt-14 pb-16 lg:pt-20 lg:pb-24 relative">
+    <p class="text-sm font-semibold tracking-[.14em] uppercase text-[#C9D3D9]">Chauffeur privé · À l'heure · À la journée</p>
+    <h1 class="mt-5 font-bold leading-[0.82] text-[60px] sm:text-[116px] lg:text-[180px] tracking-tight">Une voiture.<br><span class="text-accent">Un chauffeur.</span></h1>
+    <div class="mt-10 grid lg:grid-cols-12 gap-8 items-end">
+      <p class="lg:col-span-6 text-lg text-[#D5DDE2]">Vous décidez des arrêts et du temps d'attente. Votre chauffeur s'occupe de la conduite, de l'itinéraire et du stationnement : vous gagnez votre trajet pour travailler ou souffler.</p>
+      <div class="lg:col-span-6 flex flex-wrap gap-3 lg:justify-end">
+        <a href="#giu-lich" class="sa-btn">Réserver un chauffeur</a>
+        <a href="#goi-gio" class="sa-btn sa-btn--ghost !text-white" style="box-shadow:inset 0 0 0 1px #fff">Voir les forfaits horaires</a>
+      </div>
+    </div>
+    <svg class="hidden lg:block absolute right-6 top-14 opacity-90" width="150" height="150" viewBox="0 0 150 150" fill="none" stroke="#F26B1D" stroke-width="2" aria-hidden="true"><circle cx="75" cy="75" r="68"/><circle cx="75" cy="75" r="4" fill="#F26B1D"/><path d="M75 75V28M75 75l32 18"/><path d="M75 8v10M75 132v10M8 75h10M132 75h10" stroke="#fff"/></svg>
+  </div>
+</section>
+
+<!-- PREUVES -->
+<section class="bg-surface border-b border-line" aria-label="Nos engagements">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-8 grid sm:grid-cols-3 gap-6 text-[15px]">
+    <p><strong class="font-display text-2xl uppercase block">Un chauffeur attitré</strong>Le même conducteur pendant tout votre programme, qui connaît l'itinéraire et vos habitudes.</p>
+    <p><strong class="font-display text-2xl uppercase block">Discrétion garantie</strong>Aucun enregistrement, aucun partage de vos déplacements. Engagement de confidentialité signé sur demande.</p>
+    <p><strong class="font-display text-2xl uppercase block">Devis écrit</strong>Heures, kilomètres et dépassements sont indiqués avant le départ du véhicule.</p>
+  </div>
+</section>
+
+<!-- FORFAITS HORAIRES : tableau -->
+<section id="goi-gio" class="max-w-6xl mx-auto px-4 sm:px-6 py-16 lg:py-24">
+  <div class="grid lg:grid-cols-12 gap-8">
+    <div class="lg:col-span-4">
+      <h2 class="text-5xl sm:text-6xl font-bold leading-[0.95]">Choisissez une plage horaire, pas chaque kilomètre</h2>
+      <p class="mt-4 text-muted">Tarif fixe pour la plage choisie. Les heures supplémentaires sont facturées au tarif horaire de dépassement.</p>
+    </div>
+    <div class="lg:col-span-8 border-t-2 border-ink">
+      <div class="grid grid-cols-[88px_1fr] sm:grid-cols-[140px_1fr_auto] gap-x-5 items-center py-5 border-b border-line">
+        <span class="font-display text-5xl sm:text-6xl font-bold">4 h</span>
+        <span class="text-[15px] text-muted">Rendez-vous, accueil d'invités, demi-journée d'événement. Environ [NOMBRE DE KM] km inclus.</span>
+        <span class="col-span-2 sm:col-span-1 mt-2 sm:mt-0 font-semibold">[VOTRE PRIX]</span>
+      </div>
+      <div class="grid grid-cols-[88px_1fr] sm:grid-cols-[140px_1fr_auto] gap-x-5 items-center py-5 border-b border-line">
+        <span class="font-display text-5xl sm:text-6xl font-bold">8 h</span>
+        <span class="text-[15px] text-muted">Une journée d'affaires avec plusieurs étapes. Environ [NOMBRE DE KM] km inclus.</span>
+        <span class="col-span-2 sm:col-span-1 mt-2 sm:mt-0 font-semibold">[VOTRE PRIX]</span>
+      </div>
+      <div class="grid grid-cols-[88px_1fr] sm:grid-cols-[140px_1fr_auto] gap-x-5 items-center py-5 border-b border-line">
+        <span class="font-display text-5xl sm:text-6xl font-bold">12 h</span>
+        <span class="text-[15px] text-muted">Longue journée, dîner, retour tardif des invités. Pauses du chauffeur conformes à la réglementation.</span>
+        <span class="col-span-2 sm:col-span-1 mt-2 sm:mt-0 font-semibold">[VOTRE PRIX]</span>
+      </div>
+      <div class="grid grid-cols-[88px_1fr] sm:grid-cols-[140px_1fr_auto] gap-x-5 items-center py-5 border-b border-line">
+        <span class="font-display text-5xl sm:text-6xl font-bold">2 j +</span>
+        <span class="text-[15px] text-muted">Plusieurs jours : roadshow, délégation étrangère, déplacement en province. Devis sur mesure, hébergement du chauffeur compris.</span>
+        <span class="col-span-2 sm:col-span-1 mt-2 sm:mt-0 font-semibold">Sur devis</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CHAUFFEURS -->
+<section id="tai-xe" class="bg-surface border-y border-line">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-16 lg:py-24 grid lg:grid-cols-12 gap-10 items-center">
+    <div class="lg:col-span-5 ph aspect-[4/5]">Photo du chauffeur et du véhicule · 4:5</div>
+    <div class="lg:col-span-7">
+      <h2 class="text-5xl sm:text-6xl font-bold leading-[0.95]">Celui qui conduit fait partie du service</h2>
+      <dl class="mt-8 divide-y divide-line border-y border-line">
+        <div class="py-4 grid sm:grid-cols-[180px_1fr] gap-1 sm:gap-6"><dt class="font-display text-2xl uppercase font-semibold">Sélection</dt><dd class="text-muted text-[15px]">Vérification du casier, du permis et de l'historique de conduite avant toute mission.</dd></div>
+        <div class="py-4 grid sm:grid-cols-[180px_1fr] gap-1 sm:gap-6"><dt class="font-display text-2xl uppercase font-semibold">Savoir-être</dt><dd class="text-muted text-[15px]">Tenue soignée, ouverture des portières, silence quand vous devez téléphoner.</dd></div>
+        <div class="py-4 grid sm:grid-cols-[180px_1fr] gap-1 sm:gap-6"><dt class="font-display text-2xl uppercase font-semibold">Préparation du véhicule</dt><dd class="text-muted text-[15px]">Véhicule nettoyé et contrôlé avant chaque mission, avec eau, serviettes fraîches et chargeur de téléphone.</dd></div>
+      </dl>
+    </div>
+  </div>
+</section>
+
+<!-- OCCASIONS -->
+<section id="dip" class="max-w-6xl mx-auto px-4 sm:px-6 py-16 lg:py-24">
+  <h2 class="text-5xl sm:text-6xl font-bold leading-[0.95] max-w-3xl">Quand faire appel à un chauffeur privé</h2>
+  <div class="mt-10 grid md:grid-cols-3 gap-px bg-line border border-line">
+    <article class="bg-ground p-7"><span class="font-display text-5xl font-bold text-accent2">01</span><h3 class="mt-3 text-3xl font-semibold">Dirigeants et invités VIP</h3><p class="mt-3 text-[15px] text-muted">Accueil d'un partenaire à l'aéroport, hôtel, réunion puis dîner, sans jamais changer de véhicule.</p></article>
+    <article class="bg-ground p-7"><span class="font-display text-5xl font-bold text-accent2">02</span><h3 class="mt-3 text-3xl font-semibold">Événements et mariages</h3><p class="mt-3 text-[15px] text-muted">Voiture des mariés, navettes pour les invités, un planning calé sur le déroulé de la journée.</p></article>
+    <article class="bg-ground p-7"><span class="font-display text-5xl font-bold text-accent2">03</span><h3 class="mt-3 text-3xl font-semibold">Famille et seniors</h3><p class="mt-3 text-[15px] text-muted">Rendez-vous médicaux, retours en famille, cérémonies. Le chauffeur attend et porte vos bagages.</p></article>
+  </div>
+</section>
+
+<!-- ÉTAPES -->
+<section class="bg-ink text-white on-ink">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-16 lg:py-20">
+    <h2 class="text-5xl sm:text-6xl font-bold leading-[0.95]">Trois étapes pour avoir votre chauffeur</h2>
+    <ol class="mt-10 grid md:grid-cols-3 gap-8">
+      <li><span class="font-display text-7xl font-bold text-accent">1</span><h3 class="text-2xl font-semibold">Envoyez votre programme</h3><p class="mt-2 text-[#C9D3D9] text-[15px]">Date, heure de début, lieu de prise en charge et arrêts prévus.</p></li>
+      <li><span class="font-display text-7xl font-bold text-accent">2</span><h3 class="text-2xl font-semibold">Recevez un devis écrit</h3><p class="mt-2 text-[#C9D3D9] text-[15px]">Forfait adapté, type de véhicule, conditions de dépassement.</p></li>
+      <li><span class="font-display text-7xl font-bold text-accent">3</span><h3 class="text-2xl font-semibold">Rencontrez votre chauffeur à l'heure</h3><p class="mt-2 text-[#C9D3D9] text-[15px]">Nom du chauffeur et immatriculation envoyés la veille.</p></li>
+    </ol>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section id="hoi-dap" class="max-w-3xl mx-auto px-4 sm:px-6 py-16 lg:py-24">
+  <h2 class="text-5xl sm:text-6xl font-bold leading-[0.95]">Vos questions fréquentes</h2>
+  <div class="mt-8 border-t border-ink">
+    <details class="border-b border-line"><summary class="font-semibold">À partir de quand les heures sont-elles comptées ?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">Dès l'arrivée du véhicule au lieu de prise en charge jusqu'à la dépose finale, comme indiqué dans le devis écrit.</p></details>
+    <details class="border-b border-line"><summary class="font-semibold">Puis-je modifier le programme en cours de route ?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">Oui. Vous pouvez changer les arrêts dans la même plage horaire. En cas de dépassement, l'heure supplémentaire est facturée [TARIF HORAIRE DE DÉPASSEMENT].</p></details>
+    <details class="border-b border-line"><summary class="font-semibold">Accueillez-vous des clients étrangers ?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">Oui, certains chauffeurs parlent anglais : [LANGUES PROPOSÉES]. Précisez votre demande en envoyant votre programme.</p></details>
+    <details class="border-b border-line"><summary class="font-semibold">Comment se déroulent le paiement et la facturation ?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">Virement ou compte entreprise, avec facture électronique envoyée après la mission.</p></details>
+  </div>
+</section>
+
+<!-- APPEL À L'ACTION -->
+<section id="giu-lich" class="bg-accent">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-14 grid md:grid-cols-12 gap-8 items-center">
+    <h2 class="md:col-span-7 text-5xl sm:text-7xl font-bold leading-[0.9]">Réservez votre chauffeur pour le jour J</h2>
+    <div class="md:col-span-5 md:text-right">
+      <p class="text-lg font-medium">[VOTRE NUMÉRO DE TÉLÉPHONE] · [VOTRE E-MAIL]</p>
+      <a href="#giu-lich" class="mt-4 inline-flex items-center justify-center min-h-[52px] px-8 bg-ink text-white font-semibold">Envoyer mon programme</a>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer class="bg-ink text-[#C9D3D9] on-ink">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-10 grid md:grid-cols-3 gap-8 text-[15px]">
+    <div><p class="font-display text-2xl font-bold uppercase tracking-[.12em] text-white">Vitesse<span class="text-accent">.paris</span></p><p class="mt-2">[VOTRE ADRESSE]</p></div>
+    <div><p class="font-semibold text-white">Contact</p><p class="mt-2">[VOTRE NUMÉRO DE TÉLÉPHONE] · [VOTRE E-MAIL]</p></div>
+    <div><p class="font-semibold text-white">Mentions légales</p><p class="mt-2">Carte professionnelle : [NUMÉRO DE CARTE PROFESSIONNELLE]</p></div>
+  </div>
+</footer>
+<script>
+var b=document.getElementById('mbtn'),n=document.getElementById('mnav');
+b.addEventListener('click',function(){var o=n.classList.toggle('hidden')===false;b.setAttribute('aria-expanded',o);b.setAttribute('aria-label',o?'Fermer le menu':'Ouvrir le menu')});
+n.addEventListener('click',function(e){if(e.target.tagName==='A'){n.classList.add('hidden');b.setAttribute('aria-expanded','false')}});
+</script>
+</body>
+</html>

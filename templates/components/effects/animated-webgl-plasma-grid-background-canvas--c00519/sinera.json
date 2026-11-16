@@ -1,0 +1,45 @@
+{
+  "id": "SN-C00519",
+  "title": "Animated WebGL Plasma Grid Background Canvas",
+  "summary": "Full-screen HTML canvas rendering a purple/blue plasma grid via custom WebGL shaders. Auto-resizes and animates continuously, ideal for hero sections, landing pages, or interactive visual backdrops.",
+  "tags": [
+    "canvas",
+    "background",
+    "webgl",
+    "shader",
+    "animated",
+    "full-screen",
+    "graphics",
+    "visual",
+    "html"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26798,
+      "sha256": "6e15695d4e2a8d47b584bf028cf1c4a7dbbaf90cee39e8a214c811b73f0e09a2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8986,
+      "sha256": "532c505409ee924aae7e729c8c66a3eccf801a097c7a2e6352b44c284153b429"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9851,
+      "sha256": "82b04941783961ee12494f866b7adb8025129973bbb68453a7107cdf3e0a2c25"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

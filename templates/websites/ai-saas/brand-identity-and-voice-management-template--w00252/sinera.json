@@ -1,0 +1,61 @@
+{
+  "id": "SN-W00252",
+  "title": "Brand Identity and Voice Management Template",
+  "summary": "A professional dashboard template designed to manage brand voice profiles, visual identity guidelines, and AI-driven content training sources.",
+  "tags": [
+    "Technology",
+    "Brand",
+    "Brand Guidelines",
+    "Clean",
+    "Minimal",
+    "Services",
+    "Flat"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3588,
+      "sha256": "36be317060e56c8fb773b1166c800e2b94244ab9ab059e9469ef5e838f80b69b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14748,
+      "sha256": "808510c3e080ff685299cd41bb8706578e5834632c2e157a7f30317d7799db67"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "cbafa384f8fdd812e98101862f4f372a47e3e108d30d11ec9d54ca2e30c2bcc6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 66890,
+      "sha256": "f9776a454f3aa53531bd8d905bb00bae3134e16448b1bfc82f474cf393137c05"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "logo-cloud",
+    "contact-form",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

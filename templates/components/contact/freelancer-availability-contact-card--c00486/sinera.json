@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00486",
+  "title": "Freelancer Availability & Contact Card",
+  "summary": "Glassmorphic info card showing next opening, response time, scope, rate and CTA button. Built with Tailwind utility classes, responsive grids and subtle shadows for use in portfolio or agency sites.",
+  "tags": [
+    "card",
+    "tailwind",
+    "info",
+    "glassmorphic",
+    "responsive",
+    "portfolio",
+    "call-to-action"
+  ],
+  "kind": "components",
+  "category": "contact",
+  "categoryLabel": "Contact & maps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9284,
+      "sha256": "98563b47a9b98647207f07485661b017e003e88ef5bf25a7724155d760fa244f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3948,
+      "sha256": "9d94f8aa9380ee54aec623f0f7a2d7cd3f1a179e1276a1706b3aac37976abb4b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4941,
+      "sha256": "79f3db535027cbd76be7966583f9b8b3cac29940ded7e6b0228a719f31844999"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

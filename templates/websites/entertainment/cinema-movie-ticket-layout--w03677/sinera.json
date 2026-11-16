@@ -1,0 +1,57 @@
+{
+  "id": "SN-W03677",
+  "title": "Cinema Movie Ticket Layout",
+  "summary": "HTML and Tailwind CSS code creating a stylized movie ticket UI with show details, barcode, and vertical branding section.",
+  "tags": [
+    "Movie Ticket",
+    "Tailwind CSS",
+    "Barcode",
+    "Vertical Text",
+    "UI Layout",
+    "Responsive Design",
+    "Custom CSS"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2740,
+      "sha256": "cde1e6a7aaf50af8ae5b1a9f79c70f1248a240595caa395ad7ba15c59a871edd"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8812,
+      "sha256": "5e635dbf7b475f5fbb1908796b42d13eee03b5a281c0ebbd7b3a8cee0db827c0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 717,
+      "sha256": "ce8f5fa2adb3a68b4d4a008643d538b730b47f26a2e8dd00a8e79c47c48828e0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5911,
+      "sha256": "a0bca950dfa11a923c8a5ddce903ea099ff136b9112b9eceee79462536f0511e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "snippet",
+  "components": [],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "cart-checkout",
+  "design": "DESIGN.md"
+}

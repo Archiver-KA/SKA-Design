@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00489",
+  "title": "Location Info Banner with Portfolio Link",
+  "summary": "Pill-shaped banner shows location text with map-pin icon and a portfolio CTA link. Built with Tailwind flex utilities; suits hero headers, footers, or contact sections.",
+  "tags": [
+    "banner",
+    "info",
+    "link",
+    "tailwind",
+    "flexbox",
+    "icon",
+    "cta",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "contact",
+  "categoryLabel": "Contact & maps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3768,
+      "sha256": "c0e3c45cbb818d4e8304e47b8676532d7c08c14bc8d8e3fe9e6fa368e7bd8936"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1399,
+      "sha256": "6395b4523263113bbe48f2d1b5064ad3bcf99b3dd69f1196a58accbc4f958dbb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2390,
+      "sha256": "78a7e6dc3ff202ae0cc65baca9e9ee95a9197fdc50e41c3b6b9246c67ef35b6b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

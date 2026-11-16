@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01311",
+  "title": "Cybersecurity Hero with Radar UI Dashboard",
+  "summary": "Full-width hero section featuring an animated radar background and glassmorphism security monitoring dashboard. Uses Tailwind-style utility classes, Lucide icons, and Chart.js for a live traffic chart. Ideal for SaaS security or DevOps monitoring landing pages.",
+  "tags": [
+    "hero",
+    "section",
+    "ui",
+    "dashboard",
+    "tailwind",
+    "animated",
+    "interactive",
+    "chartjs"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20766,
+      "sha256": "a7e64b0a1f7d82562e7d4782b46d0c0ed736c950c785265828cf12729e05aeb6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 25030,
+      "sha256": "2dfcef1d434ef50bf3d3faab1c143b12bf601e9b1c55651292d4eab700b37ba8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25893,
+      "sha256": "1d8a349d90f1f90345ed8cad6b5114f91e5af015733315536b2910e56e38af3a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

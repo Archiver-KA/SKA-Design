@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02152",
+  "title": "Vertical Timeline Card with Dotted Markers",
+  "summary": "Tailwind-styled vertical timeline card that lists chronological events with year labels and dot indicators. Suited for resumes, project milestones, or company history sections, especially in dark-themed interfaces.",
+  "tags": [
+    "timeline",
+    "card",
+    "list",
+    "tailwind",
+    "vertical",
+    "chronology",
+    "resume"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5528,
+      "sha256": "bd1f6fe32168dc077a832e38e5bd52091dd14d7f7f5c1d1f771fac148d3a930a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2022,
+      "sha256": "423e6a843d15332185065bc8d15399d424dae0bdbc820308bb41a7ec74e409ef"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3015,
+      "sha256": "cb1b74131c62b5f3a558a5b9a4030fc35dd677ac3038f5cbf5c1a80daf980bc5"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

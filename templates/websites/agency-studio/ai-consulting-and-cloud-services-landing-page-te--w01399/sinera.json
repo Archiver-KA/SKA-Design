@@ -1,0 +1,70 @@
+{
+  "id": "SN-W01399",
+  "title": "AI Consulting & Cloud Services Landing Page Template",
+  "summary": "A reusable template for AI consulting and cloud services firms to showcase strategy, capabilities, AWS expertise, and drive consultation calls.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Clean",
+    "Large Type",
+    "Minimal",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3974,
+      "sha256": "4601f866f9eb1c14c83e28a5a11f073f6a73a6b4979115a618b371a5cdb7ce63"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16712,
+      "sha256": "3ccea2dd943cdb7fa2582f0423c8eb4ffecab9384d2c42666efa8536797dc818"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 829,
+      "sha256": "dd3fd32e04bc8a310c5615621d5767b031061be2a8123231184562157f293e9b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32460,
+      "sha256": "673e879467b4424e63a7085c20213286f7598099a5baedd789e08c69c073fc12"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "team",
+    "features",
+    "how-it-works",
+    "stats",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

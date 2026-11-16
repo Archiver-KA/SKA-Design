@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00129",
+  "title": "Cinematic WebGL Space Launch Button",
+  "summary": "A high-fidelity interactive button featuring a WebGL shader portal background with starfield warp effects. It includes GSAP animations for entry, parallax mouse tracking, and a flash effect on click. Ideal for primary calls-to-action or gaming interfaces.",
+  "tags": [
+    "button",
+    "tailwind",
+    "webgl",
+    "gsap",
+    "animated",
+    "interactive",
+    "dark-mode"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2542,
+      "sha256": "dbdfe091e5d7bd3ecc0438fa22f58116100096fa61db8fb208439d241975bb02"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6614,
+      "sha256": "731f089e165647fea53fefeed9055eae7915179a4a9629092c57ca45c46cd6fb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7470,
+      "sha256": "514bc84a38c738e51d2261c00b39e3915afc00a5b71e4d04f2e9065d52f2108c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

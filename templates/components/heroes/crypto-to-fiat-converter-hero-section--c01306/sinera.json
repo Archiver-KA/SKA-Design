@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01306",
+  "title": "Crypto-to-Fiat Converter Hero Section",
+  "summary": "Full-screen sci‑fi hero with navigation and an interactive USDC to INR converter card. Features animated rings, real-time conversion logic, mouse-based 3D tilt, Tailwind utility classes, and a primary call-to-action for initiating asset migration.",
+  "tags": [
+    "hero",
+    "section",
+    "interactive",
+    "converter",
+    "crypto",
+    "tailwind",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22058,
+      "sha256": "d09b86f9218b1486a04967366a55f49d5c60dce17f8b169b4865a2840d63f2de"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7437,
+      "sha256": "62cdef7edb2e2e9c578e476a30df49f097671dd23d341bcc2988bae501ac534c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8295,
+      "sha256": "c21c4db928035704999d1ae0cd61d0fa019910d073a50ecc6f19b3c7d05873fd"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "SN-W04076",
+  "title": "Renovation Services Landing Page Template",
+  "summary": "A modern template for renovation and remodeling companies to showcase services, process, and lead-capture for full-service home reforms.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3829,
+      "sha256": "1e7603d97448b40f86708176e1129967a3d3e8f307fbe71555d50f8bc28a8343"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 29306,
+      "sha256": "7551a8f0654e90ccaf23a2abc200771d7e65b402fd7f4efaea8a89e1bc5fd853"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1567,
+      "sha256": "0891aa01e029d38bbb791e77299aacc969a85b0de703a4c8d02c8cd9ed0687ab"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 450,
+      "sha256": "c5f13724a37c0eddf716204c35c38840030d62bb55029a2016175775ce8b4c70"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 307,
+      "sha256": "82d6dccd78480e9c5156001a823b268dc1c3dd29314c877658eaf05ddad07c37"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 291,
+      "sha256": "369935b960ec80f3372e14d5831af7f915db6246a252cd6cdcb15c538f8aa170"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 699,
+      "sha256": "e1154b6a82e91b72293715857275c788df70a03bcc1f6433fe93f893d35f831d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 82355,
+      "sha256": "512e202179fa5ff27abcf2efc538f3c9653bdd0f79401d1de43e5be8a62c5aee"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "listings",
+    "testimonials",
+    "bento-grid",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01167",
+  "title": "Responsive Logo Header",
+  "summary": "A full-width header section with centered logo, ideal for navigation bars or page headers with responsive sizing for mobile and desktop.",
+  "tags": [
+    "header",
+    "logo",
+    "navigation",
+    "responsive",
+    "centered"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1356,
+      "sha256": "f02af35ab8e2462c872ad7747d1dc21b95209a9da9f380eef13f025029c3f5f6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 340,
+      "sha256": "05faca664e969d4f81c20221c4487989a9543f2de32bcd4e4f706344435052cf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1183,
+      "sha256": "b99c3e9f75f01316678da87880b475654e1657e0b442ce9387ecf147696df8f4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

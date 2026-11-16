@@ -1,0 +1,27 @@
+<svg
+              viewBox="0 0 160 160"
+              class="h-52 w-52 -rotate-90"
+              fill="none"
+              aria-hidden="true"
+            >
+              <circle
+                cx="80"
+                cy="80"
+                r="72"
+                stroke="#B8A4FF"
+                stroke-opacity="0.12"
+                stroke-width="3"
+              ></circle>
+              <circle
+                class="ring-active"
+                cx="80"
+                cy="80"
+                r="72"
+                stroke="#7B5CFF"
+                stroke-width="3"
+                stroke-linecap="round"
+                stroke-dasharray="452.4"
+                stroke-dashoffset="122"
+                style="filter:drop-shadow(0 0 6px rgba(123,92,255,.55));"
+              ></circle>
+            </svg>

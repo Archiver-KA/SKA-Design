@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01560",
+  "title": "Eddie Solutions Agency Landing Page Template",
+  "summary": "A modern, conversion-focused landing page template for freelance or boutique web agencies like Eddie Solutions to showcase services, results, and capture discovery calls.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Portfolio",
+    "Agency"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3812,
+      "sha256": "afd2793339f720675b6fe0d39eb4f33f4776f014aaf1ebba89c0d969285e7e18"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18386,
+      "sha256": "d1645d8888b262d3e9b4fe7e7e8acc5708a58d39f2d4c160efcddb2e190b4996"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 882,
+      "sha256": "07ee70d7f941dc5ef8d157c487a3279d4a227a1be4b419dc4fb5436f5890e2b4"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 307,
+      "sha256": "71160fa9a7e973b57cf7687f78911346679861756b42006408bf89f84a63303a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 61963,
+      "sha256": "2209d0cf9272e338c9958ccb48409090846ab4f15511b9550576f85b136d7180"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "features",
+    "stats",
+    "team",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

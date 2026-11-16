@@ -1,0 +1,59 @@
+{
+  "id": "SN-W00643",
+  "title": "Pricing Plans Layout for AI Tools",
+  "summary": "Responsive pricing section showcasing three subscription tiers with features and call-to-action buttons using Tailwind CSS.",
+  "tags": [
+    "Pricing",
+    "Tailwind CSS",
+    "Responsive Design",
+    "Subscription Plans",
+    "UI",
+    "Call-to-Action"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3556,
+      "sha256": "75afc1d56f18c4ff65fa7c4a24fe9a877ee11cfa10f689110c7516ee98c1ea2b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16232,
+      "sha256": "f3ae86a644a8a324e22cdd0c8d313a0503e18159ef98a09f396e1d8550d93709"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "7ae5c37ba1eea169484f00f07e47cb9ae6874ec5c12478eac29773bb4cdfa762"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5180,
+      "sha256": "7cbc2b89e71ddcfa398ebab45dbfdee9cdbc5b6fc99d50eb9b81f4c2d6e9b36e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero",
+    "pricing"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "pricing",
+  "design": "DESIGN.md"
+}

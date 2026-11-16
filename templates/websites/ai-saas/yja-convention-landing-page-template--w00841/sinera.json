@@ -1,0 +1,73 @@
+{
+  "id": "SN-W00841",
+  "title": "YJA Convention Landing Page Template",
+  "summary": "A vibrant event landing page template for promoting conventions like YJA 2026, featuring hero highlights, schedule teasers, and registration CTAs.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Conference",
+    "Clean",
+    "Colorful",
+    "Large Type",
+    "Gradient",
+    "Technology",
+    "Social",
+    "Event"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3974,
+      "sha256": "17700f2593a8e86009901ccb23fd498f8882f9c1ba199b4ad4a91eef0f887177"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19748,
+      "sha256": "2d844b4f02580a2e7d04e7488f45066b28baa2188050f6ddb19e0d62185e5324"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 953,
+      "sha256": "d2582836edf1c9af469784cf27adca1c39e13982380de01e108bc8d3ac282ead"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "845a8c33647082b21c3db87d511ee26caa07aa7a2c9bf6b015aad47a996ab97f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30222,
+      "sha256": "06ad93d00b45f2ac7c79c1b59221ff29b3b1f5804cb9addefa2d79e05f75e9cf"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "modal-overlay",
+    "marquee",
+    "about",
+    "gallery-portfolio",
+    "timeline",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

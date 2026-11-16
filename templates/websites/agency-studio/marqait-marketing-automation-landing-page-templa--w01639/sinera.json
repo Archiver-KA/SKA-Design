@@ -1,0 +1,70 @@
+{
+  "id": "SN-W01639",
+  "title": "Marqait Marketing Automation Landing Page Template",
+  "summary": "A sleek AI-powered marketing automation landing page template for SaaS platforms to showcase features, workflows, and CTAs for lead generation and demos.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "SaaS",
+    "AI Marketing",
+    "Automation"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3803,
+      "sha256": "01156a4542ad60f00d1aee3d30fb56d7bfc0c826fd08a6065236f0f8eabe2e57"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19746,
+      "sha256": "ed6a9a925b987261fcded923eef74ffd4099e517339eec9ae0c9966055283d7e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 827,
+      "sha256": "1ad37f217256fb7bca0c37d4f10f63211df59963a4ad72dd4948b271e59b98de"
+    },
+    {
+      "path": "index.html",
+      "bytes": 57367,
+      "sha256": "98f36d014542703f2984e5f958dbad07144fc93ca91431269b4dcab6f45dd1eb"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "stats",
+    "how-it-works",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

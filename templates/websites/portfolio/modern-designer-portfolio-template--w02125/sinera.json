@@ -1,0 +1,72 @@
+{
+  "id": "SN-W02125",
+  "title": "Modern Designer Portfolio Template",
+  "summary": "A high-end, dark-themed creative portfolio template designed for web designers and developers to showcase high-impact digital experiences.",
+  "tags": [
+    "Portfolio",
+    "Creative",
+    "Graphic Design",
+    "Dark",
+    "Minimal",
+    "Technology",
+    "Art & Design",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3841,
+      "sha256": "2d32974c03ed15ab2e5efddcb539dcc7e83097a118a958217715458179abb103"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10592,
+      "sha256": "57749f5db7b9be8b0fdbb70a998eb7c2507740334e03834bdacf1c4dd944702a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 867,
+      "sha256": "6443e7971869c6552fbeec505138b9b5c5541971e0a91ccc5ff4febab5a7e0ad"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 553,
+      "sha256": "0cc5acb3414e38e6b07104e6ae21abdccc2ccf9f7cdafb23e5372c41bfca5a2a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33851,
+      "sha256": "10582f1843eb5ee2eb65925525058842d0c95f2fe59f637dbcc09b4e0f732b65"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "case-studies",
+    "services",
+    "integrations",
+    "timeline",
+    "3d-canvas",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

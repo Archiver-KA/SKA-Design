@@ -1,0 +1,40 @@
+{
+  "id": "SN-C01047",
+  "title": "Invalid Input Error Message",
+  "summary": "This appears to be a URL rather than HTML code. Please provide actual HTML code containing UI components for analysis and extraction.",
+  "tags": [
+    "card",
+    "error",
+    "message",
+    "alert"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8380,
+      "sha256": "56aec220de4282f1ca1d18e7526c640f66897ea9b69cdfbce7199061811d128d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 996,
+      "sha256": "8a127ae3283057b316a8db84e6ce56003b6d5743ece7580329e24b6505fafd91"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1844,
+      "sha256": "7c8e89861834290a9202a3fdbb192bf6951c8bcb920e1b49463815dc0f64a683"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

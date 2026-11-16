@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03810",
+  "title": "Assistante Indépendante Landing Page Template",
+  "summary": "Landing page template for an independent administrative assistant or virtual secretary service, ready to customize for showcasing services and capturing client leads.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3810,
+      "sha256": "1a0ef67c9b8656599cb75679afca734d058cf911a3c67d9fb81635a8e939516e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17560,
+      "sha256": "e87daf9958d5b020700d4f34d331cbe8958ab1b7c65369918f16d553d8bcf1d1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 741,
+      "sha256": "2aaa8d3908deb98573249aa17e9a7f9aba09c2dafb378c6d72b42fff9ec1794c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36644,
+      "sha256": "0b921b6cf1666f70e85334336ec79f290d59974300ee29591194dc99885b0388"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "stats",
+    "features",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

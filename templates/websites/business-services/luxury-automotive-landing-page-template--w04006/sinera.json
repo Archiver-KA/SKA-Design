@@ -1,0 +1,63 @@
+{
+  "id": "SN-W04006",
+  "title": "Luxury Automotive Landing Page Template",
+  "summary": "A high-end, dark-themed landing page template designed for luxury car showcases, featuring performance metrics and heritage timelines.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Dark",
+    "Minimal",
+    "Animated",
+    "Portfolio",
+    "Clean",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3330,
+      "sha256": "8fe42dce39be7818acb7883af559bdfd048821229617dc2cb8ae240abe7abf41"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11164,
+      "sha256": "d998eb01bc2de859125014a4fd00ac708adacd9812473647c7274290a42a4839"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "e3a794d756f987ef39016e2382f77530f5778b4563e0e1278dfb802cf4a2ac7a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16819,
+      "sha256": "fbcbc67a107c4eb79be3590a9a93f138ea8628a3c4626f1000c1839a0dbca56a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

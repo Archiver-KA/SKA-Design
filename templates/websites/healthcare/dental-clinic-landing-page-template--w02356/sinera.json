@@ -1,0 +1,71 @@
+{
+  "id": "SN-W02356",
+  "title": "Dental Clinic Landing Page Template",
+  "summary": "A modern, conversion-focused dental clinic website template for promoting services, specials, and online appointment booking for local practices.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Dental",
+    "Medical",
+    "Local Business"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3890,
+      "sha256": "c9cf2a40b1ad617d2dacfb7d7414654c249e3b6a189b2fbbac539239c2385d7d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 26166,
+      "sha256": "c4af37951576e3f281ef85cd9f6c01ddc03ce4800f9aeef8d10da226cef2e4cd"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "7014928cd93057b4a881e7596a6beb4efa74ebf16665bf6141d1044787304169"
+    },
+    {
+      "path": "index.html",
+      "bytes": 50097,
+      "sha256": "895bead028d49f4b31a077dab53aba8fb4b29bca9a6808dd9e0a9ccddab3f7bf"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "announcement-bar",
+    "navbar",
+    "hero",
+    "product-grid",
+    "about",
+    "services",
+    "pricing",
+    "cta",
+    "testimonials",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

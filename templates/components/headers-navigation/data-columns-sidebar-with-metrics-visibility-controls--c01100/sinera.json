@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01100",
+  "title": "Data Columns Sidebar with Metrics & Visibility Controls",
+  "summary": "Interactive aside panel listing dataset columns with per-column stats, distribution charts and show/hide toggles. Built with Tailwind CSS and Lucide icons, ideal for data table explorers or analytics dashboards.",
+  "tags": [
+    "panel",
+    "data",
+    "columns",
+    "metrics",
+    "tailwind",
+    "interactive",
+    "lucide-icons"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10982,
+      "sha256": "14839f6e6bbb63caeaf7046e3b151132d46ba82c0f63a922b68d035fccf029e4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 18066,
+      "sha256": "8e5e1e729a7efe463acde41eb406d933f9722e004a97d4cb33004324aafca0a3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19076,
+      "sha256": "433b9020d233c60d05c01e4e4888ae829e78413dbcccfb3f45633bbe125f2bf0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

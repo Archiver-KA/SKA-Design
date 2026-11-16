@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02844",
+  "title": "Bakery Landing Page Template",
+  "summary": "A reusable bakery website template for artisan bread shops, pastry cafés, and local bakehouses to showcase menus, brand story, and customer inquiries.",
+  "tags": [
+    "Food",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Services",
+    "bakery",
+    "artisan",
+    "menu"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3572,
+      "sha256": "45fb45ce5094c3fefeef30b3ec625424202a41f8de2d8060d475cebaadc606ff"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14754,
+      "sha256": "00d6a552cb3da0eb9b9acb2192a1ca0940d1cd3b789067cfbcc585a5148ab0c1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 808,
+      "sha256": "09facade015ffdfdf8a5124814ae9be582b8d127e9b813864f88344bff2ef165"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23631,
+      "sha256": "f80e0e1bd8b007ee36746c1c4afc50073578f3d4c43a12f2095ba019a830e89d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "menu-list",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02031",
+  "title": "Gradient Pricing Section with Three Plans",
+  "summary": "Full-width pricing section featuring monthly/yearly toggle, highlighted popular plan, and three gradient cards (Starter, Team, Enterprise) with hover effects, icons, and feature lists. Built with Tailwind-like utility classes for modern SaaS pricing pages.",
+  "tags": [
+    "pricing",
+    "section",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 25284,
+      "sha256": "a30daa46ae91b6f9a64dd7d9bc4a86957f32021b042ebe5856493c94bf660ba8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 15915,
+      "sha256": "a2f3ecc97b128dbec32b8ba955f8cba7fdbab93107e787491e54fce1495f4086"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16867,
+      "sha256": "8935191e27ee49ba009f2c8eb112542345b3bcbd71269ab80eb703d92ddc56f1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01985",
+  "title": "UnicornStudio Project Embed Container Gray Wave with Sparkles",
+  "summary": "Embeds a UnicornStudio project via dynamic script loader. Initializes once on load, renders interactive content inside a resizable div—ideal for showcasing prototypes or widgets within any webpage.",
+  "tags": [
+    "embed",
+    "widget",
+    "script-loader",
+    "interactive",
+    "unicornstudio",
+    "vanilla-js",
+    "background"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3598,
+      "sha256": "9ea0880dc66f4bca1b41c181706b0f97e271c33f2513b1a775c44f9e836b021b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 521,
+      "sha256": "7d7e7fd1603dadeb6041eee52b2002bdd492d2a446e7ab7d3c9a963c3a7aba5f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1403,
+      "sha256": "e33348a9a84c8a319467fc38bd65f72d6aa410ae07ca80825c9f1f955ac2aad6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

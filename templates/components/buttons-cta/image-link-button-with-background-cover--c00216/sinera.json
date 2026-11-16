@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00216",
+  "title": "Image Link Button with Background Cover",
+  "summary": "Anchor element styled with Tailwind CSS to act as a compact 100×40 px clickable button featuring a background image, mix-blend multiply, and invert filter. Ideal for logo links, banners, or CTA thumbnails in responsive layouts.",
+  "tags": [
+    "link",
+    "image",
+    "tailwind",
+    "blend",
+    "responsive",
+    "logo"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1856,
+      "sha256": "3e636d437922b34d16760a11243ea72682c5c5a59e2b08b0e607cb52c5986a9d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 578,
+      "sha256": "906aee2d4d527de5a2ec6d7dd5e392aad6adf402c8913d9f51f0f4d2a9ef52d2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1438,
+      "sha256": "d00f889dadeed0a761f55322a800e48f45d4e52d0a0a72c135a03833547856f2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

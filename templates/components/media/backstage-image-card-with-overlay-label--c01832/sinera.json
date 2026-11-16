@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01832",
+  "title": "Backstage Image Card with Overlay Label",
+  "summary": "Dark-themed image card with grayscale-to-color hover effect, gradient overlay, and icon-labeled caption. Perfect for gallery or portfolio showcases.",
+  "tags": [
+    "card",
+    "dark",
+    "hover",
+    "image",
+    "gradient"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11832,
+      "sha256": "f7f0b511be218ede4a29751389c4b311b110c0f9ff30c3406a60aadbb8c82ac7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 700,
+      "sha256": "4fc6187d5f4b65059a5ac585cbddc7656069b654cac1bb050d7b354f901f8141"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1650,
+      "sha256": "cccdebb87cfb8a89977f76ecef0670fa78ca33fd360f7cd22e65c1ec4ccd5786"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

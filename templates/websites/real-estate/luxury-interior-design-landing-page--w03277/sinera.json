@@ -1,0 +1,70 @@
+{
+  "id": "SN-W03277",
+  "title": "Luxury Interior Design Landing PAGE",
+  "summary": "A premium landing page template for interior design studios to showcase services, portfolio work, testimonials, and consultation booking.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Interior Design",
+    "Portfolio",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Luxury",
+    "Premium"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3885,
+      "sha256": "90e95aa03ba04f6a33bbadbf6c5636b8edf56a8bc4db25e9ec86e14f4e44c148"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21110,
+      "sha256": "62d662ed8f03592d504453f7f63a722c999bcfb2446d886d2c58bde74319e697"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "d6fe0b9215461bdb4c370b92b64b108ae86c7a9a3fdd0b8177eaa79261fe1d9b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37674,
+      "sha256": "2b8133d8cff1ab9d0df6965a60e19d07309004a5d024b97fc20410630f30f098"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "pricing",
+    "how-it-works",
+    "bento-grid",
+    "gallery-portfolio",
+    "testimonials",
+    "contact-form",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

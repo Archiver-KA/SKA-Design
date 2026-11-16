@@ -1,0 +1,105 @@
+{
+  "id": "SN-W02001",
+  "title": "ECHOES Visual Experience Landing Page Template",
+  "summary": "A reusable landing page template designed to showcase immersive visual sound experiences through dynamic galleries, visual albums, and storytelling.",
+  "tags": [
+    "Landing Page",
+    "Visual Experience",
+    "Gallery",
+    "Animation",
+    "Interactive",
+    "Sound Visualization",
+    "Responsive",
+    "CTA",
+    "Portfolio",
+    "Creative"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3805,
+      "sha256": "b286a643fbbd11ece5c9ddbc54873dcccf6b35effe329befc763c513b664ec52"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3060,
+      "sha256": "ba9c49fdfd0740174038926bcce3be4dbf6163e38645ae9d20e83729ade60880"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2149,
+      "sha256": "2bf1ac829dc520fc967ed155c62a0c3851a4d5c762f707b3bad72d774246786a"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 269,
+      "sha256": "fc92fc77f327b9bf779e5fb0af178f8e4dd28b06898dd0d6f85404e091f540fd"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 230,
+      "sha256": "3ce3c796f65c7d1303614e654e5fdcca7c4103760c9e37b5cf14da78c96b377e"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 299,
+      "sha256": "f5f9a1646892565a9dcf33c167956bb8ef62195ce10a4c8d96875bcd442c5aad"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 441,
+      "sha256": "790dceb1e34e90032d03ede429ff67b6d897317a05921a2680ee69c800b8aff7"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 227,
+      "sha256": "9b50b53f001ef479cde26232298726baea2e352ee5ff9f4cc90d58737163330d"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 170,
+      "sha256": "487a45aabd549d3cad544d6b445c7aa3c3b56ab5d398d73522ce8c4559142314"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 303,
+      "sha256": "305cf7873a45f2b9d7b85e9b1c6e457e2de14613a66557bdcdf041d7176e39a1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31809,
+      "sha256": "ffa03a199770ea7fdb0cd39cfee1f496cdc651f1cebdea1bbfd522f43c9b479f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "blog-articles",
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "timeline",
+    "about",
+    "gallery-portfolio",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

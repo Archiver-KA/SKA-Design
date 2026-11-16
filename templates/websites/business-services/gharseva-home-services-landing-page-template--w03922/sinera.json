@@ -1,0 +1,66 @@
+{
+  "id": "SN-W03922",
+  "title": "GharSeva Home Services Landing Page Template",
+  "summary": "A premium, dark-themed landing page template designed for home service businesses, featuring service booking modules, transparent pricing, and professional trust sections.",
+  "tags": [
+    "Services",
+    "Landing Page",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Business",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4069,
+      "sha256": "49e1ef0e09933b66385f4a74c83755035aad82e130e1c97d9422e2c6b2bc9392"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13940,
+      "sha256": "894cae0441252a44377b8c6b46639596d19294707cfe98a859eaf7d2386e8088"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 739,
+      "sha256": "cb4bb878107066d25e8d53ff952f75ed9651305dd298df86e8c2ea5830089531"
+    },
+    {
+      "path": "index.html",
+      "bytes": 53921,
+      "sha256": "8cdcf50aa6a0f4c6a3f541e2b65a89cc6f7717c7b2437ba3b60653c16e8ca5c9"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "gallery-portfolio",
+    "services",
+    "pricing",
+    "testimonials",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

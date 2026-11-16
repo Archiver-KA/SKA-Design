@@ -1,0 +1,41 @@
+{
+  "id": "SN-C00362",
+  "title": "File Info Banner",
+  "summary": "An informational banner component displaying file paths with visual hierarchy. Great for notifications, alerts, or file operation confirmations in applications.",
+  "tags": [
+    "banner",
+    "info",
+    "notification",
+    "file",
+    "alert"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8666,
+      "sha256": "cf65bdbd5297e1d961079cf0e832cf51544d452303e6f48dd3c0bbd8b557dbcd"
+    },
+    {
+      "path": "component.html",
+      "bytes": 907,
+      "sha256": "cd3d585123433e20d07a2a5b0443cc70c891a4312ae218a39a5928f1afeb0ecb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1744,
+      "sha256": "bd9d9d90012c4570cab8f2868dffd8c8e39569bebdb8979f3301c1e9c067d1a6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

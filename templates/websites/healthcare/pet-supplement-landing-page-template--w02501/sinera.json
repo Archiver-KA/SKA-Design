@@ -1,0 +1,71 @@
+{
+  "id": "SN-W02501",
+  "title": "Pet Supplement Landing Page Template",
+  "summary": "A clean, senior-dog supplement landing page template for showcasing a 3‑in‑1 mobility formula, educating pet owners, and capturing email waitlist signups.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Services",
+    "Health",
+    "Pet supplements",
+    "Email capture",
+    "Product launch"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3676,
+      "sha256": "f8063eb0580b41669455eacbfebad5d8812067521f32a52010944f67468034c9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20742,
+      "sha256": "6f83a8155522a7f189b2f9d56cda4fc6135ea09b5d41799e46956c9f69f6ee01"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 865,
+      "sha256": "1b48ebc66c3fee3f90a9633d30f9af02fd5d7950546e5fe37a7ebeb48045f9ed"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 269,
+      "sha256": "1dd7012496e592d3352ccb989d5183bdd088fa2aecd572edac12227e7e992519"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25220,
+      "sha256": "3c8800542588cede6b60b77fe20d19467e792996ea9807c239e242fcdd7f6b5f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "bento-grid",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

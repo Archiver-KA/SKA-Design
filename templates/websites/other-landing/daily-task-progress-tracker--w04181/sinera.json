@@ -1,0 +1,63 @@
+{
+  "id": "SN-W04181",
+  "title": "Daily Task Progress Tracker",
+  "summary": "UI displaying daily tasks with linear progress steps, completion status, progress bar, and a continue action button.",
+  "tags": [
+    "HTML",
+    "TailwindCSS",
+    "Progress Bar",
+    "Task Tracker",
+    "UI",
+    "Web Design"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3115,
+      "sha256": "5d88267954a36f5869114fbece32d7ace6d5783b817c0fb30731862e104b58ad"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4008,
+      "sha256": "8e3e096ecce8fca3651e1115f3d4c3b66b35c6abab5c39a98c359c36d760653a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 863,
+      "sha256": "5fe040f8a65e0df795c6925fa799d6781e1546acf123f1c8b25fa1297cc51dd3"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 204,
+      "sha256": "70ab6b69ecde8dd9131fedf1f3530cb73bbe9b5a117de5aa9533798799d52665"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2905,
+      "sha256": "727610877fa761e923b756b5248a6da92b87eca30c06dd47592a3454c638a6be"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

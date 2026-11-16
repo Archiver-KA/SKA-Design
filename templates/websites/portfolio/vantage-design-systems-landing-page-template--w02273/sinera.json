@@ -1,0 +1,69 @@
+{
+  "id": "SN-W02273",
+  "title": "VANTAGE Design Systems Landing Page Template",
+  "summary": "A high-fidelity landing page template for agencies and studios to showcase revenue-focused design systems, processes, ROI, and client proof in a brutal, futuristic style.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Brutal",
+    "Futuristic",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3833,
+      "sha256": "fc1f772f3da57ec57144f2238962f92321634d39831adf8aa4c76f3fe37a5720"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18006,
+      "sha256": "efa6c2f4366cca4652c10062744049b284af4d9fb7dff414a4e1f506c9fc4280"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 732,
+      "sha256": "2c7c361251aab41f1136c684c68de6d276cea7f81d52a6d2938363e1ac311e45"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34763,
+      "sha256": "fe604d6fb0d3b7d652aef7cb6d2dfce2647e5dc398e31aeedb1bd96e49632e34"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "stats",
+    "features",
+    "how-it-works",
+    "case-studies",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "SN-W02904",
+  "title": "French Restaurant Landing Page Template",
+  "summary": "Elegant French restaurant website template for showcasing house-made cuisine, menus, catering and venue booking for local dining establishments.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Restaurant",
+    "Catering",
+    "French Cuisine"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3728,
+      "sha256": "6d19d772c0fc897502f36f76b0e1b025c88df4f7fc7a19b190fd471ecc19ccc1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16542,
+      "sha256": "368e0f526080c940a1de4a1f26442621827ecb3d7dff4656b046bde0a54b146c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 964,
+      "sha256": "40a10cd57bce704e256e256bd159a20bee5de01018dd353ed1b44743684f5af9"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 438,
+      "sha256": "83c988d7d20dca00642f04c4dcce9c678e112fe16a9a0ad2212e297a6c39bc88"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32410,
+      "sha256": "3d3ab9d655605b23e4538f909fec15dce3240f9b0c47294b8c7272c270ca9296"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "booking",
+    "hero",
+    "about",
+    "menu-list",
+    "services",
+    "gallery-portfolio",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

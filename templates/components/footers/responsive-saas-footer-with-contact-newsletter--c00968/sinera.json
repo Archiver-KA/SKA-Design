@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00968",
+  "title": "Responsive SaaS Footer with Contact & Newsletter",
+  "summary": "Multi-column footer for SaaS sites featuring navigation links, 24/7 contact panel, lead-capture form, email subscription field, social icons, and legal links. Tailwind CSS styling with glassmorphic backdrop and responsive grid layout.",
+  "tags": [
+    "footer",
+    "tailwind",
+    "responsive",
+    "contact-form",
+    "newsletter",
+    "navigation",
+    "social-icons",
+    "glassmorphism"
+  ],
+  "kind": "components",
+  "category": "footers",
+  "categoryLabel": "Footers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15470,
+      "sha256": "d14ec85d5895482aecce7791dbc45003cab13dbf0f5c1afef6d08b53b70a95bb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 17596,
+      "sha256": "599417ac7e6eb80eac5189b541dd39251398ddde56b7b2955e9c90b582bc73a8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18469,
+      "sha256": "ec1a6f909a32b9cc628beab881c11881ecabd322a9e4fc8a1c18d67b4a2a9917"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

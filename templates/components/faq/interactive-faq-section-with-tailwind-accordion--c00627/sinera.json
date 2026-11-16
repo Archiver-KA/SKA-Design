@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00627",
+  "title": "Interactive FAQ Section with Tailwind Accordion",
+  "summary": "Responsive FAQ section featuring animated accordion toggles, headline, CTAs, and image preview. Styled with Tailwind CSS and vanilla JS for expand/collapse behavior—ideal for SaaS landing pages, help centers, or support portals.",
+  "tags": [
+    "faq",
+    "accordion",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "section",
+    "landing page",
+    "vanilla js"
+  ],
+  "kind": "components",
+  "category": "faq",
+  "categoryLabel": "FAQ & accordions",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 33806,
+      "sha256": "ef228f378c47d805444f016bd8dbe585fbe40b06416d1f188cd794111e8e1f10"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12503,
+      "sha256": "453359a78da3a0f353302d4b72b11aeb84391871b59ce0b3cb2893af9378b51d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13371,
+      "sha256": "6ae2deb3213cc7aee94f943d8b9f3f2a17d226809d21694c8b4f66dd27f707c5"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "SN-W01938",
+  "title": "Dark Portfolio Landing Page Template",
+  "summary": "A moody personal portfolio template for creatives to showcase identity, visuals, and an atmospheric personal brand with immersive interactions.",
+  "tags": [
+    "Portfolio",
+    "Landing Page",
+    "Brand",
+    "Dark",
+    "Animated",
+    "Minimal",
+    "Art & Design",
+    "Personal Branding"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3282,
+      "sha256": "48db5a284916805333a439a65c038bd3e6e5e517d25e46736dcb554652fd14be"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7190,
+      "sha256": "915c11d0cdc920662d3cdf145b03095664b9784d5cedaaa2ab098b70cee3e7d8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 947,
+      "sha256": "bed1e47632954a22b8df1c9351c503231c74e5fc730b04347693bda17c62377c"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 234,
+      "sha256": "6bb37264cb96ff3a23fa68a16ae7a7daeafad8b3b083e1f21b44572634632404"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22529,
+      "sha256": "4f6631514d2480799a1ccc13b0267c34d32ed2e4fe24684483cc33420f67fbf1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "3d-canvas",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01165",
+  "title": "Responsive Hero Header with Tag Labels",
+  "summary": "Hero header built with Tailwind CSS featuring pill-style tags, bold multi-line headline, and supporting copy. Ideal for SaaS landing pages, product intros, or feature highlight sections.",
+  "tags": [
+    "hero",
+    "header",
+    "tag",
+    "tailwind",
+    "responsive",
+    "landing page",
+    "marketing",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12226,
+      "sha256": "1fcb178a2e46ea9d90195ca7cf0cbcfb92854da8a4409208216a4e50ade7fa20"
+    },
+    {
+      "path": "component.html",
+      "bytes": 869,
+      "sha256": "8aa5de6c668165a99675505971b5ce315b3e582d1d621a981f7d533401f9895a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1728,
+      "sha256": "adae54e7cc729f26f5757767eead2ba54015646659dd1f7a122d83de806bfd2d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

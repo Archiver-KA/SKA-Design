@@ -1,0 +1,76 @@
+{
+  "id": "SN-W00224",
+  "title": "Tessel High-Tech SaaS Landing Page Template",
+  "summary": "A sophisticated, high-tech landing page template featuring 3D wireframe animations and diagnostic UI elements for professional data or software platforms.",
+  "tags": [
+    "Technology",
+    "Futuristic",
+    "Landing Page",
+    "Clean",
+    "Dark",
+    "3D",
+    "Animated",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3781,
+      "sha256": "5bd2947c36a02ae016d66246db8eb9589b08c2e6b594f0d9cb21094148d91e17"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22696,
+      "sha256": "3c480f8699d0da39cba9caf0359afa0a03b40f2636f5e49256289a4d29514d1d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1073,
+      "sha256": "2f0a354d738a313240217d732ff2106ce852ce668d58851315effbb9deda71c3"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "2b07fd6bdb9fac52f5f7f1f19b01f6f4bfcd81cd9ca7dd79c7b5e95042ef659a"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 893,
+      "sha256": "5c63bb776c9168b11d9abf944a3a6c7ddfa7a1720ab9691ddd9b0ba47b245437"
+    },
+    {
+      "path": "index.html",
+      "bytes": 79951,
+      "sha256": "9a255a4fd22e974c66099ff3e654e3a018c92179658a430451b2d883e276445b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "3d-canvas",
+    "gallery-portfolio",
+    "product-grid",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

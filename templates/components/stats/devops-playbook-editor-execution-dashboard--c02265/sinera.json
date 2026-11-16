@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02265",
+  "title": "DevOps Playbook Editor & Execution Dashboard",
+  "summary": "Dark, responsive dashboard for creating and running automation playbooks. Features multi-panel layout with code editor, live collaboration indicators, AI chat, stats, parameter controls and execution actions. Styled with Tailwind CSS for quick theming.",
+  "tags": [
+    "dashboard",
+    "code-editor",
+    "devops",
+    "playbook",
+    "tailwind",
+    "responsive",
+    "dark",
+    "collaboration",
+    "automation"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 29274,
+      "sha256": "bfd7b391201866cbd3044caf663cd2d4cbc7dd1463c8cc5d26336ed30b35cbb0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 34231,
+      "sha256": "64c8cfd1bd36e0df004cfe81f307269bd73d61d455b50cfd2199cfcc572efc17"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35100,
+      "sha256": "53affd730ffce7fe4b1a18bca66956906a0388b1827f37e13aa2cee3547f26b7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

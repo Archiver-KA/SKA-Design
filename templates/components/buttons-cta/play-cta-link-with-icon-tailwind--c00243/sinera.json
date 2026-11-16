@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00243",
+  "title": "Play CTA Link with Icon (Tailwind)",
+  "summary": "Rounded anchor styled as a pill button using Tailwind CSS. Features a play SVG icon, hover transition, subtle backdrop blur, and is ideal for linking to video showreels or media content.",
+  "tags": [
+    "link",
+    "button",
+    "tailwind",
+    "icon",
+    "cta",
+    "rounded",
+    "hover",
+    "svg"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1748,
+      "sha256": "9cbde45f214b2fca7830b6d86662f7037c6c8530c57bffcedf5c2d21761d2b78"
+    },
+    {
+      "path": "component.html",
+      "bytes": 672,
+      "sha256": "747c9fa4c0cc52c9829a5cdd69e741181041c89c976573feed9e7cb76f98f8c7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1657,
+      "sha256": "dc0d5ceb28eb7ccf384d188a8c2d1237a3d73a7bdbf4112f5305365fe0dd96b5"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

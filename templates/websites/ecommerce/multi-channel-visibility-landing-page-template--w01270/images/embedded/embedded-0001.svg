@@ -1,0 +1,26 @@
+<svg class="w-full h-full overflow-visible" viewBox="0 0 340 170">
+                <!-- Definitions for Gradient -->
+                <defs>
+                    <linearGradient id="arcGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+                        <stop offset="0%" style="stop-color:#10b981" /> <!-- Emerald -->
+                        <stop offset="100%" style="stop-color:#3b82f6" /> <!-- Blue -->
+                    </linearGradient>
+                    <!-- Path definition re-used for text -->
+                    <path id="textPathCurve" d="M 20,150 A 150,150 0 0,1 320,150" />
+                </defs>
+
+                <!-- Dashed Track -->
+                <path d="M 20,150 A 150,150 0 0,1 320,150" fill="none" stroke="#e2e8f0" stroke-width="2" stroke-dasharray="6 6" stroke-linecap="round" />
+                
+                <!-- Active Colored Path -->
+                <path id="active-arc" d="M 20,150 A 150,150 0 0,1 320,150" fill="none" stroke="url(#arcGradient)" stroke-width="3" stroke-linecap="round" stroke-dasharray="471" stroke-dashoffset="471" />
+
+                <!-- Curved Labels -->
+                <text class="text-[10px] md:text-xs font-medium uppercase tracking-widest pointer-events-none" dy="-15">
+                    <textPath href="#textPathCurve" startOffset="0%" text-anchor="start" class="dial-text fill-slate-300">Target</textPath>
+                    <textPath href="#textPathCurve" startOffset="25%" text-anchor="middle" class="dial-text fill-slate-300">TikTok</textPath>
+                    <textPath href="#textPathCurve" startOffset="50%" text-anchor="middle" class="dial-text fill-slate-900 font-bold">Instagram</textPath>
+                    <textPath href="#textPathCurve" startOffset="75%" text-anchor="middle" class="dial-text fill-slate-300">eBay</textPath>
+                    <textPath href="#textPathCurve" startOffset="100%" text-anchor="end" class="dial-text fill-slate-300">Amazon</textPath>
+                </text>
+            </svg>

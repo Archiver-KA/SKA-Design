@@ -1,0 +1,13 @@
+<svg viewBox="0 0 100 50" class="w-full h-full overflow-visible">
+                                        <path d="M 10 50 A 40 40 0 0 1 90 50" fill="none" stroke="#262626" stroke-width="8" stroke-linecap="round" />
+                                        <!-- Active Arc (Animated) -->
+                                        <path d="M 10 50 A 40 40 0 0 1 90 50" fill="none" stroke="url(#gradientScore)" stroke-width="8" stroke-linecap="round" stroke-dasharray="126" stroke-dashoffset="5" class="gauge-circle" />
+                                        
+                                        <!-- Gauge Gradient Definition -->
+                                        <defs>
+                                            <linearGradient id="gradientScore" x1="0%" y1="0%" x2="100%" y2="0%">
+                                                <stop offset="0%" style="stop-color:#10b981" />
+                                                <stop offset="100%" style="stop-color:#34d399" />
+                                            </linearGradient>
+                                        </defs>
+                                    </svg>

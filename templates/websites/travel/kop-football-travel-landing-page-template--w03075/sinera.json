@@ -1,0 +1,64 @@
+{
+  "id": "SN-W03075",
+  "title": "KOP Football Travel Landing Page Template",
+  "summary": "A clean and minimal reusable template designed for soccer travel agencies, offering integrated match ticket, flight, and hotel pricing comparisons.",
+  "tags": [
+    "Travel",
+    "Technology",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Grid",
+    "Dark"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3499,
+      "sha256": "015c987872e6f8e45287fe25aeb6f0fa3e5531c1a84cd39137b66cf06e605f77"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12748,
+      "sha256": "d3d1f3310347520a4c62eaf132c952420d5e44652ceaddad069f0b75f56a40b9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "700312297d2c298989adad9dd1b47d14247581c8d2009b0f7ce3a9f66d232650"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33235,
+      "sha256": "3a2876e205098e9dd88724f44c9e7dfa02336eb02358391a4fa03e433a466944"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "comparison",
+    "video-media",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

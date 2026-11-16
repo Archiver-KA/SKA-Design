@@ -1,0 +1,71 @@
+{
+  "id": "SN-W01530",
+  "title": "Digital Agency Landing Page Template",
+  "summary": "A reusable template for digital agencies to showcase web design, e-commerce, AI automation services, portfolio work, testimonials, and lead capture.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "E-commerce",
+    "Dark",
+    "Grid",
+    "Minimal",
+    "Futuristic",
+    "Agency",
+    "AI"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3218,
+      "sha256": "4ec3f94c67e24f1bc3e03a5105f720838fdaf2266d0343a99e5f80b32747e983"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18620,
+      "sha256": "21904790f7398e848fff5f4bd307c9697bbdfdb09166198623cc922da02ffbf5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 870,
+      "sha256": "cb74ce5405a9e6a0fe449e2baa1f550f25e1d6a3d6125e4a50be0b05d8c2975d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 185,
+      "sha256": "791cee1596ac65238be5b53e502c0a5bf03efb00a79ebcfd23d4855d3742b3f7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40775,
+      "sha256": "59b1d6200c5ab0fe7a4726ef7cbea3e016bfce5243ab201d196eec332698fac5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "features",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

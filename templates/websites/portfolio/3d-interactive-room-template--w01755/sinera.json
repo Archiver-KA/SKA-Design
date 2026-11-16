@@ -1,0 +1,60 @@
+{
+  "id": "SN-W01755",
+  "title": "3D Interactive Room Template",
+  "summary": "A high-performance immersive WebGL environment template featuring a walkthrough 3D room with interactive objects and custom collisions.",
+  "tags": [
+    "Technology",
+    "3D",
+    "Animated",
+    "Dark",
+    "Futuristic",
+    "Portfolio",
+    "Interior Design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3190,
+      "sha256": "56266a904fa6d3a4fdeef907dfb124931e9f00cbda1918e7f4e40acee844abbf"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6656,
+      "sha256": "b46164ecd3b4abe68f9dbcc151df061bdcd0e693a7ab5b6b2b91f6db0f5f4c9b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 716,
+      "sha256": "7510cec6251056905138490b6bbb4ac976ae9375c5904913dea143593937d0b4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26786,
+      "sha256": "da9b7b447359ba23796cc2627032393c744ad07d1f8d296ad41971b963191247"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "snippet",
+  "components": [
+    "3d-canvas",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

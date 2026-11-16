@@ -1,0 +1,64 @@
+{
+  "id": "SN-W03985",
+  "title": "Legal Litigation Support Template",
+  "summary": "A high-performance legal services template designed for law firms needing sophisticated litigation staffing and case management solutions.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Business Category",
+    "Visual Style Category"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3603,
+      "sha256": "01dd0913de626fc85dce132873d284fa316b09ae89142bfd9ed00cdf5e03fa37"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 28578,
+      "sha256": "65a4ff1109df0e16ef4fb2abc588c3ff1aad836958bfd3bdb8e07eb5c18fadee"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "8caa6093ff284b0ab0ce5d7c885df91f1c370aa042c3c01a8e22478857b81b87"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25513,
+      "sha256": "f0bda88fd4c8b72f464d873905d0dbf2e70ceba52db5bc0a608403d4ac06da4c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "how-it-works",
+    "integrations",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

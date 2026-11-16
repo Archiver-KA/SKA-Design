@@ -1,0 +1,140 @@
+{
+  "id": "SN-W02192",
+  "title": "Product Designer Portfolio Template",
+  "summary": "A reusable portfolio template designed for product designers to showcase projects, process, skills, and contact information effectively.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Hero",
+    "Projects",
+    "Process",
+    "Skills",
+    "Contact",
+    "Testimonials",
+    "Design",
+    "UX/UI"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3614,
+      "sha256": "6f5351d9089bed00ca4d36a8082e69bec9f53715cd1fa3983925110ce50254ee"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12840,
+      "sha256": "111bc956bafad5432884d0362b5b9cb22ff22045356e4c3cad3a34346c42e40c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 3495,
+      "sha256": "3812f062acc6ce4c459559437590bdf9b408192a89028695327190fe79f01847"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 326,
+      "sha256": "a6e9671907e0668a20b432a032858eb5b8f7b73ca2c48c5cae4ef5bcdc14c766"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 384,
+      "sha256": "1e36ddca15c2edfb8719e5cfb17f1a3da72c5468a6d180ac57530fcc4aa35167"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 351,
+      "sha256": "7ce7f41868db63f431191c585b4fedd652221358f21c6e5cb925c66c6e96167e"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 489,
+      "sha256": "e92e684667c21c512955782541b46643cb39fff350655dd31a8b411bbb68c1b2"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 368,
+      "sha256": "5311a04475166117976edf92c59cb719462d7629cd7b31ab12f3036cff5a8c07"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 385,
+      "sha256": "487dd9a2493243b361055bdbc03d1bdb3f6917462d8448dd08a1a75d5ea895ba"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 633,
+      "sha256": "a3c8773fb6776f15215e7fce84b6c70dbf3a309d23d82e900ac17c8d20e05b2d"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 544,
+      "sha256": "f9e5de33dc172bebfd5769746857b17cadbf53ab5d04205a7ed4ac09938ca71d"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 377,
+      "sha256": "b42d9bba06a222e3ba2bcb80e0e66aaba4c813f59916f874c65cb732dad8e3b7"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 470,
+      "sha256": "0946b7b62cc6d2f6c30e64668d3206a6785db806556bd6b308dd6c99b0512782"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 326,
+      "sha256": "c4d06ef4830e500eff4d817f10bca9a4372fe1db81b30dae1703720407c5b49d"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 517,
+      "sha256": "49f09ce13ab5ef718bfcb95aac8b47f10140403ff19e44c3e1c959fd9dadf7b2"
+    },
+    {
+      "path": "images/embedded/embedded-0013.svg",
+      "bytes": 317,
+      "sha256": "8207d13808ee83749f0a49a43bc096b470e5f8b43d0726bce6c57906158bf3b0"
+    },
+    {
+      "path": "images/embedded/embedded-0014.svg",
+      "bytes": 391,
+      "sha256": "4acc4dfdde2824b8221240a65055b8164a50c386b266f99b9fc9b82207f9e5ce"
+    },
+    {
+      "path": "index.html",
+      "bytes": 48318,
+      "sha256": "0d1090ff11e4292cbbe8af6dd193de1f15dd0e67eb9cfd20bcc987ab69753934"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "navbar",
+    "case-studies",
+    "how-it-works",
+    "about",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

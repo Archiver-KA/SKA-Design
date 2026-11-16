@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01118",
+  "title": "Glassmorphic Navigation Bar with Logo and CTA",
+  "summary": "A glassmorphic, rounded-full navigation bar featuring a stylized logo, horizontal menu links, and a prominent Buy Now button. Built with utility classes (Tailwind-style), responsive visibility for links, and hover transitions for an elevated header experience.",
+  "tags": [
+    "menu",
+    "navigation",
+    "header",
+    "navbar",
+    "responsive",
+    "tailwind",
+    "glassmorphism"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3128,
+      "sha256": "c22b0c239baa2fb3ef1306e68c9b42d426ed2d2ef8b7c9ad35597ccd4682ee4b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2336,
+      "sha256": "e60b2111630a79bf023349e58a3616d26a87b7c013f05a149738665f5ae4d1af"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3202,
+      "sha256": "f4c6cf9e0056846a6659386826a21bee41e562d9de5cafb09d206664fe18efd5"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

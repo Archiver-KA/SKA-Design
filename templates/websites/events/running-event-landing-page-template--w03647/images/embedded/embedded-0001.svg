@@ -1,0 +1,12 @@
+<svg class="absolute inset-0 w-full h-full drop-shadow-[0_0_10px_rgba(163,230,53,0.8)]" viewBox="0 0 800 450">
+                    <path d="M150,350 C200,340 250,380 300,300 S400,150 500,200 S700,100 700,250" fill="none" stroke="#a3e635" stroke-width="4" stroke-linecap="round" stroke-dasharray="10 0" class="animate-[dash_2s_linear_infinite]"></path>
+                    
+                    <!-- Points -->
+                    <circle cx="150" cy="350" r="6" fill="#022c22" stroke="#ffffff" stroke-width="2" class="cursor-pointer hover:r-8 transition-all"></circle>
+                    <text x="130" y="380" class="text-[10px] fill-emerald-950 font-bold uppercase">Start</text>
+                    
+                    <circle cx="500" cy="200" r="6" fill="#ffffff" stroke="#022c22" stroke-width="2" class="cursor-pointer hover:fill-lime-400 transition-colors"></circle>
+                    
+                    <circle cx="700" cy="250" r="6" fill="#022c22" stroke="#ffffff" stroke-width="2" class="cursor-pointer hover:r-8 transition-all"></circle>
+                    <text x="680" y="280" class="text-[10px] fill-emerald-950 font-bold uppercase">Finish</text>
+                </svg>

@@ -1,0 +1,74 @@
+{
+  "id": "SN-W01991",
+  "title": "Director & Videographer Portfolio Template",
+  "summary": "A sleek dark portfolio template for directors, DPs, and video editors to showcase showreels, client work, services, and contact details.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Clean",
+    "Video portfolio",
+    "Filmmaker"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3431,
+      "sha256": "12372cfed63cb2a625b549ae9b9c1add442a331966b3e8807b8396e67edf1d00"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5144,
+      "sha256": "4b1bbe81df5fd89071e984fb91306178aa3901c857a6ba3ed552735f8ff5d46d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 870,
+      "sha256": "0240e2bd828568b569212eee1ad5e39fad73c1f07d4b8694089777aa15139fa2"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 242,
+      "sha256": "9e3c01b69ef386b04d8084501c989aee8d58470328e0709dbc1bb9617416321a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35681,
+      "sha256": "23893c3d2378f9dbd2b402462f338e95f807bffa13b8efa4cc2426751529835e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "video-media",
+    "logo-cloud",
+    "about",
+    "services",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

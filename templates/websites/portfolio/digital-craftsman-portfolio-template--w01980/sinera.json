@@ -1,0 +1,70 @@
+{
+  "id": "SN-W01980",
+  "title": "Digital Craftsman Portfolio Template",
+  "summary": "A dark, futuristic portfolio template for digital craftsmen and creative developers to showcase selected works and methodology with immersive scrolling effects.",
+  "tags": [
+    "Portfolio",
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Large Type",
+    "Grid",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3169,
+      "sha256": "c5dee8c5dc7b9551c5c0e6758a056647f04e0253ef4a3056790fca94580e2319"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4824,
+      "sha256": "d8e53ef515223e3b615bf603003d994e5dce1f863df0e44068ed1b6081d8cfbb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 864,
+      "sha256": "0f88176e6a606b468b841ca67462a128bce97ac6a7a7f37ef3d17084b70b6841"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22798,
+      "sha256": "e80dc8d4adf8a9416c0847ca15476bcae7f6e13534204743379bbbaed65d233f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "dashboard-preview",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03890",
+  "title": "Electrician Services Landing Page Template",
+  "summary": "A reusable landing page template for electricians and local electrical contractors to showcase services, projects, testimonials, and drive quote requests.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Local Business",
+    "Electrician",
+    "Home Services"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3971,
+      "sha256": "526437abd0e7c242f80c875a78b3e923908c6eac88cffa8c6fed76db8e0d415b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14296,
+      "sha256": "184b11f2e976aaf98a4745460bb040bdc101b0b94058edac3def0bc1d8ba2742"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 737,
+      "sha256": "94dab6ede660ed4e0799f0216ac9b745cb063de75fc1befb67b8f8d617203a24"
+    },
+    {
+      "path": "index.html",
+      "bytes": 52975,
+      "sha256": "9768b923b1dd7637cabc78f0841d3afeb69c356142ae9174f50bf5680c2b61a0"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "features",
+    "gallery-portfolio",
+    "map-location",
+    "faq",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

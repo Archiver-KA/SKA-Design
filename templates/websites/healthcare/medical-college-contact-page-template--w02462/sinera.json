@@ -1,0 +1,68 @@
+{
+  "id": "SN-W02462",
+  "title": "Medical College Contact Page Template",
+  "summary": "A customizable contact page template for medical colleges and hospitals, featuring enquiry forms, directories, maps, and visitor info for easy reuse.",
+  "tags": [
+    "Health",
+    "Services",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Brand",
+    "Education",
+    "Hospital",
+    "Contact Page",
+    "Directory"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3772,
+      "sha256": "bff1e152aa0d9ef6808a6f34aa9603313edd15901eab320430fe19c034337688"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15666,
+      "sha256": "79261837d2d9e77b1a986a9d089a7d64a22a5dfa3578fc318c70c52c394d5cd2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "81b0b8bf494e5c7ad1fac76fe97ac2131c2f8cde3d6651409bc29b0efdd5786a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41067,
+      "sha256": "64ae4e8eef937d91dc483a3f3b2ccdc91caf0ecbb6372a7abff983c9fd544707"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "map-location",
+    "contact-form",
+    "how-it-works",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "SN-C01703",
+  "title": "Logo Card Component",
+  "summary": "A card component featuring a logo with padding and subtle shadow, useful for partner logos, client showcases, or brand displays.",
+  "tags": [
+    "card",
+    "logo",
+    "shadow",
+    "hover"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3164,
+      "sha256": "043284b1c01449be7cbd1d9792658008c9dec4120242ba7c7cc2c62893d75e56"
+    },
+    {
+      "path": "component.html",
+      "bytes": 649,
+      "sha256": "0bba3615107d186493c6d9ecda8758657e2515bb52eb1b31b0e51cc87d107144"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1489,
+      "sha256": "f7d8c5aee195cac0895c0b12245722c6c8143a7ac2a291cbcbe87f8fa8d636b4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

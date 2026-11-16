@@ -1,0 +1,82 @@
+{
+  "id": "SN-W01328",
+  "title": "Sustainable Fashion E-commerce Landing Page Template",
+  "summary": "A reusable e-commerce template for sustainable fashion brands to showcase products, supply chain transparency, repair programs, and bold brand storytelling.",
+  "tags": [
+    "E-commerce",
+    "Landing Page",
+    "Fashion",
+    "Brand",
+    "Environmental",
+    "Dark",
+    "Editorial",
+    "Sustainable",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3574,
+      "sha256": "5772d356e41cb083db39106fc4941b28ce25e1d3c479e3492e1019dc323fe530"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10970,
+      "sha256": "8e443add3d89958ef9258c6db9798916ae903721a92090bda22b9c3a5fd23b32"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1164,
+      "sha256": "59831dc2f7c1204d9e4ae508dfb70ed886a3f2ebd9fd4a0035c134056ec1ba0e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 269,
+      "sha256": "88e5b25123acd561f0e245d6c9fc358466b5b7eb64ba33b799f4a9b314e4ddd5"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 294,
+      "sha256": "90c1eab69593a8582d3a28046bf309b6ede832369b33617fbf120380f0963651"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36944,
+      "sha256": "3754b39024e3e4ba9a2ebfe0cf62a80ee8f219e659ab6ae8bfbe4475c8ab8d49"
+    }
+  ],
+  "collection": "logistics",
+  "collectionCategory": "supply-chain",
+  "collectionLabel": "Logistics",
+  "collectionCategoryLabel": "Supply Chain",
+  "collectionConfidence": 0.88,
+  "collectionBasis": "business-keywords",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "cta",
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "logo-cloud",
+    "features",
+    "product-grid",
+    "stats",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

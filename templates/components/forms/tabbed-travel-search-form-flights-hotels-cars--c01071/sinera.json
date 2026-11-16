@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01071",
+  "title": "Tabbed Travel Search Form (Flights, Hotels, Cars)",
+  "summary": "Responsive Tailwind-based travel search widget featuring animated tabs for flights, hotels and cars, trip-type radio buttons, city/airport inputs, date pickers, traveler selector and gradient CTA. Ideal for booking or agency dashboards.",
+  "tags": [
+    "search-form",
+    "tabs",
+    "travel",
+    "tailwind",
+    "responsive",
+    "animated",
+    "booking",
+    "date-picker"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7918,
+      "sha256": "7dcf2d04930fc828980c07bd3f087aee4a1267032f0488be0486bdf82f307479"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9853,
+      "sha256": "302e7fef42bcdf7727ebbd5782e9ff61f999391106c095cd9c38568778cdeb6e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10853,
+      "sha256": "836c756b79f0eab78268cb71cc28e044e99929435663e33b29d880f3e7212dd7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "SN-W02724",
+  "title": "Beauty Salon Landing Page Template",
+  "summary": "A reusable beauty salon landing page template for spas and women-focused wellness brands to showcase services, galleries, reviews, and booking details.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Health",
+    "Fashion",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Brand",
+    "beauty salon",
+    "spa"
+  ],
+  "kind": "websites",
+  "category": "beauty-fashion",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3789,
+      "sha256": "73f24de02812f5e93b0f33ef8a38a0e02fd044e560bf2243e026807b22990131"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13464,
+      "sha256": "ef9529b373b46b35082e5c47c9877a6afa5f3aff90c059e5629b53d9b9fb250c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "b68a15db1c1c380a5ebf8683cd5480153dccbb59d7c01b45f79b749e4e360e1f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37034,
+      "sha256": "ca09a27a9eef48d0c84c6f1177d6164f18ebce09eb453196f0fd9c52ee6b919f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "beauty",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Beauty / Fashion",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "gallery-portfolio",
+    "testimonials",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

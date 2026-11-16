@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01503",
+  "title": "Viral Score Hero Card",
+  "summary": "Interactive score card with animated equalizer bars, shiny CTA button, and dynamic score counter. Shows viral potential with color-morphing animations and framework breakdown visualization.",
+  "tags": [
+    "card",
+    "animated",
+    "dark",
+    "score",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8072,
+      "sha256": "2e0f56c424260c430e7b183bce9d746d8f7dd182b06b71fa24bec374ca8c3dd7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 16590,
+      "sha256": "feb8c28163e3e33f29a81a74dbad79bcd02dc326804c82efdf4f9ac0c56e8261"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17432,
+      "sha256": "941bf36c5735d81f8997204b7e9116dfef487610fbf2a171e36a847ac6681f84"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

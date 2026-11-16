@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00584",
+  "title": "Karaoke Word Highlight Span",
+  "summary": "Span element that marks individual words for karaoke-style highlighting, includes locator attribute for testing or analytics; useful in animated lyrics, guided reading, or interactive subtitle features.",
+  "tags": [
+    "span",
+    "text",
+    "karaoke",
+    "highlight",
+    "animation",
+    "html",
+    "locator"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20788,
+      "sha256": "979d06af0596c472cc27aae461e038ff774d37bb02dd942c4c599a40edcf136a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13917,
+      "sha256": "a4110e166f29c6b6dc9cad17356e7aae28f6231bef194a4eaf2feff94307e86b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14895,
+      "sha256": "8793b0573f6c22b1e6de3a1eca95f93f6f096661af28027b47e57c228b877bff"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

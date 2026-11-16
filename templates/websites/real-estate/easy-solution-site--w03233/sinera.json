@@ -1,0 +1,82 @@
+{
+  "id": "SN-W03233",
+  "title": "easy solution site ",
+  "summary": "A reusable landing page template for premium contracting, civil infrastructure, and engineering firms to showcase services and capture project inquiries.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business Category",
+    "Technology",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Grid",
+    "Construction",
+    "Engineering"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3564,
+      "sha256": "44c4cf0d19422e2bc5fb5a6063d941dcec3cbbe9ae381e50bd63d9d0fe9ddeee"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5614,
+      "sha256": "0ad1211705838d88b89e3cd36e70e04daf44344b9c52e155ebe5c3ade1f46f20"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1243,
+      "sha256": "2cc2d3dbacafbfd9facfc17f03aa10f3d21cbdd43741b8809d7879eac419a5fe"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 319,
+      "sha256": "9fc7350ce8806bdb986cb1cdea40b826dbe143f0f361bef16350893ac6f2c7b4"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 574,
+      "sha256": "63279ef88f11348d54da13ccae4eeeacd03017b2828bf91b78e626779f531969"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 608,
+      "sha256": "02961d1f17a504d062337f141bb1690033a426d0c5b39a777a71341ea1e1d295"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32702,
+      "sha256": "b41518b6caad7bcd8b1f09d1a3569934fd72cf625c31461e369d4ca8acc87349"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "about",
+    "features",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

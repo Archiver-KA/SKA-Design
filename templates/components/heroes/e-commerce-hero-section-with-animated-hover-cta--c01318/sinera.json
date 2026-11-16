@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01318",
+  "title": "E-commerce Hero Section with Animated Hover CTA",
+  "summary": "Responsive hero banner for online store landing pages. Features promo badge, bold headline, subtext, slide-text hover CTA button, secondary link, and benefit chips. Utilizes Tailwind CSS grid, backdrop blur, and fade-in animations for an engaging first impression.",
+  "tags": [
+    "hero",
+    "banner",
+    "cta",
+    "animated",
+    "tailwind",
+    "ecommerce",
+    "responsive",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15466,
+      "sha256": "ca2aeebf6bdf8dcf2097685c93f71a2145c13fe6fc0f28b2e581a50c45ac4a9e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5745,
+      "sha256": "448ec6a0764bf3de11933ae0c9b3f05b3dc5126e03d24cf21d6f8d3cb029fa5a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6613,
+      "sha256": "892da931fce5fa9256867490f8d923cc71fc6b65322cde6400fb7608805049d6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02384",
+  "title": "Animated Marquee Testimonials Section",
+  "summary": "Horizontally scrolling testimonials with glowing gradient borders, dark theme, and Tailwind CSS styling. Includes avatar cards, bidirectional marquee rows, and entrance animation—perfect for SaaS or product landing pages to showcase real user feedback.",
+  "tags": [
+    "testimonials",
+    "carousel",
+    "marquee",
+    "tailwind",
+    "animated",
+    "responsive",
+    "dark",
+    "landing-page",
+    "testimonial"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26752,
+      "sha256": "74711f770986b13f257a9ca3fb40ab67a4977620eafdc2c3088733c086ec2c07"
+    },
+    {
+      "path": "component.html",
+      "bytes": 23850,
+      "sha256": "825fd0ef940e2594806dbed4f529ac4a7821ed8dbd708766600e86a51655c829"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24708,
+      "sha256": "0c4dea0ea125e54d6782022d825937ffbc541ff1cecd1e8f7ea1ef3f8fb84e7b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

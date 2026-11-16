@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03898",
+  "title": "Environmental Services Landing Page Template",
+  "summary": "A clean, eco-focused landing page template for environmental documentation and consulting services, ready to customize for your green business.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Technology",
+    "Environmental"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3780,
+      "sha256": "a4f8218c41994a68ecbc8dfb74565d14d63fb65b167eff0da5ffc1620389e2ff"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18330,
+      "sha256": "5fcd5229a18a791cdb351cd27e9102844ea7282ee678c8bd7ac1c6cf7f4fe4ce"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 822,
+      "sha256": "70ef16117af8afa9a099849ab21745872705d782d2e6924e0889cc3fc6c05807"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21606,
+      "sha256": "da31be2be183ca46bed156fde2614337fd83a33381868bb7c03eaa3c7c1a11d2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

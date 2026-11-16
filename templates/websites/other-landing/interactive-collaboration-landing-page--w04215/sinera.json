@@ -1,0 +1,91 @@
+{
+  "id": "SN-W04215",
+  "title": "Interactive Collaboration Landing Page",
+  "summary": "Responsive landing page with animated interactive ring, gradient backgrounds, and call-to-action buttons for early access and sharing.",
+  "tags": [
+    "Landing Page",
+    "Animation",
+    "Tailwind CSS",
+    "Interactive UI",
+    "Gradient Background",
+    "Call-to-Action"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3359,
+      "sha256": "6afe158cedfd8623235c373d42a73810725c2412f202ddc7680e2f5ac64e01ed"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13224,
+      "sha256": "c9de2b73885f134ed932da4a9f66a09eef45e65254f200c145221409caf9287a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1936,
+      "sha256": "c1a3f3c0740d3f31b99a18917d385e2c009932716c4c7bd864c71ae0ff3ae443"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 802,
+      "sha256": "399d9315b3ee999cb9e5d48cb3dee539b0c606c4289a156eca199b074bffc126"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 486,
+      "sha256": "2fc2c088ddc472e72318160ae8f7229c11222713df22b70b88c5972054cf50b1"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 149,
+      "sha256": "18d154d5c6c3be08daa48be54b501d4a9f856d71c803824f341cbc43901251a0"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 248,
+      "sha256": "14c1bbee6ecbf7c8863cccc0a75533f74c5b6c94f7c56ce26b3a7b45c755a2af"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 365,
+      "sha256": "abcdb298dc254343a48306c182415605763a9d859fd76a0893e6b304f352f7e4"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 206,
+      "sha256": "5f48b8e5688cb7459707734374559e5fa8516b223b3e88dd5d091519713df16f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9776,
+      "sha256": "3abb4c99effee7cc0e72730be10da2d4ea5c1477d1175ed18217d65399032976"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

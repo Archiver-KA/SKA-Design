@@ -1,0 +1,87 @@
+{
+  "id": "SN-W01979",
+  "title": "Digital Artist Portfolio Landing Page Template",
+  "summary": "A polished digital artist portfolio landing page template for showcasing illustration, concept art, and commissions with galleries, services, and contact CTAs.",
+  "tags": [
+    "Landing Page",
+    "Art & Design",
+    "Portfolio",
+    "Brand",
+    "Gradient",
+    "Dark",
+    "Large Type",
+    "Minimal",
+    "Animated",
+    "Graphic Design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3780,
+      "sha256": "1832c2547267f7b74fc8e731ad7b4d0ca2b55caa0ef7f1f5ef577d0548e74207"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11694,
+      "sha256": "6b71c49f6478ff5b1bcee8b84f915911b7a55dea447510e975c55f9dedcd1932"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1354,
+      "sha256": "b7af40b25529f0880267650e9df0d70461961171c9a69addf1afbff069550151"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 418,
+      "sha256": "91958da7074f75b7abdc647e6a86bf6d993569f8a7dddb39d1d040e150add6c2"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 367,
+      "sha256": "1cd713b3e06eed408f53357b3069d4c066fe33fcb3fcd5eed7e456fcba0fe793"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 341,
+      "sha256": "7b1952504a7d0731e9006d1bc679dee1802eb5efadfc2e04f3ab7e3a22c0736f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 97567,
+      "sha256": "ded41a004648f01f4bd66e8afebe6ebeca488d82811fd7ca69378a464f51281a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "video-media",
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "about",
+    "services",
+    "how-it-works",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02208",
+  "title": "AI Visibility Breakdown Analytics Card",
+  "summary": "Section showing AI visibility breakdown with engine tabs, percentage scores, and detailed perception analysis including mentioned and missing services. Styled with Tailwind-like utility classes, suited for analytics or monitoring dashboards.",
+  "tags": [
+    "feature",
+    "section",
+    "analytics",
+    "dashboard",
+    "tabs",
+    "tailwind",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10530,
+      "sha256": "3bb55f05856193f1001ea77f2faf220bc03d56eeb791e4d0d47a8369432f0a1c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6538,
+      "sha256": "abacaa66a251992427d05ab1e6c9c3dc15d823007a4cc237375a9122391ea4ca"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7397,
+      "sha256": "fdea2d9d1c246fe7f3604b160aa1fbab565bef11472c8a3cd81a8e818e879a06"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

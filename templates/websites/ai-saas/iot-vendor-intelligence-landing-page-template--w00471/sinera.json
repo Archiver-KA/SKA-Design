@@ -1,0 +1,73 @@
+{
+  "id": "SN-W00471",
+  "title": "IoT Vendor Intelligence Landing Page Template",
+  "summary": "A reusable landing page template for showcasing an IoT vendor intelligence platform, partnership opportunity, or acquisition-ready technology asset.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Grid",
+    "Large Type",
+    "IoT",
+    "B2B"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3570,
+      "sha256": "e46895569e84a2e3e9918cacef98d65d7acf97686fcb632c33e6d1d9fedbf2df"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18932,
+      "sha256": "5721353688acea27e774d3787703ed4e4a91d4075435f2138ab038fbc1c02882"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 879,
+      "sha256": "348eeb4228a26143abd514d5980b75d61dd3cd8937b480902cc09b73ee972c98"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 234,
+      "sha256": "6995109af20b975ec788650bb0025fcbe9f6b75e6ccbf53032ae952359c58eeb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 44443,
+      "sha256": "ad821875a9b1c9c74e6bf7ea49b3f26fabc6658f09a0d4a91698b09654b82f51"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "listings",
+    "features",
+    "benefits",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01977",
+  "title": "Digital Architect Portfolio Landing Page Template",
+  "summary": "A cyberpunk-style portfolio landing page template for digital architects and web designers to showcase case studies, services, and testimonials with high-impact visuals.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Art & Design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3901,
+      "sha256": "0e5e8b2ab87fc72ebec1f17b471c6835e01486424fdf39dd9adea87ffa1eaa45"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14780,
+      "sha256": "40a3d3b79bfbc14d57842e6bc68beb43190ee48fecd908d72c9dd1a7071a9b85"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 737,
+      "sha256": "1824648c642023a0c08afc5326df66ebb387fce35ea636909700ee0d6ce0ed01"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31497,
+      "sha256": "2fe7fc7fd3d39a53f39c8b2d8cd7befb966ad547b9d38b05c844948dd7a2ac1f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "bento-grid",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

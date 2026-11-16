@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02139",
+  "title": "Project Timeline Status Card",
+  "summary": "Dark-themed Tailwind card listing project phases with colored status dots, filter buttons, badges, and a CTA link. Ideal for dashboards to display progress timelines or sprints.",
+  "tags": [
+    "card",
+    "timeline",
+    "status",
+    "progress",
+    "tailwind",
+    "dashboard",
+    "responsive",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7092,
+      "sha256": "732e687b03a5083384a32b03684732e4d23a33f42cf8c33b33913aaa44bc3c12"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3869,
+      "sha256": "502fb9322f9fca158cfa9271a2b5033c22880d805d585030658b6853ec0f24bd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4848,
+      "sha256": "69be67cd7654e12fc3f67acc135061767b458d0e8f18e63b322eb1e52331f6c2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

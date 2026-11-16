@@ -1,0 +1,92 @@
+{
+  "id": "SN-W00286",
+  "title": "Coach & Team Management App Template",
+  "summary": "A high-performance mobile-first template designed for youth sports coaches to manage attendance, parent communication, and team operations.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Membership",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Social"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "react",
+  "entry": "package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3412,
+      "sha256": "50b437856c134641a6cab694bf2e6a39b0be9dc630c8580b789f8047207ecc21"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8518,
+      "sha256": "2fbce2ac925c4d9e98ab5625f50a5a9a4f95d94fd836406f1d0ac4445bc39a72"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "80626263367ee80b4285c2b5611ed8e59af9254b929e15ea6643e7ed6fbe84c2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 625,
+      "sha256": "f963d531987a220895ae8d3fb21ca7804b76b16e6044a385b239fc1cf4da556e"
+    },
+    {
+      "path": "package.json",
+      "bytes": 578,
+      "sha256": "e68629f2677de8abf26d05c3fa2b612a6e65d64b5dec829bd03db7bde363676c"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 3730,
+      "sha256": "8f033525fe632b413fe747c8e2bed4a66f0687d2d8eae52b0cbb0fc286656af5"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 839,
+      "sha256": "3b792381d661c7294d9eb28d4f9293960a1ef659b5e4a325437d10c8523b97da"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 348,
+      "sha256": "1d70e91c59af259cbd54754c58bd8633d8652db637ced63d17942dffd9fe536e"
+    },
+    {
+      "path": "src/pages/CoachHome.jsx",
+      "bytes": 7647,
+      "sha256": "7d6a9c8188e211b03b192a25fa74a16e6621d29f342f0ffbf8996e3944a9fcba"
+    },
+    {
+      "path": "src/pages/ParentHome.jsx",
+      "bytes": 6822,
+      "sha256": "2872a1b6923c0113406c843750d8b96f04823eabc6049c28cd7e98fcd4258bb7"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 179,
+      "sha256": "3e682f0ee97bd703227f848b4a200ed4634411dd94fec8c8c179de8ec8c0651b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

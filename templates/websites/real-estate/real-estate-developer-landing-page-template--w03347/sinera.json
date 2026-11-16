@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03347",
+  "title": "Real Estate Developer Landing Page Template",
+  "summary": "A premium real estate developer landing page template for showcasing property projects, locations, and services with a dark, elegant brand-forward design.",
+  "tags": [
+    "Real Estate",
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Minimal",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3527,
+      "sha256": "859d451be27f78012905a13e228519edc6a1615197cccfe6293650a82bd782b6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10716,
+      "sha256": "0ef7b24cd08c4309ed71f0075e47f46f5cadd8d117ef07ef29fdd1756dd0c811"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "acc75f400186ba7f54ca77e448080f94e3e061d3aa80011941f04f22ee7d4725"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37216,
+      "sha256": "08b4f9ecd45ee5fef04de99f2f120872a3b9625dd524d259394f65e1935dcfd6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "services",
+    "gallery-portfolio",
+    "map-location",
+    "marquee",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

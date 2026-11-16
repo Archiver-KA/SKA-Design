@@ -1,0 +1,79 @@
+{
+  "id": "SN-W01833",
+  "title": "belombre",
+  "summary": "A refined Belombre-inspired website template for premium event photography agencies to showcase projects, services, and book client meetings.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Art & Design",
+    "Portfolio",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Photography",
+    "Event"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3452,
+      "sha256": "d02e8f3ff8994c00641fed6f3522db3883063dd75e84366401f49b0f51fa1bb3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2502,
+      "sha256": "b6bf58f1a6aa2c9fec958be1a9ab4b468b640967c5e73c27eb3a62d91f7a6412"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1040,
+      "sha256": "b4e7b6eaadabb6e9f52e5832edd7986cee452e9ba6896726c76c4d928754b70e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 13954,
+      "sha256": "1e47a19f776978474c2e4fb3dd4c0c33c8c33b4693a7bc9aeffe4d95c3937b44"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 5296,
+      "sha256": "dc567c461185dbe62ba9fb9dcbcbf8ad69911c89e07f4583d4b6dc8940aeaa26"
+    },
+    {
+      "path": "index.html",
+      "bytes": 75124,
+      "sha256": "b3d6f0e323e15a6c2ad654861c389033f55ef098b0bc70ff6dc794d8135eb26b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "video-media",
+    "navbar",
+    "marquee",
+    "hero",
+    "features",
+    "services",
+    "footer",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

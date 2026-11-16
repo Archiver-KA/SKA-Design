@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01931",
+  "title": "Neumorphic Audio Mixer Control Panel UI",
+  "summary": "Full-width neumorphic audio mixer panel with bass, mid, treble, gain dials, master volume knob with numeric display, power/mute switches, and crossfade fader. Built with Tailwind utility classes, ideal for pro audio or music app dashboards.",
+  "tags": [
+    "ui",
+    "tailwind",
+    "audio",
+    "dashboard",
+    "neumorphism",
+    "responsive",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8264,
+      "sha256": "1dfb063e0d97941e0de043c613e7d6d59bf25b309ef28035e078b3b33cf079ce"
+    },
+    {
+      "path": "component.html",
+      "bytes": 21810,
+      "sha256": "e99884e719a2361417c0e35ed31cc4650c6111ffe0365dc344fcbe8db04936c6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22760,
+      "sha256": "4955e0c2c8d9b8b3cc742a0d0d50d7f17f270c11165211cd2e7833475234074e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00626",
+  "title": "Interactive FAQ Section with Accordion and CTA",
+  "summary": "A full-width FAQ section featuring a gradient background, centered intro copy, interactive accordion-style questions, and a bottom contact CTA. Built with Tailwind-like utility classes, ideal for SaaS or service sites needing a styled FAQ block.",
+  "tags": [
+    "faq",
+    "section",
+    "accordion",
+    "interactive",
+    "responsive",
+    "tailwind",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "faq",
+  "categoryLabel": "FAQ & accordions",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 33314,
+      "sha256": "4dd0548f01e24f0a445ac73e2991e64020093f1b8ca0c2b0009b6e129527ce28"
+    },
+    {
+      "path": "component.html",
+      "bytes": 15275,
+      "sha256": "146707782cc8deaba97a0a74ee96e8085c4a88af1dc10989cf8975b053d9f7b8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16333,
+      "sha256": "d2419aac6a12d1e7fad3aa1ed1d2b28371a77301aa60e847ffad6a2550e15bd2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

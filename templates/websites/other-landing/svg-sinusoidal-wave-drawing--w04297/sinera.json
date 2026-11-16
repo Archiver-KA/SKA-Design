@@ -1,0 +1,62 @@
+{
+  "id": "SN-W04297",
+  "title": "SVG Sinusoidal Wave Drawing",
+  "summary": "SVG animation drawing a sinusoidal wave using Bézier curves with stroke-dashoffset for smooth path reveal.",
+  "tags": [
+    "SVG Animation",
+    "Bézier Curves",
+    "Wave",
+    "Stroke-dashoffset",
+    "Tailwind CSS",
+    "Interactive Button"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2825,
+      "sha256": "ed7ba69a12e906860183f25e137020b5867347e66b31e602212f12553ef6487f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11666,
+      "sha256": "ab08e72f3046e524b5571f39386ece47075c4905b4ab94449f761599495623b9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 864,
+      "sha256": "3c92659b12dd17065dd814a0a45097b76c448430641bc5b48e3144daf0565172"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1674,
+      "sha256": "c99274e1368d6ba781d9b5414f37744aaf82b0d4c286b70f359147e347afb837"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3663,
+      "sha256": "c6ab44147addedd631bf91e4a1b1768bba716f5e75f71769f065a6c241ede59e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Write</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap" rel="stylesheet">
+
+
+
+</head>
+<body class="bg-white text-zinc-800 antialiased min-h-screen flex flex-col selection:bg-zinc-200 selection:text-zinc-900" style="font-family: 'Inter', sans-serif;">
+
+    <header class="flex items-center justify-between px-6 py-6 md:px-12 md:py-8 max-w-5xl mx-auto w-full transition-all duration-300">
+        <div class="font-medium text-xl tracking-tighter text-zinc-900 select-none">
+            WR
+        </div>
+        <button id="copyBtn" class="group flex items-center justify-center p-2 rounded-md text-zinc-400 hover:text-zinc-900 hover:bg-zinc-100 transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-zinc-200" title="Copy to clipboard">
+            <iconify-icon id="copyIcon" icon="solar:copy-linear" width="22" height="22" style="stroke-width: 1.5;"></iconify-icon>
+            <span id="copyText" class="ml-2 text-sm font-medium opacity-0 group-hover:opacity-100 transition-opacity duration-200 hidden sm:block">Copy</span>
+        </button>
+    </header>
+
+    <main class="flex-grow flex justify-center w-full px-6 md:px-12 pb-12 max-w-5xl mx-auto">
+        <textarea id="editor" class="w-full h-full min-h-[75vh] resize-none outline-none border-none bg-transparent text-lg md:text-xl text-zinc-800 placeholder-zinc-300 leading-relaxed focus:ring-0 p-0" placeholder="Start typing..."></textarea>
+    </main>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const copyBtn = document.getElementById('copyBtn');
+            const editor = document.getElementById('editor');
+            const copyIcon = document.getElementById('copyIcon');
+            const copyText = document.getElementById('copyText');
+            
+            // Auto-focus on load
+            editor.focus();
+
+            copyBtn.addEventListener('click', async () => {
+                const text = editor.value;
+                if (!text.trim()) return;
+
+                try {
+                    await navigator.clipboard.writeText(text);
+                    
+                    // Visual feedback
+                    const originalIcon = copyIcon.getAttribute('icon');
+                    copyIcon.setAttribute('icon', 'solar:check-circle-linear');
+                    copyBtn.classList.add('text-zinc-900', 'bg-zinc-100');
+                    copyBtn.classList.remove('text-zinc-400');
+                    copyText.textContent = 'Copied';
+                    copyText.classList.remove('opacity-0');
+                    copyText.classList.add('opacity-100');
+
+                    setTimeout(() => {
+                        copyIcon.setAttribute('icon', originalIcon);
+                        copyBtn.classList.remove('text-zinc-900', 'bg-zinc-100');
+                        copyBtn.classList.add('text-zinc-400');
+                        copyText.textContent = 'Copy';
+                        copyText.classList.remove('opacity-100');
+                        copyText.classList.add('opacity-0');
+                    }, 2000);
+                } catch (err) {
+                    console.error('Failed to copy text: ', err);
+                }
+            });
+        });
+    </script>
+</body>
+</html>

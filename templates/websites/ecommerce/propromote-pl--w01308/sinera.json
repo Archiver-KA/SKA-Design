@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01308",
+  "title": "Propromote.pl",
+  "summary": "A reusable landing page template for SEO agencies and web design studios to showcase services, results, packages, and lead-generation CTAs.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "E-commerce",
+    "Dark",
+    "Futuristic",
+    "Grid",
+    "Large Type",
+    "SEO",
+    "Agency"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3839,
+      "sha256": "a211b413426fbced5153f254c280b6a722b2b5b274c60a730191bb65553cf07c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11428,
+      "sha256": "94ce5109a129b4b2d326697903c8b4818d8dc86c0abe948c1c9eb12aed7463f8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 703,
+      "sha256": "d8ad5275a4b0b4fe39f7e141642ab8e642f9cb7ce1a977bc69a6ba4db04db1d6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 48465,
+      "sha256": "bbf6b9b01f036c3054c07ea1da710df1eaadd4bdefc08e403e6a191a3097eb42"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "sidebar",
+    "hero",
+    "stats",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

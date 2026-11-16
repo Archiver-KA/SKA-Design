@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01928",
+  "title": "Dante Freelancer Portfolio Landing Page Template",
+  "summary": "A dark, gradient-rich freelancer portfolio landing page template for showcasing web design services, recent work, pricing, and a contact form.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Services",
+    "Technology",
+    "Brand",
+    "Gradient",
+    "Dark",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3792,
+      "sha256": "f97626b6486cd8feb97582432b19fc80ae05af0b8ea651aa72cf4b45d5680976"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14478,
+      "sha256": "7dcfe24e67c131e0da1b9bba564c1f27bac90369358ba69ebca7c6cf7cf76498"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "5c8b4332c3c17e25d9ff74da5fd8ef0294e0dcce6bcf1de96f535616269ef5e2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38837,
+      "sha256": "c998971613350bff534930ea4c8f10c670089f81bae0529938d7f5f147364820"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "services",
+    "product-grid",
+    "pricing",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

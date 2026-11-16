@@ -1,0 +1,82 @@
+{
+  "id": "SN-W00527",
+  "title": "MCP Server Development Landing Page Template",
+  "summary": "A high-performance landing page template designed for developers and agencies to showcase custom Model Context Protocol (MCP) server development services.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Services",
+    "Clean",
+    "Dark",
+    "Futuristic",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "react",
+  "entry": "package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3386,
+      "sha256": "ec4ba31fb6cac5febef0d60daa03cb5a0eea39e9d2a39633ab9570167fb572a5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 26336,
+      "sha256": "459c9834cc062c012c4af0f1bbae46ac6af1e63f59f442647cc29fa1546388b7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "c85c535e7c661dfcbfa9ab155678e7958918fd5be0df02d57f9c39df76ecb02d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 559,
+      "sha256": "e4b2317b0d47cfa4219c4b1c8756b2eb9254bbe91a1071a1399cbd5c12e7fb0e"
+    },
+    {
+      "path": "package.json",
+      "bytes": 287,
+      "sha256": "dfbd8e8c0cfca2668c40734f61455ea33cff11f6ffaf16907a0b407c69247f9c"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 35346,
+      "sha256": "dfc27fbab505c4dd013f9c3f09fb62e5b8802862961c0c8a8e5ab960141da949"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 4063,
+      "sha256": "0a02963ee69faab081815722dd4815f6cf788efc23ca74d0e08bbdcc71fc8693"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 258,
+      "sha256": "db03d06a71404e39268caeb8ee32382d83b5dba6a0508cf6018a7f90f82c26a0"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 134,
+      "sha256": "9db2e178974ebb2e161d5263d94e5712e7175ce3e428dea5a47ae83d2160b0a9"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

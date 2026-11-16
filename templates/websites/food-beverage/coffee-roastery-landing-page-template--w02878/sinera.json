@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02878",
+  "title": "Coffee Roastery Landing Page Template",
+  "summary": "A reusable landing page template for premium coffee roasters and specialty bean brands, featuring product storytelling, interactive brewing guides, and delivery-focused CTAs.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "E-commerce",
+    "Brand",
+    "Dark",
+    "Premium coffee",
+    "Specialty roaster",
+    "Interactive product showcase"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3612,
+      "sha256": "72fdc6e2d4a7892d6db19232cb50691b4bd6a9a04e2177a094978b58ff56b1a2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14868,
+      "sha256": "8caf473585f6e29ba519ce683a52702f88b6b242d0f413530ea85d25f6f957d0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 820,
+      "sha256": "4f81db25fb03ca71e848eae04b1ef53ef0db117ea6fc69a8a2957845f6b95fef"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40887,
+      "sha256": "7ffd5058290a32fb0bacd5eb7dd71dfd5c0bb21283b0a19f9c3ffcf071f1c9a8"
+    }
+  ],
+  "collection": "logistics",
+  "collectionCategory": "shipping",
+  "collectionLabel": "Logistics",
+  "collectionCategoryLabel": "Shipping / Delivery",
+  "collectionConfidence": 0.88,
+  "collectionBasis": "business-keywords",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "services",
+    "features",
+    "product-grid",
+    "how-it-works",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

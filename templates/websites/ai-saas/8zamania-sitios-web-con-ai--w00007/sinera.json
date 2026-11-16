@@ -1,0 +1,65 @@
+{
+  "id": "SN-W00007",
+  "title": "8Zamania - Sitios Web con AI",
+  "summary": "A bold, dark-mode landing page template for AI-powered web and authority-building agencies to showcase services, manifesto, and conversion-focused contact flows.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Grid",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3745,
+      "sha256": "e7745eff8521e0f8ffdde483286cfa0f4cdaacb5ab9b37fc872aa988e925f294"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10242,
+      "sha256": "87f36a525f11a230155b74b4ccaa57f7a31e056017067951e2649f9f3e9c7a63"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 722,
+      "sha256": "395b0e45c46972fd7ed156375a117365682943d0382c9086fa7ec47888d3321a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35639,
+      "sha256": "5725da745ca1390c4fb29862d8dabb14acf5583063be227af7320592db975a16"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "cta",
+    "modal-overlay",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

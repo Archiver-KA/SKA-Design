@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00312",
+  "title": "Animated AI Code Generation Card",
+  "summary": "Glassmorphic card with responsive video ratio showcasing an animated SVG of pulsing rings, orbiting particles and energy waves. Uses Tailwind utilities and gradient background—ideal hero, banner or feature section for AI or tech apps.",
+  "tags": [
+    "card",
+    "hero",
+    "banner",
+    "svg",
+    "animated",
+    "tailwind",
+    "glassmorphism",
+    "gradient"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3950,
+      "sha256": "27811a763299614cfd5a6efa317afe11821b3e68743bf32c895f3830c35f87be"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5068,
+      "sha256": "dcaca4d72faf922f0e7c99224db502ead6d07e7af4107bf33b7600862c711b59"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5921,
+      "sha256": "3709a8dd6792a3de257c87ab0431cffbda922b5fd77b1f315638f85581ce42ae"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

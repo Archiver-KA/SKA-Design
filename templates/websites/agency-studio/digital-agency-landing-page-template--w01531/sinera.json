@@ -1,0 +1,74 @@
+{
+  "id": "SN-W01531",
+  "title": "Digital Agency Landing Page Template",
+  "summary": "A high-end, futuristic digital agency template designed for software engineering firms and design studios looking for a professional, dark-themed online presence.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Dark",
+    "Clean",
+    "Futuristic",
+    "Animated",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3711,
+      "sha256": "1f21adc71cdfc9e3ab27273210bfe514fb6085a6180e9aa4351554188ce57b5b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15486,
+      "sha256": "facbeecf158b493cddc21b65f889e062faf7c21b10da26229b7999394d0e56f3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 870,
+      "sha256": "618688a305346601edafce03d78d507a8af34dbfb884e19216b0d1422e6c2c84"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 234,
+      "sha256": "6995109af20b975ec788650bb0025fcbe9f6b75e6ccbf53032ae952359c58eeb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41966,
+      "sha256": "b32b98ad75d7522a59867ddd4b9fbca133419fdecfba6ab0187b7c1f6a5cb776"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "about",
+    "services",
+    "case-studies",
+    "logo-cloud",
+    "features",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

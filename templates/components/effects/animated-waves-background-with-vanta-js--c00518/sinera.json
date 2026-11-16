@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00518",
+  "title": "Animated Waves Background with Vanta.js",
+  "summary": "Absolute-positioned component that renders interactive, customizable wave animations via Vanta.js and Three.js. Adds a dynamic, responsive backdrop ideal for hero sections, full-page backgrounds, or overlays.",
+  "tags": [
+    "background",
+    "animated",
+    "waves",
+    "vanta",
+    "three.js",
+    "overlay",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8350,
+      "sha256": "639d10af6fc91babca9b7ccbf970c7dd1a80f36714aa1b2b986f665f8f61ebea"
+    },
+    {
+      "path": "component.html",
+      "bytes": 709,
+      "sha256": "c31615594f27cf8812dc35903ead99831a599a32c56cd5289f5f7c3708f11967"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1569,
+      "sha256": "84f8969f28555c09b980e9e5b44b9de4dbe9fd6fc6d31ddbc876a81669367101"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

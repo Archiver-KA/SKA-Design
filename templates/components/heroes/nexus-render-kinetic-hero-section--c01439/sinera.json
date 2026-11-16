@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01439",
+  "title": "Nexus Render Kinetic Hero Section",
+  "summary": "A high-end cinematic hero section featuring GSAP text reveals, a WebGL fragment shader background, and a 3D kinetic typography stage with interactive spring physics. Built for immersive landing pages and portfolios.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "gsap",
+    "threejs",
+    "animated",
+    "responsive",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22624,
+      "sha256": "b0355c9569a371a907c6066e225a61aba1db68afa24c6eeb4cc65e7d7fe7dbbb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22605,
+      "sha256": "b994096b9638fd38fb14648aeffcf6d11c8ba914d3c52bddf3bb38d2771b08ac"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

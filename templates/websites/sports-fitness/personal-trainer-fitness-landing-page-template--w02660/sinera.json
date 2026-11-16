@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02660",
+  "title": "Personal Trainer Fitness Landing Page Template",
+  "summary": "A modern, clean personal trainer landing page template for showcasing coaching services, online programs, and fitness expertise to attract new clients.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Brand",
+    "Large Type",
+    "Fitness coach",
+    "Personal trainer",
+    "Online coaching"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3495,
+      "sha256": "707612473f6b1ee63538226f1200e07d04cc751b3e0106e7985f0f4d55b0518d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20872,
+      "sha256": "410ac19f6d91f009417017aa46d12438bc16c0313c66b9d7d8e9eca7039e3a4a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 741,
+      "sha256": "4b1885a419085635e822a26a81fd85d01c9b650e5868a5ae14c4d4bf32624287"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29720,
+      "sha256": "a359b7e9e0b851b895c7cd1b162d462600dc8561813625a43d7bbc5c42f296fd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "team",
+    "services",
+    "cta",
+    "timeline",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

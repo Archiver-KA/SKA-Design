@@ -1,0 +1,81 @@
+{
+  "id": "SN-W01282",
+  "title": "Online Business Marketplace Template",
+  "summary": "A reusable marketplace template for buying, selling, and learning about online businesses with vetted listings, trust-focused messaging, and seller lead capture.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Services",
+    "Education",
+    "Clean",
+    "Minimal",
+    "Marketplace",
+    "SaaS",
+    "E-commerce"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3754,
+      "sha256": "ccdc54edb2fa535c09bace145f0f7f711009b23d6e2ab5066e7965de07e255a2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 26242,
+      "sha256": "6b157c5cf99c4081f05c02d258b89db35a95856c563b750c3bff336f6accd156"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 880,
+      "sha256": "db81e01af4702f66e3b0d15bb677817fade74842df426169a0768603520bc657"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 150,
+      "sha256": "d55bb55288c1d1b3585ad94e01ca194d1741871e7bf5f3a1321c0c65760a553e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 68457,
+      "sha256": "1dbb7a03be55af6c92cf125e8f9c89d41e7f82390ee52e11aff25f9f849942f2"
+    },
+    {
+      "path": "sinera-fx-filter.js",
+      "bytes": 20821,
+      "sha256": "6b5f074b7d846e3a404deda089c33986eb540d0c5cd8c1c0730e314b4c68c287"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "sidebar",
+    "hero",
+    "pricing",
+    "about",
+    "services",
+    "features",
+    "blog-articles",
+    "how-it-works",
+    "contact-form",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

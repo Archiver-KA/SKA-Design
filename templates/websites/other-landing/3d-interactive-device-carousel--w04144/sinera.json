@@ -1,0 +1,71 @@
+{
+  "id": "SN-W04144",
+  "title": "3D Interactive Device Carousel",
+  "summary": "Creates a 3D rotating carousel of device images with next/previous controls using Tailwind and GSAP animations.",
+  "tags": [
+    "3D Carousel",
+    "GSAP",
+    "Tailwind CSS",
+    "Interactive UI",
+    "Device Showcase",
+    "Animation"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2240,
+      "sha256": "5acf9d6ae51537d52763fcee80bde79198ce7e1b2c3d6bbe1c46c0bfaaf2ad52"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1976,
+      "sha256": "439b5b36509d5a83920e26810d6e59dd4b20c158e0fa8cded7e3bdb1f4936102"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1258,
+      "sha256": "56a25fe590dadab5908228a5713ccce886d4764992ed86a2a045e2aad6645404"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 295,
+      "sha256": "ff16efeee534b381cf58e12ca33baa788947ee20849d378d8ebdceaa9e9386ce"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 284,
+      "sha256": "5533711d82a219ab3fa643d7000f57ebdb8085138a923e5075de90c89ea99808"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 305,
+      "sha256": "8ad8d0d5e42c1cf83a5bc89debc6a5d4b450b770ad2aa9b202b8f24799a509a0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13183,
+      "sha256": "08d39a39c88aeb709bfe00f6c43eec8e09aa393e2179207b3bbc1f5158f1ba84"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01163",
+  "title": "Responsive Header with Logo, Nav and CTA",
+  "summary": "Site header built with Tailwind CSS featuring logo icon, desktop navigation links, preorder call-to-action button, and mobile hamburger menu for responsive layouts. Fits landing pages, SaaS dashboards, or product sites.",
+  "tags": [
+    "header",
+    "navbar",
+    "navigation",
+    "responsive",
+    "tailwind",
+    "hamburger",
+    "cta",
+    "icons"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3054,
+      "sha256": "334dbd6622b5040d362a59c2f9a36d8faf22de6543c711c5611d628aa31a2d50"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2332,
+      "sha256": "15925d99023844aed03800aec2d73e13f80a5dfdafb7bcb33c769250c5377307"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3323,
+      "sha256": "909b77dda2b19e5e700d396054bf1c16eaf8b4cefda099e93f04d2499e07c03d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

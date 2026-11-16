@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01249",
+  "title": "Animated Hero Card with Icon CTA Buttons",
+  "summary": "Animated hero card featuring background image, badge label, bold headline and three circular icon CTA buttons. Built with Tailwind CSS utilities and scale-fade animations. Ideal for landing pages, dashboards and marketing highlights.",
+  "tags": [
+    "card",
+    "tailwind",
+    "animated",
+    "responsive",
+    "marketing",
+    "cta",
+    "background-image"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13100,
+      "sha256": "fe0d1f1963092ac49c8b716565ff352bd5da8cbf290fc28b045e4f3896c50fd0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2587,
+      "sha256": "680c2bd566aaf6b34095f60adf425e0b26ee8cbb275a33a5938d057e53f22cc5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3578,
+      "sha256": "21fb003991c21d4292e51f1f5bce7ebbebf378815292e1fe31ae40120bad3988"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

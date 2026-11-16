@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01175",
+  "title": "Responsive Sticky E-commerce Header & Nav Bar",
+  "summary": "Sticky header for online stores featuring centered brand, mobile menu toggle, search, account, favorites, and cart icons plus horizontal category navigation. Built with Tailwind CSS and Lucide icons, fully responsive with backdrop blur—ideal for fashion or retail sites.",
+  "tags": [
+    "header",
+    "navbar",
+    "e-commerce",
+    "tailwind",
+    "responsive",
+    "sticky",
+    "navigation",
+    "icons"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4974,
+      "sha256": "b9682c1a6e815b0ff70db74d97c7e6cb5a651dceeca6c6f50b1a5a53871bf2b4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4839,
+      "sha256": "9272bd9964350108da611f9874f10bcd28742ce66ea1be77408590b12e506267"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5839,
+      "sha256": "712748992852afd92a9a064e171851e399a1a11164d79d0275dc17ebdf314ad9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "SN-W02549",
+  "title": "Vitals Pro Medical Management Landing Page Template",
+  "summary": "A premium health technology template designed for clinics and doctors to manage scheduling, digital records, and financial workflows.",
+  "tags": [
+    "Health",
+    "Services",
+    "Technology",
+    "Clean",
+    "Minimal",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3762,
+      "sha256": "6186ae1358aba9f4ee59476216309e72ffe21e90a5a19e7238b034bb7b4c386d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20498,
+      "sha256": "4b8a586e4cd002532fe2cabc30c425431e1d5aafe2281ff17a9e953658b3d883"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 740,
+      "sha256": "35df3606583c87b3019a70e135d5158881a63b104f3f30442b2b8a5beff03b70"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38038,
+      "sha256": "22c7fbdf325a5aa454b2e90e9d6cc40b2f85caee2530bb41fc117d8fe408948c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "schedule-agenda",
+    "product-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

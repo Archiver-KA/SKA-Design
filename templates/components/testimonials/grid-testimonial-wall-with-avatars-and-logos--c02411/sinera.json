@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02411",
+  "title": "Grid Testimonial Wall with Avatars and Logos",
+  "summary": "A responsive testimonial section in a multi-column grid featuring highlighted primary quote, supporting quotes, avatars, roles, and company logos. Built with Tailwind-style utility classes, ideal for landing pages and product marketing sites.",
+  "tags": [
+    "testimonial",
+    "section",
+    "grid",
+    "responsive",
+    "tailwind",
+    "marketing",
+    "blockquote"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 40094,
+      "sha256": "204e006de9de3ab3c711b755048d61bfe5143f7a5ec46cb2f696a786e510d48f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5920,
+      "sha256": "b0ea07b9f8461aec64c4f654c8ee13678eb7b2ceed26dc33e54263fd2ba7991b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6785,
+      "sha256": "96e91c89c54e335086a95eee6fcb3cf9eeed422c5eae19a7d08fd3b8650d673d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

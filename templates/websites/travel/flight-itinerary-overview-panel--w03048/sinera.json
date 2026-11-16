@@ -1,0 +1,69 @@
+{
+  "id": "SN-W03048",
+  "title": "Flight Itinerary Overview Panel",
+  "summary": "Displays detailed outbound and return flight itinerary with booking info, flight times, terminals, and seat classes using Tailwind CSS.",
+  "tags": [
+    "Flight Itinerary",
+    "Booking Details",
+    "Tailwind CSS",
+    "Responsive UI",
+    "Travel Schedule",
+    "Flight Details"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3116,
+      "sha256": "52e2453b5f3748982749876d6e235b3f7c297b7afe57f3c7e7110106020c4ffd"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8114,
+      "sha256": "0846b301368691e33a31bbd5002da822ef47376b14d64da99a3f87746fcda481"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1095,
+      "sha256": "7b7cfcb86f717e2fdece1f773d5a261c6a9bf4275a2e2c9e088f65e10571b6ac"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 263,
+      "sha256": "ca5e27faf643827d85986ef0c2c9566f70eb8264ec49b0e94e676dc9f097deac"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 386,
+      "sha256": "1ad6cfd87a9da0fbde68a4a1f46bd50e26e2985e1f5a8296e939443efb221aa7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9812,
+      "sha256": "b3679335054e80546cf84c426e5c065be1e005f536e8a47f446430182bb28574"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "snippet",
+  "components": [
+    "hero",
+    "booking"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "SN-W03511",
+  "title": "Multilingual Academic Survey Landing Page Template",
+  "summary": "A clean, multi-language survey template designed for academic institutions to collect feedback from international students on campus living experiences.",
+  "tags": [
+    "Education",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Grid",
+    "Professional",
+    "Academic"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3493,
+      "sha256": "436c2caf4a83b0a79a1367860efeb30b2530c0c52a2336fd77dd7566bdd18841"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17990,
+      "sha256": "ccf64568a1a534451efe509f5d55fe2ed947d4f389a7e2705233b833bbf9c7c3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "b1891c7c79ab81aef0b8839c710d3506117dad53e0a5ac0f44a077b5476d6740"
+    },
+    {
+      "path": "index.html",
+      "bytes": 63739,
+      "sha256": "f1d6c8b2e2a2b6640b23cf1f653b5fe9fde79da4bbd8c5d15bbf2b25637c0bf4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "contact-form"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

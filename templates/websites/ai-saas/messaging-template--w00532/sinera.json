@@ -1,0 +1,70 @@
+{
+  "id": "SN-W00532",
+  "title": "Messaging Template",
+  "summary": "A high-fidelity messaging interface template featuring a soft, skeuomorphic 'liquid glass' design for modern communication platforms.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Futuristic",
+    "Gradient",
+    "Art & Design"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3741,
+      "sha256": "c779835e9e4db335c6b2aeed033d603dae9f2f29338af85780f3d7e8b0652a4e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17942,
+      "sha256": "34d4de14fa4681e89e63c2db7bc75f63070532ea2110a3ee0a959db54b280b8a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1050,
+      "sha256": "a63c79ff12edc44058aebe5cedb54a8c69e92a947f4644184838fa6f5d7d9b4a"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "8fdd104ac7843269a0c4bb41aacf62efd383fb500afc71598cfc07a668449fab"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 2573,
+      "sha256": "2fe6d958cfe3003db246cf213d4693fe30b9e58d116b741c312e6dac1afee184"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31026,
+      "sha256": "21d7e107ba33378ffcbb810b6dd2bd14c407fe023dc28d9c6de7c73917705bed"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

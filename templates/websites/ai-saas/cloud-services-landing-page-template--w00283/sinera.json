@@ -1,0 +1,68 @@
+{
+  "id": "SN-W00283",
+  "title": "Cloud Services Landing Page Template",
+  "summary": "A reusable landing page template for cloud-first software, analytics, and infrastructure agencies to showcase services, process, and consultation booking.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Dark",
+    "Minimal",
+    "Grid",
+    "Futuristic",
+    "Clean",
+    "agency",
+    "cloud"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3833,
+      "sha256": "c2208c939f25cb01bc0aca7c8735f5c2e358faebef11759601a639bbedcd8f7c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18938,
+      "sha256": "adb606e304144d5415cde5fe49aca60f1b2cf463718b7f9084d99e5ecd8f6a7a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "69529def804c2f6487722024f10a81e066781d3f854a53fa32ec75a60a26f94c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34656,
+      "sha256": "ccf888722bf7f4452f94615a40e289084edfbe907d0f1c0d43ebf0157554f4aa"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "dashboard-preview",
+    "services",
+    "how-it-works",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

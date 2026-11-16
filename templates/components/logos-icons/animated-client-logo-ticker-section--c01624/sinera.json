@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01624",
+  "title": "Animated Client Logo Ticker Section",
+  "summary": "Horizontal auto-scrolling ticker showcasing partner or sponsor logos with gradient fade overlays. Built with Tailwind CSS utilities and custom keyframe animation that pauses on hover. Ideal for landing pages or testimonial areas.",
+  "tags": [
+    "ticker",
+    "logo",
+    "carousel",
+    "marquee",
+    "animated",
+    "tailwind",
+    "responsive",
+    "branding"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5232,
+      "sha256": "fd485e3a35304181f270e1153b268ebbb50ee0c4b91548754ca54a665441e114"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13019,
+      "sha256": "b59e8b1a796e5d711452c69fc183d88c8dd576c66beff09e745aa4566b450e3a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13875,
+      "sha256": "0f340e74da21c058758a04cb1e5a7de7563cb3d731d727483e59d678e11322d3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

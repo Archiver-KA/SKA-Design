@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01119",
+  "title": "Glassmorphic Responsive Navbar with Icons",
+  "summary": "Fixed top navigation bar featuring glassmorphism gradient border, logo slot, menu links, hamburger menu for mobile and account icon for desktop. Built with Tailwind CSS, ideal for modern landing pages or SaaS dashboards.",
+  "tags": [
+    "navbar",
+    "navigation",
+    "tailwind",
+    "responsive",
+    "glassmorphism",
+    "fixed",
+    "menu"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2912,
+      "sha256": "21eb28a045dd9615ee6674e0e4bd9d5f0397bd5ed0c81591d6ce805f71573a93"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3629,
+      "sha256": "9646435abc36ba0e63e9673c2cbe9a8b8f87913898dd83d566c660006259832f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4491,
+      "sha256": "c0f355452108af29a0a1317fd6e83b9e278d1447401c6088953759aca89a31da"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

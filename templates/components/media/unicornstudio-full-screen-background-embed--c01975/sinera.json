@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01975",
+  "title": "UnicornStudio Full-Screen Background Embed",
+  "summary": "Embeds a UnicornStudio project as a full-screen, behind-content background. Automatically loads and initializes the UnicornStudio script, ideal for adding animated visual effects to landing pages or sections.",
+  "tags": [
+    "background",
+    "animation",
+    "embed",
+    "unicornstudio",
+    "html",
+    "script",
+    "fullscreen"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14806,
+      "sha256": "c422518d7a63f562aae4cd21995eb7760517469e3977a853758abdbb85517dea"
+    },
+    {
+      "path": "component.html",
+      "bytes": 535,
+      "sha256": "becb69938b1df6ed037b0991ab03d32978984a6b493728269622dc2c0d3cee05"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1398,
+      "sha256": "89c247cac2fbee3d6a1712d7ac93044532ef8aa36d13e2b545d2d80878d3ad6c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

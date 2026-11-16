@@ -1,0 +1,46 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none z-10 overflow-visible" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <defs>
+                        <linearGradient id="beamGradient" gradientUnits="userSpaceOnUse">
+                            <stop offset="0%" stop-color="#10b981" stop-opacity="0"></stop>
+                            <stop offset="50%" stop-color="#34d399" stop-opacity="1"></stop>
+                            <stop offset="100%" stop-color="#10b981" stop-opacity="0"></stop>
+                        </linearGradient>
+                    </defs>
+                    <g class="noodle-group">
+                        <path d="M300 300 C 300 200, 450 150, 500 100" stroke="#1e293b" stroke-width="1.5" fill="none"></path>
+                        <path d="M300 300 C 300 200, 450 150, 500 100" stroke="url(#beamGradient)" stroke-width="2" fill="none" stroke-dasharray="100 1000" class="animate-beam" stroke-linecap="round"></path>
+                        <circle cx="500" cy="100" r="3" class="fill-slate-700"></circle>
+                        <foreignObject x="480" y="60" width="80" height="30">
+                            <div xmlns="http://www.w3.org/1999/xhtml" class="px-2 py-1 bg-[#0f172a] rounded shadow-sm border border-slate-800 text-[9px] font-mono text-emerald-400 text-center">
+                                API_KEY
+                            </div>
+                        </foreignObject>
+                    </g>
+                    <g class="noodle-group">
+                        <path d="M300 300 C 350 350, 450 450, 520 400" stroke="#1e293b" stroke-width="1.5" fill="none"></path>
+                        <path d="M300 300 C 350 350, 450 450, 520 400" stroke="url(#beamGradient)" stroke-width="2" fill="none" stroke-dasharray="80 800" class="animate-[beam_4s_linear_infinite_1s]" stroke-linecap="round"></path>
+                         <circle cx="520" cy="400" r="3" class="fill-slate-700"></circle>
+                         <foreignObject x="510" y="410" width="80" height="30">
+                            <div xmlns="http://www.w3.org/1999/xhtml" class="flex gap-1 items-center px-2 py-1 bg-[#0f172a] rounded shadow-sm border border-slate-800 text-[9px] font-mono text-slate-300">
+                                <span class="w-1.5 h-1.5 rounded-full bg-emerald-500 shadow-[0_0_5px_#10b981]"></span> Success
+                            </div>
+                        </foreignObject>
+                    </g>
+                    <g class="noodle-group">
+                        <path d="M300 300 C 200 300, 150 200, 100 150" stroke="#1e293b" stroke-width="1.5" fill="none"></path>
+                        <path d="M100 150 C 150 200, 200 300, 300 300" stroke="url(#beamGradient)" stroke-width="2" fill="none" stroke-dasharray="60 600" class="animate-[beam_3s_linear_infinite_0.5s]" stroke-linecap="round"></path>
+                        <circle cx="100" cy="150" r="3" class="fill-slate-700"></circle>
+                    </g>
+                    <g class="noodle-group">
+                        <path d="M300 300 C 250 400, 150 400, 80 450" stroke="#1e293b" stroke-width="1.5" fill="none"></path>
+                        <path d="M80 450 C 150 400, 250 400, 300 300" stroke="url(#beamGradient)" stroke-width="2" fill="none" stroke-dasharray="90 900" class="animate-[beam_5s_linear_infinite]" stroke-linecap="round"></path>
+                        <circle cx="80" cy="450" r="3" class="fill-slate-700"></circle>
+                         <foreignObject x="40" y="460" width="80" height="30">
+                            <div xmlns="http://www.w3.org/1999/xhtml" class="px-2 py-1 bg-[#0f172a] rounded shadow-sm border border-slate-800 text-[9px] font-mono text-emerald-400 text-center">
+                                $240.50
+                            </div>
+                        </foreignObject>
+                    </g>
+                    <circle cx="300" cy="300" r="120" stroke="#10b981" stroke-opacity="0.1" stroke-dasharray="4 4"></circle>
+                    <circle cx="300" cy="300" r="200" stroke="#10b981" stroke-opacity="0.05"></circle>
+                </svg>

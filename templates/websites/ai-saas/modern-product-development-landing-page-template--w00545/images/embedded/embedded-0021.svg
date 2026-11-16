@@ -1,0 +1,30 @@
+<svg class="w-full h-full overflow-visible px-4 pt-4 pb-0" viewBox="0 0 100 50" preserveAspectRatio="none">
+                <defs>
+                    <linearGradient id="velocityGradient" x1="0" y1="0" x2="0" y2="1">
+                        <stop offset="0%" stop-color="#10b981" stop-opacity="0.25"></stop>
+                        <stop offset="100%" stop-color="#10b981" stop-opacity="0"></stop>
+                    </linearGradient>
+                    <clipPath id="chartClip">
+                        <rect width="100" height="50"></rect>
+                    </clipPath>
+                </defs>
+
+                <!-- Comparison Line (Previous Sprint) -->
+                <path d="M0 35 Q 25 42, 50 30 T 100 25" fill="none" stroke="#3f3f46" stroke-width="1" stroke-dasharray="2 2" class="opacity-50"></path>
+
+                <!-- Main Velocity Line -->
+                <g clip-path="url(#chartClip)" class="">
+                    <path d="M0 45 Q 20 40, 35 25 T 65 15 T 100 5 V 50 H 0 Z" fill="url(#velocityGradient)" class=""></path>
+                    <path d="M0 45 Q 20 40, 35 25 T 65 15 T 100 5" fill="none" stroke="#10b981" stroke-width="1.5" class="drop-shadow-[0_0_8px_rgba(16,185,129,0.4)]"></path>
+                </g>
+
+                <!-- Interactive Scrubber & Point -->
+                <g class="transition-opacity duration-300">
+                    <!-- Vertical Line -->
+                    <line x1="65" y1="0" x2="65" y2="50" stroke="white" stroke-width="1" stroke-dasharray="2 2" stroke-opacity="0.1"></line>
+
+                    <!-- Data Point -->
+                    <circle cx="65" cy="15" r="2.5" fill="#09090b" stroke="#10b981" stroke-width="1.5" class="group-hover/chart:scale-150 transition-transform duration-300 origin-center shadow-[0_0_10px_rgba(16,185,129,0.5)]"></circle>
+                    <circle cx="65" cy="15" r="6" fill="transparent" stroke="#10b981" stroke-opacity="0.2" stroke-width="1" class="scale-0 group-hover/chart:scale-100 transition-transform duration-300 origin-center"></circle>
+                </g>
+            </svg>

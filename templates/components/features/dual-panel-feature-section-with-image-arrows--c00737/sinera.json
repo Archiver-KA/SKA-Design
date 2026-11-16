@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00737",
+  "title": "Dual-Panel Feature Section with Image & Arrows",
+  "summary": "Responsive grid layout featuring a full-width image panel and text panel with heading, stats, and arrow navigation controls. Perfect for showcasing product phases or highlights. Styled entirely with Tailwind CSS and adapts across breakpoints.",
+  "tags": [
+    "feature-section",
+    "tailwind",
+    "responsive",
+    "grid",
+    "image",
+    "navigation",
+    "card"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 32886,
+      "sha256": "b6d7ca5e76208f9d8097a5736838c201a7c9ccb07f8415dfede0d05ae621db0e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4514,
+      "sha256": "9a0351679e4673ef2778600018867ba1b3a742699bbf78bb016f6688a7cd8acb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5515,
+      "sha256": "d2eb3e0a6ac7f9d127b33a6b64cfb728c793ac9167801780ba7a37667b33acbf"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

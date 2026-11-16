@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00731",
+  "title": "Decorated Feature Card with Icon & Image",
+  "summary": "Tailwind-styled card featuring corner borders, header with icon, title, and image area. Ideal for highlighting product features or security offerings on landing pages and dashboards.",
+  "tags": [
+    "card",
+    "tailwind",
+    "feature",
+    "image",
+    "icon",
+    "responsive",
+    "marketing",
+    "border"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 23106,
+      "sha256": "2178cae23dcc1167e46e9b7cec587ec12d47d127685989ed483ed64b151467a0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2255,
+      "sha256": "0366120f3d2c0295b6b180de76785a3709417258b8b6a1bd342937e55671b22b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3250,
+      "sha256": "a896f2c2195145179bb9e282da00ce830b7165269e50831ebf2d9f01948219bc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

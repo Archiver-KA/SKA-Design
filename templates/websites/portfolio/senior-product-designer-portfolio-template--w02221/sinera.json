@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02221",
+  "title": "Senior Product Designer Portfolio Template",
+  "summary": "A dark, futuristic portfolio template for senior product and UX/UI designers to showcase SaaS, mobile, and AI projects with a bold case study layout.",
+  "tags": [
+    "Portfolio",
+    "Art & Design",
+    "Graphic Design",
+    "Technology",
+    "Brand",
+    "Landing Page",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3772,
+      "sha256": "c68442a3129b9517c5d884af3f83033000dc7301faa971b5d26f99d44f9fb0ce"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13444,
+      "sha256": "725eb464f2d3895e66a773432edbf78e528871f2bb21cf803aa9d55a6476954f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "8437c6ebc519a2dcc687987fb1772e80d8f287224e292cc8eaf5a192dd87e430"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32639,
+      "sha256": "7187f306a2ef5e33e3030d59093a7e13b8bbf71a065f474ee523e07bd6b3b337"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

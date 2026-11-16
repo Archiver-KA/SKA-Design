@@ -1,0 +1,68 @@
+{
+  "id": "SN-W04292",
+  "title": "sora revision 3 ",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3843,
+      "sha256": "920b94ff3655d2d2897423e7d957a5841510f63cd5982445045baba9dfb889c1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17906,
+      "sha256": "6c1de159990ed4ac7d54c63fc40cfd26023a64b8a4ce5c9e347b41343556586c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1053,
+      "sha256": "64becccc1be0d2a82fedef3ac692c92891c138e65731364108b7702424d9c489"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 373,
+      "sha256": "95e2d9456472377d12e2579825ac68d33d7e65f318bc299e04cb9cc58195d0af"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 937,
+      "sha256": "210d0d69730ed85c0213189fdd3767e16779a3e875689c4d1a29bf08338913dc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 123223,
+      "sha256": "6f9a7ee18f24713053a8effe8de03c9f0b5129d5cef4cec9fe7ce1faf999166b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "dashboard-preview",
+    "how-it-works",
+    "bento-grid",
+    "contact-form",
+    "pricing",
+    "cta"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

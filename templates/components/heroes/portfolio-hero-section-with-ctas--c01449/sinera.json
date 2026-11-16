@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01449",
+  "title": "Portfolio Hero Section with CTAs",
+  "summary": "Dark themed hero banner for portfolio sites featuring role badge, headline, description, primary and secondary CTAs, highlight list, and divider. Tailwind CSS styling, responsive and ready for landing pages or personal sites.",
+  "tags": [
+    "hero",
+    "banner",
+    "call-to-action",
+    "tailwind",
+    "portfolio",
+    "landing-page",
+    "responsive",
+    "dark-theme"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 17234,
+      "sha256": "f9e5c3f83588ca1d31449dfebf1980018582a9cd126bb73dee8568e6213740e0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2718,
+      "sha256": "b76171980df93521d997a850b6ee0d1eb04204a85d6cc055c8bc6d9d3105e975"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3701,
+      "sha256": "f8722f3bd070d9dbfe8841b2798e74e6f1f524acd9e0cda30de67e72b442f07d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

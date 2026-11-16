@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03144",
+  "title": "Travel Booking Landing Page Template",
+  "summary": "A premium travel booking template for showcasing hotels, flights, curated deals, and membership offers with a sleek luxury experience.",
+  "tags": [
+    "Travel",
+    "Landing Page",
+    "Technology",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Futuristic",
+    "booking",
+    "luxury travel",
+    "hotel search"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3639,
+      "sha256": "9549d627da5c92c4c6c568aa6390fdc0ffb2985d78a9b91fedcd1f42e1c2c229"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12312,
+      "sha256": "71d678815b2e17035dfdab51110edb28733cf8e95695eede84d7647d7d6fa32f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "cad77df1abbc958ffff1e5c3b20dbbacced89822e57290123ec11e71d00967db"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38532,
+      "sha256": "29e2244fbb31b6e86f415ed398c4cb7af8fce0a2f24710177c7c478b5db29359"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "product-grid",
+    "marquee",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

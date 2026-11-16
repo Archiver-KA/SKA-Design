@@ -1,0 +1,59 @@
+{
+  "id": "SN-W02433",
+  "title": "Liminal Resonance Analytics Template",
+  "summary": "A mysterious and dark-themed telemetry dashboard template designed for tracking sensor data, biometrics, and historical event timelines.",
+  "tags": [
+    "Technology",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Health",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3038,
+      "sha256": "17b75048cbc8267c587aa9fa13fec7d4eabb60e38032a6383b50bd2a1927adbd"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6912,
+      "sha256": "7933019a6c435773c3e7770ea4a2e58618f32c309d7c6ba66fc20a13daee8d7e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "723e73fb4ebf235eeefb7d6e494cf51e18f750fe3fb238836e5dd90436b3b92c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12755,
+      "sha256": "0c05310bdf0af523727e7c5f9a59c33db63f0d524b772cda5afdaf715b208308"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "timeline",
+    "navbar"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

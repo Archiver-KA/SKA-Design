@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01188",
+  "title": "Sticky Gradient Navbar with Sign-In & Mobile Menu",
+  "summary": "Responsive header bar featuring brand logo, nav links, sign-in button, and hamburger menu. Sticks to top with blurred radial gradient background using Tailwind CSS, ideal for websites needing elegant navigation across devices.",
+  "tags": [
+    "navbar",
+    "header",
+    "navigation",
+    "tailwind",
+    "responsive",
+    "sticky",
+    "gradient",
+    "menu"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3210,
+      "sha256": "b9924bc9dbdcdd6c422b2f8d9fe1472e8f2b85077cff8ccc0d09fa110d07371e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3058,
+      "sha256": "8287967c96eaa21219ec4d289eb300184f2dce021a8ce79f0db03e7770b82d17"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4062,
+      "sha256": "582f878f1e2d201e3087df594b9b25b5c2f2b41b37347f5c1f62e058f0d054fb"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00632",
+  "title": "Responsive Tailwind FAQ Section",
+  "summary": "Dark-themed FAQ block presenting six Q&A cards in a two-column responsive grid. Built with Tailwind CSS, backdrop blur, and fade/scale entrance animations—perfect for landing pages, portfolios, or SaaS sites needing a styled common-questions section.",
+  "tags": [
+    "faq",
+    "section",
+    "tailwind",
+    "responsive",
+    "animated",
+    "grid",
+    "dark",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "faq",
+  "categoryLabel": "FAQ & accordions",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 34838,
+      "sha256": "991e2d16888b570b1de77c9f530edd0234be4bb8d71397a2a512c7ea2e80f0a8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3628,
+      "sha256": "afda4e3512a4bd07152ce3999a53457d7e41a8b11861fb47477d8663364ba07f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4480,
+      "sha256": "0e6e9a15795bf9a0e7cc330a4f52a2d1c73f45a6891e5a13c1bc3a7e42e5355a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

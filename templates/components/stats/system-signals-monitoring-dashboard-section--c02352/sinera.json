@@ -1,0 +1,38 @@
+{
+  "id": "SN-C02352",
+  "title": "System Signals Monitoring Dashboard Section",
+  "summary": "Dark Tailwind telemetry dashboard section with a live/archive toggle, alert cards, metric panels, and archived snapshots. Ideal for observability, infrastructure status, or command-center style product pages.",
+  "tags": [
+    "ui",
+    "tailwind",
+    "dashboard",
+    "telemetry",
+    "monitoring",
+    "dark",
+    "interactive",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21664,
+      "sha256": "a799845faa72f0f49d95d59bf1f90ce50bfe84bf4984f82accd73ec29b38a43d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21336,
+      "sha256": "88e0c055f4b527636249d1cdd412a5ce70b1bcafc76641034953a4bd831700fc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

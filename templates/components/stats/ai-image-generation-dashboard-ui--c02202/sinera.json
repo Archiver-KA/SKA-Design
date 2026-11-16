@@ -1,0 +1,40 @@
+{
+  "id": "SN-C02202",
+  "title": "AI Image Generation Dashboard UI",
+  "summary": "Full-screen dark Tailwind interface for an AI image generation app, featuring a top nav, settings sidebar, upload dropzone, and animated infinite-scrolling output gallery. Ideal for creative tools, media dashboards, and generative AI product demos.",
+  "tags": [
+    "ui",
+    "tailwind",
+    "dashboard",
+    "animated",
+    "responsive",
+    "gallery",
+    "sidebar",
+    "dark",
+    "hero",
+    "section"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 30876,
+      "sha256": "916421ee5b2319ece7e8aedd02f870d8da24342788d667d5ccdddcac2a4b4bfa"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16349,
+      "sha256": "62142124a520eeb90ac802b72712cce63c6ee5315a83a9ded0a71eecc0cc053c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

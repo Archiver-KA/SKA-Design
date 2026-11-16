@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00300",
+  "title": "Watch Demo CTA Button with Play Icon",
+  "summary": "Tailwind-styled call-to-action button featuring a play SVG icon, responsive flex alignment, animated hover effects, and subtle ring/shadow transitions. Ideal for triggering video demos or onboarding tours within web apps or landing pages.",
+  "tags": [
+    "button",
+    "tailwind",
+    "cta",
+    "icon",
+    "play",
+    "hover",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1788,
+      "sha256": "db88f9e6e773e05ab78ca45ec8c24edd84c51707fd0d96d77e54031cf77105f1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 759,
+      "sha256": "e73f8a5ef7772d6321bbae7e9311557137714025ac3557ca7c5dff3ff58d12d3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1616,
+      "sha256": "65d60996311b91fe87c2495619e60f4302a23b005ffc1b002593540f17a1cb6c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

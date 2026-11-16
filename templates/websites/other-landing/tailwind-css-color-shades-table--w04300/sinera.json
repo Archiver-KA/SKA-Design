@@ -1,0 +1,59 @@
+{
+  "id": "SN-W04300",
+  "title": "Tailwind CSS Color Shades Table",
+  "summary": "Interactive table displaying Tailwind CSS colors with shades, enabling hex code copy on click and contrast-based text color.",
+  "tags": [
+    "Tailwind CSS",
+    "Color Palette",
+    "Hex Codes",
+    "Interactive Table",
+    "Copy to Clipboard",
+    "JavaScript",
+    "UI"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2824,
+      "sha256": "e157b79c35beb4d60fbdf0e086fbf26ffd7cfd190a3ac48f4619a84f88c43968"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 32722,
+      "sha256": "1a841b65f5baafa9e3d1a5f79596e67dcaf6b763fde38420317f3572bbea906f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "ec56f297ed4f048ce52bee316fccb3d4de19fbf2bd8ca83647d4907d174de29e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6752,
+      "sha256": "39fab6d376971c5d5c16680e16a3a4d902536ebefe0ba854b0aeaa1784a0a12b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01900",
+  "title": "Image Display Component",
+  "summary": "A simple, responsive image container that displays an external image from Dropbox. Useful for showcasing designs, photos, or visual content with automatic scaling and centered alignment.",
+  "tags": [
+    "card",
+    "image",
+    "responsive",
+    "modern",
+    "shadow"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10108,
+      "sha256": "7ef8d6670dacc6f613df1cc6b4c72a665ac61e9af633487d0455601919fd9192"
+    },
+    {
+      "path": "component.html",
+      "bytes": 377,
+      "sha256": "f0878a193cb2d5358cbfd2361a89ef9d4fe0629d2025792b46ae687ba16d2b7c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1221,
+      "sha256": "8b083241640fd3d70ff7a1af4ffbdfe5cecfa52cebab42af33a1422bebb5e3d0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

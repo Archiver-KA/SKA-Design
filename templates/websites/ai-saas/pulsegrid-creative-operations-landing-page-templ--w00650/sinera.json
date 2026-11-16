@@ -1,0 +1,66 @@
+{
+  "id": "SN-W00650",
+  "title": "PulseGrid Creative Operations Landing Page Template",
+  "summary": "A high-performance landing page template designed for creative teams, brand studios, and marketing organizations to manage production workflows.",
+  "tags": [
+    "Technology",
+    "Services",
+    "Brand",
+    "Minimal",
+    "Clean",
+    "Modern",
+    "Creative",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3827,
+      "sha256": "015fc5ecec4c1e6e5b9600cf14d7abd929634822386666280f264c5a646e8504"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16202,
+      "sha256": "a63de1fe3700c48ab77648bbf9adcede2cb568a47f584bcbc7cc25a7b162125d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 745,
+      "sha256": "d934e77effe293f497ef2811521869e02186a314b0fcc2c427c81604c43486e4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 49409,
+      "sha256": "fad91cab21178c2972eae95462d34d76c356ab98573436bda70c675e398fd6a9"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "testimonials",
+    "product-grid",
+    "faq",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

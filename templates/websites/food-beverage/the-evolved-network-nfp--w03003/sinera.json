@@ -1,0 +1,64 @@
+{
+  "id": "SN-W03003",
+  "title": "The Evolved Network NFP",
+  "summary": "A Chicago-based, purpose-driven nonprofit focusing on education, culinary arts, and urban agriculture initiatives.",
+  "tags": [
+    "Non-profit",
+    "Education",
+    "Community",
+    "Food",
+    "Minimal",
+    "Clean",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3420,
+      "sha256": "57cae2128a6a42310be34a9cbab0fca674d402f00d315cced087d8ec3991ecdf"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15858,
+      "sha256": "11df97505c6fb5edad7ffede1f3f1a909fc518d70b87d0566c6e3a2a86419c72"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 720,
+      "sha256": "37a497918b7e787f2c029d0fdde4f216207836dc5e835ef5cacdee0425c587e1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29996,
+      "sha256": "0161a6c59ed402ecdeb23c064d5cf8ffde3bc15ad96e9dabc309cf9cefc4b3c6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "product-grid",
+    "about",
+    "services",
+    "blog-articles"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

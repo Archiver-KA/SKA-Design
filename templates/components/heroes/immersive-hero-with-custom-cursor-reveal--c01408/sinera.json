@@ -1,0 +1,37 @@
+{
+  "id": "SN-C01408",
+  "title": "Immersive Hero with Custom Cursor Reveal",
+  "summary": "Full-screen atmospheric hero section featuring layered image background with cursor-based radial reveal, custom dual cursor, animated title, navigation links, and a press-and-hold circular enter button. Styled primarily with Tailwind and custom CSS for cinematic landing pages.",
+  "tags": [
+    "hero",
+    "section",
+    "interactive",
+    "animated",
+    "tailwind",
+    "landing",
+    "cursor"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16880,
+      "sha256": "5791f9c95aa34da8e8f8f9c2c87080aa5eaf0bcc8014ec86084d684a7b32891c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8021,
+      "sha256": "ea54885b8ad8e6cfa0cbaa8d59c5c692f1577d38f8e722f9b4db3e85e32006d6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

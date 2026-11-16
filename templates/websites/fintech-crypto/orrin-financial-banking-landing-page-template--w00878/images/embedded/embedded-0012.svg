@@ -1,0 +1,17 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none overflow-visible z-0" viewBox="0 0 400 320" preserveAspectRatio="xMidYMid slice">
+      <defs>
+
+      </defs>
+
+      <!-- Path 1: Top Right into Center -->
+      <path d="M420,40 C320,40 280,160 200,160" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="1"></path>
+      <path d="M420,40 C320,40 280,160 200,160" fill="none" stroke="url(#smart-beam-grad)" stroke-width="1.5" stroke-dasharray="100 1000" stroke-linecap="round" class="animate-[beam_3s_linear_infinite]"></path>
+
+      <!-- Path 2: Bottom Left into Center -->
+      <path d="M-20,280 C80,280 120,160 200,160" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="1"></path>
+      <path d="M-20,280 C80,280 120,160 200,160" fill="none" stroke="url(#smart-beam-grad)" stroke-width="1.5" stroke-dasharray="80 1000" stroke-linecap="round" class="animate-[beam_4s_linear_infinite]"></path>
+
+      <!-- Path 3: Vertical Drop -->
+      <path d="M200,0 L200,160" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="1" stroke-dasharray="2 4">
+      </path>
+    </svg>

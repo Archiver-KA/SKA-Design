@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00209",
+  "title": "Gradient Rounded Call-to-Action Button",
+  "summary": "Interactive primary button with radial gradient overlay, Tailwind-powered hover/active states, full rounding, and drop shadow. Ideal for prominent calls to action such as \"Get Started\" across responsive web apps.",
+  "tags": [
+    "button",
+    "tailwind",
+    "gradient",
+    "rounded",
+    "interactive",
+    "call-to-action",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2088,
+      "sha256": "87b65dd7e5b5b2f4705f1d45a09bc08372de5e32a6e0028dbe7ea1082ea8c795"
+    },
+    {
+      "path": "component.html",
+      "bytes": 594,
+      "sha256": "9318023d98937f3cec8cf820a024d24b16f4707390c179a326b3e230e291bab6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1453,
+      "sha256": "0cdee0c510959a2ff4449978b191e56de616ff6dc2078339277684d3ca0518ff"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

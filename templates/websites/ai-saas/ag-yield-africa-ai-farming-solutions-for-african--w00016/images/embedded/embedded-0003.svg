@@ -1,0 +1,10 @@
+<svg viewBox="0 0 300 100" class="w-full h-24 opacity-90 overflow-visible mt-4">
+                        <defs>
+                            <linearGradient id="gradient" x1="0" x2="0" y1="0" y2="1">
+                                <stop offset="0%" stop-color="#ccf32f" stop-opacity="0.2"></stop>
+                                <stop offset="100%" stop-color="#ccf32f" stop-opacity="0"></stop>
+                            </linearGradient>
+                        </defs>
+                        <path d="M0,80 L40,60 L80,70 L120,40 L160,50 L200,30 L240,40 L300,10" fill="none" stroke="#ccf32f" stroke-width="2"></path>
+                        <path d="M0,80 L40,60 L80,70 L120,40 L160,50 L200,30 L240,40 L300,10 V100 H0 Z" fill="url(#gradient)"></path>
+                    </svg>

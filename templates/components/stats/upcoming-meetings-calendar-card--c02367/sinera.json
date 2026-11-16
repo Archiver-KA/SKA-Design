@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02367",
+  "title": "Upcoming Meetings Calendar Card",
+  "summary": "Compact calendar card showing upcoming meetings with a header summary, month selector pill button, horizontal day pills, and a simple time progress bar. Styled with Tailwind-like utility classes for use in dashboards or scheduling UIs.",
+  "tags": [
+    "card",
+    "calendar",
+    "schedule",
+    "dashboard",
+    "ui",
+    "tailwind",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4670,
+      "sha256": "383d9321b8f92ac0a180c2f4c6b2bfb7d5daab4894d14c5daff8951758d02c30"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3726,
+      "sha256": "dc056f61e95c9fe1acacee0d1c0c6d8d27ec0bfab09b1416712f95fa27de2397"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4708,
+      "sha256": "40b1154370d89016c7fd336e00e1fe6821a763dc878f65e2a4244fd48690459c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

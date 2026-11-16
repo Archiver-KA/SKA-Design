@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02353",
+  "title": "Dental Clinic Landing Page Template",
+  "summary": "A modern Dental Clinic landing page template for dentists and practices to showcase services, build trust, and drive appointment calls and bookings.",
+  "tags": [
+    "Health",
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Colorful",
+    "Minimal",
+    "Large Type",
+    "Dentist",
+    "Medical"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3844,
+      "sha256": "87e78487b5e6554da0885e5421c7024218de714961f9017d54d5e95508ceb409"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22314,
+      "sha256": "5c261eab9268b31a7b9aa4efd07c0361255651717573121d5e32722809d5b846"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "b29e12785b4dde1cd7c0edb3dfe9c43131d5abe2ab3b93e22734cefe4e22f171"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32950,
+      "sha256": "510f9f3a5fde083f72a8f6d8d0fcd5bb4d1aeac593e8281da9c53ece3a0a4afb"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "faq",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

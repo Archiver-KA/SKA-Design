@@ -1,0 +1,71 @@
+{
+  "id": "SN-W01725",
+  "title": "Voice-Over Agency Landing Page Template",
+  "summary": "A premium dark-style voice-over agency landing page template for showcasing demos, services, and booking inquiries for professional voice talents.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Entertainment",
+    "Art & Design",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Voice Over"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3730,
+      "sha256": "3b41734d307bcd280b0e10e7e87b793871ea43fa31b069a3b62463a106133c09"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15322,
+      "sha256": "fb673bb4625260d490322e29e78a2e3e744b5dae33963d14c22e8b6dd36df250"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 816,
+      "sha256": "d0fa43ce9a99bca3cc58d2b65207b5f5c37367d9be9c04c2a2361917ca6b3a81"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23080,
+      "sha256": "2301724ef1cf5ad4759df4a2b4530537aa39761622f63ea4072b2435d311cd0d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "3d-canvas",
+    "how-it-works",
+    "features",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

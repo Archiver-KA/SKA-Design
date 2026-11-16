@@ -1,0 +1,20 @@
+<svg width="36" height="36" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" class="transform group-hover:scale-110 transition-transform duration-500 ease-out">
+                        <!-- Background Glow Shape -->
+                        <path d="M0 10C0 4.47715 4.47715 0 10 0H22C27.5228 0 32 4.47715 32 10V22C32 27.5228 27.5228 32 22 32H10C4.47715 32 0 27.5228 0 22V10Z" fill="url(#logo_grad)" fill-opacity="0.15"></path>
+                        <path d="M0.5 10C0.5 4.75329 4.75329 0.5 10 0.5H22C27.2467 0.5 31.5 4.75329 31.5 10V22C31.5 27.2467 27.2467 31.5 22 31.5H10C4.75329 31.5 0.5 27.2467 0.5 22V10Z" stroke="url(#logo_stroke)" stroke-opacity="0.2"></path>
+                        
+                        <!-- W Graph Icon -->
+                        <path d="M7 11.5L10.7936 21.0544C11.1399 21.9267 12.3835 21.8906 12.6789 20.9996L15.5 12.5L18.3211 20.9996C18.6165 21.8906 19.8601 21.9267 20.2064 21.0544L23 14" stroke="#FB923C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <circle cx="23" cy="14" r="2" fill="#FB923C"></circle>
+                        
+                        <defs>
+                            <linearGradient id="logo_grad" x1="0" y1="0" x2="32" y2="32" gradientUnits="userSpaceOnUse">
+                                <stop stop-color="#F97316"></stop>
+                                <stop offset="1" stop-color="#EA580C" stop-opacity="0"></stop>
+                            </linearGradient>
+                            <linearGradient id="logo_stroke" x1="0" y1="0" x2="32" y2="32" gradientUnits="userSpaceOnUse">
+                                <stop stop-color="#F97316"></stop>
+                                <stop offset="1" stop-color="#fff" stop-opacity="0.1"></stop>
+                            </linearGradient>
+                        </defs>
+                    </svg>

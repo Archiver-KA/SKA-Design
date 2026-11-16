@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02258",
+  "title": "Cybersecurity Analytics Dashboard UI",
+  "summary": "A full-width glassmorphism security operations dashboard with sidebar navigation, live status indicators, charts, KPI cards, search, and event logs. Built with Tailwind CSS for SOC, network monitoring, or admin analytics interfaces.",
+  "tags": [
+    "ui",
+    "tailwind",
+    "dashboard",
+    "analytics",
+    "glassmorphism",
+    "sidebar",
+    "dark",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21836,
+      "sha256": "8b66df4a5946c274c27bec55b84c91afaa739726f87ce027c02a329940613460"
+    },
+    {
+      "path": "component.html",
+      "bytes": 40405,
+      "sha256": "7e98c79a7d6e1e3424cf6b507ad33b8c2f36380c83b30dbc8828399dbb507ceb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41262,
+      "sha256": "68b03d0cbf077fd0645e74399b8914495e13af17d85e45c2e4d42e439074c9ec"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00432",
+  "title": "Project Info Card with Hover Effects & Image Gallery",
+  "summary": "Responsive grid component featuring a project info card with gradient hover, badges, feature list and a three-image gallery, styled with Tailwind CSS. Ideal for portfolios, SaaS landing pages or product case study sections.",
+  "tags": [
+    "card",
+    "gallery",
+    "tailwind",
+    "responsive",
+    "hover",
+    "portfolio",
+    "grid",
+    "showcase"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 29476,
+      "sha256": "7a83368c1bf9c6e655c96c2dfa501e9b2d2b392c957bae1e71f8495927ecf89c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4151,
+      "sha256": "19fcd2b926df7b07e6a545f27aae616ee063f5c95fe06aeef495935910ae34cf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5028,
+      "sha256": "a1827d5dc5db5b0170a61c01ef116a2b4b78f75237d673d1463b5c38240d1b9a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

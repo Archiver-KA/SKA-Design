@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01227",
+  "title": "AI Web Builder Hero & Feature Section",
+  "summary": "Responsive two-column marketing section showcasing an AI HTML/Tailwind generator. Includes animated code-editor mockup, feature grid, stats and call-to-action buttons. Styled with Tailwind CSS and scroll-triggered fade/slide animations.",
+  "tags": [
+    "hero",
+    "marketing",
+    "feature",
+    "tailwind",
+    "responsive",
+    "animated",
+    "cta",
+    "two-column"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 29294,
+      "sha256": "28223be28ccece785be61fae4870918f018a2135773bb7da901fd3305a2f6605"
+    },
+    {
+      "path": "component.html",
+      "bytes": 14662,
+      "sha256": "105744e07f13dc8910f704371182159267621be135e0764027265afb46dd7bd9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15654,
+      "sha256": "9ad22328768b447d2d789bcbb427eb7bd96db79904115e58eb9592070a6b9b78"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

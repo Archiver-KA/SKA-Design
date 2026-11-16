@@ -1,0 +1,65 @@
+{
+  "id": "SN-W00288",
+  "title": "Color Visualizer Landing Page Template",
+  "summary": "A reusable landing page template for showcasing color palette visualization tools, helping designers preview branding and UI combinations with confidence.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Art & Design",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Colorful",
+    "SaaS",
+    "UI tool"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3494,
+      "sha256": "c2a3da56019243713d55ef326809b9a0029198e9578c929de676e33b8e04381d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13858,
+      "sha256": "0d522a3e5b49b9de8b0ba85b660473fe6c6e6b0eb15fc7b3f2c52b58276e9701"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 732,
+      "sha256": "614ada29897b7b500395e4bfa8769fa56cf6918d08fafcd00c274a837edd504f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23103,
+      "sha256": "d140fb9be90155c9bc97e77c45a0404b899ed4b43bd965a7cade7113fa8a107c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

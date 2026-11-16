@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01760",
+  "title": "Scalable Inline SVG Brand Logo",
+  "summary": "Standalone SVG logo composed of multiple paths inheriting currentColor, ensuring easy theming and crisp rendering at any size. Suitable for headers, navbars, splash screens, and general branding in React or plain HTML projects.",
+  "tags": [
+    "logo",
+    "svg",
+    "icon",
+    "brand",
+    "vector",
+    "responsive",
+    "currentcolor"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3144,
+      "sha256": "5d49f3edd0d534241c2fe2d8f373ccfe447179dd1e78d65d5ce3957c89a9ddb8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4681,
+      "sha256": "67b49f13aa95c787019e24454a4ae1cc0c93438068d2686250dd288a1ddedd7c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5532,
+      "sha256": "5dfc19136e8a0e0aa4a14f0ca88d446f6bb194af363d13f88cbb85feceb72332"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

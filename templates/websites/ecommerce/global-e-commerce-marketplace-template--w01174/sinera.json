@@ -1,0 +1,62 @@
+{
+  "id": "SN-W01174",
+  "title": "Global E-Commerce Marketplace Template",
+  "summary": "A clean and functional e-commerce template designed for global marketplaces, featuring cross-border logistics tools and localized shopping experiences.",
+  "tags": [
+    "Landing Page",
+    "E-commerce",
+    "Technology",
+    "Clean",
+    "Grid",
+    "Minimal",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3596,
+      "sha256": "514ba19200bf304ed94a6fcabd1194a700e703b7dced50c5ea38d080d650fd6e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14608,
+      "sha256": "da4d389d9a7887e1f967b6b07599bbb785a7c15c0fef9d6d1bd90026fb198914"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "156aa55eef1990eee51e0999326b263def879562336292532b8de15e92152268"
+    },
+    {
+      "path": "index.html",
+      "bytes": 58727,
+      "sha256": "2ab5bdc7ba167f4cb004f59edb54bc509f07d3f3d7a0f135d5be0ca143492562"
+    }
+  ],
+  "collection": "logistics",
+  "collectionCategory": "industry",
+  "collectionLabel": "Logistics",
+  "collectionCategoryLabel": "Industry / Energy",
+  "collectionConfidence": 0.88,
+  "collectionBasis": "business-keywords",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "footer",
+    "auth-form"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

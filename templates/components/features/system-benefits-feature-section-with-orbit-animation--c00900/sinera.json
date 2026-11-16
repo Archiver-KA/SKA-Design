@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00900",
+  "title": "System Benefits Feature Section with Orbit Animation",
+  "summary": "Two-column Tailwind feature section highlighting five system benefits with icons and interactive hover states, paired with an animated orbital visualization of core and agent nodes. Ideal for product, platform, or system overview pages.",
+  "tags": [
+    "feature",
+    "section",
+    "tailwind",
+    "responsive",
+    "animated",
+    "interactive",
+    "icons"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 28446,
+      "sha256": "b328ec5cb24c321079dad6e5d8fbe57cb87138d01b444081b122f51bb42ecc0b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11610,
+      "sha256": "d82a6cb16a67f52f58b46ed77f93d2fd15f61af73c055040aeaf0597a5dbf948"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12483,
+      "sha256": "e6cfb6750544f77fdd024f7b2986cd8e3d1106f3de96178147b12a0db2f65bc7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

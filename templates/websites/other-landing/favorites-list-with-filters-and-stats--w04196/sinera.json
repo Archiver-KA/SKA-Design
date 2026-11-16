@@ -1,0 +1,120 @@
+{
+  "id": "SN-W04196",
+  "title": "Favorites List with Filters and Stats",
+  "summary": "UI displaying a scrollable list of saved favorite places with category filters, sorting options, and detailed place cards.",
+  "tags": [
+    "Favorites",
+    "Filters",
+    "Scrollable List",
+    "Cards",
+    "Tailwind CSS",
+    "Location UI",
+    "Ratings"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3320,
+      "sha256": "bffd1fadf91bd56d54f997e1ad44eed595304a8134d800e1e9258e079ccf1652"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7264,
+      "sha256": "27780c695e9eaa27315988b5dea795faac9f76dd95d48a2b5880fac7aa7003e8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 3501,
+      "sha256": "805eefb05edf244b34acc3c4a9edc091a62f4d21f441a3f1b15e5969f68201e1"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 292,
+      "sha256": "4bb83757a19a2556b2bb0a15048399c64ffb11e68bbc2f4cd15eddbe60ac3b63"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 280,
+      "sha256": "33449e594530b54ab6b5bfb1b38d093f4363f1e947ed1a4573334121d654b9ab"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 378,
+      "sha256": "b16187d522bc8df1c82290046113bbeea863e62833b7a72c78d9bbe9429593ee"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 345,
+      "sha256": "b784f97f3b0748b9f8057db4ccef768151f66924d9cdf506ac0ee76f8033bef7"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 290,
+      "sha256": "c6d9687bba7bf1542b7bb0d50b66e5eefdcf0b539af2787bb99a225c0a264fec"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 253,
+      "sha256": "02782085d1a059497e9332af84da9c5722581ea822d4b5dbe46259bd505b66c7"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 387,
+      "sha256": "ce789f139f0e7f6ddecc56a9be8fcab852fa206c233629a1089c141bd1aed1c2"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 262,
+      "sha256": "41944d5f3f47af71678e45cbcc01861bc3b9634db142632b35c1c657940ca4a4"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 416,
+      "sha256": "f08da15308df413ef9118630bbf0168b616b85baa294f8a1b7db9121180a4996"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 512,
+      "sha256": "018e8c445e38c27b4092a52f53ac10498003b7657752494cf396e72bd9efd598"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 370,
+      "sha256": "81e3ad058afa9e029703a3b5569903d2e17351581586056b35d6a93a17655dc9"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 361,
+      "sha256": "f5e29266e66386b2bd6f4c6a118d7529c01ecfdbacb064cee187fd3eafeaa4c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19200,
+      "sha256": "050d39c6ec0bc86a4bdeb5000e15dbe1f120264fd181f73da1bb4ce27c9c7012"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "gallery-portfolio",
+    "navbar"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

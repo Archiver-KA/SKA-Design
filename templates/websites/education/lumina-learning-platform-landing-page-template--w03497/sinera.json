@@ -1,0 +1,70 @@
+{
+  "id": "SN-W03497",
+  "title": "Lumina Learning Platform Landing Page Template",
+  "summary": "A modern Lumina learning platform landing page template for showcasing online courses, pricing, and student dashboard features for education products.",
+  "tags": [
+    "Education",
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Online Courses",
+    "Learning Platform"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3848,
+      "sha256": "fbd07501bf504d0e1f3e11c0af304a6edeb081abc2db11332620e974bfbbc117"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16114,
+      "sha256": "a4bb743f8ff7779cbea14292a603782247bea7c2752ea44b3b733894f9745bba"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "0203de79c82b5effafd14277efb6c577c4d5f6b36ecbd2b549754ebba84e5cff"
+    },
+    {
+      "path": "index.html",
+      "bytes": 51499,
+      "sha256": "3056eca8d159a96a6a7c577044cc189697af2ec6376f54e801acb8ddabf3a777"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "benefits",
+    "product-grid",
+    "services",
+    "pricing",
+    "cta",
+    "footer",
+    "auth-form",
+    "bento-grid"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

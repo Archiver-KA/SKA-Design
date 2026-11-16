@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01295",
+  "title": "Cinematic Hero Layout with Floating Menu",
+  "summary": "Full-page cinematic hero with ambient background, headline, interactive floating navigation menu, newsletter card, featured visual project panel, and footer. Built with Tailwind-style utility classes and animated overlay interactions for studio or portfolio landing pages.",
+  "tags": [
+    "hero",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "navigation",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 40376,
+      "sha256": "ba593df00e3718fde2f6f54b4bb48e53184a88b646dcaa8eeceb781cbe6cdf73"
+    },
+    {
+      "path": "component.html",
+      "bytes": 23289,
+      "sha256": "0f7c21a9da9f3e87590d2eef50495c175da1175a3d42bdbf4729bd70cf0b221a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24280,
+      "sha256": "2382ec5a5814ee3f8f3018ac779c92df2d40fdb00204faeba7db8cba9680c7e3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

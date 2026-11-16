@@ -1,0 +1,12 @@
+<svg viewBox="0 0 400 200" class="absolute inset-0 w-full h-full preserve-3d">
+                        <defs>
+                            <linearGradient id="gradient" x1="0" x2="0" y1="0" y2="1">
+                                <stop offset="0%" stop-color="#FF9EB5" stop-opacity="0.2"></stop>
+                                <stop offset="100%" stop-color="#FF9EB5" stop-opacity="0"></stop>
+                            </linearGradient>
+                        </defs>
+                        <path d="M0 180 C 50 180, 80 140, 120 150 S 180 80, 220 100 S 300 40, 400 60 V 200 H 0 Z" fill="url(#gradient)"></path>
+                        <path d="M0 180 C 50 180, 80 140, 120 150 S 180 80, 220 100 S 300 40, 400 60" fill="none" stroke="#FF9EB5" stroke-width="2"></path>
+                        <!-- Tooltip Dot -->
+                        <circle cx="280" cy="70" r="4" fill="#FF9EB5" class="shadow-[0_0_10px_#FF9EB5]"></circle>
+                    </svg>

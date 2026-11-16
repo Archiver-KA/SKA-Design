@@ -1,0 +1,59 @@
+{
+  "id": "SN-W04269",
+  "title": "Product Update Timeline Layout",
+  "summary": "Displays a vertical timeline of recent product updates with dates, categories, and descriptions using Tailwind CSS.",
+  "tags": [
+    "Timeline",
+    "Updates",
+    "Tailwind CSS",
+    "UI",
+    "Responsive",
+    "Cards",
+    "Icons"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3112,
+      "sha256": "e9805318289a4da86e4a59d27b8fc011c315d40d2dcf894c21d6febf91df4a80"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14234,
+      "sha256": "d619e53aa690b2323e713e252c364b47aee6fe0759ba20d360d80c695c541607"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "9dd63b0e06a25edecefb582d16511ed28e732cc2b7401b4b32d4dd7de99cb7ab"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6498,
+      "sha256": "df0fc49165629faae3b950416c057a95dfdd59062d6915672b0c2f1e99f093d5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "product-grid"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "product-grid",
+  "design": "DESIGN.md"
+}

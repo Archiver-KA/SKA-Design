@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02282",
+  "title": "Glassmorphic Dashboard Status Card",
+  "summary": "Stylized glass-effect card showing service header, live status badge, code snippet window, KPI counters, feature tags, deployment info and footer links. Built with Tailwind CSS, perfect for dashboards to present app or AI agent metrics and states.",
+  "tags": [
+    "card",
+    "dashboard",
+    "stats",
+    "glassmorphic",
+    "tailwind",
+    "gradient",
+    "status",
+    "metrics"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11828,
+      "sha256": "e40148677fbdf96ff08abe7dbf2178857422899d0ef6ee7ec43e102fa643ff8d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10498,
+      "sha256": "4bf9fe1e55f0941f596068405481efda126b95fc171e4016e5f3a17720a78cad"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11353,
+      "sha256": "9c4be6e1ddc5dae033671bede3f98c81631d4844b23039dff7728f52815cce8e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

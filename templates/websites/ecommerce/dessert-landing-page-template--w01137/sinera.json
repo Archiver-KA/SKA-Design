@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01137",
+  "title": "Dessert Landing Page Template",
+  "summary": "A reusable landing page template for premium dessert brands to showcase menu items, highlight quality, and drive fast WhatsApp orders.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "E-commerce",
+    "Clean",
+    "Minimal",
+    "Brand",
+    "dessert",
+    "restaurant",
+    "WhatsApp ordering"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3545,
+      "sha256": "9991e48cd7da70d64bda28c1a1d32a2d86bbf3ec8eea4f45f7065c21221dac44"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11878,
+      "sha256": "3e8adadd1fd4e1afec025438f14eed162b18cc77bb84f469ac46c52584f970e8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 719,
+      "sha256": "31cb89f63d10a0d05d0a4e78f3666ff168b251f11fb3e749de4b5c56acca6087"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32208,
+      "sha256": "45e46a9b9b10c62bb1be275c1e64906663ac13acc0563e8aae13ddc0308d325a"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "menu-list",
+    "how-it-works",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

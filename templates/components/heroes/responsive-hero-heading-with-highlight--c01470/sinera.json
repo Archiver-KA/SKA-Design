@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01470",
+  "title": "Responsive Hero Heading with Highlight",
+  "summary": "Large, responsive h2 heading using Tailwind utility classes; features bold typography that scales across breakpoints and a partially faded span for visual emphasis. Ideal for hero sections or landing pages seeking impactful copy.",
+  "tags": [
+    "heading",
+    "typography",
+    "tailwind",
+    "responsive",
+    "ui",
+    "landing",
+    "text"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5052,
+      "sha256": "8fdff9b8b2ffa04488dbeee2202213b422ee92be1b2f5c96710e1d9866b24ad4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 180,
+      "sha256": "65c36c56f44454349ddf7377d1b57fd22c5fc3aeb59c4db4d16e8127fdc81250"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1039,
+      "sha256": "08a7795701cf4f0940103e06589750ef9de1f3f3501172cf5d5f0f80a73eddf9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

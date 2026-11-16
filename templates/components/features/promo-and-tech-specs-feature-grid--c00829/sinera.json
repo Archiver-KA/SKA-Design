@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00829",
+  "title": "Promo and Tech Specs Feature Grid",
+  "summary": "Three-column responsive feature grid with a promo card and dual tech spec highlights. Includes hover elevation, image overlay, icons, and dark/light feature cards styled with Tailwind CSS. Ideal for product promos and feature callouts.",
+  "tags": [
+    "feature",
+    "section",
+    "grid",
+    "promo",
+    "product",
+    "responsive",
+    "tailwind",
+    "card"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14684,
+      "sha256": "6f5ad93453786771e6f4560fb41f4b4f5fb74e55a35f2b40501730ddc5ce06c8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3137,
+      "sha256": "b91fe79c1883807682af38426c7c3b6b47aa58f2acc4d7d78a8b3d49f8d91c56"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4081,
+      "sha256": "15a4d87acc36eb1a44d7e9c29280ee017af6e3ce2323fc30483b77ff9ba5c888"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

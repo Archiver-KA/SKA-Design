@@ -1,0 +1,82 @@
+{
+  "id": "SN-W00768",
+  "title": "Tech Ecosystem & SaaS Landing Page Template",
+  "summary": "A robust landing page template designed for tech hubs, startup accelerators, and corporate innovation platforms.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Clean",
+    "Community",
+    "Portfolio",
+    "Services",
+    "Business Guidelines"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "react",
+  "entry": "package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3137,
+      "sha256": "c36112bc363a4ff48f1f87e214f3bf87aa8363113d0aeaa7b119837fcf3e3593"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11742,
+      "sha256": "391f533fe13fc3b843d73be3687a8dc2d642269d50cbcdc10db8978f6cc9f582"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 737,
+      "sha256": "596dccb9af74a76c677c3e5b28de444322e1c51f457ba66fe982fc546bb3e3b1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 550,
+      "sha256": "9fc7ce55fc8987ecde68b56ad46d1f0837889710aff41dcc56e11949485f06fc"
+    },
+    {
+      "path": "package.json",
+      "bytes": 594,
+      "sha256": "9582298088ecc709ced14d5b27014c0451894af752470beb28b0450f213eac8a"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 23726,
+      "sha256": "3bedb9295e371990383ac15baadb68bbeba60d0a625fa1187d32afae338155d7"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 2381,
+      "sha256": "3523047671665b1468a091256ebd5e9321127f56e978702bddab3d94fc1a2bea"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 326,
+      "sha256": "aa786bd80b810b78972c4e4c6fd74d846067cde3863fac6c8e7dda192f3d58e2"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 226,
+      "sha256": "cdc1763369a305dd2cc7d83e3b19b447f985089e744932a9fbf520975e41ac72"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

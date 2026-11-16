@@ -1,0 +1,95 @@
+{
+  "id": "SN-W00069",
+  "title": "AI CMS SaaS Landing Page Template",
+  "summary": "A dark, futuristic SaaS landing page template for AI-powered CMS and developer platforms, ideal for showcasing infrastructure, features, pricing, and technical workflow.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Large Type",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3821,
+      "sha256": "da7f9a179020e2152412c4e220163dd891b9f349cb09a522dd2ddb960a323d9d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12040,
+      "sha256": "2bc8c8648109d486d328daf2cbabc9cd9124b1e2e8438dce0a07e2ff18c7ea6e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1735,
+      "sha256": "ae1e950f8e1f744aac19e765c86420b0692db1fcf87948945794a0cf03956795"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 352,
+      "sha256": "3d53956fb7d9e81a0efd99e3b1a4ec51d63f4cf8755dd108f8dbe3738c80f05e"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 210,
+      "sha256": "61d06e0cc0bed7db860b1f219a8ad5b437685e05316fb0b573fd5b5a8978e0c4"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 186,
+      "sha256": "6ee738f22281cc598ed37e9e7b6fa4ff6f40dee7fd8790e3c5ee9f26ea86372e"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 373,
+      "sha256": "70a554c1aa3b2e416f757a5e1c5650d06c4e4ef2f0fd7f3fe2581d1afcb5cba1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 49124,
+      "sha256": "5bf1882bb25821714c0767884ccd928e51d3189690eb6625c27153dfc6330352"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "stats",
+    "code-terminal",
+    "features",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,17 @@
+<svg class="absolute inset-0 w-full h-full" preserveAspectRatio="none" viewBox="0 0 1920 1080">
+          <defs>
+            <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+              <stop offset="0%" style="stop-color:#0071CE;stop-opacity:0"></stop>
+              <stop offset="50%" style="stop-color:#0071CE;stop-opacity:0.6"></stop>
+              <stop offset="100%" style="stop-color:#0071CE;stop-opacity:0"></stop>
+            </linearGradient>
+          </defs>
+          <path d="M0 200 Q480 180 960 220 T1920 180" stroke="url(#lineGrad)" stroke-width="1" fill="none" class="line-animate" style="animation-delay: 0s;"></path>
+          <path d="M0 400 Q480 420 960 380 T1920 420" stroke="url(#lineGrad)" stroke-width="1" fill="none" class="line-animate" style="animation-delay: 0.5s;"></path>
+          <path d="M0 600 Q480 580 960 620 T1920 580" stroke="url(#lineGrad)" stroke-width="1" fill="none" class="line-animate" style="animation-delay: 1s;"></path>
+          <path d="M0 800 Q480 820 960 780 T1920 820" stroke="url(#lineGrad)" stroke-width="1" fill="none" class="line-animate" style="animation-delay: 1.5s;"></path>
+          <line x1="300" y1="0" x2="300" y2="1080" stroke="rgba(0,113,206,0.15)" stroke-width="1" stroke-dasharray="8 12"></line>
+          <line x1="600" y1="0" x2="600" y2="1080" stroke="rgba(0,113,206,0.1)" stroke-width="1" stroke-dasharray="4 16"></line>
+          <line x1="1200" y1="0" x2="1200" y2="1080" stroke="rgba(0,113,206,0.1)" stroke-width="1" stroke-dasharray="4 16"></line>
+          <line x1="1600" y1="0" x2="1600" y2="1080" stroke="rgba(0,113,206,0.15)" stroke-width="1" stroke-dasharray="8 12"></line>
+        </svg>

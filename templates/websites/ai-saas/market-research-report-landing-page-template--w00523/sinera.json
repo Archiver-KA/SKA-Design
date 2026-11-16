@@ -1,0 +1,67 @@
+{
+  "id": "SN-W00523",
+  "title": "Market Research Report Landing Page Template",
+  "summary": "A modern, data-rich landing page template for showcasing and selling technology market research reports with forecasts, key insights, and lead-generation CTAs.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Market Research",
+    "Report"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3525,
+      "sha256": "50d946c9fcfb9c91244185b9f26df03f0646fb7e32889cf5d815259c256f84a4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 25688,
+      "sha256": "9c930ff6aa4f11d89f953c0ab84ad8b1a04502122361e13a0d2c013a85b333ca"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 739,
+      "sha256": "53dcd4415a962b258cb49277d4a3a2d4cd34197156fd98362ce4c3c2cb7152d8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 100280,
+      "sha256": "84d1512faf9934329cc9935c7a09d0c98a24dc6230262b40d0bcfff03c2a8e1b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "bento-grid",
+    "product-grid",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

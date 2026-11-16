@@ -1,0 +1,40 @@
+{
+  "id": "SN-C01895",
+  "title": "Image Display Component",
+  "summary": "A simple, responsive image component that displays an external image with proper scaling and object-fit properties. Ideal for product images, banners, or media content.",
+  "tags": [
+    "card",
+    "image",
+    "responsive",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 35502,
+      "sha256": "917f351ec31a1507a9428122eb0442991695d27207aac133c50be5aefdccf9e5"
+    },
+    {
+      "path": "component.html",
+      "bytes": 253,
+      "sha256": "205140553c4398d4754b7e83eb25a5073dc68acbd7dc07ce869a339ca3f20aea"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1097,
+      "sha256": "f5878e40843289172c2a068d3605a96930f41f58933a419d1beb6e75a5904168"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

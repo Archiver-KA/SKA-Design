@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00545",
+  "title": "Full-Screen Animated Spline Gradient Background",
+  "summary": "Absolutely positioned div embedding a Spline iframe to render a responsive, full-width and full-height liquid gradient animation. Ideal as an eye-catching animated background for hero sections, landing pages, or immersive web apps using Tailwind utility classes.",
+  "tags": [
+    "background",
+    "animated",
+    "spline",
+    "iframe",
+    "tailwind",
+    "full-screen",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 27968,
+      "sha256": "60625227a586872118291fad20e8cd77164742026e4473efc5096772dec03c14"
+    },
+    {
+      "path": "component.html",
+      "bytes": 247,
+      "sha256": "1c7fd4ecec29097b7e40f37e691ce13b4fc1424604d4f3aba03c05f9377ec04d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1115,
+      "sha256": "3c54848867a10e1186cc58842bd3967422570fa33f59bdbfe237f99f0e534df3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

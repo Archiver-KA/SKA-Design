@@ -1,0 +1,70 @@
+{
+  "id": "SN-W02642",
+  "title": "Inclusive Sports Events Landing Page Template",
+  "summary": "A modern, inclusive events landing page template for clubs and organizations to showcase upcoming sports, cultural, and community activities with rich visuals and CTAs.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Colorful",
+    "Large Type",
+    "Social",
+    "Education",
+    "Entertainment",
+    "Events",
+    "Accessibility"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3741,
+      "sha256": "a52bf1390c149f2d9e423e07bc38887970c969f80169b59ad467236aa39ce584"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 35244,
+      "sha256": "7f32c2a518169cc328ab9ae773d506ca9db2274294e9595bccc85247f4bbac46"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 823,
+      "sha256": "94038f5c1b093744525a41a322f15b6e701c20ccdbad7457996e5d633622aa38"
+    },
+    {
+      "path": "index.html",
+      "bytes": 44162,
+      "sha256": "df58dda2fd697999251a60f6ecda4a703c76a4ed9d34b6bedb55dbfc4c321fce"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "features",
+    "blog-articles",
+    "timeline",
+    "gallery-portfolio",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

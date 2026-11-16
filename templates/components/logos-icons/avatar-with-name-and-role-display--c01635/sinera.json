@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01635",
+  "title": "Avatar with Name and Role Display",
+  "summary": "Compact user profile snippet showing a square avatar, name, and role; built with Tailwind utility classes for flexible horizontal layout—ideal for team lists, comments, or headers.",
+  "tags": [
+    "avatar",
+    "profile",
+    "user",
+    "tailwind",
+    "flexbox",
+    "component",
+    "display"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3872,
+      "sha256": "53482321f2a8e45bdb31dcd6f2b4af4924b3ad03888469eb05b83f9aae0393a3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 690,
+      "sha256": "4dfab309dfcdcb0f25699b66653f49f1104bdd510dfbbf0ccab78d9b4b338fab"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1544,
+      "sha256": "4e16d74531df747e7afaeaeeb61a040bc930bbf6df7a81714303f3fdc969bf27"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

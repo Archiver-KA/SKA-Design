@@ -1,0 +1,73 @@
+{
+  "id": "SN-W03526",
+  "title": "Safety Certification Academy Landing Page Template",
+  "summary": "A modern template for safety training academies to present ASP/CSP certification courses, upcoming sessions, and certificate verification in a single-page layout.",
+  "tags": [
+    "Landing Page",
+    "Education",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Brand",
+    "Technology",
+    "safety training",
+    "certification"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3888,
+      "sha256": "c08477b72c7e2a07613e855631d5101b8bd9a82dfb95d15690e761f07f27994c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 27520,
+      "sha256": "c0a37f3ebd9a67842c424cb030d9fc522bf073addfc47bba1aea9d8a3a789ed1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "0bda338cfdef348edb734141be7b73e9cb48dd189a41e0417451e529ccebfbc3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 66184,
+      "sha256": "328f217795ff20876c32ba9f08b914b9b6296a4c7eae3f65c820df2b59b02fe5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "services",
+    "stats",
+    "timeline",
+    "team",
+    "testimonials",
+    "bento-grid",
+    "about",
+    "cta",
+    "product-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

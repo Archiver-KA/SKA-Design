@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00303",
+  "title": "AI Agent Studio Card",
+  "summary": "A sophisticated code preview card featuring stacked window layers, syntax-highlighted code, and elegant glassy aesthetics for showcasing AI agent implementations.",
+  "tags": [
+    "card",
+    "code",
+    "dark",
+    "glass",
+    "modern",
+    "gradient",
+    "shadow",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18146,
+      "sha256": "8a0844c6bc185659d1a9e4e8e0579761edde208884dc2b591a6a90bfb36980f0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6081,
+      "sha256": "efea83b6c7831a6b2aecf2f033812526b495174b7f419be38c02d4ba5a66674e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6922,
+      "sha256": "b402934b0d728aa325c2e922419fc002f62b58561e8b935d1199cfd9f7cba743"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

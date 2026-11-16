@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01633",
+  "title": "Maritime Ship Agency Navlion",
+  "summary": "A modern, dark-theme landing page template for maritime ship agencies to showcase services, ports, and contact departments with immersive visuals.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Technology",
+    "Travel",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3802,
+      "sha256": "823d1c70714bc7be1e88e62af546319d47aa428d0140f41e2494af0aabfc332d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16328,
+      "sha256": "3be1d3b264fddf3cabf91cf1c88f238da85a555038710c2336100898e82af140"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 722,
+      "sha256": "518ab6bc11d74b001a01617cf70ad41f8cf75f6dc29230e984357f6e32b79035"
+    },
+    {
+      "path": "index.html",
+      "bytes": 51770,
+      "sha256": "31af2df6554fb72d5589b030048053eb3b822d25385259f729e7a5c951456dee"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "features",
+    "case-studies",
+    "about",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

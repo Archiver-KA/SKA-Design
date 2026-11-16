@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00082",
+  "title": "Animated Gradient CTA Button with Icon",
+  "summary": "Interactive call-to-action button featuring a shifting diagonal gradient, press scale effect, and arrow icon. Combines inline CSS and Tailwind utilities, perfect for landing pages, signup prompts, or pricing sections.",
+  "tags": [
+    "button",
+    "cta",
+    "gradient",
+    "interactive",
+    "hover",
+    "tailwind",
+    "icon"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2292,
+      "sha256": "08cad0a73540fab122ba62a4742650bec3b665496aefbd01f0dae5be6b6adeb9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1206,
+      "sha256": "2e2ef6c36a97e9025d712b132b20425ac1e862f2f35351ad31196d63ec591c50"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2195,
+      "sha256": "393e23de11657612908fdc6b2cca0311ad069bbacc2e44962028b412275042c2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "SN-W01019",
+  "title": "Programmable Privacy Agent Landing Page Template",
+  "summary": "A dark, futuristic landing page template for zero-knowledge, programmable privacy agents and crypto tooling projects, ready to customize for your product.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Crypto",
+    "AI Agents"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3649,
+      "sha256": "9c7c8c25bdc3a5d8f54bb9f513c859fa1858a5c99d13a3c47677f07d0e309084"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16738,
+      "sha256": "f6175da9574b1eb026b34d610bff16c6ea973d34e731dc8ae6ba421a02212957"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 817,
+      "sha256": "e465e6cbb1712db6c5373867ad76d41b62c6e4dcbd4e625e983169473bec19e0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37220,
+      "sha256": "4d10eb6da25e765fd5de2f9f7270a23fa98429459d6c08e0ae8f5f673964d437"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "booking",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

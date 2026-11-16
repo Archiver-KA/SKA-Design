@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00380",
+  "title": "Glassmorphic Profile Card with Stats Overlay",
+  "summary": "Responsive Tailwind CSS portrait card offering grayscale image, gradient overlay and glassmorphic statistic badges—ideal for portfolios, team sections or hero banners.",
+  "tags": [
+    "profile",
+    "tailwind",
+    "responsive",
+    "glassmorphism",
+    "stats",
+    "image",
+    "overlay"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1578,
+      "sha256": "36bc8ddb8c67dc68934778e6dec8fb96cf6a1e80e140196b7f78c8723378c2e3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 377,
+      "sha256": "890fbee520b087a30d6a00724b93f1f57892af161a2c476763e014d1492d21a2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1242,
+      "sha256": "68fed007bae5b9632d86dda24d0d85e8cc4424ee6f460a267b0aa4f178a14a86"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

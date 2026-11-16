@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03133",
+  "title": "Supercar Experience Landing Page Template",
+  "summary": "A premium supercar test drive landing page template for Maranello-style experiences, featuring car grid, booking stepper, FAQs, and WhatsApp contact.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Services",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Clean",
+    "Supercar",
+    "Booking"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3721,
+      "sha256": "61a3bcabfdcfa8adf023a378155ea18ace4071b38d45aa1bc95771fd35a9ffc1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12972,
+      "sha256": "7b5b894ebbf2fab174783091335325381be8bf5974d54aea8791ac96dfc33b30"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "d46fc066f4bee4a22e4a3b202a5eb379c14837b4deb476d4bc9f433dc0d7a920"
+    },
+    {
+      "path": "index.html",
+      "bytes": 43575,
+      "sha256": "c2bff02891065f0d6dceca57ac2285d703acec64248fb8513c5339cd35c299a6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "booking",
+    "timeline",
+    "team",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

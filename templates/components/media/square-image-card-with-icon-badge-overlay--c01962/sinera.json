@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01962",
+  "title": "Square Image Card with Icon & Badge Overlay",
+  "summary": "200×200px Tailwind card featuring a background image, gradient overlay, circular icon, label badge, and bottom title—ideal for dashboards, product grids, or feature highlights.",
+  "tags": [
+    "card",
+    "image",
+    "tailwind",
+    "overlay",
+    "badge",
+    "icon",
+    "square",
+    "dashboard"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7976,
+      "sha256": "0e501e21bba39364f03819073ef98e21b0251147b693671efa1b8b37d77017b8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1630,
+      "sha256": "8918a08b826e06c3377f6010a02e459c0ab15ce5dd8017d199714a03decd689b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2628,
+      "sha256": "e474c4a3bf6604da0990d9bc4815b376b221f70e737a71192a4bbc3828868d7d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "SN-W03821",
+  "title": "Auto Service Landing Page Template",
+  "summary": "A reusable landing page template for local auto repair and car service businesses, featuring services, pricing, testimonials, and contact sections.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3855,
+      "sha256": "a7cc5d056cb5d47d524bef79015b7c2924b9518fe6739288af975a1d355a810c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 27212,
+      "sha256": "6b7f490c7392b68b2e212480fae42672555550832e531dca11954edf5ff29d06"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "692ebd531a2aac79d0336d25f0ff868e99ece572d9c0be312b42b8f67e1f7a73"
+    },
+    {
+      "path": "index.html",
+      "bytes": 51532,
+      "sha256": "28aebccf3f8ed97a8ef5ece7f412a1d54a18fef97b0a794e911bcc66e67c3a9c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "bento-grid",
+    "testimonials",
+    "features",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

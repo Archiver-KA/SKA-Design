@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01479",
+  "title": "Responsive Hero Section with Dual CTA Buttons",
+  "summary": "Tailwind-styled hero banner featuring oversized brand heading, tagline, and two interactive CTA buttons (primary solid and secondary glass background). Ideal for landing pages or product launches needing a visually striking introduction.",
+  "tags": [
+    "hero",
+    "banner",
+    "cta",
+    "tailwind",
+    "responsive",
+    "landing-page",
+    "heading"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10264,
+      "sha256": "659b186858a43e57eb1c9a9f74950e3b014948bf4173e675fe38d89fdcf15602"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2261,
+      "sha256": "0a81f0c6e051c1f712018b4bd568e2268b81ea1ad61f64b94cd049383ed18a5f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3257,
+      "sha256": "454c9a2e40b884f432e9907b00605dacd5a9a3e81bff0d7f222f4c1e9bc50b82"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00115",
+  "title": "CTA Banner with Animated Cursor-Follow Button",
+  "summary": "Responsive hero/CTA block featuring gradient headline, supporting copy, and two actions: a cursor-tracking animated download button and a secondary film link. Styled with Tailwind utility classes, custom CSS, blur and gradient effects; ideal for landing pages.",
+  "tags": [
+    "cta",
+    "animated",
+    "cursor",
+    "tailwind",
+    "responsive",
+    "gradient"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14034,
+      "sha256": "4712bd4456bf6f9796788e3b1b14d3ca29b0d12bbd05f4dd1e71e0eb7e50c85e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6599,
+      "sha256": "d92eab11e051ad6b459a2f26a99fec0c3578b286459372d3c12425781902728e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7595,
+      "sha256": "103c8c9eabba3119d7945f6a3247ba6cd1c6ff380eec0cec5cdfa36ac51f23c1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

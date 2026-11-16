@@ -1,0 +1,71 @@
+{
+  "id": "SN-W00526",
+  "title": "MATTER Kinetic 3D Experience Template",
+  "summary": "A high-performance experimental 3D website template featuring glass physics, architectural typography, and interactive kinetic sculptures rendered live in the browser.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Brand",
+    "3D",
+    "Animated",
+    "Dark",
+    "Futuristic",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2599,
+      "sha256": "0d7e68d547abc60e39ab11bf3e17e0232ee0e2696a40dee14cf2398fd42f3c6a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12420,
+      "sha256": "c4a5892b5a3fa46c7abd7acbdc822e275d56f23d8577560f2df3fce954a9c0e7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 958,
+      "sha256": "0c258b32d8c11628b6b6b75c68cab60f211568cb5d0f86e0895110026168ff47"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 386,
+      "sha256": "92b6d331edf7443fc836cd48e045be97278475945333af09b607c8b9815033ba"
+    },
+    {
+      "path": "index.html",
+      "bytes": 89165,
+      "sha256": "045bb5c351b1c02381b943680e3946df043fbf955f142ae34110ffe917afc4a6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

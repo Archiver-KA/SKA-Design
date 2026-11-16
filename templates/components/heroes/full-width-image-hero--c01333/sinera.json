@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01333",
+  "title": "Full Width Image Hero",
+  "summary": "A full-width hero image component perfect for banners, headers, or showcase sections. Features responsive scaling and optimized loading for better performance.",
+  "tags": [
+    "hero",
+    "banner",
+    "responsive",
+    "fullwidth",
+    "image"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 27022,
+      "sha256": "8eff0932b406b4ba9237ba761a15f757e121462c8e94d5824f5cc52beb7e4142"
+    },
+    {
+      "path": "component.html",
+      "bytes": 302,
+      "sha256": "786f72ef4f0737df9bdda2da069e16de22a20aa5d465b37a52774e67221a07b0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1144,
+      "sha256": "ecb5d19c41aac21377169b687f64a6c7e4490fd31edd8b9776797f80a3839714"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

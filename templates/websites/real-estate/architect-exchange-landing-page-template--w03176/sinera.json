@@ -1,0 +1,96 @@
+{
+  "id": "SN-W03176",
+  "title": "Architect Exchange Landing Page Template",
+  "summary": "A sleek template for a perpetual futures exchange landing page, showcasing trading features, multi-asset support, API access, and transparent pricing.",
+  "tags": [
+    "Landing Page",
+    "Exchange",
+    "Trading",
+    "API",
+    "Features",
+    "Pricing",
+    "Brokerage",
+    "Developers",
+    "Market Data",
+    "UI Dashboard"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3730,
+      "sha256": "fe3e4972896971f26810fc631d8cbface8c6e57b459b6d0c6b3a68fe2f8181e4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16016,
+      "sha256": "be10ee826b2b2e25c25912402d80ec4e23e785a07660c101d14816dd8c8c655e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1562,
+      "sha256": "48403e081c3f2935045f8633e036e0b168ac0466ca9a2f8ea3b177291b62177c"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 242,
+      "sha256": "389315910ab19fc127dd70e5d59ce1b0048ec2b875fe2d3d05fee22b4063ff53"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 225,
+      "sha256": "3399b156fe279c6d5c6a850c7163e61883e3e2d6fc3516d35d1e9a9d0718a167"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 2752,
+      "sha256": "f8fae1d7bba65758c3cac0f76546d8688c0e2654bae2530a05e3e2e1e7bbe37a"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 150,
+      "sha256": "d55bb55288c1d1b3585ad94e01ca194d1741871e7bf5f3a1321c0c65760a553e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 49267,
+      "sha256": "ffd9f007133827a3bac330455587bee116aea630672ce8ca3f9b940c35b5c804"
+    },
+    {
+      "path": "sinera-fx-filter.js",
+      "bytes": 20821,
+      "sha256": "6b5f074b7d846e3a404deda089c33986eb540d0c5cd8c1c0730e314b4c68c287"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "pricing",
+    "features",
+    "code-terminal",
+    "stats",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

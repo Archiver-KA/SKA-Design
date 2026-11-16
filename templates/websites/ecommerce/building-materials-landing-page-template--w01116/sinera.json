@@ -1,0 +1,69 @@
+{
+  "id": "SN-W01116",
+  "title": "Building Materials Landing Page Template",
+  "summary": "A premium dark-style landing page template for showcasing building materials, sanitary ware, and interior collections, ready to customize for your brand.",
+  "tags": [
+    "Landing Page",
+    "Business",
+    "E-commerce",
+    "Brand",
+    "Minimal",
+    "Dark",
+    "Large Type",
+    "Clean",
+    "Technology",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3770,
+      "sha256": "cfdc9cfd6f544b2f54462840663e0f680790230e620898a7d6d2d899dc3204fe"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14364,
+      "sha256": "362cd37b621767b78485ab36f0d7c9bdbb3616f0bc3794ae16a21d1b0d85c43b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 813,
+      "sha256": "fd8b5a26100a687df461f55e6e96317f04564b46ac7385f496e179cc3b3b1404"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27853,
+      "sha256": "c0c47f7e14c6f43bfaa72993833f9e4941d6058d7cce3208afe3e2dc6756f5f1"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "product-grid",
+    "features",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

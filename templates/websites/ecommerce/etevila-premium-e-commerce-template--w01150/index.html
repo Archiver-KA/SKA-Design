@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="fr" data-theme="market">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Etevila Premium E-commerce Template</title>
+<meta name="description" content="Boutique en ligne d'abris de jardin, chalets et pergolas haut de gamme : choisissez votre taille, comparez les prix, commandez avec livraison et montage à domicile.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700;800&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config = {
+  theme: { extend: {
+    colors: { ground:'var(--sa-ground)', surface:'var(--sa-surface)', ink:'var(--sa-ink)', muted:'var(--sa-muted)', line:'var(--sa-line)', accent:'var(--sa-accent)', onaccent:'var(--sa-on-accent)', accent2:'var(--sa-accent-2)', onaccent2:'var(--sa-on-accent-2)' },
+    fontFamily: { display:['Manrope','system-ui','sans-serif'], body:['Manrope','system-ui','sans-serif'] }
+  } }
+}
+</script>
+<style>
+[data-theme="market"] {
+  --sa-ground: #FFFFFF; --sa-surface: #F5F5F2; --sa-ink: #16161A; --sa-muted: #5B5B66; --sa-line: #DCDCD6;
+  --sa-accent: #C8411B; --sa-on-accent: #FFFFFF; --sa-accent-2: #1B3A8A; --sa-on-accent-2: #FFFFFF;
+  --sa-font-display: "Manrope", system-ui, sans-serif; --sa-font-body: "Manrope", system-ui, sans-serif;
+  --sa-radius-control: 8px; --sa-radius-card: 10px; --sa-display-case: none;
+  color-scheme: light; background: var(--sa-ground); color: var(--sa-ink); font-family: var(--sa-font-body);
+}
+body { background:var(--sa-ground); color:var(--sa-ink); font-family:var(--sa-font-body); font-size:16px; line-height:1.6; }
+h1,h2,h3 { font-family:var(--sa-font-display); font-weight:800; letter-spacing:-0.025em; text-wrap:balance; }
+.btn { display:inline-flex; align-items:center; justify-content:center; gap:8px; min-height:48px; padding:0 22px; border:0; border-radius:8px; background:var(--sa-accent); color:var(--sa-on-accent); font:700 15px/1 var(--sa-font-body); text-decoration:none; cursor:pointer; }
+.btn:hover { background:#a93614; }
+.btn-ghost { background:transparent; color:var(--sa-ink); box-shadow:inset 0 0 0 1.5px var(--sa-ink); }
+.btn-ghost:hover { background:var(--sa-ink); color:#fff; }
+:focus-visible { outline:2px solid var(--sa-ink); outline-offset:3px; }
+.on-navy :focus-visible { outline-color:#fff; }
+.ph { position:relative; background:repeating-linear-gradient(135deg,#ECECE7 0 12px,#F1F1EC 12px 24px); border:1px solid var(--sa-line); border-radius:10px; display:flex; align-items:flex-end; overflow:hidden; }
+.ph span { margin:10px; padding:4px 8px; background:#fff; color:var(--sa-muted); font-size:12px; line-height:1.4; border:1px solid var(--sa-line); border-radius:6px; font-weight:500; }
+.chip { display:inline-flex; align-items:center; min-height:44px; padding:0 16px; border:1.5px solid var(--sa-line); border-radius:999px; font-weight:700; font-size:14px; background:#fff; cursor:pointer; }
+.chip[aria-pressed="true"] { background:var(--sa-ink); color:#fff; border-color:var(--sa-ink); }
+details > summary { list-style:none; cursor:pointer; min-height:56px; display:flex; align-items:center; justify-content:space-between; gap:16px; }
+details > summary::-webkit-details-marker { display:none; }
+details[open] .plus { transform:rotate(45deg); }
+.plus { transition:transform .2s; }
+.card { background:#fff; border:1px solid var(--sa-line); border-radius:10px; }
+.card:hover { border-color:var(--sa-ink); }
+th,td { padding:14px 16px; text-align:left; vertical-align:top; }
+@media (prefers-reduced-motion: reduce){ .plus{transition:none} }
+</style>
+</head>
+<body>
+
+<a href="#main" class="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:bg-white focus:p-3">Aller au contenu</a>
+
+<div class="bg-accent2 text-onaccent2 on-navy text-center text-sm font-medium px-4 py-2">Code <strong>[CODE PROMO]</strong> sur votre première commande. Livraison et montage à domicile : [ZONE DE LIVRAISON].</div>
+
+<header class="sticky top-0 z-40 bg-white border-b border-line">
+  <div class="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between gap-4">
+    <a href="#" class="font-display font-extrabold text-xl inline-flex items-center min-h-[44px]">etevila</a>
+    <nav aria-label="Principal" class="hidden md:flex gap-7 text-[15px] font-bold">
+      <a href="#danh-muc" class="hover:text-accent">Catégories</a>
+      <a href="#san-pham" class="hover:text-accent">Meilleures ventes</a>
+      <a href="#so-sanh" class="hover:text-accent">Comparer les tailles</a>
+      <a href="#lap-dat" class="hover:text-accent">Livraison &amp; montage</a>
+      <a href="#hoi-dap" class="hover:text-accent">FAQ</a>
+    </nav>
+    <div class="flex items-center gap-2">
+      <a href="#san-pham" class="btn hidden sm:inline-flex">Voir les modèles</a>
+      <button id="menuBtn" class="md:hidden w-11 h-11 inline-flex items-center justify-center border border-line rounded-lg" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="mobileNav">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+      </button>
+    </div>
+  </div>
+  <nav id="mobileNav" aria-label="Mobile" class="hidden md:hidden border-t border-line bg-white px-4 py-2 font-bold">
+    <a href="#danh-muc" class="flex items-center min-h-[48px]">Catégories</a>
+    <a href="#san-pham" class="flex items-center min-h-[48px]">Meilleures ventes</a>
+    <a href="#so-sanh" class="flex items-center min-h-[48px]">Comparer les tailles</a>
+    <a href="#lap-dat" class="flex items-center min-h-[48px]">Livraison &amp; montage</a>
+    <a href="#hoi-dap" class="flex items-center min-h-[48px]">FAQ</a>
+    <a href="#san-pham" class="btn w-full my-2">Voir les modèles</a>
+  </nav>
+</header>
+
+<main id="main">
+
+<!-- HERO: khung mosaic sản phẩm, thẻ giá nổi -->
+<section class="bg-surface border-b border-line">
+  <div class="max-w-6xl mx-auto px-4 py-12 md:py-20 grid md:grid-cols-12 gap-10 items-center">
+    <div class="md:col-span-5">
+      <p class="inline-block bg-white border border-line rounded-full px-3 py-1 text-sm font-bold">Bois traité anti-termites · Garantie [NOMBRE] ans</p>
+      <h1 class="mt-5 text-4xl sm:text-5xl lg:text-6xl leading-[1.05]">Offrez à votre jardin une petite maison de plus.</h1>
+      <p class="mt-5 text-lg text-muted">Abris, chalets et pergolas en bois, commandés en ligne, livrés et montés en une demi-journée. Prix et dimensions clairs avant le versement de l'acompte.</p>
+      <div class="mt-8 flex flex-wrap gap-3">
+        <a href="#san-pham" class="btn">Voir les meilleures ventes</a>
+        <a href="#so-sanh" class="btn btn-ghost">Choisir selon la taille</a>
+      </div>
+    </div>
+    <div class="md:col-span-7 grid grid-cols-6 grid-rows-[auto_auto] gap-3">
+      <div class="ph col-span-6 sm:col-span-4 row-span-2 aspect-[4/3] sm:aspect-auto sm:min-h-[420px]"><span>Photo d'un abri de jardin en bois dans son jardin, 4:3</span></div>
+      <div class="ph col-span-3 sm:col-span-2 aspect-square"><span>Photo du chalet</span></div>
+      <div class="ph col-span-3 sm:col-span-2 aspect-square"><span>Photo de la pergola</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- DANH MỤC -->
+<section id="danh-muc" class="py-14 md:py-24">
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="md:flex justify-between items-end gap-6 mb-10">
+      <h2 class="text-3xl md:text-5xl max-w-xl">Que cherchez-vous pour votre jardin ?</h2>
+      <p class="text-muted max-w-sm mt-3 md:mt-0">Quatre grandes familles, chacune en plusieurs tailles et types de toit.</p>
+    </div>
+    <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+      <a href="#san-pham" class="card p-5 block min-h-[44px]">
+        <svg width="40" height="40" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round" aria-hidden="true"><path d="M6 22 24 8l18 14M10 20v20h28V20M20 40V28h8v12"/></svg>
+        <h3 class="text-xl mt-4">Abris de jardin</h3><p class="text-muted text-sm mt-1">Pour ranger outils, vélos et matériel de jardinage.</p>
+      </a>
+      <a href="#san-pham" class="card p-5 block min-h-[44px]">
+        <svg width="40" height="40" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round" aria-hidden="true"><path d="M4 20 24 8l20 12M10 18v22M38 18v22M10 28h28"/></svg>
+        <h3 class="text-xl mt-4">Chalets &amp; cabanes</h3><p class="text-muted text-sm mt-1">Un coin lecture, thé ou télétravail.</p>
+      </a>
+      <a href="#san-pham" class="card p-5 block min-h-[44px]">
+        <svg width="40" height="40" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round" aria-hidden="true"><path d="M4 14h40M8 14v26M40 14v26M14 14v8M22 14v8M30 14v8M38 14v8"/></svg>
+        <h3 class="text-xl mt-4">Pergolas &amp; auvents</h3><p class="text-muted text-sm mt-1">De l'ombre pour la terrasse et la table d'extérieur.</p>
+      </a>
+      <a href="#san-pham" class="card p-5 block min-h-[44px]">
+        <svg width="40" height="40" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round" aria-hidden="true"><path d="M6 32h36M10 32l4 8M38 32l-4 8M12 32V18h24v14M18 18v-6h12v6"/></svg>
+        <h3 class="text-xl mt-4">Accessoires</h3><p class="text-muted text-sm mt-1">Plancher, étagères, lasure de protection, serrures.</p>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- SẢN PHẨM BÁN CHẠY -->
+<section id="san-pham" class="py-14 md:py-24 bg-surface border-y border-line">
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="md:flex justify-between items-end gap-6">
+      <h2 class="text-3xl md:text-5xl">Les plus choisis</h2>
+      <div class="flex flex-wrap gap-2 mt-5 md:mt-0" role="group" aria-label="Filtrer les produits">
+        <button class="chip" aria-pressed="true" data-f="all">Tous</button>
+        <button class="chip" aria-pressed="false" data-f="kho">Abris</button>
+        <button class="chip" aria-pressed="false" data-f="choi">Chalets</button>
+        <button class="chip" aria-pressed="false" data-f="perg">Pergola</button>
+      </div>
+    </div>
+    <div id="grid" class="mt-8 grid sm:grid-cols-2 lg:grid-cols-4 gap-5">
+      <article class="card p-3 flex flex-col" data-c="kho">
+        <div class="ph aspect-[4/3]"><span>Photo produit 1</span></div>
+        <h3 class="text-lg mt-4 px-1">[NOM DU PRODUIT 1]</h3>
+        <p class="text-sm text-muted px-1 grow">Abri en bois, [DIMENSIONS], toit monopente.</p>
+        <p class="font-extrabold text-lg mt-3 px-1">[VOTRE PRIX]</p>
+        <a href="#hoi-dap" class="btn mt-3">Ajouter au panier</a>
+      </article>
+      <article class="card p-3 flex flex-col" data-c="kho">
+        <div class="ph aspect-[4/3]"><span>Photo produit 2</span></div>
+        <h3 class="text-lg mt-4 px-1">[NOM DU PRODUIT 2]</h3>
+        <p class="text-sm text-muted px-1 grow">Abri en bois, [DIMENSIONS], toit à deux pans.</p>
+        <p class="font-extrabold text-lg mt-3 px-1">[VOTRE PRIX]</p>
+        <a href="#hoi-dap" class="btn mt-3">Ajouter au panier</a>
+      </article>
+      <article class="card p-3 flex flex-col" data-c="choi">
+        <div class="ph aspect-[4/3]"><span>Photo produit 3</span></div>
+        <h3 class="text-lg mt-4 px-1">[NOM DU PRODUIT 3]</h3>
+        <p class="text-sm text-muted px-1 grow">Chalet avec porte vitrée, [DIMENSIONS].</p>
+        <p class="font-extrabold text-lg mt-3 px-1">[VOTRE PRIX]</p>
+        <a href="#hoi-dap" class="btn mt-3">Ajouter au panier</a>
+      </article>
+      <article class="card p-3 flex flex-col" data-c="perg">
+        <div class="ph aspect-[4/3]"><span>Photo produit 4</span></div>
+        <h3 class="text-lg mt-4 px-1">[NOM DU PRODUIT 4]</h3>
+        <p class="text-sm text-muted px-1 grow">Pergola en bois pour plantes grimpantes, [DIMENSIONS].</p>
+        <p class="font-extrabold text-lg mt-3 px-1">[VOTRE PRIX]</p>
+        <a href="#hoi-dap" class="btn mt-3">Ajouter au panier</a>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- SO SÁNH KÍCH THƯỚC -->
+<section id="so-sanh" class="py-14 md:py-24">
+  <div class="max-w-6xl mx-auto px-4">
+    <h2 class="text-3xl md:text-5xl max-w-2xl">Choisissez la bonne taille avant de commander.</h2>
+    <p class="mt-4 text-muted max-w-xl">Mesurez l'espace disponible dans votre jardin et comparez avec le tableau ci-dessous. Dimensions hors tout, avant-toit non compris.</p>
+    <div class="mt-8 overflow-x-auto border border-line rounded-[10px]">
+      <table class="w-full min-w-[640px] text-[15px]">
+        <caption class="sr-only">Comparaison de trois tailles d'abris de jardin</caption>
+        <thead class="bg-surface"><tr><th scope="col">Taille</th><th scope="col">Hors tout</th><th scope="col">Idéal pour</th><th scope="col">Durée de montage</th><th scope="col">Prix</th></tr></thead>
+        <tbody>
+          <tr class="border-t border-line"><th scope="row" class="font-extrabold">S</th><td>[DIMENSIONS]</td><td>Outils de jardin, vélos</td><td>[DURÉE]</td><td>[VOTRE PRIX]</td></tr>
+          <tr class="border-t border-line"><th scope="row" class="font-extrabold">M</th><td>[DIMENSIONS]</td><td>Tondeuse, salon de jardin</td><td>[DURÉE]</td><td>[VOTRE PRIX]</td></tr>
+          <tr class="border-t border-line"><th scope="row" class="font-extrabold">L</th><td>[DIMENSIONS]</td><td>Petit atelier ou bureau de jardin</td><td>[DURÉE]</td><td>[VOTRE PRIX]</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<!-- GIAO & LẮP ĐẶT -->
+<section id="lap-dat" class="py-14 md:py-24 bg-ink text-white on-navy" style="background:var(--sa-ink)">
+  <div class="max-w-6xl mx-auto px-4">
+    <h2 class="text-3xl md:text-5xl max-w-2xl">De la commande au rangement dans votre abri.</h2>
+    <ol class="mt-10 grid md:grid-cols-4 gap-6">
+      <li class="border-t-2 border-white pt-4"><p class="font-extrabold text-accent2 sr-only">Étape 1</p><span class="font-extrabold text-2xl" aria-hidden="true">01</span><h3 class="text-lg mt-2">Commande et acompte</h3><p class="text-[15px] mt-1" style="color:#C9C9D0">Choisissez un modèle, indiquez votre adresse, versez un acompte de [TAUX D'ACOMPTE].</p></li>
+      <li class="border-t-2 border-white pt-4"><span class="font-extrabold text-2xl" aria-hidden="true">02</span><p class="sr-only">Étape 2</p><h3 class="text-lg mt-2">Validation de l'emplacement</h3><p class="text-[15px] mt-1" style="color:#C9C9D0">Notre équipe vous appelle pour valider l'emplacement et l'accès du camion.</p></li>
+      <li class="border-t-2 border-white pt-4"><span class="font-extrabold text-2xl" aria-hidden="true">03</span><p class="sr-only">Étape 3</p><h3 class="text-lg mt-2">Livraison</h3><p class="text-[15px] mt-1" style="color:#C9C9D0">Livré sous [NOMBRE] jours ouvrés. Frais de livraison : [FRAIS DE LIVRAISON].</p></li>
+      <li class="border-t-2 border-white pt-4"><span class="font-extrabold text-2xl" aria-hidden="true">04</span><p class="sr-only">Étape 4</p><h3 class="text-lg mt-2">Montage &amp; réception</h3><p class="text-[15px] mt-1" style="color:#C9C9D0">Nos monteurs installent et nettoient ; vous vérifiez, puis réglez le solde.</p></li>
+    </ol>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section id="hoi-dap" class="py-14 md:py-24">
+  <div class="max-w-3xl mx-auto px-4">
+    <h2 class="text-3xl md:text-5xl">Vos questions avant de commander</h2>
+    <div class="mt-8 border-t border-ink">
+      <details class="border-b border-line"><summary class="font-bold">Faut-il une autorisation d'urbanisme ?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted">Cela dépend de la surface et des règles locales. [VOS CONSEILS] Renseignez-vous auprès de votre mairie avant de commander.</p></details>
+      <details class="border-b border-line"><summary class="font-bold">Le bois résiste-t-il aux intempéries ?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted">Le bois est traité [TYPE DE TRAITEMENT]. Prévoyez une nouvelle lasure après [NOMBRE] ans ; nous proposons le produit et un guide d'application.</p></details>
+      <details class="border-b border-line"><summary class="font-bold">Quelle base prévoir pour l'installation ?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted">Une surface plane, stable et bien drainée : dalle béton, pavés ou notre kit plancher en bois.</p></details>
+      <details class="border-b border-line"><summary class="font-bold">Comment fonctionnent retours et échanges ?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted">[VOTRE POLITIQUE DE RETOUR].</p></details>
+    </div>
+  </div>
+</section>
+
+<!-- CTA CUỐI -->
+<section class="pb-14 md:pb-24">
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="bg-surface border border-line rounded-[10px] p-8 md:p-14 grid md:grid-cols-[1fr_auto] gap-6 items-center">
+      <div>
+        <h2 class="text-3xl md:text-4xl">Un doute sur la taille ? Envoyez-nous une photo de votre jardin.</h2>
+        <p class="mt-3 text-muted">Conseil gratuit au [TÉLÉPHONE] ou par e-mail : [E-MAIL].</p>
+      </div>
+      <a href="#san-pham" class="btn">Voir les modèles</a>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer class="border-t border-line py-10">
+  <div class="max-w-6xl mx-auto px-4 grid md:grid-cols-3 gap-8 text-[15px]">
+    <div><p class="font-display font-extrabold text-xl">etevila</p><p class="text-muted mt-2">[ADRESSE]</p></div>
+    <div><p class="font-bold">Contact</p><p class="text-muted mt-2">[TÉLÉPHONE]<br>[E-MAIL]</p></div>
+    <div><p class="font-bold">Aide</p><ul class="mt-2 text-muted"><li><a class="inline-flex min-h-[44px] items-center hover:underline" href="#lap-dat">Livraison &amp; montage</a></li><li><a class="inline-flex min-h-[44px] items-center hover:underline" href="#hoi-dap">Retours &amp; garantie</a></li></ul></div>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var b=document.getElementById('menuBtn'), n=document.getElementById('mobileNav');
+  b.addEventListener('click',function(){
+    var open=n.classList.toggle('hidden')===false;
+    b.setAttribute('aria-expanded',open); b.setAttribute('aria-label',open?'Fermer le menu':'Ouvrir le menu');
+  });
+  n.addEventListener('click',function(e){ if(e.target.tagName==='A'){ n.classList.add('hidden'); b.setAttribute('aria-expanded','false'); } });
+  var chips=document.querySelectorAll('.chip'), items=document.querySelectorAll('#grid article');
+  chips.forEach(function(c){ c.addEventListener('click',function(){
+    chips.forEach(function(x){ x.setAttribute('aria-pressed', x===c); });
+    items.forEach(function(it){ it.style.display = (c.dataset.f==='all' || it.dataset.c===c.dataset.f) ? '' : 'none'; });
+  }); });
+})();
+</script>
+</body>
+</html>

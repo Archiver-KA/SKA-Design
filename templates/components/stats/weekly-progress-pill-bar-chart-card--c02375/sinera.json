@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02375",
+  "title": "Weekly Progress Pill Bar Chart Card",
+  "summary": "Compact analytics card showing weekly focus progress with pill-shaped bar chart, day-wise values, highlight badge, and a Week/Month toggle. Styled with Tailwind-like utility classes for use in dashboards or productivity analytics views.",
+  "tags": [
+    "card",
+    "analytics",
+    "chart",
+    "dashboard",
+    "statistics",
+    "data-visualization",
+    "tailwind",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7502,
+      "sha256": "a437fcf8b6cd4f044e434b2b6a57136f119a9451b13c343b8bb7799d256981df"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6421,
+      "sha256": "5f1e59484acbbd21d7d62c7e16d1e29ee794845a1569821143c76a7cf6f35d22"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7407,
+      "sha256": "c775d28925b59bdfdd4a22090dd372b29c7f57688c5fadca1050c0b5628ae553"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

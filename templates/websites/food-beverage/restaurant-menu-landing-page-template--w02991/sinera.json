@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02991",
+  "title": "Restaurant Menu Landing Page Template",
+  "summary": "A reusable restaurant menu template for showcasing dishes, drinks, pricing, and table bookings with a premium dark dining experience.",
+  "tags": [
+    "Food",
+    "Landing Page",
+    "Services",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "restaurant menu",
+    "cocktails",
+    "booking"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3582,
+      "sha256": "9289ae0d808922f49e9a36cefd9c35dfd0f88f8224fc76d4e7203a293b109660"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9396,
+      "sha256": "aff41620de36e590d19b9efb53713f2e8f9954d110b9041998a9825472e051c7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "5885d3e28b44f21df1ab7c00431411ec4bf9a8ee870a1badaee033e24dbb996f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27359,
+      "sha256": "8802b1d704f412ca5a6cac81562f45608b68e12bb2d94a5b7c0c50c38236cab8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "navbar",
+    "product-grid",
+    "services",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

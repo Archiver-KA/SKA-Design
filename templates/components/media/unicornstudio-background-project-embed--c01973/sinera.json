@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01973",
+  "title": "UnicornStudio Background Project Embed",
+  "summary": "Embeds a UnicornStudio project as a full-page background. The script dynamically loads and initializes the UnicornStudio library once, while Tailwind classes position the container absolutely to cover the viewport. Ideal for adding animated, interactive backgrounds to sites.",
+  "tags": [
+    "embed",
+    "background",
+    "animation",
+    "unicornstudio",
+    "tailwind",
+    "script-loader",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5092,
+      "sha256": "a1be1b80aebc55e69a3d902fd8f498f5f1a5c4044a510e33a8eba83d5c56ffec"
+    },
+    {
+      "path": "component.html",
+      "bytes": 535,
+      "sha256": "5c800809415542dde479fc86df464d74fb93f55fef048462f017140f59f820fa"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1394,
+      "sha256": "f0a814c73af97f98d3449f9dd0b14054a4a75150bcc28c27900910b79e2003c8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

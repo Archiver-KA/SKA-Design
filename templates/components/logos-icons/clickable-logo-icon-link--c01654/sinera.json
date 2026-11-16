@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01654",
+  "title": "Clickable Logo Icon Link",
+  "summary": "Interactive logo icon that functions as a clickable link with hover effects. Perfect for navigation headers that need to link to the homepage.",
+  "tags": [
+    "logo",
+    "image",
+    "navigation",
+    "link",
+    "button"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1180,
+      "sha256": "c84fcd3c32e06e1ad427a6eff5a86c34c20d82348a7795ae1e1f266f705f6ce5"
+    },
+    {
+      "path": "component.html",
+      "bytes": 370,
+      "sha256": "041dd942f1e6e988031b749f863ae74725649a59a09a105070af30d9d00c269c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1215,
+      "sha256": "42c134ad977336f0b26a6f7ce1aa386aca377cb54efc2fb1bcf835915352ad40"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

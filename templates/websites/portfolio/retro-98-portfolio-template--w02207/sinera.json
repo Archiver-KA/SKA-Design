@@ -1,0 +1,72 @@
+{
+  "id": "SN-W02207",
+  "title": "Retro '98 Portfolio Template",
+  "summary": "A nostalgic Windows 98-inspired portfolio template designed for developers and creatives wanting a unique, interactive CRT-style web experience.",
+  "tags": [
+    "Technology",
+    "Portfolio",
+    "Art & Design",
+    "Clean",
+    "Futuristic",
+    "Animated",
+    "3D",
+    "Gradient",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2943,
+      "sha256": "5ddcf31becdc69b3f58af15bcf18e2d07f66735687aabf4fe52af879eb7ca562"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20850,
+      "sha256": "9940abe968c72b83d1457784454829677ca49e736eaebb928d626153c0aa3da6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 929,
+      "sha256": "44591d20df1af9baac7f63d70e0368cefc1c7afc0fee4d1033e88f3a887063dd"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 142,
+      "sha256": "9be7cac0e44e004896f1b9366ce5aa684a6e8963988ce4439586f2eafcd60430"
+    },
+    {
+      "path": "index.html",
+      "bytes": 58443,
+      "sha256": "45b2c5718ac6b11e966bfeda9e7dec4f64c5f282d5c69a8e4e997412e9600a13"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "gallery-portfolio",
+    "auth-form",
+    "modal-overlay",
+    "navbar",
+    "menu-list",
+    "hero",
+    "awards-press"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

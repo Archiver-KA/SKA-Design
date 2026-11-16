@@ -1,0 +1,75 @@
+{
+  "id": "SN-W02615",
+  "title": "Football Club Landing Page Template",
+  "summary": "A dark, modern football club website template featuring fixtures, squad profiles, news, shop, and newsletter sections, ready to customize for any team.",
+  "tags": [
+    "Landing Page",
+    "Sports",
+    "Club",
+    "Brand",
+    "Dark",
+    "Grid",
+    "Large Type",
+    "Clean",
+    "Entertainment",
+    "Marketing"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3851,
+      "sha256": "e13ed06278f2dace8b25519056a13032cfca17b084f396bce5e58b4b7071959a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13702,
+      "sha256": "8ef355b6687add47e35f818bab29a75e0abdc5713509cdd77e95065d17c3b713"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 872,
+      "sha256": "70ec952a91bf8f0bd829a9d10b0eb88bc086322fb451cf3fc11799bdfd2a306a"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "1d477c85a7ad0d3a741110a72123c23e8bdb35a659e27798b40c1804211d7d73"
+    },
+    {
+      "path": "index.html",
+      "bytes": 59698,
+      "sha256": "d08522b4916a7c31684f8d448b2b6d28adfe123caa62f0f26da8a5ae4a78555d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "features",
+    "team",
+    "timeline",
+    "product-grid",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

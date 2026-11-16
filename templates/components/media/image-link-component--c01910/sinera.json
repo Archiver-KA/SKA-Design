@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01910",
+  "title": "Image Link Component",
+  "summary": "A simple clickable image component that links to an external URL. Useful for banner images, product photos, or any linked visual content.",
+  "tags": [
+    "card",
+    "image",
+    "link",
+    "clickable",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8836,
+      "sha256": "730882e17af22453f604814fd7e048fd09c4909d743fa82affe7a28f81c89f62"
+    },
+    {
+      "path": "component.html",
+      "bytes": 277,
+      "sha256": "93b2668bc19132f9d15c97cd20b9ed3be4bfe8be44227bc16d9f078863bb1659"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1118,
+      "sha256": "b8cee12ffd68f1f34dbb4287beb4a0207d8d27473813a222582a7f75ddedeb70"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02143",
+  "title": "Responsive Numeric Step Highlight Block",
+  "summary": "Grid-based Tailwind component displaying a large number with heading and subtitle. Ideal for showcasing workflow steps, milestones, or key stats on landing pages and dashboards.",
+  "tags": [
+    "statistic",
+    "step",
+    "highlight",
+    "tailwind",
+    "responsive",
+    "grid",
+    "landing",
+    "ui-block"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9890,
+      "sha256": "2bebfa82af9ea895a7deda3cd73bcdf69d8f71606bb8b9bdf1539ef183de522a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 499,
+      "sha256": "a961be83dad681cef107bab8407eebbd2dd07d819e51cc71b6207c49da1b9f7f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1359,
+      "sha256": "0d88d0aa6eab49881d91e23526dfd060c8f4002f1f2fc279918b527470671964"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

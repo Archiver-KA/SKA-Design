@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00329",
+  "title": "Chat Interface Glass Card",
+  "summary": "Interactive glass morphism chat interface card with message bubbles, user avatars, and real-time conversation flow for messaging features.",
+  "tags": [
+    "chat",
+    "glass",
+    "interface",
+    "messaging",
+    "interactive",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7398,
+      "sha256": "c86d9dfe8681b2111d2de032314a358877f89872b8ac5a87077bfb5c02485e3c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2514,
+      "sha256": "3164d441ed1ab46fef39abf2ce53e0535b39b7881ece94121f0857da6a01dc33"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3360,
+      "sha256": "2c3e9a59cdc461238ce5b12652a320ea83a74a418ffd4b0de1b31526f2c91fde"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

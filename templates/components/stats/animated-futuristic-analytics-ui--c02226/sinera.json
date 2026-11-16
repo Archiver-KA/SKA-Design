@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02226",
+  "title": "Animated Futuristic Analytics UI",
+  "summary": "A full-screen futuristic dashboard-style UI with a glowing central orb, floating glassmorphism data cards, icon buttons, and ambient animations. Built with Tailwind CSS and vanilla JS, ideal for hero UI showcases, product intros, or tech landing pages.",
+  "tags": [
+    "ui",
+    "tailwind",
+    "animated",
+    "glassmorphism",
+    "dashboard",
+    "interactive",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8294,
+      "sha256": "2bc6f94cbed1c46968c10c5364a655d834c3ee854c5470ee38e12f6730763960"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11335,
+      "sha256": "d161b2a9181473e4f56106bd88f49227f80fd1e9a93807f61871504d2df1022a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12188,
+      "sha256": "bd051906645d4b1814eae8076350049c80c94189fd919a5e8aa78ce04c8b8cee"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

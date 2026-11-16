@@ -1,0 +1,72 @@
+{
+  "id": "SN-W03321",
+  "title": "Next.js SSR Architecture Landing Page Template",
+  "summary": "A modern Next.js SSR architecture landing page template showcasing performance audits, Core Web Vitals, and an engineering blog for senior frontend portfolios.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Portfolio",
+    "Next.js",
+    "SSR",
+    "Developer"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3866,
+      "sha256": "814b9adf8ff312455bff4353505864266c27455328f54bc37694886f4e2226ac"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12372,
+      "sha256": "c6eccc2997c1ae8e5bee855b500b1c6a4776bcbf2147adf7b40fd8995717a73c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 983,
+      "sha256": "e98001f5450c0f6b9c2a6134ddbeb47487287a70e26b91fad4815e8b1154a6d5"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 545,
+      "sha256": "b7369b8ff5fd46669f8f621a124a762839babce3c360e8accec8d39bf1c1e44f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28893,
+      "sha256": "7d12f7de7b0f0a57158ecdc616f1cf54b6179211f07c423622e000aa1a8a672f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "code-terminal",
+    "stats",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

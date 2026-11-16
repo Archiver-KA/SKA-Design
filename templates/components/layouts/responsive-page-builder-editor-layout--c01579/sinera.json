@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01579",
+  "title": "Responsive Page Builder Editor Layout",
+  "summary": "Full-screen design studio layout with top toolbar, outline sidebar, central canvas, properties panel and device preview. Styled with TailwindCSS, gradients, blur and Lucide icons. Ideal scaffold for CMS editors, landing page builders or design apps.",
+  "tags": [
+    "dashboard",
+    "editor",
+    "layout",
+    "tailwind",
+    "responsive",
+    "builder",
+    "canvas",
+    "card",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 33016,
+      "sha256": "f5d8cac1bfcb3e5127dffed785263bfcd6035ff743ec66840fa09c104881ec6f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 25235,
+      "sha256": "9d31475473d983962cf7534af2c96ed961183613fc21b4a9e26cd39dae69526e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26223,
+      "sha256": "1af6684784bf2568ea18281bb85284a202bd7e1a38c2ab343c9c660b092053d6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

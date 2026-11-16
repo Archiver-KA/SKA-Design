@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01485",
+  "title": "Rotating Orbit Integrations Hero Section",
+  "summary": "Full-width dark hero section featuring a slowly rotating orbit of circular integration icons around a central heading. Uses Tailwind CSS utility classes and custom animations, ideal for highlighting AI or SaaS integrations on landing pages.",
+  "tags": [
+    "hero",
+    "section",
+    "animated",
+    "tailwind",
+    "landing",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8998,
+      "sha256": "a1ebb5b87175ab1818ba01e3461ac3152dce7ca88a6e96c5559151cf3056b073"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12020,
+      "sha256": "0a51c24b4df03dd54f1e8f2d2d6e580568b6764daa7695a2f6de9704af6a39f4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12881,
+      "sha256": "c90ee611a59e76c3e60c061a02f090581666ddae6652883d0f38447187f395fc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

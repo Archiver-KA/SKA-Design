@@ -1,0 +1,71 @@
+{
+  "id": "SN-W00221",
+  "title": "HALCYON AI Personal Assistant Template",
+  "summary": "A premium landing page template for an AI-powered personal assistant focused on thought organization, daily briefings, and task management.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Clean",
+    "Animated",
+    "Futuristic",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4183,
+      "sha256": "19f98c34af1d451285ac54cf9f120ca39caeb2f18e63371e8344bdb7a56aea67"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 36452,
+      "sha256": "d1d635fde8a2fe975332db0cd16cfdfa0130c0a2113e5f2983f89b61d3e474bc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 816,
+      "sha256": "6c58592f482be35c3aa5886903a8a959b5775f12e30edc6b710acc02e3e05ab8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 158438,
+      "sha256": "39cc904233f2333dab7c73ab0d51aeedb9ac5eb89dd5799d5342f7a9fbf27f59"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "navbar",
+    "hero",
+    "case-studies",
+    "bento-grid",
+    "how-it-works",
+    "team",
+    "features",
+    "pricing",
+    "faq",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02328",
+  "title": "Project Dashboard Card with Sidebar and Activity Feed",
+  "summary": "Glassmorphism project dashboard card featuring a top navbar, search, user profile, sidebar navigation, active projects grid with progress bars, and recent activity feed. Styled with Tailwind-style utility classes for modern SaaS or admin interfaces.",
+  "tags": [
+    "dashboard",
+    "saas",
+    "admin",
+    "analytics",
+    "responsive",
+    "tailwind",
+    "glassmorphism",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14128,
+      "sha256": "96a222f58d6c9b938ad15a93405ecfbf1680fac0de4e8763b0b0138b63ac3a4c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 15064,
+      "sha256": "d5db37974e4c4d8db9dfa8c09dd15519d3f41023e8ac1068827dea456555ff5e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15938,
+      "sha256": "1428f9a44f25d03e00edba34ac066a7be77c31044b2f97ee128bafdb51f900c6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

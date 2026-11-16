@@ -1,0 +1,64 @@
+{
+  "id": "SN-W01965",
+  "title": "Developer Portfolio Layout",
+  "summary": "Responsive portfolio webpage showcasing skills, experience, and projects with 3D background and smooth navigation.",
+  "tags": [
+    "Portfolio",
+    "Responsive Design",
+    "3D Background",
+    "Tailwind CSS",
+    "UI/UX",
+    "Projects",
+    "Skills"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2794,
+      "sha256": "91ef6ad25f5657a1ca7111d2ddcbdfa87f3bd89cb9777002cae58b2bd3112563"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17576,
+      "sha256": "d07b6d5ae3a8ada98698b2c00685fe35ac55a0d235ab70ea3ee6cdb215aa5ac6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 927,
+      "sha256": "98d9d4dc8149307ddac5c7451809d9aa48461b78189244eac6ea357ee9c399ad"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 228,
+      "sha256": "182722921d90880a599c1838c2ab986bdfba1f012d74a3df5e3e6920c24323f7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13100,
+      "sha256": "ed10dec329994bd1232b8883d5d9f00159c8fe58bf427967aa1bd00fad2f0195"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

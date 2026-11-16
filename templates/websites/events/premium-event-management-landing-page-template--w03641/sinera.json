@@ -1,0 +1,69 @@
+{
+  "id": "SN-W03641",
+  "title": "Premium Event Management Landing Page Template",
+  "summary": "A reusable landing page template for event planners, wedding coordinators, and luxury event agencies to showcase services, packages, galleries, and inquiries.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Wedding",
+    "Conference",
+    "Portfolio",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Luxury",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3761,
+      "sha256": "02a7f76367f9b9ee9e57081c14c3f1096f85e2de64a2bcc9231af84c03e92e03"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17228,
+      "sha256": "766c64cd2c16edcb00dd111c21d7f6eff2010f66a5d034ce7ce0611f3784c2d0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 731,
+      "sha256": "1d4592246eaf5f771dfe73369f3520e18a64d01a7f99f747b20541265d1ff815"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35697,
+      "sha256": "80e0d36917916676654f4c116ed4d3a9c46e7f4e0a3dfaa2befe3205d32958c6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "gallery-portfolio",
+    "pricing",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

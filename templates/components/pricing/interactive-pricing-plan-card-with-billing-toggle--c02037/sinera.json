@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02037",
+  "title": "Interactive Pricing Plan Card with Billing Toggle",
+  "summary": "Responsive Tailwind pricing component featuring monthly vs. project billing toggle, animated slide-up reveal, detailed feature list and CTA button. Ideal for SaaS or agency sites showcasing flexible plans.",
+  "tags": [
+    "pricing",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "animated",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 24404,
+      "sha256": "9fd888f4e292d1ea5b3020af83f5e127ad4c161d4dc8a9e6e63c6fdf16f3bb36"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11320,
+      "sha256": "c098090b03a82f4395f560795cd458c36adc53aceda8805467b92921cf8dc991"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12320,
+      "sha256": "8428ab38fc1c50c783bcefc55bd2434ec0f41819f89a0b471f0998c1da503af3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

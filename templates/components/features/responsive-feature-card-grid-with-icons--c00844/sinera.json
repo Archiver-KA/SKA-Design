@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00844",
+  "title": "Responsive Feature Card Grid with Icons",
+  "summary": "Tailwind-styled section displaying six marketing feature cards in a responsive grid. Each card includes SVG backdrop, icon, heading and text, with hover effects. Ideal for SaaS or product landing pages to highlight key benefits.",
+  "tags": [
+    "grid",
+    "feature",
+    "marketing",
+    "tailwind",
+    "responsive",
+    "hover",
+    "svg"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 30154,
+      "sha256": "db4e89074a948c2364da1cfacc56ad7fe5a280c87d6c9d586adfadcb4b169ea9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 15157,
+      "sha256": "2571d0ba965c55dd024655d78f341bc8351624a6a0d10f8be9a28bfe55e6951f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16147,
+      "sha256": "a24a35fac2b8eaa47ca3ba5ced1d5eaf3155fad1645698321d25981d63a207b7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

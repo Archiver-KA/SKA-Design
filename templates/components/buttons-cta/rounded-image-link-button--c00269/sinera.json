@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00269",
+  "title": "Rounded Image Link Button",
+  "summary": "Tailwind-styled anchor acting as a button with fixed 72×36px size, full-radius rounding and background image cover. Ideal for logo or icon links, calls to action, and compact navigation elements.",
+  "tags": [
+    "link",
+    "tailwind",
+    "image",
+    "rounded",
+    "icon",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1890,
+      "sha256": "c209b74e4d3b7787fe7a330f8cb2b6b3dbfe5db52ca0428b553360fa9233ed67"
+    },
+    {
+      "path": "component.html",
+      "bytes": 747,
+      "sha256": "9e42276aee4db5a5770bc2eab0b3c1f21248cc8d3fa6b6c2d0ce790afb817824"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1593,
+      "sha256": "04fa5b4367d7b420ad1f19160535aa377ce6c26e6b18afff8638eb979280df52"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

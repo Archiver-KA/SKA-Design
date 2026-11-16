@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00661",
+  "title": "Analytics Feature Grid with Live Radar & Metrics",
+  "summary": "Dark themed feature section showcasing intelligent orchestration, real-time alerts, icon grid animation, growth metrics chart, and partner network copy. Uses Tailwind-style utility classes, custom keyframes, and scroll/hover animations for SaaS analytics or AI platforms.",
+  "tags": [
+    "feature",
+    "section",
+    "analytics",
+    "dashboard",
+    "animated",
+    "interactive",
+    "responsive",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 23124,
+      "sha256": "ae5d9e5ed65141e5c1cbb9e9e1fcb438ce25bae7e968dcbaf9b12b0b74f75979"
+    },
+    {
+      "path": "component.html",
+      "bytes": 25116,
+      "sha256": "752ee1167dbd6778487cf1aad91c0415366206cec02e87c8da544fc8116b0ee8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25989,
+      "sha256": "ca2a062ba1db0bcf8f4dfd39abe7152f66598644f45b228f5f206c3d9733aa24"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

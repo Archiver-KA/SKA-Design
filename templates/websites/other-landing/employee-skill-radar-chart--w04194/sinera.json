@@ -1,0 +1,67 @@
+{
+  "id": "SN-W04194",
+  "title": "Employee Skill Radar Chart",
+  "summary": "Interactive radar chart visualizing employee skill scores with average and detailed raw data modal display.",
+  "tags": [
+    "Radar Chart",
+    "Skills Visualization",
+    "Interactive UI",
+    "SVG",
+    "Tailwind CSS",
+    "Data Modal"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3233,
+      "sha256": "58f818fc86c2e852fb907fc965c74a53529ace40b0f6fb18e7a45af8aa419264"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8868,
+      "sha256": "67976397d64dd83c310bbbd7a37ef568a3c74495d3879766524810c5f5c13b02"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 944,
+      "sha256": "5cc807d53d6c3931725e8a94519980c134b43445110e6c4b6930fa21508033b6"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 95,
+      "sha256": "5c5857b57e17d2c2e9dba2165a6ae76d591a367129f770131b3c49eabdd0b87f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5689,
+      "sha256": "5bc6bab662005933aac2a317ff81143c324b0a78b258d5a136b4e4481632f5b3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "navbar",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "snippetType": "dashboard-preview",
+  "design": "DESIGN.md"
+}

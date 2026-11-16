@@ -1,0 +1,72 @@
+{
+  "id": "SN-W00356",
+  "title": "Electrogalactic Space Infrastructure Template",
+  "summary": "A high-tech, sci-fi landing page template designed for futuristic services, infrastructure projects, or technology startups requiring a deep-space aesthetic.",
+  "tags": [
+    "Technology",
+    "Futuristic",
+    "Clean",
+    "Dark",
+    "Landing Page",
+    "Grid",
+    "Animated",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3472,
+      "sha256": "61373ab8a31c1a02d2c9a14fd13d0c1b96667740f8f68646862ff63b9adc0857"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19986,
+      "sha256": "e034d974a6d61251a7afa45e3d840516087764435a96571c249ff7ef969e4b52"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 880,
+      "sha256": "6fa5647d91bd873d13457c4b60d7fb10d1f43724e5fda4ac71ac6c434f05fd21"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "845a8c33647082b21c3db87d511ee26caa07aa7a2c9bf6b015aad47a996ab97f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 78894,
+      "sha256": "42ec0dbccfb5dbca1c58f74baa437c747d398d94adfbd780a6e28490e6065819"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "features",
+    "cta",
+    "dashboard-preview",
+    "pricing",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

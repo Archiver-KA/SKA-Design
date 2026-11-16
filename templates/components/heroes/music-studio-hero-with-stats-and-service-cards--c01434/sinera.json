@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01434",
+  "title": "Music Studio Hero with Stats and Service Cards",
+  "summary": "Full-width hero for a music/creative studio featuring trust strip, headline, supporting copy, stat highlights, a booking call-to-action card, and a responsive grid of service feature cards. Styled with Tailwind-like utility classes and gradient borders.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "responsive",
+    "cta",
+    "grid",
+    "cards",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 40464,
+      "sha256": "563199ae007aae9c6de3d82e8a441ea913bf9c4025811abe719591b4ba23f3b4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 15045,
+      "sha256": "95d657663cfc9aa49f65daefcbe993c135466a565b460204093173e8d8d2dd42"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16178,
+      "sha256": "b864f8400ae0428651f22dd878cb446f3db254ea733e6af9114ad8dfa31ae443"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

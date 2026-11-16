@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02434",
+  "title": "Testimonial Card with Avatar & Verified Badge",
+  "summary": "Dark themed card showcasing user avatar, name with verified icon, handle, and testimonial text. Responsive Tailwind layout fits feeds, reviews, or social proof sections.",
+  "tags": [
+    "card",
+    "testimonial",
+    "avatar",
+    "tailwind",
+    "responsive",
+    "dark mode",
+    "social proof"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13184,
+      "sha256": "ae3fbaa29ec4b41d8761e96d8849261b59c36de5e6b32a9da74be155f84e9175"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1228,
+      "sha256": "6ba6ac087637d986c56f7efc3730950c888b5695244af9a72eb7bd0ee4b99d6f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2228,
+      "sha256": "6b41dedb93fbf9c5dda662c68e7bc2ba3bf410b7c596aff05da99546d39f1665"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

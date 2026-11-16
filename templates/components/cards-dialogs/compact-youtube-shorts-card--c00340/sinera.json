@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00340",
+  "title": "Compact YouTube Shorts Card",
+  "summary": "A compact YouTube Shorts video card with minimal styling, ideal for embedding in blog posts, galleries, or content feeds with vertical video format.",
+  "tags": [
+    "card",
+    "video",
+    "youtube",
+    "compact",
+    "minimal",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6482,
+      "sha256": "c55cd1ff47fcfedc1036eec6e04fae068b750096de5ba806443acfbfa4448443"
+    },
+    {
+      "path": "component.html",
+      "bytes": 465,
+      "sha256": "21f87c88518c4785cbffc022860d0f4f911ba062598fecea1e7ee1189ae7a746"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1313,
+      "sha256": "ab5d84df7c24f702870837fc35686a2aeaeca39ed5e1a3eb5e7da80afa858d08"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

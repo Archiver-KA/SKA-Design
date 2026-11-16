@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01893",
+  "title": "Image Display Component",
+  "summary": "A responsive image component for displaying metal fence images with proper loading and accessibility features.",
+  "tags": [
+    "image",
+    "responsive",
+    "modern",
+    "shadow",
+    "rounded"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 42172,
+      "sha256": "3deea175e854a62c698b0de2d925e23e10e0c5efff75baef5ed0996d8b3010d8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 276,
+      "sha256": "3979f0c34d4e14d8717fd6d8b159b2acbfa08b9404c054024ff520c146468ee9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1120,
+      "sha256": "d1d63a909024931f38f634ca022b927037e6aa806b24c0eb3ac0abcc63f6e31b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

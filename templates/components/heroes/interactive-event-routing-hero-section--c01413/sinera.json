@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01413",
+  "title": "Interactive Event Routing Hero Section",
+  "summary": "A dark, high-fidelity Tailwind hero section featuring animated copy, glowing accents, a shimmering CTA, and an interactive compass-style visual with real-time pointer feedback. Ideal for SaaS, infrastructure, or developer tooling landing pages.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "interactive",
+    "animated",
+    "saas",
+    "landing-page",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20118,
+      "sha256": "da1a60abfa3dbd01d6650b5b45834c2fc1a171ec3a9ec62fb4a52de3c3c8847c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 27536,
+      "sha256": "72758c7e6eff6ffb996d65a71d5eb98a4da2ec6fa60348b418c49d3eb187931a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28395,
+      "sha256": "91d1165e4841dcae5ed01c0678fa5746f42b788e48b39fb52cf279c16e0219d1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00903",
+  "title": "Tabbed Feature Showcase with Code Preview",
+  "summary": "Responsive Tailwind section presenting product features via interactive tabs that swap texts, code snippets and CTA links—ideal for SaaS landing pages or docs highlighting multiple playbook capabilities.",
+  "tags": [
+    "tabs",
+    "feature section",
+    "code preview",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "landing page",
+    "section"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26492,
+      "sha256": "7e90c59224fa9d5afc9ec8f8e206c354670b41f9491d43ebb8a63aa19f6300ed"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10973,
+      "sha256": "631de72905a702a328fd91f7e0788f7a7f081d90ca2d7cdcf606805c449f4b1f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11835,
+      "sha256": "9f7c70a3e6092b6eddf54a1f16996840ede92b645f2e1124eaf5ac76fe834209"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

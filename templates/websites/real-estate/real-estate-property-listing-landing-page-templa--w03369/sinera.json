@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03369",
+  "title": "Real Estate Property Listing Landing Page Template",
+  "summary": "A clean, modern real estate listing landing page template for showcasing premium properties, complete with gallery, video tour, agent profile, and inquiry form.",
+  "tags": [
+    "Real Estate",
+    "Landing Page",
+    "Business",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Grid",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3507,
+      "sha256": "252a1a7f80b763a1613eea2a8104c40ff719eaced3bce46e5d598d892686d2e3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11466,
+      "sha256": "328ef391b004dca2017676ee059b06127d4d4bf4438d5d6cb2ec86f83fe4a09a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 740,
+      "sha256": "71d04a57e50f9d98512fe451b2e11a9d08f447a947c8fc2131b4828642684725"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21682,
+      "sha256": "4c55cc1e43a4f1ddccafdcb30b52a3beeedca119acf0a4c34b7612b96da65ee9"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "listings",
+    "sidebar",
+    "gallery-portfolio",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

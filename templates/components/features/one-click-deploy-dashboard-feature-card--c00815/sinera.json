@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00815",
+  "title": "One-Click Deploy Dashboard Feature Card",
+  "summary": "Animated marketing card showcasing one-click deploy with build status, Git integration and progress indicators. Tailwind CSS gradients, blur and hover shadow effects make it ideal for SaaS landing pages or feature sections.",
+  "tags": [
+    "card",
+    "dashboard",
+    "tailwind",
+    "animated",
+    "gradient",
+    "feature",
+    "responsive",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9982,
+      "sha256": "e26284619a01c9e4a1b4483106e09150949c137673022954bbb534d9b7476f03"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7205,
+      "sha256": "c0053643b4738877159a7b9d5595a69a2b19d2c0cdeab40ce9e4336503f1cdd2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8065,
+      "sha256": "ffe92dab90b355f5eea1444434072411dcf2ea51265b9ace2819bd4885c27341"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

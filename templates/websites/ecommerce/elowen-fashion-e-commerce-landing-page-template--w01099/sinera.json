@@ -1,0 +1,64 @@
+{
+  "id": "SN-W01099",
+  "title": "ELOWEN Fashion E-commerce Landing Page Template",
+  "summary": "Minimalist fashion e-commerce landing page template for showcasing curated apparel collections, product grids, and brand storytelling.",
+  "tags": [
+    "E-commerce",
+    "Fashion",
+    "Landing Page",
+    "Brand",
+    "Minimal",
+    "Clean",
+    "Large Type",
+    "Gradient",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3438,
+      "sha256": "341604dc4eaa673f3d9bc6601ae7cce6f15e51291175187e18e9e4ea43008fd5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 35341,
+      "sha256": "f6cb778b838d4f2bcb6c72a9b4c4182a463d676105a0062dc9b6e8356080e038"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 737,
+      "sha256": "2cd29a2eb0cd4f3ad3288e549756ccde32da46bc90d82265056efecf2d46b5be"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24269,
+      "sha256": "d354e9bd470b8a84812acee8ac2017ff40d10428ac16ded2d4994d40d26d9560"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

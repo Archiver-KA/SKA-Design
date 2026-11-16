@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01382",
+  "title": "Hero Image Card",
+  "summary": "A responsive image component with rounded corners and soft shadow, perfect for hero sections. Scales fully on mobile with proper spacing.",
+  "tags": [
+    "card",
+    "image",
+    "hero",
+    "responsive",
+    "modern",
+    "shadow",
+    "rounded"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 86062,
+      "sha256": "55fd0be45f944296bc373333a10a5bb53d7ffab1cc0585d46bba05469404dac6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 283,
+      "sha256": "c6957120945bcb474af8dfca24bd06169599bc330b0b204d19551c2088cd3fad"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1119,
+      "sha256": "21bdcf0c369af29185515db7e40b6e653f629d5c86edea161f3af9610a0b2cc8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

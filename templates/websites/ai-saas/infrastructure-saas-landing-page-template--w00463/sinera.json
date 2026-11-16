@@ -1,0 +1,68 @@
+{
+  "id": "SN-W00463",
+  "title": "Infrastructure SaaS Landing Page Template",
+  "summary": "A dark, modern Structura-themed SaaS landing page template for infrastructure and developer platforms, ready to customize for your product marketing.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "SaaS",
+    "Developer Tools"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3673,
+      "sha256": "bda4cd2c05c5b55702a4eb99d11d1ba9dc5419359a692aec2e00a1613603bc80"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15762,
+      "sha256": "036a0236735b0c3e4cf979814f2e0c3f63991c075e3712f5484720e36de8fd52"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "7ff4ab34301b9072473abde0cf909c5513be08ee595fd324214c72f4492f7b77"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25992,
+      "sha256": "e5cef31a5b824193c1568d233fc8b9d02dd0175a579fcf415d4fdedf9ee60b2e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "bento-grid",
+    "integrations",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

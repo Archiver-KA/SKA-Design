@@ -1,0 +1,71 @@
+{
+  "id": "SN-W00494",
+  "title": "Liminal Resonance Analytics Template",
+  "summary": "A mysterious, dark-themed analytical dashboard template for tracking environmental and biometric resonance data.",
+  "tags": [
+    "Technology",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Animated",
+    "Clean",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3069,
+      "sha256": "8350a3887fe3cae4153c4392064ca67afdb1e6b3d2ed751e48797d3970eb62fe"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11250,
+      "sha256": "650763a75eafacf542568a5346fd8ee018abf09b703bf738b58932ecee246ff7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1069,
+      "sha256": "4094988cd9c907bbc65e570a4a76ac28ff180002aa08abb4e8fe314fd87ba2bb"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 556,
+      "sha256": "8fcad86eabf6dc598ccf94b945d1c615770ebc896dec7f16f0de606f8879061c"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 1272,
+      "sha256": "9cf19a9ad7368c45f33ac47c1e9acdc5d4e1dfbb06b15eb03719fba237c0d1f5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13250,
+      "sha256": "b3cc73a6371063fdd20eac73942fd161e59a3517d9d028be322cb36dda77c141"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "3d-canvas",
+    "faq",
+    "navbar"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

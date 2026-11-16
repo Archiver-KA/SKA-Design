@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01473",
+  "title": "Responsive Hero Heading with Split Text",
+  "summary": "Large, responsive H2 heading using Tailwind CSS. Displays two-line marketing phrase with distinct styling for emphasis, ideal for hero sections or landing pages needing bold, scalable typography.",
+  "tags": [
+    "heading",
+    "typography",
+    "responsive",
+    "tailwind",
+    "text",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15646,
+      "sha256": "38b05d8d512205a077b9252f41465cf40e0f77772e2ebc8999d14aa48638d24d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 245,
+      "sha256": "a82a2b9ac44f07c83bda9a3327b51c6e089772faf67f5e58d5e30e0fc3649bf8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1105,
+      "sha256": "2796f267bc6f6e8a1c178ac14b8a35c35dadfc4026ad1cefc9c35f7271aa33e6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

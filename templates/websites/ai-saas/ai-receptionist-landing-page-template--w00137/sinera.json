@@ -1,0 +1,86 @@
+{
+  "id": "SN-W00137",
+  "title": "AI Receptionist Landing Page Template",
+  "summary": "A reusable landing page template for AI voice receptionist products targeting medical spas, built to drive demo bookings and showcase ROI.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Technology",
+    "Services",
+    "Clean",
+    "Gradient",
+    "Minimal",
+    "SaaS",
+    "AI",
+    "Medical Spa"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3537,
+      "sha256": "42d997807606b149dd95a8469497585917825a1b752e347bb9db38a93d70b823"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 33068,
+      "sha256": "8fbcf33a42f4da672f8086245e27033555feb6d35be19ff0d09c0f22dcbc1149"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1263,
+      "sha256": "7fd4c2a8b125255e724e2ceb738de7c2e7648eeffb98d4fcc725859e026bb159"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 271,
+      "sha256": "7e382788d551b0a33621d022842f99608cd10f3cf5eb8a11f925f80aef88fb28"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 1532,
+      "sha256": "7359b1c621274a583c211c89ea817ee50f394ef779fe9c1cd7b5d53d8ab8f9c2"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 821,
+      "sha256": "a64e9ac007c54d7213410d04382bd3ceb40d8ed03146944332070a46debb59fa"
+    },
+    {
+      "path": "index.html",
+      "bytes": 64140,
+      "sha256": "ac1604f40cf532c06b12495883a1d17d2a798e37f75046d979ed89f4cf79d910"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "features",
+    "timeline",
+    "video-media",
+    "logo-cloud",
+    "faq",
+    "pricing",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01583",
+  "title": "Responsive Portfolio Masonry Grid Section",
+  "summary": "Displays recent projects in a responsive masonry grid of image cards with hover zoom, gradient overlay and project details. Built with Tailwind CSS, ideal for portfolio, agency or showcase pages.",
+  "tags": [
+    "portfolio",
+    "gallery",
+    "masonry",
+    "tailwind",
+    "responsive",
+    "hover",
+    "grid",
+    "section"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 47104,
+      "sha256": "41bcd9612cf9d1505061067750760612f53b09b29a78a3919b8db754502c2ac8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9608,
+      "sha256": "1fcf182c24f336ff8fddc67a9c399a77bf9bd280c0949e62374487438803636e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10600,
+      "sha256": "01411d425d0b902084b50979386fead4fb2533b1455518c8a78969eea6331206"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

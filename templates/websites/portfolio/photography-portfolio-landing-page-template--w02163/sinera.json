@@ -1,0 +1,112 @@
+{
+  "id": "SN-W02163",
+  "title": "Photography Portfolio Landing Page Template",
+  "summary": "A reusable landing page template designed for photographers to showcase portfolios, services, and contact options with a clean, minimal mobile-friendly design.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Photography",
+    "Services",
+    "Mobile Preview",
+    "Hero",
+    "Contact",
+    "Pricing",
+    "Visual Storytelling",
+    "Minimal Design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3394,
+      "sha256": "ad1ea412b0ec4c2733e7ffb0a8e8a763f74d4a1a976fbcdd31c75470b5b738ef"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 25722,
+      "sha256": "3f3e9c1a6125634ddf642c4aef2f7fdddd38dd7703ec42e5dab86dbce400e33e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2936,
+      "sha256": "edbcd3659b6af3532bd4b88da209cf4d82ae7b87ef8a954ef63e70a03864c3d1"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 343,
+      "sha256": "979b35ee91548663c39f62b2714405573cc196f946be6ddabb66d68ba7e3ff8e"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 422,
+      "sha256": "197c99ee26a8e2639dbd2ab77eef27d9a11787bdc20253882afe652aedfea693"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 494,
+      "sha256": "aa3c71f83f1383a330181ce452faba9f2d625c98e5fb92d65301927a9ea91b0b"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 368,
+      "sha256": "d69099dd2a6c4904df4ca3163ed424050450d2e751088677d3353c231b5f44c4"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 340,
+      "sha256": "5a36845e4d3be620435b8b3c2b9ccd0c271f25a79f31f715d4172c3ce67d2329"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 334,
+      "sha256": "2d925c573d17fcc90bf0e9274d2cd8bce2457cde37bfbf305d83538dacc89072"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 330,
+      "sha256": "965f443765fe4e762a590af44e26555813bb1d3b9ae1aaab2df7dc5716aca34b"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 423,
+      "sha256": "4852d411bfd02d4f3b0c5655a45b6b653d274a94a3605b12805ff6207e5f703d"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 325,
+      "sha256": "7e6537e21c779f273fe56409c71dd6924b2fc61ef15ecd4d30429e6c98ce429a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32937,
+      "sha256": "ea4f92a6a55750347ce09511ce2cab7483649757802697b7c244f43e0f1abe5a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "gallery-portfolio",
+    "hero",
+    "stats"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

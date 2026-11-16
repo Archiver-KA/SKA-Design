@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00217",
+  "title": "Indigo Gradient Call-To-Action Button",
+  "summary": "Rounded CTA button featuring indigo top-to-bottom gradient, shadow, and text glow. Tailwind utility classes add hover, active, focus-ring states and responsive text sizing, making it ideal for landing pages, forms, or dashboards.",
+  "tags": [
+    "button",
+    "tailwind",
+    "gradient",
+    "cta",
+    "interactive",
+    "responsive",
+    "shadow",
+    "accessibility"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3806,
+      "sha256": "569d3ba6ed351a0b9e4bb89e4cfc01fbcbaa1fc3ccc5b37ea4024aeca83986f6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 819,
+      "sha256": "141a7c45aa672e38d126c5d0fdabc25ab8c85f3b6f78ef30e6cb15a8ca0f97dd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1677,
+      "sha256": "504284c561a3bb2950078de5d0d185d9f8e0b11db2b5431c6f9c667d91c4cd3a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

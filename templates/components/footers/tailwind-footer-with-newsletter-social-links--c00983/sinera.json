@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00983",
+  "title": "Tailwind Footer with Newsletter & Social Links",
+  "summary": "Responsive footer block featuring a newsletter signup, pages/resources link groups, social media buttons, and legal text. Styled with Tailwind CSS glassmorphism (backdrop-blur, translucent panels). Ideal for SaaS or blog site footers.",
+  "tags": [
+    "footer",
+    "tailwind",
+    "newsletter",
+    "social-icons",
+    "responsive",
+    "glassmorphism",
+    "form",
+    "links"
+  ],
+  "kind": "components",
+  "category": "footers",
+  "categoryLabel": "Footers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10026,
+      "sha256": "6cdd9a6e52a2f72b6bd79eff22122ace15c481e164515a82180ed648dfbcc088"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8049,
+      "sha256": "3b50c2969f5b5c356cf9d2f0fc8947c1099cc3fc7177d77d6eac2b76ddd65696"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9050,
+      "sha256": "fdb65ca33892e1368e404a451245f37133e259f8d6f11f809b73bbe98109e7ab"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

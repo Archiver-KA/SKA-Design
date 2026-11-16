@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00592",
+  "title": "Unicorn Studio Embedded Background",
+  "summary": "Embed container that loads and initializes a Unicorn Studio scene via external script. Useful for interactive animated backgrounds or visual effects in landing pages, hero areas, or branded site experiences.",
+  "tags": [
+    "ui",
+    "unicorn",
+    "animated",
+    "embed",
+    "interactive",
+    "javascript",
+    "background",
+    "laser beam"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6262,
+      "sha256": "b43bcd8ba82f89d78df2b4de34110826b309139e1d38a35aa9d66cdea819d212"
+    },
+    {
+      "path": "component.html",
+      "bytes": 715,
+      "sha256": "17b0a3f75ed59d132c443ae63667ee9164ab8fa2ea3fccea237c871f4019c20a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1570,
+      "sha256": "8d5397e82fb7f02404a389e7e00cfcb0f8e130d77682f4093e34cff771afd2dd"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00298",
+  "title": "Valence Core WebGL Button",
+  "summary": "A high-fidelity interactive button featuring a custom WebGL fragment shader with animated energy arcs, GSAP entrance sequences, and reactive hover/click states. Perfect for futuristic interfaces or gaming dashboards.",
+  "tags": [
+    "button",
+    "webgl",
+    "gsap",
+    "animated",
+    "interactive",
+    "tailwind",
+    "dark-mode"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2904,
+      "sha256": "583b554a4bfa55590c45f1ebe43636595e98d9f95debee949a0b30fe1931f2cf"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7619,
+      "sha256": "6561ae3aeacfacb6e2fe40e2581c4af32ea3fd2aec27313a795fa540cb9d8065"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8465,
+      "sha256": "25c81c6f949796c379870a601efd0681c6a057ed266ad8187b9a80be622ab910"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

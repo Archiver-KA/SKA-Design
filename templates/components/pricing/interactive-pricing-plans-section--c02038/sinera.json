@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02038",
+  "title": "Interactive Pricing Plans Section",
+  "summary": "Dark-themed Tailwind CSS pricing section with monthly/yearly billing toggle, animated price updates, highlighted featured plan, and brand trust logos. Ideal for SaaS, AI, or subscription landing pages.",
+  "tags": [
+    "pricing",
+    "section",
+    "tailwind",
+    "interactive",
+    "responsive",
+    "dark",
+    "subscription"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 23586,
+      "sha256": "5c602b981d9a21ba9ac64fb962a804998de1f4711bd6f5e1d18f840bbc20da8e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 30378,
+      "sha256": "003de2238f6643583db0da36974eab2f99229d27a91d36baf4800fe87ed30424"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31232,
+      "sha256": "9c57ab71a11c9c5e6d1a489cba46111d2c167c9c3e2f69fa81a387c23fda1248"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

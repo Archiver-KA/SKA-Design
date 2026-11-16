@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01156",
+  "title": "Responsive Glassmorphic Navbar with Mobile Menu",
+  "summary": "Stylish header bar with logo, nav links, CTA button and hamburger-triggered mobile dropdown. Built with Tailwind CSS, features glassmorphism, hover effects and full responsiveness—ideal for portfolios, SaaS sites and landing pages.",
+  "tags": [
+    "navbar",
+    "navigation",
+    "responsive",
+    "mobile",
+    "tailwind",
+    "glassmorphism",
+    "header",
+    "menu"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3014,
+      "sha256": "f2e522d69fd7b1e09a8eceb1554de23690bbe3136c09fae1c3108638f9b773fd"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4259,
+      "sha256": "fd6ad82d939067a038c9fc9c05bd8cdb42aeb010b4c2a98768477614ba3ddeb1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5257,
+      "sha256": "f5be54c025760f0783322643aa95cca46757cb9a1f53d91c3ca42ffdd0389bb2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00336",
+  "title": "Code Snippet Card with Header & Line Count",
+  "summary": "Displays a syntax-highlighted code block inside a rounded card with title, icon, and line count. Tailwind-styled, scrollable, ideal for docs, dashboards, or blog posts showcasing code samples.",
+  "tags": [
+    "code",
+    "snippet",
+    "card",
+    "tailwind",
+    "syntax-highlighting",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10732,
+      "sha256": "f773738fd8d110e4d89018bf9431fda6fea43638f5f6a785d9e01e187e1570ce"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3591,
+      "sha256": "51f07bbbec46f0f1f6dece4d4f3f8c1786d689307ab5097160e45582975fe760"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4588,
+      "sha256": "8c1a267ff71c6bd9377a4ee46699cbd32a476ccb79ef99be840cb99fe82dc8a1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

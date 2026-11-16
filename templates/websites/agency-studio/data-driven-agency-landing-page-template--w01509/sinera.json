@@ -1,0 +1,74 @@
+{
+  "id": "SN-W01509",
+  "title": "Data-Driven Agency Landing Page Template",
+  "summary": "A dark, data-driven agency landing page template for high-speed web systems and services, optimized to showcase your process, offers, and lead-generation CTAs.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Agency"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3798,
+      "sha256": "8bdca34cf89fdc568f286663d31bee2182b8d7c5dec2b74bdba1be3b088cfb0c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15036,
+      "sha256": "cfdd949d22e860d22885354148d20b2669afbee512f76c8aab5a060e991deddd"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 874,
+      "sha256": "30b88c242158de9fb74a686846c89b7cfaa752ff459120a38012c6ee4512459f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 185,
+      "sha256": "92c2683be6b442107242edb6de07ac4c349abdbee834ef7c46af6ec7d46c2eb8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34425,
+      "sha256": "a135fa0cd0a1306ed3aeffa0f19b8f6a2eb8d8c8180563cf89a54d36c6a10a97"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "features",
+    "how-it-works",
+    "testimonials",
+    "newsletter",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

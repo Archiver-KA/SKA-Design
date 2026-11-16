@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02259",
+  "title": "Daily Activity Progress Card",
+  "summary": "Displays a weekly activity overview with selectable days and progress indicators for steps, calories, water and meditation. Includes menu button, date range header and gradient progress bars. Built with Tailwind CSS, ideal for fitness dashboards or health apps.",
+  "tags": [
+    "card",
+    "dashboard",
+    "progress",
+    "tailwind",
+    "fitness",
+    "health",
+    "widget",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10460,
+      "sha256": "debb67022e0e0347566ac9af513ac3d43c94e1d50ec1e3d52204f61c4e6b494e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8607,
+      "sha256": "2982f0cba41b88943ff54e25c1cc0234782230cb33ecb818ede21efa053bd8db"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9586,
+      "sha256": "058133f51815afa059ec597b2acf68628209c05c0398464764f1f2c9b9119cea"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

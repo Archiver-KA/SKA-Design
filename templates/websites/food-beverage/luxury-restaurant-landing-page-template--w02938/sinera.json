@@ -1,0 +1,68 @@
+{
+  "id": "SN-W02938",
+  "title": "Luxury Restaurant Landing Page Template",
+  "summary": "A reusable luxury restaurant template for premium dining venues to showcase menus, chef stories, galleries, reviews, and table reservations.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Services",
+    "Dark",
+    "Elegant",
+    "Premium Dining",
+    "Restaurant",
+    "Menu",
+    "Reservations"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3771,
+      "sha256": "1bf538888cb5f3af307e7f9d4432b50da7542860f5f9174600b67adfb81cd4aa"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17980,
+      "sha256": "e912324b9ad87b9717d359a95371ce196b2e6b21c27f952aba61031d7bab077e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "5695e307ae266b92e5d5c29c549fa089a3bffdc6e142524d919d191d76ef774c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 44085,
+      "sha256": "22eddbced4515d5820a4737254f69d9c89024f888c78ef0b954579099f981cf0"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "product-grid",
+    "menu-list",
+    "cta",
+    "gallery-portfolio",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

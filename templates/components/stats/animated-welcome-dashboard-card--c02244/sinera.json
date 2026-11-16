@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02244",
+  "title": "Animated Welcome Dashboard Card",
+  "summary": "Tailwind-styled card that greets returning users with brand badge, system status, feature list, profile snippet, and CTA. Gradient background with spinning glow adds motion. Ideal for post-login screens or dashboard headers.",
+  "tags": [
+    "card",
+    "dashboard",
+    "welcome",
+    "tailwind",
+    "animated",
+    "gradient",
+    "profile",
+    "status"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14104,
+      "sha256": "46ad6ef653edd95e9984008ebfa9fb944adb36ee1c20e645d0b99352aa4effda"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6282,
+      "sha256": "22233f377fd2a7b731721051070606993eae9db7c510e8a38a84f6fa4b7506a8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7134,
+      "sha256": "bb347c2bfe1cd554db9f7609f6657ed0bc28500db0da933b4832bb48e58b5c6d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

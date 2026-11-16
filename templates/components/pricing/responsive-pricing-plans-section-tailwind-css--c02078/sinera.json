@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02078",
+  "title": "Responsive Pricing Plans Section (Tailwind CSS)",
+  "summary": "Full-width pricing section with three gradient-lit plan cards, feature lists and CTA buttons. Uses Tailwind CSS, responsive grid and dark theme styling; ideal for SaaS landing pages needing flexible, scalable pricing displays.",
+  "tags": [
+    "pricing",
+    "plans",
+    "tailwind",
+    "responsive",
+    "landing-page",
+    "gradient",
+    "dark-theme",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 30582,
+      "sha256": "c72092fa69a4d032bd2d8d364fffa86732fe515ffc12ad81c9b5498cbee4f893"
+    },
+    {
+      "path": "component.html",
+      "bytes": 18350,
+      "sha256": "924d052e7b033542466369317701d933de7701f02e6376991ad811d62f993b12"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19218,
+      "sha256": "9514f8262e68069ed695ae3a7a39da8949d3bbd61fbe226195b8cf17d28afece"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

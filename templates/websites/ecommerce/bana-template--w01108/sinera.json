@@ -1,0 +1,72 @@
+{
+  "id": "SN-W01108",
+  "title": "BANA Template",
+  "summary": "A vibrant, high-conversion e-commerce template designed for fresh produce and sustainable food brands looking to streamline their online sales.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Health",
+    "E-commerce",
+    "Clean",
+    "Colorful",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3820,
+      "sha256": "9257137406d629cdb233c06a6ce352b11651a34926aa558cc4009110ffcfde27"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17096,
+      "sha256": "e34ace72bd2e29c3f6d7a5920061eb532a30790cedb2623b47d4e20c3f44d975"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 848,
+      "sha256": "22013f3922f896a945180b1d3cfd43a5dc8085327237473d8490a654191cf33a"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 424,
+      "sha256": "b341b71260954e2776da2a91b2b69a19a5e7ebdfc737396ace81054cd7aef6d6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 58895,
+      "sha256": "e2f32b991e740154b9f8dd558f50b227bf061b98d4d626ebf8bf507b7c831a03"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "product-grid",
+    "about",
+    "logo-cloud",
+    "testimonials",
+    "newsletter",
+    "footer",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01335",
+  "title": "Urban Performance Lab E-commerce Landing Page Template",
+  "summary": "A sleek, editorial-style e-commerce landing page template for curated athletic footwear and apparel reviews, guides, and affiliate product recommendations.",
+  "tags": [
+    "E-commerce",
+    "Landing Page",
+    "Brand",
+    "Style",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3620,
+      "sha256": "886e91ee81f894e6c6157f43eb7acf654ad96ffe0cc7216199d9663bc105f745"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 23758,
+      "sha256": "b286bbe40f3fa8398603990c6a9714c3dba08a7b8ea873b3ab71d407194ee19b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 744,
+      "sha256": "bd5135b79b7201426f1410536e9e3b866d67d29138bb60e6174e546dbab1b582"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34094,
+      "sha256": "90d7f34e64d89e932e106230e7dfe38982e7c78f65344c7d39fee00327a44634"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "testimonials",
+    "features",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

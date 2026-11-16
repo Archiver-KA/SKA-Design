@@ -1,0 +1,78 @@
+{
+  "id": "SN-W04010",
+  "title": "Luxury Chauffeur Service Landing Page Template",
+  "summary": "A premium template for luxury chauffeur and private car services to showcase airport transfers, tours, and executive travel with an elegant, high-end layout.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Services",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Transportation",
+    "Luxury"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3544,
+      "sha256": "e19773761feee55834c5747f5d068ebdb5a491e73ab273404b27762e75e46894"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12922,
+      "sha256": "ef948c17cae95c6cc5f96c933e1e1affe02ba0cd2588a62c84c51739602ac553"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1076,
+      "sha256": "d2693322f816389114dfb8ee3a9b8b076e51fb6b727cf20ec88aaf44d67514e1"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 167,
+      "sha256": "bff4a0f34cd23840ee4a77eca1c3694132a152b4d7d692c81280ed9cf3675c83"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 169,
+      "sha256": "8ec3326d78196972101b0f046c702adae3cc5fdcaafca6db7eed054a5e86be5f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29205,
+      "sha256": "3794a2255534a0b511ffdb8e9614ce62016b89343d15338410e96eeeda4d152a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "about",
+    "services",
+    "listings",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

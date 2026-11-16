@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01971",
+  "title": "Unicorn Studio Project Embed",
+  "summary": "Embeds and initializes a UnicornStudio project with a single div and dynamic script load, enabling display of interactive content on any webpage.",
+  "tags": [
+    "embed",
+    "widget",
+    "html",
+    "script",
+    "interactive",
+    "unicornstudio",
+    "external",
+    "background"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21610,
+      "sha256": "2faaf0ef8f3f1ced2a23e061d1320c6bfdadcafb04f82e79fc1a658717aeae72"
+    },
+    {
+      "path": "component.html",
+      "bytes": 530,
+      "sha256": "f9bd74ca03118939baea915eedd7e3ba7c4bf91da2a146a115f4cda87888afbe"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1379,
+      "sha256": "d88d251adaf26bd2a013dd838de48b570bc1355c3a671cc30b2821f305953b3b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

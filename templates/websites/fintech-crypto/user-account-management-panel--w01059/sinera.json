@@ -1,0 +1,146 @@
+{
+  "id": "SN-W01059",
+  "title": "User Account Management Panel",
+  "summary": "Responsive account UI with profile card, personal info, payment settings, and navigation options using Tailwind CSS.",
+  "tags": [
+    "Account",
+    "Profile Card",
+    "Settings",
+    "Tailwind CSS",
+    "Responsive UI",
+    "Navigation"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3238,
+      "sha256": "25625755e3f92a34d1e76a0e8bb882f6b5b51341cb4e98eb61a899ee169558e2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6802,
+      "sha256": "50346ae63d4e90918e7448f8a5937848e87e4c3c7eb735402a7caed7e0b621c3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 4311,
+      "sha256": "496721aceadd20374969bce53a814c8717c55c206304d881c0a696eff237758a"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1317,
+      "sha256": "d41c28554e13faa79fed91e741e3a4fca2fbdb6b437e5f7642d59de473a399c6"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 499,
+      "sha256": "b55b179c3926dd721947939b952d69f1bf349730620f2b0b693d356187170c26"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 393,
+      "sha256": "a46cc595c423f63ac89ce590cb963fffabd8b9aa7f377c36e5d8955bdc401d7b"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 266,
+      "sha256": "61794c936c027ae11281221b308661c0f0bcce3a8114e15ea3059e059431e146"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 441,
+      "sha256": "9b3937cb9a4287dda8f8a0aba412f720745ed57e80310c5922aec631c3dbbc5a"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 764,
+      "sha256": "4a4c4d6f0b24279b1ac036fe0733b8d40b192499b1454d5e8c3ebfad35f3b34d"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 422,
+      "sha256": "0cd8a6bdba11d0ea06e6307082ce9e5ec7f1e551fd26680979eefff977def6e0"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 836,
+      "sha256": "2b422bc5466cf0496f79438f3a398c7e557eedd43273cb8a89a89064acbf7ca3"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 488,
+      "sha256": "e7137bcbc856cc987ca479fe1d59e300146d56f5811d63312e35dfe7f11a5e9d"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 270,
+      "sha256": "92efa2a21fdc61aef10d08f43019abc9ab70b5e64e71951f9dddf053726cd1e8"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 459,
+      "sha256": "22dbf7a7cfbeedda47cb3717f6b9c45c13003bd3438531c1f8ed445356119e1f"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 419,
+      "sha256": "581dbf3fdc25fdbc3bc672f649d40046500336fde66406c8b29127a5a031a4e6"
+    },
+    {
+      "path": "images/embedded/embedded-0013.svg",
+      "bytes": 443,
+      "sha256": "94cdda59ba6223b25e8076499ee228bee4fe6f9704054c491a744506911f5e0e"
+    },
+    {
+      "path": "images/embedded/embedded-0014.svg",
+      "bytes": 262,
+      "sha256": "40d531f164ecbec62b4907c4bb100c0536439fe6e261ab42fba552f28dccec0a"
+    },
+    {
+      "path": "images/embedded/embedded-0015.svg",
+      "bytes": 391,
+      "sha256": "680fb59508e591d2a37bb0a296631728798153fa339392e36e752a38399a4390"
+    },
+    {
+      "path": "images/embedded/embedded-0016.svg",
+      "bytes": 449,
+      "sha256": "2e6ecca5d076777f852dc15b629dfe48202eb3d5083b22941dae2e70ca2ee45f"
+    },
+    {
+      "path": "images/embedded/embedded-0017.svg",
+      "bytes": 937,
+      "sha256": "b1d34c89415f7b710c8255a89303e5743b7b724fdab1585a5b4e7c90c0c33159"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19458,
+      "sha256": "24d5b2d20ca9506572b101439485d2d3dc4c0735713d800501cab3f3af665d71"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

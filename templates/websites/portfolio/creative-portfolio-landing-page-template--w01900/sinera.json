@@ -1,0 +1,69 @@
+{
+  "id": "SN-W01900",
+  "title": "Creative Portfolio Landing Page Template",
+  "summary": "A reusable dark landing page template for creative brands, portfolios, and visual showcases that highlights imagery with bold editorial typography.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Clean",
+    "Editorial",
+    "Creative Showcase"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3861,
+      "sha256": "4f096cd55133c828f6b1c613bb7d7f091bd5f70c52cf7fd13b10d1472c7c3814"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15914,
+      "sha256": "f8b2f5a5f637646cd6127aaafe7b7b3677cfea77ae2e51581f16f8b3a0d2257c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "4ae95fd17edfeeaa5b4fb3456e5d7caf0becce12bb438c85cba2b5c5285c8454"
+    },
+    {
+      "path": "index.html",
+      "bytes": 103030,
+      "sha256": "deecc6d68806d6f692502e25cf4beda92ea716d5224349894bc5874dd4d762d4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "stats",
+    "pricing",
+    "integrations",
+    "how-it-works",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

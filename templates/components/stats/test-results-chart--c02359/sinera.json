@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02359",
+  "title": "Test Results Chart",
+  "summary": "Interactive chart displaying test coverage trends over time with monthly breakdown visualization",
+  "tags": [
+    "chart",
+    "analytics",
+    "coverage",
+    "trend",
+    "visualization",
+    "responsive",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3716,
+      "sha256": "3e63a1479d69adfb289bd98032194ac6b1212e3a4146287b2700cfe7d6c0842b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1807,
+      "sha256": "e22ffe12b55923e7bc7d33e73d41a4940c7d88a0dd87e768091a873f9c2eb738"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2646,
+      "sha256": "442a68e587c35a2c7530ca86cdbe27b73b6a940ef9c16122dc3430b851e0e3a3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

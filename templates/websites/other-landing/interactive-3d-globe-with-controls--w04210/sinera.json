@@ -1,0 +1,60 @@
+{
+  "id": "SN-W04210",
+  "title": "Interactive 3D Globe with Controls",
+  "summary": "Displays a customizable 3D globe with adjustable rotation, tilt, scale, lighting, and color settings via sliders and buttons.",
+  "tags": [
+    "3D Globe",
+    "Canvas",
+    "Interactive Controls",
+    "Tailwind CSS",
+    "JavaScript",
+    "Visualization",
+    "UI Components"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3164,
+      "sha256": "c06ea5cbe6ed152464c659aafd2fd8fd6f2313c8c4127d62fa0eac6da2ab4ad1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5802,
+      "sha256": "e38e87dc8cd15a07712539f2bb5d7c520a5254222d002de0f4cebe504ae4a727"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "05ce9557cb00fee814e33c2f81747b1bdcc319fa31c02d9eccf6aa4a300adf1b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14322,
+      "sha256": "2ddfec31815dbb6875f2ca02f1aa41d83de3774a0b0780f890e3628c2324e944"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "3d-canvas",
+    "cta"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

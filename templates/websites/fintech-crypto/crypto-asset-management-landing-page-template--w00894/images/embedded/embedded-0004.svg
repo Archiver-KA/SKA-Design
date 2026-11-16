@@ -1,0 +1,19 @@
+<svg viewBox="0 0 200 200" class="drop-shadow-[0_0_15px_rgba(255,255,255,0.1)] w-[380px] h-[380px]">
+                        <g stroke="white" stroke-width="0.3" fill="none" opacity="0.8">
+                            <!-- A series of ellipses rotated to form a torus-like knot -->
+                            <ellipse cx="100" cy="100" rx="80" ry="30" transform="rotate(0 100 100)"></ellipse>
+                            <ellipse cx="100" cy="100" rx="80" ry="30" transform="rotate(30 100 100)"></ellipse>
+                            <ellipse cx="100" cy="100" rx="80" ry="30" transform="rotate(60 100 100)"></ellipse>
+                            <ellipse cx="100" cy="100" rx="80" ry="30" transform="rotate(90 100 100)"></ellipse>
+                            <ellipse cx="100" cy="100" rx="80" ry="30" transform="rotate(120 100 100)"></ellipse>
+                            <ellipse cx="100" cy="100" rx="80" ry="30" transform="rotate(150 100 100)"></ellipse>
+                            
+                            <!-- Inner details for sketched effect -->
+                            <ellipse cx="100" cy="100" rx="75" ry="25" transform="rotate(15 100 100)" stroke-dasharray="2 2" opacity="0.5"></ellipse>
+                            <ellipse cx="100" cy="100" rx="75" ry="25" transform="rotate(45 100 100)" stroke-dasharray="2 2" opacity="0.5"></ellipse>
+                            <ellipse cx="100" cy="100" rx="75" ry="25" transform="rotate(75 100 100)" stroke-dasharray="2 2" opacity="0.5"></ellipse>
+                            <ellipse cx="100" cy="100" rx="75" ry="25" transform="rotate(105 100 100)" stroke-dasharray="2 2" opacity="0.5"></ellipse>
+                            <ellipse cx="100" cy="100" rx="75" ry="25" transform="rotate(135 100 100)" stroke-dasharray="2 2" opacity="0.5"></ellipse>
+                            <ellipse cx="100" cy="100" rx="75" ry="25" transform="rotate(165 100 100)" stroke-dasharray="2 2" opacity="0.5"></ellipse>
+                        </g>
+                    </svg>

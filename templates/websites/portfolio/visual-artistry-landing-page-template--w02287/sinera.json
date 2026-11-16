@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02287",
+  "title": "Visual Artistry Landing Page Template",
+  "summary": "A reusable landing page template designed for AI-driven visual studios to showcase projects, galleries, and enable client contact.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "Projects",
+    "Gallery",
+    "Studio",
+    "Contact Form",
+    "AI Art",
+    "Visual Branding",
+    "Portfolio",
+    "Responsive"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3780,
+      "sha256": "c4e6aa1f157c9e3cad826b3d4bfec0a8ec3b954a3bb837b8daf20948cf604b08"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12388,
+      "sha256": "600a00bdddd1ad86903975969ac34fa452b9b04e0a7df8c1c752af26701ade30"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "bf504f5aea65dae071641da2f0fbab46876a1781e169e614981b12888bc22898"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29062,
+      "sha256": "c6bba08e8a6c6e9fb0782a24f7ccf6353806c3d90a6d72fa40411324ba08e0f5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "gallery-portfolio",
+    "about",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

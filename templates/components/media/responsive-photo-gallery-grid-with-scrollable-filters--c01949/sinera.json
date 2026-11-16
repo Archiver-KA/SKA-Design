@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01949",
+  "title": "Responsive Photo Gallery Grid with Scrollable Filters",
+  "summary": "Tailwind-powered gallery with sticky toolbar, scrollable category chips, prev/next controls and sort option. Displays responsive image cards that reveal details and download action on hover—suitable for portfolios, stock libraries and dashboards.",
+  "tags": [
+    "gallery",
+    "grid",
+    "filter",
+    "toolbar",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "hover",
+    "section"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 61786,
+      "sha256": "5d2ccdcf657007ea0855a483858f0e68f1ae482ababf03e0f89664003953cd63"
+    },
+    {
+      "path": "component.html",
+      "bytes": 38167,
+      "sha256": "f07ba63c789ccf53111b81cdcac859eeb22a2d8c54a134348657ae3c8e0d761b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39041,
+      "sha256": "795a594bac858cc676ff118369fae803be9c705c797a79f97b48d6fe6e72ec93"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

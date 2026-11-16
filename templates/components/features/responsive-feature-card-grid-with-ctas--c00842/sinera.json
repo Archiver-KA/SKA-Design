@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00842",
+  "title": "Responsive Feature Card Grid with CTAs",
+  "summary": "Three interactive feature cards displayed in a responsive 1-3 column grid. Each card includes image, gradient overlay, hover zoom, description and call-to-action button. Built with Tailwind CSS for blur, shadow and transition effects—ideal for landing pages or product highlights.",
+  "tags": [
+    "feature",
+    "grid",
+    "responsive",
+    "tailwind",
+    "hover-effect",
+    "landing-page",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 38762,
+      "sha256": "fe69f4c38ab321e7f5d97b615ba9f5ffa41115fdd91d28c3f45fb71bd8cffcc3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8709,
+      "sha256": "04bb44d6ceae8c000134b18c65286adc164b1613bddb0766d1384127a14d3d67"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9568,
+      "sha256": "c1d2e7cc0b6340e9a5502231a421392da4c5ac3dc82ecba37a4763a61e4556c5"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

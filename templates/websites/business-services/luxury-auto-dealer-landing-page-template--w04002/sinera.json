@@ -1,0 +1,66 @@
+{
+  "id": "SN-W04002",
+  "title": "Luxury Auto Dealer Landing Page Template",
+  "summary": "A refined landing page template for high-end pre-owned car dealerships to showcase curated inventory, boutiques, and concierge-level services.",
+  "tags": [
+    "Landing Page",
+    "Business",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Automotive",
+    "Luxury Cars",
+    "Dealership"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3428,
+      "sha256": "81b727fc7252b57b421b4c45957b21d8013a9731f20f39459554ca34b7912216"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11060,
+      "sha256": "419c550bf96826671e93ba11edc4c17a695e29a1fa79c4a57effa4177a8c79e1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "202e8c3025564e4560b6677ec0400984bf7f2225a086314489f5d3e04b556dde"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21116,
+      "sha256": "d85d2ee6de4b964aaffc02407770634a3ce5c019d29085169ae545c2f565269e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "timeline",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

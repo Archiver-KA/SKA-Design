@@ -1,0 +1,58 @@
+{
+  "id": "SN-W04228",
+  "title": "Interactive User Settings Panel",
+  "summary": "A responsive settings card with toggle switches for dark theme and email notifications using Tailwind CSS and icons.",
+  "tags": [
+    "Settings",
+    "Toggle Switch",
+    "Tailwind CSS",
+    "Dark Mode",
+    "Notifications",
+    "UI Component"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3296,
+      "sha256": "c17bae4c9ed407586ccb1d3e708ea3f6798d2cdc4c9282513e49e01a0bef4148"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7668,
+      "sha256": "cd8ef2b5cea6357a4546facf88b7ba46924087bc443cae25ff62ba1b01738ee4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "7520dbe79fa85c7dfec733b50268623c92ca001bb0a12483ec40f7197a13c934"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24560,
+      "sha256": "02e74e5af6ee2119a82ed1b56b2b28340a2b099648fc9a4ef86686900d1f4137"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "timeline"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "timeline",
+  "design": "DESIGN.md"
+}

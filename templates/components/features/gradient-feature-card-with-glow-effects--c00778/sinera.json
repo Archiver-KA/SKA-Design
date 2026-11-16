@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00778",
+  "title": "Gradient Feature Card with Glow Effects",
+  "summary": "Dark-themed feature card combining Tailwind utilities and custom radial gradients, blur glow accents, and an icon. Presents a title and short text, perfect for highlighting product features on landing pages or dashboards.",
+  "tags": [
+    "card",
+    "feature",
+    "tailwind",
+    "gradient",
+    "glow",
+    "dark",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8418,
+      "sha256": "0434dd2e41a87109443e2c444a6fca0eaf97d1de6bc48403472f008be6c37e79"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2714,
+      "sha256": "414edaeda773bb9596d41322fc53227514ce2d8747d0fe3ef43f1e6038fb8300"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3574,
+      "sha256": "c85cead0de7a6d5b3190fc2c273d2dece70bdd2377c771f295353d049fa1c7cb"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

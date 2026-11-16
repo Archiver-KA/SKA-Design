@@ -1,0 +1,69 @@
+{
+  "id": "SN-W01691",
+  "title": "SEO Agency Landing Page Template",
+  "summary": "A dark, modern SEO agency landing page template for web and digital engineering services, optimized to showcase case studies, workflows, and lead-generation contact forms.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3889,
+      "sha256": "e42e94fe9cc7d4fb839578759394fa65913ee92773a38138fafaf989b16689de"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14836,
+      "sha256": "579ae437500181f363cbccf7d9027fda018cfedb5955e8feb6f4273c0eead2e2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "42d3920fbb40dba9fe46e13937c5e35973c6ea834cd765226678337d02941c86"
+    },
+    {
+      "path": "index.html",
+      "bytes": 57191,
+      "sha256": "2575c4e8fda04aeb5c92b53d18d26c22f6c5c29487dee24ac9df4d0cd5b31921"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "how-it-works",
+    "stats",
+    "marquee",
+    "cta",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "SN-W01657",
+  "title": "Orison Creative Studio Agency Template",
+  "summary": "An independent creative agency template designed for shaping brand identities, digital products, and motion-heavy spatial stories.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Portfolio",
+    "Brand",
+    "Minimal",
+    "Dark",
+    "Clean",
+    "Animated",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3487,
+      "sha256": "6acda49b506418ee4d5a391c98ac6a3d6185cb9135f8cfcd3b97ddbb4c0bf993"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 24840,
+      "sha256": "a44fee041d949ab9b8867a5c1519ebc3a56a6234c0ff2502bc47fad77f3ae036"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1148,
+      "sha256": "22db644dd7ac20e9f848819b1f52defe3cc53f068757f33710db08fa2659601e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 247,
+      "sha256": "23dcd1c4d2bc6968c942443a83f35474da87104c88150dc4092b7068efe9ccd6"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 4,
+      "sha256": "891b1e15b4ec667c0c14f05c3a5f415c3eee32fb15e2204d20cdc0e7a2168e7e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 56631,
+      "sha256": "6df7a1dbf3cf418f127f108703b29dc5ca06390f96e31d9997c6704f191f28de"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "how-it-works",
+    "services",
+    "dashboard-preview",
+    "marquee",
+    "timeline",
+    "testimonials",
+    "pricing",
+    "faq",
+    "logo-cloud",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

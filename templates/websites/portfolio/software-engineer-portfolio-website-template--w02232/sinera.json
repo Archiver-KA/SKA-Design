@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02232",
+  "title": "Software Engineer Portfolio Website Template",
+  "summary": "A dark, minimal Software Engineer portfolio website template showcasing projects, experience, and contact CTAs, ready to customize for developers.",
+  "tags": [
+    "Portfolio",
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Clean",
+    "Minimal",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3588,
+      "sha256": "d4c274c2043c5eb684a4219bdb1f28e6283439b5adfe3e29e1af0e9083afb453"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10786,
+      "sha256": "e45e88f11820b3f9293cdc1a8e1aac66154da52109e7ecd90c17998e0b3496ef"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 732,
+      "sha256": "70615855f5a9eec9ae9469dc11d511cd7ffc8103015580d38d082f8ff14d1e00"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21252,
+      "sha256": "e0b29cda904ea3bfe58f35ea2e77dd6dbd88992ebab39258184c6423cdc4c3ce"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "bento-grid",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

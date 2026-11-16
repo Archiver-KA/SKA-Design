@@ -1,0 +1,38 @@
+{
+  "id": "SN-C02239",
+  "title": "Animated System Analytics Stats Section",
+  "summary": "A full-screen Tailwind CSS analytics section with neon network lines, animated counters, particle canvas background, and GSAP scroll reveals. Ideal for showcasing platform metrics, dashboards, or tech product performance highlights.",
+  "tags": [
+    "feature",
+    "section",
+    "tailwind",
+    "animated",
+    "stats",
+    "dashboard",
+    "gsap",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8204,
+      "sha256": "412312a9173c5391193e17fd2db2904e67f7500e4a265b0efd2686f60fc4dcef"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13006,
+      "sha256": "76afdf024124014745e57921bba484135889130af37a34ebda61d0201e26b2ae"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01299",
+  "title": "PetEssentials Vintage E-Commerce Landing Page Template",
+  "summary": "A reusable landing page template designed for vintage-style pet goods e-commerce, showcasing curated products, editorial content, and customer testimonials.",
+  "tags": [
+    "Landing Page",
+    "Vintage",
+    "E-Commerce",
+    "Products",
+    "Editorial",
+    "Testimonials",
+    "Catalog",
+    "Organic",
+    "Pet Supplies",
+    "Bundle Offer"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3500,
+      "sha256": "cec26bd302f4a3aed65b6ec5fb32e49b49cee8cc7d648a4e1537bd70e6ddb28d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15944,
+      "sha256": "0c4f0e434e6862d2834bb77b922b8d35f978242e587f55b49e003e72afd4f811"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 889,
+      "sha256": "fd55fdf7a1ce6b013a1a77e6d3080c771f447abf18445dccb9679366b7772faf"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 589,
+      "sha256": "5830a19f0ac09b347ac45d23b816ba850381c1466aa296a56982af9065568654"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35929,
+      "sha256": "1adacfdf88ab3b9726992d40ba5ab3e6eeb105843b4851dedf3ebd21d5122e0d"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "product-grid",
+    "cta",
+    "features",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

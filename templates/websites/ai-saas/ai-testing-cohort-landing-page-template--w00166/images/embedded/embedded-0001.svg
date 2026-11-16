@@ -1,0 +1,28 @@
+<svg class="absolute inset-0 w-full h-full overflow-visible" viewBox="0 0 600 600">
+                <!-- Connecting Beams -->
+                <path d="M 0 300 C 150 300, 150 300, 300 300" fill="none" stroke="#38BDF8" stroke-width="1" class="beam-line animate-beam opacity-40"></path>
+                <path d="M 600 300 C 450 300, 450 300, 300 300" fill="none" stroke="#38BDF8" stroke-width="1" class="beam-line animate-beam opacity-40" style="animation-delay: -1.5s;"></path>
+                <path d="M 300 0 C 300 150, 300 150, 300 300" fill="none" stroke="#38BDF8" stroke-width="1" class="beam-line animate-beam opacity-40" style="animation-delay: -0.7s;"></path>
+
+                <!-- Central Node -->
+                <g transform="translate(300, 300)">
+                    <circle r="80" fill="url(#center-glow)" class="opacity-20"></circle>
+                    <circle r="120" fill="none" stroke="white" stroke-opacity="0.1" stroke-dasharray="4 4" class="animate-spin-slow"></circle>
+                    <circle r="90" fill="none" stroke="#38BDF8" stroke-opacity="0.2" stroke-width="0.5"></circle>
+                    <circle r="15" fill="#0A0A0A" stroke="#38BDF8" stroke-width="2"></circle>
+                    
+                    <!-- Icon in center -->
+                    <foreignObject x="-10" y="-10" width="20" height="20">
+                        <div class="text-brand-sky flex justify-center items-center h-full">
+                            <i data-lucide="brain-circuit" class="w-5 h-5"></i>
+                        </div>
+                    </foreignObject>
+                </g>
+                
+                <defs>
+                    <radialGradient id="center-glow" cx="0.5" cy="0.5" r="0.5">
+                        <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.5"></stop>
+                        <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"></stop>
+                    </radialGradient>
+                </defs>
+            </svg>

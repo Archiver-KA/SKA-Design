@@ -1,0 +1,66 @@
+{
+  "id": "SN-W00492",
+  "title": "Library Technology Systems Template",
+  "summary": "A professional enterprise-grade landing page template for library technology providers specializing in software integration, automation, and security.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Business",
+    "Clean",
+    "Minimal",
+    "Infrastructure"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3627,
+      "sha256": "822dce13cbdccc6b9a294b940e997de4108dd0e172b3a00792ac72a8ff73a21a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18492,
+      "sha256": "5391922d25664c28ba21d6baaf10ffedad42e6ea4fb2b549fbf15866bb36bd1c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "057ee949aba93587e61c2acc98c89b6c3b102c5c1d410ac0afcaa99a171e55a2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 46096,
+      "sha256": "c7f6814af4113e8c981165c1c5880be4ccd4234acfdaa30643ed3b93c357021b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "announcement-bar",
+    "navbar",
+    "hero",
+    "timeline",
+    "features",
+    "bento-grid",
+    "code-terminal",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "SN-W02912",
+  "title": "Green Crow Tacos Restaurant Landing Page Template",
+  "summary": "A modern, brand-forward restaurant landing page template for showcasing a taco-focused menu, drinks, location, and newsletter signups for food venues.",
+  "tags": [
+    "Food",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Restaurant",
+    "Tacos",
+    "Newsletter",
+    "Local Business"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3669,
+      "sha256": "c2b17268f0eed25399223d021ea176cfe09a6e085eac034d26c239cddab10050"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14174,
+      "sha256": "4ce5f7e16451b009cf65619e86831c3e55dbd607cbfafcba38fe7f2d489eeb22"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 746,
+      "sha256": "b5ccfbb8c51d1ed9fe1097204c983813f31d92bfad3eeb509c3cc29d2adb3613"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34929,
+      "sha256": "f92a26e3081b12a33ff87a2006133e481005373b915f6bd8da718b276c1606e7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "marquee",
+    "hero",
+    "case-studies",
+    "cta",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

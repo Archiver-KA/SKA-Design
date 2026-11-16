@@ -1,0 +1,63 @@
+{
+  "id": "SN-W04096",
+  "title": "Skills and Services Showcase",
+  "summary": "Responsive section displaying skills and services with animated background and interactive cards using Tailwind CSS and iconography.",
+  "tags": [
+    "Services",
+    "Skills",
+    "Animated Background",
+    "Tailwind CSS",
+    "Interactive Cards",
+    "UI Design"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3476,
+      "sha256": "7ef9f94f54fea02cb833c6d7fa99a6cbfb7e728fea8d906ad1a216dd82bbbb38"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19796,
+      "sha256": "a056fcec4179cb2c61da017dace57ccf6aa0b2b868700a8c7cb3372f547b07de"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 868,
+      "sha256": "de3ee3b6deadea2fc9309dc830f9c4109d3ac33a6bd074807335604045ec10bb"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "bfb435ebbbaa70672d9f3d3a553b9d91e00926e82de47458be9d3adeb14cb8cc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14449,
+      "sha256": "78d8f4fa7920a11ac8ba1e2cb7152835063bdc2f11c435a3b7e53deab3cca663"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "services"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

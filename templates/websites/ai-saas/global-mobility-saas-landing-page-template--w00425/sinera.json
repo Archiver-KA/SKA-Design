@@ -1,0 +1,60 @@
+{
+  "id": "SN-W00425",
+  "title": "Global Mobility SaaS Landing Page Template",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3736,
+      "sha256": "c1950e6f54a3db4067cfa86ad3ea0e7e4a800cd1af6654422119d60746902127"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14674,
+      "sha256": "60ed3ac47cdfa2faa069019389ccbd8b4398847271e5e8ace32ee62382e9b2be"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 881,
+      "sha256": "e0b6202f9541a5b6cb4e4e289bfad5ae6fea12f01058b4f38d6a2f222429989b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 795,
+      "sha256": "c868356c9fb5a181a1f1aa3a5dbf038f269150037758f9e3d6fecc16c162ee1c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29125,
+      "sha256": "cf5f82eba08e4a83651cc73b66ca5299542a88e438c1d5e6bcc983fdf36909d1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "features",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00028",
+  "title": "Responsive About Us Section with Image & Stats",
+  "summary": "Tailwind-styled about section showcasing studio bio, hero image with glassmorphism statistics, grid-based layout, and CTA button. Fully responsive from mobile to desktop—ideal for agency or company landing pages.",
+  "tags": [
+    "about-section",
+    "company",
+    "tailwind",
+    "responsive",
+    "grid",
+    "image-overlay",
+    "stats",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "about",
+  "categoryLabel": "About & team",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 34158,
+      "sha256": "de3cebae3c9206badad484eb0d58e50c8007338e088c329551bd7c502cbfb2a1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7101,
+      "sha256": "bb7b99b59ee41ef843b88ce9f5fd9f5b47dc104599a656d77245c91ea862c0e6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8102,
+      "sha256": "50098d0bc82a9d7235c59a1b6242da0b6f6e46a26d1d588a7d762b5b6945aeb6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

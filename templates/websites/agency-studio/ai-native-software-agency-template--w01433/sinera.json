@@ -1,0 +1,92 @@
+{
+  "id": "SN-W01433",
+  "title": "AI-Native Software Agency Template",
+  "summary": "A high-performance landing page template for AI agencies and software developers looking to build scalable apps for creators.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Services",
+    "Dark",
+    "Clean",
+    "Futuristic",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "react",
+  "entry": "package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4007,
+      "sha256": "244b59e24b09b46102c9bff90403f6b8fc836e86a3a356f3f526a6b7d19402f4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20466,
+      "sha256": "aa0fb818d156453f5613694a5da4d91feadd40278a34ead3353cfb78a18a6832"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "6bcd5d2f2ce5512dcb2440b3e5a61ed6fa0fd53a71da274f2cc966723e612d87"
+    },
+    {
+      "path": "index.html",
+      "bytes": 688,
+      "sha256": "d0dc9ec9007ce860e7b2bf32007c17a1cb0afa17e1b8b59f248043486eba8789"
+    },
+    {
+      "path": "package.json",
+      "bytes": 842,
+      "sha256": "701eb45cd6fc45b6570cbf24c2d4defd0664d6e12a1efedfc0fb4a6266a10ce4"
+    },
+    {
+      "path": "postcss.config.js",
+      "bytes": 81,
+      "sha256": "e32657baf631d7c5f4dc67b4b2ee0ec8e7d5b3c41860e09cddce7c0377cd80bc"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 26541,
+      "sha256": "28a571b94a3e3f16777191abba83ffd59823aad24957b71785d58ce7ad413b41"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 1894,
+      "sha256": "cc8c930c068e7a1c398a872d4c3f21a141e1ed3cf7e99d6e58935efe81ff2413"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 256,
+      "sha256": "15e60f21ff6a7cedd9dc6aa2364ae2891f1b34cd865b9b94485f05480c5f8c1a"
+    },
+    {
+      "path": "tailwind.config.js",
+      "bytes": 170,
+      "sha256": "1b680285edb90900758fbe8cef6fd1cb134d369a5b7023d9217cb7faa7282858"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 162,
+      "sha256": "87ac60e3714684634c176021d3086b9717730ea98f44f7397036dc52dac98eca"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

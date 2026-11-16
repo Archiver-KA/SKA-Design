@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01467",
+  "title": "Responsive Hero Feature Section with Image and Navigation",
+  "summary": "Two-column feature showcase built with Tailwind CSS. Includes a full-width image panel with gradient overlay, content panel with heading, stat and arrow buttons for step navigation. Ideal for landing page heroes, product intros or feature highlights.",
+  "tags": [
+    "hero-section",
+    "feature-showcase",
+    "tailwind",
+    "responsive",
+    "image-overlay",
+    "navigation-buttons",
+    "grid-layout",
+    "landing-page"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18282,
+      "sha256": "48c02a9a274268db655a9d199010fbe5d9a163f943e90f55206f06bb5eb6a02d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4530,
+      "sha256": "b1253acaaa9d29d9c7643622ea5b313576231b98eae6f654717e3b4468490005"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5538,
+      "sha256": "15cb14d5b3649da2ac316053c8b705d43137a82360b54c76b4ed98495b238942"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00874",
+  "title": "Responsive Services Section with Gradient Cards",
+  "summary": "Dark-themed Tailwind CSS section showcasing four service cards in a responsive grid. Each card includes icon, price, feature list, and hover gradient effects—ideal for agency/portfolio sites to present offerings.",
+  "tags": [
+    "section",
+    "services",
+    "pricing",
+    "tailwind",
+    "responsive",
+    "hover",
+    "grid"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 27072,
+      "sha256": "0791f9a8cf2b3ac4579612104f786126fbe3d8417dfe435b00a45c93bba61ad4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 16612,
+      "sha256": "86f74b4809f792ee2a11820c12b3a18cd55171ea7c5b518cde8130d86c5f656f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17480,
+      "sha256": "14460a2e48ae91f402db45a33a9b8737c38aff6cd64abcc63620f7342470f5be"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

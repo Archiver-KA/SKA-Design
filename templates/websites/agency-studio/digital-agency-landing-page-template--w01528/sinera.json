@@ -1,0 +1,77 @@
+{
+  "id": "SN-W01528",
+  "title": "Digital Agency Landing Page Template",
+  "summary": "A premium digital agency landing page template with futuristic branding, services, pricing, cases, and blog sections ready to customize for your studio.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Portfolio",
+    "Futuristic",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3604,
+      "sha256": "4f5d88e4ac22e05ec07b8e1f728487649904a53ea8de7d7ad522821ecc0635bc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 23540,
+      "sha256": "f4c2d26cb1f35121a76ba307a563a66b7883318719423dea052c21957d919b33"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 958,
+      "sha256": "5b06cca1c6a5406f81c166e7d9f88426d8a68141892d8c1531bf58755d8a5c29"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 261,
+      "sha256": "1f49bf6f11aefb1d9139df4c91293b435886c15da4276a2df6e76a81b95117fa"
+    },
+    {
+      "path": "index.html",
+      "bytes": 43068,
+      "sha256": "774f4cb810de0a16e5557d19a7401b75fb2ddd9103813164669b061acf35f9d2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "services",
+    "logo-cloud",
+    "stats",
+    "blog-articles",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

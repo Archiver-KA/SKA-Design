@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00161",
+  "title": "Gradient \"Create Account\" CTA Button",
+  "summary": "Full-width purple gradient button built with Tailwind utility classes; features smooth hover darkening, responsive sizing, and clear call-to-action labeling for signup or registration flows.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "gradient",
+    "responsive",
+    "hover",
+    "signup"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3332,
+      "sha256": "3c8557de30f0cac548ce87e74195ab7790cb09043aab380fd67c1de1ba2d3254"
+    },
+    {
+      "path": "component.html",
+      "bytes": 366,
+      "sha256": "f4908d09c11fdea0b5831a550784744e5155e0ed46ea05977f46757f3a9dc9dc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1223,
+      "sha256": "a459b13f52c0bb4c765682c6a878576f27f6bd8c2e08b2bec4d6fde32830b773"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

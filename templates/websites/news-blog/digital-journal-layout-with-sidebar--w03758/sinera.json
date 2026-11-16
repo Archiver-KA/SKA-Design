@@ -1,0 +1,143 @@
+{
+  "id": "SN-W03758",
+  "title": "Digital Journal Layout with Sidebar",
+  "summary": "Responsive journal UI featuring a header navigation, sidebar with metadata, and styled content using Tailwind CSS and custom fonts.",
+  "tags": [
+    "Journal",
+    "Sidebar",
+    "Navigation",
+    "Tailwind CSS",
+    "Responsive Design",
+    "Metadata",
+    "Custom Fonts"
+  ],
+  "kind": "websites",
+  "category": "news-blog",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3253,
+      "sha256": "7fc7f6f6ac261866f5c53e27ccf11c5b9ab59d8fa072dceeee5a3469dad17d85"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18156,
+      "sha256": "1da76635baa97a3a5d6e05584561971f8fedf466d0b95643d1f661e0fa903a4c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 3928,
+      "sha256": "e086d72060febd1f69ce500e3ae6a7419e401ec5c71895d300bb6f31d8a3787d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 428,
+      "sha256": "385b99b21625403892af60425c2cb1c8b91d2fecbf332fdab1edaf4a0e7d1ee4"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 318,
+      "sha256": "9bd3a4eae152f728247607eee6055fd45a0a3c1497de8e29f9e0a4de53c3d7e2"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 385,
+      "sha256": "c7bb157fb878249d457c1523bccdab8b575da76bab5246eeb0b1293630e4b7e9"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 335,
+      "sha256": "173ca1a9874daf262c7578abbce2cc1925b83d80bbef0a7fe044483b599fe7c7"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 379,
+      "sha256": "8a1f17bc9146da0c99f14864d1f540dd087c25976ab468095cb00bf622b80646"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 567,
+      "sha256": "9150f711d56a8111c15427273e8fda4923e62a543bdea22433942b1ca2dc8fcd"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 442,
+      "sha256": "43883384c9162972aae3b02700e0385caf62c56af0a7c3b5ae5b2f5df6cd10fc"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 344,
+      "sha256": "40e434929ce29680241bfafdbbd6a8d64013b32dfd8ac70c5da3e7740a6c63a2"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 336,
+      "sha256": "2c854e95ecfb9a876b2bf4fc633cafa88983fad09e087388ecf4a857e6bed296"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 414,
+      "sha256": "0847099e1c76fcfdff896334257cc16158a10a374175742f04d4a61380e2008c"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 443,
+      "sha256": "ba34bac54302f813c6c2711938668dede19748feb9e25cbbbef29035f026581e"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 410,
+      "sha256": "f63dde4ee8cf1967b9dbf4001a170efb4793f8c48d665acf1779efe52fadc1ed"
+    },
+    {
+      "path": "images/embedded/embedded-0013.svg",
+      "bytes": 323,
+      "sha256": "4a5cedd8e5ebec4702d5685d0cbf237827e64740bbe780024d4ebdd4004ae31a"
+    },
+    {
+      "path": "images/embedded/embedded-0014.svg",
+      "bytes": 288,
+      "sha256": "9a039c539c62dda8c2463936ab4a0047a1b22a6d6a85ade7006f30689faf5be9"
+    },
+    {
+      "path": "images/embedded/embedded-0015.svg",
+      "bytes": 404,
+      "sha256": "c4d69ef9c92e17a4dafd873a4e43e6bbdb0a6271354a4a5cedc7c92cfbdfaf0b"
+    },
+    {
+      "path": "images/embedded/embedded-0016.svg",
+      "bytes": 312,
+      "sha256": "50c3c62696d5cf460e1afdddb1355229678e2ad29a00c57815cb9c414fccab3e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16980,
+      "sha256": "f3a8c59e868fc54f9e21f7f6fed6e4e322d1e981bed2cdebff36956c1f4f670a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "content",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Content / News",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "snippetType": "sidebar",
+  "design": "DESIGN.md"
+}

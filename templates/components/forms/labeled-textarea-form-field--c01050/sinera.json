@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01050",
+  "title": "Labeled Textarea Form Field",
+  "summary": "Complete form field with label, helper text, and textarea. Ideal for collecting detailed user input with context and guidance",
+  "tags": [
+    "form",
+    "textarea",
+    "input",
+    "label",
+    "field",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7118,
+      "sha256": "5a053a35aaa511d1ef8dd90eed8e1fd8a59f24fbdbc0fe445c07952a4eb8d972"
+    },
+    {
+      "path": "component.html",
+      "bytes": 646,
+      "sha256": "bfb149f145d65f0171ce674bfbb85dce47fb9255e17fa082c46ab20825bb69c9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1494,
+      "sha256": "4db952cccd4b030b00f209075d3f03acdb3cb069064d3b51afe50d27c4e03e9e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

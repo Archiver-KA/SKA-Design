@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02080",
+  "title": "Responsive Pricing Section with Animated Plan Cards",
+  "summary": "Full-width pricing component showing Starter and Pro plans with gradient cards, animated hover CTAs, and scroll-fade intro. Uses Tailwind CSS, responsive grids, glass/gradient effects, ideal for SaaS landing pages needing clear plan comparison.",
+  "tags": [
+    "pricing",
+    "section",
+    "cta",
+    "tailwind",
+    "animated",
+    "responsive",
+    "gradient"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 31704,
+      "sha256": "ca49360e21c128af0f7919ee8e5dc7081a7406e182d91761f9d1cfe2147c46e1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 14170,
+      "sha256": "04d65ac865f0b6e098a69ddb1445b4d9f4e7630edcd4d54b056251db4760690c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15042,
+      "sha256": "87d8cb25b2067e9805ec64c39d7b98b8e77671c28ae03a88b38469db484ba619"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

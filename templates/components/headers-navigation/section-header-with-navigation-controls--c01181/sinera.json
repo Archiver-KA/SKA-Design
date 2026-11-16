@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01181",
+  "title": "Section Header with Navigation Controls",
+  "summary": "Dark-themed section header component with title, subtitle, and circular navigation arrow buttons. Responsive design hides navigation on mobile devices.",
+  "tags": [
+    "heading",
+    "dark",
+    "navigation",
+    "responsive",
+    "minimal"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3096,
+      "sha256": "a9a56d72b59c996c177be6567f957ac1a6e412d73c0cb1d8206df9a757a7477c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 945,
+      "sha256": "1d3594a8e7e956984b51e4f807c441f6f7a2344ebfa9f6ed7372a30ac0d5ea6f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1895,
+      "sha256": "5d4e6a7d21bf1a9c996216a01f3d7b10c1554b4069c59beced96f42a49f593ef"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

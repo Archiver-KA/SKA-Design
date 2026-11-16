@@ -1,0 +1,65 @@
+{
+  "id": "SN-W04034",
+  "title": "Orchard Agricultural Landing Page Template",
+  "summary": "A seasonal and brand-focused landing page template designed for orchards, sustainable farms, and artisanal food producers.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Services",
+    "Minimal",
+    "Large Type",
+    "Brutal",
+    "Clean",
+    "Business Category"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3067,
+      "sha256": "20eade86d7ce350f2bac5530f18b50a4b7d6e5fc916ffa16dcc7d1592650d5db"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15582,
+      "sha256": "285be4611d8f7fa43eda2882d7d131a251d0bae126ce91ee302c8aafcfa5a606"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 737,
+      "sha256": "3f06feb3729047193548e6926eea0fbcd98f24ee9f4ac6bdff96cb724ef8620d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31317,
+      "sha256": "5845f92db310cf24a7725784bfd15db340182f6be4609227e5e7d13a9a2ca324"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "cta",
+    "blog-articles",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

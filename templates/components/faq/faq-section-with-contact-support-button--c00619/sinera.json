@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00619",
+  "title": "FAQ Section with Contact Support Button",
+  "summary": "Two-column FAQ block styled with Tailwind CSS. Lists common questions in card layout and includes a call-to-action button for contacting support. Ideal for landing pages, product sites, and dashboards.",
+  "tags": [
+    "faq",
+    "section",
+    "tailwind",
+    "responsive",
+    "cta",
+    "support",
+    "card",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "faq",
+  "categoryLabel": "FAQ & accordions",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18860,
+      "sha256": "37bbc75cbbc6212213f9a4284b5b4e36a3752bce4ca883e2689d0ccae15cebda"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2213,
+      "sha256": "97aa8fa92bdfefbfd3cbae300f0581d5544743ad22edd21bc684d50864aa72c3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3073,
+      "sha256": "6a5df24d9acc978315d87b5f2fa7a61b91c4d7bd234b6c12d0dcc6d3210dcd6c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

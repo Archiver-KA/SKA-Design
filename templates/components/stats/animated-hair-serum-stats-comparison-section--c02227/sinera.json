@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02227",
+  "title": "Animated Hair Serum Stats Comparison Section",
+  "summary": "Full-width Tailwind section showcasing an animated percentage counter and comparison bar chart between usual and minimalist hair serums. Uses IntersectionObserver to trigger number and bar animations on scroll, ideal for highlighting product performance metrics.",
+  "tags": [
+    "feature",
+    "section",
+    "animated",
+    "responsive",
+    "tailwind",
+    "stats",
+    "comparison"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12324,
+      "sha256": "384f28d962bb3e520b428eebca854be881de7a765631bae1bf1afc567912ab07"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4475,
+      "sha256": "389be7af8df8ba6973be66c5380c4b80cfa2e3670217181cc1bb5f7bd13832b4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5340,
+      "sha256": "40908f362afdbfabcc169ae72e6c3a1825e200b3c0025806b25cdd77455524ae"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

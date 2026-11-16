@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01525",
+  "title": "Award Recognition Section with Responsive Grid",
+  "summary": "Full-width section highlighting company awards. Features bold headline, subtle dividers and a responsive Tailwind CSS grid displaying award name, category and year. Ideal for landing or about pages to showcase credibility.",
+  "tags": [
+    "section",
+    "awards",
+    "list",
+    "tailwind",
+    "responsive",
+    "grid",
+    "about",
+    "credibility"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26208,
+      "sha256": "b158469f16889d9152da76f5fa4cf87ceafc493e433092f1997c52a0eb87e36c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3641,
+      "sha256": "6ba7b02442ed7ea583a3d2ebaaf96bd88b8475749b81ccabc628b97cf7062515"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4508,
+      "sha256": "5db3135248b80bb4ef13841f7187832ab8c33072ef1bff7f9ac70924e07fddff"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

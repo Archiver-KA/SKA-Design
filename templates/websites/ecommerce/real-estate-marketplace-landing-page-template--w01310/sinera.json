@@ -1,0 +1,82 @@
+{
+  "id": "SN-W01310",
+  "title": "Real Estate Marketplace Landing Page Template",
+  "summary": "A premium, grid-based real estate template for property listings, including advanced search filters and specialized category navigation for buyers and renters.",
+  "tags": [
+    "Real Estate",
+    "Technology",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Grid",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "react",
+  "entry": "package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3424,
+      "sha256": "5035ac9c21ad16d675631fe678a80aba17e42a00e5b54308d125035459a2344a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 46752,
+      "sha256": "edbf419794cc6397a7faeee781dc7364ece175df204d0b57b0ac7dc8ff07d8d2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "6ef05bbbc43464a4572e3ab3c04df2b101c2f6e977f29a2736f61b65c3e72f27"
+    },
+    {
+      "path": "index.html",
+      "bytes": 595,
+      "sha256": "92bbf9792de28dd18130384d4d50533c111e929f8567a5dd02d61837d9933e79"
+    },
+    {
+      "path": "package.json",
+      "bytes": 540,
+      "sha256": "1f80a39a0709f4895b3be4299f262835aff2aab6db677757deea47384cb64b46"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 30800,
+      "sha256": "5a279ad3c592e6118e55344eb3f3c49bcc3c17a291a30d543ea05284c4aa4963"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 1221,
+      "sha256": "25f7565e6ebb5708d15170a0e943e016b9ecfeeeb0af29a6e407e4bfc4a8400a"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 262,
+      "sha256": "c4a3627cf9188552ccf7d514f3611cb381e96e644a3ad0eec62a0c017f65aa7d"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 226,
+      "sha256": "cdc1763369a305dd2cc7d83e3b19b447f985089e744932a9fbf520975e41ac72"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

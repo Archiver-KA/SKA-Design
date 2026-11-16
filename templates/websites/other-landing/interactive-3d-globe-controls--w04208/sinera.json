@@ -1,0 +1,69 @@
+{
+  "id": "SN-W04208",
+  "title": "Interactive 3D Globe Controls",
+  "summary": "UI for adjusting a 3D globe's rotation, tilt, scale, colors, and lighting with interactive sliders and color pickers.",
+  "tags": [
+    "3D Globe",
+    "Controls",
+    "Canvas",
+    "Tailwind CSS",
+    "Color Picker",
+    "Interactive UI"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3084,
+      "sha256": "60b70e44a35143668ef8f301fdae6f9ee2252175cd8535aa419d683dd44b0b49"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6724,
+      "sha256": "66d79a0fc9bf708491c4f4bcb76a081b34b602ab58b7abd2e8a6ce6fa592b757"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1064,
+      "sha256": "9b4f04afc1a6fb506bcec375ae29d9f864bb783fea550712572bdc8e32c08138"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 657,
+      "sha256": "0c44ee51d4f33be94251dc4849e3c31679ca286ca7ea81581a3a8e20961d64e0"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 182,
+      "sha256": "b7dc017843d53bff1bf0f6572f6050a4d9287a432514f9aacd7aac996983bd74"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17211,
+      "sha256": "9f4ed34e8d377af3b953daa94bb97df5c63dfdfe5ff9b0a03c38f8f69ae96d90"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "3d-canvas",
+    "cta"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

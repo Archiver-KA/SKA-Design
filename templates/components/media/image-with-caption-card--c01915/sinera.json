@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01915",
+  "title": "Image with Caption Card",
+  "summary": "A clean image card with caption area below. Features white background, rounded corners, and shadow. Ideal for blog posts, portfolio items, or content previews with descriptions.",
+  "tags": [
+    "card",
+    "image",
+    "white",
+    "caption",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19160,
+      "sha256": "99877f19f8eb028e0cf9ec1e54b961bce02dc3216b5b64fcc8e58bb2a65e5787"
+    },
+    {
+      "path": "component.html",
+      "bytes": 521,
+      "sha256": "71ee145f69e63be19046281f404bbe90c578d2f8b3d85e0cc8d8c1fe0d24bf36"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1365,
+      "sha256": "05510520f0be593454be0f3ae35364b9fa098bc0ca430c4947a2ec7362500638"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SN-W02707",
+  "title": "AXE Black Product Landing Page Template",
+  "summary": "A sleek, modern landing page template designed to showcase premium fragrance products with interactive 3D visualization and key feature highlights.",
+  "tags": [
+    "Landing Page",
+    "Product Showcase",
+    "3D Visualization",
+    "Fragrance",
+    "Features",
+    "CTA",
+    "Scroll Animation",
+    "Responsive",
+    "Modern Design"
+  ],
+  "kind": "websites",
+  "category": "beauty-fashion",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3637,
+      "sha256": "0ec492e5d65a93d06aafc56a616ae8e5e2cca3467f6fa3de456623b9143815b0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10928,
+      "sha256": "f7f10df05bb8d09797c498d5d2782ad463638b5902f779ebdfc2b8f073a55dc5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "30d9d02da525b75ee0c27f135e24d23082e91ab1a5d0b29b9a62d2133d753134"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24241,
+      "sha256": "10c2a840d4b4ad0885aa007c7df09487313f83dacb0c74592845074eae47817c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "beauty",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Beauty / Fashion",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "navbar",
+    "hero",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

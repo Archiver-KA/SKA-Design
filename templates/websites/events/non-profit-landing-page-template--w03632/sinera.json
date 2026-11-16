@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03632",
+  "title": "Non-profit Landing Page Template",
+  "summary": "A reusable non-profit landing page template for NGOs that showcase mission, impact, programs, transparency, and donation opportunities.",
+  "tags": [
+    "Non-profit",
+    "Landing Page",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Animated",
+    "NGO",
+    "charity",
+    "donation"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3799,
+      "sha256": "bc19abf18d5813cc41d3092a1f5538427bc6c07c911ff086183949da7868d5c7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14452,
+      "sha256": "d597bdd40e6186efef6892ea38750978a3b159eb22fe94f12ad254f327a2dc73"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 717,
+      "sha256": "72d55feaf45133940d59f611c37b3b76ca9221de7cb0ba8df04d67f12750b1a2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 56609,
+      "sha256": "e533a4d3cec03c5073dcb16607ab2f0c1b40f1dd7d42a2b274b966c5acbdde5c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "stats",
+    "modal-overlay",
+    "marquee",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

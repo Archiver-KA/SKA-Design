@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00876",
+  "title": "Responsive Tailwind Feature Grid with Service Cards",
+  "summary": "Section displays multiple service/feature cards in a responsive 1‒12-column grid. Includes images, icons, numbered badges, dot-matrix accent, and adaptive heights using Tailwind CSS—ideal for SaaS or agency landing pages and marketing sites.",
+  "tags": [
+    "feature grid",
+    "card",
+    "tailwind",
+    "responsive",
+    "landing page",
+    "marketing",
+    "services",
+    "grid layout"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 47468,
+      "sha256": "de6b7926a41b4033d95c8d41b763b1cf63e318c7f51f86b4568b70c2bee13803"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7350,
+      "sha256": "cc3cf3cdd21eb8142df688dd0a42a4732d7dccc2c4a9fd9256220272ffb5eb43"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8352,
+      "sha256": "64a4bd6bff219df68f8300e9b4009b5b726aa58133ab29e027eb3edba618e04d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

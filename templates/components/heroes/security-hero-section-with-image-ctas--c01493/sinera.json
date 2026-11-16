@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01493",
+  "title": "Security Hero Section with Image & CTAs",
+  "summary": "Responsive two-column hero built with Tailwind CSS featuring image, headline, sub-text, dual call-to-action buttons, and mini feature cards. Includes fade/slide animations—ideal for security or SaaS landing pages.",
+  "tags": [
+    "section",
+    "tailwind",
+    "responsive",
+    "cta",
+    "animation",
+    "security",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 23466,
+      "sha256": "46b9cdfa832216d99e33fa8112cc8daa7b47bc1f925181b44099ed2c261ff364"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4809,
+      "sha256": "72c85e54ea946f8c590765f0879796a29218efad75feaffb80675eec4652f5d3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5803,
+      "sha256": "0e053abd533a7b967e9800c136f9c334aa95db04049dcda4143697191b8b81ba"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

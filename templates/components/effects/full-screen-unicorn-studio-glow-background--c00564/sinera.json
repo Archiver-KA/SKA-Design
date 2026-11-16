@@ -1,0 +1,36 @@
+{
+  "id": "SN-C00564",
+  "title": "Full-Screen Unicorn Studio Glow Background",
+  "summary": "Full-screen background container integrating a Unicorn Studio project as an animated glow effect. Uses a viewport-filling wrapper and script loader to initialize the UnicornStudio embed, ideal as a visual background for landing pages or hero sections.",
+  "tags": [
+    "background",
+    "unicorn",
+    "animated",
+    "responsive",
+    "embed",
+    "visual-effect"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 94532,
+      "sha256": "b3b08fd07474be5ca58d9c6518a93e311d97f4a9059ec306158c1784d9430c87"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2048,
+      "sha256": "05e7ae55fe2e6064c49cdd1021ef3399d6ebcb631196a34db296ed7cda7bd9ec"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

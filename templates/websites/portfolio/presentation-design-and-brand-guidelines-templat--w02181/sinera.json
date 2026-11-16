@@ -1,0 +1,91 @@
+{
+  "id": "SN-W02181",
+  "title": "Presentation Design & Brand Guidelines Template",
+  "summary": "A bold, editorial landing page template designed for graphic designers and presentation specialists to showcase portfolio work and pitch services.",
+  "tags": [
+    "Portfolio",
+    "Brand",
+    "Brand Guidelines",
+    "Graphic Design",
+    "Dark",
+    "Clean",
+    "Animated",
+    "Technology",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "react",
+  "entry": "package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3156,
+      "sha256": "7a201d0f937349259360f372dd98fa8776a2a81a68732e7913b8bdc27c8cc37b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18196,
+      "sha256": "d77b307b8afdb24f51ab41f9c70806245df0d443c97b1d1d60cbd8185ac895f7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "212c827be031106095cdec505821133811c08d4de8af35a32705f7c8428c337c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 588,
+      "sha256": "4b28ed3301e55ee75dcc1ce3c8a2f07cf00c43b0f5dcd48cb04346fe2792ea1e"
+    },
+    {
+      "path": "package.json",
+      "bytes": 594,
+      "sha256": "9582298088ecc709ced14d5b27014c0451894af752470beb28b0450f213eac8a"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 24094,
+      "sha256": "98d39cae56049ada1840b5750910df9d372fa371058597a739233c5a98ba16aa"
+    },
+    {
+      "path": "src/data.js",
+      "bytes": 4802,
+      "sha256": "f2692c85d694b2b2b75ab00973662c9997a0356f0c4593f7625cb7d513def0d1"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 1339,
+      "sha256": "c5f9eeb7d03a98e60c718cfd5f4e3c009c2930ee4253f1e1f2050778de0bd41a"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 257,
+      "sha256": "94c3ae2f8000332ec0ddd396f0263de10a2aa624926f32e6a81de6286a24b1a6"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 226,
+      "sha256": "cdc1763369a305dd2cc7d83e3b19b447f985089e744932a9fbf520975e41ac72"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [
+      "lorem-ipsum"
+    ],
+    "rendered": true
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

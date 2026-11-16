@@ -1,0 +1,53 @@
+{
+  "id": "SN-W04317",
+  "title": "Untitled Design",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3529,
+      "sha256": "b8e923b22e8d741e0de134f7dbbc93478647cd4fa71839634f30182fc48a7607"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10356,
+      "sha256": "36e25420b9e93bbd5a7a2077c03d64a81e76d025c362d03ff1429621c007bef2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 709,
+      "sha256": "b5a6d04d2898897c5c96ccb2ad15c99b8b1fc100bbfba31863942605190fa014"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26712,
+      "sha256": "7e362b963782572504a92c435602e051de36d372f5a22b0dfea69b4e00890478"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "3d-canvas",
+    "comparison",
+    "contact-form"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

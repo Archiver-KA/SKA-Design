@@ -1,0 +1,45 @@
+{
+  "id": "SN-C00006",
+  "title": "Animated Core Values Grid with Flare Effects",
+  "summary": "Tailwind-styled section showing three value cards in a glassmorphic, radial-grid panel. Hover scaling icons and edge flare gradients animate on scroll via IntersectionObserver—perfect for landing or About-Us pages.",
+  "tags": [
+    "card",
+    "grid",
+    "feature",
+    "tailwind",
+    "animated",
+    "glassmorphism",
+    "landing-page",
+    "scroll-animation",
+    "gradient"
+  ],
+  "kind": "components",
+  "category": "about",
+  "categoryLabel": "About & team",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18950,
+      "sha256": "a017779e41e257cda52da7ef8f005d694bb60ad2c2c239a40acac7842c1dbef7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9723,
+      "sha256": "63bc58550b08c96ccf9e724a6fee4d3f1788cfcce03e6f30ad9c28d92d271175"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10588,
+      "sha256": "8a6e736a8b43e823cd34c4f654cc2da0c8beb7bbc8a423c9e7960cd5f96dc968"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

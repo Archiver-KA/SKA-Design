@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00463",
+  "title": "Task List Panel with Search, Filter & AI Suggestion",
+  "summary": "Dark-mode task dashboard built with Tailwind CSS. Includes header with search, filter and add-task buttons, interactive task rows with priority badges, AI suggestion card, and progress stats footer. Suits productivity apps, admin panels or project management pages.",
+  "tags": [
+    "task-list",
+    "todo",
+    "dashboard",
+    "tailwindcss",
+    "responsive",
+    "search",
+    "panel"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18396,
+      "sha256": "c9d72e72852689226c3d6d6dbee8426ae4a99f630f3c46ea4539f0822462ff74"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13950,
+      "sha256": "b07e705faea1d25f13e542e31ba57270e8f25566825daf9e7ac558b47100efea"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14826,
+      "sha256": "ad7e423a377f71bac88c940609369528c2a435f7e817258e2b5db61564dbce2b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

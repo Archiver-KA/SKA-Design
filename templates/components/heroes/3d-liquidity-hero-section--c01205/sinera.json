@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01205",
+  "title": "3D Liquidity Hero Section",
+  "summary": "Dark, immersive hero section with a Three.js WebGL globe, animated particles, glowing network arcs, and bold headline text. Styled with Tailwind CSS and suited for fintech, crypto, SaaS, or innovation landing pages.",
+  "tags": [
+    "hero",
+    "section",
+    "threejs",
+    "tailwind",
+    "animated",
+    "interactive",
+    "webgl",
+    "fintech"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11464,
+      "sha256": "6dcdc5714d47ae306fd448ca985c8db8e119d9f11be7cbfb94350092ced1bbec"
+    },
+    {
+      "path": "component.html",
+      "bytes": 14690,
+      "sha256": "885fcc03a4a747466f36e357493d8c21346de7de0d3efac9bb4d72663df91de7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15536,
+      "sha256": "384d3566131d59efbc8a90489a23cd36fd9c2adf7b1ec2edb61b86ddce6c5fac"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

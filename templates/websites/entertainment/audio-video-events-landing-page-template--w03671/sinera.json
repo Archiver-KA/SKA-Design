@@ -1,0 +1,74 @@
+{
+  "id": "SN-W03671",
+  "title": "Audio Video Events Landing Page Template",
+  "summary": "A futurist dark-mode landing page template for audio video event production agencies to showcase services, portfolio, and capture high-intent leads.",
+  "tags": [
+    "Landing Page",
+    "Entertainment",
+    "Event",
+    "Technology",
+    "Dark",
+    "Futuristic",
+    "Large Type",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3493,
+      "sha256": "b1e7f29265ea45f9c9ff6e84bd982777565b54260668c4da4f687a135abb40c9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2652,
+      "sha256": "9e6e45fea5b9f10b0776ce517cc2fdc9fb1bb7aeb68d64e885c74dcd50bfa170"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 959,
+      "sha256": "c81dee33d79f9ad854716999f204cd9b1d6f57fa895d216cec3190119e7f6d2b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 437,
+      "sha256": "214a16f873acdb2318b53d427bd371cec0799c59bc5eaccb98d94dbd8767a90b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27630,
+      "sha256": "bd7f9e5a04db004537f0207580b8b89a68fe8a1744e7fff8c6ad802c246a71be"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "navbar",
+    "hero",
+    "services",
+    "gallery-portfolio",
+    "testimonials",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

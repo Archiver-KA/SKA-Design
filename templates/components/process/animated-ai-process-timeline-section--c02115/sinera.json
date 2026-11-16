@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02115",
+  "title": "Animated AI Process Timeline Section",
+  "summary": "A dark, full-width feature section visualizing a five-step creative workflow with alternating timeline cards, glowing nodes, and scroll-triggered animations. Built with Tailwind-style utility classes, custom CSS, and IntersectionObserver for product or AI platform storytelling.",
+  "tags": [
+    "feature",
+    "section",
+    "timeline",
+    "animated",
+    "interactive",
+    "dark",
+    "tailwind",
+    "workflow"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9942,
+      "sha256": "18aabe64e15ea6a5b8932e318ab732e3a62f7743025f3e0f3cf43b07c43ab683"
+    },
+    {
+      "path": "component.html",
+      "bytes": 16131,
+      "sha256": "42a931b5af5ebbf5ba3a69320bb142fef0f269b0dcb8a12caf77806d71ab3e2c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17078,
+      "sha256": "724a7b0281b2da9a5356e01de00dbd0dc83ef993f5e64404cc255c66c79c6a93"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

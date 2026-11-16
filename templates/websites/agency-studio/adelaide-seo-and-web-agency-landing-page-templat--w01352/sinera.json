@@ -1,0 +1,69 @@
+{
+  "id": "SN-W01352",
+  "title": "Adelaide SEO & Web Agency Landing Page Template",
+  "summary": "A dark, futuristic landing page template for Adelaide-based SEO and web development agencies to showcase services, case studies, and capture high-intent leads.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "SEO agency",
+    "Web development"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4003,
+      "sha256": "5369e013449936f99dc2fa5d246ac6c47f665b02a215aa5e8049026287544460"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14722,
+      "sha256": "2af347ccf0c1a4297b751bf2a357052c4dd124b2636ed06b5f00eca7cb4da1d5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 741,
+      "sha256": "1dd483123051fbe1de0e79893b0eca53d31b2dc7d5ab7dfb60643e93bf828c11"
+    },
+    {
+      "path": "index.html",
+      "bytes": 57269,
+      "sha256": "05539e07d11f39d0c1d878d0f1d796348388e7775d91709c627b69dff5a18f95"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "how-it-works",
+    "stats",
+    "testimonials",
+    "cta",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

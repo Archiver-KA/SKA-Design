@@ -1,0 +1,74 @@
+{
+  "id": "SN-W03647",
+  "title": "Running Event Landing Page Template",
+  "summary": "A dark, energetic landing page template for promoting city running events or marathons, featuring distances, schedule, partners, and registration CTAs.",
+  "tags": [
+    "Landing Page",
+    "Events",
+    "Sports",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3916,
+      "sha256": "f558d774c74b76b255dbb06b6fd6de6acc22eaf8ad584240cd336b30b355e226"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14904,
+      "sha256": "ee7d6dc4fa47ed75df0947534abc3cc5a3c34651785b1435168a47ab7384f25a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 949,
+      "sha256": "fe8582875bf76c6476f50fe5b22162f918a8b02325c76c827f5ff86d61d22bb5"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1188,
+      "sha256": "65d4343adae2ad8804e0401b1d12df9daf10f38ee6a0200db16c4d55ec641435"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34852,
+      "sha256": "fa94df486eb83db81675b50ad0f1d5019eb72a0c1bb6bc9d65fed12156766082"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "features",
+    "cta",
+    "map-location",
+    "services",
+    "logo-cloud",
+    "gallery-portfolio",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

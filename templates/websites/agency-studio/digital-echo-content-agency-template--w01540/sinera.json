@@ -1,0 +1,70 @@
+{
+  "id": "SN-W01540",
+  "title": "Digital Echo Content Agency Template",
+  "summary": "A high-impact landing page template for creative agencies, focused on video production, digital strategy, and AI-driven content creation.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Services",
+    "Portfolio",
+    "Clean",
+    "Dark",
+    "Animated",
+    "Futuristic"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3645,
+      "sha256": "1d7dd8c177c107b7c909ecbc811f3abf0301af91237912413795668d9d0f26f2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19662,
+      "sha256": "acb112968b2377e95dfdd9fccdc7e1dcff7f253f4043857c5e7c81ba691c700e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 813,
+      "sha256": "35343d8f4283af115a6bf832f78a536224afaefaecac04fb962d049bc7c496c6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 53039,
+      "sha256": "fbb754f7187a8bc83e266e751030e982a6e99882fbd00933412ceaba5651b8c2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "video-media",
+    "testimonials",
+    "features",
+    "contact-form",
+    "blog-articles",
+    "schedule-agenda",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

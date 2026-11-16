@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00565",
+  "title": "Full-Screen UnicornStudio Background Container",
+  "summary": "Absolute-positioned full-screen container that loads and initializes a UnicornStudio visual experience via external script. Ideal for embedding animated or interactive backgrounds behind page content.",
+  "tags": [
+    "background",
+    "unicorn",
+    "embedded",
+    "interactive",
+    "animated",
+    "script",
+    "full-screen"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 24210,
+      "sha256": "dd6da04055d1590e17eb6af074756081b89ebf30b535792610704e2a924b8e77"
+    },
+    {
+      "path": "component.html",
+      "bytes": 710,
+      "sha256": "25ffb1c1796b98af9060d342b0eec1dfd2e36a78c81d1ef469471962085dd4c9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1577,
+      "sha256": "1fae3b53fe1f96ec6e9b13e077c4d044ca30eb6733c433e709ed2d3adfc488ef"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

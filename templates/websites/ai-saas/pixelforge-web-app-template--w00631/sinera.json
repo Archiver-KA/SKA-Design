@@ -1,0 +1,60 @@
+{
+  "id": "SN-W00631",
+  "title": "Pixelforge Web App Template",
+  "summary": "A high-performance interactive pixel-art drawing and 3D physics simulation template built for creative web applications.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Art & Design",
+    "Animated",
+    "Dark",
+    "Minimal",
+    "Futuristic",
+    "3D"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3211,
+      "sha256": "8312d08494285c378f8fa202e743308b5b91325ef6d4fc153daec2da24999a5a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3716,
+      "sha256": "1ab649b3222752269e94d34935e7d7e388e0c8bd035238f6bb0e611c8cd5f8d1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 721,
+      "sha256": "ec2815cef0bc956a8efd53fc1ee46245126fc21097f5ca8a25b81e9ff50f4d88"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39297,
+      "sha256": "282c1efe75f83d82d026485fed7c15b79c7494a81ba83ebc7099e45ab9a47582"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "cta"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

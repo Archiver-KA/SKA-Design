@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00939",
+  "title": "Dark Footer with Navigation and Social Links",
+  "summary": "Full-width dark footer featuring a logo, primary navigation links, social media icon buttons, and copyright text. Built with utility classes (Tailwind-like) for responsive layout and hover states, suitable for marketing or content sites.",
+  "tags": [
+    "footer",
+    "navigation",
+    "social",
+    "responsive",
+    "tailwind",
+    "layout"
+  ],
+  "kind": "components",
+  "category": "footers",
+  "categoryLabel": "Footers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4716,
+      "sha256": "ff93756ada2420438d577c7b7cdb3e1f28bd2ca8de787e8d0c6bef4215d53015"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5434,
+      "sha256": "6507c2ad491fd6f85870d4ddea6e2844e50b89b4ea6b887209573f66f8894cf8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6392,
+      "sha256": "60a2bc4746b57fea7901e59a1bf73807ea4756ddd2637dfdc81f4fa7cb2eaf08"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

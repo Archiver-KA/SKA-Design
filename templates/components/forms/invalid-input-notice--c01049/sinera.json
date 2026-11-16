@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01049",
+  "title": "Invalid Input Notice",
+  "summary": "A simple notification component that displays when invalid or unsupported content is provided. Shows a clear message with an icon and helpful text.",
+  "tags": [
+    "card",
+    "alert",
+    "notification",
+    "warning",
+    "message"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5444,
+      "sha256": "e7864a2254c338527ca8f7597144e1db049e84be6a7144615d29ad68bc9e0f49"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1020,
+      "sha256": "dea40e907bc8ebbbb2e519018f277ea2d2e9b7305ef638cd8012420dff1a5ec3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1861,
+      "sha256": "e075d0e799ba1c4e1e31dc5c7139e2ec49a77d0ad5fc93a0fbf6f1f2db832533"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

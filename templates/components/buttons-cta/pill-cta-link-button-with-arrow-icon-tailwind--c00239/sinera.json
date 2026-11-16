@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00239",
+  "title": "Pill CTA Link Button with Arrow Icon (Tailwind)",
+  "summary": "Pill-shaped call-to-action link styled with Tailwind. Shows label and arrow icon in translucent circle; on hover it scales, gains shadow, tints backgrounds, and nudges the icon. Suited for navigation links like “All articles” or other prominent actions.",
+  "tags": [
+    "button",
+    "link",
+    "cta",
+    "tailwind",
+    "hover",
+    "animated",
+    "navigation"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1596,
+      "sha256": "38db35b2a3672f4c54d6c156fa28be769967c33e28ce057043069b3f0055c7b8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 816,
+      "sha256": "d15d30b56d1b105f08cc313e234cd6e63dfcdf2a87ba8103b23c1f14d717700d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1684,
+      "sha256": "4ad43e1d32529bd2d2946c30c668c31f026199bdeff26c9632a85347a120e613"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SN-W04216",
+  "title": "Interactive Global Network Visualization",
+  "summary": "Displays an interactive 3D dots network with location details using Vanta.js and Tailwind CSS styling.",
+  "tags": [
+    "Network Visualization",
+    "3D Animation",
+    "Vanta.js",
+    "Tailwind CSS",
+    "Interactive UI",
+    "Location Info"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2980,
+      "sha256": "f7406a1af161229e7189eb23d1295b250d02b0d7df1bbef9a4ee9b17d52e8cdf"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6388,
+      "sha256": "8424efbe1c8d071bac618deba2d1446ea32a42c3dcb078a156f7825b4d8b8125"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "9ae64b1d6f919387e9a07f61b7b24aacf0248c867de1f6164923b34a18d51e09"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2684,
+      "sha256": "586d46a77db41c654517fde37e8608dd8972d1ac807fa68022aeee2b4fafd1ca"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

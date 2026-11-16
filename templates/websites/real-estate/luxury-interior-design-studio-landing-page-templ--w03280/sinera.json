@@ -1,0 +1,71 @@
+{
+  "id": "SN-W03280",
+  "title": "Luxury Interior Design Studio Landing Page Template",
+  "summary": "A reusable landing page template for luxury interior design studios to showcase services, projects, testimonials, and consultations in a refined, modern layout.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Art & Design",
+    "Interior Design",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3828,
+      "sha256": "b10cba716b8a1f37f983b17441834a92df2041da47fa4d356e6599e296cdac17"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6312,
+      "sha256": "87db57fc868516905caaec54ff76f473e680c1c0c562b2c5c28ead40baf5c2a8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 741,
+      "sha256": "8ad4cb62979991d63dcb9e5be0b78540437eb44b3ae695ab55845a4f673a4a72"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42404,
+      "sha256": "8d58e203e9e05b181c50b649cade3aaf02e6801b9f3fb76188665c74cfc9228d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "about",
+    "services",
+    "case-studies",
+    "logo-cloud",
+    "testimonials",
+    "blog-articles",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

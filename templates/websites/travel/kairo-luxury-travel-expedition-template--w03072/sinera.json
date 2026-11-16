@@ -1,0 +1,110 @@
+{
+  "id": "SN-W03072",
+  "title": "KAIRO Luxury Travel Expedition Template",
+  "summary": "An immersive luxury travel landing page template designed for high-end expeditions and remote retreats featuring interactive 3D elements and smooth storytelling.",
+  "tags": [
+    "Travel",
+    "Landing Page",
+    "Animated",
+    "Minimal",
+    "Large Type",
+    "Dark",
+    "Clean",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2695,
+      "sha256": "6944aafcc94edde97ea627faba663779dc541e8a2c6fcd0f64d18e60dfee82a3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1386,
+      "sha256": "0cc5d23bc47675147eafe1b0506e74e169ef92a6011f694faed12f84d33052ea"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2242,
+      "sha256": "478bdc8bdca3ab161faf0d91e24c833bfff9ccf20456697d30be654008da575f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 310,
+      "sha256": "7bcc17bef3ab23ee8c4550f7d03954228904753113e6c29c0db9aefdc42f11ae"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 365,
+      "sha256": "b72079a767760fc4c77403aa3f9d144b2d56b0c75cefb36003c31d6e4b40d58e"
+    },
+    {
+      "path": "images/embedded/embedded-0003.jpg",
+      "bytes": 187895,
+      "sha256": "0363c49b38cd4b35c64e2327d2418b0bab9cacf6753674c5cf5e775facf09167"
+    },
+    {
+      "path": "images/embedded/embedded-0004.jpg",
+      "bytes": 92383,
+      "sha256": "d228a4d8fa5d121404e268b292246e2bc06b694f09619ef38900e447974ff0ae"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 2358,
+      "sha256": "649d366df39457455a550442cbac166ed382b01357a2e2db41e64e2f5bd6fd8e"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 652,
+      "sha256": "6243800516b63cf99d6c69003e94e246ac0647f9f5b848d1c9a38d331e4b61c2"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 202,
+      "sha256": "8cd5b898328cec28ee99003460caa882c499906574eea6d1970bd62b6bb049a3"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 195,
+      "sha256": "7d442693811d4ea1c5a722b5251b5d2e9ea764a294e92ab3b6b2f9eab0282bc4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 520381,
+      "sha256": "f94a0d66b4cf8f9eaf50165eb10abffa36b9fb88e5ec5f6808b730133c22fbb8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "navbar",
+    "video-media",
+    "features",
+    "timeline",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "banner-missing-or-tiny"
+    ],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

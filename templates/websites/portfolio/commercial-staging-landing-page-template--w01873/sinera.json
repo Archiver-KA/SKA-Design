@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01873",
+  "title": "Commercial Staging Landing Page Template",
+  "summary": "Elegant landing page template for commercial office staging services, perfect for showcasing portfolios, services, and generating staging inquiries.",
+  "tags": [
+    "Landing Page",
+    "Real Estate",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Portfolio",
+    "Interior staging",
+    "Commercial real estate"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3525,
+      "sha256": "cd47d8051c45d8d3d83a7da1b52a19a973c6d22af8790341b4a41d16f41d16cd"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19896,
+      "sha256": "c9b64560e2cdbe9568d8f26a1adfb2060fca8fb2bb87b0abb1ed9979688d9f79"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "906faf9c2f8ae4fb048e10eb4cacadb8fa5b2e996cdb16067be490d9028c5056"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22287,
+      "sha256": "5a72574256d95725801f4012370848dc690c76bdf698f3e8c8421c8b4f29b6bf"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "how-it-works",
+    "gallery-portfolio",
+    "services",
+    "about",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

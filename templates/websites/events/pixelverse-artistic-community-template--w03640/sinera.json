@@ -1,0 +1,61 @@
+{
+  "id": "SN-W03640",
+  "title": "PixelVerse Artistic Community Template",
+  "summary": "A clean and minimal pixel art gallery template designed for creative communities and asset curators.",
+  "tags": [
+    "Art & Design",
+    "Portfolio",
+    "Clean",
+    "Minimal",
+    "Gallery",
+    "Technology",
+    "Grid",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3322,
+      "sha256": "abb72647625c6428e8447b00512ba838e43f5d0e3cfcab1c1868c2ce06662721"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11134,
+      "sha256": "ebec2d4ebb3c314e6b92976e6d2bb9dd2d42028a41b8f247ceece915e86f2382"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "601280174199b5aa4b038872fe3b2a792d4391eee8f7f0c9534b01f6cc850827"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14774,
+      "sha256": "500747b16c7baf41564030092bf92c957fa8a99a0359845ee81c0575b280ba0e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

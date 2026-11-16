@@ -1,0 +1,71 @@
+{
+  "id": "SN-W03483",
+  "title": "International School Landing Page Template",
+  "summary": "A reusable landing page template for international and kindergarten schools to showcase programs, admissions, and parent trust with a modern, child-friendly design.",
+  "tags": [
+    "Landing Page",
+    "Education",
+    "Brand",
+    "Clean",
+    "Colorful",
+    "Minimal",
+    "Large Type",
+    "Services",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3601,
+      "sha256": "9fcebfd29b2fbb95f2452bc63e7c951a9ab12717e81bc145ec6a889e1b89c30a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 34430,
+      "sha256": "b08c7ddd08a74fcd8638500eddfdfdee3a0427e46530a05a70466b4ea535024f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 813,
+      "sha256": "355119d059abcad54f6cc423b85689145618575008dd0e10df19082ba682123d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28192,
+      "sha256": "731b04f5ae1b29f3aefb419a5c5b64471e37e8dbb68d53d0f681c452d5481ada"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "contact-form",
+    "stats",
+    "features",
+    "services",
+    "testimonials",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "added-title"
+    ]
+  },
+  "design": "DESIGN.md"
+}

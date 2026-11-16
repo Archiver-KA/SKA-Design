@@ -1,0 +1,59 @@
+<svg viewBox="0 0 300 300" class="w-[320px] h-[320px] md:w-[360px] md:h-[360px] lg:w-[380px] lg:h-[380px] overflow-visible" preserveAspectRatio="xMidYMid meet">
+                  <defs>
+                    <filter id="glow-purple" x="-50%" y="-50%" width="200%" height="200%">
+                      <feGaussianBlur stdDeviation="3" result="coloredBlur"></feGaussianBlur>
+                      <feMerge>
+                        <feMergeNode in="coloredBlur"></feMergeNode>
+                        <feMergeNode in="SourceGraphic"></feMergeNode>
+                      </feMerge>
+                    </filter>
+
+                    <filter id="glow-cyan" x="-50%" y="-50%" width="200%" height="200%">
+                      <feGaussianBlur stdDeviation="3" result="coloredBlur"></feGaussianBlur>
+                      <feMerge>
+                        <feMergeNode in="coloredBlur"></feMergeNode>
+                        <feMergeNode in="SourceGraphic"></feMergeNode>
+                      </feMerge>
+                    </filter>
+
+                    <linearGradient id="grad-purple" x1="0%" y1="0%" x2="100%" y2="100%">
+                      <stop offset="0%" stop-color="#d946ef"></stop>
+                      <stop offset="100%" stop-color="#a855f7"></stop>
+                    </linearGradient>
+
+                    <linearGradient id="grad-cyan" x1="0%" y1="0%" x2="100%" y2="100%">
+                      <stop offset="0%" stop-color="#22d3ee"></stop>
+                      <stop offset="100%" stop-color="#06b6d4"></stop>
+                    </linearGradient>
+                  </defs>
+
+                  <g fill="none" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1" stroke-dasharray="3 3">
+                    <circle cx="150" cy="150" r="22" class="animate-scale" style="animation-delay: 0.1s"></circle>
+                    <circle cx="150" cy="150" r="44" class="animate-scale" style="animation-delay: 0.2s"></circle>
+                    <circle cx="150" cy="150" r="66" class="animate-scale" style="animation-delay: 0.3s"></circle>
+                    <circle cx="150" cy="150" r="88" class="animate-scale" style="animation-delay: 0.4s"></circle>
+                    <circle cx="150" cy="150" r="110" class="animate-scale" style="animation-delay: 0.5s"></circle>
+                  </g>
+
+                  <g stroke="#ffffff" stroke-opacity="0.15" stroke-width="1" class="animate-fade-up" style="animation-delay: 0.3s">
+                    <line x1="150" y1="150" x2="150" y2="40"></line>
+                    <line x1="150" y1="150" x2="245" y2="95"></line>
+                    <line x1="150" y1="150" x2="245" y2="205"></line>
+                    <line x1="150" y1="150" x2="150" y2="260"></line>
+                    <line x1="150" y1="150" x2="55" y2="205"></line>
+                    <line x1="150" y1="150" x2="55" y2="95"></line>
+                  </g>
+
+                  <g class="fill-white font-sans text-[11px] font-medium animate-fade-up" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 0.4s">
+                    <text x="150" y="25">Jan</text>
+                    <text x="268" y="85">Feb</text>
+                    <text x="268" y="215">Mar</text>
+                    <text x="150" y="278">Apr</text>
+                    <text x="32" y="215">May</text>
+                    <text x="32" y="85">Jun</text>
+                  </g>
+
+                  <path d="M150 62 L197 122 L188 172 L150 249 L102 177 L74 106 Z" fill="none" stroke="url(#grad-purple)" stroke-width="2" filter="url(#glow-purple)" stroke-linejoin="round" stroke-linecap="round" class="animate-draw" style="animation-delay: 0.3s"></path>
+
+                  <path d="M150 95 L240 102 L230 196 L150 254 L80 190 L107 125 Z" fill="none" stroke="url(#grad-cyan)" stroke-width="2" filter="url(#glow-cyan)" stroke-linejoin="round" stroke-linecap="round" class="animate-draw" style="animation-delay: 0.6s"></path>
+                </svg>

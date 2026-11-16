@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01881",
+  "title": "Creative Coder Portfolio Website Template",
+  "summary": "A bold, colorful Creative Coder portfolio website template for front-end developers to showcase projects, skills, and contact details with a standout visual style.",
+  "tags": [
+    "Portfolio",
+    "Art & Design",
+    "Graphic Design",
+    "Landing Page",
+    "Brand",
+    "Colorful",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3780,
+      "sha256": "c4f174dad321cc120e38485a25497599324d14177e1dfa9fa91b909bee6a8d2a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 26232,
+      "sha256": "9bffb4c757640259d10e9530209da250546a234a2b3357bb7a3e64f17f2bac44"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "a9d0e0c2a8b70fe5fbdd39ac33db8051fe0aa9e9f05d79985edd901911c5dfb2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26681,
+      "sha256": "2e01c7a33037c6ddaa91f2b37fd303d66470da07ebd15a95b0edb3eb06d743a6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "product-grid",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

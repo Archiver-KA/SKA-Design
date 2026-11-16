@@ -1,0 +1,66 @@
+{
+  "id": "SN-W03007",
+  "title": "Vietnamese Restaurant Menu ",
+  "summary": "A warm, editorial-style restaurant template for Vietnamese takeout menus, online ordering, location info, and customer reviews.",
+  "tags": [
+    "Food",
+    "Landing Page",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Brand",
+    "restaurant menu",
+    "online ordering",
+    "takeout"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3282,
+      "sha256": "cd4d1e1eb3f97e85f366a867bd50233fdb7f019cb703c2c758e2d4e64467b663"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15594,
+      "sha256": "3e5a47e329b7f68535dfe9df18ea72efa106a883e1e6c305ba80d2ed93430e5d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "f43555a09ed52853e991ae7d7bf28a0fd0c2afda769b3ba8fafa75732230e082"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34704,
+      "sha256": "5c65e3dee88d1a432de7507b29fb486ab9bdf05952ff02ed862f27b5bb661ad8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "services",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

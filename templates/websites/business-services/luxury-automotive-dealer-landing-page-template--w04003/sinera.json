@@ -1,0 +1,65 @@
+{
+  "id": "SN-W04003",
+  "title": "Luxury Automotive Dealer Landing Page Template",
+  "summary": "A premium dark-mode landing page template for luxury and exotic car dealerships, featuring inventory grids, finance tools, and consignment lead capture.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Grid",
+    "Technology",
+    "Automotive",
+    "Luxury Cars"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3477,
+      "sha256": "515ca2b848f37b3a5d68fd1262ffdaf9e7a662ff772b1c6ae1fbf342e0be525b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19694,
+      "sha256": "76d01e734d6399dcff4898c9b92d233a7bd1138d1abe88b1bb16274a3077145e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 741,
+      "sha256": "775960849d237e8d44595b05e4f4f11b130df3d4b819ce28b15d764a8b9f52e9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37982,
+      "sha256": "0aa3978c2dd2e315c44f686ecf846ab6130805c31fcceb43c144d0228583a668"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "listings",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

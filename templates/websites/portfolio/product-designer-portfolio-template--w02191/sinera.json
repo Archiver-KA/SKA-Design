@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02191",
+  "title": "Product Designer Portfolio Template",
+  "summary": "A reusable portfolio template for product designers to showcase case studies, process, and services with a bold interactive presentation.",
+  "tags": [
+    "Portfolio",
+    "Landing Page",
+    "Artist",
+    "Technology",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Animated",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3506,
+      "sha256": "1e81361098a3457201855b775b0ec348096024e577c4b7c6236aa9f86b3a17a4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11662,
+      "sha256": "a548d3a5a496240b1fe327f5aaad65f11c9365944acfadf58a4c9eb603a48823"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "25d3b07289c4573ca2d2110f8883e4d03eb14d08e02db5846518094fb16a40f6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36999,
+      "sha256": "2e176c782902db8ae5eca75547df269303bf3e20e0ba98d1ad296ab130744cb1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "gallery-portfolio",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

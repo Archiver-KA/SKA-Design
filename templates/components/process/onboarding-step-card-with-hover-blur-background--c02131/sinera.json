@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02131",
+  "title": "Onboarding Step Card with Hover Blur Background",
+  "summary": "Stylish Tailwind card for multi-step onboarding or tutorials. Features background image with grayscale hover blur, step number, heading, subtitle, description, time estimate, and animated progress bar—ideal for progress flows or feature walkthroughs.",
+  "tags": [
+    "card",
+    "onboarding",
+    "progress",
+    "step",
+    "tailwind",
+    "hover",
+    "responsive",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18918,
+      "sha256": "9d38e3c945a30e984f5a365889f2ede224db005b06a4af1a5dd55c6796bb9368"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2083,
+      "sha256": "1eb4a9735a6113fa147f98ba496afcfb5baf0f01b340502214a1a09ea50be455"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3081,
+      "sha256": "d9d6d9304935d44c228af734873823e02dfa804b9935f4d239698f4865d147ca"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

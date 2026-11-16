@@ -1,0 +1,68 @@
+{
+  "id": "SN-W04334",
+  "title": "Visual Code Blocks Workspace",
+  "summary": "Drag-and-drop code blocks to create scripts and control a stage with a sprite in an interactive coding environment.",
+  "tags": [
+    "Code Blocks",
+    "Drag and Drop",
+    "Visual Programming",
+    "Interactive Stage",
+    "Sprite Animation",
+    "Tailwind CSS",
+    "JavaScript UI"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3168,
+      "sha256": "2abfba712da3fb70cd09739a23bd04557c20deaae2071a2ed547f7d974f7471d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13402,
+      "sha256": "726e56a8050a8d8b6d8f8b7b7eb3afed16e4636bb58a38bba22a483306fb21d1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1061,
+      "sha256": "c09ebc681a9aca5381f125f060a8a475dc8ecf2dca7f589e4e027241a946a364"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 317,
+      "sha256": "a68ad233c224cd4f005b5f2981248e65553a421e77b5c85bbf1014b99d6f7132"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 417,
+      "sha256": "a1c80c00437ca39590cf2762d9173260a0725b8fa7a49de6ab83594b4fd2003a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20011,
+      "sha256": "4d9f465408495edbe2227f0902bd4075f175d4776bfb44394a5d67a2b6c58804"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

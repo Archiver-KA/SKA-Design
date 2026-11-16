@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00865",
+  "title": "Responsive Features Grid Section with CTA",
+  "summary": "Dark-themed Tailwind CSS section that highlights product features. Provides heading, optional “Explore product” CTA, and a responsive grid of icon cards with titles and descriptions—perfect for SaaS landing pages or marketing sites.",
+  "tags": [
+    "section",
+    "features",
+    "grid",
+    "card",
+    "cta",
+    "tailwind",
+    "responsive",
+    "landing page"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 17046,
+      "sha256": "bbd5fbfd51f482ef1051b1236378f5b023d38aa49b85484c3b2244a8e0aa906d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4512,
+      "sha256": "797320df20e3bf0622e6ddff3eeec363841203c4974bb4098108888c94cdb4ab"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5504,
+      "sha256": "673f88bbcb1f2d4600e306e4e41a8a2f96e8eb528235ba5394aef4ad8149220b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

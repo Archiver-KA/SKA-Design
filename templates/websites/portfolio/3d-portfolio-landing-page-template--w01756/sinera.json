@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01756",
+  "title": "3D Portfolio Landing Page Template",
+  "summary": "A dark, interactive 3D portfolio template for creative technologists and designers to showcase work with immersive scrolling imagery and a bold personal brand.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "3D",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2671,
+      "sha256": "0a35ef4bf1287237c448e2e7f0fe58155d1c3222ee2843527f0760b4aaf97ef8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1142,
+      "sha256": "6c899654fbd01f882c27a17eb49cabb036c512c996a0bd1e4ce18329fafa8301"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 805,
+      "sha256": "acec658f7c0cae86b4bf835a6673b5b3901f604ae061c566e8d421c316bcbd69"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11470,
+      "sha256": "c030ed3531252c4a16900e8e2419d4f5354372eee7470de1deec34cd01d6a82f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "hero"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "banner-missing-or-tiny"
+    ],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

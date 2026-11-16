@@ -1,0 +1,87 @@
+{
+  "id": "SN-W03583",
+  "title": "Creative Features Showcase",
+  "summary": "Displays a features section highlighting advanced image generation, community collaboration, and prompt engineering using Tailwind CSS.",
+  "tags": [
+    "Features",
+    "Tailwind CSS",
+    "Image Generation",
+    "Community",
+    "Prompt Engineering",
+    "UI Design"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3198,
+      "sha256": "d870aa6f86246d6eeaf8dbb38f1a332e048b35dc034a2f1237b0652d50f16614"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14572,
+      "sha256": "252d524a323dd357e34dfcf0288059830e53750ced96f40ce488f1beb60edf42"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1898,
+      "sha256": "32995b12ef739419bc77c7a7a35ecc856f3d691193f7c7b237da4641974339a7"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 408,
+      "sha256": "162d2a3b0c09a363acb4e9d171282a376ab3281f65b8902268c7520e6d1ffe5b"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 348,
+      "sha256": "8cdbba0f989c7360f442a072f7bac2f913b2320f118fbc6ba239124ed9c6a56d"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 533,
+      "sha256": "e810a990d042ce6bcdeba9e247cc146049a0bb2b697b717bb9b2d78f21299eb7"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 356,
+      "sha256": "bd0830a45f5927b37a34b5dba8286c1ba9be789f31590aa93238f862f3c91870"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 455,
+      "sha256": "fdbd4d0668b1a6e99847a55de639493019c2760f48adf9559a58711f7705d0c0"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 389,
+      "sha256": "8f657b8c86e367257cd8e0737cd1c2ddfca02c5e45e0e84caa9db9701ed02483"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10377,
+      "sha256": "eddf3142fc987b0b97c1bbf177172ab13889101e6ef9a57fff275638d4d96edc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "features"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

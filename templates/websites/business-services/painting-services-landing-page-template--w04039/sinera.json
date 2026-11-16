@@ -1,0 +1,68 @@
+{
+  "id": "SN-W04039",
+  "title": "Painting Services Landing Page Template",
+  "summary": "A reusable landing page template for painting and decorating businesses to showcase services, portfolio, testimonials, and capture quote requests.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Portfolio",
+    "home services",
+    "painting",
+    "decorating"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3757,
+      "sha256": "4e28f19cc1b2b95bbc9832301d7b029efa2f87c84ee2258b6138b3667d6ce45f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 27994,
+      "sha256": "572f700c8f5fc44c29a0dbcf4e3565c0c30fce7123c4823a8f833ad63fbccfea"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "a423009f2fff7de42292d1401f7f383dc84b26166b49b2adb58625da682519fe"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37760,
+      "sha256": "29cf1b4e6acfeb3ee60e8bae933ca3c525180a3a9f6dddf190e65b7ef13f3562"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "services",
+    "about",
+    "gallery-portfolio",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

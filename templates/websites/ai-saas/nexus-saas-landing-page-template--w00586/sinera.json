@@ -1,0 +1,65 @@
+{
+  "id": "SN-W00586",
+  "title": "Nexus SaaS Landing Page Template",
+  "summary": "A dark, futuristic SaaS landing page template for modern infrastructure or developer tools platforms, ready to customize for your product launch.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Large Type",
+    "Developer Tools",
+    "SaaS"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3865,
+      "sha256": "41b9e52e9bc9ab89bd077fb2e86a165bfd6e97b2c3df2dee30b8611b9f92ef3f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13448,
+      "sha256": "4a24686a8d7367752d504fbfd6331d69639e1a6ed8f338be1bc06b93a086b887"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "639a0a2b025574740031cf9c820783ab88281779f2c4c85d2532c89968672ebb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28056,
+      "sha256": "d36758d11b5797d659924104294b08f1b4d060f400fbc642b6d2d731dbb37413"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

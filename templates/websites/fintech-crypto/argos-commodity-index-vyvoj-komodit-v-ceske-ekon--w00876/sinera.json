@@ -1,0 +1,64 @@
+{
+  "id": "SN-W00876",
+  "title": "Argos Commodity Index | Vývoj komodit v české ekonomice",
+  "summary": "Argos Commodity Index sleduje vývoj klíčových komodit pro český průmysl, energetiku a zemědělství. Pomáhá firmám i investorům řídit tržní rizika.",
+  "tags": [
+    "Komodity",
+    "Ekonomika",
+    "Zlato",
+    "Ropa",
+    "Plyn"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3593,
+      "sha256": "51238c1cd9e3d8ab5a2c81d84ba90823f0959f800a189c670c3354531479fbd6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15788,
+      "sha256": "bc467a9e2d40990b92a9681f6aadb95b4b2fad8f5d6a784dbe99e0afdaf206a8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 745,
+      "sha256": "30205a4b928e3892ce97d55b69906e36b4874091ceb41c80e50ebd72f14698ec"
+    },
+    {
+      "path": "index.html",
+      "bytes": 76782,
+      "sha256": "7bf830fed21326408b557d23d61c08c54e4cc23d94696960fb5eb2cd037093b1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "stats",
+    "3d-canvas",
+    "features",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

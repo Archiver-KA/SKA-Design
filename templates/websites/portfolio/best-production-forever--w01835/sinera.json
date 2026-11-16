@@ -1,0 +1,74 @@
+{
+  "id": "SN-W01835",
+  "title": "BEST PRODUCTION FOREVER",
+  "summary": "A dark, cinematic studio landing page template for video production, music videos, and artist services, ready to customize for your own creative brand.",
+  "tags": [
+    "Landing Page",
+    "Entertainment",
+    "Art & Design",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Portfolio",
+    "Services",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3706,
+      "sha256": "0efa03e4aca0c0bdc891713c2273445cde3d16e500f002c0b888692fc7951189"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12548,
+      "sha256": "6941fe499d28d625f9cd0d287e99a1f12c59eebe90fbe7fcc826f9fcf6c1a8cc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 794,
+      "sha256": "20d24dfa73405c3419f9bfdebd4cb5460220e26bcd9109db587d1441f0cc86d2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30404,
+      "sha256": "abe39a2e9600059c362394bda87cd3d85360fdea183fe2c4204d0aef84bb6c53"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "logo-cloud",
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "case-studies",
+    "stats",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "broken-images"
+    ],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

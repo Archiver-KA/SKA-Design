@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00746",
+  "title": "Feature Card with Image",
+  "summary": "An animated feature card with image, title, description, and tags. Includes shimmer effects and corner glows for visual appeal.",
+  "tags": [
+    "card",
+    "feature",
+    "image",
+    "animation",
+    "tags",
+    "glassmorphism"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 34882,
+      "sha256": "386591c1caac2e1c672d9a219355faa128e757520b946c2778a74a0b205a866b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3273,
+      "sha256": "b3b3b9d6bcdb2f87da67c275524e90be8a0167e187bfa1e3ec5616ad0aa2ede9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4117,
+      "sha256": "bebb9dd63b714bc56f594703d0597884f2aee18975f9bdcf54df75c17eb4a75e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

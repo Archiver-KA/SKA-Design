@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02442",
+  "title": "Animated Karaoke Heading with Tailwind",
+  "summary": "H2 heading that splits words into spans to create a karaoke-style text highlight animation. Uses Tailwind utility classes for responsive sizing and font styling. Ideal for attention-grabbing section headers, hero banners, or call-to-action areas.",
+  "tags": [
+    "tailwind",
+    "animated",
+    "text",
+    "typography",
+    "responsive",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "typography",
+  "categoryLabel": "Text & typography",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10816,
+      "sha256": "b230b0f0cf401823793986b966cc409c354efa1ee11cdddda23e2fb5b3a722ec"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5630,
+      "sha256": "f93285dd5ceb0f2f97bbbb658a947f10e8a57c3d83f71eb9e3cce72c8c9a157b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6619,
+      "sha256": "1d7fce61f48d578fd26b856d3a3804ebe3c66e2096eff02f8c90c0e2bffa4e97"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

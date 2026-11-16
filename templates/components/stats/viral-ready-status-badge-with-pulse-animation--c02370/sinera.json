@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02370",
+  "title": "Viral Ready Status Badge with Pulse Animation",
+  "summary": "Compact status badge with animated pulse dot indicator. Perfect for showing live status, activity indicators, or special states in dashboards and cards.",
+  "tags": [
+    "button",
+    "badge",
+    "status",
+    "animated",
+    "indicator",
+    "pulse"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1112,
+      "sha256": "a7edf6a389a2e92b55ce3a9db9ce2b99d223e225f85c445d50b088209900ac77"
+    },
+    {
+      "path": "component.html",
+      "bytes": 857,
+      "sha256": "3e736c633dba23c2d94a86ace0ac5b68a197875241bb96610eac9232d55fb0cf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1723,
+      "sha256": "0eadff085773d1cef85e52de52d6ce26fd0456f657b6396a322fd4f898607e47"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

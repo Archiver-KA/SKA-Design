@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00904",
+  "title": "Tailwind Feature Card with Code Window",
+  "summary": "Responsive glassmorphic card displaying a mock code editor with syntax-highlighted Python and descriptive text. Includes hover effects, slide-in animation, and Tailwind CSS styling—perfect for SaaS landing pages or feature highlights.",
+  "tags": [
+    "card",
+    "code",
+    "feature",
+    "tailwind",
+    "glassmorphism",
+    "responsive",
+    "hover",
+    "animation"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14630,
+      "sha256": "a02feb48f0c77b2c696a151c466c680a81e2caa020fe95dc430e3e66dda5bd30"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4468,
+      "sha256": "ac775f5a0cf487fce25f6230b5df2a598ffe52b0c664a41a00555dfef2fecbbb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5327,
+      "sha256": "bbcd85c9d96f02e67030068642872ddbe32a6176a2671dc850c20cba08f946e5"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

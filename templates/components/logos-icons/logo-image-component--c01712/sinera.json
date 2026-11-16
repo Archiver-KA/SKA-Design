@@ -1,0 +1,40 @@
+{
+  "id": "SN-C01712",
+  "title": "Logo Image Component",
+  "summary": "A simple, reusable logo image component with responsive sizing and proper alt text. Ideal for headers, footers, or branding sections.",
+  "tags": [
+    "logo",
+    "image",
+    "branding",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2468,
+      "sha256": "de7daba8197eb94b70fe47aba964698731bbc3f06b0f24fc409dda5ad6a79f05"
+    },
+    {
+      "path": "component.html",
+      "bytes": 523,
+      "sha256": "beba1570b1822f0ae6896ec932fb52f7449661f9562dc47a353b5ffa30f887de"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1364,
+      "sha256": "2f864ad7df5b638e02c2b377a92fadb69b539da7237af5a924432c93609c863f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

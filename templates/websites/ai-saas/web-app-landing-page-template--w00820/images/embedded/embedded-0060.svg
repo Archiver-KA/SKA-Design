@@ -1,0 +1,18 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none z-0" style="overflow: visible;">
+            <defs>
+              <linearGradient id="line-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#94a3b8" stop-opacity="0.2"></stop>
+                <stop offset="50%" stop-color="#6366f1" stop-opacity="0.6"></stop>
+                <stop offset="100%" stop-color="#94a3b8" stop-opacity="0.2"></stop>
+              </linearGradient>
+            </defs>
+            <!-- Connections calculated roughly based on card positions -->
+            <!-- Edge to App -->
+            <path d="M 300 200 C 350 200, 350 250, 420 250" stroke="url(#line-gradient)" stroke-width="1.5" fill="none" class="noodle-glow hidden lg:block"></path>
+            <!-- App to DB -->
+            <path d="M 680 250 C 750 250, 750 180, 820 180" stroke="url(#line-gradient)" stroke-width="1.5" fill="none" class="noodle-glow hidden lg:block"></path>
+            <!-- App to Cache -->
+            <path d="M 680 250 C 750 250, 750 350, 820 350" stroke="url(#line-gradient)" stroke-width="1.5" fill="none" class="noodle-glow hidden lg:block"></path>
+            <!-- App to Worker -->
+            <path d="M 550 380 C 550 420, 550 450, 550 500" stroke="url(#line-gradient)" stroke-width="1.5" fill="none" class="noodle-glow hidden lg:block"></path>
+          </svg>

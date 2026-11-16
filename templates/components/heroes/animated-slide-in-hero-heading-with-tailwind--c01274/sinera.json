@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01274",
+  "title": "Animated Slide-In Hero Heading with Tailwind",
+  "summary": "Responsive H1 hero title where each letter slides in with a keyframe animation. Built with Tailwind utilities, perfect for landing pages, banners, and splash screens requiring bold animated typography.",
+  "tags": [
+    "heading",
+    "animated",
+    "tailwind",
+    "typography",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5718,
+      "sha256": "4dcfd1b195873853a70a61251dbf55db47acebc0fb164cabc78c6eeec78cfb30"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1345,
+      "sha256": "3ae7e1a972cb0e44c5903b2a975196c4419ca2e00be46f6e4d2e341baf053ccc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2210,
+      "sha256": "70bccf5bd57f7f5f32bc16db20d2dd39b173a9051711ec1505e682aede5d5d8a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00040",
+  "title": "Team Member Card with Avatar and Contact Button",
+  "summary": "Compact, inline card showcasing a team member’s photo, role and name with a direct email action button. Uses Tailwind CSS utilities, ideal for team sections, staff directories or contact lists.",
+  "tags": [
+    "card",
+    "profile",
+    "avatar",
+    "contact",
+    "tailwind",
+    "responsive",
+    "employee",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "about",
+  "categoryLabel": "About & team",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4606,
+      "sha256": "a00ff96379fa8f3fc8750838001c4f94aa91bfedae8dd24bf9e9ea2678537a00"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1245,
+      "sha256": "ea57cb08416a911cbdbb3d0beba4929794930d0274cb2caaa81d2afff3daa64f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2243,
+      "sha256": "75b0a1b72ce71a2bba0708a582173418db28e4ae5f29b2c87c68db040ace074e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

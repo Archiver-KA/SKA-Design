@@ -1,0 +1,123 @@
+{
+  "id": "SN-W02234",
+  "title": "sohweiyu.com",
+  "summary": "A modern dark-mode developer portfolio template for product engineers and SaaS builders to showcase projects, experience, and testimonials.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Brand",
+    "Technology",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Art & Design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4078,
+      "sha256": "8fc94835e9e4bccf21e1458ae62b00d375336ab84e313489d1b0cb902634a636"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18270,
+      "sha256": "002b8cf1801082352a551dce422e46c07b036ce2b6ea6f8d1739a2b3f7651dce"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 3035,
+      "sha256": "f266e2e36c94abc1b042646368a69d45da4eadc1400ff585e10409b9a19c4806"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 289,
+      "sha256": "1abf91aa63e601670857419d43dadfd99e14c5fe3fd1ad4d2a58697f15a31b3e"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 546,
+      "sha256": "e5d7c4de6d08bdfb5e4950d014b2f9755d1999093f9646905b56a2c334c65e35"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 331,
+      "sha256": "44bdc9aff59b683470e3247f0bc2a9391824eeac8f4aeee1a3705b02ce018aaa"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 351,
+      "sha256": "32bf0f064ec73d2f8d8244b7833c4724ad78f0de8180b99b3ad5c96d966e3934"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 312,
+      "sha256": "d018fb86ef8911c13ad07244d3a72d78dbf2fc0422c81aa6ea52bba76f03cc10"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 304,
+      "sha256": "2b062415f23e99ab55c92c8d0920a1f29062d921ea65c06469a3c67a01a84a5a"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 292,
+      "sha256": "ad404fd307aea34b87f6451e4bfd514f42677c25dd874b34059321d787e7159a"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 438,
+      "sha256": "f96f47afa02ebc3800db5d60274a63ab8b0096343930f63d09e3efd3e6ee68e4"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 354,
+      "sha256": "fcab69ba329a5e49c76dd7a67fd32fca7e21a8ce39dffed26895b75dd7f3ff6c"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 593,
+      "sha256": "e6a3985b0f4539b0e1dcaee6537c6edef8e11dc65ba6aa01c4c9610ccc6e11e7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 69600,
+      "sha256": "84ff4db1067e5f0541e93050d779f3e7509a97e385f526d0e5b3584a589b5a99"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "team",
+    "case-studies",
+    "stats",
+    "auth-form",
+    "features",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

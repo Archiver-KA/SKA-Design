@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00775",
+  "title": "Gradient Feature Card with Action Button",
+  "summary": "Emerald gradient card displaying a feature number, title, subtitle and an arrow button. Uses Tailwind CSS with radial highlights, rounded corners and hover effects. Ideal for product feature lists, pricing sections or dashboards.",
+  "tags": [
+    "card",
+    "feature",
+    "tailwind",
+    "gradient",
+    "interactive",
+    "responsive",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5928,
+      "sha256": "e078ae3b2ab0e16a557a779190b96288696570ee8682049febc2c1e88254b49c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1190,
+      "sha256": "42617019464488c19c7f1b524162e7e8f4c70816a3b8ff0d419508194741edbb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2181,
+      "sha256": "27fb5d4590bb586eac0cb889e878dd8e9b3b5cc3d3b273be893050703ea6dd74"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

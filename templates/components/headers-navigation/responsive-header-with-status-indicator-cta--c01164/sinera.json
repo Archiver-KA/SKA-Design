@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01164",
+  "title": "Responsive Header with Status Indicator & CTA",
+  "summary": "Tailwind CSS header bar featuring animated pulse status dot, live time display, optional grip icon, and a \"Start Project\" call-to-action button. Fully responsive, suited for dashboards, portfolios, or studio websites.",
+  "tags": [
+    "header",
+    "navbar",
+    "tailwind",
+    "responsive",
+    "animated",
+    "cta",
+    "status",
+    "dashboard"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2294,
+      "sha256": "9099766c98c92f6c73ae3cd0221285d57393a5038ddc8cf37be491036cfca848"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1779,
+      "sha256": "364a777cd10dc5db9a2afb2745703e32fb5bd7af493599d74c0bdb2d3511787e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2779,
+      "sha256": "c2723a45828b7c750f47f8063295854b777b0fdc6218e918dd4ad9a01585afd0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

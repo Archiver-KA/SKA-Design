@@ -1,0 +1,64 @@
+{
+  "id": "SN-W03136",
+  "title": "Travel & Adventure Landing Page Template",
+  "summary": "A high-end, contemporary travel agency landing page template designed for showcasing unique destinations and custom itineraries.",
+  "tags": [
+    "Travel",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Services",
+    "Animated",
+    "Graphic Design"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3373,
+      "sha256": "cd3257c5a868db921c9dae0e8f447691edbf3ce841e1bf0717435fc4f2c017da"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8754,
+      "sha256": "b8a29a04f12af28cd0369c7cff38d01dce8c9d5998ad0a1061daa4a0f731f8e0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 732,
+      "sha256": "3e9a22f7127bb2674f470be37ea3d7f32ce320c43d5c26795aa0a35baf3263eb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34907,
+      "sha256": "6bf64327b4221a17e0b30e23ce025e561ef353735a15bf37b5c16a873470e066"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "cta",
+    "logo-cloud",
+    "listings",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

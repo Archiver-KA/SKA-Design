@@ -1,0 +1,62 @@
+<svg
+              width="40"
+              height="40"
+              viewBox="0 0 40 40"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+              class="group-hover:scale-105 transition-transform duration-300"
+            >
+              <rect
+                x="2"
+                y="2"
+                width="36"
+                height="36"
+                rx="4"
+                stroke="url(#paint0_linear)"
+                stroke-width="1.5"
+                fill="rgba(15, 23, 42, 0.5)"
+              ></rect>
+              <path
+                d="M8 8L32 32M8 32L32 8"
+                stroke="url(#paint1_linear)"
+                stroke-width="1"
+                stroke-opacity="0.3"
+              ></path>
+              <path
+                d="M20 4V36M4 20H36"
+                stroke="url(#paint1_linear)"
+                stroke-width="1"
+                stroke-opacity="0.3"
+              ></path>
+              <path
+                d="M13 28L20 8L27 28M15.5 22H24.5"
+                stroke="white"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              ></path>
+              <defs>
+                <linearGradient
+                  id="paint0_linear"
+                  x1="0"
+                  y1="0"
+                  x2="40"
+                  y2="40"
+                  gradientUnits="userSpaceOnUse"
+                >
+                  <stop stop-color="#3b82f6"></stop>
+                  <stop offset="1" stop-color="#a855f7"></stop>
+                </linearGradient>
+                <linearGradient
+                  id="paint1_linear"
+                  x1="0"
+                  y1="0"
+                  x2="40"
+                  y2="40"
+                  gradientUnits="userSpaceOnUse"
+                >
+                  <stop stop-color="#3b82f6"></stop>
+                  <stop offset="1" stop-color="#a855f7"></stop>
+                </linearGradient>
+              </defs>
+            </svg>

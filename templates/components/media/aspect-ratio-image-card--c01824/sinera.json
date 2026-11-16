@@ -1,0 +1,40 @@
+{
+  "id": "SN-C01824",
+  "title": "Aspect Ratio Image Card",
+  "summary": "An image card with fixed 16:9 aspect ratio, perfect for galleries, product grids, or media listings. Crops and centers the image to maintain consistent proportions.",
+  "tags": [
+    "card",
+    "image",
+    "aspectratio",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6552,
+      "sha256": "7f05404f225de49f00b7472cd3db531bebc3ae47138ed0c8e9a8fe864b5c0efe"
+    },
+    {
+      "path": "component.html",
+      "bytes": 381,
+      "sha256": "5668e0abbc2f59d23b7346e04be788bc7640c3b31be7d90c9d1071d1b2052180"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1225,
+      "sha256": "8658face41290635c643548d2d9cac4330c8226eed98c22af5490062257e681e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

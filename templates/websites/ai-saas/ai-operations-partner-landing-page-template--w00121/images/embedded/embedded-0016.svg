@@ -1,0 +1,36 @@
+<svg
+                width="32"
+                height="32"
+                viewBox="0 0 100 100"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                class="grayscale group-hover:grayscale-0 transition-all duration-300"
+              >
+                <defs>
+                  <linearGradient
+                    id="logoGradFooter"
+                    x1="0"
+                    y1="0.5"
+                    x2="1"
+                    y2="0.5"
+                    gradientUnits="userSpaceOnUse"
+                  >
+                    <stop offset="0%" stop-color="#1e3a8a"></stop>
+                    <stop offset="50%" stop-color="#0ea5e9"></stop>
+                    <stop offset="100%" stop-color="#22c55e"></stop>
+                  </linearGradient>
+                </defs>
+                <!-- Reusing the new logo shapes in the footer with simpler styling if needed, or consistent gradients -->
+                <path
+                  d="M40 38 C38 25 45 15 60 12 C72 10 80 20 82 30 C84 42 75 48 62 48 C50 48 42 45 40 38 Z"
+                  fill="url(#logoGradFooter)"
+                ></path>
+                <path
+                  d="M15 65 C12 52 35 48 50 50 C65 52 72 65 68 78 C64 88 45 92 30 88 C15 84 16 70 15 65 Z"
+                  fill="url(#logoGradFooter)"
+                ></path>
+                <path
+                  d="M72 82 C78 60 88 25 95 8 C88 28 80 50 70 75 C68 80 70 84 72 82 Z"
+                  fill="url(#logoGradFooter)"
+                ></path>
+              </svg>

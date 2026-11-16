@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01523",
+  "title": "Animated Multi-Section Landing Page with Orbs",
+  "summary": "Full-screen landing page with hero, feature sections, animated orb background, scroll-based fade-in reveals, and a reactive bottom timeline. Built with Tailwind and custom CSS/JS for IntersectionObserver-driven section highlighting and ambient visuals.",
+  "tags": [
+    "hero",
+    "section",
+    "landing",
+    "animated",
+    "interactive",
+    "timeline",
+    "tailwind",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16202,
+      "sha256": "ef10b19f8a8111bba610e2ca73a1691fe0da6aac4483c34321fe4e1bd58f7564"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10268,
+      "sha256": "8aa19eac3c2a946e43795d9905bfcdf429c297d398074d793e88eae89daaa338"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

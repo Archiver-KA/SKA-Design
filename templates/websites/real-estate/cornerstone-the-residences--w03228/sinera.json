@@ -1,0 +1,80 @@
+{
+  "id": "SN-W03228",
+  "title": "Cornerstone - The Residences",
+  "summary": "A high-end real estate landing page template for showcasing historic luxury condos, residences, and neighborhood amenities with elegant, conversion-focused design.",
+  "tags": [
+    "Landing Page",
+    "Real Estate",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Luxury Condos",
+    "Property Listings"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3462,
+      "sha256": "47cbdd85a8d5c0e6ba0fc8dcb17d5dde17f89a5f865de4d0c676237447f7cd21"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1516,
+      "sha256": "7b7b3fbd1265d546437f6972fad7a463dea9b357ba052877edf383c0896a620b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1059,
+      "sha256": "f9c8e75c172bdb8495dc17312b509a0516112b21c3086fca56c5c753050213c4"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 3559,
+      "sha256": "398890e5937e7cbd62b098802b6e655d07341acb25b870d545bd4e682d773ce6"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 6573,
+      "sha256": "65f1fc7654946377f745c0fda11284b8b8fd38ade4b5e94376ea7b06f51472fd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38995,
+      "sha256": "a4dda605dd700400facf46e0070412160f7ea5dd09361b3936217589ba929157"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "video-media",
+    "navbar",
+    "hero",
+    "listings",
+    "stats",
+    "pricing",
+    "features",
+    "blog-articles",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

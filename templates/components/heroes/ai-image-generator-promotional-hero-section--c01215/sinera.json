@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01215",
+  "title": "AI Image Generator Promotional Hero Section",
+  "summary": "Responsive two-column hero card featuring gradient backdrop, featured image with overlay icon, headline, copy and dual CTA buttons. Built with Tailwind CSS for landing pages promoting AI visual tools.",
+  "tags": [
+    "hero",
+    "card",
+    "promo",
+    "tailwind",
+    "responsive",
+    "image",
+    "cta",
+    "gradient"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19856,
+      "sha256": "516693cae54c7f75e1212624e15db0a8f0c9847a19581642e9ee8be0a898ea3d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2926,
+      "sha256": "f81ba94cf735d7c345f2e97205e9511bd5a43cf807a9fb1f6f644f01c3b10c94"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3920,
+      "sha256": "16dd6f626c0cad0823a31b80940e7359ae2fe7dc18dd53d486696b242acb7d8e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

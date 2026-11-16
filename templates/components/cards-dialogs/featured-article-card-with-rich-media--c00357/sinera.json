@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00357",
+  "title": "Featured Article Card with Rich Media",
+  "summary": "A large featured article component with image overlay, author profile, engagement metrics, and interactive elements for showcasing premium content.",
+  "tags": [
+    "article",
+    "featured",
+    "card",
+    "media",
+    "author",
+    "engagement",
+    "blog"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 38568,
+      "sha256": "3cdca67f332df06c7528a4b677797db7332c16fb254f11aeb8f2a3c220e66031"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5881,
+      "sha256": "89ecb96e0aca590bb09027bacd98ec4439081a15d7766de69d9a77b4f022d946"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6739,
+      "sha256": "ec6e3d942e30bae87047f43480f589447c8e4f43a9c51185f74207b9fad359d6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

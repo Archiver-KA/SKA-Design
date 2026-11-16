@@ -1,0 +1,37 @@
+{
+  "id": "SN-C01598",
+  "title": "Sci‑Fi DMX Control Interface UI",
+  "summary": "Full-screen sci‑fi DMX field controller UI with Three.js signal visualization, draggable channel faders, toggleable modulation matrix buttons, XY vector control pad, and system telemetry panels. Ideal for dashboards, control surfaces, or demo interfaces.",
+  "tags": [
+    "ui",
+    "dashboard",
+    "threejs",
+    "interactive",
+    "control-panel",
+    "responsive",
+    "css"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16598,
+      "sha256": "68f85a9b86d7a71137db165b16063f8f084ac24d3f68cf2b217ce8d51cdcb80a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24635,
+      "sha256": "8fdc6c3e25ed77bdc89963e16eb910e0c2f672533afdca700caa729482ec6138"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

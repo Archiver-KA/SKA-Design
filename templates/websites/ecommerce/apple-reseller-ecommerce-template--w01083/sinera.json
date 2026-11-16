@@ -1,0 +1,117 @@
+{
+  "id": "SN-W01083",
+  "title": "Apple Reseller eCommerce Template",
+  "summary": "A clean, modern eCommerce template designed for high-end technology resellers, featuring a curated shop, CMS dashboard, and user portfolio section.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Clean",
+    "Services",
+    "Dark",
+    "Portfolio",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "react",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2750,
+      "sha256": "c0329c3291a465e8e62bdd63d820511f4d931c77c172f68ead81395751872891"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17246,
+      "sha256": "936a70925ffb23105e20ba58de2f4af45d1673b604d31ad250d0521f99fe2512"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "3d91fa96b72b73c5b49cacbc73902241e5e9ed950b127984a4f0a459ecc3a97a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 344,
+      "sha256": "5f25a368a99910cf5f04d8015c77d69416b0a06e9d1a1e56fb299e3b841c264c"
+    },
+    {
+      "path": "package.json",
+      "bytes": 695,
+      "sha256": "56b335355eb8366b4c6ef33961de6c2032a47a3b2445b1d9fbfd72fb40da20d9"
+    },
+    {
+      "path": "postcss.config.js",
+      "bytes": 81,
+      "sha256": "e32657baf631d7c5f4dc67b4b2ee0ec8e7d5b3c41860e09cddce7c0377cd80bc"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 3480,
+      "sha256": "ccf50dcdc926af84d0b43b1db84a2005bf35f713fc5d42d361397a590cc7056a"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 47219,
+      "sha256": "15b3a45daec7c3add22c84d9ffa043bb377e8d2dee7fae691ea1dccfa1a6dfa7"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 260,
+      "sha256": "471609e65562eec9b10d9b9d45625ad0d5d97e56ea391922febedc1481f50ceb"
+    },
+    {
+      "path": "src/pages/CartPage.jsx",
+      "bytes": 2763,
+      "sha256": "66c6c05dd5752cbaa870646d2ac7bea5fdebfefa3498394adf226e3a9ad92d1d"
+    },
+    {
+      "path": "src/pages/Catalog.jsx",
+      "bytes": 9203,
+      "sha256": "2d6b077f05dade0bcd34e5d28b04972f12a92ccac33aaf144381705afb456753"
+    },
+    {
+      "path": "src/pages/Home.jsx",
+      "bytes": 5478,
+      "sha256": "f69f2133855cfff529fa8d60834693d5fbedfda3a15b2e02fc7e73cc8da46ca0"
+    },
+    {
+      "path": "src/pages/Portfolio.jsx",
+      "bytes": 3507,
+      "sha256": "c2f004e06eb52d3ab003dfcb5faff006ae3e4e72c389833cca4b668a88724756"
+    },
+    {
+      "path": "src/pages/ProductPage.jsx",
+      "bytes": 3933,
+      "sha256": "fba7e3242c1e2819637c0787ded13b416081a1a7d764b81b1f46dd22e2c98045"
+    },
+    {
+      "path": "tailwind.config.js",
+      "bytes": 126,
+      "sha256": "cc8261a76bad6514da1a86304a7e949fa688d0757167eff69f27d73096759959"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 136,
+      "sha256": "eca485c281977125366d4800553256e419f364984e615f75a2d2bae54f7857fd"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

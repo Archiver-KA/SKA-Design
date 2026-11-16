@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01884",
+  "title": "Fullscreen Spline 3D Background Embed",
+  "summary": "Absolute-positioned container embedding a Spline iframe to render a fullscreen, interactive 3D glass-morph scene behind page content. Ideal for dynamic hero sections or landing pages using Tailwind utility classes.",
+  "tags": [
+    "background",
+    "spline",
+    "iframe",
+    "3d",
+    "animation",
+    "embed",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5742,
+      "sha256": "f7726b01588792097534ca57a8a77083e387b9838921bf37cac9ff8ab4006171"
+    },
+    {
+      "path": "component.html",
+      "bytes": 243,
+      "sha256": "c1ac05b56ed8d02d5bb3b8422d1db35aede5444532c6bdf3ca26fe84b815a314"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1101,
+      "sha256": "b7c32145988b4d718b807bcd18a953931c405657caa159b8da326c0901ac22d5"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

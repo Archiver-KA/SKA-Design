@@ -1,0 +1,141 @@
+{
+  "id": "SN-W00464",
+  "title": "Insights Mobile App Template",
+  "summary": "A reusable mobile app UI template designed for showcasing video series, guides, live streams, and analytics insights with interactive filtering and navigation.",
+  "tags": [
+    "Landing Page",
+    "Mobile App",
+    "Video Series",
+    "Guides",
+    "Live Streams",
+    "Filters",
+    "Interactive UI",
+    "Dashboard",
+    "Navigation",
+    "Insights"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3566,
+      "sha256": "8c011ce56e533aa426bd3e63cdf38181c733885b7863606ef6172cbf213a54b4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11304,
+      "sha256": "6772daae5fc4646740f8fdade1cc5759785b17f98839a71806855079114c93f8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 3747,
+      "sha256": "04927eb0b80f2c6cf35752b87a9892b321260dca100ff3296201b967696913e1"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 379,
+      "sha256": "639a8e1c0ff3e22d23511da6dc41e9eed8d86ac6ea52f308d4bc98f0c42a5b26"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 400,
+      "sha256": "8c58b54b7aad0352c2d9461a9c991ea6fa08421fa80f0a63ceca79d62dee5905"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 337,
+      "sha256": "8bcb91272984e57f4887f356a838093428280587f585cc88143fa979f8c0163b"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 447,
+      "sha256": "3ce5092a4ff7576c7657df4e2f53fad70a9fbafd4ecd52044757a7aec7c5f1e1"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 310,
+      "sha256": "113b24dd052be636df47bfff5c647ec58e697d46a819bd0cae532cabcf7673e6"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 368,
+      "sha256": "64fd4cc8ab44596b3fbb0c3130ebe894d55b5ee86535325f4f1d1acbe71e1748"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 305,
+      "sha256": "fc7ced341a971c8d1fe828aca1b7a56a1fdadf03e7ce809233a06bf859609fb7"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 296,
+      "sha256": "461e5e6ae27d9c85a04c7d52c8ad286d3d60cb5616680466e3584ccfd205ae58"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 412,
+      "sha256": "b6b6043d6244cad326fdf98197a9eda7e8f0eb89f35af187bdaca5e6ed4e4c9f"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 381,
+      "sha256": "5203199e44361ee7040e020780ff9c5ece65b6c6d6bdef13d6ea3b429a572565"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 483,
+      "sha256": "fb2e80fbed7a2292525f5da61de9118594031792a919bdef6f731534f65e94f3"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 447,
+      "sha256": "9978e61f9104781d598f451bb847f9d79013e8ca41a9e51942a3e44ee52346d1"
+    },
+    {
+      "path": "images/embedded/embedded-0013.svg",
+      "bytes": 332,
+      "sha256": "151dd210c5e81328458bd8dc047e0f13b39460bdb07cf3ad4e7f87b5bf325e58"
+    },
+    {
+      "path": "images/embedded/embedded-0014.svg",
+      "bytes": 368,
+      "sha256": "c67823dd8eae2ab3fb7a1778106a330c26947b930ed8998f5096a346f33921cd"
+    },
+    {
+      "path": "images/embedded/embedded-0015.svg",
+      "bytes": 430,
+      "sha256": "9f27eb2ba8505897b6d98c8f1d7f46ac4c6feee3e12033a8e4a213413f02a154"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37800,
+      "sha256": "1fb8efe01b8532d7468a9ce0150d37256a0a3396b390db3162d44a3d6208ace8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "hero"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

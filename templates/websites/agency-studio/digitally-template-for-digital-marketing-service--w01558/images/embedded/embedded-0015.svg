@@ -1,0 +1,18 @@
+<svg viewBox="0 0 700 240" preserveAspectRatio="none" class="w-full h-[240px]" aria-hidden="true">
+        <defs>
+          <linearGradient id="revFill" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#f97316" stop-opacity="0.25"></stop>
+            <stop offset="100%" stop-color="#f97316" stop-opacity="0"></stop>
+          </linearGradient>
+        </defs>
+        <line x1="0" y1="40" x2="700" y2="40" stroke="#f1f5f9" stroke-width="1" class=""></line>
+        <line x1="0" y1="100" x2="700" y2="100" stroke="#f1f5f9" stroke-width="1"></line>
+        <line x1="0" y1="160" x2="700" y2="160" stroke="#f1f5f9" stroke-width="1"></line>
+        <line x1="0" y1="220" x2="700" y2="220" stroke="#f1f5f9" stroke-width="1"></line>
+        <polyline class="sinera-prev-line" points="0,180 100,165 200,170 300,150 400,155 500,135 600,140 700,120" fill="none" stroke="#d1d5db" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 6"></polyline>
+        <path class="sinera-fill" d="M0,160 L100,130 L200,140 L300,95 L400,110 L500,60 L600,75 L700,35 L700,240 L0,240 Z" fill="url(#revFill)"></path>
+        <polyline class="sinera-line" points="0,160 100,130 200,140 300,95 400,110 500,60 600,75 700,35" fill="none" stroke="#f97316" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></polyline>
+        <circle class="sinera-pt sinera-pt1" cx="300" cy="95" r="4" fill="#fff" stroke="#f97316" stroke-width="2.5"></circle>
+        <circle class="sinera-pt sinera-pt2" cx="500" cy="60" r="4" fill="#fff" stroke="#f97316" stroke-width="2.5"></circle>
+        <circle class="sinera-pt sinera-pt3" cx="700" cy="35" r="5" fill="#f97316" stroke="#fff" stroke-width="2.5"></circle>
+      </svg>

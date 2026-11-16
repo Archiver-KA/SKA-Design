@@ -1,0 +1,130 @@
+{
+  "id": "SN-W00196",
+  "title": "AI Workforce Pricing Page",
+  "summary": "Responsive pricing UI with navigation, hero background, and call-to-action buttons styled using Tailwind CSS.",
+  "tags": [
+    "Pricing",
+    "Navigation",
+    "Hero",
+    "Tailwind CSS",
+    "Responsive",
+    "Call-to-action"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3631,
+      "sha256": "9bd48f4d1ed1d5e7856fbccbe5e930e828f5feeafe97ca9713fe822d2671b924"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14250,
+      "sha256": "46f1eee8732f82812ceca9edf983a11e02e7b4e6b4794f409d855bdb12188b1e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 3886,
+      "sha256": "76b7e8fe20294fd65661ec4b87aaab1f9b8129bb10b446a6f3a511df29eecf8f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 345,
+      "sha256": "7dd9cebd461e35528db110494e97fe6b49e1a4d72ebf07d2c87d27fa6c3e20cb"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 495,
+      "sha256": "2cd571b1ea5914633c2fe78f748aba1d8303d0f56edf8f7593bb79047aa817fc"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 349,
+      "sha256": "823bbf995771bab80f99117988a930663f4609b2ab7587a179bbca46c6271852"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 354,
+      "sha256": "9a43b3cb0972a4750d3acc4abe7d56aa4f7b072cceaa875da0f397904854b505"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 382,
+      "sha256": "28803313a5c966818b6f17c348fc872953363465e2f7cfe3aac6a375d7d19243"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 338,
+      "sha256": "9846c6b57b19abb3703f637d8e5ae8a82c16a3b40ca05f3d3ae5822649c09873"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 621,
+      "sha256": "ff2ae7ad7fc1d56896de165d8f19a2f7d89af2a4771f464d9db034489b7923eb"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 340,
+      "sha256": "8f3575896130b7077aeefaec5168593c8cb18792164a6bcf7f7b4e1d882bf0a0"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 574,
+      "sha256": "b2db5f35a3f054462ab35dd78e5f924d07f6e8d7b71f5c105ec866a5f35e67f0"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 341,
+      "sha256": "7dca58beb54bbc5f58713f3c3bf0373487e7e4ca4a9c23106abeb6afbf28b1bc"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 420,
+      "sha256": "db6562cc26c8ab7f988bc099e075d95baf3becc01ec0a2c7c864b7ad9e384dfc"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 468,
+      "sha256": "84ee15780d820b9c4b3d4a9f50d6595aa45d1a4960b638869dd0b3ccc65bef3f"
+    },
+    {
+      "path": "images/embedded/embedded-0013.svg",
+      "bytes": 488,
+      "sha256": "eea1a3558f6682b11f3dc1866c7a2540e6cbeaea346832709eabaf4aec2f3bf5"
+    },
+    {
+      "path": "images/embedded/embedded-0014.svg",
+      "bytes": 471,
+      "sha256": "441af575c7b9fb9cf86f05b6381d992b3d1bdb32b889bb5ec76c6ca8d0fd607c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39174,
+      "sha256": "e76f2c12d63ffe38cb624d8ff5c17b6c263cbd21c0363098ccc7421ec44095ef"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

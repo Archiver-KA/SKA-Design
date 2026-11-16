@@ -1,0 +1,40 @@
+{
+  "id": "SN-C01166",
+  "title": "Responsive Logo Header",
+  "summary": "A professional logo header component with responsive sizing. Features centered alignment and proper spacing, ideal for navigation bars or page headers.",
+  "tags": [
+    "header",
+    "logo",
+    "responsive",
+    "navigation"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5540,
+      "sha256": "453ed61939631fe1da25eb144f1ee5f2a6d8c1568a84ac85bc641788bf8e6d06"
+    },
+    {
+      "path": "component.html",
+      "bytes": 602,
+      "sha256": "58f009c45d2b128cc351a0d337af6b199706e4bb84574e79338ede917c2a0bc7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1445,
+      "sha256": "b667945d612cd6aa8cba21f86ddfb4309e6fb671bb19f4aa3e8776646253c740"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

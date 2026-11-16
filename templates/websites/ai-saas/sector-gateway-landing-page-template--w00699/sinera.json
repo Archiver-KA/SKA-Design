@@ -1,0 +1,60 @@
+{
+  "id": "SN-W00699",
+  "title": "Sector Gateway Landing Page Template",
+  "summary": "A high-performance immersive landing page template featuring cinematic portal scroll transitions and futuristic interactive 3D effects.",
+  "tags": [
+    "Technology",
+    "Futuristic",
+    "Animated",
+    "Dark",
+    "Landing Page",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3594,
+      "sha256": "b130f2c81a70ba2f25ee3dbcfab0b4244daad3f4d3319b9d823996c1512f2c8c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15584,
+      "sha256": "78775e5468ac174da2a5458cc19d72b669b98200db27e2377d12e24e9d5a9cd9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 813,
+      "sha256": "da41cb4a62836928db5836271aec2c8a5980ebcfe8757d2c48250e917ea93abe"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18449,
+      "sha256": "e07f8c3d9b5f50b55a1ad2dd830868eb9bb23133c80d95a1fe97aecd8bd287c2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "added-title"
+    ]
+  },
+  "design": "DESIGN.md"
+}

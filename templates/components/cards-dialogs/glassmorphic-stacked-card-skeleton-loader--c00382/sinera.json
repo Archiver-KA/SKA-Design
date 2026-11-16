@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00382",
+  "title": "Glassmorphic Stacked Card Skeleton Loader",
+  "summary": "SVG renders three overlapping glassmorphic cards with gradients, blur and placeholder bars, acting as a stylish skeleton loader for dashboards, card lists or profile sections during data fetch.",
+  "tags": [
+    "skeleton",
+    "loader",
+    "card",
+    "svg",
+    "glassmorphism",
+    "placeholder",
+    "gradient",
+    "dashboard"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3874,
+      "sha256": "7ec224508e583f14c939c308bcca342f7fce97c28c8189ac475ef9131d5a8f57"
+    },
+    {
+      "path": "component.html",
+      "bytes": 47034,
+      "sha256": "bdcc0ad4810d10b024f6bc39c5991e01358b76cfdbd4092669ff213cf9f24fa4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 47896,
+      "sha256": "4fbc7eff06c694f3602385db72b7109f9bbaf19b31f97669afcff1524d5bf74b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

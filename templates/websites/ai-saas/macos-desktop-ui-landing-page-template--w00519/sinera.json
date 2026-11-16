@@ -1,0 +1,62 @@
+{
+  "id": "SN-W00519",
+  "title": "macOS Desktop UI Landing Page Template",
+  "summary": "A macOS desktop-style landing page template that recreates the Finder menu bar, desktop icons, and animated dock for product demos, portfolios, or apps.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Minimal",
+    "3D",
+    "Desktop UI",
+    "macOS style",
+    "Tailwind CSS"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3476,
+      "sha256": "53de3809c8bb66e0bacc57384158f70641a8c927c66003d62a8c30ba8a2e63a9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14810,
+      "sha256": "f7e74655d24b67c3ca8a7c9ea62e8970ff9cd6a6c4e46cdb816e0b8a0cd30210"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 732,
+      "sha256": "2abf6e46f8ed74ad2f004e375b8b51c5b4bfa838e6a1c5c73ec5b5878b7c0df3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28207,
+      "sha256": "0f16eb5abe23ee8783b8de875f8a5e19fff42a3a8410e58c43df7f1e75b9f077"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

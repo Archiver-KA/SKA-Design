@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00185",
+  "title": "Gradient Call-to-Action Button",
+  "summary": "Rounded full-width gradient CTA button with hover and active animations, shadow effects, and responsive sizing using Tailwind-style utility classes. Ideal for primary actions like starting a trial or signup.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "interactive",
+    "animated",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2256,
+      "sha256": "48ee7295846269a692aee2abbfa026136e3adbb8ab3ea6607f750e6e455a492b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 566,
+      "sha256": "b7627164b1a90adc345f131a477593dd8638fa57e3bae2815107b85b1b8e4a9b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1417,
+      "sha256": "2ee1c93123584cc685bee99a2d8c3ab86a51ace751c92de530be278254468f3f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

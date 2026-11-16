@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00335",
+  "title": "Code Generation Preview Card with Zod Schema",
+  "summary": "Dark themed preview card showcasing a code generation UI for JSON-to-type definitions. Includes header actions, configuration summary, copy button, and styled code block with line numbers. Built with Tailwind-style utility classes for use in dev tools or dashboards.",
+  "tags": [
+    "card",
+    "code",
+    "preview",
+    "tailwind",
+    "dashboard",
+    "developer",
+    "ui",
+    "snippet"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12694,
+      "sha256": "e2b537cba399f5fbcc426191eeef9d1f2965bbbcdfba03adbaba8d78887703b4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6448,
+      "sha256": "cd100a0e0567c176d69fbc9363f285ccae00f9b8726caa665af0a8c1ddd78bac"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7403,
+      "sha256": "dec3aa341deab9b910925bf06f9833e662c17cd6e5ad953dcdb7e3bac7173f23"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

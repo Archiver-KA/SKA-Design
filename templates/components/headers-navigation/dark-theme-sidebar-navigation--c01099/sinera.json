@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01099",
+  "title": "Dark Theme Sidebar Navigation",
+  "summary": "Complete dark-themed sidebar with header, user profile, navigation links, quick stats, connected apps, and status footer. Perfect for dashboard layouts.",
+  "tags": [
+    "sidebar",
+    "dark-theme",
+    "navigation",
+    "dashboard",
+    "integration",
+    "responsive",
+    "user-profile"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9882,
+      "sha256": "269312c7dee557833775a1e56c433547e0401e5ce3093f65afcbb1316ad5ffa6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10167,
+      "sha256": "1c8dc2ba0f542b8f7e69e96c5a1f2829ba28a2d5df593acb7009b275c8db2f86"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11017,
+      "sha256": "fab629f64ae80fef4bf7f4c2b70166d0aae55b2dcf31d459ce1387d9c0f58c04"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

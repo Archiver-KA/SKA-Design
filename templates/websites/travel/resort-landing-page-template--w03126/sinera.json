@@ -1,0 +1,69 @@
+{
+  "id": "SN-W03126",
+  "title": "Resort Landing Page Template",
+  "summary": "A refined resort landing page template for showcasing hotel rooms, dining, and local experiences with a modern booking-focused layout.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Hotel",
+    "Resort"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3650,
+      "sha256": "3a81c4784c9e627d8211ad633c4d35a6aa08afd2be4f4655f18d1b430a6201e6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13388,
+      "sha256": "20bd2a5598d28bf762b0fda9d0b0001b861b1d620efd29d1cb4676874cbd403a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 803,
+      "sha256": "b4120faeb62e4641bf533e7f06bb9d9fe8fc74d7106d24a4cb5ac42fbb2f3891"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38045,
+      "sha256": "3c8c60e3ad7c3b7d64bfc63151c3d95eac1e477f41795294063a378d329e4914"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "listings",
+    "features",
+    "map-location",
+    "gallery-portfolio",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01876",
+  "title": "Creative Agency & Design Portfolio Template",
+  "summary": "A high-end creative studio template designed to showcase distinctive brand identities and digital experiences with minimal elegance.",
+  "tags": [
+    "Portfolio",
+    "Branding",
+    "Graphic Design",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Services",
+    "Style"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3415,
+      "sha256": "f6581e8eac77becee78d0bcf58532ece463f86288429b205d774eee169436d2f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5662,
+      "sha256": "b13f58d7e9f64a5e6b74ebefabd6f680820cca98c27bbd8b9211ff7f61b0f868"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 731,
+      "sha256": "264bbafbdbe0becbc6652ffcf4cf3f2c8746a0c0a7cb9a3b3884d4ea84f9b5a0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 50107,
+      "sha256": "61058edcd5e0e5e2d805878cb226dbfebaa749ab5b07760f98935aa8ea678a58"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "announcement-bar",
+    "navbar",
+    "hero",
+    "bento-grid",
+    "cta",
+    "how-it-works",
+    "features",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

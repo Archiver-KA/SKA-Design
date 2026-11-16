@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03320",
+  "title": "ModulHouse Premium Real Estate Landing Page Template",
+  "summary": "A dark, minimalist real estate landing page template for showcasing premium modular homes, architectural models, and high-end property inquiries.",
+  "tags": [
+    "Real Estate",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Architecture",
+    "Modular Homes",
+    "Luxury"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3395,
+      "sha256": "12e511cdcb5dfe18269756cd1ec00aeb41fbf5bdad84ed96af358750d5b470b2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11602,
+      "sha256": "04d9a4e21574925284c4805e8d453892b434a97db96f4981a35e4785a9ce9d59"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 742,
+      "sha256": "9d898d144c7739eb7b90a1fd0fd258fb411131681376824af521479214954da0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21041,
+      "sha256": "950060061a81e2e043dc643bb14079434df87f708c4a33b8ad638e7975d1b099"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "product-grid",
+    "features",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

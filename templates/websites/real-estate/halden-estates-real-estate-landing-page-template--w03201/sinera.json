@@ -1,0 +1,90 @@
+{
+  "id": "SN-W03201",
+  "title": "Halden Estates Real Estate Landing Page Template",
+  "summary": "A sophisticated and immersive real estate template designed for high-end property portfolios and luxury estate agencies.",
+  "tags": [
+    "Real Estate",
+    "Landing Page",
+    "Minimal",
+    "Clean",
+    "Dark",
+    "Technology",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3620,
+      "sha256": "8b0a4aadea41b2d0c3900643b9a207cc4cfde00d626c52e0e208c58b7cc1e1ab"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 29319,
+      "sha256": "6c9a0765c4a62846ce26aeffcea99b113cb86a0ae1e0036f0d31e74cbf4f50fa"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1551,
+      "sha256": "89acf76cfb88965d65ee7d6148f3a2f24d277befce53c35131b6203ee58dee81"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 565,
+      "sha256": "3301e83c890a6f4ab7a57364a6d4dbd3e9abaf324860cc886b62b364c4deeabe"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 320,
+      "sha256": "e36ac84c6522d91362ef5a8f01b9fc0d56970c5cc6d404efe28c65a1589e0448"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 322,
+      "sha256": "d628f3ad93bdb372397a482daa303f590af16911dbf7785e44fd1fc430959e4f"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 334,
+      "sha256": "af42c5446386385a0f9da4bccb39ec1c7878a1c96fe5ab5931d876a9b6a0af8c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 55363,
+      "sha256": "c18fcb1d3a73bffb4596e2058531e7ca489b0f643c4f331a769a1f9e39a58358"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "about",
+    "stats",
+    "timeline",
+    "product-grid",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

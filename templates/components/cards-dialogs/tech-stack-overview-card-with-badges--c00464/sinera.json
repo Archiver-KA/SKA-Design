@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00464",
+  "title": "Tech Stack Overview Card with Badges",
+  "summary": "Displays grouped technology lists under frontend/UI and AI/backend headings, each rendered as pill badges, plus a focus-areas note. Tailwind-styled bordered container suits portfolios, project dashboards, or product pages.",
+  "tags": [
+    "card",
+    "badge",
+    "tech stack",
+    "tailwind",
+    "responsive",
+    "portfolio",
+    "list"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10548,
+      "sha256": "f47ff1aa51e2fcbc2344badfdae701f6947897748b7b468faca3f8aa44568e8d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2864,
+      "sha256": "5a25bd565cf1ea4652fb3ec614d7b5fca096941cfebd1ad833d0b0a1c0adf76a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3851,
+      "sha256": "9bcdc7cb46fae8a5f6a576ddbbd795ecfa2e80eb6b112c3d5d2d8cee23258060"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

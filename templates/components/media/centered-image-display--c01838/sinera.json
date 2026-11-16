@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01838",
+  "title": "Centered Image Display",
+  "summary": "A responsive image container that centers images horizontally with proper max-width constraints. Perfect for showcasing hero images, diagrams, or featured graphics.",
+  "tags": [
+    "image",
+    "centered",
+    "responsive",
+    "hero",
+    "display",
+    "container"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 28704,
+      "sha256": "bb8b2c48ae5b64611b18d0bfa161c6b16d500a594666fa3a10e01e6d18479876"
+    },
+    {
+      "path": "component.html",
+      "bytes": 202,
+      "sha256": "563c218ef12b805691066b78c87cfda72f2c566663a2b7ad36be9604b83885f9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1045,
+      "sha256": "cbec60c9714b7d62e49fb12cc8ec04b4c07df7833b327c29edec6743bab504dc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

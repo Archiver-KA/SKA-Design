@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01545",
+  "title": "Digital Marketing Agency Landing Page Template",
+  "summary": "A modern digital marketing agency landing page template designed to showcase services, drive client inquiries, and convert visitors into new projects.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3767,
+      "sha256": "168f5df3bd0820b02fd63ad0c7933f81fc68a58984ed4a68b8ba2ceeb868edf6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16546,
+      "sha256": "ea981a69567402d3d073185d62aeba4640ea32775b9cf82543dbb6bde16ca5a4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 823,
+      "sha256": "29e557d45b84382b3e0bd5912ceca812be9ca7b11b63e84f5a28e1e1f8961aed"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37787,
+      "sha256": "57683296c9095b6643f30aa24d28bb93739505398b0e40d4c2d766cabb9aab82"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "services",
+    "stats",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

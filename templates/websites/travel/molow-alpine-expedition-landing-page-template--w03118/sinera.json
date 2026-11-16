@@ -1,0 +1,75 @@
+{
+  "id": "SN-W03118",
+  "title": "Molow. Alpine Expedition Landing Page Template",
+  "summary": "A high-end travel and adventure template designed for luxury expeditions and alpine trekking services.",
+  "tags": [
+    "Travel",
+    "Landing Page",
+    "Dark",
+    "Clean",
+    "Services",
+    "Animated",
+    "Minimal",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3421,
+      "sha256": "9ca777d587d8226db0afc793ff505277cfc97cc8a6139ab4e9033123e7e47bda"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10292,
+      "sha256": "654739815c7cbb4436c47d72c093974e16a2317bff9ae249789acf789a8f19ef"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 975,
+      "sha256": "77364306ebc8df92c4d86cdfec744cb31540454068f1a6aa814b60f983e5df4e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 150,
+      "sha256": "d55bb55288c1d1b3585ad94e01ca194d1741871e7bf5f3a1321c0c65760a553e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28091,
+      "sha256": "6d0ed52c7ce562b56d630bd9c01217cfde2514f43e841da16369e6030a600fb6"
+    },
+    {
+      "path": "sinera-fx-filter.js",
+      "bytes": 20821,
+      "sha256": "6b5f074b7d846e3a404deda089c33986eb540d0c5cd8c1c0730e314b4c68c287"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "timeline",
+    "product-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

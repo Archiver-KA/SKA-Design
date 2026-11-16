@@ -1,0 +1,109 @@
+{
+  "id": "SN-W01486",
+  "title": "Creative Agency Landing Page Template",
+  "summary": "A dark, high-impact creative agency landing page template for branding, UX/UI, and marketing services, ready to customize for your own studio.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Services",
+    "Art & Design",
+    "Portfolio",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3618,
+      "sha256": "e2d6c93207ea8b3722732ed1d60fb0d281907caaf71b432c177a2aaf5d79c71f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18108,
+      "sha256": "1288a1952c9801bcf07e434523438a011288c442905eba2356f3e9385ad3088c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2498,
+      "sha256": "372eaedf7a7de8257305571ec0609edeb3abe3c89ac8a49c6b1a1ee66bbe32f5"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "6d7f47cc04d290ef4abac372150068099aee31617cc15da366306e3307a84d33"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 310,
+      "sha256": "77cbce26201b1e0a88b89d216e5f1707928b39a491f4364036048e07d6c8660c"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 377,
+      "sha256": "46e6265b199c76dd1f6de8112d66b8979b6c94ca9747134e75f75f502ea546b1"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 412,
+      "sha256": "85b14e67d1fc9641f0cd74a8163dd4fcba25cb76e9039e9f48a5917e25b0ef7e"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 422,
+      "sha256": "3f99fe47792c041bc11325b6bbf9d9809669c9835cf99f80c0842e71e2ede57e"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 291,
+      "sha256": "5858f38b943c0cb28d262300a7f6c5018b47d4044a6cb339082333afe21f73b3"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 501,
+      "sha256": "25f4a412b002be77b4cc52dbb01b3b17a2e188ded696cc23a5a15587b510f912"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 369,
+      "sha256": "400cf2526ea75d785c2307b3e2da69993b771bff31ceac305abef53135692ac8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31414,
+      "sha256": "025b3c980d63c54deaccb521c7d8b3b181e9bc089d4b8c8081ec7c99ba71fc17"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "services",
+    "footer",
+    "cta"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

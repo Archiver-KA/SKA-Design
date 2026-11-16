@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02168",
+  "title": "Hover-Expandable Product Card Gallery",
+  "summary": "Horizontal gallery of image cards that expand on hover, revealing gradient overlay with title and description. Built with Tailwind utilities and custom CSS for smooth flex growth and scroll/blur animations—ideal for showcasing product lines, categories, or portfolio items.",
+  "tags": [
+    "gallery",
+    "hover",
+    "expandable",
+    "animated",
+    "tailwind",
+    "image",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19536,
+      "sha256": "42b737a57ff2e911017f442b3c45517cf1ed547dc7a9981e832234110330e3fe"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7859,
+      "sha256": "66d44be8763752af45caf36a7431fa2afa5bb7fc4c9699ad5dbda6d79d2de983"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8717,
+      "sha256": "87fbd32c5181b6a66157276a6e22ca5ef804c736154da1454cc2d2b878324488"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

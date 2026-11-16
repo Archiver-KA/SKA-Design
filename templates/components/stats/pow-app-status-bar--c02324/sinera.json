@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02324",
+  "title": "POW App Status Bar",
+  "summary": "iOS-style status bar component showing time, signal, WiFi, and battery indicators for iPad applications.",
+  "tags": [
+    "statusbar",
+    "ios",
+    "header",
+    "mobile",
+    "system",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1858,
+      "sha256": "bd5a90b11bc981602d6cbb64667718557d0c5ef69746abb9ed6fda0951586798"
+    },
+    {
+      "path": "component.html",
+      "bytes": 586,
+      "sha256": "b19f32e9190063e0d58e283824826fb6af526302abc1cbe055e1fb6889a58f0f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1425,
+      "sha256": "6a99fc75226f5aeda49615590c0b9a2c010ea7964f2d7ecd33743bf3530b19c8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

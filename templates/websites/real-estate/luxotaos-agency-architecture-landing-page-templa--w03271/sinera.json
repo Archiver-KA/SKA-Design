@@ -1,0 +1,77 @@
+{
+  "id": "SN-W03271",
+  "title": "LuxotaOS Agency Architecture Landing Page Template",
+  "summary": "A dark, futuristic landing page template for LuxotaOS that showcases an agency operating system, maturity model, and CTAs for starting free or talking to sales.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Travel",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3525,
+      "sha256": "75284b8ce9411fe98c934f341fc3ccc914998a4221ed7d557badd2ec5d62002b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1800,
+      "sha256": "35f5703c018bbd0df573cdbb9459dffb43d2362a296668c44876441bdc9d017a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1077,
+      "sha256": "64a69b0ab34b8da7cf63ff86312178d90da0a6f4e480df20b7e000d946da541d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 266,
+      "sha256": "c7c4ad15da88573ea6b7cadc28e55dca60a79eeb24f046e194bab398c1e1d7b5"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 694,
+      "sha256": "26dfb1a6f568512da1cc048f4ac5ae2e0ec9a93b3e206ca9c0a8a217a08a0534"
+    },
+    {
+      "path": "index.html",
+      "bytes": 67493,
+      "sha256": "2d565a0cfe32c253df72f9633763275a357be8ac74ef7641be9a98c838260698"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "cta",
+    "features",
+    "listings",
+    "integrations",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "SN-W02710",
+  "title": "Barbershop Landing Page Template",
+  "summary": "A premium barbershop website template for showcasing services, pricing, reviews, and online bookings for modern grooming studios.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "3D",
+    "Barbershop",
+    "Hair Salon"
+  ],
+  "kind": "websites",
+  "category": "beauty-fashion",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3718,
+      "sha256": "0b978ce474eee221b723cdda90781b07968a7b50adc797887aa9bdefebd3d2c2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13504,
+      "sha256": "75c1679f7fbadb212612154a376ef7526115f91e36e25a382a9a43c980355d34"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 727,
+      "sha256": "abb02b25317ec45c11555bcfba9882d2960fff51b357edf69513baf4abf2442c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41134,
+      "sha256": "a17b2d28a20ffc5c9379c6b528b314b7a7d1a2eecb33d226d00ba063ad61ef72"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "beauty",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Beauty / Fashion",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "testimonials",
+    "about",
+    "services",
+    "product-grid",
+    "booking",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

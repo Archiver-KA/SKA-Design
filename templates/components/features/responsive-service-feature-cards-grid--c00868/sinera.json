@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00868",
+  "title": "Responsive Service Feature Cards Grid",
+  "summary": "Tailwind-styled grid presenting four service cards with icons, actions, dropdowns and input. Ideal for landing pages to showcase product features or offerings across screen sizes.",
+  "tags": [
+    "grid",
+    "feature",
+    "tailwindcss",
+    "responsive",
+    "interactive",
+    "dropdown"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 23536,
+      "sha256": "a361ff69fed87df799f4ff2c430a2488c230594dba9bebb18631bcfe470b4701"
+    },
+    {
+      "path": "component.html",
+      "bytes": 15930,
+      "sha256": "7ea100e688cb7a78c8b2166a467e5fd97a22c39cbe5d10eb0eceaeae6181d4d7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16918,
+      "sha256": "46019eb68043588330ea3690ad72283247bcb62e7cea14b203795a82ebea463e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

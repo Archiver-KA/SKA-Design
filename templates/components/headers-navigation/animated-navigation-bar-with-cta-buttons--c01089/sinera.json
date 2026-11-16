@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01089",
+  "title": "Animated Navigation Bar with CTA Buttons",
+  "summary": "Responsive top navigation bar featuring a logo area, primary nav links, and sign-in/get-started CTA buttons. Uses Tailwind-style utility classes and scroll-triggered fade-slide animation. Suitable for landing pages and SaaS marketing sites.",
+  "tags": [
+    "menu",
+    "navigation",
+    "header",
+    "responsive",
+    "animated",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3472,
+      "sha256": "ed6a746b046f0b01d0261002cd8eb9628abe05728ac19b46fac48505de4976c4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2032,
+      "sha256": "c2c1d1af8c93c1abfd2815c9be9cb5e5a0265291682f93da7031f5fc1776320d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3043,
+      "sha256": "0ec8b6dfe52c1e2be8a6b1b8747c4d1ab610ad909434e6f0e5ea58f9f3350c60"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

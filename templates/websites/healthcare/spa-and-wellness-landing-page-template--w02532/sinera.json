@@ -1,0 +1,70 @@
+{
+  "id": "SN-W02532",
+  "title": "Spa & Wellness Landing Page Template",
+  "summary": "A reusable spa and wellness landing page template for showcasing scalp treatments, services, location, and online booking for local salons or studios.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Health",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Spa",
+    "Wellness"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3825,
+      "sha256": "8a2241a3377a5b698086e5f18368f2bd3c842de8048bfc38ed2b8a689b307be9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13606,
+      "sha256": "5ca58ee3bad540cf4fb383134ed821b7a63dbacc51c7e343951c39a1aa441b81"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "3f242edc786fd04aced3f49f2be96c1eaf73dda4da3db008706b3b629976fd50"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38008,
+      "sha256": "f19aa910367b27f7beef8731f48da908802ca898a2226fe35cd2f52019785253"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "services",
+    "about",
+    "map-location",
+    "booking",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

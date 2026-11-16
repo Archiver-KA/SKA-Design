@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01310",
+  "title": "Cybersecurity Hero Section with WebGL Animation",
+  "summary": "A full-width cybersecurity landing hero featuring animated headline reveals, orbiting server graphics, live data bars, cursor glow, and a Three.js wireframe background. Built with Tailwind CSS, GSAP, and Iconify for premium SaaS or security product pages.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "animated",
+    "threejs",
+    "gsap",
+    "cybersecurity",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19818,
+      "sha256": "95c7a751588442fd230aab690910a49c42bb8f7f0272be8ddf5e9a64d2027555"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15507,
+      "sha256": "a86cceca9c2a4376f8f512b265fbc529af8e0c542f3e20cecdf9c0b6367799d4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

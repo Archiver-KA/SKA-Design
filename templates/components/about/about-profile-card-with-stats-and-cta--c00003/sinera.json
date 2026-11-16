@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00003",
+  "title": "About/Profile Card with Stats and CTA",
+  "summary": "Tailwind-styled card displaying cover image, about text, key stats, learning highlight, and a “Let’s collaborate” button—ideal for personal portfolios, team profiles, or landing pages.",
+  "tags": [
+    "card",
+    "about",
+    "profile",
+    "tailwind",
+    "responsive",
+    "cta",
+    "stats",
+    "portfolio"
+  ],
+  "kind": "components",
+  "category": "about",
+  "categoryLabel": "About & team",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 23346,
+      "sha256": "4e7a6c4f2c2971b00926418bd6f377b2a5e39f70d6d44a3f41063e8ea5025410"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2794,
+      "sha256": "248830ee13774ec311cee2078f028e4d6c2bcd56c35fa6f20c69d631eca210bf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3782,
+      "sha256": "61b683faf35bf725f15df2cae3c8a9e24cf2280d1f5b6e7efd534c75c04c970d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

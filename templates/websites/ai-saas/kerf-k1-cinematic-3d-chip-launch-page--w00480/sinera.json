@@ -1,0 +1,283 @@
+{
+  "id": "SN-W00480",
+  "title": "Kerf K1: Cinematic 3D Chip Launch Page",
+  "summary": "Kerf K1 is a scroll-driven launch page for a fictional 3 nm class processor. It opens on a probe-card loader, then the chip powers on as a hologram and turns real. From there you scroll through how it's made: the layout drawn in light, the mask printing the wafer, the package coming apart into its eight parts. Then a laser cuts the chip open and the camera zooms from the package down to a single transistor. The text is written by a laser on its own clock, and every moment has a subtle synthesize",
+  "tags": [
+    "cinematic landing page",
+    "scroll animation",
+    "3D chip",
+    "processor launch",
+    "semiconductor",
+    "Three.js",
+    "WebGL",
+    "GSAP ScrollTrigger",
+    "Lenis smooth scroll",
+    "product launch page",
+    "hardware startup",
+    "dark UI",
+    "hologram effect",
+    "laser text animation",
+    "Web Audio sound design",
+    "tech landing page",
+    "awwwards style",
+    "interactive 3D"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2912,
+      "sha256": "74780975ba9ea35d04b42579068bf4e2b7a463e397c3968c54235ce131f3a94a"
+    },
+    {
+      "path": "assets/inline-020b4174df.jpg",
+      "bytes": 45256,
+      "sha256": "cc640c667cd81833abcd797b59f8e2d0f743dbe04a1ea8144c0d5be47013968f"
+    },
+    {
+      "path": "assets/inline-154ae58aaf.jpg",
+      "bytes": 75875,
+      "sha256": "a507014ff68ebb82a85a0de10c30eb7646d0f341c34007df37b0b3a683ff4b6c"
+    },
+    {
+      "path": "assets/inline-283f94a442.jpg",
+      "bytes": 71859,
+      "sha256": "6085578acd376d748ea24b8acb1c93b03b4e350cfc6cb6ef8c262ea5970b959a"
+    },
+    {
+      "path": "assets/inline-3f669093b9.jpg",
+      "bytes": 117116,
+      "sha256": "d97bd9e79f3a205cdea9a43984b86ec151f357e176ca2c24d40dfed275dd3b7a"
+    },
+    {
+      "path": "assets/inline-45ac4280bb.jpg",
+      "bytes": 49276,
+      "sha256": "25a466e52a00cbe2ad88919a12c83fd2345bf2ebfa5f9b7af6909b5eb2e750f8"
+    },
+    {
+      "path": "assets/inline-6148594dc0.woff2",
+      "bytes": 40240,
+      "sha256": "056e4e2459f57a0033c8c9c844ff19d6e42ac8602027803d4345823bcc939818"
+    },
+    {
+      "path": "assets/inline-65b66cf4ee.jpg",
+      "bytes": 58677,
+      "sha256": "b194b23341bce23b77317b57576304efb62f6e2b550085ca8cd75214f31a2ab7"
+    },
+    {
+      "path": "assets/inline-7779174e38.jpg",
+      "bytes": 97940,
+      "sha256": "0b94f0b4ff817b2dcb848327c2b8fda7c704d0c90bbc4196d131425fc419d299"
+    },
+    {
+      "path": "assets/inline-9e37cd0c2b.jpg",
+      "bytes": 52096,
+      "sha256": "183a19f8e55e258f0f7741e24c2043b518f5934d49c41154e00de563f4495e42"
+    },
+    {
+      "path": "assets/inline-b68ef0e0b2.jpg",
+      "bytes": 76184,
+      "sha256": "eb047c3a43a6722cf0244e1c838dd8e760af808542721c149271bdf9ec81e591"
+    },
+    {
+      "path": "assets/inline-b9184a44f9.jpg",
+      "bytes": 101195,
+      "sha256": "261ceba44eed695eec7b6d0d2696b2ea501bda10d9f34e3fbbda407981d489b9"
+    },
+    {
+      "path": "assets/inline-f9866e19d9.jpg",
+      "bytes": 132529,
+      "sha256": "d63edb5dee2b815c6e38cd2c029ce364baae1482149f93cf1959982e8ea7cd4d"
+    },
+    {
+      "path": "assets/inline-fa350a0598.jpg",
+      "bytes": 35289,
+      "sha256": "bf7f3e968516b7237288549c9846290afc37f49d516dd0b5e63cfb3d9f874711"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2352,
+      "sha256": "96b24eae6200c71b0abd6d8f85d57f2a6b9c03315657fbdc49e38948fdc0f00c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 6521,
+      "sha256": "4ce8406fd959b423c03140178275005e9ccb31e096c98ca6e9252b1d262a8840"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 412,
+      "sha256": "3ae57edfb28d7dda3a058430072b93f6787a31a8a8487eec4cb94d1d51af7846"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 247,
+      "sha256": "79e677e54d0e58d9952777979c24413b87e815e22878b7ec6b2178d826f3a8af"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 449,
+      "sha256": "c0aebcbc20c9f38c33c21101557f90ade2dc3e3c3c97440ded00bfb3e062c057"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 387,
+      "sha256": "d8a4817c676fbe19448d90d8b1e6a0086cea72047a621695a44bb8a9bc3d988b"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 316,
+      "sha256": "1798af87377c2876ddecc24f57cc42ea664ac8b3101b38fdb15f6b9170788826"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 225,
+      "sha256": "9a6fc8cb911325b26cdd07fc010d56a41914f708e91b0e06194b635dd71c86cd"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 443,
+      "sha256": "2af8a82fdc9aa8bb7738b270c09da5703d727dfce1df8dd1cfaf02802221cf20"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 213,
+      "sha256": "11883f1769b7257bc0e9428a93050fcd24db9e7345177b00a3991c579a3b01ed"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 351,
+      "sha256": "110044afdbeefcade55ae2c88bf3b36ccf85aaa6204a8412763092124114a259"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 161,
+      "sha256": "eb23fed26a614cf5b008ca733d6a8229af604e92cc574167cba31813a71a0fb0"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 696,
+      "sha256": "cc575a35d59cdb525e032eeb375382fbcd4a7d1beee2463c932913693603be9e"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 154,
+      "sha256": "a5e32df57d7ab21a6244901cc9352ea58ae605fd73bf28fe178c10024a31b6cf"
+    },
+    {
+      "path": "images/embedded/embedded-0013.svg",
+      "bytes": 267,
+      "sha256": "2e852beb5574c0b444142dd7e14bf015cb204eacb87e1f352e8cd9a778c003b1"
+    },
+    {
+      "path": "images/embedded/embedded-0014.svg",
+      "bytes": 196,
+      "sha256": "1d550c0fd4d092bf523303fabfa3ef03d7eb756eb52f1733bd7d86ebe8bc7635"
+    },
+    {
+      "path": "images/embedded/embedded-0015.svg",
+      "bytes": 247,
+      "sha256": "e9f4898b9dfc39c4d6c5344bdd34e934b6d304df0abd0ea7d592335d29413fd1"
+    },
+    {
+      "path": "images/embedded/embedded-0016.jpg",
+      "bytes": 132529,
+      "sha256": "d63edb5dee2b815c6e38cd2c029ce364baae1482149f93cf1959982e8ea7cd4d"
+    },
+    {
+      "path": "images/embedded/embedded-0017.jpg",
+      "bytes": 45256,
+      "sha256": "cc640c667cd81833abcd797b59f8e2d0f743dbe04a1ea8144c0d5be47013968f"
+    },
+    {
+      "path": "images/embedded/embedded-0018.jpg",
+      "bytes": 49276,
+      "sha256": "25a466e52a00cbe2ad88919a12c83fd2345bf2ebfa5f9b7af6909b5eb2e750f8"
+    },
+    {
+      "path": "images/embedded/embedded-0019.jpg",
+      "bytes": 35289,
+      "sha256": "bf7f3e968516b7237288549c9846290afc37f49d516dd0b5e63cfb3d9f874711"
+    },
+    {
+      "path": "images/embedded/embedded-0020.jpg",
+      "bytes": 75875,
+      "sha256": "a507014ff68ebb82a85a0de10c30eb7646d0f341c34007df37b0b3a683ff4b6c"
+    },
+    {
+      "path": "images/embedded/embedded-0021.jpg",
+      "bytes": 71859,
+      "sha256": "6085578acd376d748ea24b8acb1c93b03b4e350cfc6cb6ef8c262ea5970b959a"
+    },
+    {
+      "path": "images/embedded/embedded-0022.jpg",
+      "bytes": 101195,
+      "sha256": "261ceba44eed695eec7b6d0d2696b2ea501bda10d9f34e3fbbda407981d489b9"
+    },
+    {
+      "path": "images/embedded/embedded-0023.jpg",
+      "bytes": 76184,
+      "sha256": "eb047c3a43a6722cf0244e1c838dd8e760af808542721c149271bdf9ec81e591"
+    },
+    {
+      "path": "images/embedded/embedded-0024.jpg",
+      "bytes": 58677,
+      "sha256": "b194b23341bce23b77317b57576304efb62f6e2b550085ca8cd75214f31a2ab7"
+    },
+    {
+      "path": "images/embedded/embedded-0025.jpg",
+      "bytes": 117116,
+      "sha256": "d97bd9e79f3a205cdea9a43984b86ec151f357e176ca2c24d40dfed275dd3b7a"
+    },
+    {
+      "path": "images/embedded/embedded-0026.jpg",
+      "bytes": 52096,
+      "sha256": "183a19f8e55e258f0f7741e24c2043b518f5934d49c41154e00de563f4495e42"
+    },
+    {
+      "path": "images/embedded/embedded-0027.jpg",
+      "bytes": 97940,
+      "sha256": "0b94f0b4ff817b2dcb848327c2b8fda7c704d0c90bbc4196d131425fc419d299"
+    },
+    {
+      "path": "images/embedded/embedded-0028.webp",
+      "bytes": 42,
+      "sha256": "c90cff659645a312a28804965f3dbc34061338f7234ff5d6ddb2c57e9eadec15"
+    },
+    {
+      "path": "images/embedded/embedded-0029.svg",
+      "bytes": 208,
+      "sha256": "2803c77df2b571cb4441c36e5750a9e599a14ab6ff8938ac9d9dc42176f31f07"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2012754,
+      "sha256": "369fdb143e82a534a3d754b19642282235aa053cddc56f1ca2343beded4accc8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "footer"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "huge-file"
+    ],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

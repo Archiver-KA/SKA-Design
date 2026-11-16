@@ -1,0 +1,63 @@
+{
+  "id": "SN-W04282",
+  "title": "Rotating Cluster of Pulsing Dots",
+  "summary": "Displays 400 minimal white dots swirling slowly around a center point with pulsing animation on a black background.",
+  "tags": [
+    "Swirling Dots",
+    "Animation",
+    "JavaScript",
+    "CSS Animation",
+    "Canvas Alternative",
+    "Minimalist UI",
+    "Visual Effects"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2114,
+      "sha256": "b70ae06e59e26bf55f3613eaa4fb5a662902fb3f1ae8f4ed46ac9fd274dd30ae"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3280,
+      "sha256": "afe76541c6c8b06c30a85c23c68d469e74270635d43a89fd1e5426eba1f6dc60"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 808,
+      "sha256": "45712e03bb540b15c827399f50bd0543ef365c0544683c6953b3b4b67611109b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2529,
+      "sha256": "b497a1dfc22fcbfcf61a1b097c6c185c048b7d5ec4929098de55bd2206839fd2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "blank-render"
+    ],
+    "rendered": true,
+    "fixes": [
+      "added-viewport",
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "snippetType": "other",
+  "design": "DESIGN.md"
+}

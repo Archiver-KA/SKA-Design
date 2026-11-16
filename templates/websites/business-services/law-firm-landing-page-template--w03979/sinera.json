@@ -1,0 +1,77 @@
+{
+  "id": "SN-W03979",
+  "title": "Law Firm Landing Page Template",
+  "summary": "A polished law firm website template for advocates and legal practices, featuring practice areas, attorney profiles, case studies, and a consultation-focused contact page.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Portfolio",
+    "Legal",
+    "Law Firm",
+    "Professional"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3661,
+      "sha256": "8fb5d08a0e1db58aa5d92d64756fded87bd02bdd035effd9759233f936287a1a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12680,
+      "sha256": "2b47100d60a5e4efcdd6115b075f17e30fc2321d6802bacb487724ce7a8cbc4d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1057,
+      "sha256": "7c4321e6a5e791e22d83a0015c2b434692202ea25b5909804c602b9edca7dd77"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 187,
+      "sha256": "66e7b22185b040ec8697d44e632292524d2fb6556fc0455783e2606a522a2c41"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 311,
+      "sha256": "9083c4803ead2d5c1b021982c5cbe2efd5706c5ab354f1c02ac5e417ae82a4db"
+    },
+    {
+      "path": "index.html",
+      "bytes": 56325,
+      "sha256": "4cdb3399c66f4203c85fcd37cadb17fa1fd3f2edde235cb492c8e052b0a29f85"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "team",
+    "case-studies",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

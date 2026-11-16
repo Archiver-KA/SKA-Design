@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00331",
+  "title": "Child Profile Setup Card",
+  "summary": "Form component for creating child profiles with name input, age slider, and add button for multiple children.",
+  "tags": [
+    "profile",
+    "form",
+    "child",
+    "input",
+    "slider",
+    "card",
+    "setup"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2638,
+      "sha256": "15da1c2c10f408b73a96a33d1c1b9f9da7e36e3d2de1a5bad250bdf2ff2fb37e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1463,
+      "sha256": "368bd9b309e6a966ec96856e79f3a0b8a2fbf5beed02523d96b7c83bc8d0c2ce"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2308,
+      "sha256": "86d6786bb70660c43458ee445eb8114874e9b82cdf8c80a9fc381cc649d45f37"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

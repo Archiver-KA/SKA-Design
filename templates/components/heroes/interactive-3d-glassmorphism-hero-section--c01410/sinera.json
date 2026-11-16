@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01410",
+  "title": "Interactive 3D Glassmorphism Hero Section",
+  "summary": "Full-screen hero section with an animated Three.js wave background, floating draggable glass panels, Tailwind styling, and CTA buttons. Ideal for futuristic SaaS, product landing pages, or concept interface showcases.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "threejs",
+    "glassmorphism",
+    "interactive",
+    "animated",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5832,
+      "sha256": "9478a796b91f77a7cbcbb1df6fab91d330464878e734e588c5b6c580108ba77b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 50,
+      "sha256": "aaee9a5c4a9422eba220e356a4376c914c4704079894e8cfa5304461666d9238"
+    },
+    {
+      "path": "index.html",
+      "bytes": 912,
+      "sha256": "775d34bb668bf5513a7e277da0417108b44c4fe94e85c7f55542f55f32a8c479"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

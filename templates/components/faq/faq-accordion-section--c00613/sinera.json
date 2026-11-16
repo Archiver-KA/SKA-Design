@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00613",
+  "title": "FAQ Accordion Section",
+  "summary": "Interactive FAQ section with expandable accordion-style questions and answers. Features a grid layout and smooth expand/collapse animations with chevron indicators.",
+  "tags": [
+    "faq",
+    "accordion",
+    "interactive",
+    "grid-layout",
+    "expandable",
+    "support"
+  ],
+  "kind": "components",
+  "category": "faq",
+  "categoryLabel": "FAQ & accordions",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10642,
+      "sha256": "57f36d4d2eb4446191ac210106ceebbca2b0fe3519439c8f4bd21e1fa7de15ba"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6051,
+      "sha256": "b89e9cab72149200067d568d2fbd5cbb4878863b85ea223d1606438e6b9555ae"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6893,
+      "sha256": "f63bfcb175a36570a1667ea2707b2197919967485a32e86545c957a3bff5a551"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00066",
+  "title": "Animated Gradient Border CTA Button",
+  "summary": "Rounded CTA button with a spinning conic-gradient border and magnetic hover styling. Uses Tailwind-style utility classes, focus ring, and blurred background for a high-contrast 'Join Waitlist' action button.",
+  "tags": [
+    "button",
+    "cta",
+    "animated",
+    "gradient",
+    "tailwind",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1926,
+      "sha256": "17d1aba282ce2fa6340fc0d54ef1f00d00da97b017227c375bfb5d437c03e2a9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 680,
+      "sha256": "46291d121add1500045308ad57ff38db1854c802307a2ba8618d830ce5dacc7e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1536,
+      "sha256": "e62ce6a5bde3febd79a5ec366525e76100d25843b5a5a22c4097eb0ceab8e7dd"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

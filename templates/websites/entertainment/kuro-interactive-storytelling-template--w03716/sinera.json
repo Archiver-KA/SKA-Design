@@ -1,0 +1,94 @@
+{
+  "id": "SN-W03716",
+  "title": "KURO Interactive Storytelling Template",
+  "summary": "A high-end storytelling template featuring immersive 3D WebGL animations, smooth scroll interactions, and cinematic typography for luxury brands or art portfolios.",
+  "tags": [
+    "Art & Design",
+    "Artist",
+    "Brand",
+    "Landing Page",
+    "3D",
+    "Animated",
+    "Dark",
+    "Minimal",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2877,
+      "sha256": "f2ef0d40c46c67f8214f0ecf020473994ac3f68cc239a7734fe5b122baa62d03"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2122,
+      "sha256": "0a7ecd92a464bd240f5fb06b61be79ff3bdb743b5e7b8c86d783666eb18cded4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1643,
+      "sha256": "3aa8c69d2bad92112aa6e16ea6f60d9889778ad064f9b3eb51190d7dae777062"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 224,
+      "sha256": "05c8558dd0c79bafb1b7ed10a41d61cae8564d97511a07fd9e29defa428fdf36"
+    },
+    {
+      "path": "images/embedded/embedded-0002.jpg",
+      "bytes": 57302,
+      "sha256": "35a4c3f6e8552487fa5fa29caf591b297a09ae42cdc87d2682d4787a4ae2910c"
+    },
+    {
+      "path": "images/embedded/embedded-0003.jpg",
+      "bytes": 66656,
+      "sha256": "84c72fa2696011fe4041926ddd581084c78d36dd354cc063ece20953929755bd"
+    },
+    {
+      "path": "images/embedded/embedded-0004.jpg",
+      "bytes": 81592,
+      "sha256": "107be4b8e694087357f18faff805c11bccce74516a7711db2d0470ccf3050655"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 183,
+      "sha256": "3bfb55e00d31e698ad16fcabab6fc753a96820449a8a7fbfb8717533cd14acd8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 353013,
+      "sha256": "18d298ecf326a5b64208408bc16de10368283c4278c095b14f0c4e4f3681757f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "testimonials",
+    "3d-canvas",
+    "marquee",
+    "cta",
+    "product-grid",
+    "footer",
+    "code-terminal"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

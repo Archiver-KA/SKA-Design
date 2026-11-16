@@ -1,0 +1,69 @@
+{
+  "id": "SN-W02566",
+  "title": "Wellness Spa Landing Page Template",
+  "summary": "A reusable landing page template for float therapy, spa, and wellness centers to showcase services, pricing, FAQs, and bookings in a calming premium style.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Brand",
+    "wellness",
+    "spa",
+    "booking",
+    "FAQ"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3681,
+      "sha256": "776aac15d5737209b09773555c2a4e4a451fb43c2efed8bd37fefda1105e702c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16144,
+      "sha256": "f196a56d9f84ff728c866aad0cd1fa1146f5c3215130cabfc1c0acc7b02bac4b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "b18800dff28f44da1db5cc5abae1a955a45ce58390948c177129837499dc72cd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 43160,
+      "sha256": "1da54f8badc2a6a5a876b43753c28bd696dd9093bd46c242228c88dd8d37be6f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "how-it-works",
+    "gallery-portfolio",
+    "pricing",
+    "faq",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

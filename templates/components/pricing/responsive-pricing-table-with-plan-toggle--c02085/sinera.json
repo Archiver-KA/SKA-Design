@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02085",
+  "title": "Responsive Pricing Table with Plan Toggle",
+  "summary": "Pricing section featuring three plan cards (Starter, Pro, Enterprise) with monthly-annual toggle, savings badge, feature lists and call-to-action buttons. Fully responsive grid styled with Tailwind CSS, ideal for SaaS or subscription websites.",
+  "tags": [
+    "pricing",
+    "table",
+    "tailwind",
+    "responsive",
+    "saas",
+    "subscription"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 34064,
+      "sha256": "aee394becf2f2bd0193db428b11db055d5951eba13b905db903a717fff85b95b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 14823,
+      "sha256": "fde4e767eb8a1947973eec7dff802421866013d900712c89881497af9f6d2564"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15815,
+      "sha256": "670db62d30828f8c5df56ca56fe01c1afa9c544051c5ed4db453aad38cc98fe5"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

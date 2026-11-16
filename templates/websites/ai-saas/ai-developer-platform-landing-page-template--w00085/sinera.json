@@ -1,0 +1,73 @@
+{
+  "id": "SN-W00085",
+  "title": "AI Developer Platform Landing Page Template",
+  "summary": "A dark, futuristic landing page template for Evolvium-style AI agent developer platforms, showcasing multi-agent workflows, features, and CTAs for SaaS products.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3807,
+      "sha256": "3a5aeee59a80abe994874f7a5e60cb8fb3566f62172db9405d13b5b6c4d13493"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15040,
+      "sha256": "04b8d057df19d385decfb5330051440073781ad341f0a930372a2cb14fe5cdef"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 965,
+      "sha256": "008eb493b48acc9712eb4af582fb038e9e24c10ba617952ead2bec687712503b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 339,
+      "sha256": "be65acf66c6feb04bec51f7bc391b12f135c7caa17bc5d477d90b532a68766f2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 77979,
+      "sha256": "627b8fa749a147e170885468cfbc385aa72a7b6b82d2fef1187c823e6f631d57"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "bento-grid",
+    "features",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

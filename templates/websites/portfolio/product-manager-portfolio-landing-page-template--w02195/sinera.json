@@ -1,0 +1,74 @@
+{
+  "id": "SN-W02195",
+  "title": "Product Manager Portfolio Landing Page Template",
+  "summary": "A modern, animated portfolio landing page template for product managers to showcase experience, AI/AgTech projects, and contact details with an interactive terminal.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Technology",
+    "Art & Design",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Brand",
+    "Resume"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3689,
+      "sha256": "23458e1dad95df55577283fbf7c641d84a889d9071528f89be035d913de659be"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1660,
+      "sha256": "a8021a3028c1b3f3944a771865c7bbd81f93aa9266c5c5b2d0b763d3a96baf72"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 881,
+      "sha256": "54fea160e78588d32e0d647d92c6ac974e15a31423679696d5e95dbce757d2cd"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1214,
+      "sha256": "d788f591be11bbb58a2351fc47a8a643fa288052efd244baed1aa59902676680"
+    },
+    {
+      "path": "index.html",
+      "bytes": 54535,
+      "sha256": "7cf8bd878858f8d4d259bd0b124e392b7814d4ef6c7535b0cb8753a421263326"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "about",
+    "features",
+    "case-studies",
+    "faq",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

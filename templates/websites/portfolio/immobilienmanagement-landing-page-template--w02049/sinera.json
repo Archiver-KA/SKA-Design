@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02049",
+  "title": "Immobilienmanagement Landing Page Template",
+  "summary": "Modernes Immobilienmanagement-Website Template für Dienstleister, um Leistungen, Referenzen und Kontaktanfragen professionell online zu präsentieren.",
+  "tags": [
+    "Landing Page",
+    "Real Estate",
+    "Services",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3531,
+      "sha256": "d4d63fc789f34f79128714eb4e43e018b9aa62cb3edf343902e3fe17bcc6823c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21356,
+      "sha256": "6436aaed84284c33092aaeb26212b7ff48be0209b45dd32b3170d9dd43fe5f5a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "5dd4ea85a16d047f7a1e32325223a7818bb2d8b2d0c66bd33b75d97443856323"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25183,
+      "sha256": "a0ece1a69ca7310b92bf94c400a99b5482fbcd91e2d99f03bf15b35645258644"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

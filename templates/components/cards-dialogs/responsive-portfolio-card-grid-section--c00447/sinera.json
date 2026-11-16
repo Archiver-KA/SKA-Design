@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00447",
+  "title": "Responsive Portfolio Card Grid Section",
+  "summary": "Tailwind-based section featuring a 'Recent Work' header, view-all link, and responsive grid of image cards with hover zoom, category label, title and summary. Perfect for portfolio or project showcase layouts.",
+  "tags": [
+    "section",
+    "grid",
+    "portfolio",
+    "showcase",
+    "tailwind",
+    "responsive",
+    "hover",
+    "gallery"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 35458,
+      "sha256": "826f725cd059824337cfa9e73c7218327c74d72b83f13dd1df7a05b5281f2017"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4811,
+      "sha256": "f69cfde011fee76a86480708f6d445daf4a3873f6e59d5a0976ab8d47887271b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5800,
+      "sha256": "7f1331ea53a08ef07d881ebec09eaa57cf51205d40665e4f5ad960cd32d2ffb7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

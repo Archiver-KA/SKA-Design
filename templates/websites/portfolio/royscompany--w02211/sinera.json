@@ -1,0 +1,68 @@
+{
+  "id": "SN-W02211",
+  "title": "RoysCompany",
+  "summary": "A dark, modern portfolio landing page template for AI automation architects to showcase services, process, use cases, and book strategy calls.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Services",
+    "AI Automation",
+    "Developer"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3716,
+      "sha256": "6c0e55d284482be4daeab61a08ca13d19b8fe4a20e699d48b9aa556e2bf4b1f3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14546,
+      "sha256": "be7a1040d7e3facbf6b021c193ffe20cb92f62e6ee587ffd5eccb20f937c1fbd"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 699,
+      "sha256": "dca9070b2636fdc59478a1bfab8b4daeeb98e87f07752a5a657793aded6d46d6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 54432,
+      "sha256": "212a73ea490de689da991f51fdd00c4f330067b96229fa5b73116837fa394055"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "how-it-works",
+    "features",
+    "about",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

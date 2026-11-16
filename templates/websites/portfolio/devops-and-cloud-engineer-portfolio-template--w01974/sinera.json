@@ -1,0 +1,71 @@
+{
+  "id": "SN-W01974",
+  "title": "DevOps & Cloud Engineer Portfolio Template",
+  "summary": "A high-performance personal portfolio template designed for DevOps and Cloud Engineers to showcase infrastructure expertise, tech stacks, and career milestones.",
+  "tags": [
+    "Technology",
+    "Portfolio",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Animated",
+    "Personal"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3706,
+      "sha256": "f4bdab0c9ecad311818b52fc0b1c0773cd12f0f46b5e3ee49e72a03ac473d421"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1664,
+      "sha256": "be5fcfc5ec280a8358db4a1531462c5d791907e9df1a87475abe0808a66edc80"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 875,
+      "sha256": "869ea07e00264f2a57127c208aa54d473e5233c142f72d2daa51f488195d72c7"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 275,
+      "sha256": "a625913c663dd24a52b601f56b54bd58329ab07a91aa1d864b49ecadc4026e13"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36363,
+      "sha256": "d3d9aea9f00cd49fbaead557eae8488e9c00043ec196ad02457560444733db8c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "cart-checkout",
+    "hero",
+    "marquee",
+    "timeline",
+    "booking",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

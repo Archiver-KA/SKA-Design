@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01291",
+  "title": "Centered Hero Section with Gradient Heading",
+  "summary": "Responsive hero banner featuring a badge tagline, large gradient-highlighted heading, and supporting paragraph. Built with Tailwind CSS utilities, ideal for landing pages or marketing headers.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "responsive",
+    "gradient",
+    "landing page",
+    "marketing",
+    "typography",
+    "text"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16262,
+      "sha256": "3f008f31b8d9520f96f3f7f52693a204d569482313467dbd2be3eb606302c7d6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 787,
+      "sha256": "e7a3ba521913e640320115e7bbed2f2dc43c299d3d0df028d59a7e2d27bc20d5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1651,
+      "sha256": "c064ab762e53e00c1e59ca00f7f597e65a8923b27a05c441645a4b7530d002b7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

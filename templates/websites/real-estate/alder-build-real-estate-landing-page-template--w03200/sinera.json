@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03200",
+  "title": "Alder Build Real Estate Landing Page Template",
+  "summary": "A high-end architectural real estate template designed to showcase luxury properties with a focus on immersive media, dark aesthetics, and detailed floorplans.",
+  "tags": [
+    "Real Estate",
+    "Landing Page",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Technology",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3483,
+      "sha256": "a1bee52bc3d00f7cee239955617e7ebce6e19e91f7ea3de5e82e9abc4137329d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 66669,
+      "sha256": "40b8fdca436166a35e21ce772f11aceba44c25428ddcb0f02a40cda812bc897f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 873,
+      "sha256": "3fbfba3ce5fa0d477baa20d26b18f6db400f3dabef7d6f89bd50bea689be203b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 4,
+      "sha256": "891b1e15b4ec667c0c14f05c3a5f415c3eee32fb15e2204d20cdc0e7a2168e7e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23249,
+      "sha256": "cd239bc7f6ade1c7bc7d3143a18095577f4c298ebfc03ff80157b3418ef5f25e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

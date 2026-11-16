@@ -1,0 +1,35 @@
+<svg viewBox="0 0 400 200" class="w-full h-full overflow-visible">
+                                    <!-- Grid Lines -->
+                                    <g class="text-zinc-200 dark:text-zinc-800" stroke="currentColor" stroke-width="1" stroke-dasharray="4 4">
+                                        <line x1="0" y1="150" x2="400" y2="150"></line>
+                                        <line x1="0" y1="100" x2="400" y2="100"></line>
+                                        <line x1="0" y1="50" x2="400" y2="50"></line>
+                                    </g>
+                                    
+                                    <!-- Area Gradient -->
+                                    <defs>
+                                        <linearGradient id="gradient" x1="0" x2="0" y1="0" y2="1">
+                                            <stop offset="0%" stop-color="#6366f1" stop-opacity="0.2"></stop>
+                                            <stop offset="100%" stop-color="#6366f1" stop-opacity="0"></stop>
+                                        </linearGradient>
+                                    </defs>
+                                    
+                                    <!-- Area Path -->
+                                    <path d="M0,150 C50,140 80,100 120,90 C160,80 200,120 240,110 C280,100 320,40 400,20 L400,200 L0,200 Z" fill="url(#gradient)" class=""></path>
+                                    
+                                    <!-- Line Path -->
+                                    <path d="M0,150 C50,140 80,100 120,90 C160,80 200,120 240,110 C280,100 320,40 400,20" fill="none" stroke="#6366f1" stroke-width="3" stroke-linecap="round" class="chart-line"></path>
+                                    
+                                    <!-- Interactive Points -->
+                                    <g>
+                                        <circle cx="120" cy="90" r="4" class="fill-white dark:fill-zinc-900 stroke-indigo-500 stroke-2 hover:r-6 hover:stroke-4 transition-all cursor-pointer">
+                                            <title class="font-sans">$9,240</title>
+                                        </circle>
+                                        <circle cx="240" cy="110" r="4" class="fill-white dark:fill-zinc-900 stroke-indigo-500 stroke-2 hover:r-6 hover:stroke-4 transition-all cursor-pointer">
+                                            <title class="font-sans">$11,050</title>
+                                        </circle>
+                                        <circle cx="360" cy="30" r="4" class="fill-white dark:fill-zinc-900 stroke-indigo-500 stroke-2 hover:r-6 hover:stroke-4 transition-all cursor-pointer">
+                                            <title class="font-sans">$15,400</title>
+                                        </circle>
+                                    </g>
+                                </svg>

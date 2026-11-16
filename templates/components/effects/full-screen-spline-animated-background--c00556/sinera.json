@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00556",
+  "title": "Full-Screen Spline Animated Background",
+  "summary": "Embeds a Spline scene via iframe to create a full-viewport animated gradient backdrop, positioned behind all content with Tailwind utility classes. Ideal for modern hero sections or immersive landing pages.",
+  "tags": [
+    "background",
+    "spline",
+    "iframe",
+    "full-screen",
+    "tailwind",
+    "animated",
+    "layout"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1890,
+      "sha256": "d1fc37621ed23f278fcba9a0e3034047006db6ed5f0c5d6c33c59e98bd21e563"
+    },
+    {
+      "path": "component.html",
+      "bytes": 247,
+      "sha256": "e614c0a74ef4cf6a0af382b33e60bb1292de64f646702d3aa58a7e8e6a833e01"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1106,
+      "sha256": "e4e970638db9767d0edad3ed86d713400e4776e2787f6b37cb4873d6b3b1bf6c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

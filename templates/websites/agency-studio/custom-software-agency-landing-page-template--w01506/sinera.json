@@ -1,0 +1,79 @@
+{
+  "id": "SN-W01506",
+  "title": "Custom Software Agency Landing Page Template",
+  "summary": "A reusable landing page template for custom software agencies to showcase web and mobile app development, integrations, branding, and IT services.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Agency",
+    "Software Development"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3764,
+      "sha256": "a260c9dfcbc55ef7c6eddc0221fdcaf1b1174d614d91ec332f1be7f670746276"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16788,
+      "sha256": "3a94559a665d3e141e855d69be2890c429c8c24f047179035a78715f2648fa27"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1078,
+      "sha256": "7ebaefa27d0665f436e0c9eec75337ec1b08b7d0051f4a13a380df275324184c"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 902,
+      "sha256": "f4de5463fd3fb953945819c5347ea65e3dfede2e38fbc4d25e2d0f9e340efb6f"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 672,
+      "sha256": "71c2cd9bdba819064f686006a0c5ccc52137bc4bb05457b6a2dc7d76b4aaaf62"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27020,
+      "sha256": "24e65514076335e22c64d39c67f968f7cf8e218bceb093180ed89880152a8ef2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "how-it-works",
+    "integrations",
+    "timeline",
+    "logo-cloud",
+    "features",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

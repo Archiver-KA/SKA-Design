@@ -1,0 +1,76 @@
+{
+  "id": "SN-W01314",
+  "title": "SABLE Fashion & Apparel E-commerce Template",
+  "summary": "A high-end, monochrome fashion e-commerce template designed for boutique labels, featuring limited-run collections and editorial lookbooks.",
+  "tags": [
+    "Landing Page",
+    "Fashion",
+    "Minimal",
+    "Black & White",
+    "E-commerce",
+    "Clean",
+    "Technology",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2931,
+      "sha256": "b13b36327367b6684ffd09424def2a427f5c8c0fdfa79fd4f006d2abf511ac6e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12454,
+      "sha256": "5bc31b3d961c2ab1b0bf066d39eb2417e8f535ebdedb31f9c111f0ce61a9920e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1068,
+      "sha256": "3cbdb616022c4e9c34a976861758dff9a231e121723cbd3d62036ff68f62d58d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 235,
+      "sha256": "4b397c3faf5e8e4d83aef8d3b266334a4b6058c26322c406f50b4377b46ff68a"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 109,
+      "sha256": "fa60e30683fd2541f960f1ae736c8db18c0eb93f88da81191c544f3e14ab7dd1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38419,
+      "sha256": "25669c2cdfcdf90b9958f1af63a428366e07ed02456a6c96f68e05951c837893"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "listings",
+    "product-grid",
+    "features",
+    "gallery-portfolio",
+    "video-media",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

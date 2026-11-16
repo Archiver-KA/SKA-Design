@@ -1,0 +1,69 @@
+{
+  "id": "SN-W03538",
+  "title": "STEMM Coaching Landing Page Template",
+  "summary": "A polished coaching landing page template for STEMM career consultants to showcase services, client results, and calls-to-action that convert visitors into booked calls.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Health",
+    "Education"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3883,
+      "sha256": "b0b41fe04540aadeb67701aa3735b6bb76ca5e6a9b338369214dab1180be59b4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21878,
+      "sha256": "49a695ac7f75d37cfb96802f0521d95de044b74e1627bcbaedb6217acc454201"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "fca9b47725882e21c0718bc3474c7fecbc6882715a8b6b99805f9e0c2ee14d2b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 52449,
+      "sha256": "b4a88819f07b861653254a6f57d8b268479cd1e0290d312c67d5a0aa1a6c0c8f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "timeline",
+    "dashboard-preview",
+    "cta",
+    "contact-form",
+    "testimonials",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

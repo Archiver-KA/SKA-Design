@@ -1,0 +1,57 @@
+{
+  "id": "SN-W04314",
+  "title": "Untitled Design",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3773,
+      "sha256": "d2b0700794f31ce10b8af08c0d7e3e3ea3ec9185d8037a4b149536ecaf279bc7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15180,
+      "sha256": "361eb132806767b130f7c5bdcda0842d9b36d35493437588ff204e17a79af6dc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 709,
+      "sha256": "6d7e52a34a2103dde1f27ceb3b34be054ad959886d18dad76d06f53083ab7cf9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41913,
+      "sha256": "62bd21f192f7deb338bbb657a54ce41efeacd6fd438fce115c853344e4acd261"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "integrations",
+    "faq",
+    "contact-form",
+    "footer",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

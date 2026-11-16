@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00741",
+  "title": "Enterprise Security Feature Card",
+  "summary": "Stylized marketing card showcasing enterprise-grade security stats and details. Features dark-theme dashboard illustration, status badges, hover shadow, and CTA link. Built with Tailwind CSS and fully responsive for landing pages or product feature sections.",
+  "tags": [
+    "card",
+    "feature",
+    "security",
+    "dashboard",
+    "tailwind",
+    "responsive",
+    "hover",
+    "landing-page"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10182,
+      "sha256": "79f07f13cc34bbe6d44ed075161c3bc36a2d31e58328b45fc9c21f9891d856e6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5768,
+      "sha256": "136fbf2dfc2826672d0ca34962d02426de6e312e1b447416e41acdd46f1d4db1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6621,
+      "sha256": "8e923055c41b0dabb8e0f5fc383865de539706d8696a9b626fa05c507569e377"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

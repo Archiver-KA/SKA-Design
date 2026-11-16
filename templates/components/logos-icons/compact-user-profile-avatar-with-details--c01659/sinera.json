@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01659",
+  "title": "Compact User Profile Avatar with Details",
+  "summary": "Displays a circular avatar alongside user name and role in a single flex row. Text truncates for long strings. Built with TailwindCSS utility classes; ideal for contact lists, comment headers, or navigation bars.",
+  "tags": [
+    "profile",
+    "avatar",
+    "user",
+    "tailwind",
+    "flexbox",
+    "responsive",
+    "list-item"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4652,
+      "sha256": "adc73994187f4802c9e78200b9c3bf614d19ca7cec42c13394e91cdcd0043aec"
+    },
+    {
+      "path": "component.html",
+      "bytes": 421,
+      "sha256": "61b816bab3faf71cbdcf5f5123fdcad0baa17b797894436553aa65fdac9359e6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1282,
+      "sha256": "09266fb4e36554434299fbd31521b81bcba9372332ea8947500b9ce723bc18fd"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SN-W04206",
+  "title": "Interactive 3D Computer Model",
+  "summary": "3D interactive computer with clickable power button, keyboard keys, and parts showing typed input and status in real time.",
+  "tags": [
+    "3D Model",
+    "Interactive UI",
+    "Three.js",
+    "Keyboard Input",
+    "WebGL",
+    "Animation",
+    "User Interaction"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2048,
+      "sha256": "ba6dbf8e19f1312aadbf01ff284d8e614643eebe285cbba619d2c78e2ce982bd"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3012,
+      "sha256": "7908f3aca58d7f8efc4cab2bd71c7a748d23dea0faa509a7d7001fe27ad6c974"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "b810a2ae0de1c8540c256be26859afc53eaad8b062739085ef476814f8676d2c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12476,
+      "sha256": "66ffa23cdf3924dbb9751510f4960aee9c9f13019e1a1e1bc7f9595684c67095"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

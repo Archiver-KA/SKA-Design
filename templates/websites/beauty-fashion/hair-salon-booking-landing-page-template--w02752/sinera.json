@@ -1,0 +1,71 @@
+{
+  "id": "SN-W02752",
+  "title": "Hair Salon Booking Landing Page Template",
+  "summary": "A reusable landing page template for hair salons and barbershops to showcase services, build trust, and accept online appointment requests.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Fashion",
+    "booking form",
+    "hair salon",
+    "appointment"
+  ],
+  "kind": "websites",
+  "category": "beauty-fashion",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3606,
+      "sha256": "8365d128095a90913ed93a73753c2faea7fe7c99850b1104bd4a136acac0053d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10706,
+      "sha256": "280f9e49c376669c6a55e573f149aac9501f919992001e31e15522ec5cecd6be"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 958,
+      "sha256": "cbedf351ef843f67e69f43a3b3a23f67a5b34c1c1ef2b709c43ff5b4f192fc5c"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "910c900a7a4784bba3a545f45cd25f1d36f95d97c692018fa09cb6a465e3f9ea"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22202,
+      "sha256": "9b20cc2f880cf0c6f1f85f0fa193d672db212d604a186ea783e53dadfe1214ea"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "beauty",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Beauty / Fashion",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "gallery-portfolio",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

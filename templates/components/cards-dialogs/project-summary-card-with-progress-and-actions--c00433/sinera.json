@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00433",
+  "title": "Project Summary Card with Progress and Actions",
+  "summary": "Compact project summary card showing owner info, project title, industry, progress bar, and quick actions for notifications, options, weekly report, and send. Styled with Tailwind-style utility classes for use in dashboards or project management UIs.",
+  "tags": [
+    "card",
+    "dashboard",
+    "project",
+    "profile",
+    "progress",
+    "tailwind",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6124,
+      "sha256": "870d38aeb349503a2f7758e373a15ff7a609631899c179f297b593d178f4b475"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4297,
+      "sha256": "30557962adf6e853215414c7fa37130de4672fdff56129801955953d14090703"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5294,
+      "sha256": "ac0c98790fb380f39b259180e98ea3cba9ad9fca85d0359f4e04d88da6b41de2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00825",
+  "title": "Product Comparison Feature Section",
+  "summary": "A dark-themed comparison section highlighting benefits of a platform versus traditional workflows, with side-by-side cards, icon-supported bullet points, and performance stats. Uses Tailwind CSS with custom gradient styling for SaaS landing pages.",
+  "tags": [
+    "feature",
+    "section",
+    "comparison",
+    "saas",
+    "tailwind",
+    "dark",
+    "stats",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12164,
+      "sha256": "82b2a7c83b6b90bcf6a89123b1dda7929981b1e219eac115095237d2b6485d58"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6021,
+      "sha256": "f6caa7e35d5d6fcb734a0fb12ca4feea00e678e9de989e1c877a5052f9abd912"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6876,
+      "sha256": "d3d4ab0d34d805a6fdb9ebe904a7331d139f85257b1b0cbf0f4707692153555c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

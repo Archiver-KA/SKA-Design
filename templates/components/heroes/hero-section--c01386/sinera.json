@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01386",
+  "title": "Hero Section",
+  "summary": "A high-fidelity hero section featuring a generative WebGL background, skeuomorphic UI elements, GSAP-powered text reveals, and a dual-column feature layout with interactive node topology visuals.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "animated",
+    "dark",
+    "interactive",
+    "glassmorphism",
+    "webgl"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18666,
+      "sha256": "a1dee0354125b7349e4d1f7b8a18eafc775a90f75b5e880ac8589f8b0959b370"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23758,
+      "sha256": "2508c03d1fee5e25ace68e742a506ce7bf7c1f3d8eebdd9c498778526046b0fc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01161",
+  "title": "Responsive Header with Logo, Nav & Social Icons",
+  "summary": "Tailwind CSS navigation header featuring logo branding, desktop nav links, social media icon buttons, and mobile hamburger menu. Fully responsive and hover-interactive for landing pages or full websites.",
+  "tags": [
+    "header",
+    "navbar",
+    "navigation",
+    "tailwind",
+    "responsive",
+    "social-icons",
+    "mobile",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3632,
+      "sha256": "f19618d11b6c44ff0b18e142f7a627046aa25d86704a964d7c0f216a4418d539"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4133,
+      "sha256": "a8ef6e7d6233863fc72ec4a603e2d7086a8011cd7d69a4ac2bebd987709edf79"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5135,
+      "sha256": "f1fa36851a4694cd499bb0894f1ed50bd95bc1aa8ea6719319e11e6222e628c5"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

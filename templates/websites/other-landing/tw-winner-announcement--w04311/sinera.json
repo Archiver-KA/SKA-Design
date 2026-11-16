@@ -1,0 +1,86 @@
+{
+  "id": "SN-W04311",
+  "title": "TW Winner Announcement",
+  "summary": "This template provides an interactive prize reveal landing page designed to showcase winners for giveaways or contests with engaging animations and modal pop-ups.",
+  "tags": [
+    "Landing Page",
+    "Prize Reveal",
+    "Giveaway",
+    "Contest",
+    "Modal",
+    "Countdown",
+    "Animation",
+    "Confetti",
+    "Interactive",
+    "Winner List"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3285,
+      "sha256": "360ae02f15246dd0c452ace4f342a3c8b5831f903853e4afa7a5174f18a57b55"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7672,
+      "sha256": "730cca846c4ca451d5efd21da68f82586ab355fd67048305d8a3705540c4bcac"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1448,
+      "sha256": "289ee7d6613cba30c4bc3c87dc1fe268f3e80eaa4c82514330ef1fbd23110b2e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 318,
+      "sha256": "3dbfd9b9a74a80c59c51746550da4f236c8f2cef46c4294efa57c0e1809fb4f3"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 291,
+      "sha256": "65e73a41ced80ea2ddaa74b82a0923927ca8e7ac2265d302914f028d4e61a306"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 508,
+      "sha256": "9bfbca9b6cc212bce240c2d1b32553b01294adb2597f92b7e54324eac8e90fb6"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 296,
+      "sha256": "0acd79314dda2824d6c694ffe2361c686207871c945b3fcf9c079a09517c573e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27223,
+      "sha256": "07609ee1c27940b23a45fb31c81b773eb372afceeeeb2cb45f7da56507ad8e20"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "video-media",
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "modal-overlay",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

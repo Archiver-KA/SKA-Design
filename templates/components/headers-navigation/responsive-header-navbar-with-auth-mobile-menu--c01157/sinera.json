@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01157",
+  "title": "Responsive Header Navbar with Auth & Mobile Menu",
+  "summary": "Tailwind-styled header featuring logo, navigation links, login and create-account buttons, plus a collapsible hamburger menu for mobile. Ideal for SaaS dashboards or marketing sites requiring a sleek, responsive top navigation bar.",
+  "tags": [
+    "navbar",
+    "header",
+    "navigation",
+    "tailwind",
+    "responsive",
+    "auth",
+    "mobile-menu"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3984,
+      "sha256": "d7676a66e74239afb78b04176fff81e32d093b3c057f6a03f83b494fd5e05909"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3351,
+      "sha256": "2b0494042b1efc82ad19b37478fa4760d121ce98c3eaaf85e29f00fdd2238bf7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4354,
+      "sha256": "8179074c73db27b60c7b189267b619987fabfb51101e05e6e1e44202d2bfcc5d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

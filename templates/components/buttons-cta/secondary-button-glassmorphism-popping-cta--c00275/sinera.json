@@ -1,0 +1,45 @@
+{
+  "id": "SN-C00275",
+  "title": "Secondary Button Glassmorphism Popping CTA",
+  "summary": "Rounded glassmorphism-style CTA button with hover and active scale animations, blurred backdrop, and shadow effects. Uses Tailwind-style utility classes and navigates to a registration URL on click. Ideal for prominent call-to-action placements.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "animated",
+    "interactive",
+    "glassmorphism",
+    "Pop",
+    "secondary",
+    "alphabees"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1214,
+      "sha256": "3d8c4b4913a822e0882d299a1fa0504e2cc57b02b4045dba722a772dd45f0e90"
+    },
+    {
+      "path": "component.html",
+      "bytes": 740,
+      "sha256": "f373d63b2c2f1efcf78b828fe3545c2b6db4d71acfac5d745b7b03ee75e887e9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1603,
+      "sha256": "851e497013a5c781f875c76d42fe887859eb013ebbfac25dfcb68b3ebfae85e9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

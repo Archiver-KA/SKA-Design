@@ -1,0 +1,12 @@
+<svg viewBox="0 0 200 200" class="w-full h-full drop-shadow-[0_0_15px_rgba(249,115,22,0.5)]">
+                                <path d="M20,20 L180,20 L100,180 Z" fill="none" stroke="url(#orange-grad)" stroke-width="2"></path>
+                                <defs>
+                                    <linearGradient id="orange-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+                                        <stop offset="0%" stop-color="#f97316" stop-opacity="0.8"></stop>
+                                        <stop offset="100%" stop-color="#f97316" stop-opacity="0"></stop>
+                                    </linearGradient>
+                                </defs>
+                                <circle cx="50" cy="40" r="2" fill="#fff" class="animate-ping" style="animation-duration: 2s;"></circle>
+                                <circle cx="150" cy="40" r="2" fill="#fff" class="animate-ping" style="animation-duration: 3s;"></circle>
+                                <circle cx="100" cy="100" r="3" fill="#f97316" class="animate-pulse"></circle>
+                            </svg>

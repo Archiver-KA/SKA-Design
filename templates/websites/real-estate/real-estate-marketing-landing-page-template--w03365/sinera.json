@@ -1,0 +1,66 @@
+{
+  "id": "SN-W03365",
+  "title": "Real Estate Marketing Landing Page Template",
+  "summary": "A dark, high-end real estate marketing ecosystem template for agencies and developers, combining branding, 3D tech, and lead-gen flows as a reusable layout.",
+  "tags": [
+    "Landing Page",
+    "Real Estate",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "3D",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3766,
+      "sha256": "b926c36a18904682c35b4852e458e5b65bfce85a27f2c7cd0e4ec148e4cfc247"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18024,
+      "sha256": "d1d4494957b4672e79740ba018352e384e35d16f335ddd19eb33352a3ce29bcc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 816,
+      "sha256": "d840bf3d2a380d72d3cf231c92e6aea697cc4fc48a260a638ca9f5fd4c76ba53"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33531,
+      "sha256": "6256bb3257047e0a9df8814eca6294f9c18d61948d79fcf8bd54601370eb7633"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "timeline",
+    "logo-cloud",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00836",
+  "title": "Responsive Dark Feature Grid with Highlight Card",
+  "summary": "Tailwind CSS section displaying three feature cards, a prominent AI recap card with action buttons, and a four-item use-case grid. Fully responsive, dark-themed, icon-driven layout for SaaS or product landing pages to showcase capabilities and benefits.",
+  "tags": [
+    "feature section",
+    "tailwind",
+    "responsive",
+    "landing page",
+    "dark theme",
+    "grid",
+    "icons",
+    "feature"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21918,
+      "sha256": "c81a7cf8c38f850f5a3c225988cda79812ef897a3a6ba1f9add899aea6a66955"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12113,
+      "sha256": "c80093c47008640240f9ccfaa95005df7919788e41cc53e0ad725d5294ef876d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12982,
+      "sha256": "04a9aed8e1340fcaf88873714acf5dbf499ce06df50e8d62dee5c19e462a14f7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

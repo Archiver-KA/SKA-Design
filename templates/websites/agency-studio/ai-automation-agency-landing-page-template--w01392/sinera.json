@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01392",
+  "title": "AI Automation Agency Landing Page Template",
+  "summary": "Reusable dark-mode landing page template for an AI automation agency offering chatbots, workflow automation, and data-driven services to modern businesses.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3874,
+      "sha256": "4adf1778cf6d9aa8815b606c32f37e5e7ed610a99c158d24d8a055e7b55a4d4b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15528,
+      "sha256": "0b98ef64056edebb331cfe7d4882785d8463739b498fa0b8c655272f19e6d163"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "04ba19a164f6f88df882a9be44cdc4fbb9474a4df766d6fa3e1d6d0352ddbd9e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24231,
+      "sha256": "1943f74abb55f232193d27686b59715b6e6ca4c7bb8810b821f8d2098d41b9dd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "features",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

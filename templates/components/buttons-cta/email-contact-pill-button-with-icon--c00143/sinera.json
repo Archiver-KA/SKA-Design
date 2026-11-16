@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00143",
+  "title": "Email Contact Pill Button with Icon",
+  "summary": "Inline email contact button styled as a rounded pill with an email icon and hover/active animations. Uses Tailwind utility classes, glassmorphism effect, and box shadows. Ideal for support or contact links in headers, footers, or hero sections.",
+  "tags": [
+    "button",
+    "contact",
+    "email",
+    "tailwind",
+    "interactive",
+    "responsive",
+    "Alphabees",
+    "secondary"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1262,
+      "sha256": "7ba7fef6cb17de7238aa89ea9e0256b75995dfd847edc23538e1f686a30b947c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1046,
+      "sha256": "faa508c97da3fc144f46f0baa35a7b83a876676ac1b673cc67c8389f03c289e2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1902,
+      "sha256": "7e1bc924dd52050e256f527322094af5816d9062384a2a83c0bbdbabbc6fcda4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

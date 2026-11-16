@@ -1,0 +1,878 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Bright Starling | Media Company — Critical AI Literacy</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,700;1,400;1,500&family=Outfit:wght@200;300;400;500;600&family=JetBrains+Mono:wght@300;400&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+<script type="importmap">
+{
+"imports": {
+"three": "https://unpkg.com/three@0.160.0/build/three.module.js",
+"three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/"
+}
+}
+</script>
+<style>
+:root{
+--void:#04020A;--deep:#07040F;--surface:#0C0718;
+--purple:#7B2DBF;--violet:#9B4DFF;--blue:#1A5FFF;--electric:#4DC8FF;
+--magenta:#CC00AA;--rose:#FF2DAA;--gold:#C8973A;--gold-lt:#E8B84B;
+--silver:#B8C8D8;--white:#F0EEF8;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:'Outfit',sans-serif;background:var(--void);color:var(--white);overflow-x:hidden;cursor:none}
+::-webkit-scrollbar{width:3px}::-webkit-scrollbar-thumb{background:var(--purple)}
+::selection{background:var(--violet);color:#000}
+#cur{width:10px;height:10px;background:var(--electric);border-radius:50%;position:fixed;pointer-events:none;z-index:9999;transform:translate(-50%,-50%);transition:transform .08s,background .2s;mix-blend-mode:screen}
+#cur-ring{width:40px;height:40px;border:1px solid rgba(77,200,255,.2);border-radius:50%;position:fixed;pointer-events:none;z-index:9998;transform:translate(-50%,-50%);transition:left .15s ease,top .15s ease}
+#loader{position:fixed;inset:0;z-index:9990;background:var(--void);display:flex;align-items:center;justify-content:center;flex-direction:column;gap:20px;transition:opacity .8s}
+.l-ring{width:60px;height:60px;border-radius:50%;border:1px solid rgba(123,45,191,.15);border-top-color:var(--violet);animation:spin 1.2s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+#webgl-canvas{position:fixed;inset:0;width:100%;height:100%;z-index:1;pointer-events:none}
+#stars{position:fixed;inset:0;z-index:0;pointer-events:none}
+#nav{position:fixed;top:0;left:0;right:0;z-index:100;padding:18px 5%;display:flex;justify-content:space-between;align-items:center;opacity:0;transition:opacity .6s;background:linear-gradient(180deg,rgba(4,2,10,.92) 0%,transparent 100%)}
+.logo-wrap{display:flex;align-items:center;gap:11px}
+.logo-wrap img{height:36px;width:auto;filter:drop-shadow(0 0 8px rgba(155,77,255,.45))}
+.brand-n{font-size:12px;font-weight:600;letter-spacing:.1em}
+.brand-s{font-family:'JetBrains Mono',monospace;font-size:8px;letter-spacing:.22em;color:rgba(184,200,216,.3);text-transform:uppercase}
+nav.lnk{display:flex;gap:32px}
+nav.lnk a{font-size:10px;letter-spacing:.18em;text-transform:uppercase;color:rgba(184,200,216,.5);text-decoration:none;transition:color .25s}
+nav.lnk a:hover{color:var(--electric)}
+.nc{padding:9px 20px;border:1px solid rgba(123,45,191,.4);border-radius:1px;font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:rgba(184,200,216,.7);background:rgba(123,45,191,.05);cursor:pointer;transition:all .3s;text-decoration:none}
+.nc:hover{border-color:var(--violet);color:#fff;background:rgba(155,77,255,.12)}
+section{position:relative;z-index:10}
+.pad{padding:110px 5%}
+.pad-sm{padding:72px 5%}
+.max{max-width:1160px;margin:0 auto}
+.display{font-family:'Playfair Display',serif;font-size:clamp(50px,8vw,120px);font-weight:400;line-height:.9;letter-spacing:-.02em}
+.display-md{font-family:'Playfair Display',serif;font-size:clamp(34px,5vw,68px);font-weight:400;line-height:1.05}
+.display-sm{font-family:'Playfair Display',serif;font-size:clamp(24px,3.2vw,46px);font-weight:400;line-height:1.15}
+.label{font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.28em;text-transform:uppercase}
+.hud{font-family:'JetBrains Mono',monospace;font-size:9px;letter-spacing:.2em;text-transform:uppercase}
+.body-lg{font-size:17px;line-height:1.78;font-weight:300}
+.body{font-size:15px;line-height:1.72;font-weight:300}
+.body-sm{font-size:13px;line-height:1.65;font-weight:300}
+.g-vb{background:linear-gradient(125deg,var(--violet),var(--blue));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+.g-gold{background:linear-gradient(125deg,var(--gold),var(--gold-lt));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+.g-full{background:linear-gradient(135deg,var(--violet) 0%,var(--electric) 45%,var(--rose) 85%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+.g-mg{background:linear-gradient(125deg,var(--magenta),var(--rose));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+.sdiv{display:flex;align-items:center;gap:14px;font-family:'JetBrains Mono',monospace;font-size:9px;letter-spacing:.3em;color:rgba(200,151,58,.4);text-transform:uppercase;margin-bottom:72px}
+.sdiv::before,.sdiv::after{content:'';flex:1;height:1px;background:linear-gradient(90deg,transparent,rgba(200,151,58,.28),transparent)}
+.glass{background:rgba(12,7,24,.65);border:1px solid rgba(123,45,191,.16);backdrop-filter:blur(14px)}
+.glass-g{background:rgba(12,7,24,.55);border:1px solid rgba(200,151,58,.18);backdrop-filter:blur(14px)}
+.glass-e{background:rgba(12,7,24,.55);border:1px solid rgba(77,200,255,.16);backdrop-filter:blur(14px)}
+.r{opacity:0;transform:translateY(32px);transition:opacity .85s cubic-bezier(.16,1,.3,1),transform .85s cubic-bezier(.16,1,.3,1)}
+.r.show{opacity:1;transform:translateY(0)}
+.rd{transition-delay:.1s}.rd2{transition-delay:.2s}.rd3{transition-delay:.32s}.rd4{transition-delay:.44s}
+.ifrm{position:relative;overflow:hidden;border-radius:1px}
+.ifrm::before{content:'';position:absolute;inset:0;z-index:2;background:linear-gradient(135deg,rgba(123,45,191,.3) 0%,transparent 55%,rgba(77,200,255,.08) 100%);mix-blend-mode:color;pointer-events:none}
+.ifrm img{display:block;width:100%;height:100%;object-fit:cover;transition:transform .7s ease}
+.ifrm:hover img{transform:scale(1.04)}
+.scan{position:absolute;inset:0;pointer-events:none;z-index:3;background:repeating-linear-gradient(0deg,transparent,transparent 3px,rgba(123,45,191,.007) 3px,rgba(123,45,191,.007) 6px)}
+.bg-deep{background:var(--deep)}
+.bg-nebula{background:radial-gradient(ellipse 90% 65% at 12% 22%,rgba(123,45,191,.11),transparent 60%),radial-gradient(ellipse 60% 65% at 88% 78%,rgba(26,95,255,.06),transparent 58%),var(--void)}
+.stat{font-family:'Playfair Display',serif;font-size:clamp(40px,5.5vw,72px);font-weight:400;line-height:1}
+.pillar{padding:34px 28px;border-radius:1px;transition:transform .4s,border-color .3s}
+.pillar:hover{transform:translateY(-6px)}
+.bq{border-left:2px solid var(--rose);padding:4px 0 4px 28px;font-family:'Playfair Display',serif;font-size:clamp(18px,2.2vw,25px);font-style:italic;font-weight:400;line-height:1.5;color:rgba(240,238,248,.8)}
+.phase{display:flex;gap:24px;align-items:flex-start}
+.pn{font-family:'Playfair Display',serif;font-size:46px;font-weight:400;line-height:1;flex-shrink:0;width:52px;background:linear-gradient(180deg,var(--violet),var(--blue));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;opacity:.38}
+.rtbl{border:1px solid rgba(123,45,191,.14);border-radius:1px;overflow:hidden}
+.rrow{display:grid;grid-template-columns:1.6fr 1fr 2fr;gap:1px;background:rgba(123,45,191,.08)}
+.rcell{padding:13px 18px;background:var(--deep);font-size:13px}
+.rhead{background:var(--surface);font-size:10px;font-weight:500;letter-spacing:.1em;text-transform:uppercase}
+.gdot{width:7px;height:7px;border-radius:50%;background:var(--gold-lt);box-shadow:0 0 12px var(--gold);flex-shrink:0}
+.sic{width:40px;height:40px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0;font-size:18px}
+.glitch{will-change:transform}
+.glitch.go{animation:glitch .28s ease both}
+@keyframes glitch{0%{transform:translate(0);filter:none}20%{transform:translate(-3px,1px) skewX(-2deg);filter:hue-rotate(80deg)}45%{transform:translate(3px,-1px) skewX(2deg);filter:hue-rotate(-80deg)}65%{transform:translate(-1px,2px)}100%{transform:translate(0);filter:none}}
+.bar-wrap{display:flex;flex-direction:column;gap:16px}
+.bar-item{display:flex;flex-direction:column;gap:6px}
+.bar-track{height:4px;background:rgba(123,45,191,.15);border-radius:2px;overflow:hidden}
+.bar-fill{height:100%;border-radius:2px;transform-origin:left;transform:scaleX(0);transition:transform 1.2s cubic-bezier(.16,1,.3,1)}
+.bar-fill.show{transform:scaleX(1)}
+/* funnel bars for market sizing */
+.funnel{display:flex;flex-direction:column;gap:14px;align-items:center}
+.fbar{height:64px;border-radius:1px;display:flex;align-items:center;justify-content:center;flex-direction:column;gap:2px;transition:width 1.4s cubic-bezier(.16,1,.3,1)}
+/* timeline */
+.tl-wrap{position:relative;padding:40px 0}
+.tl-line{position:absolute;top:50%;left:0;right:0;height:1px;background:rgba(123,45,191,.2)}
+.tl-pts{display:grid;grid-template-columns:1fr 1fr 1fr 1fr;position:relative;z-index:2}
+.tl-pt{display:flex;flex-direction:column;align-items:center;gap:10px;text-align:center}
+.tl-dot{width:12px;height:12px;border-radius:50%;border:2px solid var(--void)}
+@media(max-width:900px){
+.g2{grid-template-columns:1fr!important}
+.g3{grid-template-columns:1fr!important}
+.g4{grid-template-columns:1fr 1fr!important}
+nav.lnk{display:none}
+.pad{padding:80px 6%}
+.tl-pts{grid-template-columns:1fr;gap:24px}
+.tl-line{display:none}
+}
+</style>
+<script src="https://cdn.tailwindcss.com"></script>
+
+
+
+</head>
+<body>
+
+<div id="cur"></div>
+<div id="cur-ring"></div>
+
+<div id="loader">
+  <div class="l-ring"></div>
+  <p class="hud" style="color:rgba(155,77,255,.45)">Starling · Initializing</p>
+</div>
+
+<canvas id="webgl-canvas"></canvas>
+<canvas id="stars"></canvas>
+
+<!-- ═══════════════════════ NAV ═══════════════════════ -->
+<header id="nav">
+  <div class="logo-wrap">
+    <img src="assets/inline-2635ff26b5.png" alt="The Bright Starling">
+    <div>
+      <div class="brand-n">THE BRIGHT STARLING</div>
+      <div class="brand-s">Critical AI Literacy · Media</div>
+    </div>
+  </div>
+  <nav class="lnk">
+    <a href="#problem">The Gap</a>
+    <a href="#solution">How It Works</a>
+    <a href="#market">Market</a>
+    <a href="#founder">Founder</a>
+    <a href="#connect">Connect</a>
+  </nav>
+  <a href="#connect" class="nc">Partner With Us</a>
+</header>
+
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
+<section id="hero" style="min-height:100vh;display:flex;flex-direction:column;justify-content:center;padding:0 5%;position:relative;z-index:10">
+  <div class="scan"></div>
+  <div class="hud r" style="position:absolute;top:92px;left:5%;color:rgba(77,200,255,.3)">STARLING.SYS // MEDIA // LONDON, ON // ACTIVE</div>
+  <div class="hud r" style="position:absolute;bottom:50px;right:5%;color:rgba(200,151,58,.28)">RESEARCH → STORY → PROTECTION</div>
+
+  <div style="max-width:960px">
+    <div class="r" style="display:flex;align-items:center;gap:11px;margin-bottom:34px">
+      <div class="gdot"></div>
+      <span class="label" style="color:rgba(200,151,58,.6)">A Media Company · Critical AI Literacy · Founded 2025</span>
+    </div>
+
+    <div class="r"><h1 class="display glitch" style="color:var(--white)">We see what</h1></div>
+    <div class="r rd"><h1 class="display glitch" style="color:var(--white)">others hide.</h1></div>
+    <div class="r rd2"><h1 class="display g-full">We imagine what others fear.</h1></div>
+
+    <div class="r rd3" style="max-width:600px;margin-top:36px">
+      <p class="body-lg" style="color:rgba(184,200,216,.62)">
+        The Bright Starling is a media company turning original research into 
+        critical AI literacy — for the two audiences everyone else overlooks: 
+        young adults assumed too savvy to be harmed, and older adults assumed 
+        too out of touch to matter.
+      </p>
+    </div>
+
+    <div class="r rd4" style="display:flex;gap:14px;flex-wrap:wrap;margin-top:44px">
+      <a href="#solution" style="padding:14px 36px;background:linear-gradient(135deg,rgba(123,45,191,.42),rgba(77,200,255,.2));border:1px solid rgba(123,45,191,.5);border-radius:1px;text-decoration:none;font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:#fff;display:inline-flex;align-items:center;gap:8px">
+        How It Works ↗
+      </a>
+      <a href="#connect" style="padding:14px 36px;border:1px solid rgba(200,151,58,.28);border-radius:1px;text-decoration:none;font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:rgba(200,151,58,.8)">
+        Listen / Watch ✦
+      </a>
+    </div>
+  </div>
+
+  <div style="position:absolute;bottom:38px;left:50%;transform:translateX(-50%);display:flex;flex-direction:column;align-items:center;gap:6px;opacity:.28">
+    <div class="hud" style="font-size:8px">scroll</div>
+    <div style="width:1px;height:34px;background:linear-gradient(180deg,rgba(123,45,191,.8),transparent)"></div>
+  </div>
+</section>
+
+<!-- ═══════════════════════ THE PROBLEM / THE MYTH ═══════════════════════ -->
+<section id="problem" class="pad bg-nebula">
+  <div class="max">
+    <div class="sdiv r">✦ The Gap ✦</div>
+
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:80px;align-items:center;margin-bottom:80px" class="g2">
+      <div>
+        <p class="label r" style="color:var(--electric);margin-bottom:18px">01 / The Myth</p>
+        <h2 class="display-md r rd" style="margin-bottom:32px">
+          A false binary is leaving<br>
+          <em class="g-gold">millions exposed to harm.</em>
+        </h2>
+        <p class="body-lg r rd2" style="color:rgba(184,200,216,.6);margin-bottom:22px">
+          "Digital natives." "Tech-illiterate." Neither label was ever accurate — 
+          and both have left their respective audiences unprotected.
+        </p>
+        <p class="body r rd3" style="color:rgba(184,200,216,.5)">
+          Existing media serves neither group well: dry institutional material, 
+          or youth content with no research grounding behind it.
+        </p>
+      </div>
+
+      <div class="r rd2">
+        <div class="ifrm" style="aspect-ratio:4/5;box-shadow:0 0 80px rgba(123,45,191,.13)">
+          <img src="assets/inline-ef8c84373e.jpg" alt="The Bright Starling" style="object-position:center top">
+          <div class="scan"></div>
+          <div style="position:absolute;inset:0;background:linear-gradient(0deg,rgba(4,2,10,.85) 0%,transparent 50%);z-index:2"></div>
+          <div style="position:absolute;bottom:0;left:0;right:0;padding:28px;z-index:4">
+            <div class="hud" style="color:rgba(200,151,58,.5);margin-bottom:6px">THE STORY BEHIND THE STAT</div>
+            <p class="body-sm" style="color:rgba(184,200,216,.6)">Original research, translated into the language people actually use.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Two-audience comparison -->
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:24px" class="g2">
+      <div class="glass-e r" style="padding:36px;border-radius:1px">
+        <p class="label" style="color:var(--electric);margin-bottom:6px">Young Adults</p>
+        <h3 style="font-family:'Playfair Display',serif;font-size:22px;font-weight:400;margin-bottom:18px">The Myth: "Digital Natives"</h3>
+        <p class="hud" style="color:rgba(184,200,216,.4);margin-bottom:8px">ASSUMED IMMUNE TO HARM</p>
+        <p class="body" style="color:rgba(184,200,216,.6);margin-bottom:16px">The Reality</p>
+        <p class="body-sm" style="color:rgba(184,200,216,.55)">
+          Algorithmic exploitation in gig work, AI-driven job scams, and 
+          data harvesting they rarely get to question.
+        </p>
+      </div>
+      <div class="glass-g r rd" style="padding:36px;border-radius:1px">
+        <p class="label" style="color:var(--gold);margin-bottom:6px">Older Adults</p>
+        <h3 style="font-family:'Playfair Display',serif;font-size:22px;font-weight:400;margin-bottom:18px">The Myth: "Tech-Illiterate"</h3>
+        <p class="hud" style="color:rgba(184,200,216,.4);margin-bottom:8px">FRAMED AS THE ONLY ONES AT RISK</p>
+        <p class="body" style="color:rgba(184,200,216,.6);margin-bottom:16px">The Reality</p>
+        <p class="body-sm" style="color:rgba(184,200,216,.55)">
+          Sophisticated AI voice-cloning scams and algorithmic exclusion 
+          from banking, health, and insurance systems.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════ HOW IT WORKS / SOLUTION ═══════════════════════ -->
+<section id="solution" class="pad bg-deep">
+  <div class="max">
+    <div class="sdiv r">✦ How It Works ✦</div>
+
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:80px;align-items:start;margin-bottom:80px" class="g2">
+      <div>
+        <p class="label r" style="color:var(--rose);margin-bottom:18px">02 / The Model</p>
+        <h2 class="display-sm r rd" style="margin-bottom:28px">
+          Research becomes story.<br>
+          <em class="g-full">Story becomes protection.</em>
+        </h2>
+        <p class="body r rd2" style="color:rgba(184,200,216,.58);margin-bottom:18px">
+          Podcast, YouTube, Instagram reels, TikTok, and live fireside chats — 
+          translating original research into story-driven content, not generic 
+          "online safety" advice.
+        </p>
+        <p class="body r rd3" style="color:rgba(184,200,216,.5)">
+          Grounded in documented cases from the Data Harms in Canada project. 
+          Two-sided distribution: direct social reach with young adults; 
+          family- and community-mediated reach with older adults.
+        </p>
+      </div>
+
+      <!-- Flow diagram -->
+      <div class="r rd" style="display:flex;flex-direction:column;gap:0">
+        <div style="display:flex;align-items:center;gap:0">
+          <div class="glass" style="flex:1;padding:24px 18px;text-align:center;border-radius:1px;border-color:rgba(155,77,255,.25)">
+            <p class="hud" style="color:var(--violet);margin-bottom:6px">Academic Research</p>
+            <p class="body-sm" style="color:rgba(184,200,216,.55)">Data Harms in Canada</p>
+          </div>
+          <div style="padding:0 8px;color:rgba(184,200,216,.3);font-size:18px">→</div>
+          <div class="glass-g" style="flex:1;padding:24px 18px;text-align:center;border-radius:1px">
+            <p class="hud" style="color:var(--gold);margin-bottom:6px">Bright Starling</p>
+            <p class="body-sm" style="color:rgba(184,200,216,.55)">Podcast, video, social</p>
+          </div>
+          <div style="padding:0 8px;color:rgba(184,200,216,.3);font-size:18px">→</div>
+          <div class="glass-e" style="flex:1;padding:24px 18px;text-align:center;border-radius:1px">
+            <p class="hud" style="color:var(--electric);margin-bottom:6px">Audience Protection</p>
+            <p class="body-sm" style="color:rgba(184,200,216,.55)">Critical AI literacy</p>
+          </div>
+        </div>
+
+        <div class="bq" style="margin-top:36px;text-align:center;border-left:none;padding-left:0">
+          "We see what others hide. We imagine what others fear."
+        </div>
+
+        <div style="display:flex;gap:10px;justify-content:center;margin-top:24px">
+          <span class="hud" style="padding:8px 16px;border-radius:20px;background:rgba(155,77,255,.1);border:1px solid rgba(155,77,255,.25);color:var(--violet)">Sage</span>
+          <span class="hud" style="padding:8px 16px;border-radius:20px;background:rgba(7,4,15,.6);border:1px solid rgba(184,200,216,.2);color:rgba(184,200,216,.7)">Magician</span>
+          <span class="hud" style="padding:8px 16px;border-radius:20px;background:rgba(200,151,58,.1);border:1px solid rgba(200,151,58,.3);color:var(--gold)">Rebel</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Why now stat -->
+    <div class="r glass-g" style="padding:44px;border-radius:1px;display:flex;align-items:center;gap:36px;flex-wrap:wrap">
+      <div class="stat g-gold" style="flex-shrink:0">46%</div>
+      <div>
+        <p class="label" style="color:rgba(200,151,58,.6);margin-bottom:8px">Why Now</p>
+        <p class="body" style="color:rgba(184,200,216,.65)">
+          of Canadian adults are now monthly podcast listeners — the largest 
+          year-over-year jump on record. <span style="color:rgba(184,200,216,.4)">(Signal Hill Insights, 2025)</span>
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════ COMPETITIVE LANDSCAPE ═══════════════════════ -->
+<section class="pad-sm bg-nebula">
+  <div class="max">
+    <p class="label r" style="color:var(--electric);margin-bottom:14px">03 / Competitive Landscape</p>
+    <h2 class="display-sm r rd" style="margin-bottom:48px">No media company builds<br>for both audiences at once.<br><em class="g-vb">That gap is the opportunity.</em></h2>
+
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr" class="g3" >
+      <div class="glass r" style="padding:28px;border-radius:1px;margin:0 -1px">
+        <p style="font-weight:500;font-size:14px;margin-bottom:8px">Tech-Explainer Creators</p>
+        <p class="hud" style="color:rgba(255,100,100,.5);margin-bottom:10px">HIGH REACH, NO RESEARCH</p>
+        <p class="body-sm" style="color:rgba(184,200,216,.5)">Wide audience, but no original research grounding behind the content.</p>
+      </div>
+      <div class="glass r rd" style="padding:28px;border-radius:1px;margin:0 -1px">
+        <p style="font-weight:500;font-size:14px;margin-bottom:8px">Library / Gov't Programs</p>
+        <p class="hud" style="color:rgba(255,200,50,.45);margin-bottom:10px">CREDIBLE, LOW REACH</p>
+        <p class="body-sm" style="color:rgba(184,200,216,.5)">Institutionally trustworthy, but low reach and low production value.</p>
+      </div>
+      <div class="glass r rd2" style="padding:28px;border-radius:1px;margin:0 -1px">
+        <p style="font-weight:500;font-size:14px;margin-bottom:8px">Aging-Focused Media</p>
+        <p class="hud" style="color:rgba(255,200,50,.45);margin-bottom:10px">NOT AI/DATA-HARM SPECIFIC</p>
+        <p class="body-sm" style="color:rgba(184,200,216,.5)">Reach with older adults — but not built around AI or data harms specifically.</p>
+      </div>
+    </div>
+
+    <div class="r glass-g" style="margin-top:24px;padding:32px 36px;border-radius:1px;text-align:center">
+      <p style="font-weight:500;font-size:16px;color:var(--gold-lt)">The Bright Starling ✦</p>
+      <p class="body-sm" style="color:rgba(184,200,216,.6);margin-top:8px">Research credibility + reach across both underserved audiences at once — with original findings no competitor can easily replicate.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════ MARKET OPPORTUNITY ═══════════════════════ -->
+<section id="market" class="pad bg-deep">
+  <div class="max">
+    <div class="sdiv r">✦ Market Opportunity ✦</div>
+    <p class="body-sm r" style="color:rgba(184,200,216,.4);margin-bottom:48px;text-align:center">Sized from public Statistics Canada and podcast-industry data</p>
+
+    <!-- Funnel viz -->
+    <div class="funnel" style="margin-bottom:56px">
+      <div class="fbar r" style="width:92%;background:linear-gradient(90deg,rgba(155,77,255,.18),rgba(155,77,255,.08));border:1px solid rgba(155,77,255,.3)">
+        <span class="label" style="color:var(--violet)">TAM</span>
+        <span class="body-sm" style="color:rgba(184,200,216,.6)">~15.5M Canadians aged 22–30 and 60+</span>
+      </div>
+      <div class="fbar r rd" style="width:62%;background:linear-gradient(90deg,rgba(200,151,58,.18),rgba(200,151,58,.08));border:1px solid rgba(200,151,58,.32)">
+        <span class="label" style="color:var(--gold)">SAM</span>
+        <span class="body-sm" style="color:rgba(184,200,216,.6)">~5.4M digitally-engaged Canadians</span>
+      </div>
+      <div class="fbar r rd2" style="width:32%;background:linear-gradient(90deg,rgba(77,200,255,.18),rgba(77,200,255,.08));border:1px solid rgba(77,200,255,.32)">
+        <span class="label" style="color:var(--electric)">SOM</span>
+        <span class="body-sm" style="color:rgba(184,200,216,.6)">25K–50K audience, Year 1</span>
+      </div>
+    </div>
+
+    <div class="r" style="max-width:760px;margin:0 auto 80px">
+      <ul style="display:flex;flex-direction:column;gap:10px;list-style:none">
+        <li class="body-sm" style="color:rgba(184,200,216,.45);display:flex;gap:10px"><span style="color:var(--gold)">·</span>Canada's population reached an estimated 41.65M on July 1, 2025 (Statistics Canada).</li>
+        <li class="body-sm" style="color:rgba(184,200,216,.45);display:flex;gap:10px"><span style="color:var(--gold)">·</span>19.5% of Canadians were 65+ (~8.1M); adding the 60–64 cohort brings 60+ to ~10.5M (Statistics Canada).</li>
+        <li class="body-sm" style="color:rgba(184,200,216,.45);display:flex;gap:10px"><span style="color:var(--gold)">·</span>46% of Canadian adults are monthly podcast listeners as of 2025 (Signal Hill Insights).</li>
+      </ul>
+    </div>
+
+    <!-- Business model -->
+    <p class="label r" style="color:var(--rose);margin-bottom:14px">04 / Business Model</p>
+    <h2 class="display-sm r rd" style="margin-bottom:16px">A media flywheel.</h2>
+    <p class="body r rd2" style="color:rgba(184,200,216,.5);margin-bottom:48px;max-width:620px">Build trust and reach first — monetize as credibility compounds.</p>
+
+    <div style="display:flex;flex-direction:column;gap:18px">
+      <div class="glass pillar r" style="border-color:rgba(77,200,255,.22)">
+        <div style="display:flex;align-items:flex-start;gap:20px">
+          <div class="sic" style="background:rgba(77,200,255,.08);border:1px solid rgba(77,200,255,.25)">🎙</div>
+          <div>
+            <h3 style="font-size:15px;font-weight:500;margin-bottom:8px">Primary Revenue — Sponsorship &amp; Advertising</h3>
+            <p class="body-sm" style="color:rgba(184,200,216,.56)">Podcast, YouTube, and social content monetized through brand sponsorships and advertising once audience reach is established.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass pillar r rd" style="border-color:rgba(155,77,255,.22)">
+        <div style="display:flex;align-items:flex-start;gap:20px">
+          <div class="sic" style="background:rgba(155,77,255,.08);border:1px solid rgba(155,77,255,.25)">🎓</div>
+          <div>
+            <h3 style="font-size:15px;font-weight:500;margin-bottom:8px">Secondary Revenue — Literacy Tools &amp; Workshops</h3>
+            <p class="body-sm" style="color:rgba(184,200,216,.56)">Paid critical-AI-literacy tools and workshops for individuals and community organizations, building on research credibility.</p>
+          </div>
+        </div>
+      </div>
+      <div class="glass pillar r rd2" style="border-color:rgba(200,151,58,.22)">
+        <div style="display:flex;align-items:flex-start;gap:20px">
+          <div class="sic" style="background:rgba(200,151,58,.08);border:1px solid rgba(200,151,58,.25)">🏛</div>
+          <div>
+            <h3 style="font-size:15px;font-weight:500;margin-bottom:8px">Long-Term Revenue — B2B / B2G Training</h3>
+            <p class="body-sm" style="color:rgba(184,200,216,.56)">Training and consulting for organizations and policymakers, leveraging documented research on age and data harms.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════ GO-TO-MARKET ═══════════════════════ -->
+<section class="pad-sm bg-nebula">
+  <div class="max">
+    <p class="label r" style="color:var(--electric);margin-bottom:14px">05 / Go-to-Market</p>
+    <h2 class="display-sm r rd" style="margin-bottom:56px">Sequenced to build<br><em class="g-gold">credibility before scale.</em></h2>
+
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr 1fr;gap:18px" class="g4">
+      <div class="glass r" style="padding:26px 22px;border-radius:1px">
+        <div class="pn" style="font-size:32px;width:auto;margin-bottom:14px">01</div>
+        <h3 style="font-size:14px;font-weight:500;margin-bottom:10px">Research-Led Credibility</h3>
+        <p class="body-sm" style="color:rgba(184,200,216,.5)">Workshops (Jul 22–24) and resulting paper (late Aug) ground the brand in original findings.</p>
+      </div>
+      <div class="glass r rd" style="padding:26px 22px;border-radius:1px">
+        <div class="pn" style="font-size:32px;width:auto;margin-bottom:14px">02</div>
+        <h3 style="font-size:14px;font-weight:500;margin-bottom:10px">Content Launch</h3>
+        <p class="body-sm" style="color:rgba(184,200,216,.5)">Translate workshop findings into first podcast episodes, YouTube/reels, and fireside chats.</p>
+      </div>
+      <div class="glass r rd2" style="padding:26px 22px;border-radius:1px">
+        <div class="pn" style="font-size:32px;width:auto;margin-bottom:14px">03</div>
+        <h3 style="font-size:14px;font-weight:500;margin-bottom:10px">Two-Sided Audience Growth</h3>
+        <p class="body-sm" style="color:rgba(184,200,216,.5)">Social/podcast reaches young adults directly; community and family-sharing pipelines reach older adults.</p>
+      </div>
+      <div class="glass-g r rd3" style="padding:26px 22px;border-radius:1px">
+        <div class="pn" style="font-size:32px;width:auto;margin-bottom:14px">04</div>
+        <h3 style="font-size:14px;font-weight:500;margin-bottom:10px">Monetization Entry</h3>
+        <p class="body-sm" style="color:rgba(184,200,216,.5)">Sponsorships/advertising as primary revenue; B2B/B2G training as a research-backed secondary stream.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════ TRACTION & TIMELINE ═══════════════════════ -->
+<section class="pad bg-deep">
+  <div class="max">
+    <div class="sdiv r">✦ Traction &amp; Financials ✦</div>
+    <p class="body r" style="color:rgba(184,200,216,.5);margin-bottom:48px;max-width:640px">Research-validated foundation — a pre-revenue media company building toward Year 1 launch.</p>
+
+    <div style="display:flex;flex-direction:column;gap:10px;margin-bottom:56px">
+      <div class="r body-sm" style="color:rgba(184,200,216,.6);display:flex;gap:10px"><span style="color:var(--gold)">✓</span>Trademark secured for "The Bright Starling"</div>
+      <div class="r rd body-sm" style="color:rgba(184,200,216,.6);display:flex;gap:10px"><span style="color:var(--gold)">✓</span>Founder owns production equipment &amp; has professional media skills</div>
+      <div class="r rd2 body-sm" style="color:rgba(184,200,216,.6);display:flex;gap:10px"><span style="color:var(--gold)">✓</span>Workshops confirmed: Jul 22–24, 2026</div>
+    </div>
+
+    <!-- Timeline -->
+    <div class="tl-wrap r">
+      <div class="tl-line"></div>
+      <div class="tl-pts">
+        <div class="tl-pt"><div class="tl-dot" style="background:var(--violet)"></div><p style="font-weight:500;font-size:13px">Workshops</p><p class="hud" style="color:rgba(184,200,216,.4)">Jul 22–24</p></div>
+        <div class="tl-pt"><div class="tl-dot" style="background:var(--gold)"></div><p style="font-weight:500;font-size:13px">Paper Published</p><p class="hud" style="color:rgba(184,200,216,.4)">Late Aug</p></div>
+        <div class="tl-pt"><div class="tl-dot" style="background:var(--rose)"></div><p style="font-weight:500;font-size:13px">Content Launch</p><p class="hud" style="color:rgba(184,200,216,.4)">September</p></div>
+        <div class="tl-pt"><div class="tl-dot" style="background:var(--electric)"></div><p style="font-weight:500;font-size:13px">Audience Growth</p><p class="hud" style="color:rgba(184,200,216,.4)">Oct–Nov</p></div>
+      </div>
+    </div>
+
+    <!-- Stat row -->
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:1px;background:rgba(123,45,191,.1);margin:56px 0" class="g3">
+      <div class="glass r" style="padding:32px;text-align:center">
+        <div class="stat g-vb" style="font-size:clamp(28px,3.5vw,42px)">~$2,400</div>
+        <p class="hud" style="color:rgba(155,77,255,.5);margin-top:10px">Startup Costs</p>
+        <p class="body-sm" style="color:rgba(184,200,216,.4);margin-top:4px">equipment, software, branding, admin</p>
+      </div>
+      <div class="glass r rd" style="padding:32px;text-align:center">
+        <div class="stat g-mg" style="font-size:clamp(28px,3.5vw,42px)">$0</div>
+        <p class="hud" style="color:rgba(204,0,170,.5);margin-top:10px">Revenue to Date</p>
+        <p class="body-sm" style="color:rgba(184,200,216,.4);margin-top:4px">pre-revenue; research &amp; brand-formation phase</p>
+      </div>
+      <div class="glass-g r rd2" style="padding:32px;text-align:center">
+        <div class="stat g-gold" style="font-size:clamp(28px,3.5vw,42px)">~$0.16</div>
+        <p class="hud" style="color:rgba(200,151,58,.5);margin-top:10px">Est. CAC</p>
+        <p class="body-sm" style="color:rgba(184,200,216,.4);margin-top:4px">per audience member; organic/referral-led</p>
+      </div>
+    </div>
+
+    <!-- Revenue table -->
+    <div class="r">
+      <p class="label" style="color:var(--gold);margin-bottom:20px">Revenue Projection</p>
+      <div class="rtbl">
+        <div class="rrow">
+          <div class="rcell rhead" style="color:rgba(184,200,216,.45)">Fiscal Year</div>
+          <div class="rcell rhead" style="color:rgba(184,200,216,.45)">Revenue (CA$)</div>
+          <div class="rcell rhead" style="color:rgba(184,200,216,.45)">Basis</div>
+        </div>
+        <div class="rrow"><div class="rcell" style="color:rgba(184,200,216,.5)">FY2025 (past)</div><div class="rcell" style="color:rgba(184,200,216,.6)">$0</div><div class="rcell body-sm" style="color:rgba(184,200,216,.45)">Pre-formation; research underway, trademark filed</div></div>
+        <div class="rrow"><div class="rcell" style="color:rgba(184,200,216,.5)">FY2026 (current)</div><div class="rcell" style="color:rgba(184,200,216,.6)">$0–$1,500</div><div class="rcell body-sm" style="color:rgba(184,200,216,.45)">Content launches Sept 2026; first test sponsorships only</div></div>
+        <div class="rrow"><div class="rcell" style="color:rgba(77,200,255,.7)">FY2027 (proj.)</div><div class="rcell" style="color:rgba(184,200,216,.65)">$15,000</div><div class="rcell body-sm" style="color:rgba(184,200,216,.45)">First full year of sponsorship/advertising revenue</div></div>
+        <div class="rrow"><div class="rcell" style="color:rgba(155,77,255,.7)">FY2028 (proj.)</div><div class="rcell" style="color:rgba(184,200,216,.65)">$45,000</div><div class="rcell body-sm" style="color:rgba(184,200,216,.45)">Expanded sponsorships + first B2B/B2G pilot contracts</div></div>
+        <div class="rrow" style="background:rgba(123,45,191,.08)"><div class="rcell" style="font-weight:600;color:var(--gold-lt)">FY2029 (proj.)</div><div class="rcell" style="font-weight:600;color:var(--gold-lt)">$95,000</div><div class="rcell body-sm" style="color:rgba(184,200,216,.55)">Mature sponsorship revenue + recurring B2B/B2G contracts</div></div>
+      </div>
+      <p class="hud" style="color:rgba(184,200,216,.22);margin-top:14px">Founder-estimated, directional projections — not based on signed contracts or historical financials.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════ FOUNDER / TEAM ═══════════════════════ -->
+<section id="founder" class="pad bg-nebula">
+  <div class="max">
+    <div class="sdiv r">✦ The Founder ✦</div>
+
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:80px;align-items:start" class="g2">
+      <div class="r">
+        <div class="ifrm" style="aspect-ratio:1/1;max-width:340px;box-shadow:0 0 60px rgba(155,77,255,.12);border-radius:50%">
+          <img src="data:image/jpeg;base64,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" alt="Janelle Allan" style="border-radius:50%">
+        </div>
+        <div style="margin-top:20px">
+          <p style="font-size:16px;font-weight:500;margin-bottom:4px">Janelle Allan</p>
+          <p class="hud" style="color:rgba(77,200,255,.5)">Founder — Media, Research &amp; Production</p>
+        </div>
+      </div>
+
+      <div>
+        <p class="label r" style="color:var(--electric);margin-bottom:18px">06 / Why This Founder</p>
+        <h2 class="display-sm r rd" style="margin-bottom:28px">
+          Research-grade insight.<br>
+          <em class="g-full">Production-ready execution.</em>
+        </h2>
+        <p class="body-lg r rd2" style="color:rgba(184,200,216,.62);margin-bottom:24px">
+          Janelle holds a degree in Media &amp; Communications (Honours) from Western University 
+          and is currently completing a Master's in Media Studies, developing original research skills 
+          firsthand — not borrowing someone else's findings.
+        </p>
+        <p class="body r rd3" style="color:rgba(184,200,216,.5);margin-bottom:32px">
+          She brings media production, graphic design, journalism, and writing skills in-house — 
+          no outsourcing needed. Every episode, reel, and report can be built, shot, and shipped 
+          without waiting on anyone else.
+        </p>
+
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px" class="r rd4">
+          <div class="glass" style="padding:18px 20px;border-radius:1px">
+            <div class="hud" style="color:var(--electric);margin-bottom:7px">Education</div>
+            <p class="body-sm" style="color:rgba(184,200,216,.55)">Western University — Media &amp; Communications (Honours), M.A. Media Studies (in progress)</p>
+          </div>
+          <div class="glass" style="padding:18px 20px;border-radius:1px">
+            <div class="hud" style="color:var(--gold);margin-bottom:7px">Research</div>
+            <p class="body-sm" style="color:rgba(184,200,216,.55)">Researcher, Data Harms in Canada: Investigating the Significance of Age</p>
+          </div>
+          <div class="glass" style="padding:18px 20px;border-radius:1px">
+            <div class="hud" style="color:var(--rose);margin-bottom:7px">Affiliation</div>
+            <p class="body-sm" style="color:rgba(184,200,216,.55)">Starling Centre, Western University (Faculty of Information &amp; Media Studies) — led by Dr. Joanna Redden</p>
+          </div>
+          <div class="glass" style="padding:18px 20px;border-radius:1px">
+            <div class="hud" style="color:var(--violet);margin-bottom:7px">Affiliation</div>
+            <p class="body-sm" style="color:rgba(184,200,216,.55)">Aging in Data (AiD), housed in the ACT Lab at Concordia University</p>
+          </div>
+        </div>
+
+        <div class="r" style="margin-top:32px">
+          <div class="bq">
+            Direct access to original, unpublished research on AI-driven data harms across age groups — 
+            credibility no competitor can easily replicate.
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════ WHY MORRISSETTE / ASK ═══════════════════════ -->
+<section id="connect" class="pad" style="text-align:center;overflow:hidden">
+  <div style="position:absolute;inset:0;background:radial-gradient(ellipse 70% 60% at 50% 50%,rgba(123,45,191,.1),transparent 70%);z-index:0"></div>
+  <div class="max" style="position:relative;z-index:1">
+    <div class="sdiv r">✦ Why Morrissette ✦</div>
+    <h2 class="display-md r rd" style="margin-bottom:20px">Pre-launch on content,<br><em class="g-full">not pre-validation.</em></h2>
+    <p class="body-lg r rd2" style="color:rgba(184,200,216,.55);max-width:600px;margin:0 auto 56px">
+      The research is already underway and scheduled. We are asking for the support to turn 
+      that credibility into a sustainable media business.
+    </p>
+
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:20px;max-width:900px;margin:0 auto 64px" class="g3">
+      <div class="glass r" style="padding:30px 24px;border-radius:1px">
+        <div class="sic" style="margin:0 auto 16px;background:rgba(255,45,170,.08);border:1px solid rgba(255,45,170,.25)">🤝</div>
+        <h3 style="font-size:14px;font-weight:500;margin-bottom:10px">Mentorship &amp; Education</h3>
+        <p class="body-sm" style="color:rgba(184,200,216,.5)">Structured guidance to turn research credibility into a sustainable media business model.</p>
+      </div>
+      <div class="glass-g r rd" style="padding:30px 24px;border-radius:1px">
+        <div class="sic" style="margin:0 auto 16px;background:rgba(200,151,58,.08);border:1px solid rgba(200,151,58,.25)">📈</div>
+        <h3 style="font-size:14px;font-weight:500;margin-bottom:10px">$12,000 in Funding</h3>
+        <p class="body-sm" style="color:rgba(184,200,216,.5)">Protects founder time to build content and audience during the critical post-research launch window.</p>
+      </div>
+      <div class="glass r rd2" style="padding:30px 24px;border-radius:1px">
+        <div class="sic" style="margin:0 auto 16px;background:rgba(77,200,255,.08);border:1px solid rgba(77,200,255,.25)">🌐</div>
+        <h3 style="font-size:14px;font-weight:500;margin-bottom:10px">Network &amp; Validation</h3>
+        <p class="body-sm" style="color:rgba(184,200,216,.5)">Accelerator credibility and connections to help open early sponsorship and partnership conversations.</p>
+      </div>
+    </div>
+
+    <p class="body r" style="color:rgba(184,200,216,.45);max-width:640px;margin:0 auto 12px">
+      The Bright Starling sits at the intersection of two underserved audiences — with original research, 
+      peer credibility, and a distinct brand voice no competitor can easily replicate.
+    </p>
+    <p class="display-sm r rd" style="font-family:'Playfair Display',serif;font-style:italic;margin-bottom:48px">
+      <span class="g-gold">We don't just explain the future. We help you reclaim it.</span>
+    </p>
+
+    <div class="r rd2" style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap">
+      <a href="https://www.linkedin.com/in/janelle-allan-5b6671153/" target="_blank"
+        style="padding:16px 44px;background:linear-gradient(135deg,rgba(123,45,191,.45),rgba(77,200,255,.22));border:1px solid rgba(123,45,191,.5);border-radius:1px;text-decoration:none;font-size:10px;letter-spacing:.22em;text-transform:uppercase;color:#fff;display:inline-flex;align-items:center;gap:10px">
+        Connect on LinkedIn ↗
+      </a>
+      <a href="mailto:hello@thebrightstarling.com"
+        style="padding:16px 44px;border:1px solid rgba(200,151,58,.3);border-radius:1px;text-decoration:none;font-size:10px;letter-spacing:.22em;text-transform:uppercase;color:rgba(200,151,58,.8);display:inline-flex;align-items:center;gap:10px">
+        hello@thebrightstarling.com ✦
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<footer style="padding:44px 5%;border-top:1px solid rgba(123,45,191,.1);position:relative;z-index:10;background:var(--void)">
+  <div class="max" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:20px">
+    <div style="display:flex;align-items:center;gap:11px">
+      <img src="assets/inline-2635ff26b5.png" alt="" style="height:26px;width:auto;filter:brightness(.55) drop-shadow(0 0 4px rgba(123,45,191,.3))">
+      <div>
+        <div style="font-size:11px;font-weight:500;letter-spacing:.08em;color:rgba(184,200,216,.35)">THE BRIGHT STARLING</div>
+        <div class="hud" style="color:rgba(184,200,216,.18);font-size:8px">MEDIA COMPANY · CRITICAL AI LITERACY · LONDON, ON · 2025</div>
+      </div>
+    </div>
+    <div class="hud" style="color:rgba(200,151,58,.22)">RESEARCH → STORY → PROTECTION</div>
+    <a href="https://www.linkedin.com/in/janelle-allan-5b6671153/" target="_blank" class="hud" style="color:rgba(77,200,255,.28);text-decoration:none;transition:color .3s" onmouseover="this.style.color='rgba(77,200,255,.65)'" onmouseout="this.style.color='rgba(77,200,255,.28)'">LINKEDIN ↗</a>
+  </div>
+</footer>
+
+<!-- ═══════════════════════ THREE.JS ORB (unchanged hero animation) ═══════════════════════ -->
+<script type="module">
+import * as THREE from 'three';
+import { EffectComposer } from 'three/addons/postprocessing/EffectComposer.js';
+import { RenderPass } from 'three/addons/postprocessing/RenderPass.js';
+import { UnrealBloomPass } from 'three/addons/postprocessing/UnrealBloomPass.js';
+
+const canvas = document.getElementById('webgl-canvas');
+const scene = new THREE.Scene();
+scene.background = new THREE.Color(0x04020A);
+scene.fog = new THREE.FogExp2(0x04020A, 0.02);
+
+const camera = new THREE.PerspectiveCamera(70, window.innerWidth/window.innerHeight, 0.1, 100);
+camera.position.z = 6;
+
+const renderer = new THREE.WebGLRenderer({ canvas, antialias:false, powerPreference:'high-performance' });
+renderer.setSize(window.innerWidth, window.innerHeight);
+renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 1.4;
+
+const group = new THREE.Group();
+scene.add(group);
+
+const coreMat = new THREE.MeshPhysicalMaterial({
+  color: 0x02010A, metalness: 0.97, roughness: 0.03,
+  clearcoat: 1, clearcoatRoughness: 0.03,
+  emissive: 0x7B2DBF, emissiveIntensity: 0.07
+});
+const core = new THREE.Mesh(new THREE.IcosahedronGeometry(1.9, 10), coreMat);
+group.add(core);
+
+const w1mat = new THREE.MeshBasicMaterial({ color:0x9B4DFF, wireframe:true, transparent:true, opacity:0.1 });
+const w1 = new THREE.Mesh(new THREE.IcosahedronGeometry(2.15, 2), w1mat);
+group.add(w1);
+
+const w2mat = new THREE.MeshBasicMaterial({ color:0x1A5FFF, wireframe:true, transparent:true, opacity:0.04 });
+const w2 = new THREE.Mesh(new THREE.IcosahedronGeometry(2.45, 1), w2mat);
+group.add(w2);
+
+const ringMat = new THREE.MeshBasicMaterial({ color:0xC8973A, transparent:true, opacity:0.32 });
+const ring = new THREE.Mesh(new THREE.TorusGeometry(2.3, 0.004, 6, 80), ringMat);
+ring.rotation.x = Math.PI * 0.42;
+group.add(ring);
+
+const ring2mat = new THREE.MeshBasicMaterial({ color:0x4DC8FF, transparent:true, opacity:0.14 });
+const ring2 = new THREE.Mesh(new THREE.TorusGeometry(2.56, 0.003, 6, 80), ring2mat);
+ring2.rotation.x = Math.PI * 0.18; ring2.rotation.y = Math.PI * 0.3;
+group.add(ring2);
+
+const PAL = [[0.61,0.3,1],[1,0,0.67],[0.3,0.78,1],[0.78,0.59,0.23]];
+const pGeo = new THREE.BufferGeometry();
+const N = 300;
+const pp = new Float32Array(N*3), pc = new Float32Array(N*3);
+for(let i=0;i<N;i++) {
+  pp[i*3]=(Math.random()-.5)*18; pp[i*3+1]=(Math.random()-.5)*18; pp[i*3+2]=(Math.random()-.5)*18;
+  const c=PAL[Math.floor(Math.random()*4)]; pc[i*3]=c[0];pc[i*3+1]=c[1];pc[i*3+2]=c[2];
+}
+pGeo.setAttribute('position',new THREE.BufferAttribute(pp,3));
+pGeo.setAttribute('color',new THREE.BufferAttribute(pc,3));
+const pMesh = new THREE.Points(pGeo, new THREE.PointsMaterial({size:.032,vertexColors:true,transparent:true,opacity:.85,blending:THREE.AdditiveBlending}));
+scene.add(pMesh);
+
+const EX=7000;
+const exGeo=new THREE.BufferGeometry();
+const ei=new Float32Array(EX*3),et=new Float32Array(EX*3),ec=new Float32Array(EX*3),cp=new Float32Array(EX*3);
+for(let i=0;i<EX;i++) {
+  const phi=Math.acos(-1+(2*i)/EX),th=Math.sqrt(EX*Math.PI)*phi,r=1.9;
+  const x=r*Math.cos(th)*Math.sin(phi),y=r*Math.sin(th)*Math.sin(phi),z=r*Math.cos(phi);
+  ei[i*3]=cp[i*3]=x; ei[i*3+1]=cp[i*3+1]=y; ei[i*3+2]=cp[i*3+2]=z;
+  const d=new THREE.Vector3(x,y,z).normalize(),dist=2+Math.random()*7.5;
+  et[i*3]=d.x*dist; et[i*3+1]=d.y*dist; et[i*3+2]=d.z*dist;
+  const c=PAL[Math.floor(Math.random()*4)]; ec[i*3]=c[0];ec[i*3+1]=c[1];ec[i*3+2]=c[2];
+}
+exGeo.setAttribute('position',new THREE.BufferAttribute(cp,3));
+exGeo.setAttribute('color',new THREE.BufferAttribute(ec,3));
+const exMat=new THREE.PointsMaterial({size:.044,vertexColors:true,transparent:true,opacity:0,blending:THREE.AdditiveBlending,depthWrite:false});
+const exSys=new THREE.Points(exGeo,exMat); exSys.visible=false; group.add(exSys);
+
+scene.add(new THREE.AmbientLight(0xffffff,.05));
+const L1=new THREE.PointLight(0x9B4DFF,520); L1.position.set(4,2,4); scene.add(L1);
+const L2=new THREE.PointLight(0xFF00AA,360); L2.position.set(-4,-2,2); scene.add(L2);
+const L3=new THREE.PointLight(0x1A5FFF,180); L3.position.set(0,4,-4); scene.add(L3);
+
+const comp=new EffectComposer(renderer);
+comp.addPass(new RenderPass(scene,camera));
+const bl=new UnrealBloomPass(new THREE.Vector2(window.innerWidth,window.innerHeight),1.5,.4,.85);
+bl.strength=1.45; bl.radius=.55; bl.threshold=.08;
+comp.addPass(bl);
+
+let mx=0,my=0,hov=false,anim=false;
+const as={p:0};
+const ray=new THREE.Raycaster(), ptr=new THREE.Vector2();
+
+function updEx() {
+  const pos=exGeo.attributes.position.array;
+  for(let i=0;i<EX;i++) {
+    const ix=i*3,iy=ix+1,iz=ix+2;
+    pos[ix]=ei[ix]+(et[ix]-ei[ix])*as.p; pos[iy]=ei[iy]+(et[iy]-ei[iy])*as.p; pos[iz]=ei[iz]+(et[iz]-ei[iz])*as.p;
+    if(as.p>.01){const a=as.p*.75,cx=pos[ix],cz=pos[iz];pos[ix]=cx*Math.cos(a)-cz*Math.sin(a);pos[iz]=cx*Math.sin(a)+cz*Math.cos(a);}
+  }
+  exGeo.attributes.position.needsUpdate=true;
+}
+
+const G=window.gsap;
+document.addEventListener('mousemove',e=>{
+  mx=e.clientX-window.innerWidth/2; my=e.clientY-window.innerHeight/2;
+  ptr.x=(e.clientX/window.innerWidth)*2-1; ptr.y=-(e.clientY/window.innerHeight)*2+1;
+  ray.setFromCamera(ptr,camera);
+  if(ray.intersectObject(core).length){
+    if(!hov){document.body.style.cursor='pointer';G.to(w1.scale,{x:1.12,y:1.12,z:1.12,duration:.5});G.to(coreMat,{emissiveIntensity:.22,duration:.3});hov=true;}
+  }else{
+    if(hov){document.body.style.cursor='none';G.to(w1.scale,{x:1,y:1,z:1,duration:.5});G.to(coreMat,{emissiveIntensity:.07,duration:.3});hov=false;}
+  }
+});
+
+window.addEventListener('click',()=>{
+  if(hov&&!anim){
+    anim=true;
+    G.to([coreMat,w1mat,w2mat,ringMat,ring2mat],{opacity:0,duration:.2,onComplete:()=>{core.visible=w1.visible=w2.visible=ring.visible=ring2.visible=false;}});
+    exSys.visible=true; G.to(exMat,{opacity:1,duration:.1});
+    G.to(as,{p:1,duration:1.9,ease:'power4.out',onUpdate:updEx,onComplete:()=>{
+      G.to(as,{p:0,duration:2.5,delay:.2,ease:'elastic.out(1,.5)',onUpdate:updEx,onComplete:()=>{
+        core.visible=w1.visible=w2.visible=ring.visible=ring2.visible=true;
+        G.to(exMat,{opacity:0,duration:.3});
+        G.to([coreMat,w1mat,w2mat,ringMat,ring2mat],{opacity:1,duration:.5});
+        w1mat.opacity=.1; w2mat.opacity=.04; ringMat.opacity=.32; ring2mat.opacity=.14;
+        exSys.visible=false; anim=false;
+      }});
+    }});
+  }
+});
+
+const clk=new THREE.Clock();
+(function tick(){
+  const t=clk.getElapsedTime();
+  group.rotation.y+=.0012; group.rotation.x+=.0006;
+  group.rotation.y+=.032*(mx*.001-group.rotation.y)*.1;
+  group.rotation.x+=.032*(my*.001-group.rotation.x)*.1;
+  if(!anim){
+    const s=1+Math.sin(t*1.5)*.013; w1.scale.set(s,s,s);
+    const s2=1+Math.cos(t*1.05)*.02; w2.scale.set(s2,s2,s2);
+    ring.rotation.z+=.003; ring2.rotation.y+=.005;
+  }
+  L1.position.set(Math.sin(t*.55)*5,Math.cos(t*.4)*4,3);
+  L2.position.set(Math.cos(t*.28)*6,Math.sin(t*.35)*3,Math.sin(t*.5)*4);
+  L3.position.set(Math.sin(t*.3+1)*4,Math.cos(t*.45)*3,-3);
+  pMesh.rotation.y=t*.033; pMesh.rotation.x=-my*.00011;
+  comp.render();
+  requestAnimationFrame(tick);
+})();
+
+window.addEventListener('resize',()=>{
+  camera.aspect=window.innerWidth/window.innerHeight;
+  camera.updateProjectionMatrix();
+  renderer.setSize(window.innerWidth,window.innerHeight);
+  comp.setSize(window.innerWidth,window.innerHeight);
+});
+
+window.onload=()=>{
+  const tl=G.timeline();
+  tl.to('#loader',{opacity:0,duration:.7,onComplete:()=>document.getElementById('loader').style.display='none'})
+    .from(core.scale,{x:0,y:0,z:0,duration:2,ease:'elastic.out(1,.7)'},'-=.2')
+    .from(w1.scale,{x:0,y:0,z:0,duration:2,ease:'elastic.out(1,.7)'},'<')
+    .from(w2.scale,{x:0,y:0,z:0,duration:2,ease:'elastic.out(1,.7)'},'<')
+    .to('#nav',{opacity:1,duration:.8},'<.4')
+    .to('.r',{opacity:1,y:0,duration:1.1,stagger:.08,ease:'power4.out'},'<.2');
+};
+</script>
+
+<script>
+const sc=document.getElementById('stars'),sx=sc.getContext('2d');
+const PAL2=[[155,77,255],[255,0,170],[77,200,255],[200,151,58]];
+let ST=[];
+function iS(){
+  sc.width=window.innerWidth; sc.height=window.innerHeight;
+  ST=Array.from({length:240},()=>{
+    const c=PAL2[Math.floor(Math.random()*4)];
+    return{x:Math.random()*sc.width,y:Math.random()*sc.height,r:Math.random()*1.1+.1,
+      o:Math.random()*.4+.05,ph:Math.random()*Math.PI*2,sp:.003+Math.random()*.008,col:c};
+  });
+}
+let ft2=0;
+(function dS(t){
+  const dt=(t-ft2)/16; ft2=t;
+  sx.clearRect(0,0,sc.width,sc.height);
+  ST.forEach(s=>{
+    s.ph+=s.sp*dt;
+    const o=s.o*(.6+.4*Math.sin(s.ph));
+    sx.beginPath(); sx.arc(s.x,s.y,s.r,0,Math.PI*2);
+    sx.fillStyle=`rgba(${s.col[0]},${s.col[1]},${s.col[2]},${o})`; sx.fill();
+  });
+  requestAnimationFrame(dS);
+})(0);
+window.addEventListener('resize',iS); iS();
+
+const cur=document.getElementById('cur'),curR=document.getElementById('cur-ring');
+document.addEventListener('mousemove',e=>{
+  cur.style.left=e.clientX+'px'; cur.style.top=e.clientY+'px';
+  curR.style.left=e.clientX+'px'; curR.style.top=e.clientY+'px';
+});
+
+const obs=new IntersectionObserver(en=>en.forEach(e=>{
+  if(e.isIntersecting){
+    e.target.classList.add('show');
+    e.target.querySelectorAll('.bar-fill').forEach(b=>b.classList.add('show'));
+  }
+}),{threshold:.08,rootMargin:'0px 0px -40px 0px'});
+document.querySelectorAll('.r').forEach(el=>obs.observe(el));
+
+const barObs=new IntersectionObserver(en=>en.forEach(e=>{
+  if(e.isIntersecting) e.target.classList.add('show');
+}),{threshold:.1});
+document.querySelectorAll('.bar-fill').forEach(b=>barObs.observe(b));
+
+const gels=document.querySelectorAll('.glitch');
+let lx2=0,ly2=0,lt2=0;
+document.addEventListener('mousemove',e=>{
+  const now=Date.now(),dt=now-lt2;
+  if(dt>30){
+    const s=Math.sqrt((e.clientX-lx2)**2+(e.clientY-ly2)**2)/dt;
+    if(s>3) gels.forEach(el=>{if(!el.classList.contains('go')){el.classList.add('go');setTimeout(()=>el.classList.remove('go'),280);}});
+    lx2=e.clientX; ly2=e.clientY; lt2=now;
+  }
+});
+
+function rsz(){
+  const mq=window.innerWidth<900;
+  document.querySelectorAll('.g2').forEach(g=>g.style.gridTemplateColumns=mq?'1fr':'');
+  document.querySelectorAll('.g3').forEach(g=>g.style.gridTemplateColumns=mq?'1fr':'');
+  document.querySelectorAll('.g4').forEach(g=>g.style.gridTemplateColumns=mq?'1fr 1fr':'');
+}
+rsz(); window.addEventListener('resize',rsz);
+</script>
+</body>
+</html>

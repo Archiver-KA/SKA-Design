@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01979",
+  "title": "UnicornStudio Library Initialization Snippet",
+  "summary": "Embeds and initializes UnicornStudio v1.4.30 via a full-screen, behind-content div. Automatically loads the external UMD script and runs UnicornStudio.init() on page load. Suitable for adding UnicornStudio analytics or widgets to any webpage.",
+  "tags": [
+    "script",
+    "loader",
+    "integration",
+    "unicornstudio",
+    "javascript",
+    "embed",
+    "background"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1996,
+      "sha256": "fa40a8689b1988aefdb03b2be15ca4e4882ef0fec59a2d81d19ec70af6c79497"
+    },
+    {
+      "path": "component.html",
+      "bytes": 524,
+      "sha256": "ba61ba53ed4e38f5f7b14a15b4f929ed169f47a2e83124e4b021995141efe736"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1389,
+      "sha256": "252a9a81148f9f7122dfc8f6c4cef16bc70b647acb8219699420b9c9618e09d0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

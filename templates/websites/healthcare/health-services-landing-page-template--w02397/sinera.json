@@ -1,0 +1,66 @@
+{
+  "id": "SN-W02397",
+  "title": "Health Services Landing Page Template",
+  "summary": "Sovereign Care Ltd home care page (UK English) with a type-only hero, needs tabs, four-step matching, vetting list and per-visit cost cards.",
+  "tags": [
+    "Health",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3065,
+      "sha256": "c1570882ac8d7c48babc2736f6e73c78fbc4d93afb9333b5e76cf9bf64140ade"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14632,
+      "sha256": "3f789060b31b2132afec37d6e382336701bb1f0627486d3b962f46d5bb9206ba"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 948,
+      "sha256": "369dd1e1b38de7d4f2790b4e0409aefba6a8b11b4089f89c5440c68dcd5bc00e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 165,
+      "sha256": "783cec1663237b1be183120debf2f84dd9939ed87a9d0b9fa72cb91e9482dcee"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18287,
+      "sha256": "9eff036ad61debd6f8cdf35b81a0d680d352dc97e27bdcef5198429b6368cf56"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "footer"
+  ],
+  "quality": {
+    "status": "rebuilt",
+    "issues": [],
+    "rendered": true
+  },
+  "language": "en-GB",
+  "designSystem": "sinera-atlas@1.0.0",
+  "design": "DESIGN.md"
+}

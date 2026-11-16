@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02001",
+  "title": "Animated Coffee Subscription Pricing Table",
+  "summary": "Responsive pricing grid showcasing three coffee subscription tiers with gradient cards, hover/scroll animations and CTA buttons. Built with Tailwind CSS, ideal for e-commerce or SaaS plan displays.",
+  "tags": [
+    "pricing table",
+    "subscription",
+    "tailwind",
+    "responsive",
+    "animated",
+    "ecommerce",
+    "grid"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 27340,
+      "sha256": "f6a31b5bd77f40885da253b0e47af0fdcb0e215bb6feb7a47c202fb5f09bcebe"
+    },
+    {
+      "path": "component.html",
+      "bytes": 20295,
+      "sha256": "bcd22a027c7308018917c309962ec973e93cf19007c74429a366ae79b8e00b75"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21158,
+      "sha256": "c68c61a951f7ffae038eb33025d4df6784e9c2e19d589f776cf00fbdc55e964c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "SN-W00585",
+  "title": "Nexus SaaS Landing Page Template",
+  "summary": "A high-performance SaaS landing page template designed for intelligent search and AI discovery platforms featuring modern animations and dark mode styling.",
+  "tags": [
+    "Technology",
+    "Services",
+    "Landing Page",
+    "Dark",
+    "Animated",
+    "Clean",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4394,
+      "sha256": "583cf952ae07634d96d2ee67fedb835471c0414a8c1c875819652986a0be3101"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16084,
+      "sha256": "ff391ef6ba44050727b0b95965ebe0fa530767fff33d67a60ac4be94571774f6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "5a3d9f713e7d1be5f8205e761a35bdc45c24e44bef048de0a1958d5d442cef03"
+    },
+    {
+      "path": "index.html",
+      "bytes": 59111,
+      "sha256": "58f70c9b0b3b93cdc0efd0de4c83ee28e6fdda964aa7df68de98de86d515b87f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "bento-grid",
+    "features",
+    "timeline",
+    "product-grid",
+    "gallery-portfolio",
+    "about",
+    "pricing",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

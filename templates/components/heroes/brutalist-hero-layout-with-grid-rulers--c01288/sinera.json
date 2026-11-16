@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01288",
+  "title": "Brutalist Hero Layout with Grid Rulers",
+  "summary": "Full-screen brutalist hero section with grid background, horizontal/vertical rulers, capabilities cards, project grid, and floating nav. Uses CSS variables, utility classes, and Lucide icons for a tech-focused landing or studio showcase.",
+  "tags": [
+    "hero",
+    "section",
+    "landing",
+    "portfolio",
+    "responsive",
+    "interactive",
+    "css",
+    "lucide"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 17394,
+      "sha256": "d241f445e1a9306fd89ef22dab9a9a35c4c76fe06e83116463b054ce90713762"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8767,
+      "sha256": "05f6e147bf957ed7b9d091da33ddb2906705103205600b71ed043a61ce38bba6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9626,
+      "sha256": "f910ac47fca35355dcd2461e42a623b32a8bce004b94e8489a7cd0bdbec3201e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

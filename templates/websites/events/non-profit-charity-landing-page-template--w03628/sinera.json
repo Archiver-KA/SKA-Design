@@ -1,0 +1,81 @@
+{
+  "id": "SN-W03628",
+  "title": "Non-Profit Charity Landing Page Template",
+  "summary": "A modern Non-Profit Charity Landing Page Template for foundations and faith-based NGOs to showcase causes, attract volunteers, and drive donations.",
+  "tags": [
+    "Landing Page",
+    "Non-profit",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Charity"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3616,
+      "sha256": "4dfff321a26bb55e9ab20300f63040079b42cbc122c5f5746e248b91a103d0f9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15620,
+      "sha256": "64833087cab1284b5d2a24e7345fe8101f57dfb14daeecafb1d2866d287819b3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1345,
+      "sha256": "e8bbb25ca787c7cfc1a0682ea0814144a1c1b82892834bbecd96cbe96cde8fca"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 445,
+      "sha256": "d340d7096b6d6f08484ee78a18c179023a5dc7ec972f63fe245a4f772bceaa8f"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 277,
+      "sha256": "3e770198495cbba70705d67ad2d5cb8352a1f9207805d406b3680fc6af5eb4f0"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 385,
+      "sha256": "3dfba1ba716783a77669805f1f4e86a745676f088e4a1791c604a7feb19fbefe"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21968,
+      "sha256": "255b244e001b8b9f1d0c2a39a0b2fd0868a71bb3714440a3826eee92a5f09304"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "features",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

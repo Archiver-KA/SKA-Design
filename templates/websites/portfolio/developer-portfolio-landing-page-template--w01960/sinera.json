@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01960",
+  "title": "Developer Portfolio Landing Page Template",
+  "summary": "Reusable portfolio landing page template designed for software developers to showcase projects, skills, and professional experience.",
+  "tags": [
+    "Portfolio",
+    "Developer",
+    "Projects",
+    "Skills",
+    "Experience",
+    "Technical Stack",
+    "Contact",
+    "Testimonials",
+    "Gallery"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3534,
+      "sha256": "f73fcb69c55c403c1aaccede2c528f36b1693d678a0e7d1efc79d32c0f42e1ec"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14002,
+      "sha256": "8c73d408ed3628ac3929e17906be4e4939910c7ccf02aa0bfa4378b8d15c4f50"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "5e4d383215842968e91784f0dd06cf92e836bb323f16f4f227b7ed3aaa59c10c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26645,
+      "sha256": "0be12fd8df6d7cfd35e4c4482757987ed354bde184e2872e8dc3e590f6622b06"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "case-studies",
+    "timeline",
+    "how-it-works",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

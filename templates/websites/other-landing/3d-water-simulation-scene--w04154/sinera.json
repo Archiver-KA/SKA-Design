@@ -1,0 +1,59 @@
+{
+  "id": "SN-W04154",
+  "title": "3D Water Simulation Scene",
+  "summary": "Interactive 3D scene with realistic water and reflective objects using Three.js and OrbitControls.",
+  "tags": [
+    "Water",
+    "Three.js",
+    "3D",
+    "WebGL",
+    "Simulation",
+    "OrbitControls",
+    "Interactive"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2208,
+      "sha256": "6ffc06930a3612093b10e44a2c5f4b9dc6233846c8528a06dc8ce05a6509c37b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3152,
+      "sha256": "89ba2bf054ad20674150ab51c11ae8489cfd67ed4ef9fed8286df6c2b65b67b3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 718,
+      "sha256": "a3a7bb22b529b60f434358bc515b893da6620f0167cc1f5185cd16d4a8d8f647"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5274,
+      "sha256": "b68ba787ff2b4a42f0840e10ff8d7537fb461c351010a0e417201bc698e7f12b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

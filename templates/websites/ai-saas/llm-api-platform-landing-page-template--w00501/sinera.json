@@ -1,0 +1,148 @@
+{
+  "id": "SN-W00501",
+  "title": "LLM API Platform Landing Page Template",
+  "summary": "A modern, dark-mode landing page template for unified LLM API platforms, showcasing models, agents, metrics, and a models directory with clear CTAs.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "API",
+    "AI Models"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3777,
+      "sha256": "2f317a914ef0cca49ef394c81fc282b6c0ec74368b0a19fc0d977fbfaa97dc97"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4102,
+      "sha256": "b50082aab426b7333e414c14856dc02c7c77562d5e74418d6bd17355f3c3c336"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 3926,
+      "sha256": "7f3ae2408a2a9a56ddbf4412fa6790b3e62877a8c34ce554da7340283d0e6820"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 312,
+      "sha256": "9cb4c400a2623ded155a5d1943be1c288f0e6c757e3ac71dbec7930d0f754901"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 86,
+      "sha256": "ad60beef945d9261f068e0b93b151d1b24355a8087b59bb8f8cf335c3b035bd9"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 471,
+      "sha256": "cbe00183253dc0690482bfcd802ed0051b19360365c6fe9ef5bd993886147b2e"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 390,
+      "sha256": "548318c3bf0b06112c459d4c5b0af9912e2212f77212debdf829e30ee78b01ae"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 540,
+      "sha256": "2222653099905b89e3e2ab5eb775282fc6cfe1dd4a86bffdde37c5dd83725868"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 377,
+      "sha256": "3208e9089e5028d36278165e75b5162430fc14e04b26323b8e29dbe66c311eed"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 305,
+      "sha256": "7defadfa10d5d721a538812e658105e079ea1b880e9c5bc134e7823152cd73e4"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 312,
+      "sha256": "aa0813193696564f6869b210382e71d660426ac07d8d8ff8f70a41b1e10f9f7f"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 133,
+      "sha256": "46d2885180e1d4bb1dac7a75711a60603233fcf4002044b421723ac78c5c3d93"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 487,
+      "sha256": "b2bf7e53a3382d64fbc4d1e7827a1f179df033516ebed79d2684265c3166d6e2"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 482,
+      "sha256": "02eb2a346154c566d40c6b23475ff0b14f4d5fa11aa112cf3e5e1633a3e22e71"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 351,
+      "sha256": "50e7f5548f6c0eb8d9822b19b56119d4fb4bfc3a6245338c653bfdf1f3866210"
+    },
+    {
+      "path": "images/embedded/embedded-0013.svg",
+      "bytes": 400,
+      "sha256": "22d66b128eee9334ccc14c070438a767116855bf57134277b7315858b8af06c5"
+    },
+    {
+      "path": "images/embedded/embedded-0014.svg",
+      "bytes": 550,
+      "sha256": "f0792a660544702c3046af65049f85573e46d0b05f8b4ba61325c0c21cf80e76"
+    },
+    {
+      "path": "images/embedded/embedded-0015.svg",
+      "bytes": 429,
+      "sha256": "f3f1782bb3705058fa03797d33f06a95ebd9772db2903619522f83df7433f015"
+    },
+    {
+      "path": "images/embedded/embedded-0016.svg",
+      "bytes": 394,
+      "sha256": "ed882a8c7bac8337e700b17e8037cfbff83a4e5687d1cf37d50c560dd84ac08f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 57392,
+      "sha256": "e6c2da391983c4ff673d4a140b53eb09440b9aef6a13b4df2cbf5eb285e5ff40"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "modal-overlay",
+    "navbar",
+    "stats",
+    "how-it-works",
+    "code-terminal",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

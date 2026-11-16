@@ -1,0 +1,10 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none">
+                    <path d="M250,128 Q500,50 750,150" fill="none" stroke="url(#gradient-line)" stroke-width="1" stroke-dasharray="4 4" class="opacity-50" />
+                    <defs>
+                        <linearGradient id="gradient-line" x1="0%" y1="0%" x2="100%" y2="0%">
+                            <stop offset="0%" stop-color="transparent" />
+                            <stop offset="50%" stop-color="white" />
+                            <stop offset="100%" stop-color="transparent" />
+                        </linearGradient>
+                    </defs>
+                </svg>

@@ -1,0 +1,46 @@
+{
+  "id": "SN-C01513",
+  "title": "AI-Powered UI Design Editor Layout",
+  "summary": "Comprehensive dashboard replicating a web-based design editor with top bar, component library, canvas, property inspector and AI assistant panels. Built with Tailwind CSS utilities for responsive, interactive prototyping and SaaS tool mock-ups.",
+  "tags": [
+    "dashboard",
+    "editor",
+    "design-tool",
+    "tailwind",
+    "responsive",
+    "panel",
+    "ai",
+    "canvas",
+    "layout",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 29596,
+      "sha256": "fce7dad78e9603e698860bc1ce879ad59dbaa8f8d5d6da59847b107c4920534a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 48938,
+      "sha256": "e78c3dd24d28bfebcbbf1c494ade4010be62ac3e306587ed697143caa531ff24"
+    },
+    {
+      "path": "index.html",
+      "bytes": 49923,
+      "sha256": "dd11d8256e9da88d3634a5d36c5aa8cc86e23e94bdd506de79ce6d1170dd2cdd"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "SN-W02012",
+  "title": "Experimental Artist Portfolio Website Template",
+  "summary": "Bold, colorful portfolio website template for experimental artists to showcase collections, story, and gallery-ready work with immersive visuals and CTAs.",
+  "tags": [
+    "Art & Design",
+    "Artist",
+    "Portfolio",
+    "Landing Page",
+    "Brand",
+    "Colorful",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3830,
+      "sha256": "e0ed6793a181e41be205d0213d9eb82696c4b15bfdca69a32d997871978c81a1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15192,
+      "sha256": "7ab7a543461c19d1f8445887976b2dbfd47fd1a5f0fda669b777eb292b5fe1f6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 874,
+      "sha256": "7e90bf94dda6974f867d60d27679065fc9446ff545f1307796121608b06c79b9"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26238,
+      "sha256": "a23a0222ab7449bf60c7af4656f130104bb668fbf9f5b1e95fe076b8d7af7a89"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "features",
+    "product-grid",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

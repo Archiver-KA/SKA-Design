@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00356",
+  "title": "Event Detail Card with Attendees and Upload CTA",
+  "summary": "A Tailwind-based event detail card showing title, time, location, track, attendee avatars with invite button, and a prominent upload strip for submitting prep work. Ideal for workshop dashboards or event management interfaces.",
+  "tags": [
+    "card",
+    "tailwind",
+    "event",
+    "dashboard",
+    "responsive",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16774,
+      "sha256": "c093a389c4e2bcba67435fe78f27fa0ae9e3f4a4dbaf47ca6dfa4612dc5f4b56"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5925,
+      "sha256": "191c320ccbf5d5844be41eb77ab93b4fe738bba973d928cbeb36713362fedc7f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6793,
+      "sha256": "d2b4d1e46d1bc262a725cc7fcfc659e15b601b31d54966e9796913bcd67a3822"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

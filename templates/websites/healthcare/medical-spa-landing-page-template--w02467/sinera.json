@@ -1,0 +1,70 @@
+{
+  "id": "SN-W02467",
+  "title": "Medical Spa Landing Page Template",
+  "summary": "A polished medical spa website template for showcasing aesthetic injectables, skin rejuvenation, and wellness services with built-in booking and location details.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Health",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Medical Spa",
+    "Aesthetic Clinic",
+    "Wellness"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3684,
+      "sha256": "a9c92ba5c3ae482e985db7501a43bf4582009dd51dcba0365dfb52bb4a1b9ca8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15060,
+      "sha256": "68b8a65116d8dab9ef1491c63a1c5f4b7478e8a0efa0df239c9547d6ab8eaa37"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 722,
+      "sha256": "ff9518b942ca46674aa671e1e9bf872d305db876164d1507ecc3024df9af1b2f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36182,
+      "sha256": "319a177b958eaa143eccb57c4aa47ebac50267728ec877dcb635a9d4f59d0a00"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "announcement-bar",
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "awards-press",
+    "team",
+    "services",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

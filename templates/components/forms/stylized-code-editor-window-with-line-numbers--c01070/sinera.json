@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01070",
+  "title": "Stylized Code Editor Window with Line Numbers",
+  "summary": "Tailwind-styled code viewer mimicking a desktop editor, featuring window controls, search badge, line numbers, syntax-highlighted code, blur shadow and gradient fade; ideal for docs, blogs or dev portfolios.",
+  "tags": [
+    "code",
+    "editor",
+    "code-block",
+    "syntax-highlighting",
+    "tailwind",
+    "viewer",
+    "ui-component"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4444,
+      "sha256": "dc48c844a4575140411acf45221265e3a8d9bdc76144cc125874cd1dc42e2f87"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2774,
+      "sha256": "d96d23a8e9367801e9e3fe6521a60876574d5c2af2beaf20f6ba32243919ab7c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3640,
+      "sha256": "9a73856f824185d48ae5b8d567ee254f27b62712943de3f6448a99ae5221a4a0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

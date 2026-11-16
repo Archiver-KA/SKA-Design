@@ -1,0 +1,66 @@
+{
+  "id": "SN-W03962",
+  "title": "Interactive Business Microsite Template",
+  "summary": "A high-performance landing page template designed for professionals and real estate agents to create interactive 360° virtual tours and digital portfolios.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Real Estate",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Animated",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3711,
+      "sha256": "44f687b3d478593965394533b7cc45c63461c77ef7ec5179057903eb5cac67a8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20376,
+      "sha256": "e6825c93df5af549336691a122d7ca4a744946f401d327ea48aae6eb68a9c47f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "3a19ca6cbaf58581c7a2195b1bb601546e07654fdcb4537b86884a88b19f2f5f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 51866,
+      "sha256": "5ce47d090cad2b54712464c340b0a5b6de7aca5061383ea08f7374d719b38bab"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "listings",
+    "features",
+    "cta",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

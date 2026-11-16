@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01890",
+  "title": "Creative Director Portfolio Website Template",
+  "summary": "A modern portfolio website template for creative directors and digital designers to showcase work, services, and experience with a sleek, dark 3D aesthetic.",
+  "tags": [
+    "Portfolio",
+    "Landing Page",
+    "Art & Design",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Futuristic",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3573,
+      "sha256": "48713c22c5bdd765b78de7bb3585137c6c20526480527f012d9235c36fd07c4a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17286,
+      "sha256": "ebb8b1422a42ae5a1ada0dfcbc605ff797833018cbe61ce5ef297227e726f646"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 732,
+      "sha256": "27414b10b9f5592f11fe33a2450e5882694a43cf0290fc6cd9fd9f2d9cdb88a1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33613,
+      "sha256": "455032dc42abc548c4382bb96c75b4c563ca879ac1eb9e842838f6a5c80cb363"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "video-media",
+    "navbar",
+    "hero",
+    "bento-grid",
+    "services",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00270",
+  "title": "Rounded Logo Link Button (Tailwind CSS)",
+  "summary": "Anchor element styled with Tailwind to show a 120×36 px pill-shaped background image; ideal as a logo link or badge button in headers, navbars, or call-to-action sections.",
+  "tags": [
+    "link",
+    "logo",
+    "tailwind",
+    "rounded",
+    "image",
+    "navigation"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2546,
+      "sha256": "1df0afaad3453379f5411ed8ea9f0ebfe707719a8f901ce2c9692d0a74b73533"
+    },
+    {
+      "path": "component.html",
+      "bytes": 732,
+      "sha256": "0e0e8db37892cf2ce2467de0b1f879e51b9bff2aeecdb3a550838d45527c4621"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1592,
+      "sha256": "a4d7419c7ed7ebc67df0ed1176bca41218a9ac47f186a910f8204a1fbcf1183f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

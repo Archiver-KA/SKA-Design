@@ -1,0 +1,41 @@
+{
+  "id": "SN-C00236",
+  "title": "Pill Button with Icon and Hover Text Color",
+  "summary": "A full-width pill-shaped button-style span featuring a file-text SVG icon and label 'Get The Report', styled with Tailwind-like utility classes, hover text color transition, inset shadow, and rounded layout for use in CTAs or download actions.",
+  "tags": [
+    "button",
+    "tailwind",
+    "interactive",
+    "icon",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1750,
+      "sha256": "75b1f5e2b7c586e6db541f5ca4bf944421ebe816674f08d0403d8cae5054332e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 958,
+      "sha256": "4981a181f8a2496df251f52bd4aeaeb377fd211ed607e96a16d470d277ef05fa"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1951,
+      "sha256": "ff5534f2183f7c3d44ef8b397942123d325afbca7eb246db3805f3a9710e6034"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

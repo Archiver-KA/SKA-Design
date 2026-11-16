@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01593",
+  "title": "Revenue Leak Calculator Section",
+  "summary": "Interactive calculator for medical practices to diagnose revenue leaks across their patient journey. Features preset toggles, dynamic inputs, quiz diagnostic, and detailed breakdown with personalized recommendations.",
+  "tags": [
+    "section",
+    "calculator",
+    "interactive",
+    "form",
+    "revenue",
+    "analytics",
+    "dashboard",
+    "responsive",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18158,
+      "sha256": "2f4e734ed1f784bf90c908d98192b4840c6071adf0890d47591d4a8251beca99"
+    },
+    {
+      "path": "component.html",
+      "bytes": 29869,
+      "sha256": "3b890c99ca60a164c41a80802ea1ff3881a34a11223de986f4f69d491d309d4f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30721,
+      "sha256": "d222b4141514ffd6b0330f5539dac5d457c6691b1d31b9e2bb067289b0d08967"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

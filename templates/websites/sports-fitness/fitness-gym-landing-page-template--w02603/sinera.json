@@ -1,0 +1,74 @@
+{
+  "id": "SN-W02603",
+  "title": "Fitness Gym Landing Page Template",
+  "summary": "A bold fitness landing page template for gyms, trainers, and wellness studios to promote programs, memberships, and enrollment.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Dark",
+    "Clean",
+    "Large Type",
+    "Minimal",
+    "Fitness",
+    "Gym"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3519,
+      "sha256": "0e630f49c18770b315bc52ec81e5ad84cd24d62f94afa3cf53ae7371e15cc6f6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 24956,
+      "sha256": "f25903f13c127f923924cc5266a730a77515c9d5a6d9c7a8d4d2f23015ba829a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 956,
+      "sha256": "bfab822e78bd4445db63111cab339041afb9f86bc78737ad6bf0e93477aaab99"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 484,
+      "sha256": "a5bb3338ff2b8cb96e3277c9e0cfc5d234f28405f5b59c7cd789d682240cf6db"
+    },
+    {
+      "path": "index.html",
+      "bytes": 43403,
+      "sha256": "5f451fcccb9897fd9b8b4c99e98b563a17b0bc4182c02ccae630f395e466fdd5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "case-studies",
+    "pricing",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01911",
+  "title": "Image Marquee Gallery",
+  "summary": "Dynamic image gallery with marquee effect, featuring a central device frame and animated image carousel. Responsive with mobile optimization.",
+  "tags": [
+    "gallery",
+    "marquee",
+    "images",
+    "device",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 37440,
+      "sha256": "7a63b21ce12fe79c721c3f4dca6a80f75b721d3cbc972d770657a92cd9dbd1bb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3268,
+      "sha256": "121841d2d8a97d7c28f79cbe8c093dd490bf400369b22610ce2da11aebb18476"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4110,
+      "sha256": "89c487748f2dbc9ac85cd86b410e9fa0978b639ef0894b42f070c55cde914d83"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

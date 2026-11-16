@@ -1,0 +1,45 @@
+{
+  "id": "SN-C02340",
+  "title": "Responsive Tailwind KPI Stat Cards Grid",
+  "summary": "Collection of four gradient stat cards displaying KPIs with icons, trend badges, hover border effects, and entry animations. Built with Tailwind CSS and responsive grid layout—ideal for analytics dashboards and admin panels.",
+  "tags": [
+    "card",
+    "stats",
+    "dashboard",
+    "tailwind",
+    "responsive",
+    "kpi",
+    "grid",
+    "animated",
+    "gradient"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7690,
+      "sha256": "c4011143594f7fe6889d0c99cb80368a3cfb7af4f9789d79444a45558de552ce"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4703,
+      "sha256": "05caf4ac609a9f1b223cabda3a41e7ce18ca508e78e6dca5866b2ed306bf3a43"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5563,
+      "sha256": "8843bf2874c93e01f7ca7a80738c80b5776ef5b4906e4f7143d0082ced620e1b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01465",
+  "title": "Responsive Hero Banner with Image Overlay & CTAs",
+  "summary": "Full-viewport hero section featuring a background image with gradient overlay, headline, subtitle and dual call-to-action buttons. Styled with Tailwind CSS utilities and responsive heights, perfect for e-commerce landers, brand promos or product showcases.",
+  "tags": [
+    "hero",
+    "banner",
+    "tailwind",
+    "responsive",
+    "background-image",
+    "overlay",
+    "call-to-action",
+    "ecommerce"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 31100,
+      "sha256": "3f1c1527a8e92ccfa73cc570bc64be8a59bbd14efd17a7ea07e8f9000268c542"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1554,
+      "sha256": "09c084ba92097552eea4c357ea7b7d3dd37a5a56d15ee0692d0af2f5f32cdb1b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2427,
+      "sha256": "0f5bdbd91e76c09850512b75769e9d5d8e03a40d50cfda7bcb6a4508ea0fe4f9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

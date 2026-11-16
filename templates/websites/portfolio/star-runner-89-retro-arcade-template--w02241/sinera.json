@@ -1,0 +1,60 @@
+{
+  "id": "SN-W02241",
+  "title": "Star Runner '89 Retro Arcade Template",
+  "summary": "A high-performance retro arcade game template featuring pixel art aesthetics, canvas mechanics, and mobile-responsive controls.",
+  "tags": [
+    "Entertainment",
+    "Technology",
+    "Dark",
+    "Animated",
+    "Futuristic",
+    "Portfolio",
+    "Style"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3465,
+      "sha256": "d1703427a48d4993174f26d71a34dad9be490839e2d032909b636042d1a86464"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11012,
+      "sha256": "54b2d5a1060cbe415987c09db63729365929ef2ebf3fa69b7afe9dc8007d3912"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "b15efa44a820ac3583c19207da5f4269bcdbce3c8cf4901772d3b9382f504ef6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18237,
+      "sha256": "52e7bd515510f1dbaa40a040fc29baef13ba4542def7e561acca641d97a7416b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "3d-canvas",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

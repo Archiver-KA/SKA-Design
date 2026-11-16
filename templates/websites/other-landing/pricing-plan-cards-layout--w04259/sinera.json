@@ -1,0 +1,73 @@
+{
+  "id": "SN-W04259",
+  "title": "Pricing Plan Cards Layout",
+  "summary": "Responsive pricing cards UI showcasing three subscription plans with features, pricing, and call-to-action buttons using Tailwind CSS.",
+  "tags": [
+    "HTML",
+    "Tailwind CSS",
+    "Responsive Design",
+    "UI",
+    "Pricing Cards",
+    "Web Components"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2910,
+      "sha256": "342e5a7ac4d8d1345992d180fedf4921505be543baf49e13bf813f7a70fb8af2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13848,
+      "sha256": "2eb0ca5eed2701596624c5fb787656449349b2c3752b723c3efc85f619f70691"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1249,
+      "sha256": "4e1c3207f94f9e056196b62efa86d75453ab7f8ed2d65b5746e1569b0df72e5e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 294,
+      "sha256": "da52d50ee3bf7a4315b7d233aead62d155712678d3e45aec919e18c4cb0d23b6"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 575,
+      "sha256": "c2bb4e541d0b8c808330d0dab87c405db961e4cc0a0a60afb57e2957e50bb903"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 425,
+      "sha256": "62b33e438738f45598941e890ed1843b0a5a152f2c8438df2d3613ed09696e9e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5993,
+      "sha256": "1219db041999c283086625043e99f0688b985fb55637e0faa1ccc7722acffadd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "pricing"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "pricing",
+  "design": "DESIGN.md"
+}

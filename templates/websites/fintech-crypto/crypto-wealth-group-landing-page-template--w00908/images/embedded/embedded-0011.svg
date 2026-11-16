@@ -1,0 +1,24 @@
+<svg class="absolute inset-0 -top-12 h-[1000px] w-full pointer-events-none hidden md:block overflow-visible z-0 text-xs rounded-3xl" preserveAspectRatio="none" viewBox="0 0 1000 800">
+      <defs class="text-xs rounded-3xl">
+
+
+      </defs>
+
+      <!-- Static faint tracks -->
+      <path d="M 125,280 C 125,550 480,500 500,680" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="1" class="text-xs rounded-3xl"></path>
+      <path d="M 375,280 C 375,550 490,500 500,680" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="1" class="text-xs rounded-3xl"></path>
+      <path d="M 625,280 C 625,550 510,500 500,680" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="1" class="text-xs rounded-3xl"></path>
+      <path d="M 875,280 C 875,550 520,500 500,680" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="1" class="text-xs rounded-3xl"></path>
+
+      <!-- Animated Data Flow Lines (Base Gradient) -->
+      <path class="animate-flow-custom text-xs rounded-3xl" stroke-dasharray="200, 400" stroke-dashoffset="0" d="M 125,280 C 125,550 480,500 500,680" fill="none" stroke="url(#blueFlowGradient)" stroke-width="2" style="animation-duration: 8s;"></path>
+      <path class="animate-flow-custom text-xs rounded-3xl" stroke-dasharray="200, 400" stroke-dashoffset="-200" d="M 375,280 C 375,550 490,500 500,680" fill="none" stroke="url(#blueFlowGradient)" stroke-width="2" style="animation-duration: 10s;"></path>
+      <path class="animate-flow-custom text-xs rounded-3xl" stroke-dasharray="200, 400" stroke-dashoffset="-100" d="M 625,280 C 625,550 510,500 500,680" fill="none" stroke="url(#blueFlowGradient)" stroke-width="2" style="animation-duration: 9s;"></path>
+      <path class="animate-flow-custom text-xs rounded-3xl" stroke-dasharray="200, 400" stroke-dashoffset="-300" d="M 875,280 C 875,550 520,500 500,680" fill="none" stroke="url 0.4;"></path>
+
+      <!-- Animated Data Packets (Bright, Fast, Glowing) -->
+      <path class="animate-flow-custom text-xs rounded-3xl" stroke-dasharray="20, 600" stroke-dashoffset="0" d="M 125,280 C 125,550 480,500 500,680" fill="none" stroke="#60a5fa" stroke-width="3" filter="url(#glow)" style="animation-duration: 4s; stroke-linecap: round;"></path>
+      <path class="animate-flow-custom text-xs rounded-3xl" stroke-dasharray="20, 600" stroke-dashoffset="-200" d="M 375,280 C 375,550 490,500 500,680" fill="none" stroke="#60a5fa" stroke-width="3" filter="url(#glow)" style="animation-duration: 5s; stroke-linecap: round;"></path>
+      <path class="animate-flow-custom text-xs rounded-3xl" stroke-dasharray="20, 600" stroke-dashoffset="-100" d="M 625,280 C 625,550 510,500 500,680" fill="none" stroke="#60a5fa" stroke-width="3" filter="url(#glow)" style="animation-duration: 4.5s; stroke-linecap: round;"></path>
+      <path class="animate-flow-custom text-xs rounded-3xl" stroke-dasharray="20, 600" stroke-dashoffset="-300" d="M 875,280 C 875,550 520,500 500,680" fill="none" stroke="#60a5fa" stroke-width="3" filter="url(#glow)" style="animation-duration: 6s; stroke-linecap: round;"></path>
+    </svg>

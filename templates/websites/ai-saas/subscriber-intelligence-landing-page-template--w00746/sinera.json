@@ -1,0 +1,76 @@
+{
+  "id": "SN-W00746",
+  "title": "Subscriber Intelligence Landing Page Template",
+  "summary": "A reusable landing page template for newsletter analytics platforms to showcase subscriber insights, churn prediction, integrations, pricing, and demos.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Clean",
+    "Colorful",
+    "Gradient",
+    "Dark",
+    "SaaS",
+    "Analytics",
+    "Newsletter"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3606,
+      "sha256": "8ac90b972e3bc8678bf50335a155ebde7bd48964634f45d32059c8f15640e941"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12598,
+      "sha256": "408969063dbab4e309519c2dfa0ff95d88ba1d87ae1f58a465366f48cc0d59eb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 883,
+      "sha256": "823f2048218b7f06a39468764471ddd77c5aaacb1bfa7d96e9eafd5a4120945c"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 755,
+      "sha256": "a503b7fd0fa82b11add91a5ee3aaf02bf1f52ac41d8ad1733ef9c61a4ba26cb2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 49253,
+      "sha256": "f18241955175ce2b30787a2a12dad61978f6e716e496a0d952eba3f71aa19ea7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "stats",
+    "how-it-works",
+    "gallery-portfolio",
+    "logo-cloud",
+    "pricing",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

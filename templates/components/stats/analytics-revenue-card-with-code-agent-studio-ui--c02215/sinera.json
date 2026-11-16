@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02215",
+  "title": "Analytics Revenue Card with Code & Agent Studio UI",
+  "summary": "Glassmorphism analytics card showcasing monthly recurring revenue with interactive bar chart, live status, and code snippet, paired with an Agent Studio IDE-style panel, metrics, and badges. Built with Tailwind-style utility classes, ideal for AI/SaaS dashboards.",
+  "tags": [
+    "card",
+    "dashboard",
+    "analytics",
+    "tailwind",
+    "ui",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5650,
+      "sha256": "f1bef659a46a538c1bae3ec55726cc3fe8eb8ae9ccc2b230ade9484728eab97d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 15386,
+      "sha256": "621c5d95fd96b5bda6f05da8e6d210533c9005790ef010ee8797634378957008"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16261,
+      "sha256": "4f9f97c9a66381b056af317c841f9e626a3f162620bff95cee6ddb7339edb382"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

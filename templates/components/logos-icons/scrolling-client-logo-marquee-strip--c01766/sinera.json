@@ -1,0 +1,48 @@
+{
+  "id": "SN-C01766",
+  "title": "Scrolling Client Logo Marquee Strip",
+  "summary": "Full-width animated marquee displaying client and partner logos with grayscale-to-color hover effects. Built with Tailwind-style utility classes and keyframe animation, ideal for social proof or 'trusted by' sections on landing pages.",
+  "tags": [
+    "feature",
+    "section",
+    "logo",
+    "marquee",
+    "animated",
+    "responsive",
+    "tailwind",
+    "branding",
+    "Logo",
+    "Bar",
+    "Clients",
+    "Kunden"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3486,
+      "sha256": "638c1cc2a1809432f85c8f2ab5dacdfc70d52e51eafbc445d1bc942c9df01a28"
+    },
+    {
+      "path": "component.html",
+      "bytes": 42880,
+      "sha256": "a34ff01e6b777848f8972c86a86435a0863d8bf8590da67535dc54fb5ceb29ac"
+    },
+    {
+      "path": "index.html",
+      "bytes": 43736,
+      "sha256": "2747619cdfadbca9b5f1cd969c60c23a1183e7e1ded544c41a65073aed841b37"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

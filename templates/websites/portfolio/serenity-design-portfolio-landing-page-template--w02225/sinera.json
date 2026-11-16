@@ -1,0 +1,80 @@
+{
+  "id": "SN-W02225",
+  "title": "Serenity Design Portfolio Landing Page Template",
+  "summary": "A clean, animated portfolio landing page template for designers and creative studios to showcase selected work, services, and calls-to-action with a refined aesthetic.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3883,
+      "sha256": "138a276e92482c1d6c05d03822563b886998424add0a6ab0ebc61f81e24fd20e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13466,
+      "sha256": "e13bff37d5f015c792fdf67f9b81aa247c1792727f2d6a2383375a840d0e9cc6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1272,
+      "sha256": "c1bbdf1031e1125147741f9e612fa6cc7d25322febc05551d7db5afe4a5456a9"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 355,
+      "sha256": "3b45cecbb0676a21225ad6583bb126664db32d0b3a66d1934ac30f764004364d"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 252,
+      "sha256": "32c1a8da152723defa1fa59ba9e46a6033e0e0153752bce911d8adbcffca8cc1"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 344,
+      "sha256": "a197eadcd596c935849886746155859a753251502e6d9c170de7bd2fb7df9a71"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27411,
+      "sha256": "d6ece72101962484d612873154a55033deb4cddcb45f3d5b1e44a75b642e3237"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "product-grid",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

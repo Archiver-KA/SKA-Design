@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03052",
+  "title": "Guesthouse Landing Page Template",
+  "summary": "A reusable guesthouse landing page template for showcasing rooms, amenities, location, reviews, and contact details for small hotels and family-run pensions.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Guesthouse",
+    "Hotel"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3505,
+      "sha256": "d9ad4d1a474ab2ba5c1b9f31631bf9dd9506a903691e14e4c43630914fdfa668"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 27174,
+      "sha256": "faa7bcd6ad0639dbf879d39f3621b4595fd604921cbb100619b51262bf1100f1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "9e2b1425ae2b4d6dc970ef4a8127e44cc6fb27406d0a22d905cc9636373b1b51"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23421,
+      "sha256": "810c63e0357fd7fc21d00256e38015d4963e9a8240ed3777c652442bfb465755"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "listings",
+    "features",
+    "map-location",
+    "testimonials",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

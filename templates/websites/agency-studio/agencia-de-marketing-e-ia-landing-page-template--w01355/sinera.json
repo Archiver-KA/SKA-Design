@@ -1,0 +1,85 @@
+{
+  "id": "SN-W01355",
+  "title": "Agencia de Marketing e IA Landing Page Template",
+  "summary": "Landing page template for an AI-powered marketing agency, perfect for showcasing automated growth systems, services, and testimonials in a sleek dark layout.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "AI marketing",
+    "Agency"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3849,
+      "sha256": "5d754140d266c227341bd89df37546bc8bdac559ae45ca95cda6ef55612f75a8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7630,
+      "sha256": "5aad19765c11266cfcf5ec0d56cb034346d3a7f83620a5b6760b353ef907c20d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1358,
+      "sha256": "45237658acdcc75c2ca756e75ed5b98a6d064d63eb7d4b8cfdfa9d73de89e6bf"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "6d7f47cc04d290ef4abac372150068099aee31617cc15da366306e3307a84d33"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 1549,
+      "sha256": "b44252f81d8dbecc82cc6500c52d9e0aaf665af02ce5b6a1f4ba0eae1d561c1c"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 1550,
+      "sha256": "b834444b4f69699bc722c95c6edb68eddcece95a2ee0ecd297b417302a665408"
+    },
+    {
+      "path": "index.html",
+      "bytes": 57630,
+      "sha256": "807d4ca5fdd1acd972fd0e03a38960ae1f3bc4a27c67b6ecddbeec0ff753165e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "video-media",
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "services",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

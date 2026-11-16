@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00805",
+  "title": "Interactive Service Card with Hover Depth",
+  "summary": "Tailwind-built card showcasing a numbered service with layered browser mock-up, hover background fade, depth shadows, and responsive layout. Ideal for portfolio or feature sections highlighting strategy, research, or similar offerings.",
+  "tags": [
+    "card",
+    "tailwind",
+    "hover",
+    "portfolio",
+    "feature",
+    "responsive",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6852,
+      "sha256": "168f01401ace091524b4a3b4250085552fde2dff31eb14aba13a37c49b40321d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2754,
+      "sha256": "c13cc75f712c0d00ce56b4108b99d6e6f5f12f81c229a8e3be6f191d47b944ec"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3616,
+      "sha256": "87b274b96f99dafbd18e04c8ae0891248266cc0aadf0e591e0f46ea6afd005cf"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

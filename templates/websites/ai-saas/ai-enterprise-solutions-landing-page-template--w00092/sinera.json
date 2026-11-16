@@ -1,0 +1,76 @@
+{
+  "id": "SN-W00092",
+  "title": "AI Enterprise Solutions Landing Page Template",
+  "summary": "A modern dark-mode template for AI-driven enterprise solutions, perfect for showcasing services, products, and CTAs for technology consulting businesses.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Grid",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3760,
+      "sha256": "ee9d9cdc33650d58eb2daf4b7ddff2c51973ae4b9b36646955e40dc2615e5b4f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16222,
+      "sha256": "7adc69a329ab5c26a8d9850f82ac1b75bda81edee8c1369301c73022c42fa9d0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1076,
+      "sha256": "03a79d0dcda2257f6430040d2b03181a141e3759ac0b779cc69beb6d0bae2d25"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 269,
+      "sha256": "f35dd45bf3279530ce1de9f1b5699ffa3d934fc19c57db099eebd850aed33269"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 974,
+      "sha256": "361d85d7278eb0d1479685a55eaa850f9fa9da5d40b1e425e794cb3423d6dc97"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41726,
+      "sha256": "86b6b9ce35a67e0252b88cabe4f29c8e11237d87326559b188028dfe0b7aa399"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "logo-cloud",
+    "product-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

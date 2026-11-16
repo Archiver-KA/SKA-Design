@@ -1,0 +1,64 @@
+{
+  "id": "SN-W01489",
+  "title": "Creative Design Studio Landing Page Template",
+  "summary": "A high-end, immersive digital studio template designed for creative agencies to showcase premium portfolios and brand experiences.",
+  "tags": [
+    "Technology",
+    "Portfolio",
+    "Landing Page",
+    "Clean",
+    "Dark",
+    "Large Type",
+    "Animated",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3161,
+      "sha256": "5c779f1c62d2d0adc7f3e1dc721598afea9a9a6e09f8969bd4b8f31e77690cf4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19864,
+      "sha256": "85e74e65169eebc702ca8986ef3a9609d85b2cdd033ce19a0081e2b085cf21eb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "1cbf90f91fa6f25000f15cfa89587fe7be68be12a429fcf69aebf0daac584d1d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22235,
+      "sha256": "d2d936d7a9dd4398ca0fe621c6e159dd01f7e904bec48e00a5ba1a074b937b5c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "cta",
+    "video-media",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

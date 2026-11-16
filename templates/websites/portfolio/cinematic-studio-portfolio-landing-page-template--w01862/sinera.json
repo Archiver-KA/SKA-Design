@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01862",
+  "title": "Cinematic Studio Portfolio Landing Page Template",
+  "summary": "A dark, cinematic studio portfolio landing page template for production houses to showcase storytelling, process, team, and high-end brand work.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Brand",
+    "Art & Design",
+    "Entertainment",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3205,
+      "sha256": "bec5dcb5dbc7381aacc168af2d001d7cfd221ac98b0879d89b988ae178600162"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3028,
+      "sha256": "71a899b37eb6dd10228a18892dc2ea1d2a6ed7e86534be602d81e0d66759f1a5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "a634e4e0f5e063e7ac647ab7a42d81f88e833bb362f77c8354a7e1281f52dd8d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31377,
+      "sha256": "a4dcb3e04b2c2228bab5205f80fcaec4a8b91d8e3b3871886f0ca0f985d46dfb"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "about",
+    "team",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00675",
+  "title": "Animated Feature Cards Grid",
+  "summary": "Responsive three-column grid of animated feature cards showcasing physics, event system, and React export. Uses Tailwind-style utility classes, hover effects, and scroll animations for interactive marketing or documentation sections.",
+  "tags": [
+    "card",
+    "tailwind",
+    "animated",
+    "responsive",
+    "interactive",
+    "grid",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10026,
+      "sha256": "81edebc77c34bee3083d530bd9e0f877722d91b5158b8eabdbdab882b6f68bdc"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6085,
+      "sha256": "f246d26d0a8cb273f912b40f43cae239a6933f2be721965ec6b2efbafb79f5f7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6933,
+      "sha256": "4f0a0a2d586b41b574d7fce267e1e7b975f9a470263cf1c844f91e270a0bb3a8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

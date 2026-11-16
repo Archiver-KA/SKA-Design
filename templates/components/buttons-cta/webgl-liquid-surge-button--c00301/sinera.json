@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00301",
+  "title": "WebGL Liquid Surge Button",
+  "summary": "An advanced interactive button featuring a custom WebGL fragment shader that simulates fluid dynamics. Includes mouse-reactive sloshing, tilt effects, and a dynamic 'gulp' animation on click, built with Tailwind CSS and raw GLSL.",
+  "tags": [
+    "button",
+    "webgl",
+    "interactive",
+    "animated",
+    "tailwind",
+    "glsl",
+    "liquid",
+    "glassmorphism"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2350,
+      "sha256": "d6d6d2ad3ecc3fbb9e150ca613b944da1456bf6c6cfb1db9dd68981f75f3530b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6547,
+      "sha256": "df9fc57ef4013638a71fe03d922340644ffb93df9ef64b8b3ef3f8f330867880"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7393,
+      "sha256": "2fc1c2fbdd3791cffa79458bb55c4f72f513178929eca64859f3b6a9ffb06bab"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

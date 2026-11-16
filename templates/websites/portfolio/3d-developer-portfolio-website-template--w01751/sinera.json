@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01751",
+  "title": "3D Developer Portfolio Website Template",
+  "summary": "A dark, 3D-enhanced portfolio website template for creative developers and designers to showcase projects, skills, and capture client leads.",
+  "tags": [
+    "Portfolio",
+    "Landing Page",
+    "Technology",
+    "Art & Design",
+    "Dark",
+    "3D",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3507,
+      "sha256": "61f001244d524fcfec7cb7e1944cca2863530b97297069e188e3be0e26f7524c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11310,
+      "sha256": "56b258f2e2fadbe9848422b1cc954abbd108f76a1c9521ad7a9d72c9763f4257"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 727,
+      "sha256": "e8eb953cd0f25a25051932cbace8422ac44f4e384476a12528f59da817b38bac"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26394,
+      "sha256": "7d0083bac364617c04560a53c9822700c603d9c692fd56fba48d6f96c5dc24cb"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "case-studies",
+    "services",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

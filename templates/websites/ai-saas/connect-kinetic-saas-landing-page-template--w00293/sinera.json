@@ -1,0 +1,66 @@
+{
+  "id": "SN-W00293",
+  "title": "Connect Kinetic SaaS Landing Page Template",
+  "summary": "A high-conversion landing page template for LinkedIn lead qualification and AI-driven sales outreach pipelines.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3721,
+      "sha256": "a2ce9c7264d217a620204f6a751e3dc808e99347212d183e002478ffdbfac60c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 28630,
+      "sha256": "03c1cb841edb0fd7a1a2162c213127c8918ab1abab4052b0549b5ff596a77dc1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 819,
+      "sha256": "8c24da6288178e6a2f305fb74b26eb8a73a7b8d7d205409faec2552362820de6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 71089,
+      "sha256": "6ac429ffd3570e758f19f39c794e0b043e3061bc8a827b493c8c235c61444468"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "how-it-works",
+    "testimonials",
+    "faq",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

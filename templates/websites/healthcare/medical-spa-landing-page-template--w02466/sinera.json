@@ -1,0 +1,70 @@
+{
+  "id": "SN-W02466",
+  "title": "Medical Spa Landing Page Template",
+  "summary": "Elegant medical spa landing page template for aesthetic and wellness clinics to showcase services, build trust, and drive appointment requests.",
+  "tags": [
+    "Health",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Services",
+    "Medical Spa",
+    "Wellness Clinic",
+    "Appointment Booking"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3540,
+      "sha256": "62a84a3b7f9b7374060fb075c5dea781e667256a699b41079c4bc7336ad51870"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13260,
+      "sha256": "edfdefe08ddb29e77d708102b0b1b180de4a1d74d1be0d7f65664346632204e8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 722,
+      "sha256": "aeec6fcbc6bc08568365803d5424de78d4b146d6e9f6bf413435bfa7b87d83b1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31173,
+      "sha256": "8dde14153876ad6bee4597f9eb3d5f0f06d71e176002ea19543d75f1d16ca36c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "announcement-bar",
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "services",
+    "about",
+    "contact-form",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

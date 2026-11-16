@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01377",
+  "title": "Hero Grid with Social Icons and Beta Signup",
+  "summary": "Responsive hero-style grid featuring a bold heading, social media icon buttons, and a compact beta signup form card. Uses Tailwind CSS utility classes, subtle scroll animations, and is suitable for product landing or app launch pages.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "signup",
+    "social",
+    "form"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8056,
+      "sha256": "3b76f327b1749318f92282abbf9dcef2aee0b84d4de75eda28431d9db7866b0a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3411,
+      "sha256": "9fce1fd99d0fc243dcdf827822a9e2f30d896d66a07a603529895368d4c9202a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4405,
+      "sha256": "e5212f4c57694a83a6c38ee757624121afc9073dea317752e364f02bf4061090"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

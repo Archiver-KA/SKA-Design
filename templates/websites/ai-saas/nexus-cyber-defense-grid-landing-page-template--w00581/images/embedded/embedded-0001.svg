@@ -1,0 +1,26 @@
+<svg class="fixed inset-0 w-full h-full pointer-events-none z-[1] opacity-70" viewBox="0 0 100 100" preserveAspectRatio="none">
+      <defs>
+          <filter id="noodle-glow" x="-20%" y="-20%" width="140%" height="140%">
+              <feGaussianBlur stdDeviation="0.15" result="blur"></feGaussianBlur>
+              <feComposite in="SourceGraphic" in2="blur" operator="over"></feComposite>
+          </filter>
+      </defs>
+
+      <!-- Noodle 1 -->
+      <path d="M 15,-10 C 15,30 85,70 85,110" fill="none" stroke="rgba(255,171,0,0.06)" stroke-width="0.1"></path>
+      <path d="M 15,-10 C 15,30 85,70 85,110" fill="none" stroke="#FF6D00" stroke-width="0.2" filter="url(#noodle-glow)" stroke-dasharray="10 150">
+          <animate attributeName="stroke-dashoffset" from="150" to="0" dur="6s" repeatCount="indefinite"></animate>
+      </path>
+
+      <!-- Noodle 2 -->
+      <path d="M 85,-10 C 85,40 20,60 20,110" fill="none" stroke="rgba(255,171,0,0.06)" stroke-width="0.1"></path>
+      <path d="M 85,-10 C 85,40 20,60 20,110" fill="none" stroke="#FFAB00" stroke-width="0.2" filter="url(#noodle-glow)" stroke-dasharray="15 150">
+          <animate attributeName="stroke-dashoffset" from="150" to="0" dur="8.5s" repeatCount="indefinite"></animate>
+      </path>
+
+      <!-- Noodle 3 -->
+      <path d="M 50,-10 C 65,30 35,60 50,110" fill="none" stroke="rgba(255,171,0,0.06)" stroke-width="0.1"></path>
+      <path d="M 50,-10 C 65,30 35,60 50,110" fill="none" stroke="#E65100" stroke-width="0.15" filter="url(#noodle-glow)" stroke-dasharray="5 100">
+          <animate attributeName="stroke-dashoffset" from="100" to="0" dur="4.2s" repeatCount="indefinite"></animate>
+      </path>
+    </svg>

@@ -1,0 +1,77 @@
+{
+  "id": "SN-W00068",
+  "title": "AI Cloud Platform Landing Page Template",
+  "summary": "A reusable landing page template for AI cloud platforms to showcase model deployment, infrastructure, pricing, and enterprise-grade performance.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "3D",
+    "Animated",
+    "Clean",
+    "SaaS",
+    "AI"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2462,
+      "sha256": "a59a8af1c0373491803ce5cd211ac080c8acd2c165b1a714334517b00d6ed88b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8928,
+      "sha256": "ac5bcb02f93935d4b530ae9e6ff18e18c7c0a9573b44fcbbfd2cd62401bc3f8b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 956,
+      "sha256": "4b53dcf24c35828212ff2a888cb6d25e1f687564e750aba9509bd0bbdc5e8904"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 234,
+      "sha256": "e6f6d1a829740d32bfa30c0f5d9ceb9e6fc0ff6dc47090f687d0c7972b4836eb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 81535,
+      "sha256": "40b993725345eece6e3b9251922ee2cccacbd9d3ce3a9686ff75c3edda349482"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "how-it-works",
+    "stats",
+    "testimonials",
+    "pricing",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

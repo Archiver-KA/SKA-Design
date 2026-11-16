@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01416",
+  "title": "Interactive Portfolio Hero with Card Gallery",
+  "summary": "Full-width hero section featuring animated headline, interactive staggered portfolio cards that focus on click, creator role tags, supporting copy, and dual CTAs. Built with Tailwind-style utility classes for creative portfolio or gallery landing pages.",
+  "tags": [
+    "hero",
+    "section",
+    "interactive",
+    "gallery",
+    "portfolio",
+    "tailwind",
+    "animated",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 25850,
+      "sha256": "5226e6306ab97d47c57f698da7fe479095b9f2d2c2f79b4a089548933aeb02ce"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12613,
+      "sha256": "db3b1cc9c4e67f362b143cd3e273679ac0e8dd42daa35b4f1c68c4e4a622afe5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13821,
+      "sha256": "5d0dab003c865c2b13ec88002a2954916191808bf42653b3b8d74a42d3d1d23e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

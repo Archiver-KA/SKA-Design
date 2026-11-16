@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00987",
+  "title": "Two-Column Footer with Navigation and Legal Links",
+  "summary": "A full-width footer layout featuring primary navigation links, social/LinkedIn links, certification badge, copyright text, and legal links, styled with grid-based classes. Ideal for website footers requiring structured navigation and compliance links.",
+  "tags": [
+    "footer",
+    "section",
+    "navigation",
+    "grid",
+    "responsive",
+    "layout",
+    "Footer"
+  ],
+  "kind": "components",
+  "category": "footers",
+  "categoryLabel": "Footers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19428,
+      "sha256": "8a20aec13715d81ae489075385a6f53272fb624fbf607e8ab3c4724a1b1fe83f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2275,
+      "sha256": "394782932bf1301e8171a1251ec1e8c9761c9aaf8b047dac8fa938ff407eb3bf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3145,
+      "sha256": "ebaa5bb2d3628b07025743f0e1fbb382d1ebdf4a1b17c9b6fccec5a8e6556b8c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

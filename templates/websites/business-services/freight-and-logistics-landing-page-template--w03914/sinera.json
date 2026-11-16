@@ -1,0 +1,62 @@
+{
+  "id": "SN-W03914",
+  "title": "Freight & Logistics Landing Page Template",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4008,
+      "sha256": "91c7dae26d31a7bda1715dc3a80293f190af63ad396d45ce8d7743b7bc9165a9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16422,
+      "sha256": "2b6232152fe8f02ab30afbbef86613668962844699be448b52e6c7bd86b6a62f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 881,
+      "sha256": "e64689f3f2491e2fccce0f8e6e3a1f789d53cb0da73f946fe73442bab8612c42"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "845a8c33647082b21c3db87d511ee26caa07aa7a2c9bf6b015aad47a996ab97f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 92321,
+      "sha256": "cc7d4618a562073c498b689f7f55652ccea2b6d2d039234f63338bf4a5ced419"
+    }
+  ],
+  "collection": "logistics",
+  "collectionCategory": "shipping",
+  "collectionLabel": "Logistics",
+  "collectionCategoryLabel": "Shipping / Delivery",
+  "collectionConfidence": 0.88,
+  "collectionBasis": "business-keywords",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "booking",
+    "services",
+    "listings",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

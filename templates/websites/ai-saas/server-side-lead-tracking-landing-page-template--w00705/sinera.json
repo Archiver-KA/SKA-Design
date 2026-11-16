@@ -1,0 +1,82 @@
+{
+  "id": "SN-W00705",
+  "title": "Server-Side Lead Tracking Landing Page Template",
+  "summary": "A reusable template for a server-side lead tracking SaaS landing page, ideal for showcasing CRM integrations, ad platform attribution, and pricing plans.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "SaaS",
+    "Server-Side Tracking"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3864,
+      "sha256": "f25203af4635d4ab48fb2f6afd5b47b6402b32feb5f1663d3a8e3de2f4de0496"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16134,
+      "sha256": "5f4a92cdac33b24cf3023008d72ff9ba3732e51f10349c40e10538c121d60860"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1279,
+      "sha256": "470b5290e7fb10c49b338db0c36ee0045fc5260a12ea5a03d185c9a1e72d3676"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 320,
+      "sha256": "77eac93afab1c67b7d44d456fe5cab93c0af55ff21929d9540ddd6a30fe1055f"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 1265,
+      "sha256": "22f0a30a91b98794e5d6a62cca2e7f822034363a125854d451aeee26c4d46229"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 320,
+      "sha256": "9a5737fba726afa6f3b9bdc30972e6c61458561cc564e12ca8d79e2bb9cf38df"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41990,
+      "sha256": "2c907b5bd5898ad1dccf2c8c795c31b01e72087a480b22744eab8dd9b250d545"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "integrations",
+    "features",
+    "pricing",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

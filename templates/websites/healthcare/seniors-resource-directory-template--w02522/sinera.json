@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02522",
+  "title": "Seniors Resource Directory Template",
+  "summary": "A professional and compassionate community resource template designed for senior services, vetted provider directories, and family support guidance.",
+  "tags": [
+    "Services",
+    "Health",
+    "Social",
+    "Non-profit",
+    "Clean",
+    "Large Type",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3763,
+      "sha256": "4469a59d3ed64fc665d09c462236d7c56a2ac482f4c2b8283789c5b020fa19dc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20412,
+      "sha256": "143a47084b230bfc295be51e87c611b51ac0c59dcc1444bda4ebbcbf1fdb2bbb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "e5ef9701a5392d3b1a925242359f83e8097aff28b44c703bcce5d9b245a89af9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20008,
+      "sha256": "f865b1b21d81a81af46f2f5e67f931652315de56cc30e8db71095889f87c38a5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "announcement-bar",
+    "navbar",
+    "hero",
+    "about",
+    "logo-cloud",
+    "services",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00848",
+  "title": "Responsive Feature Cards Grid Section",
+  "summary": "Tailwind-styled section displaying three marketing feature cards with icons, gradient accents and \"Learn more\" CTAs. Responsive grid adapts to 1–3 columns, ideal for highlighting product features or services on landing pages.",
+  "tags": [
+    "card",
+    "grid",
+    "features",
+    "tailwind",
+    "responsive",
+    "marketing",
+    "icon",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15044,
+      "sha256": "e8167b056ede84d26d561a91d41c8cbe9547d58ba9d56b030cf8aa3e114ba87a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5573,
+      "sha256": "4f0de4051c6de1943f45c364cf4f4c47cb08bd6c22088a8e0873654a213834fc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6561,
+      "sha256": "546e2360aeee01e7e6d5a8260f471ea56b960b68f403ea9c6c8d407dd0da0c3a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

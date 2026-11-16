@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02105",
+  "title": "Three-Tier SaaS Pricing Section",
+  "summary": "Full-width pricing section featuring monthly/annual billing toggle, three plan tiers, highlighted recommended plan, and enterprise option. Built with Tailwind-style utility classes for modern SaaS landing pages and product marketing sites.",
+  "tags": [
+    "pricing",
+    "section",
+    "tailwind",
+    "saas",
+    "responsive",
+    "plans",
+    "comparison"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 25742,
+      "sha256": "606a35fab28a06be827905a0f20173daca4c395a6c32689bcf8eed8b2768fa92"
+    },
+    {
+      "path": "component.html",
+      "bytes": 17041,
+      "sha256": "6b2029fcabe4add278bb5174a8f69f1662f97c4ed4a26b673e87cc9fad26fd39"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18023,
+      "sha256": "b6ed787cd3f7333822493faeb62da677eee2e87524b8edf7233953473b1c1ef0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02372",
+  "title": "Weather Cloud with Snow SVG Icon",
+  "summary": "Outline SVG icon showing a cloud with snow-like lines, ideal for weather apps, dashboards, and forecast widgets. Scales cleanly, inherits currentColor for easy theming with CSS or utility frameworks.",
+  "tags": [
+    "icon",
+    "svg",
+    "weather",
+    "cloud",
+    "snow",
+    "outline",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1758,
+      "sha256": "949c0d8fa428ad0547d5585ab2388c19684ddccdf73ede6ef6e1d0be3d5a3dd5"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1976,
+      "sha256": "8321b2f35c9f7e2bc854029f689594e3aab0d0d44efca573bac8eda80727058a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2829,
+      "sha256": "cfa8448ae690b65da94dd33e20ab9afb5a94f1b4323ba0c3734017d4af38ed8c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

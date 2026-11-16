@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01194",
+  "title": "Tailwind Responsive Navigation Bar",
+  "summary": "Horizontal header bar with three clickable links (Work, Process, Contact) styled using Tailwind utility classes. Provides responsive heights, padding, and hover cursor for simple site navigation menus.",
+  "tags": [
+    "navigation",
+    "navbar",
+    "menu",
+    "tailwind",
+    "responsive",
+    "header",
+    "link"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2006,
+      "sha256": "900c501f39c196e376019162cfa50777159e8e6c2589dfe3dfdefd02a43ef632"
+    },
+    {
+      "path": "component.html",
+      "bytes": 691,
+      "sha256": "44d371f0d9f9da42ee67c2797a801dcd028af5cd156c121b3ed7405d4c0da891"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1546,
+      "sha256": "e2520e3a3853a2577e5deeb6950c4ab99b21ebc14ce27f203b528c0b4edf8f67"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

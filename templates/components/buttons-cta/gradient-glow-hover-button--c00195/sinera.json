@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00195",
+  "title": "Gradient Glow Hover Button",
+  "summary": "Interactive call-to-action button with animated gradient borders, blur glow effects, and hover overlays using utility classes. Ideal for booking, signup, or primary actions in modern, high-contrast UI designs.",
+  "tags": [
+    "button",
+    "cta",
+    "interactive",
+    "animated",
+    "gradient",
+    "hover",
+    "tailwind",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2094,
+      "sha256": "3024d4bf5f071006e004730b9dc6af96a0cf83fdbe3dc618ee0a78b5f17ad772"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4158,
+      "sha256": "65866d13614764b8dc523402fc2ce00a71627e262cb5175427434c74850512f9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5005,
+      "sha256": "2fd4a83c6a84c366fe12d012130c21436e469a064572ad32404c373bf4d0abf7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01990",
+  "title": "Video File Reference Card",
+  "summary": "A specialized card for displaying video file references with an icon and formatted path. Ideal for media libraries, file managers, or upload confirmation displays.",
+  "tags": [
+    "card",
+    "video",
+    "file",
+    "media",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3906,
+      "sha256": "12b3e7a2a2e4d823d11f7298b357732c5cf8992a7152fd0f649a4b5ee3706f2b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1200,
+      "sha256": "061f8dd734f3e111a17e63dfa5d288a361b448f4d55309869a9c01e111fa3338"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2046,
+      "sha256": "8df387e6473132e566fad0d5156ac2cefa2dffb2c2f809950738feb38650ebd6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

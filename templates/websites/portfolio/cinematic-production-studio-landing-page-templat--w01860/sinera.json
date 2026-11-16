@@ -1,0 +1,75 @@
+{
+  "id": "SN-W01860",
+  "title": "Cinematic Production Studio Landing Page Template",
+  "summary": "A high-impact cinematic studio landing page template for showcasing film portfolios, production services, and driving project inquiries.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Art & Design",
+    "Portfolio",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Film production",
+    "Video agency",
+    "Creative studio"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3593,
+      "sha256": "a92ea2366c08bc7786ec38f2258239ab07c89a6b0ad280dfe5a2c508ac2abdc1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12316,
+      "sha256": "50b7a6abf24626469d57e369a05c5568594ac1c5c5bc3a1bc3a5bdefa82b46fc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 877,
+      "sha256": "c76e991bb1975d53a27e6d9636b947f8428e675f85768e066dc43a162d41d0af"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41784,
+      "sha256": "780ee11419db48d6f7b9f01fe514b610dd7873ce0abf034eab7cd6c246c6d353"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "about",
+    "gallery-portfolio",
+    "services",
+    "map-location",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

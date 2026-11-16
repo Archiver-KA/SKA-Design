@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02237",
+  "title": "Animated Smart Home Dashboard Card Grid",
+  "summary": "Responsive Tailwind grid with four glassmorphic cards showing temperature, energy usage, security, and lighting. Includes hover gradients, animated counters, progress bars, and Lucide icons for real-time smart home or IoT dashboards.",
+  "tags": [
+    "dashboard",
+    "tailwind",
+    "glassmorphism",
+    "animated",
+    "responsive",
+    "stats",
+    "smart home",
+    "iot"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9936,
+      "sha256": "d0bacf5e44bcd80b2fa7a10b3a309c9db0379995ef3c0b3e00a13065d28e93e6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12012,
+      "sha256": "7483eb4c0462c5452638816db13345c72d3953f40af4de4e99638831827d0ca1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13002,
+      "sha256": "ae903d3725d226a7d07f0196162636f9f475a7ad736d38bfe8f1e557de4b46e9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

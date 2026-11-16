@@ -1,0 +1,6 @@
+<svg class="w-32 h-32 transform -rotate-90" viewBox="0 0 100 100">
+                                <!-- Background Circle -->
+                                <circle cx="50" cy="50" r="40" class="stroke-[#222] fill-none stroke-[2]"></circle>
+                                <!-- Animated Circle -->
+                                <circle cx="50" cy="50" r="40" class="stroke-[#FF4F00] fill-none stroke-[2] animate-circle-draw" stroke-dasharray="251" stroke-linecap="round"></circle>
+                            </svg>

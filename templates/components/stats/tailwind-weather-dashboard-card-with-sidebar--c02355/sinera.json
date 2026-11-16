@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02355",
+  "title": "Tailwind Weather Dashboard Card with Sidebar",
+  "summary": "Comprehensive weather dashboard styled with Tailwind CSS featuring window-style title bar, location sidebar, current conditions, 5-day forecast, air quality and detailed metrics. Ideal for weather apps, dashboards or IoT displays, and adapts responsively.",
+  "tags": [
+    "dashboard",
+    "weather",
+    "tailwind",
+    "responsive",
+    "widget",
+    "forecast",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16986,
+      "sha256": "2376373339525be80c27e13fba0a9f4ccb0e207a355165457c74452cfaac91d8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 21549,
+      "sha256": "eeba362f56950f8ee323392971bfd088905afaf66d767fa689f74c9d432a6b11"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22414,
+      "sha256": "077586158670ae239496636840a4d9404f1a2e2af4745f5c5499f8e6affc1be9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01240",
+  "title": "Animated Bento Dashboard Hero Section",
+  "summary": "A full-screen futuristic hero section with a bento grid layout, animated telemetry canvas background, metric cards, and an interactive toggle. Built with Tailwind CSS, Iconify, and GSAP for tech, SaaS, or infrastructure landing pages.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "animated",
+    "dashboard",
+    "bento",
+    "interactive",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19336,
+      "sha256": "1d68e1bbb9e7788a498c6ba05cc610c188b670f3877d68f00210f3629d972860"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15975,
+      "sha256": "69e21065f32f4448a10d105a9787e939f19a1d7b48c37593167094d1cf254e01"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

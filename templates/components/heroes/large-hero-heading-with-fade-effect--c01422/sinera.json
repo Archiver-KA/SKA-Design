@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01422",
+  "title": "Large Hero Heading with Fade Effect",
+  "summary": "Responsive oversized heading with fade text effect, perfect for hero sections or call-to-action areas. Features fluid typography that scales with viewport size.",
+  "tags": [
+    "heading",
+    "responsive",
+    "modern",
+    "gradient",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15172,
+      "sha256": "28e15c38e111d9478cffd7471c1e7c5aa2abae3b84ddddac5e405b27966bebfd"
+    },
+    {
+      "path": "component.html",
+      "bytes": 425,
+      "sha256": "e3431ed8348956139d0fa59c1dee7540fa5ae813a7e8078cd4f8a729b48ea288"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1281,
+      "sha256": "3d66a635fc4d87df3268e0171d8a4bd9b72699cbea8c382b4dec07c6aa19f9f7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

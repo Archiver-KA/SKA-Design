@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00555",
+  "title": "Full-Screen Spline 3D Background Container",
+  "summary": "Absolute-positioned container that fills the viewport and embeds an interactive Spline 3D scene via iframe, creating an animated galaxy background for hero sections or entire pages. Styled with Tailwind utility classes for quick integration.",
+  "tags": [
+    "background",
+    "spline",
+    "iframe",
+    "animation",
+    "tailwind",
+    "fullwidth"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6040,
+      "sha256": "9b650d69f0f016e08c56361b71a4e1cbe75f1db05eb23f78d69fdfb02ccd1d5f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 228,
+      "sha256": "1f305569ca7d40df2cf574f55bd8a19f101d58bd9856b2fed65d3aec51ef3453"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1091,
+      "sha256": "75987bd6ba62d9e03f8b407e08f393804793ecdad1d5921b1d1afa24ba8fde2f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

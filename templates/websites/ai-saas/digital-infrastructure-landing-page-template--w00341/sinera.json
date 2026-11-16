@@ -1,0 +1,67 @@
+{
+  "id": "SN-W00341",
+  "title": "Digital Infrastructure Landing Page Template",
+  "summary": "A reusable landing page template for digital operations and automation services that helps businesses showcase lead capture, scheduling, and growth systems.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Dark",
+    "Futuristic",
+    "Animated",
+    "3D",
+    "Gradient",
+    "automation",
+    "SaaS"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3390,
+      "sha256": "4ba48e26c45e295e1caf229e674d2a6dd67c47c76e884c363fc80c33199f7820"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14000,
+      "sha256": "8cdecc58e5b4624d1c527ad772010c77b17cd9c79e29becb8a9e0b5c47ff9e31"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "399c7b4c211c03ffe9ea6c8bf6fdd157324e54a8049a178d4d479da4370059c6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 44680,
+      "sha256": "f4720ac9b78966f3434d8b7e3ba66c96b0ff42375f3f2b39fd84afadd8366228"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "schedule-agenda",
+    "pricing",
+    "product-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

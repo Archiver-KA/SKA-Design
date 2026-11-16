@@ -1,0 +1,14 @@
+<svg viewBox="0 0 100 100" class="w-full h-full">
+              <path
+                id="curve"
+                d="M 50, 50 m -38, 0 a 38,38 0 1,1 76,0 a 38,38 0 1,1 -76,0"
+                fill="none"
+              ></path>
+              <text
+                class="text-[0.45rem] tracking-[0.3em] uppercase font-medium fill-[#1a1a1a]"
+              >
+                <textPath href="#curve" startOffset="0">
+                  Bespoke Botanicals • Bespoke Botanicals •
+                </textPath>
+              </text>
+            </svg>

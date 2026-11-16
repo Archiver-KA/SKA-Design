@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00603",
+  "title": "UnicornStudio Glow Background Section",
+  "summary": "Full-width, absolute positioned background component that loads a UnicornStudio project to render an animated glow effect; ideal for hero sections or page headers, styled with Tailwind utility classes.",
+  "tags": [
+    "background",
+    "animated",
+    "tailwind",
+    "effect",
+    "wrapper",
+    "visual",
+    "unicornstudio"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7218,
+      "sha256": "b027f6f6331b3f97a859c49d552656403abba83b4995b71630a146f61eae4ffe"
+    },
+    {
+      "path": "component.html",
+      "bytes": 627,
+      "sha256": "9b629011cdd860079e4341b949ea12cad293866c9b0eadf40b049bbf34d4693c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1485,
+      "sha256": "b7b14346b4584654f05439b778215b24099ecb48ac3708708fa097bf941483ff"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

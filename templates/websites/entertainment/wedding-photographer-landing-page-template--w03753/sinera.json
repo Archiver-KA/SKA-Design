@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03753",
+  "title": "Wedding Photographer Landing Page Template",
+  "summary": "A modern, luxury wedding photographer website template for showcasing galleries, testimonials, and contact inquiries to book your photography services.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Wedding",
+    "Photography",
+    "Portfolio",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3611,
+      "sha256": "cad92f8435f793d7b1ff179a312dd9cde9ab95bb6b9a3865f99b21e16683874d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6196,
+      "sha256": "c5208aeb1aa97b9fac2e51a3ccb1db68ca63bbbf208f80d55cae56f47540cddc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "177f6ce80eab0ab6e6b8848c37d47c7c4d9b77969102be1ecbd191cc0b3e713d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32884,
+      "sha256": "7d2d0935b97c6f669a27017884d8762bf152ce7c8217b6f0cfbd435863f8568f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "gallery-portfolio",
+    "about",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

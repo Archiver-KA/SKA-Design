@@ -1,0 +1,61 @@
+{
+  "id": "SN-W01648",
+  "title": "NEXA Creative Agency Template",
+  "summary": "Agency contact page with a brief form in the hero and an outlined oversized NEXA wordmark cropped below.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Portfolio",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2471,
+      "sha256": "05c47c601c04671c05182b4acb65c384ea013f69c71db359f26a360dd643ac3f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12918,
+      "sha256": "20ddb60dae54ebc013fdab542fcc7a8195ee0dc4fc14ab5fbb34aee96655b707"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 805,
+      "sha256": "a55fce03924b61c50ca998a47b6d34056ed157a0e18c2eaa99282cd331fed791"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16022,
+      "sha256": "72ba81fe5e08119ba6f14fe00b1f7b84c83ab4e1e6fe0d0a00e2bb02f9d7fa9e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "rebuilt",
+    "issues": [],
+    "rendered": true
+  },
+  "language": "en",
+  "designSystem": "sinera-atlas@1.0.0",
+  "design": "DESIGN.md"
+}

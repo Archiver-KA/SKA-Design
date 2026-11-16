@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00855",
+  "title": "Responsive Feature Grid Section for Landing Page",
+  "summary": "Tailwind-styled section with centered header and six animated feature cards, each containing icon, title, details and subtle hover effects. Ideal for SaaS or product landing pages to showcase key capabilities on any screen size.",
+  "tags": [
+    "feature section",
+    "grid",
+    "landing page",
+    "tailwind",
+    "responsive",
+    "icons",
+    "hover",
+    "section"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 28742,
+      "sha256": "75ef0fea695a507cd1d485a151f4dd2b0f9ed5a29d50ec674cb6f342552eb382"
+    },
+    {
+      "path": "component.html",
+      "bytes": 20499,
+      "sha256": "c780f17dfc17cf0971f2576509e77f324ae8dfecc187307982dec27749bbdc9e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21498,
+      "sha256": "f83ed190066889a0a7d550799125d70f497b0a2230478665d2fbb6bcc6c33fde"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

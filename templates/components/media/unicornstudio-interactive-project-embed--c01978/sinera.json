@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01978",
+  "title": "UnicornStudio Interactive Project Embed",
+  "summary": "HTML wrapper that embeds a UnicornStudio project, auto-loading the UnicornStudio UMD script and initializing it once for interactive experiences or animations on any webpage.",
+  "tags": [
+    "embed",
+    "widget",
+    "script-loader",
+    "unicornstudio",
+    "html",
+    "interactive",
+    "background"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10690,
+      "sha256": "c3bb2ec1adf1bdf87034a039ac9712312f1c59b87c38160f015409f7d7477bb9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 535,
+      "sha256": "c6d16af2e5365e8f7c78a5acaf9e644651568c0027a2dfcc7f1c9f73ae32241f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1395,
+      "sha256": "d10ab0253e210405787dd4d3f38dfb638558ae72ac633e104eb8e3799c4bc5bc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

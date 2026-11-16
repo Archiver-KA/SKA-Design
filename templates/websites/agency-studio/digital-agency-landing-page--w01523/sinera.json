@@ -1,0 +1,82 @@
+{
+  "id": "SN-W01523",
+  "title": "Digital Agency Landing Page",
+  "summary": "Responsive landing page with hero, animated background, service features, stats, and call-to-action buttons using Tailwind CSS and Vanta.js.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "Services",
+    "Stats",
+    "Animated Background",
+    "Tailwind CSS",
+    "Vanta.js"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3318,
+      "sha256": "d0b55ef156a2023d1b5d3eb38ed2e8f730fe1283ab8530aaea4aba74817f6309"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12696,
+      "sha256": "98c4795f8f74a02f601527dfb2c7dbe9542d16fc61ca7bb4778261ba9f6c9ddc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1452,
+      "sha256": "f3f23f6d4b4c71d34b8f1846cce7391e694fc0bf380df6e4a10e4c49ac12850d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 284,
+      "sha256": "d28f612429e8a6337662bba7161a27b53149760bdf72b13715df10fe4bb8b72a"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 340,
+      "sha256": "d79f101bc7cbcdcaf5620aef445667807693bc291040bd6255a4c4fc8c6121ab"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 361,
+      "sha256": "b79a26dbf62aedcd394ac5593628a5c42e246a528b8170a550e69f65c84da925"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 418,
+      "sha256": "7eefefe4936f91dc1cea342d3b5e15df8c99707302ac255030c640ddb3a8dc0b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8974,
+      "sha256": "f6deaab0d7875c014987a459a5986a13d7e0956c8a47423678b3c110d42e4162"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "timeline",
+    "services",
+    "cta"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02166",
+  "title": "Game Product Card with Wishlist & Cart Actions",
+  "summary": "Tailwind-styled e-commerce card showing game cover, platform badge, rating, discount pricing, heart wishlist toggle and Add to Cart button; suited for gaming stores or product grids.",
+  "tags": [
+    "card",
+    "product",
+    "ecommerce",
+    "tailwind",
+    "game",
+    "wishlist",
+    "responsive",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7674,
+      "sha256": "3cd1e17b4b828c84c11419d60cb4df937330514aa3735629175dfcb7608a5811"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3136,
+      "sha256": "841a3504634bafabf4ee606eb26388a96161b6c7f24d34f368847a9ef232d55b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4137,
+      "sha256": "de9886cce59321f3063c49583899c88abc936ac42074048c243948c90c0f8982"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

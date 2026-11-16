@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01623",
+  "title": "Animated Client Logo Marquee Banner",
+  "summary": "Responsive, auto-scrolling marquee showcasing partner logos with gradient edge mask and fade-in animation. Built with Tailwind CSS, ideal for landing pages or hero sections to add social proof and brand trust.",
+  "tags": [
+    "logo",
+    "marquee",
+    "banner",
+    "tailwind",
+    "animated",
+    "scrolling",
+    "branding",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3948,
+      "sha256": "cde44e0a9c8e2d06634fedcd5b8422cd0ef85340bdc91de0eb3e2bafac605541"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7313,
+      "sha256": "70f24918e2767489d2e2f83b226eaf5e15f8d93b1a118368c793d6f9e7481ff4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8169,
+      "sha256": "133117e2405e7b4719669c0f2a7a00509c764b1ab526fb87456e3806949d2790"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

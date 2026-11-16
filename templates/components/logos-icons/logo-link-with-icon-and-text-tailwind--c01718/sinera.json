@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01718",
+  "title": "Logo Link with Icon and Text (Tailwind)",
+  "summary": "Clickable brand/logo component featuring a circular diamond icon and uppercase label. Built with Tailwind flex utilities, ring, shadow and responsive sizing—ideal for headers, nav bars or brand redirects.",
+  "tags": [
+    "link",
+    "logo",
+    "icon",
+    "tailwind",
+    "navigation",
+    "branding",
+    "flex"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2574,
+      "sha256": "be2d18f711f16287d91fa295ca84d65fea612745d4a562e39d2c17f835897c4d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 807,
+      "sha256": "0b6aead3e90a8d77b239455a829866edd997aebe0db4b1bafea920392b38dafb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1797,
+      "sha256": "f5d64594da3ff5f55127c0acfc74c5804640b087cc5b475c5e10fe94613439de"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

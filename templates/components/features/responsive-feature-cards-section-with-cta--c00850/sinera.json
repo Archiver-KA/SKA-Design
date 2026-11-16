@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00850",
+  "title": "Responsive Feature Cards Section with CTA",
+  "summary": "Marketing section presenting three image cards for services, complete with badges, hover effects, accent glows, and a call-to-action button. Uses Tailwind CSS and a responsive grid, ideal for landing pages or service overviews.",
+  "tags": [
+    "section",
+    "feature-grid",
+    "tailwindcss",
+    "responsive",
+    "landing",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 39962,
+      "sha256": "709bf2cb8dbf9a61a8fa67d0f722fe10827b5b373b0daf2560eaec5b54b408f6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7109,
+      "sha256": "8e8b4c28665f7a5bc06c8526b3981a1ea29d5e4b3ba5ec35eb6957c48dacd6ac"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8101,
+      "sha256": "5eeb7a325edada7a8fbec577b1d8da8a0a61940584b79939d09a661ae71ef3be"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

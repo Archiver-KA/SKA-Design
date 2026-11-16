@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02313",
+  "title": "Model Evaluation Metrics Dashboard",
+  "summary": "Responsive Tailwind section showcasing AI model evaluation metrics: live line chart, KPI cards, category breakdown, recent test timeline, and evaluation framework summary beside an about panel. Ideal for analytics or ML-ops dashboards.",
+  "tags": [
+    "dashboard",
+    "metrics",
+    "chart",
+    "analytics",
+    "tailwind",
+    "responsive",
+    "stats",
+    "live-data"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 29174,
+      "sha256": "7dcdb17fcde46f48622c81f99004c3c70e48aeba8ebf7e7012069ebf217a5889"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8428,
+      "sha256": "21cc441021274579964278a6c585d8f15b8b208a2edb2da720dfda6ceba0381e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9413,
+      "sha256": "be827cf9a757d069db2d328cdd601b24c474ff6782926752212b36d26dd1d0fd"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,36 @@
+<svg
+            viewBox="0 0 112 112"
+            fill="none"
+            class="w-full h-full"
+            style="animation: slowspin-r 40s linear infinite; transform-origin: center;"
+          >
+            <rect
+              x="56"
+              y="4"
+              width="73"
+              height="73"
+              rx="2"
+              transform="rotate(45 56 56)"
+              stroke="#C9A84C"
+              stroke-width="0.7"
+              opacity="0.25"
+            ></rect>
+            <rect
+              x="56"
+              y="20"
+              width="51"
+              height="51"
+              rx="1"
+              transform="rotate(45 56 56)"
+              stroke="#C9A84C"
+              stroke-width="0.5"
+              opacity="0.18"
+            ></rect>
+            <circle
+              cx="56"
+              cy="56"
+              r="5"
+              fill="#C9A84C"
+              opacity="0.25"
+            ></circle>
+          </svg>

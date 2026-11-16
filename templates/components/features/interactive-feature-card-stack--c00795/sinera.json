@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00795",
+  "title": "Interactive Feature Card Stack",
+  "summary": "A stack of glassmorphism feature cards with 3D transforms, drag interactions, and smooth transitions. Cards display different layers with scaling and opacity effects.",
+  "tags": [
+    "card",
+    "glassmorphism",
+    "interactive",
+    "3d-transform",
+    "stack",
+    "drag",
+    "feature-showcase"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8720,
+      "sha256": "d69db3654206514fbf466bd76cc0e881e1a0208afb571a779ea968f02792c681"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2678,
+      "sha256": "8e24fb13b68ffebba08e289953e70f7e3d8ad7d492d1c9eab475c4f57906b056"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3529,
+      "sha256": "abadbe5acfc153e384b24009396dda867adc90f178321bd416c66d295a30008f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

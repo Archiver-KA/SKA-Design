@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02336",
+  "title": "Release & Deployment Status Card",
+  "summary": "Dashboard card displaying release creation, asset propagation, Git push progress, and a CTA for private cloud deployment with action buttons. Uses Tailwind CSS, backdrop blur, and Lucide icons—ideal for DevOps, SaaS, or admin panels.",
+  "tags": [
+    "card",
+    "dashboard",
+    "status",
+    "tailwind",
+    "activity",
+    "devops",
+    "cta",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14742,
+      "sha256": "b9051104e98f057debec77f61d94459e9c7853b733cbca0d10905c61a8cd265d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7472,
+      "sha256": "e386b1e9757a23d7cda0446e232083e39cf750e127b36d7716f2da65870ffbac"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8459,
+      "sha256": "eb2be69c81925bacc676844ec70013c2b16b22d37f3b555596098322443098f0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

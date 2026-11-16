@@ -1,0 +1,69 @@
+{
+  "id": "SN-W01258",
+  "title": "Minimal E-commerce Landing Page Template",
+  "summary": "A clean, minimalist e-commerce landing page template for modern product brands, featuring hero promo, filters, cart slide-over, and responsive product grid.",
+  "tags": [
+    "E-commerce",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Technology",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3468,
+      "sha256": "edf907e33abc14ad7f1d13930b19f1243f61c404aa11b588f78b764bfb5dba07"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16574,
+      "sha256": "2d42c2801de4a8416400af99326dcab7cf3b03b7e5a81c885146a2b7bdc9046e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 813,
+      "sha256": "6424b9349bc86bef18fdef978781be641b0885398552b17020693ce14280b2f4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29767,
+      "sha256": "f14fdb660fe56c3bb3f3d608f342f2a7ccfaf70bb93ca6b7fc9ed029a02c8928"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "footer",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "broken-images"
+    ],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

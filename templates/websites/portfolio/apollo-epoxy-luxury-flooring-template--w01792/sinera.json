@@ -1,0 +1,64 @@
+{
+  "id": "SN-W01792",
+  "title": "Apollo Epoxy Luxury Flooring Template",
+  "summary": "A high-end service industry template designed for epoxy flooring professionals, featuring a minimalist dark aesthetic and premium typography.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Portfolio",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3445,
+      "sha256": "97fbc8ceb8eefe881f7749f56a064f985b348a18c3c55af8380c9e5122943058"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17474,
+      "sha256": "8dd15b608ae8e0ccf7f5c70bb0482a2fde4489ad7bd5d80c03cddac076a0711b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "1a4b3547fa23daa87143dfabccacb7a3e1118453147bab0d54f9906a18740c87"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33184,
+      "sha256": "147d87f731970e3fc3da54fb914f7002ec4dd893e6b8d72587c0fb73c6ce12ff"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "features",
+    "testimonials",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

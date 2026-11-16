@@ -1,0 +1,72 @@
+{
+  "id": "SN-W01953",
+  "title": "Developer Portfolio Landing Page",
+  "summary": "Responsive portfolio UI showcasing developer skills, project stats, status bar, and Mac dock style navigation using Tailwind CSS.",
+  "tags": [
+    "Portfolio",
+    "Tailwind CSS",
+    "Navigation",
+    "Stats",
+    "Hero Section",
+    "Responsive Design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3525,
+      "sha256": "63245c4b8bfa5348f10b0e8ce32e3e845bf3a5cda1007f9be0a2af706503acc7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19294,
+      "sha256": "dbc5882607b9717e9c40c8fd52c15845a8798d6a79c6fc5196fc9eb2349c6853"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1144,
+      "sha256": "39ceda89ffa6b09d14230b0ee2cb328510740d0dc51c63515dc71916e2d41441"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 303,
+      "sha256": "20ed680c363ed49d8b69b95d698333f43c4631b9e4f8c88cc5203c98da2d879d"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 366,
+      "sha256": "494c5757ff46e9648c0ea7ec165d9f95e153edb588e49eacb6d5f563d6d1aaed"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15298,
+      "sha256": "786dd741e7851f925cb74ab8fb37a53e88b0215493196351a35c7749e45ba8d3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "case-studies",
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00182",
+  "title": "Gradient CTA Card with Email & Project Buttons",
+  "summary": "Responsive call-to-action card using Tailwind CSS. Features soft gradient overlay, headline, subtext, and two rounded buttons for email contact and project start. Ideal for landing pages or section breaks to prompt user engagement.",
+  "tags": [
+    "cta",
+    "card",
+    "tailwind",
+    "responsive",
+    "gradient",
+    "email",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6290,
+      "sha256": "5d1cab7af7b3fbd3d72f2463c33e925b41224e76f6466696c6083b1a5e8e13d0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2495,
+      "sha256": "00c2b1a270d5e379df1fb9c35134f46731b6388cace47f1568580fcff389b12a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3496,
+      "sha256": "4223c3455a5f04746a74d2c57e1dd194a2617a94bc75616cc4127d39ac3aee1e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

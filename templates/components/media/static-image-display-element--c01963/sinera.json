@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01963",
+  "title": "Static Image Display Element",
+  "summary": "Simple HTML image element that loads and displays a remote asset; ideal for embedding photos, banners, or illustrations within webpages, landing sections, or media galleries.",
+  "tags": [
+    "image",
+    "html",
+    "media",
+    "static",
+    "display",
+    "component"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18926,
+      "sha256": "8ff12f180a36bec0aaa76c1d042b95384814bf9db86595412f6e02fa4680a08e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 150,
+      "sha256": "dd62ac4b0de6fe46a495bf9a8a3b0e314cd2972a63518838ffc2bbf049f56459"
+    },
+    {
+      "path": "index.html",
+      "bytes": 999,
+      "sha256": "34127dc000816d41e4ae91100f1f0bd79437563a5dd12956e74db928b9821886"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

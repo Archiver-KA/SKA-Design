@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01179",
+  "title": "Responsive Tailwind Navigation Link Group",
+  "summary": "Horizontal group of four navigation links shown on medium screens and larger, hidden on mobile. Styled with Tailwind flex layout, pill-shaped border, hover color transitions. Ideal for header or hero sections requiring compact, responsive navigation.",
+  "tags": [
+    "nav",
+    "navbar",
+    "link-group",
+    "tailwind",
+    "responsive",
+    "header",
+    "flex",
+    "hover"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3968,
+      "sha256": "ce7e686b314efa3569f03fde5486185b69c8850dc66e0edbc0293ad6c46d1d7e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 671,
+      "sha256": "6f32a6989c16fa3350744a3e8946a3537928a79f95d9f4e03d7e6455a98009dc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1533,
+      "sha256": "2d77ebf5d5bb73b7a8e4e0137c3b6b01adff998912aea61dd1d2aef82d7aa610"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

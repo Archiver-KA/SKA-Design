@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00265",
+  "title": "Rounded Background Image Link Button",
+  "summary": "Clickable anchor styled with Tailwind to show a 40×71 px rounded background image, using mix-blend and invert effects. Ideal for logo links, thumbnails, or compact call-to-action buttons in responsive layouts.",
+  "tags": [
+    "link",
+    "image",
+    "tailwind",
+    "rounded",
+    "interactive",
+    "logo"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1736,
+      "sha256": "c1ee62d291924513ccbe2e26c5adc97dad4913475886ffb6ec67ab1e438940e3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 579,
+      "sha256": "0b082712af4456a952bd0f535cd2650d9edbc48a7913b16bf7240f2c5ec72d88"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1436,
+      "sha256": "0b3192348d392a28a698e7e5d3eb5abb61f2dcb26b78f40b2f6ba214b184dc76"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

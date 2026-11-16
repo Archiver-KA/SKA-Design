@@ -1,0 +1,71 @@
+{
+  "id": "SN-W01730",
+  "title": "Web Marketing Agency",
+  "summary": "A modern dark-themed landing page template for web marketing agencies to showcase services, methodology, and capture project inquiries effectively.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Technology",
+    "Marketing",
+    "Agency",
+    "Contact Form"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3627,
+      "sha256": "34031a3ab6ac04b7284be93b1bac34e5f632b9b6441de40453c86b58ff5e19bc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17802,
+      "sha256": "3993d945984e5b7f5ee95d80302f4365435541276a109342291f8408b23fa2a6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 859,
+      "sha256": "af3a23cb58f1ef8f339f15e0adf6a760d2b881af316dae1cdb3596ed800c4d7d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 280,
+      "sha256": "cd6c595e6e9765b5fcfc7c3906e77d65604cf4803b2a0e1e2e3cd009c069eb0d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 71943,
+      "sha256": "a0e9abb105f96363dc18d9e549c0f4cae607ddc1c99ff1091b96005ed9c8d688"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "features",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

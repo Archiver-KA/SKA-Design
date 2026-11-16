@@ -1,0 +1,38 @@
+{
+  "id": "SN-C00704",
+  "title": "Animated Technical Feature Section",
+  "summary": "A full-screen dark feature section showcasing rendering environments with tab-style navigation, technical copy, CTA, and an animated isometric SVG canvas. Built with Tailwind CSS, Iconify, and GSAP for scroll-triggered motion and interactive UI demos.",
+  "tags": [
+    "feature",
+    "section",
+    "tailwind",
+    "gsap",
+    "animated",
+    "svg",
+    "responsive",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 17732,
+      "sha256": "c9e71e5837389e8b9dcf67030ceb03d6782fb57e9238daf604461d48fd1f7aab"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18491,
+      "sha256": "12216f31cb9cf1b2c239c07185b7a458fdfd606bbeb0ceef0b62f9ad03694eb2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

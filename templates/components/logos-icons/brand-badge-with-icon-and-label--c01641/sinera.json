@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01641",
+  "title": "Brand Badge with Icon and Label",
+  "summary": "Compact brand badge showing a circular accent icon beside a bold label. Uses flex layout and utility classes for spacing, alignment, and colors. Suitable for headers, navbars, feature highlights, or partner/brand identifiers.",
+  "tags": [
+    "card",
+    "brand",
+    "badge",
+    "icon",
+    "label",
+    "ui",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2962,
+      "sha256": "c9ee63b452400047ac9eb138de36a007c788e7a421a9a35ab7a661a714f09503"
+    },
+    {
+      "path": "component.html",
+      "bytes": 972,
+      "sha256": "45f1fee6ca08acce5cb66d555ea7c010fad9e5f82b98f98937ed407e2895abfc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1954,
+      "sha256": "d97ed073a5022f32e89499b2096e0bd3686daed9a2ac97fa5b929d6f7613e588"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

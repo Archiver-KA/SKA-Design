@@ -1,0 +1,28 @@
+<svg viewBox="0 0 240 240" class="w-full h-full" id="radar-chart">
+        <!-- Background radar rings and axes -->
+        <g opacity="0.3" stroke="#fff">
+          <polygon points="120,30 198,75 198,165 120,210 42,165 42,75" fill="none"/>
+          <polygon points="120,60 174,92.5 174,147.5 120,180 66,147.5 66,92.5" fill="none"/>
+          <polygon points="120,90 150,110 150,130 120,150 90,130 90,110" fill="none"/>
+          <line x1="120" y1="30" x2="120" y2="210"/>
+          <line x1="42" y1="75" x2="198" y2="165"/>
+          <line x1="198" y1="75" x2="42" y2="165"/>
+        </g>
+        <!-- Data polygon (orange connected dots) -->
+        <polyline points="120,45 192,90 177,165 120,195 63,150 57,90 120,45"
+          fill="none" stroke="#F7931A" stroke-width="2"/>
+        <!-- Animated dots for metrics -->
+        <circle cx="120" cy="45" r="6" fill="#F7931A" class="dot" style="opacity:0"/>
+        <circle cx="192" cy="90" r="6" fill="#F7931A" class="dot" style="opacity:0"/>
+        <circle cx="177" cy="165" r="6" fill="#F7931A" class="dot" style="opacity:0"/>
+        <circle cx="120" cy="195" r="6" fill="#F7931A" class="dot" style="opacity:0"/>
+        <circle cx="63" cy="150" r="6" fill="#F7931A" class="dot" style="opacity:0"/>
+        <circle cx="57" cy="90" r="6" fill="#F7931A" class="dot" style="opacity:0"/>
+        <!-- Labels -->
+        <text x="120" y="22" text-anchor="middle" fill="#fff" font-size="12">Price</text>
+        <text x="210" y="82" text-anchor="start" fill="#fff" font-size="12">Volume</text>
+        <text x="200" y="182" text-anchor="end" fill="#fff" font-size="12">Market Cap</text>
+        <text x="120" y="228" text-anchor="middle" fill="#fff" font-size="12">Supply</text>
+        <text x="30" y="180" text-anchor="start" fill="#fff" font-size="12">Dominance</text>
+        <text x="30" y="70" text-anchor="start" fill="#fff" font-size="12">Tx/24h</text>
+      </svg>

@@ -1,0 +1,63 @@
+{
+  "id": "SN-W01921",
+  "title": "Creator Link in Bio Page Template",
+  "summary": "A modern dark-mode link in bio page template for creators and digital professionals to showcase projects, socials, and newsletter signups in one place.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Large Type",
+    "Technology",
+    "Art & Design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3333,
+      "sha256": "a054787132d54cda1dbac9817098b348c749bb654ec42ed069fe4e4cd48f4e6d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7312,
+      "sha256": "ee32268996306a6e765df5e90db20523d36abe84b9809cdd8d4f331ed867535f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 721,
+      "sha256": "71d85b4407ac09d00ca7316c4c864b46b9a44eb7ab544664a6524a28bafd2d1b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17344,
+      "sha256": "265c1298c7ef774c8d27a1466630b8a9a1b87f17d5d041290555d2c79875096b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "case-studies",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

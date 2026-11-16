@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01176",
+  "title": "Responsive Sticky E-commerce Navbar with Search",
+  "summary": "Sticky glassmorphic header for online stores featuring brand logo, category links, search bar with shortcut, account and cart buttons, and collapsible mobile menu. Fully responsive and styled with Tailwind CSS.",
+  "tags": [
+    "navbar",
+    "header",
+    "ecommerce",
+    "responsive",
+    "sticky",
+    "tailwind",
+    "search",
+    "mobile menu",
+    "shopping cart"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4700,
+      "sha256": "6bd858f9563365b9b9eedefbf8cc637d298ab2c59bda645a842e7f327c9ae706"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7546,
+      "sha256": "b76ea54d64db229389d19fd109d51965cf8c199880557333a0b7e152c4523a8e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8414,
+      "sha256": "990610d5c9ccd2135ff05bee534314e2d39f6f146d7a03e5e47e587578677a23"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

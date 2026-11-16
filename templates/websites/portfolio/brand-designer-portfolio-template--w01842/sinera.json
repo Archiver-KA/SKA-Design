@@ -1,0 +1,72 @@
+{
+  "id": "SN-W01842",
+  "title": "Brand Designer Portfolio Template",
+  "summary": "A refined portfolio template for brand designers and creative studios to showcase identity work, services, case studies, and client credibility.",
+  "tags": [
+    "Portfolio",
+    "Brand",
+    "Services",
+    "Art & Design",
+    "Minimal",
+    "Clean",
+    "Large Type",
+    "Brand Guidelines",
+    "Graphic Design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3406,
+      "sha256": "b46344a26889c5cf63a6ff84230b07444548a06baa38fb624165725ac3761dd7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12634,
+      "sha256": "30671435b4f3760ccc3f4c97796046bf69f13bfcf1fd74891c59c458df8392da"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 861,
+      "sha256": "a191e92b865f1db6ac987bcadeea212c5131277445a6aa88fce1ee4e21d9a76c"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "845a8c33647082b21c3db87d511ee26caa07aa7a2c9bf6b015aad47a996ab97f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17469,
+      "sha256": "c8df2f338cc8330fca095460b80d3f81c308135677eabe901c25a14cef7bf1c7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "case-studies",
+    "about",
+    "services",
+    "team",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

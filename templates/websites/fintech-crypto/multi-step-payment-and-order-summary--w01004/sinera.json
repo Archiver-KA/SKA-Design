@@ -1,0 +1,63 @@
+{
+  "id": "SN-W01004",
+  "title": "Multi-Step Payment and Order Summary",
+  "summary": "A responsive multi-step checkout UI with order summary, progress indicators, and animated background using Tailwind CSS and Three.js.",
+  "tags": [
+    "Checkout",
+    "Multi-step Form",
+    "Order Summary",
+    "Tailwind CSS",
+    "Three.js",
+    "Animated Background",
+    "Payment UI"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3237,
+      "sha256": "0f84e012cf7a2d9928b1b65cbffed93a1bc41a94dcc667a30c73610d2c7d646e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9760,
+      "sha256": "46da92ac1211229881c3cb0d9ab72fb442ab9e39d1d7af89c31c6c1b329842af"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 935,
+      "sha256": "71658a714e9009ac9cd47f62e72171e5af66eb110e3b9561d8df9cd382f1fe96"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 279,
+      "sha256": "03d08cff7fea1a45b76d68b5cc9a345b7c6ef81877497c0bff5b818f0261505e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20911,
+      "sha256": "dfa67bf21adddc922878200efa3860b69b6e9c7bb45245fdb57be9b321b975b2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

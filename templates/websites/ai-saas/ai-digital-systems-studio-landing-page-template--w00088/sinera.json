@@ -1,0 +1,85 @@
+{
+  "id": "SN-W00088",
+  "title": "AI Digital Systems Studio Landing Page Template",
+  "summary": "A dark, futuristic landing page template for digital systems studios offering AI-powered platforms, automation, and custom infrastructure services.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Art & Design",
+    "Gradient",
+    "Dark",
+    "Animated",
+    "Futuristic",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3925,
+      "sha256": "23bbc3bf8e26e5eb743db1b27bca26970d91b0dbafe04bc37493be2695d24db5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14772,
+      "sha256": "be5868afd9b9e7d185224ee8c4c6ca7a731797a9288e51094300629cfb4b0fe1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1376,
+      "sha256": "ffc81b63c2babf13ed3c8a825eadd458cdce146a27fc1e8805559d119a986f15"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 228,
+      "sha256": "0d23f8e5d6279847cde4ec2c1fba4c3442433c48e452c73abc9e6c759a44dd40"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 266,
+      "sha256": "28e1f0601fa69d57359450b367a2ea9dafeaf893d8fa3e3215a57c9b3c87de34"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 302,
+      "sha256": "95489fb572e53ed257feeb50ba8c09cf6dc14a3c3753a63ca3eadabea1259f3a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 84273,
+      "sha256": "c7a35c8e94bde3bddfa06e63b07801f58dba54cc2e61c33942a8b743551f3ac6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "services",
+    "logo-cloud",
+    "gallery-portfolio",
+    "blog-articles",
+    "features",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

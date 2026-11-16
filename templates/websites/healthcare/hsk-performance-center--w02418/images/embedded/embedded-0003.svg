@@ -1,0 +1,20 @@
+<svg viewBox="0 0 280 100" class="h-full w-auto text-red-600 overflow-visible relative z-10">
+      <defs>
+        <radialGradient id="hsk-ambient-grad">
+          <stop offset="0%" stop-color="currentColor" stop-opacity="0.25"></stop>
+          <stop offset="100%" stop-color="currentColor" stop-opacity="0"></stop>
+        </radialGradient>
+      </defs>
+
+      <!-- Ambient Glow & Particles -->
+      <circle cx="140" cy="50" r="100" fill="url(#hsk-ambient-grad)" class="hsk-ambient-circle"></circle>
+      <circle cx="140" cy="50" r="25" fill="none" stroke="currentColor" stroke-width="2" class="hsk-burst-ring"></circle>
+
+      <!-- Geometric Logo Paths -->
+      <!-- H -->
+      <path class="hsk-svg-path hsk-p-1" d="M 20 15 L 20 85 M 20 50 L 75 50 M 75 15 L 75 85"></path>
+      <!-- S -->
+      <path class="hsk-svg-path hsk-p-2" d="M 160 20 L 115 20 L 115 40 L 160 60 L 160 80 L 115 80"></path>
+      <!-- K -->
+      <path class="hsk-svg-path hsk-p-3" d="M 200 15 L 200 85 M 245 15 L 200 50 L 245 85"></path>
+    </svg>

@@ -1,0 +1,45 @@
+{
+  "id": "SN-C00448",
+  "title": "Responsive Skill Cards Grid",
+  "summary": "Displays a category heading with icon and a responsive Tailwind CSS grid of skill cards showing technology names and proficiency levels; suitable for developer portfolios or team profile sections.",
+  "tags": [
+    "grid",
+    "card",
+    "skills",
+    "tailwind",
+    "responsive",
+    "badge",
+    "portfolio",
+    "text",
+    "typography"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5256,
+      "sha256": "e52ca83d8c80b73ab348c34f0db06a3003d60ce0827f234722d05a1a67f59305"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1862,
+      "sha256": "4b8a6af9906e7ea3a1389ed568f891965985033776b573aa3bfeafd3a74a5d35"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2710,
+      "sha256": "90a9fb14f263d0e6d66d651cf99a0400befe9eac6bbebf723b5d19c100e642ef"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

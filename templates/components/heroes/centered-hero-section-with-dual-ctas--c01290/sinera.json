@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01290",
+  "title": "Centered Hero Section with Dual CTAs",
+  "summary": "Responsive hero banner featuring headline, supporting copy, and two call-to-action buttons styled with Tailwind CSS for landing or marketing pages.",
+  "tags": [
+    "hero",
+    "landing",
+    "cta",
+    "tailwind",
+    "responsive",
+    "marketing",
+    "banner"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14396,
+      "sha256": "304ff17f44f60de55b04da3be6258c9446d3eba862e4adf9aa62368df9c7d886"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2029,
+      "sha256": "c0fdcb86e2dda9bd8cfec4f5ee09c34fdd7635bc88f046452aa57adefc5948c0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3016,
+      "sha256": "a7006e4bd99d8dbdf04a6fc9cba1e804614c1c9785fdf136aacabb33580c0fdb"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

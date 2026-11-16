@@ -1,0 +1,40 @@
+{
+  "id": "SN-C01890",
+  "title": "Image Card with Caption",
+  "summary": "An image card with integrated caption area, suitable for blog posts, product descriptions, or content galleries where context is needed alongside visuals.",
+  "tags": [
+    "card",
+    "caption",
+    "content",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9016,
+      "sha256": "4daabc44063e92027296200dbff26cc453ac8e0f602f1ad9b1ae71adf0590694"
+    },
+    {
+      "path": "component.html",
+      "bytes": 504,
+      "sha256": "73194efc4ee682155aa8917516acb9d62b3be1a9914716be0dc940e60124ce9e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1348,
+      "sha256": "b2fb4d33361f1f7411a53869452a89a2f098a652e5b50602b9a0a5b3cd8ac8ac"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

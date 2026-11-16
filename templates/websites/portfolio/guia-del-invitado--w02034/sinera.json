@@ -1,0 +1,61 @@
+{
+  "id": "SN-W02034",
+  "title": "Guia del invitado",
+  "summary": "Dale un vistaso a lo que Peru tiene para ti",
+  "tags": [
+    "Wedding",
+    "Social",
+    "Clean",
+    "Minimal",
+    "Animated",
+    "Portfolio",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3561,
+      "sha256": "52af942c78aabd125d1722f8560cd7ec3c474a066f1a68e7fc32875b96d30fe2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17606,
+      "sha256": "de09f7c04c890eb032281642deb897ea63f8b117785a9028da8e5247ee2de687"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 705,
+      "sha256": "5d287d898772d4a7f38ea7217acf8ac7ff41f766c182b7ad570bcaf59d597076"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35309,
+      "sha256": "811f9e83d2ba01e92c051f8ff8267719f1d81e0d3dfcc49974e081a9c08bf93a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "map-location",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

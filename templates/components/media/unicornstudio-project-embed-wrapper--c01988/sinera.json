@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01988",
+  "title": "UnicornStudio Project Embed Wrapper",
+  "summary": "Full-screen, absolute-positioned div that auto-loads UnicornStudio JS to render a specified project ID, enabling easy embedding of interactive or animated backgrounds on any page.",
+  "tags": [
+    "embed",
+    "animation",
+    "background",
+    "unicornstudio",
+    "script",
+    "absolute",
+    "component"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14478,
+      "sha256": "466a9afaa15aa2d216b201ebd923133e36a7e5ae1f9f7f09ac2a647e7043fa59"
+    },
+    {
+      "path": "component.html",
+      "bytes": 535,
+      "sha256": "7490542736617247d49533569d70c8b154d3976a130f7e5c82e5a721877dde44"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1391,
+      "sha256": "7cecea562044451341d30bae80f6d979af89121d73dfbb757c2e755e8eb779d4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

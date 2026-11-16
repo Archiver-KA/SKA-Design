@@ -1,0 +1,70 @@
+{
+  "id": "SN-W00009",
+  "title": "Adrino Template",
+  "summary": "A futuristic AI infrastructure landing page template for showcasing high-performance cloud platforms, uptime stats, and developer-focused console CTAs.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3914,
+      "sha256": "26011991f32e42de93a5d0f990e29dd6c93ecaac1e92ad386015cba2a1135f6b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11802,
+      "sha256": "cf8d8b11e959425ad2703ca991fdef5f00706c4d78380e79ef0a07327bb60d30"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 854,
+      "sha256": "7dcf071139dcc5ed7c9d506da84b21a966e02a1bed5f3322fc1913f9d699a5cd"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 973,
+      "sha256": "db87d8478943ab74ebbc7d094dc5f0e77739fbbf284db67f83304f9cdbb3cc42"
+    },
+    {
+      "path": "index.html",
+      "bytes": 70145,
+      "sha256": "f00760e564642938bc3332ef9cf1cac0d1076e6e57f4f21e1fe761f18a7a9d33"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "code-terminal",
+    "bento-grid",
+    "how-it-works",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

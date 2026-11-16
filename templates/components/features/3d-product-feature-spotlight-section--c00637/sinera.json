@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00637",
+  "title": "3D Product Feature Spotlight Section",
+  "summary": "Full-width feature section highlighting a 3D web tool with animated spotlight cards, interactive hover lighting, and illustrative SVGs. Uses Tailwind-style utility classes and JS-driven mouse tracking for radial spotlight effects and subtle 3D transforms.",
+  "tags": [
+    "feature",
+    "tailwind",
+    "interactive",
+    "animated",
+    "responsive",
+    "marketing",
+    "cards"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 38338,
+      "sha256": "2d582c634f0474f38f9b9b7a9f944c4561ee7cf8c4933fa62ad26c69b299b66b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 20413,
+      "sha256": "3dce464be1cc4e1a8201e14833574df6d6c3faa0de984a95711f44457dc264e8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21270,
+      "sha256": "fd612a639ea2223c99b29407af98699c2f3aeb8eedd75c5bb89a42f215d3ba14"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

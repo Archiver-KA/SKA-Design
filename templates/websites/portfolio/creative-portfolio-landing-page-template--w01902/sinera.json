@@ -1,0 +1,111 @@
+{
+  "id": "SN-W01902",
+  "title": "Creative Portfolio Landing Page Template",
+  "summary": "A reusable landing page template designed for creatives to showcase portfolios, generative design projects, and provide contact opportunities.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Hero",
+    "Gallery",
+    "Features",
+    "CTA",
+    "Navigation",
+    "Responsive",
+    "Contact"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3558,
+      "sha256": "058c9b41b7cd58a9adb229b12e5ca5ef3299262500ecf7123ee87cafda1a6179"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7814,
+      "sha256": "09d589c3d608fbfb4e96c255c8c687ae8a1c3b8e7d10b8472da9001f331cbf42"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2571,
+      "sha256": "c4c06088279d3c9638b4cc32d14c0fcd0d2f019202194a10a2669f8bf21f1550"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 618,
+      "sha256": "9945af9c22193d13d887e9970f9fd6839b9a59badf11b5646f510cc56fc7b726"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 318,
+      "sha256": "1c05e0c2441adbd66198f49232b24eaee99dc1af507d996fbcc4ff7e24bc025f"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 316,
+      "sha256": "bfef6952acf7946ad06681e78dcff764ffe381e126f291bd78596c1e5ce209e9"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 471,
+      "sha256": "31d7aeae99b275b5e90066423e7fbce2602540136316f671d696feb981acb62d"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 430,
+      "sha256": "064be961663345a9bc16d6f58fa9186a2fa00e52bae605a96b772614e3629e1d"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 331,
+      "sha256": "ceed6b22409b3ad9341ecc4a2531c3125695f0a6bf8cfab2bab55dbc74a8c24b"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 312,
+      "sha256": "8d037d0eb62db1c0aa36ff23c767f673b125e81e5e8c2a45df6ec01e80f0c97d"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 396,
+      "sha256": "670e3e4809f7304acaf0cd8308acc8f6967167df110b3be7948ab5d8d29c97e5"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 445,
+      "sha256": "7bc575fe2601a973e1e2fe1d3ad09cf39037f24076875fdf83c46f22e61fcc08"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27432,
+      "sha256": "664000f015701b88266f9d87389d85e5b481db2f12e9e4db9c75dfbc57ed6072"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "video-media",
+    "navbar",
+    "hero",
+    "cta",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

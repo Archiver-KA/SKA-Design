@@ -1,0 +1,71 @@
+{
+  "id": "SN-W03105",
+  "title": "Luxury Travel Landing Page Template",
+  "summary": "A reusable luxury trekking and travel template for showcasing expeditions, packages, amenities, testimonials, gallery content, and online booking flows.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Services",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Luxury",
+    "Booking",
+    "Trekking"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3759,
+      "sha256": "552f4131184ece9f3b8cc12381dd05e25e16de35d9b2cbb365b027dbdd76fea0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16508,
+      "sha256": "5586f116d7cb5e1c84f11eb1a2a9cd9ff406c4cc4429a73e19a6876152e22584"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 727,
+      "sha256": "8d705a76168c409a70544f1577e112e16dcc18ec23abfe370dadd5508c556a9a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 61798,
+      "sha256": "be694a40093016f9a8022365e0852c576b46896def20164709e191c46acd514d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "announcement-bar",
+    "navbar",
+    "hero",
+    "product-grid",
+    "stats",
+    "pricing",
+    "services",
+    "timeline",
+    "booking",
+    "gallery-portfolio",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

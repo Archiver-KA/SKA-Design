@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02147",
+  "title": "Orbit Developer Portfolio Landing Page Template",
+  "summary": "A dark, futuristic developer portfolio template for showcasing AI-first projects, methodology, and tech stack with a bold 3D visual hero.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Large Type",
+    "Clean",
+    "3D"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3764,
+      "sha256": "bef5676b6b71a98320e24446e6093498b26c283790a693307195966af723d96d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14040,
+      "sha256": "8ae6632fcaf6131965b6e8ca61ef67589584aebf66a31f1e3e7d7a5fc098cbe6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "d151411c41ac3e0e04cf4cc2b929f0858604f521f4eb232099a63cade6f51112"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27681,
+      "sha256": "f9c5a780bba8bdb3df2a3b3ffc44b20ed3c06f2f582d7243186b822a1148a40f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "dashboard-preview",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

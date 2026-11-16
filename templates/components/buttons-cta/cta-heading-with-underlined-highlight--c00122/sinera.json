@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00122",
+  "title": "CTA Heading with Underlined Highlight",
+  "summary": "A stylized heading element using Tailwind CSS that presents a call-to-action message with an underlined, emphasized phrase. Ideal for landing pages and sections that prompt users to begin a workflow or sign-up process.",
+  "tags": [
+    "heading",
+    "cta",
+    "tailwind",
+    "typography",
+    "underline",
+    "landing page"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14612,
+      "sha256": "ed956ac370f5c8d41c9c5ded51fc05448ad3c65d7e24245393a0241408868d08"
+    },
+    {
+      "path": "component.html",
+      "bytes": 342,
+      "sha256": "2a99dd3e6f3632482af1ff2d93a870ced15c7ef289c59c2d234e304b6af93865"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1200,
+      "sha256": "cf18d745c4720f5b9b97a29d508030e7e48bf8ba06e7c6f786f620de227d952d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

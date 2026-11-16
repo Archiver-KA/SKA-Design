@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01091",
+  "title": "Artisanal Biscuit E-commerce Template",
+  "summary": "A refined e-commerce template for premium biscuit and bakery brands to showcase products, ingredients, process, and subscriptions with editorial style.",
+  "tags": [
+    "E-commerce",
+    "Food",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Grid",
+    "premium bakery",
+    "artisanal biscuits"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3433,
+      "sha256": "621f83e099ed7ccf4be6f1eb045a2adfda507865678f2f3430f0bd71b1fdc596"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9950,
+      "sha256": "00ee529b14ffc460142fe9fd0ea0c826187b3e6727172734d915f663947a9d8d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 727,
+      "sha256": "31db1c3a70632dd7233073dcef274d0a63fb5c91a41048da8a390d409db71ea2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19860,
+      "sha256": "3742f25cd6c91f6c8b90ff59367e99474c149fcd77d4751d4e23d78bbba4e590"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "product-grid",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

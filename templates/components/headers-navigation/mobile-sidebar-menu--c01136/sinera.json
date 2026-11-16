@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01136",
+  "title": "Mobile Sidebar Menu",
+  "summary": "Full-screen mobile sidebar with hamburger menu toggle. Slides in from left with smooth animations for mobile navigation.",
+  "tags": [
+    "sidebar",
+    "mobile",
+    "menu",
+    "navigation",
+    "hamburger",
+    "overlay",
+    "animated",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4000,
+      "sha256": "724505e5e3d3fd29c63a7db9af0f0e6ea3cdf3b252c6679328593778fc5a855c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3724,
+      "sha256": "4a9f9777b8b2045165bfe31e36d1ba9c8043ae12680dba4d4f764433e9970077"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4564,
+      "sha256": "478b2d200139614e67a1ed9f8a8397887e0fa2d19946ec179769ae2939aa604d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

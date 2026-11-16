@@ -1,0 +1,71 @@
+{
+  "id": "SN-W00774",
+  "title": "TensorLock | FIDDA Shield",
+  "summary": "A high-conversion landing page template for adversarial vetting and defense-security services, ideal for showcasing multi-agent DoD-focused risk assessment offerings.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Clean",
+    "Futuristic",
+    "Large Type",
+    "Security"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4025,
+      "sha256": "e22f543027f33de6408dafb1a4eae556b9effc00b41dfd42c8eedcc41d348edd"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18778,
+      "sha256": "129169848799a3a61ad0ad79938af224b3a2ef6566db2b81bf7f566734291395"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 720,
+      "sha256": "4c11606663ba9dac8a460030fcd03e9ebd5e42c7666dc834eac55a23fad49e0a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 85909,
+      "sha256": "251614be7bdf2ea8ee157df79b2492a5bc53db8e27450a05f995f29eb2b2bc90"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "bento-grid",
+    "features",
+    "pricing",
+    "faq",
+    "about",
+    "contact-form",
+    "footer",
+    "cta"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

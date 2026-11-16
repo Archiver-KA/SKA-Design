@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01388",
+  "title": "Hero Section with Animated Background",
+  "summary": "A premium hero section featuring large typography, animated elements, and background image with subtle animations. Perfect for financial or tech landing pages.",
+  "tags": [
+    "hero",
+    "animated",
+    "dark-theme",
+    "gradient",
+    "typography",
+    "landing-page"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 36564,
+      "sha256": "199cd7ce925b5e1408a2b8244af8145e0f1da6376fde8eb7167e08acacf29228"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1317,
+      "sha256": "5699ed63c1ec8044935ebe4743aca26ffe24378d6b601d91e5f644c5bf998e33"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2175,
+      "sha256": "7edf314c54fc05cc38a496bd05729825987f49c04d5ae01d541375678a1f3e6b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

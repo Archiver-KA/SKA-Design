@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00883",
+  "title": "Security Feature Card",
+  "summary": "Light themed feature card highlighting security features with image background, status indicators, and call-to-action. Max 400px wide, 600px tall.",
+  "tags": [
+    "card",
+    "security",
+    "features",
+    "light-theme",
+    "enterprise",
+    "authentication"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9454,
+      "sha256": "cd4c6ad451da3bef1198929e929bf8618f114e6b939e930bd980fb365d7195e7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1963,
+      "sha256": "af95056cf0993fb2cefbd0675cb43aee2d1afa5513b537488a65fcad95e66791"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2805,
+      "sha256": "fc67ae780edb0b6d4fe09a707de7f576bc6bcb15548d21b1116987a0244278ba"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

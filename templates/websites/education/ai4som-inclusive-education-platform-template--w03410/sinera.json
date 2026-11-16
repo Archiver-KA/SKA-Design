@@ -1,0 +1,64 @@
+{
+  "id": "SN-W03410",
+  "title": "AI4SOM Inclusive Education Platform Template",
+  "summary": "A sophisticated AI-driven educational landing page and dashboard template designed for inclusive, personalized learning and institutional management.",
+  "tags": [
+    "Technology",
+    "Education",
+    "Clean",
+    "Landing Page",
+    "Dashboard",
+    "Animated",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3711,
+      "sha256": "efd0a9945ba4d5cb243f8b7087ce61d390a56549e6854f7ccb8c6d6b2c6a5184"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18506,
+      "sha256": "bdf386d3924af72413951ecf8c6810d4085ae5d1b75dc4f7824359c14d0d6730"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 732,
+      "sha256": "9c7c56ea0d019e389052d7dbd02f4297fa5d93742d8b1e3006b38d79e02940ae"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41568,
+      "sha256": "5edbac81054dc1a8d630b000d24a35a5a7d2ee794e356942e73031c7eb02b45c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "dashboard-preview",
+    "features",
+    "stats",
+    "timeline",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01488",
+  "title": "Sci-Fi Hero Section with Particle CTA",
+  "summary": "A full-screen futuristic hero section built with Tailwind CSS, featuring telemetry panels, concentric UI graphics, GSAP reveal animations, and an interactive canvas particle system centered around a glowing call-to-action button.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "animated",
+    "interactive",
+    "canvas",
+    "gsap",
+    "futuristic"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22832,
+      "sha256": "2161b7bcaeb05cb8705c2bc50dfc26dbae02968b7da80a98e06adcf60424c1f9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22879,
+      "sha256": "a179747603a00330631d30a3e843f342b6f4065de910913e473d9aec502ed3b6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

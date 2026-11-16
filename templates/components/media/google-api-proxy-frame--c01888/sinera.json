@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01888",
+  "title": "Google API Proxy Frame",
+  "summary": "A proxy iframe component for Google API services integration, commonly used for Google Drive, authentication, and other Google services communication.",
+  "tags": [
+    "ui",
+    "iframe",
+    "hidden",
+    "google",
+    "api",
+    "proxy",
+    "integration"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4346,
+      "sha256": "ed2db1225464362195fec9bb2a4bfb5018eda98776fbf2bc8a1f10e67428b078"
+    },
+    {
+      "path": "component.html",
+      "bytes": 405,
+      "sha256": "c3916873d39a148bcdb4b1a274e90d09163f2fce1c614373b8e7bee88a921636"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1248,
+      "sha256": "5ca3ad03fc09709b1c5b3214046f6f4db6b99b2c9af3057fb5e475d9f585690e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

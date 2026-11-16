@@ -1,0 +1,10 @@
+<svg class="absolute inset-0 w-full h-full p-4 pointer-events-none" preserveAspectRatio="none" viewBox="0 0 100 50">
+                                <defs>
+                                    <linearGradient id="grad" x1="0%" y1="0%" x2="0%" y2="100%">
+                                        <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:0.3" />
+                                        <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:0" />
+                                    </linearGradient>
+                                </defs>
+                                <path d="M0,45 C10,40 20,42 30,30 C40,18 50,25 60,20 C70,15 80,10 90,12 C95,13 100,5 100,5 V50 H0 Z" fill="url(#grad)" />
+                                <path d="M0,45 C10,40 20,42 30,30 C40,18 50,25 60,20 C70,15 80,10 90,12 C95,13 100,5 100,5" fill="none" stroke="#8b5cf6" stroke-width="0.5" />
+                             </svg>

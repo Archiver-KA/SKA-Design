@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01643",
+  "title": "mplate",
+  "summary": "A dark, futuristic landing page template for AI-native creative agencies to showcase process, projects, and capture high-intent contact leads.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Large Type",
+    "AI agency",
+    "Creative Studio"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 4013,
+      "sha256": "4c41275afad13a8a485441fc1a475958b0c2afd9914df5dc66a16288b0a8c917"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8618,
+      "sha256": "aada3f765b84724b11d565abf2e43f184572c98bac7a9d008bdf90587894a831"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 700,
+      "sha256": "66597a85e0b056b4fc5cbf58d38de0f188a27b0fd2887c2af482a12b8607c049"
+    },
+    {
+      "path": "index.html",
+      "bytes": 65919,
+      "sha256": "5096b2dd26d6c58cb079d6152f8f1ca3588412dfe3fa0338c86ef73ad6a2e7e2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "how-it-works",
+    "case-studies",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

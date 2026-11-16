@@ -1,0 +1,77 @@
+{
+  "id": "SN-W04017",
+  "title": "Luxury Plumbing Services Landing Page Template",
+  "summary": "A reusable landing page template for premium plumbing and heating businesses, built to showcase services, projects, testimonials, and quote requests.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Dark",
+    "Elegant",
+    "Luxury",
+    "Plumbing",
+    "Heating",
+    "Minimal",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2758,
+      "sha256": "1edf6903f715b3889321aea79674d34d13c7903addf04280626bd420fd00c5e7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15488,
+      "sha256": "45c2856f735f6183b9c66065910fde919920651552238762ca95e78b84718a2b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 965,
+      "sha256": "0f447fc512a3223380512d9b49ed3bb8a6b47683e46b088c16ef45c45e4c34c5"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "6c81c570deed4605252ea1ec5acf71299ab7347713e9a4b087da2ec663a5d06f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 69173,
+      "sha256": "c667cb2b4b5c361f2b3916285d7a1ac69c6e8df52999d2e553654963e7761bc1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "marquee",
+    "case-studies",
+    "how-it-works",
+    "testimonials",
+    "awards-press",
+    "blog-articles",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

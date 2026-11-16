@@ -1,0 +1,139 @@
+{
+  "id": "SN-W01937",
+  "title": "Dark Portfolio Landing Page Template",
+  "summary": "A dark, minimal portfolio landing page template for interface designers to showcase projects, services, and contact CTAs with modern visual flair.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Minimal",
+    "Dark",
+    "Large Type",
+    "Gradient",
+    "Technology",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3449,
+      "sha256": "17c34d844fd1af59e95cba658251ca964c620746aded5a8750b1609f68f66a73"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14328,
+      "sha256": "b7adeb729ebe80e94855c54d11aedf08dd4d34c530cf221c2e6e628ceb386780"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 3503,
+      "sha256": "cef3d70be0da6a87bbd9976e589f8fd8c95f9ca918a83293338d17d9505ea15a"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 409,
+      "sha256": "daadb0a0d25f7de4d529c66d13a9a44486f24b5061d1b63820a3780db7421f42"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 354,
+      "sha256": "a6475dbc73ad786e41a6da1cd38a3d3b23bb022ed393e327cf2fd43b4d8954ab"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 359,
+      "sha256": "60f47f0cf808860c298fc71b792543a544805b576ea230ac7359a6b6552bbd80"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 455,
+      "sha256": "e105b8e6cf6a3849367c795c539bb5c4701fe286bfb8e835103ebd348f13c5fc"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 361,
+      "sha256": "ebaf5e0f09f6adf1ee4675b6eabe6d6ac84076a40f8445fe0798e8c46d559bef"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 644,
+      "sha256": "23c204a2250e7d4c9b385d672feac1f91ac9c2459d945c099a2fac9979b0a87a"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 547,
+      "sha256": "018fe5399f496d34abe7f620bcc5943c918f1cc016b79fef8dd94d87c8a7dd28"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 653,
+      "sha256": "a0bf5c33683e24f73cb2821ab4e24f7ca5648c34a90427d40205163069fa9b29"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 383,
+      "sha256": "4aae5d354039c0ab5a7de6468b6a48602f6b4dfb1f835eaab9bba1c0c24e50c4"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 494,
+      "sha256": "e613a2c2625f0f158272fefff44599370b384520202f502a485edf603d702cbe"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 469,
+      "sha256": "bc1dfaf90dba1500b997d7944bf610241cc6eeaa62dda362f8f99ab1a6c2472e"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 619,
+      "sha256": "96897ff109bc5b7627b63f1a4e080d2e7c714e77adf7eb55d2894336c7231e41"
+    },
+    {
+      "path": "images/embedded/embedded-0013.svg",
+      "bytes": 468,
+      "sha256": "4a388e05c05110bc5de0306d47a21abf496c6f6bbb33b203b9b296ba82b524be"
+    },
+    {
+      "path": "images/embedded/embedded-0014.svg",
+      "bytes": 513,
+      "sha256": "fbd79b287bd366799791ec9038868951db410c1bc391a44380d2829b6a03dbbf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34529,
+      "sha256": "a4c99382077dbdee454dcd750f0ec19b10d318a1091ccdff78910364d59913d6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "case-studies",
+    "dashboard-preview",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

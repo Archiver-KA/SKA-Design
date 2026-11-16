@@ -1,0 +1,76 @@
+{
+  "id": "SN-W03062",
+  "title": "Hospitality Venue Landing Page Template",
+  "summary": "A refined hospitality landing page template for showcasing café, dining, and lounge venues with immersive storytelling and booking-focused design.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Portfolio",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Hospitality",
+    "Café",
+    "Restaurant",
+    "Venue Booking"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3735,
+      "sha256": "76df7193e59017dc91df6842b6b355805462c847172f923b5818d3a19b6d055d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9532,
+      "sha256": "c0ab36355f0f7fedfb2f3797cb485d255b9f5f3a9ab9e4a803d3e7ed87fddf35"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1133,
+      "sha256": "8b66b498d812a6d16946fd63905359ed1a4bd8326100808270e3d49a7fc60a52"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "8fdd104ac7843269a0c4bb41aacf62efd383fb500afc71598cfc07a668449fab"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 298,
+      "sha256": "61e05cfe437eeff03cbd15321773683563cf2f91d96449bfed48d10db3ce2f88"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19213,
+      "sha256": "9da2143ba9f093457869132b905fc53b39e293085c363fa2e305c3d32e210b82"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "listings",
+    "gallery-portfolio",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

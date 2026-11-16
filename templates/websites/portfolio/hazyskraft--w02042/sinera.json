@@ -1,0 +1,73 @@
+{
+  "id": "SN-W02042",
+  "title": "HazysKraft",
+  "summary": "A premium dark-style landing page template for freelance food visual designers to showcase services, portfolio, pricing, and client testimonials.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Services",
+    "Brand",
+    "Brand Guidelines",
+    "Portfolio",
+    "Dark",
+    "Clean",
+    "Gradient",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3804,
+      "sha256": "862028fef30ca6d82e22a3ffe13581bd140ffb1455b900a8da755209acab761d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15450,
+      "sha256": "f52d79873fe598a12ad36c5e5d97e92755571b9416f7ee6511d499a0e8bca6b6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 838,
+      "sha256": "7ae1ff0e10b2cedf75014d5b12478c81440d0430a70b4a45ffc97cf687046ef8"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 43275,
+      "sha256": "8e87f8434a6b5d6333755ee6b9dd733e9bd39287c42af25bff80ac28a824a4b7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "services",
+    "testimonials",
+    "logo-cloud",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

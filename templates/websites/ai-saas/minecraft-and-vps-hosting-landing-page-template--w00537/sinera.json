@@ -1,0 +1,68 @@
+{
+  "id": "SN-W00537",
+  "title": "Minecraft & VPS Hosting Landing Page Template",
+  "summary": "A dark, premium hosting website template for Minecraft and cloud VPS providers, featuring plan listings, cart, checkout, and admin dashboard flows.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Hosting",
+    "Minecraft",
+    "VPS"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3619,
+      "sha256": "5cb823fd965fa90c4145cd292bffc85ab1efb563c76370ee09523eef675dbaf7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13062,
+      "sha256": "02d344df5a360363ace63f60468fee04f3928c93b11b7a255f8cdd6d2ef8a7a8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 739,
+      "sha256": "c1e3383ca6d6be826ce76b4e29e1cdaa1c07a527de0f0e7b09f70a3d18048094"
+    },
+    {
+      "path": "index.html",
+      "bytes": 44418,
+      "sha256": "f51fcb4047c50fdc85e8e659188ed9b84bf06a19a6eebd8aebf673d096dee937"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "navbar",
+    "services",
+    "pricing",
+    "cart-checkout",
+    "cta",
+    "comparison",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

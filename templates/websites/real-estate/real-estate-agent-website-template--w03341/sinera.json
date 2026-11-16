@@ -1,0 +1,82 @@
+{
+  "id": "SN-W03341",
+  "title": "Real Estate Agent Website Template",
+  "summary": "A polished real estate website template for agents and brokers to showcase listings, neighborhoods, services, testimonials, and capture buyer or seller leads.",
+  "tags": [
+    "Real Estate",
+    "Services",
+    "Landing Page",
+    "Blog",
+    "Clean",
+    "Minimal",
+    "Luxury",
+    "Agent",
+    "Listings"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3718,
+      "sha256": "929bdd989f27931fa5c7fe31460ad5373053b1ae866b965d94cc1d57f05825b8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 43536,
+      "sha256": "7884d004ed29001da8070efea07d4ead7378421f724f086ddcc328bcd03fa109"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 879,
+      "sha256": "5512bfbfc77800314a26c4d39e4d16d9b4e36ab6fa1cd0038c8d1cef27d32971"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 150,
+      "sha256": "d55bb55288c1d1b3585ad94e01ca194d1741871e7bf5f3a1321c0c65760a553e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 82480,
+      "sha256": "33b0b9226f70e44ebdda90b5b09a272e46ed7b4d3bde612ca4f24799cba9deb6"
+    },
+    {
+      "path": "sinera-fx-filter.js",
+      "bytes": 20821,
+      "sha256": "6b5f074b7d846e3a404deda089c33986eb540d0c5cd8c1c0730e314b4c68c287"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "sidebar",
+    "hero",
+    "listings",
+    "about",
+    "services",
+    "pricing",
+    "testimonials",
+    "blog-articles",
+    "contact-form",
+    "how-it-works",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

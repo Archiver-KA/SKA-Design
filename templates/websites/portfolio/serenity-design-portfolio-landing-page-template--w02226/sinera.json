@@ -1,0 +1,81 @@
+{
+  "id": "SN-W02226",
+  "title": "Serenity Design Portfolio Landing Page Template",
+  "summary": "A modern Serenity Design portfolio landing page template to showcase creative work, services, and CTAs for booking projects or sessions.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Technology",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3868,
+      "sha256": "aca42d7047cb2a6e7ce6725c6460e271ffdfe95f19ce7cf68de8e59c2d0f4106"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17884,
+      "sha256": "efa97fe338dbb7062cdc5cf0e3b38df6c2ca764de3efaf3861a57a6181d3dc43"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1271,
+      "sha256": "9f09483fc75f349a9b8bd22841afcb08d5af88760708b6246ccd215fd9565243"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 303,
+      "sha256": "e51587e4c7a53ef492429c6084323fc470e9423f6d737bbb7d1b0c8e644f25bb"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 252,
+      "sha256": "32c1a8da152723defa1fa59ba9e46a6033e0e0153752bce911d8adbcffca8cc1"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 344,
+      "sha256": "a197eadcd596c935849886746155859a753251502e6d9c170de7bd2fb7df9a71"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28507,
+      "sha256": "878f629cc78c4ba0a42ca92759ad3b9cdcea2e4f9d4c146f20e5304e880065b7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "timeline",
+    "how-it-works",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

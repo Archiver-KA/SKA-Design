@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02102",
+  "title": "Three-Tier Gradient Pricing Table (Tailwind)",
+  "summary": "Responsive pricing table with Starter, Pro and Enterprise cards. Features animated pink-glow highlight for the Pro tier, feature lists, CTAs and dark theme styling. Built with Tailwind utility classes for easy SaaS landing pages.",
+  "tags": [
+    "pricing",
+    "tailwind",
+    "gradient",
+    "responsive",
+    "dark theme",
+    "plan"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20236,
+      "sha256": "4fbaa1f6e8b76eeacc56e54c7b6cddf0afdd03cba1836477a2ffe80b1e9d8dfc"
+    },
+    {
+      "path": "component.html",
+      "bytes": 15233,
+      "sha256": "9631745825e6bc454d1ac4165df33a1bcb1c1503c15580a2ef87d34c7cc746d5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16098,
+      "sha256": "f9b231eb64fcbed19ebc7639d1db52f7df646444d2efbf47f12ea2458b73c22c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

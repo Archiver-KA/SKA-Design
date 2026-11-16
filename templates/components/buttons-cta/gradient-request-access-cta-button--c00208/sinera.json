@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00208",
+  "title": "Gradient Request Access CTA Button",
+  "summary": "Anchor styled as a call-to-action button with indigo gradient background, arrow icon, hover color transition, and visibility only on small+ screens using Tailwind utility classes. Ideal for request or signup prompts on responsive sites.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "gradient",
+    "responsive",
+    "hover",
+    "anchor"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1966,
+      "sha256": "2052f696df98019ffc35ae2607b0e66640de9dd143b67d87a15660970133bec3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 625,
+      "sha256": "fe2a3717fe2e63aa3c330fe757ae3eef5f912f23601f4d3e5db0b8fc466dad56"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1610,
+      "sha256": "e65aea1a00c2c5dff4a3332c79883f5162b2b8ea0cdd383b36d0dac9000d76f9"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

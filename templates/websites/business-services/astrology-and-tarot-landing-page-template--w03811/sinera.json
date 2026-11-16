@@ -1,0 +1,66 @@
+{
+  "id": "SN-W03811",
+  "title": "Astrology & Tarot Landing Page Template",
+  "summary": "A celestial, dark-themed landing page template for astrologers and tarot readers to showcase services, testimonials, and pricing and attract new clients.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Astrology",
+    "Tarot"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3857,
+      "sha256": "e3900e112131d9bbe5df131fe82d3f927d51f1eda7986f8c4f9fdd9291013718"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22756,
+      "sha256": "b8146b1cfb3f348f688c216ea77bd982fcaf608eec91690a0ef33fa4c1aeff30"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "c13350b6bca3c48db7a995152be129129d7909dcb21618f9978f9fa408fd01cb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38026,
+      "sha256": "46c374a566593c1590e69782210bd8b7d05cba437649a2485cfec75604fdda21"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "video-media",
+    "stats",
+    "testimonials",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

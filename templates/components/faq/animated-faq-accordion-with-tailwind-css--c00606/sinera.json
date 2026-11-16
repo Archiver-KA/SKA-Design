@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00606",
+  "title": "Animated FAQ Accordion with Tailwind CSS",
+  "summary": "Responsive FAQ accordion displaying questions and answers with smooth height, icon rotation and background gradient transitions. Built with Tailwind CSS utilities and vanilla JavaScript; perfect for help centers, product pages and onboarding pages.",
+  "tags": [
+    "accordion",
+    "faq",
+    "collapsible",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "javascript",
+    "gradient"
+  ],
+  "kind": "components",
+  "category": "faq",
+  "categoryLabel": "FAQ & accordions",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 27294,
+      "sha256": "8d5bf351ca3cb451db4841dd9bcba8395ad602251556fe7d561656b7a283dab9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12665,
+      "sha256": "ecf6ed6742fe1b1e39a6b97e9621fd3dfa65d18569bb44db0358aa3398053745"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13526,
+      "sha256": "ff14af5de6ecd40fa5a31fd0d82ac4d0f88fd06b9ff340528d2f7e8d7003bfb7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

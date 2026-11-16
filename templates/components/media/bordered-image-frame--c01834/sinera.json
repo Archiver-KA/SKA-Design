@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01834",
+  "title": "Bordered Image Frame",
+  "summary": "An image component with a distinctive border frame and padding, creating a classic framed photo effect. Great for testimonials, team photos, or highlighted imagery.",
+  "tags": [
+    "card",
+    "border",
+    "frame",
+    "image",
+    "minimal"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 27706,
+      "sha256": "990135d7c04c39d27e7bb6ab427b7c3b65fdedca9e8294dabb67c3e52d4d95a2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 303,
+      "sha256": "03fad4442066f638818f2d282938f9821d8cf4edba3b3164baff2be8649d0ab4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1144,
+      "sha256": "44af5e4aced76fe89944b0a1d5796158913e73bbfd6571ecb5a16911cdda8a20"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

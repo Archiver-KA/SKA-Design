@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00323",
+  "title": "Brand Welcome Panel",
+  "summary": "Left panel with brand identity, feature highlights, and user profile showcase with animated background effects for onboarding experiences.",
+  "tags": [
+    "welcome",
+    "brand",
+    "dark-theme",
+    "animated",
+    "profile",
+    "features",
+    "onboarding"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14162,
+      "sha256": "b0502ac600a773e070c231bde36672e400abf5c147046d473265c3293ffb6e0e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5352,
+      "sha256": "d128622e1ae24a6beea5c58712f0a67aaec74b3a5880b0813803b248527b1a56"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6192,
+      "sha256": "0c72441e1992bd56795b8ed0abbcaf44fc6de8c5e0e8d9ff04bb06e4138a3c45"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

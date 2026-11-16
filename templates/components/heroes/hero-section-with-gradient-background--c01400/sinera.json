@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01400",
+  "title": "Hero Section with Gradient Background",
+  "summary": "Full-width hero section with dark gradient background, perfect for landing pages. Features heading, description text, and responsive padding.",
+  "tags": [
+    "hero",
+    "section",
+    "dark",
+    "gradient",
+    "modern",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15324,
+      "sha256": "ae2df29bfb8acbc05b787df1309d4c5927fd2f599ee91fcf93755600fc4ab505"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1072,
+      "sha256": "1179f16cfb9ff26dcee647e6f7afd22de91216b99d3ddd579ac60fb810d0efa6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1973,
+      "sha256": "dbb56e969c4f4cbc103a580f5f527bb5a9cda331507563797e6f5b0ab1988286"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

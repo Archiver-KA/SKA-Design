@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03192",
+  "title": "Architecture Services Landing Page Template",
+  "summary": "A modern architecture services landing page template for firms to showcase planning, regulations, and project management offerings with a bold, brutal layout.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Art & Design",
+    "Minimal",
+    "Brutal",
+    "Large Type",
+    "Gradient",
+    "Architecture",
+    "Planning"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3431,
+      "sha256": "bd01cdf0b703880cd4a3ef69856d574f10bd40eda7df38304d8bcd7a0862c60a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13444,
+      "sha256": "601771c8da7f44c77f86479c63121bb1adf2542a8fa7eaef955366f118fcdee6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "b18bac7bfb020f43df290e3880b3e411b16cf782e7bb294c6ef9bdf639888ebc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29307,
+      "sha256": "91948bdd00aa8317c2d68172d80b23a23514da93690b66ea6fc668470cf9628c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "how-it-works",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

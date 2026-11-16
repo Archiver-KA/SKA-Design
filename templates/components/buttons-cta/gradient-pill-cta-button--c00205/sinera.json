@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00205",
+  "title": "Gradient Pill CTA Button",
+  "summary": "A pill-shaped gradient submit button with subtle inner border, glow hover effect, and smooth transitions. Ideal as a primary CTA like “Get Started Free” in forms, hero sections, or pricing areas. Styled with utility-class Tailwind-style classes and custom shadows.",
+  "tags": [
+    "button",
+    "cta",
+    "gradient",
+    "animated",
+    "interactive",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1760,
+      "sha256": "26e90957e111864c48489765784c02e92ea344f77272bb7b62d10b0ec75a48c0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 636,
+      "sha256": "6bd9e6f70f06d6d397f4b25c95633f004266f3c4482e7421ffd91c998cc4d45e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1481,
+      "sha256": "eb4a32c7f91fa49c9825e102c3f31a6f33e4ed4676f25b8f63c0134393ea14f3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

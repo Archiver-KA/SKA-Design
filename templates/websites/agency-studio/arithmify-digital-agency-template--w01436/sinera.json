@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01436",
+  "title": "Arithmify Digital Agency Template",
+  "summary": "A high-performance digital agency landing page template featuring a bold dark aesthetic and a fully integrated admin CMS dashboard.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Dark",
+    "Futuristic",
+    "Clean",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3736,
+      "sha256": "02157e0d0a7dd6eca9a42bb5b23960dab3f1782e171cc080c41d3bd40d8c177a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11844,
+      "sha256": "c7e907715421c9eaf6eeb42d3b43b6ea353c64cc97879aa0502265610dd0daf1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 810,
+      "sha256": "3a6acf800fe74f391d3d7ae1afe37d399421a5969844130de00f879d90c38600"
+    },
+    {
+      "path": "index.html",
+      "bytes": 43912,
+      "sha256": "d4ab68da95d0b2fed57819214c3190ea71c7aeb9a8b87610ae33e31414fa6ed9"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "auth-form",
+    "navbar",
+    "hero",
+    "services",
+    "case-studies",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

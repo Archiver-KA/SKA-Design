@@ -1,0 +1,69 @@
+{
+  "id": "SN-W01934",
+  "title": "Dark Portfolio Case Study Template",
+  "summary": "A sleek dark portfolio case study template for showcasing audiovisual or creative brandspot projects with immersive imagery, video embeds, and client details.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Dark",
+    "Large Type",
+    "Brand",
+    "Gradient",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3375,
+      "sha256": "d3c35626dc8eba2c443c62385e1067c437436a29fe1e9cc5043b47c73911ac3b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11838,
+      "sha256": "fee486f4fd028b4743b3c7b76b08b3f10183f740d6ac4b394cc7f8c76682da08"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 862,
+      "sha256": "5b4b2b1de90741be4db05487c5935ce0df09366a272b59db20558b3b01066a3f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 267,
+      "sha256": "6c905d59716ce63cc5ffaa859075358d8c61a0c35b9942d725f59dce957051c5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29455,
+      "sha256": "9bd7743934f48d8b903861cf926d432016db74a0f1f2afa38267b0d56a1cad14"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

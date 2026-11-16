@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00249",
+  "title": "Primary Button using Pico.css",
+  "summary": "Renders a primary action button styled with Pico.css, ideal for CTAs in web apps and landing pages. Includes external Pico.css stylesheet for accessible, responsive default styling.",
+  "tags": [
+    "button",
+    "primary",
+    "picocss",
+    "css",
+    "ui",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2428,
+      "sha256": "edcbbe0069a67fb815c7dc8c5f1358d3c348e1d1292a9753c91653ae34c6dbc2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 134,
+      "sha256": "a2892a903766bec34431fb8a31ef72ab88f373b666719b2ce1ec01379e0c70ee"
+    },
+    {
+      "path": "index.html",
+      "bytes": 984,
+      "sha256": "e8f67b042035ecb1d2bfd279170695586b2f2c477a4c5526b88fcc617861d85c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

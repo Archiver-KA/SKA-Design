@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01874",
+  "title": "Conversion-Focused Designer Portfolio Template",
+  "summary": "A sleek, dark portfolio template for conversion-focused designers to showcase case studies, services, and testimonials with strong calls-to-action.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Minimal",
+    "Dark",
+    "Technology",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3590,
+      "sha256": "99f6c31f30f5e2b246cae0de3fbca03f5ab3adbe946ee000a332ce565dac060f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6148,
+      "sha256": "b5e7ceb6183ad89b25a6f98381887f6ceed659523ce7e577633e041e529d960b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "94e3d17829479512afc5bbebaf4a162c25b487ffeb37659e28f287d7514e8e87"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41013,
+      "sha256": "71b3f2f1c0584fa08d2fc0782068869499d7024f2a3b9d558b1c0fb8a4cf1fd4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "stats",
+    "case-studies",
+    "services",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

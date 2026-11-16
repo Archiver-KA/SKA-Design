@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00605",
+  "title": "WebGL Light Rays Animated Background",
+  "summary": "Full-viewport WebGL canvas background rendering animated crimson light rays with configurable origin, spread, length, saturation, and subtle mouse interaction. Ideal as a dynamic atmospheric backdrop for landing pages or hero sections. Has mouse following",
+  "tags": [
+    "background",
+    "animated",
+    "webgl",
+    "canvas",
+    "interactive",
+    "responsive",
+    "css"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5382,
+      "sha256": "1eb7c12d38ec2bf924815b6bea280ca4f8ba0a51b4976b568e5abd93ffb5e66b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7400,
+      "sha256": "72601da1635c002958d10a1caee5ecdeb1856955d47ab1bf067f0943ab89e4e3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8257,
+      "sha256": "39a435c8e1a6f76b4e0ae3d1bc9d9107025e230ca8e8f5a97e32388937faf4ca"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

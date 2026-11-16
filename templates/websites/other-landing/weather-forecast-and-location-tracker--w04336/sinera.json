@@ -1,0 +1,58 @@
+{
+  "id": "SN-W04336",
+  "title": "Weather Forecast and Location Tracker",
+  "summary": "Responsive weather UI with current conditions, saved locations, recent searches, and search functionality using Tailwind CSS.",
+  "tags": [
+    "Weather",
+    "Location Tracker",
+    "Search Bar",
+    "Tailwind CSS",
+    "Responsive Design",
+    "UI Components"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2659,
+      "sha256": "4a777b933367949656608a65083b5a65dc0560239a9a7643121a02554fa576c6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7096,
+      "sha256": "1ec7daae5162a7bcaef0cc67ee8efdbdd9c23b69d7acd7a31039ef20d4f13678"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "9a0da549bbe122d7056164b3937223299bcd27ca01b227c91fec82ca9901386e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9277,
+      "sha256": "fc40ce7c7e83c955d73926fb3c8b52e8738abac328a0cb111764702e67fde0ff"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

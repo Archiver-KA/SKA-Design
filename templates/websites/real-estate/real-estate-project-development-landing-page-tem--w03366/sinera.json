@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03366",
+  "title": "Real Estate Project Development Landing Page Template",
+  "summary": "A modern real estate project development landing page template for showcasing architecture services and property references with a minimalist, architectural aesthetic.",
+  "tags": [
+    "Real Estate",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Landing Page",
+    "Architecture",
+    "Property Development",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3399,
+      "sha256": "f4adf4f055fbc586d763dc0ee60171a9c0de0899572a83ab18f4c419c9e0f455"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4468,
+      "sha256": "971a1d5f63adc35c48081cc8b0fb1dec56952f7036c56b59a44bfbf03e96ae9b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 826,
+      "sha256": "562422a654d3f3808ef800b61fe8befbae1346f03696ddbd4d5108ec9222b7fd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27029,
+      "sha256": "52e0c2a08ab637d28a77648b825c928fce525a71dc4a2295b636889dd1a32f87"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "case-studies",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

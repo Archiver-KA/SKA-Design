@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01739",
+  "title": "Pill Badge with Icon and Uppercase Label",
+  "summary": "Rounded badge combining an SVG icon and uppercase text, styled with Tailwind utilities. Ideal for highlighting categories, statuses, or sections like FAQs with a colored background, border, and inline-flex alignment.",
+  "tags": [
+    "badge",
+    "pill",
+    "label",
+    "tailwind",
+    "icon",
+    "status",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1924,
+      "sha256": "7e7f74701b3fe26f5b45c50640eae2157fa7d709dfae3b7f05be95dad87580be"
+    },
+    {
+      "path": "component.html",
+      "bytes": 672,
+      "sha256": "15d6b0e35415d824482d83b6fd4004f6ebcc22fef20873f369fbbe7f4b13bc77"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1533,
+      "sha256": "b6645b867c2873b9b3be646a4c0e1f340c71eed97093cbbd81592a827084530e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

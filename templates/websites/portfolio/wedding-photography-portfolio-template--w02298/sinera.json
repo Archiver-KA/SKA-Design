@@ -1,0 +1,64 @@
+{
+  "id": "SN-W02298",
+  "title": "Wedding Photography Portfolio Template",
+  "summary": "A refined portfolio template for wedding and portrait photographers to showcase timeless imagery, services, and inquiries with an elegant editorial feel.",
+  "tags": [
+    "Portfolio",
+    "Photography",
+    "Wedding",
+    "Artist",
+    "Art & Design",
+    "Minimal",
+    "Clean",
+    "Black & White",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3199,
+      "sha256": "8654ccbb866b606eecd2954bbdc0920df727fdd40c18a36a59087eac40900491"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12118,
+      "sha256": "06e9c6b265ef450024b00622f4ebb06087f1c114bc5dfb92b04770c1c76a6c70"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "e6bf48ff27211106c0b61c8e7c3503616e8cbd0c921d740122e9a3f24bc92577"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14113,
+      "sha256": "a3f1a5442093771f4427a51ca6d4e8ccbd95f2e5944f0e7a697bd54408e30ffc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "gallery-portfolio",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

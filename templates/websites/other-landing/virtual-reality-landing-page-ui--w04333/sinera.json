@@ -1,0 +1,81 @@
+{
+  "id": "SN-W04333",
+  "title": "Virtual Reality Landing Page UI",
+  "summary": "Responsive VR landing page showcasing features with animated sections, stylized typography, and a dynamic canvas background effect.",
+  "tags": [
+    "Landing Page",
+    "VR",
+    "Animations",
+    "Tailwind CSS",
+    "Canvas",
+    "Responsive Design",
+    "Features"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2734,
+      "sha256": "7458c7388516a8b64d7bff3985377db4c9144fa00a2a0c297c39631b7958bcb5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17370,
+      "sha256": "4af8263caec079e7324c5da59f6e18ebde1659f1293ae7069f52658e1d9afc3a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1454,
+      "sha256": "44bc9f25c0becfed1d5a059289a0ac3dcaa78b40e3e03519655c5366d2f2559f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 418,
+      "sha256": "f6c04aa7e7cf7b318f5eb9ed0f3ae7543ba128e9a2ae3963ee2be3d3c7d1d799"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 280,
+      "sha256": "5f0e041b88496fafe7f126b505130a8c0711155885f876df0935034ca6bc6cce"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 206,
+      "sha256": "6a4fc978d455cfba2c8ba3f07eeaabb5412558f8295dd3b73d4b8b33873f7b92"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 241,
+      "sha256": "7f080dc7a7488783e82da64f1b51e150918272a697583f198899aa28f056a62b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13197,
+      "sha256": "6354f957bbb5d795e03e53de7d19dbfbcd5683ce2bf2e8b3c65b46cc80b6cd31"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

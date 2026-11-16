@@ -1,0 +1,71 @@
+{
+  "id": "SN-W00111",
+  "title": "AI Launchpad Strategy Report Template",
+  "summary": "A polished AI strategy report template for presenting audit insights, recommendations, and implementation roadmaps to creative and technology leadership teams.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Technology",
+    "Services",
+    "Report",
+    "AI Strategy",
+    "Case Study"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3662,
+      "sha256": "e53dbed503016951e9b2bc98b75fd2df38a09be38336966d84108e65c951f234"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12340,
+      "sha256": "e7879e2c4dfd9442d2cd32e39ebaf0fe62e63a8bdc299eb7ce65e8ff453957f6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 873,
+      "sha256": "f6bbde08a75a87958827d66b90eccd53392f812ca286471fc4dbd930229fddf3"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "8fdd104ac7843269a0c4bb41aacf62efd383fb500afc71598cfc07a668449fab"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31678,
+      "sha256": "08d58d339de4b7ab66ab6c9988643766362ac41b0a29ff8ea94317e5826c7a52"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "stats",
+    "features",
+    "timeline",
+    "footer",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

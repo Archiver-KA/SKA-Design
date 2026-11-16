@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01186",
+  "title": "Sticky Dark Navbar with Logo & Hamburger Menu",
+  "summary": "Dark, semi-transparent sticky header featuring brand logo, primary nav links shown on desktop, and a hamburger toggle for mobile. Built with Tailwind CSS, ideal for SaaS dashboards, landing pages, and web apps.",
+  "tags": [
+    "header",
+    "navbar",
+    "navigation",
+    "tailwind",
+    "responsive",
+    "sticky",
+    "dark",
+    "mobile-menu"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2456,
+      "sha256": "8dc64f2ae567dc131f5c96f6397e6250715db56275acdb20e77471b103786af8"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1850,
+      "sha256": "9d8e6a83a4a0122e878cc0208f53a50b57fcacd0f96e268b15412eca23446d9c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2850,
+      "sha256": "1d62b7dcd27146694d23a07e5a71ead6ec5283d4898519d038d0f1aef3e4b060"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

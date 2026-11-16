@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02112",
+  "title": "Action-Oriented Workflow Card with Status Steps",
+  "summary": "Animated card showcasing an action-oriented hiring workflow with status steps, suggested actions, and CTA button. Uses Tailwind-style classes, hover gradient, and subtle motion to illustrate AI-assisted recruiter flows or process timelines.",
+  "tags": [
+    "card",
+    "ui",
+    "tailwind",
+    "animated",
+    "interactive",
+    "workflow"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9946,
+      "sha256": "8bcc0e1233ed98d5f75d1973dbaca1666fa05392b58bb9ac0f0aa323c9b94b8f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3496,
+      "sha256": "3abe65ade2ccada84aa2acb1052edeb92bf5ed08721dcde5b87adfd5789e1707"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4364,
+      "sha256": "6d9bf2cabfe82ba37ce61cdf526dc5a323120ee6a68b3127b776484a26400b70"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

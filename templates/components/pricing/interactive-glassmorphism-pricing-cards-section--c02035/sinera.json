@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02035",
+  "title": "Interactive Glassmorphism Pricing Cards Section",
+  "summary": "Responsive pricing section with three 3-D glassmorphic cards featuring hover book-opening animation. Built with Tailwind CSS, it showcases Free, Pro and Ultra plans with feature lists and CTA buttons—perfect for SaaS plan selection pages.",
+  "tags": [
+    "pricing",
+    "tailwind",
+    "glassmorphism",
+    "responsive",
+    "interactive",
+    "3d",
+    "hover",
+    "section"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21144,
+      "sha256": "c24f17121fe7bdca9f3ac9f145a343db9bdb914595032f17867e51d2a239dbe3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10426,
+      "sha256": "ffefdac75a550a8f3c8af2ecfb14cec8f45d02f5bc74da8d21b129a6d1dc2be5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11294,
+      "sha256": "fed95bdbceaed734bbcdd1a70eebc0ad929b39fed314b8c22bd40770757db9f4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

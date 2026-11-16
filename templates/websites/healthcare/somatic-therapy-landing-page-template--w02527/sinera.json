@@ -1,0 +1,64 @@
+{
+  "id": "SN-W02527",
+  "title": "Somatic Therapy Landing Page Template",
+  "summary": "A professional and minimalist website template designed for somatic therapists and wellness professionals focusing on physical transformation and presence.",
+  "tags": [
+    "Health",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Inter",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3558,
+      "sha256": "9086fbde50114cceb0f520c29590dfe51f6ab4869c5ef302183b03c36b5a3950"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 26922,
+      "sha256": "e9c99a224f6686793b3cc5dec535c4a2d4bbb2477f48c3a1d45c5accd0c91db6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "498c9669ef208418603f67229f5c2ae9993f3ff3079f89991916178f4b12d290"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29568,
+      "sha256": "2e37b9e43993b79f7157b2a4cb5f34f9722252fe51e2e172020bf2f113e66109"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "services",
+    "faq",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

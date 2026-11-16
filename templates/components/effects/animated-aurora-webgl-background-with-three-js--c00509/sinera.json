@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00509",
+  "title": "Animated Aurora WebGL Background with Three.js",
+  "summary": "Fullscreen canvas background using Three.js ShaderMaterial to generate a dynamic, colorful aurora effect. Auto-animated and responsive to window resize, perfect for landing pages, hero sections, or immersive app backdrops.",
+  "tags": [
+    "background",
+    "canvas",
+    "three.js",
+    "webgl",
+    "shader",
+    "animated",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4096,
+      "sha256": "1ba55f5d957fe34da8a7d65bc5957abfaaec69276498a017513c76b281f0069e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4105,
+      "sha256": "cdfe5e24d40d8e6af7fcd0385813d04075d2ae2e33d0a2d58c9bea0ed70a8767"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4972,
+      "sha256": "1988080d6fbcc88c79f9a43f6b0d9b6bfe9d2e3f0a714ec08e67724c3fcdb762"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

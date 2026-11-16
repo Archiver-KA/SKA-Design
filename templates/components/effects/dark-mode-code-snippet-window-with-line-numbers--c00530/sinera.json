@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00530",
+  "title": "Dark Mode Code Snippet Window with Line Numbers",
+  "summary": "Rounded, macOS-style window showing a syntax-highlighted code block with line numbers, window controls, horizontal scroll and blurred glass background. Built with Tailwind CSS, responsive and ideal for docs, portfolios or technical blogs.",
+  "tags": [
+    "code",
+    "snippet",
+    "syntax-highlighting",
+    "tailwind",
+    "dark",
+    "responsive",
+    "editor",
+    "glassmorphism"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14390,
+      "sha256": "abaa46442a13722e78df2377d06c0eb2e4444a864b0193c4674bf65acdc769b1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3612,
+      "sha256": "ef8780b0608b646f8e03eeafcb3dc59756fdc1aa57d91105c7076c5d4f75ea52"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4480,
+      "sha256": "139c5cc021e24180f2879c66b3390f8ad6b80f5b16ae40bea4817dc703372e42"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

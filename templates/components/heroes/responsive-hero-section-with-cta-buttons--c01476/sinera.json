@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01476",
+  "title": "Responsive Hero Section with CTA Buttons",
+  "summary": "Full-width hero block delivering a bold headline, supporting copy, and dual call-to-action buttons. Tailwind-styled with gradient primary button, responsive typography, and social-proof copy—ideal for landing pages, portfolios, or product sites.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "cta",
+    "responsive",
+    "landing-page",
+    "gradient-button",
+    "portfolio"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20794,
+      "sha256": "bdd8472bfdd38b387e762222bfec38933004017e82788f342981cae6e04e7da9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1717,
+      "sha256": "3289886bc2accedccf9f1da1b5f49a08997832de26fbd6e7ab2d38f66eec93bc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2708,
+      "sha256": "b46af33984ca3c9a7e8d0a774db206990b121c3a20bac786a89c6435f84cdba1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

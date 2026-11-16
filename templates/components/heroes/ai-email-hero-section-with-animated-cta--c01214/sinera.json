@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01214",
+  "title": "AI Email Hero Section with Animated CTA",
+  "summary": "Responsive landing-page hero showcasing an AI-powered email product. Includes gradient badge, bold headline, expandable details, and two call-to-action buttons—one with custom floating-points animation. Styled with Tailwind CSS and custom keyframes for modern marketing pages.",
+  "tags": [
+    "hero",
+    "landing page",
+    "tailwind",
+    "cta button",
+    "animated",
+    "gradient",
+    "responsive",
+    "marketing"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19002,
+      "sha256": "db3df4b9312c847fabce4407cebe9abd8d03ae935d0f5d117b2cf92d92c5f542"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8982,
+      "sha256": "37ee04589dab22aa213f268662296bcb5c2751819ad7af54a2e0082e690f880f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9842,
+      "sha256": "2bc5b071d887b50ad763ec4054cbfaaefe1963dce8abb76ba37e700142852cbb"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "SN-W02321",
+  "title": "Alba Digital Accessibility Platform Template",
+  "summary": "A clean and supportive landing page template designed for safe, guided digital experiences for children and adolescents with autism.",
+  "tags": [
+    "Health",
+    "Education",
+    "Technology",
+    "Clean",
+    "Colorful",
+    "Landing Page",
+    "Social"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3620,
+      "sha256": "6265751f491ca2e203baed6297e283541c3776a9f9a8c0a41e56a31749d02ef4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 36138,
+      "sha256": "6b9fbe69dd98513aa6ac87c246173475579b716b0be91844c5fad456288a599f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "8c4faaaad6d2a227e7ddc41566f9fcd5d99e8480e6d78c590b4805a806a56ecc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26145,
+      "sha256": "c852ae970ceeccd952f5322c83e2d62c5a1fd0a086a8583edb8d1b381cf09544"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "features",
+    "cta",
+    "faq",
+    "comparison",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

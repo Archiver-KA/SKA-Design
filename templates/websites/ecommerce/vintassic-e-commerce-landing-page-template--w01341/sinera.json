@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01341",
+  "title": "Vintassic E-commerce Landing Page Template",
+  "summary": "A minimalist Vintassic fashion e-commerce landing page template for showcasing core apparel collections, promoting products, and driving online clothing sales.",
+  "tags": [
+    "E-commerce",
+    "Fashion",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3568,
+      "sha256": "332105923d44fe39dbbad28368bc35a998d00f735b69370c5f7495b97093be06"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12138,
+      "sha256": "ccc0f1e0c78a4f7689b23d92e5279a95f8bfbf48bb0b749ca566351b2075b8ec"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 732,
+      "sha256": "9f3c0eb3c6a129db7674066198bc1988723af16f1247733d31ac774ca0279c2c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28124,
+      "sha256": "7e9a4210655a626bf513549dc7cf6578b695163c0a96c1841f740709ea4423c9"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "product-grid",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "SN-W04198",
+  "title": "Featured Book Detail Panel",
+  "summary": "Displays a featured book with cover, author, genres, rating, description, and action buttons with animations.",
+  "tags": [
+    "Book Feature",
+    "Tailwind CSS",
+    "Animate.css",
+    "Responsive Design",
+    "UI Card",
+    "Rating Display",
+    "Action Buttons"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3168,
+      "sha256": "8c1a33c636e90263e8110536825d9b3b39f59aae5ad8d0b1e0a47cdcf74963a3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10074,
+      "sha256": "d6c87df3152883c1b86849ed3b807eb8db4304eaf330e9348b007b3305fbaa9b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 719,
+      "sha256": "040193b366f24d3fa12ab7167eaedf4a17846e555903aaa92b27fc0645b53039"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4145,
+      "sha256": "4b3a7e10acc6c0be3a3d0c94620975f01dde47cccad45bec49c2b0de69be3194"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "product-grid"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "product-grid",
+  "design": "DESIGN.md"
+}

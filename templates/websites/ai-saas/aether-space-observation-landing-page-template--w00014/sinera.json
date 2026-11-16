@@ -1,0 +1,73 @@
+{
+  "id": "SN-W00014",
+  "title": "Aether Space Observation Landing Page Template",
+  "summary": "A reusable landing page template designed for space observation and monitoring projects, featuring data visualization, live feeds, and secure access calls-to-action.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "Features",
+    "Stats",
+    "Data Visualization",
+    "CTA",
+    "Navigation",
+    "Footer",
+    "Space",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3781,
+      "sha256": "d8d938ff8bc36e74f90badfdf119bf2261cfad664788d6bd6935d5834db79497"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18524,
+      "sha256": "266e7bfe8252045efd058c626f89d660f66635cad7fc2e2bb82da71e482f8485"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 880,
+      "sha256": "fcd8917b9bbe285ede3837c62ab5be84897e7ab3136e3b345081675c836059c6"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "6d7f47cc04d290ef4abac372150068099aee31617cc15da366306e3307a84d33"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24788,
+      "sha256": "7de242093bb8f282b19c47efcbbc39243ea72b56fc8f2bb9a83db1584f754524"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "gallery-portfolio",
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "bento-grid",
+    "case-studies",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

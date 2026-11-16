@@ -1,0 +1,62 @@
+{
+  "id": "SN-W04214",
+  "title": "Interactive Camping Experience Selector",
+  "summary": "Displays a horizontal scroll of camping options with animated expansion and detailed labels on selection.",
+  "tags": [
+    "Interactive UI",
+    "Animated Cards",
+    "Camping Features",
+    "Tailwind CSS",
+    "Font Awesome",
+    "Responsive Design"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2887,
+      "sha256": "f9d447f9aefbbe88683e3b9b30c6dff8c8c0c53fe0ef1c9773efdaac13bb62d3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7184,
+      "sha256": "063ba14355be972d3654fa17c4ccd6cd1f1c1dc421bcd90905bd669f3e2bf9a8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 815,
+      "sha256": "c9c25fb558293ed94857129e5ec048ee9226b69f8d0d6a15bc7aa3f2fd08ffff"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9854,
+      "sha256": "204d4e6206bf137319bfb5d032f952fb1319f6ebfd48c4358b6b40fb47120af0"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "blog-articles",
+    "listings"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

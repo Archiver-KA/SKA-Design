@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00397",
+  "title": "Interactive Blog Post Preview Card",
+  "summary": "Animated article card with custom illustration, category, date, read-time, author and tag badge. Tailwind CSS gradients, rings and hover transforms give subtle 3-D lift and outline glow. Perfect for blog grids, featured posts or content listings.",
+  "tags": [
+    "card",
+    "blog",
+    "article",
+    "hover",
+    "tailwind",
+    "responsive",
+    "preview",
+    "cards"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19852,
+      "sha256": "fcb9f3893c24a1556ae2e6cfba4b8b618e9ff9d2ac64b64975889bb4f94df022"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8752,
+      "sha256": "0749d8493d521dffa296482581f9618bf261c98e557e65401eff97015ebda274"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9737,
+      "sha256": "9aa30af8aa546e95352958fa053b166b800bea3fa9c2fa055d7bed9750eec1b2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

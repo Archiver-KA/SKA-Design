@@ -1,0 +1,70 @@
+{
+  "id": "SN-W01327",
+  "title": "Streetwear E-commerce Website Template",
+  "summary": "A reusable streetwear e-commerce template for fashion brands to showcase collections, sell products, publish editorial content, and grow a culture-driven brand.",
+  "tags": [
+    "E-commerce",
+    "Fashion",
+    "Brand",
+    "Blog",
+    "Minimal",
+    "Clean",
+    "Dark",
+    "Style",
+    "streetwear",
+    "apparel"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3749,
+      "sha256": "a72af4edd31c72247a17ca71aa4b236561d46aab90d1e9f3a63c1515810c1702"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16560,
+      "sha256": "d52a983345f34a3a6dfa3ae3fd0306ea77390d6f68fc4306e6c9536958d0488d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "7163f4de9ad882aaeb8c75d8b5d43672c3b35540649370024b8d08ac7129a501"
+    },
+    {
+      "path": "index.html",
+      "bytes": 48665,
+      "sha256": "fed058bcee3fd35789e611bced0f74c1e8621a6b862dba5884580e2c1c705f8e"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "logo-cloud",
+    "gallery-portfolio",
+    "cta",
+    "features",
+    "blog-articles",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00858",
+  "title": "Responsive Feature Grid with Icons",
+  "summary": "A Tailwind-styled grid displaying up to four glassmorphic cards, each with a lucide icon, heading and caption. Fully responsive (1–4 columns) and ideal for highlighting product features on marketing or SaaS landing pages.",
+  "tags": [
+    "feature",
+    "grid",
+    "card",
+    "icon",
+    "tailwind",
+    "responsive",
+    "marketing",
+    "glassmorphic"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6262,
+      "sha256": "3042e387c39d189799009774f5ee06be056d4e50286adc44fdd753d11bacfcf7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4408,
+      "sha256": "e8df0bebc65bd7bdf5e918180c98c1a1fcfd5432028cba47b9d8c29f1af0591e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5393,
+      "sha256": "15f79cab7d29c55c7e505636115b76c1d883692d08f56527af17497eb98a1d79"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

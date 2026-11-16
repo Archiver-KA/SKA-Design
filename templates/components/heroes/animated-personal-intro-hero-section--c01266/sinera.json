@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01266",
+  "title": "Animated Personal Intro Hero Section",
+  "summary": "Full-height personal introduction hero with fixed header, spinning SVG icon, staggered reveal text, and project links. Uses Tailwind utility classes and inline styles for typography-focused portfolio or profile landing pages.",
+  "tags": [
+    "hero",
+    "section",
+    "landing",
+    "portfolio",
+    "personal",
+    "animated",
+    "responsive",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 31984,
+      "sha256": "1f7219142370cb05c97d19afa6c2034461b5f511a8652e169f0e2efd79aa1bc6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6889,
+      "sha256": "31b298caa9d9d0bed756ff3dbf91c741d8c78d933437ab1d078be2e75e1a334d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

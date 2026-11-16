@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00692",
+  "title": "Animated Multi-Step Feature Showcase Section",
+  "summary": "Landing page section with three-step tabs showcasing animated dashboard, progress and network visuals. Interactive buttons swap content, Chart.js renders live chart, and floating cards animate on view. Tailwind-styled, perfect for SaaS analytics or product highlights.",
+  "tags": [
+    "feature-section",
+    "landing",
+    "tailwind",
+    "interactive",
+    "animated",
+    "tabs",
+    "chartjs",
+    "dashboard"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16140,
+      "sha256": "ad5460de6f7da400d35ecf8936fe201e1b9d25b8ff4f52f6277b71b462fd4b8a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 60634,
+      "sha256": "dfbacce770161662c403e4cdcb260b1dc4dcaab164934990bbe1352d01e0e0ba"
+    },
+    {
+      "path": "index.html",
+      "bytes": 61499,
+      "sha256": "47e86c46a81a5b94c5d2bc848a939b5126298087dcf2cefa8d1d1c7dd0efab7b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,9 @@
+<svg viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-full h-full transition-transform duration-500 group-hover:scale-110">
+                        <!-- Outer Orbit -->
+                        <circle cx="20" cy="20" r="18" stroke="currentColor" stroke-width="1.5" class="text-zinc-300 dark:text-zinc-700 logo-mark opacity-50" stroke-dasharray="4 4" />
+                        <!-- Core Shape -->
+                        <path d="M20 10C14.4772 10 10 14.4772 10 20C10 25.5228 14.4772 30 20 30" stroke="currentColor" stroke-width="2" stroke-linecap="round" class="text-zinc-900 dark:text-white" />
+                        <!-- The "Stalk" / Connection Node -->
+                        <path d="M20 20L28 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" class="text-zinc-900 dark:text-white" />
+                        <circle cx="28" cy="12" r="3" class="fill-lemon-400 stroke-none animate-pulse-slow" />
+                    </svg>

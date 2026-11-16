@@ -1,0 +1,45 @@
+{
+  "id": "SN-C01315",
+  "title": "Designer Portfolio Hero Section",
+  "summary": "Responsive hero/banner section for a personal portfolio. Features large headline with inline images, fade-in on-scroll animations, skill tag badges, glassmorphic primary CTA, contact button and a grid of showcase images. Built with Tailwind CSS for easy styling.",
+  "tags": [
+    "hero",
+    "portfolio",
+    "tailwindcss",
+    "responsive",
+    "animated",
+    "cta",
+    "glassmorphic",
+    "grid",
+    "badges"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 27648,
+      "sha256": "2079455e08ec17c4f4cab001d4072694e37e3c4c3e85871ef891e53da10e3d38"
+    },
+    {
+      "path": "component.html",
+      "bytes": 16495,
+      "sha256": "000f6d7eaec98408c122450b12539bb52f58ddd9d1d4b3fd693e6d0df6c1d950"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17347,
+      "sha256": "28062260f53ca7f9e1796f22dba1f3686172712d87bdcae5ef2aef0e6ef7d4a5"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

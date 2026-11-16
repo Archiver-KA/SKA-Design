@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01530",
+  "title": "Community Join Section with Social CTA Cards",
+  "summary": "Responsive two-column section encouraging users to join the community. Features headline, benefits list, and interactive GitHub, Discord, and Twitter cards with hover effects and on-scroll animation. Built with Tailwind CSS for landing pages or docs sites.",
+  "tags": [
+    "section",
+    "cta",
+    "social-links",
+    "tailwind",
+    "responsive",
+    "animated",
+    "card",
+    "grid"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11674,
+      "sha256": "822108a4b8f57428d6258233e6a1ba535a8708e62d8a7b6f852b109c29a85048"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7422,
+      "sha256": "ebfce85bff6b03d5eb89dbf8174c34ebd10d07655a7115c8f890721fb467b645"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8287,
+      "sha256": "7399f2f931f0865e7ed54c4858da627bcb9aef0353e03f94798065f89037fe42"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

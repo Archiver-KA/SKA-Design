@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00314",
+  "title": "Animated Creativity Meter Glass Card",
+  "summary": "A Tailwind CSS glassmorphism card featuring a creativity gauge with SVG meter, glowing icon, animated liquid wave, and action buttons. Ideal for dashboards, idea generators, or playful status UI panels.",
+  "tags": [
+    "card",
+    "tailwind",
+    "animated",
+    "glassmorphism",
+    "dashboard",
+    "svg",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8686,
+      "sha256": "265754f12fce2924ba062e4134e2c780220fce943f2b8e13cad7917fdd06e26c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10433,
+      "sha256": "39b13749a4533e5af2fe98cc2e0edbc8ac9ba13e4381c39c750d7831cde3ece1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11290,
+      "sha256": "7f53c2998b038cacbfd86c9a15918f26c72f9446ac464949769ea9e3b5b99689"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

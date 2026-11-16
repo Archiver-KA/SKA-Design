@@ -1,0 +1,106 @@
+{
+  "id": "SN-W00661",
+  "title": "ReadFlow Digital Library Landing Page Template",
+  "summary": "A reusable landing page template designed to showcase a digital reading tracker app that helps users organize, track progress, and capture reading insights.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "Features",
+    "FAQ",
+    "Call to Action",
+    "Reading Tracker",
+    "Progress Visualization",
+    "Notes",
+    "Knowledge Base",
+    "Waitlist"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3896,
+      "sha256": "8480f8f7327ea98674921bb358593f715ac80e61593a255c8fc37110ff997c7b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14474,
+      "sha256": "3b5add013007f89fee8591a667f18bf055175d9b2d23ae008e9a2772a8a3df42"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2173,
+      "sha256": "6c5fd30975be0449e64c09b3c3f9aebaab8555e0f344584692fce52fec02c11c"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "6d7f47cc04d290ef4abac372150068099aee31617cc15da366306e3307a84d33"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 301,
+      "sha256": "d9c31080cb8f5ea96834a1ab940192cb9902ab0e67d6e6be888fec4b514cf213"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 336,
+      "sha256": "6b3e06e234f689614d2f45524346c0569d794c51a333aeb695c16f0fd7e91224"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 269,
+      "sha256": "181e2341ee635f10425ce79b1f2f6a7dfc5cce70bc1d6bdda4310700a84e80fd"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 344,
+      "sha256": "976fc0b177bcb5d27e80b36619eba2d996c464f5dcfba7445b6b5349b578ef7d"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 276,
+      "sha256": "9f3721d5be7108c30e9b26811ce017e4a47cc028049a304dffe8324b071d6084"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 317,
+      "sha256": "6a97b02e9ed663ac5ef3cec0ea344eea4b6abe45a2e4324b32eadea9ac723cb4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35309,
+      "sha256": "2461f7d328c20b9f5c15f0eacb5bf85251f8342e09d4f7cbf7dfc73962fc15b9"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "hero",
+    "listings",
+    "features",
+    "gallery-portfolio",
+    "faq",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

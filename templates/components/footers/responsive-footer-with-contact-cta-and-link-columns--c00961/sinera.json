@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00961",
+  "title": "Responsive Footer with Contact CTA and Link Columns",
+  "summary": "Footer section featuring a prominent contact button, four link columns, and copyright text. Includes fade-in animations, hover effects, and responsive Tailwind CSS grid layout—ideal for portfolios, agencies, or landing pages.",
+  "tags": [
+    "footer",
+    "tailwind",
+    "cta",
+    "links",
+    "responsive",
+    "animated",
+    "grid",
+    "portfolio"
+  ],
+  "kind": "components",
+  "category": "footers",
+  "categoryLabel": "Footers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14452,
+      "sha256": "42776c5cf053b5b0f6853a21cec1396792aca0dad11f96a277ff9cd43267276f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3042,
+      "sha256": "114d7f57817ac086452a970f5c087ad64cbbe299e59f4520921010a7966b2489"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3914,
+      "sha256": "b222ba6f59bebeab42aa2918eb95720511cbb55b72ebf9ac76c5315a739b739c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

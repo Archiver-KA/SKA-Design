@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02337",
+  "title": "Responsive Dashboard Greeting with Weather Card",
+  "summary": "Responsive header component featuring a greeting section and a dark-themed weather widget. Shows date, city, temperature and conditions using Tailwind CSS grid, custom fonts, rounded corners and shadows. Ideal for dashboards and home pages.",
+  "tags": [
+    "greeting",
+    "weather",
+    "dashboard",
+    "widget",
+    "tailwind",
+    "responsive",
+    "card"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6360,
+      "sha256": "3ecd6440bfedc695bca4d52f9251ee7a201d867b40e385ff648a763879dff763"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1460,
+      "sha256": "57df27b61bb97f620292f24c98d66a8a34203a2ae82cbdbc383839e3438661b1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2328,
+      "sha256": "cc57155e55e5686aca3cf69f9e20bcbf8d2e45226b341255b0b81fc8541f968f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "SN-W00289",
+  "title": "ComedyGen AI Studio Template",
+  "summary": "A high-fidelity dashboard template designed for AI-driven video content creation and automated social media distribution.",
+  "tags": [
+    "Technology",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Dashboard",
+    "Services",
+    "Animated",
+    "Graphic Design"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3475,
+      "sha256": "2d5d56e526ac963bcb19de5f3d657af85f0f9004c3e6a89b0b08237db0a60896"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13480,
+      "sha256": "d92d93f75b8dc8a3b872071aca3be9d7c1131a87334bdc39579a6d5d0cd9a6dc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 722,
+      "sha256": "5343527afef1d2168e4a4da361518563a36634cc8264747353c04b206742571a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19760,
+      "sha256": "1e098f518ea0ca2954f6653f12688c5c19987ea7a6205b49a5d2a6484f3c0de1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "sidebar",
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "SN-W03663",
+  "title": "Zoon Club Membership Landing Page Template",
+  "summary": "A premium, community-focused membership template designed for cultural collectives, creative clubs, and nonprofit organizations.",
+  "tags": [
+    "Membership",
+    "Social",
+    "Community",
+    "Art & Design",
+    "Dark",
+    "Clean",
+    "Animated",
+    "Graphic Design"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3565,
+      "sha256": "47d1e48ba910030f9416f2337b9b1f54a8cb2a4e3bb0ea9aa0af5f71960af3d0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15156,
+      "sha256": "a29826d0228d98c4aba7b1b58e0995ce54694802505ad3c958eba9e71219b15c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 727,
+      "sha256": "ba017c868f9b53404517a3cab755447a0fa4bc94933c61c72316d93d986f1e61"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17010,
+      "sha256": "9390cd92d7662274f8b3fe1dbcf65bf0a511540f8a8130c01df61b709fa73360"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "auth-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

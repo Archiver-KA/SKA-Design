@@ -1,0 +1,74 @@
+{
+  "id": "SN-W01984",
+  "title": "Digital Experience Studio Landing Page Template",
+  "summary": "A high-performance reusable template for creative agencies and studios featuring immersive WebGL effects and dark futuristic aesthetics.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Portfolio",
+    "Dark",
+    "Futuristic",
+    "Clean",
+    "Animated",
+    "3D"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2772,
+      "sha256": "934675498b1d390e6cb272bca3f2fb0833906a97aeeddb9c35855c8b3f649d07"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6886,
+      "sha256": "9692648519be4773ef1964fe4d42c5d80900a19a51337fccd619921f93a631ab"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 875,
+      "sha256": "f801c34706143bfe2272dbb58fd1a5ce51c39a0fd9b851838216498d43cd5e24"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 234,
+      "sha256": "e6f6d1a829740d32bfa30c0f5d9ceb9e6fc0ff6dc47090f687d0c7972b4836eb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 65191,
+      "sha256": "89c3ef20c445c5f22565c70c0ee519b3ae84bc5f44cae75a0deba69c58fdb553"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "navbar",
+    "hero",
+    "features",
+    "case-studies",
+    "stats",
+    "how-it-works",
+    "pricing",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

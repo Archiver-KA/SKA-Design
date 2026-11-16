@@ -1,0 +1,89 @@
+{
+  "id": "SN-W00790",
+  "title": "Vacance Solitude Booking Template",
+  "summary": "A high-concept experiential landing page template designed for luxury travel or exclusivity services featuring cinematic scroll-triggered animations and real-time data visualization.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Clean",
+    "Dark",
+    "Futuristic",
+    "Animated",
+    "Luxury",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2741,
+      "sha256": "fe3af2eed500f176fccc636ea7dda1a10cc9d56ab3e3148786f5ea0080b5ccff"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1006,
+      "sha256": "95f0d9deea0bce3ceae82c4ced898e63067da62e308840acc3ae97d779ab77d3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1533,
+      "sha256": "9c1cb3061158e5301c5b115a3ea9b01030c698d3bc91735dd1332e8114eabeeb"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 115,
+      "sha256": "42171073c519718c9cf82b2f405417fab1028e817de3d4499fa36b6aa5c60738"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 237,
+      "sha256": "8d2c72d15f9c2a5b405e5e3b206ce00d84a6b7004938753d866b485bc41915ed"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 344,
+      "sha256": "3e26711d9250151a8975d5b5a03e9014deee07b1ef8aa4b96e7f9603dadd2b08"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 191,
+      "sha256": "db8bf31e7fa9ddcd4725a51d19f9239173ae8dcc78f098f61f2df7bc96685c4f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 98727,
+      "sha256": "a201290cd98b8086277e94e9519cc895094aca43c0ca941e3e40dab9f796b4c4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "3d-canvas",
+    "video-media",
+    "footer"
+  ],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "banner-missing-or-tiny"
+    ],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

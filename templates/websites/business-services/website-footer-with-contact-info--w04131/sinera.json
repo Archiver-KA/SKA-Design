@@ -1,0 +1,58 @@
+{
+  "id": "SN-W04131",
+  "title": "Website Footer with Contact Info",
+  "summary": "Responsive footer with company info, social icons, quick links, legal links, and dynamic current year display.",
+  "tags": [
+    "Footer",
+    "Responsive",
+    "TailwindCSS",
+    "Social Icons",
+    "Navigation Links",
+    "Dynamic Year"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2282,
+      "sha256": "f9c821c1b5278e0d0aa5bbdc1123ec0627efce0e168ea7028503f510093cb23a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7950,
+      "sha256": "0112b000ba7921ad54893c216e71f58755061db8f236e19b133adb5b6a7e6f3c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "1c806a80fbc1d5fc64f3d71b1f6c3f0f5261ec7f29b3995be03c5a1d415f4b90"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5768,
+      "sha256": "d6fcd3f2de8a37024a7f88dd131991be8e8682641dd13c446883826622d6a194"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "snippet",
+  "components": [
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "footer",
+  "design": "DESIGN.md"
+}

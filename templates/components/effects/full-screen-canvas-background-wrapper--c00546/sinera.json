@@ -1,0 +1,41 @@
+{
+  "id": "SN-C00546",
+  "title": "Full-Screen Canvas Background Wrapper",
+  "summary": "Absolute, full-width/height div hosting a canvas for animated or interactive scenes (e.g., Unicorn Studio). Uses Tailwind utility classes to sit behind page content—ideal for hero sections or dynamic page backgrounds.",
+  "tags": [
+    "canvas",
+    "tailwind",
+    "animation",
+    "hero",
+    "wrapper"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 43850,
+      "sha256": "474ca998cc561bb9a652c42f38bd8fe9e8db447178cbd0ccc9a5d4935ddd5431"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11432,
+      "sha256": "25fd68cd414a0ed943a86e5731d64343d4716f1d16cffedc394f4c1c3e675681"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12420,
+      "sha256": "bb824793a1e6b24456553073b9a2f91ba43b7f6cbf2645c42ca920a63863ad7e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01920",
+  "title": "Interactive Hover-Zoom Fashion Image Gallery",
+  "summary": "Horizontal gallery of fashion thumbnails built with Tailwind CSS. Images scale and pop forward on hover using 3-D perspective; clicks trigger a viewFashion action. Perfect for product showcases, lookbooks, or portfolio sliders.",
+  "tags": [
+    "gallery",
+    "image",
+    "hover-zoom",
+    "tailwind",
+    "interactive",
+    "3d",
+    "product"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 22658,
+      "sha256": "84b5e1967dfed762d1aa174751c7f7d76fd1381941049ef8b7a65e438b20fc2a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6789,
+      "sha256": "4e89830bb17811e8ecb3ac1b73550f0f9bcaf9d0f5a28ac0deb07397fc9217cf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7654,
+      "sha256": "69e7620ddae1c03ed7dbfed0617f03150e2524321148d2941f9a0232b9f78e9d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

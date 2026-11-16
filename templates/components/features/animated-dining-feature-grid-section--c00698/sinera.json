@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00698",
+  "title": "Animated Restaurant Feature Grid Section",
+  "summary": "Responsive Tailwind section showcasing Italian restaurant highlights in a masonry-style grid. Features large hero card and five smaller cards with images, gradient overlays, badges, buttons, fade-in entrance and hover zoom effects. Ideal for feature showcases, landing pages.",
+  "tags": [
+    "section",
+    "grid",
+    "tailwind",
+    "responsive",
+    "animated",
+    "feature",
+    "hover"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 38236,
+      "sha256": "81830261c2a3aab7bf53a741b9fa89c655a771e641fca7490f5acfb650ff0471"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12680,
+      "sha256": "711f1c22c7755cce7793bb48c5b109043ca4e1e93fd93e984ef3fd92f89915db"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13541,
+      "sha256": "b55699d901839033aaf94c9f5bd89893b38a8783300b5e24a78d92fda5b3155a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

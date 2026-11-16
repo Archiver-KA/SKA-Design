@@ -1,0 +1,69 @@
+{
+  "id": "SN-W04083",
+  "title": "Roofing & Remodeling Landing Page Template",
+  "summary": "A dark, modern roofing and remodeling landing page template for local contractors to showcase services, projects, and capture quote requests.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Construction",
+    "Roofing",
+    "Home Remodeling"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3638,
+      "sha256": "7d4516ecd034505230ce488b44b3d76617aa662e59e077ff6f992aa27affc07a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11924,
+      "sha256": "079958bcdd6d1ab70ab0e9f189d2ee5d4a4fb2044a5705f79544e7994402099e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 737,
+      "sha256": "41972070de2f4faab2ce14946ac3e29e5d9e656fd300f446b5dd1d5066360c31"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26404,
+      "sha256": "8481328901cbf8c2cef30d4a9887580516a535c5e0442d7604f35cfeec282efa"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "services",
+    "how-it-works",
+    "case-studies",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

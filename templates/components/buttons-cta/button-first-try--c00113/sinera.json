@@ -1,0 +1,37 @@
+{
+  "id": "SN-C00113",
+  "title": "Button (first try)",
+  "summary": "Fun to create it",
+  "tags": [
+    "button"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1974,
+      "sha256": "110c0117c2f0059d140cf9f2ff82db9cc7a1f778ef465e6a053db40dd8073283"
+    },
+    {
+      "path": "component.html",
+      "bytes": 349,
+      "sha256": "5e6ff6422fc03349012b950e4acfb8fec8f6a7ca2620bd2feae43386d2b54ffa"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1188,
+      "sha256": "71d3d596a23b6f66235db771032138398c153edc7a83c546f095491ba229f924"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

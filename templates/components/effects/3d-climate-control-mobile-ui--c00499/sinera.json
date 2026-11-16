@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00499",
+  "title": "3D Climate Control Mobile UI",
+  "summary": "A futuristic mobile-style climate control interface with animated temperature gauge, mode sliders, and bottom control dock over a Three.js 3D background. Built with Tailwind-style utilities, ideal for smart home, HVAC, or app UI showcases.",
+  "tags": [
+    "ui",
+    "tailwind",
+    "threejs",
+    "mobile",
+    "dashboard",
+    "animated",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13748,
+      "sha256": "aa4c5e59a180ff36d1bc3ab20003f2c32f4447b811b0345f750a138084be3241"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9202,
+      "sha256": "28d5b1a5672658df6de116c4289dc7ba965946091b44261f20071c6a7c790479"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10051,
+      "sha256": "7cc5f6c1ac71a7697153bf08b38b117f2460ba28558755828e448d23d44913de"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

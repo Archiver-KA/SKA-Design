@@ -1,0 +1,57 @@
+{
+  "id": "SN-W03164",
+  "title": "3D Interactive Room Interior",
+  "summary": "Creates a 3D room interior with walls, floor, ceiling, furniture, and interactive camera controls using Three.js.",
+  "tags": [
+    "3D Room",
+    "Three.js",
+    "WebGL",
+    "Interactive",
+    "Interior Design",
+    "OrbitControls",
+    "Furniture"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2152,
+      "sha256": "852b25e5553a0c3f3c28181dab874c5cbc9903823cbf0f9b0029706f20d42e01"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2326,
+      "sha256": "99562a37e3e1e4ae15283e3bd68c28a484da7185180456505e6060c91e47b61e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 717,
+      "sha256": "e658a4c1f6f8bccd6cffc8eb215fcd3e18caa4d313fe4b6faf1ba4033f90e532"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9889,
+      "sha256": "3dad1e38889262181e8e5cb0bc0cf6514d7e616e2af0d0422b300796b4d2c551"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "snippet",
+  "components": [],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

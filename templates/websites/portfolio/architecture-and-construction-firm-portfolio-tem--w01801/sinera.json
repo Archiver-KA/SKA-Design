@@ -1,0 +1,64 @@
+{
+  "id": "SN-W01801",
+  "title": "Architecture & Construction Firm Portfolio Template",
+  "summary": "A high-end, professional portfolio template designed for architecture and construction firms to showcase luxury renovations and large-scale projects.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Clean",
+    "Dark",
+    "Portfolio",
+    "Minimal",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3760,
+      "sha256": "aa787ed428c533e4a004bf770cc27e8f54b32b8abcdfd4d4ebd97cd55e3e53df"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15216,
+      "sha256": "9be29ee5e243d478d4832a7d020ec26d68dda2886a01c1d451c8ca250cb58fbd"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 739,
+      "sha256": "58205062adb681e5fdab64cdfc16121b334fb6fe973369d56ecb6a062f074312"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37496,
+      "sha256": "cae998a2d0c0d022371bcb9ea91a8dc48ad0416afba8d11dd247f9a2061b33e5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "bento-grid",
+    "features",
+    "stats",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00958",
+  "title": "Responsive Dark Footer with Newsletter & Social Links",
+  "summary": "Glassmorphic dark footer component featuring brand intro, multi-column links, social media icons, email subscription field, and legal strip. Built with Tailwind CSS and adapts to all screen sizes.",
+  "tags": [
+    "footer",
+    "tailwind",
+    "responsive",
+    "newsletter",
+    "social-icons",
+    "dark-mode",
+    "glassmorphism"
+  ],
+  "kind": "components",
+  "category": "footers",
+  "categoryLabel": "Footers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15650,
+      "sha256": "c3b56e622ece4b0b9621196519a99393fccdefe4399fbd6876214f239e21ad43"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8175,
+      "sha256": "feb1ed3bf258022b476b470f953cdce1767b2cfdfe8fd7d138407a41eed5a4ff"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9053,
+      "sha256": "39cd996aac322c211d7f8cdfb414a9141f8a7b5fad6bc64413a1ed6ebd895f81"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

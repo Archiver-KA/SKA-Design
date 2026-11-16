@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00628",
+  "title": "Responsive FAQ Accordion Section",
+  "summary": "Expandable FAQ section using HTML details/summary as accordion, arranged in a responsive two-column grid and styled with Tailwind CSS. Ideal for SaaS landing pages, help centers, or product sites that need clear question-answer toggles.",
+  "tags": [
+    "faq",
+    "accordion",
+    "details-summary",
+    "tailwind",
+    "responsive",
+    "section",
+    "interactive",
+    "grid"
+  ],
+  "kind": "components",
+  "category": "faq",
+  "categoryLabel": "FAQ & accordions",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10502,
+      "sha256": "1763b7ba435655ec8999054ae5fb77b1983c2df09ad3efea5a2fe9a6e1fa365b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3788,
+      "sha256": "463717e1790bf008b9a33a4c33fb6d6ec7f44dbcafef19c7cda9fd781a7e7c3a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4771,
+      "sha256": "55ec78c743c41a88f54977a4afec3e1ae015f9b8b218e2cef51b520d5c45958a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00223",
+  "title": "Interactive Pay Button with Credit Card Icon",
+  "summary": "Stylish payment call-to-action button built with Tailwind utilities. Includes credit-card SVG, sweep overlay using mix-blend difference on hover, and press translation for tactile feedback. Perfect for checkout pages or payment modals.",
+  "tags": [
+    "button",
+    "tailwind",
+    "hover-effect",
+    "icon",
+    "payment",
+    "interactive",
+    "call-to-action"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1250,
+      "sha256": "49ca7b8ed13f43441b82c7237640e0b867bd6380baf6138569ae445e74271987"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1377,
+      "sha256": "dd92a0443660a849c186f186ba1f2d580d80d2dca124db82d78355d86d5872c9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2242,
+      "sha256": "4c917ef00dbca84da79548e12fdef1e5c512b25e29a356243731cd3c83395661"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02966",
+  "title": "Restaurant & Brasserie Landing Page Template",
+  "summary": "A modern restaurant and brasserie landing page template to showcase your menu, reviews, hours, and location with a warm, welcoming brand presence.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Restaurant",
+    "Brasserie",
+    "Local Business",
+    "Single Page"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3716,
+      "sha256": "8e0bea0daf5f16a3160b2f241741620e4b87320f5f6774a2f593994a8b40d63b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 43688,
+      "sha256": "e3532047f1bee055973dd9228ea96ff6e69d13e377cde47a00cb13a9a63c2411"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 824,
+      "sha256": "80f3be8aaf46fd0b9e9da436f390318b7f9e84b43c59bb90297fcf88beb253c1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 23884,
+      "sha256": "b9a9de0faa51bd5cbd53cc199392b47ead82b65af9c2c12dcc7d25c0911d57a5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "about",
+    "menu-list",
+    "testimonials",
+    "services",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "SN-W03139",
+  "title": "Travel Agency Landing Page Template",
+  "summary": "A modern travel agency landing page template for showcasing curated destinations, sustainable trips, and capturing leads via WhatsApp and on-site forms.",
+  "tags": [
+    "Travel",
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Animated",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3636,
+      "sha256": "ae338cf187a58028fae0b5baa252aaa9e00af4308c575e1dfaf8e5cb2f15b4fc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 32342,
+      "sha256": "ca0ce9b5d2413b5429fb8e32d2698071c1b8f64f02d04d42907939bb27a2fbba"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1067,
+      "sha256": "90280bea859a9a114c8219abf6572e216e4810bb52a8607075c348802ac1fd9e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 383,
+      "sha256": "d597bebd6b3e334e962ba4feb12a6aecabeef6615eecf16b149256bb75078402"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 281,
+      "sha256": "673a6ced6e59a320ae00e07e78bd26d92ded2e806e0afee2e4315d3965abe9a9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34886,
+      "sha256": "93b9f51823c5067096d8e0cdb71961c0ec7285fd1273e4c6bfb3b6b733905d35"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "listings",
+    "features",
+    "testimonials",
+    "footer",
+    "contact-form"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

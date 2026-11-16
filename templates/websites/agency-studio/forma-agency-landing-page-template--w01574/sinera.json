@@ -1,0 +1,69 @@
+{
+  "id": "SN-W01574",
+  "title": "Forma Agency Landing Page Template",
+  "summary": "A high-end, brutalist-inspired digital agency template designed for professional service firms, consultancies, and creative studios.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Portfolio",
+    "Brand",
+    "Clean",
+    "Brutal",
+    "Dark",
+    "Minimal",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3341,
+      "sha256": "e0ceb8652c2675b9d72684da0a2c493973260f9fe63deabf5659b376fdf71400"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11890,
+      "sha256": "375a6efe2fd052598e6cbfd47e07e60f014fcc739979c81c562077131c02e41a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "fe3cc099e66fd6d7db62baca27980901205837f88dcc6583911391c81aff95db"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35238,
+      "sha256": "1a90d6070c3770b648c089185b504f3979761a8f243a5dfae21f55a35bc0a7cf"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "cta",
+    "features",
+    "stats",
+    "logo-cloud",
+    "team"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

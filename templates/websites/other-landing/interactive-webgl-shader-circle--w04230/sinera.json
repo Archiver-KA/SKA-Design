@@ -1,0 +1,56 @@
+{
+  "id": "SN-W04230",
+  "title": "Interactive WebGL Shader Circle",
+  "summary": "Renders an animated multilayered thin circle with dynamic shader effects on a fullscreen WebGL canvas.",
+  "tags": [
+    "WebGL",
+    "Shader",
+    "Canvas",
+    "Animation",
+    "GLSL",
+    "FragmentShader"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2123,
+      "sha256": "5ca0e4d282bff78513bab3340761e7b57e7d04224f0fda7b891a9182f57acdee"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7322,
+      "sha256": "c7cf1108e982fd45fc7da6adfaab737fa304299e46cc8aa1e62c8cd7088f49db"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "474bb1c18dc80e2fd1452037b720ecccafe5c4190ce34170fb2bfda7b3273c6a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4754,
+      "sha256": "a210e6503acd99ee02a052c225425ea4d907696a2e4f2d9bedd24870f6779f5d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

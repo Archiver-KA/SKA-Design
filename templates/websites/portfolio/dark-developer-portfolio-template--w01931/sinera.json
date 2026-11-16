@@ -1,0 +1,70 @@
+{
+  "id": "SN-W01931",
+  "title": "Dark Developer Portfolio Template",
+  "summary": "A reusable portfolio template for developers and digital creators featuring an immersive intro, interactive sections, project case studies, and contact CTA.",
+  "tags": [
+    "Portfolio",
+    "Landing Page",
+    "Technology",
+    "Dark",
+    "Minimal",
+    "Animated",
+    "Futuristic",
+    "Personal Brand",
+    "Developer"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3186,
+      "sha256": "2378710b968f43c56b5b19bf01842d4d270362a1022bd4d78a4dcb2f45da5a67"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3534,
+      "sha256": "de6aa9ba114974c160a106e2cd0412ac5f7c750606c7ca0a1fb4f7d1b325c44b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 944,
+      "sha256": "42b1f91dbc2e6bce740042a47f1c47b5d6ffa4ece29ebd2c84ea0c841d30a158"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40723,
+      "sha256": "f5ede133d123c50899a43fa76c9b02ee58464f6e3f60432196913072e4548f30"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "awards-press",
+    "case-studies"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

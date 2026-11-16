@@ -1,0 +1,56 @@
+{
+  "id": "SN-W04191",
+  "title": "EDUIT Desk IT ",
+  "summary": "",
+  "tags": [],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3533,
+      "sha256": "36ee7c308d70a460a5fbdbefb165f532c68b17ca7d551b79843f894d50ce99ad"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8090,
+      "sha256": "e4746e2d5bcbdb8ea4499a8b9c78cbc3607c2c3d339ccb7c4e4398dd9bc13fae"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 791,
+      "sha256": "7bfced8eb23255d67a418826c862ed5527187ab09c139bea18622018b67f778e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41533,
+      "sha256": "6c79a20fafa173c85bc5bd0d241ae9112817d6bd2496f9efebe0bcac1826faec"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "dashboard-preview",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

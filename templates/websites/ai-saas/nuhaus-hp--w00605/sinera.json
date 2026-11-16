@@ -1,0 +1,63 @@
+{
+  "id": "SN-W00605",
+  "title": "Nuhaus HP",
+  "summary": "Immersive 3D architectural visualization template for showcasing luminous volumetric structures with interactive controls for floors, footprint, and lighting.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Art & Design",
+    "Dark",
+    "Futuristic",
+    "3D",
+    "Animated",
+    "Minimal",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3444,
+      "sha256": "5910bd0c64b1c358e324a694ad4bd33b1dedf66772a3dd1e666cc512309ec62c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5386,
+      "sha256": "2f21d91e3bf6adbaa79696ba5a99e7f5775b5f12845286ccaa5fc4763e0d9c01"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 703,
+      "sha256": "ecd7111fc8f8629b8002c41d9f65b47c98435390db218a841c9044043a71707f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36478,
+      "sha256": "f2cad5614762493a0fe93cf15cad90386ddb70e4b1a60732b1507d1972492d8f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "product-grid",
+    "about",
+    "navbar"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

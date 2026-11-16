@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00767",
+  "title": "Glassmorphic Feature Card with Image & Tags",
+  "summary": "Tailwind CSS card using glassmorphism, gradient borders and blurred backdrop. Includes icon header, hero image, description, pill tags and CTA link. Fits landing pages, dashboards or product showcase sections and scales responsively.",
+  "tags": [
+    "card",
+    "glassmorphism",
+    "tailwind",
+    "responsive",
+    "feature",
+    "gradient",
+    "badge",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8890,
+      "sha256": "26d00c341898dcef9cdac292fa799387c5906138d7cedd6be265edd956ea6cbe"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4111,
+      "sha256": "531f88f9f848519d1562708f852a2672e28e4af135e52dc374ce2f4cd06368ae"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4979,
+      "sha256": "604154b26177371b1a2487e896a7fb913f61d254337f2bb86331acf1feb2225a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "SN-W02009",
+  "title": "Events á la Jesz Weddingplanning Landing Page Template",
+  "summary": "A customizable landing page template designed for wedding planning and event rentals, ideal for showcasing services, portfolio, and customer testimonials.",
+  "tags": [
+    "Landing Page",
+    "Weddingplanning",
+    "Event Rentals",
+    "Portfolio",
+    "Testimonials",
+    "Contact Form",
+    "Styling",
+    "Services",
+    "Hero",
+    "CTA"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3853,
+      "sha256": "033aa0642d715ad04280c53c671ce3e2b28158245a194ae7117e5020fb617f54"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8622,
+      "sha256": "496dc8a365f8828be9017eba719a5eda1cdd6a99f345cf52fd3a5e8886ff4558"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 743,
+      "sha256": "f4206b767b6e02b5facf10c2f09c27c690388bad8220694e32c19a471061780a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30082,
+      "sha256": "13cebf548a874e04a7e5234693fc10c877cd60e2b24c912c65314537a2cb24a3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "gallery-portfolio",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

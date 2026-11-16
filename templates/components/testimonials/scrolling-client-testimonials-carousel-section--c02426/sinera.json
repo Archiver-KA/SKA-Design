@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02426",
+  "title": "Scrolling Client Testimonials Carousel Section",
+  "summary": "Full-width testimonial section featuring an auto-scrolling horizontal carousel of client review cards with images, ratings, and dates. Uses Tailwind-style utility classes, giant background heading text, and hover-pause animation for showcasing social proof.",
+  "tags": [
+    "testimonial",
+    "section",
+    "carousel",
+    "reviews",
+    "animated",
+    "responsive",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 17060,
+      "sha256": "de1cfa07c5543cfb4d344f2af6e6f7b86b81c3f4e392b9f4b8f4bf3807db7143"
+    },
+    {
+      "path": "component.html",
+      "bytes": 14875,
+      "sha256": "924e860ef7e1a1f63e86c8205a6f9995b707433f80bc27177710ff7a70a8f5e6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15742,
+      "sha256": "38a30eec23537c0541bbae82183217372e45cf91fb387a68ee7e9decf138d52b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

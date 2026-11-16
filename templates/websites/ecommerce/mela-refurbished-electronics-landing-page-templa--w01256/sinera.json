@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01256",
+  "title": "MELA Refurbished Electronics Landing Page Template",
+  "summary": "A sleek, premium e-commerce template designed for certified refurbished Apple products with integrated cart functionality and minimalist product grids.",
+  "tags": [
+    "E-commerce",
+    "Technology",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3519,
+      "sha256": "10bbb0e8e5de51be7c279b4fedfc2ea91294e5f98cec4cebbc0d97432126683b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16492,
+      "sha256": "1e983524cb6d3f6d0a4c097f55b7d506577b3fb0dbf6c0d3aee2804185612765"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 740,
+      "sha256": "4f330b23f7520f5f1748b42aa44ced758b7a93047850bc9097773ad801bee304"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30823,
+      "sha256": "5e177d8cb837f692e67f63125e78ddd810007ed55155175dea6b9d8efc72886f"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "cta",
+    "features",
+    "newsletter",
+    "footer",
+    "modal-overlay",
+    "sidebar"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

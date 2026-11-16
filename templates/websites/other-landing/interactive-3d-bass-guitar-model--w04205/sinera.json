@@ -1,0 +1,59 @@
+{
+  "id": "SN-W04205",
+  "title": "Interactive 3D Bass Guitar Model",
+  "summary": "3D bass guitar with realistic textures and lighting; click strings to play notes using WebGL and audio synthesis.",
+  "tags": [
+    "3D Model",
+    "WebGL",
+    "Three.js",
+    "Interactive UI",
+    "Audio Synthesis",
+    "Instrument Simulation",
+    "Tailwind CSS"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2633,
+      "sha256": "a6f6dfa982d8bca425f66d353d3f2de6c74766b9cffd12bc27eae4ddee5a9548"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4128,
+      "sha256": "3849483376d525fb2cdfc997c5ef92557d41c2db4a404bc1ed7900336f297473"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 726,
+      "sha256": "ea283bc304f49865aa3ef647c4d083da5e239b20229e8da905e1159cb5f04e09"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15264,
+      "sha256": "31baf38570c5ee2f160a3188e244f21ae1df57150ed48d3f79566986e8f2da17"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

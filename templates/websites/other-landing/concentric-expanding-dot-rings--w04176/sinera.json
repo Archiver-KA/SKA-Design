@@ -1,0 +1,61 @@
+{
+  "id": "SN-W04176",
+  "title": "Concentric Expanding Dot Rings",
+  "summary": "Creates animated concentric rings of dots that expand and contract with staggered timing on a dark background.",
+  "tags": [
+    "Animation",
+    "Concentric Rings",
+    "Dots",
+    "JavaScript",
+    "CSS",
+    "TailwindCSS"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2036,
+      "sha256": "d75685bb7c935813548fbe55d0856f2da0640c22ce5d47b0bd2e60e5517a98cf"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5078,
+      "sha256": "7d4ab4cd005b2f273a648341b817054c763a9f5e8b37b0d81e7b8ca2d871135a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 806,
+      "sha256": "22dd2a47990223934a7bfe2a8a8ef2cd04f59eeb72a29d9a8ab43c3a46c58d38"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2332,
+      "sha256": "3f752f272fbcea1ad6ebc25437eda33664b308a8e54dfeaa9738c982f0df796b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [],
+  "quality": {
+    "status": "needs-review",
+    "issues": [
+      "blank-render"
+    ],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "snippetType": "other",
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03328",
+  "title": "Property Maintenance Landing Page Template",
+  "summary": "A modern, brand-forward landing page template for property maintenance and renovation service companies to showcase services, accreditations, and contact details.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Colorful",
+    "Large Type",
+    "Property Maintenance",
+    "Renovation",
+    "Home Services",
+    "Contractor"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3485,
+      "sha256": "29473278b829da4c72a2786f577a1857f62b824a8ce2c7db3350a7b0287e4ca4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12954,
+      "sha256": "1e93da26fdc0ba78c43ef1d1074fd24823b65d5f738758a40fecd8273ef6889e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 732,
+      "sha256": "ba701c8363309437fc7f89dc1108059c8a587aa0115003d604b1ecabaeefc383"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21089,
+      "sha256": "cd0a4a97f4e0be9f9e53900fc823ef7f394a976898d47e70b9d2682cf8d821e7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "services",
+    "listings",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00307",
+  "title": "Agent Profile Card",
+  "summary": "Profile card component with user image, overlay effects, and profile information. Features smooth hover animations and professional styling.",
+  "tags": [
+    "card",
+    "profile",
+    "avatar",
+    "agent",
+    "overlay",
+    "hover-effects"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 13066,
+      "sha256": "bfd17e5be8ec8a4380054e4a6e3a7a03e159c75abc02f6720af02f328dc11a9e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1523,
+      "sha256": "76b568ce890ffd5a3138fcd4fb67fc531fe8841bdff87bf8d555c3b262e037ef"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2362,
+      "sha256": "d72320227a18e77e1e4fee00f3749723d9cc1036acce281314eb44e0b98f3524"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

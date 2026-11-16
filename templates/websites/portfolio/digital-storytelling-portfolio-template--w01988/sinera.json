@@ -1,0 +1,74 @@
+{
+  "id": "SN-W01988",
+  "title": "Digital Storytelling Portfolio Template",
+  "summary": "A dark, motion-led digital storytelling portfolio template for creative directors and designers to showcase selected work, process, and services.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Clean",
+    "Technology",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3684,
+      "sha256": "f36e4c50dd9d325b90d1bd78bab556327f5230f47c6d46a3cab091902a72b6dc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22596,
+      "sha256": "273a1f4d73468779364026d5be30a0210aa53e314e3d3fdad745c12be8730e4e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 867,
+      "sha256": "41ce37b0acf918e31d62ea9239b38d10422f38747f7ac3d3df7e34d8bb5fcc00"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "ad1cfa7a2926f1ded0ddf3f9cbb3077358ff3abff7d7895e921c42b480e9e549"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30854,
+      "sha256": "4775f40f15f6af6287781ddc1e23d5e498e84a794f057b45c5d8e7f1f2c12d59"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "bento-grid",
+    "case-studies",
+    "how-it-works",
+    "about",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

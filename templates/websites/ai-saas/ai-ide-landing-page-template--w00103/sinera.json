@@ -1,0 +1,68 @@
+{
+  "id": "SN-W00103",
+  "title": "AI IDE Landing Page Template",
+  "summary": "A dark, futuristic landing page template for promoting an open-source AI-powered IDE or developer tool, ready to customize for your own product launch.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Developer Tools",
+    "Open Source"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3929,
+      "sha256": "e4f1fa6bd9ef57192f66e29ac201d525bd6cabab0ee730bff37fa704ff78ff46"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11086,
+      "sha256": "1fbac1c4adf041e7352a35b7b6263438fb27e4da68cc9cdb4c630d28ca6305db"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 722,
+      "sha256": "4ba754e09852a104228667297ff4403c0441bef379ae2194a7ddf50ef473aeca"
+    },
+    {
+      "path": "index.html",
+      "bytes": 31529,
+      "sha256": "214495615381af67aa39782dd639a690a79f1b66eee0ecfa49fde009b0ad14b5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "navbar",
+    "hero",
+    "features",
+    "how-it-works",
+    "comparison",
+    "code-terminal",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

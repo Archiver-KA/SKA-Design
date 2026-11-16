@@ -1,0 +1,70 @@
+{
+  "id": "SN-W01702",
+  "title": "Software Development Agency Landing Page Template",
+  "summary": "A premium dark-mode landing page template for software development agencies to showcase services, case studies, and book high-value client consultations.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Agency",
+    "Software Development"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3862,
+      "sha256": "13bdea4c9c5f49d82b14b7e9c2c3557bbd3485f845b0b6e9e7f19d29a99629e3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18010,
+      "sha256": "81c555e4d44dfc9d1fd32eb9d9e89ec28226f02ef0ebe092e9354ac92b48862e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 743,
+      "sha256": "b523c0fd316f63c9332dc3d0428d910b5103c0acf0ff69b8445790f7be0101d4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39808,
+      "sha256": "c8cd9bea3b2d05cc7ac44acbe097ce505d08f74f31a9e549b0501b10358394c3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "features",
+    "how-it-works",
+    "logo-cloud",
+    "testimonials",
+    "faq",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

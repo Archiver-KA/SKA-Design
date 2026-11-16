@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00578",
+  "title": "Gradient Yield Comparison Card with Action Icons",
+  "summary": "Frosted glass card comparing bank vs market APY through gradient bars, numeric values, title and text, plus four circular icon buttons. Uses Tailwind CSS, responsive grid, shadows and blur for glassmorphism. Perfect for fintech dashboards or hero feature sections.",
+  "tags": [
+    "card",
+    "comparison",
+    "tailwind",
+    "glassmorphism",
+    "dashboard",
+    "finance",
+    "responsive",
+    "bar-chart"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9118,
+      "sha256": "429079432792aa1751d7b345e0e89f860a4a13e529b04f1f5eeb8a63a50213ff"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6591,
+      "sha256": "2a4d726ec4c7b088b2a68fb3e1d962baf855459a430b11752f1d2a5649e4ded1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7590,
+      "sha256": "78696f3d11abde44e5989816323dbaf5383365dcb03c0913764572512620a5c5"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00683",
+  "title": "Animated Features Section with Icons (Tailwind)",
+  "summary": "Responsive grid section showcasing up to three feature cards with icons, headings, and descriptions. Tailwind CSS styling, glassmorphism backdrop, and fade-slide scroll animations make it ideal for landing pages or “Why Choose Us” highlights.",
+  "tags": [
+    "section",
+    "features",
+    "icons",
+    "tailwind",
+    "glassmorphism",
+    "animated",
+    "responsive",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20942,
+      "sha256": "143436718208874e2ffc0d205fd3a7ed7105d63aee710fdc6fc2dbf765bd3c49"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5058,
+      "sha256": "c2f8cec98f9e5c0e1141f614345a5384fd49a37ee5dd296341d238544ae5958f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5926,
+      "sha256": "03f08611eac2e14e17131611027464f5dbf2fe408f2e4b0f05c0753215e518cc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

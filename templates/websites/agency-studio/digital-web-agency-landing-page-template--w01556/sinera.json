@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01556",
+  "title": "Digital Web Agency Landing Page Template",
+  "summary": "A modern template for a digital product and web app agency landing page, showcasing services, case studies, and CTAs ready for customization.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Grid",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3648,
+      "sha256": "ff0ae6dc46e9290f938c7ae0db0a2ca068f86cf0d45d28ee360915a24f6e31a9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19634,
+      "sha256": "54b9a072e5c811539ee98951d9d2ac87638a4b67ced1fadfaf4b04a6a3f3cbe0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "a5424dfb27ed7ee2f904b103b5d54965731c1d8465067edc5ed1bdd12d41370c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29092,
+      "sha256": "e84fa8d66f4c06139adaf0852b9f6a9a9a656946dc36e71360ff6e949ef10d8d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "bento-grid",
+    "blog-articles",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

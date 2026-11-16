@@ -1,0 +1,68 @@
+{
+  "id": "SN-W00163",
+  "title": "AI Support ChatFlow Landing Page Template",
+  "summary": "This is a reusable landing page template designed for AI-powered WhatsApp support platforms to automate customer service with human-like precision.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "Features",
+    "Integrations",
+    "Pricing",
+    "FAQ",
+    "CTA",
+    "Testimonials",
+    "AI Support",
+    "WhatsApp"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3801,
+      "sha256": "aeaafc5938792951055d6d0c173e77b820a414694808513f27c012768334cf4a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 23874,
+      "sha256": "e4a9dddebb02dcb67d7a45cc3f36306c2de254424aa1454da4190bee9c215bae"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "0c12dda2ddfe0158be80bc862ebe799c36033cd7a1e2ca2726561ffba2a651fe"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36574,
+      "sha256": "3cf0aa3d4bb2f4a3183c219c77e15f0dd664da6736d77f4d15bed48a6e31f31a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "bento-grid",
+    "integrations",
+    "faq",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02061",
+  "title": "Pricing Mode Toggle Button Group",
+  "summary": "Inline pair of rounded buttons styled with Tailwind CSS allowing users to switch between fixed-price and retainer payment options; ideal for pricing tables, checkout flows, or quote builders.",
+  "tags": [
+    "toggle",
+    "button group",
+    "pricing",
+    "tailwind",
+    "inline",
+    "selectable",
+    "ui",
+    "payment"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1400,
+      "sha256": "1540fb9568b7ae48f6498386fef5a168733fd0e9a4c077ef69771456788b99b3"
+    },
+    {
+      "path": "component.html",
+      "bytes": 482,
+      "sha256": "cb881a068226d56ae987afebf3b8a9471bde3c28b98803aa685d4aa233543c92"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1335,
+      "sha256": "805c4780ea6c2429b2c7e645d1df2d5936c2ad82082b2d030eb129a290168104"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

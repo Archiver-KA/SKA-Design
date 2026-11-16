@@ -1,0 +1,31 @@
+<svg class="w-full h-full overflow-visible" viewBox="400 80 480 320" preserveAspectRatio="xMidYMid meet">
+              <!-- Connecting Lines -->
+              <path d="M485,175 Q600,100 780,300" fill="none" stroke="currentColor" stroke-width="1.5" stroke-dasharray="6 6" class="text-brand-gray/30"></path>
+              <line x1="470" y1="180" x2="485" y2="175" stroke="currentColor" stroke-width="1.5" class="text-brand-gray/30"></line>
+
+              <!-- Madrid -->
+              <g class="group">
+                <circle cx="470" cy="180" r="4" class="fill-brand-lime"></circle>
+                <circle cx="470" cy="180" r="12" class="stroke-brand-lime/30 fill-none animate-ping" style="animation-duration: 3s"></circle>
+                <text x="470" y="215" text-anchor="middle" class="text-[14px] fill-brand-gray font-mono uppercase tracking-widest font-medium opacity-80">
+                  Madrid
+                </text>
+              </g>
+
+              <!-- Milan -->
+              <g class="group">
+                <circle cx="485" cy="175" r="4" class="fill-brand-lime"></circle>
+                <text x="485" y="145" text-anchor="middle" class="text-[14px] fill-brand-gray font-mono uppercase tracking-widest font-medium opacity-80">
+                  Milan
+                </text>
+              </g>
+
+              <!-- Singapore -->
+              <g class="group">
+                <circle cx="780" cy="300" r="4" class="fill-brand-blue"></circle>
+                <circle cx="780" cy="300" r="12" class="stroke-brand-blue/30 fill-none animate-ping" style="animation-duration: 3s; animation-delay: 1.5s"></circle>
+                <text x="780" y="335" text-anchor="middle" class="text-[14px] fill-brand-gray font-mono uppercase tracking-widest font-medium opacity-80">
+                  Singapore
+                </text>
+              </g>
+            </svg>

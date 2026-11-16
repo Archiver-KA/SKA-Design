@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00051",
+  "title": "Animated Call-to-Action Button with Hover Lift",
+  "summary": "Interactive CTA button that elevates on hover and presses on click using inline CSS transitions and shadow effects. Ideal for portfolios, landing pages, or any interface needing a standout action trigger.",
+  "tags": [
+    "button",
+    "animated",
+    "cta",
+    "hover",
+    "interactive",
+    "css",
+    "shadow",
+    "portfolio"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4020,
+      "sha256": "5cd4d25c7c9f8c33981b6edaed32cc9a8195251e4879dc9d6305b418a45f260a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 752,
+      "sha256": "c0d648a9280bd2914713af94afdbff7485ff562f7711178be48c56383657c9a9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1619,
+      "sha256": "c73ae13f07fecce713a93bacb5036710d15952b5490e6801ba1646e72116ad67"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

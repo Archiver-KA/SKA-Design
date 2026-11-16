@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01688",
+  "title": "Initials Avatar Badge",
+  "summary": "Small square badge displaying user initials with orange theme, rounded corners, ring outline, and shadow. Uses Tailwind-style utility classes and serves as a placeholder avatar in user lists, comments, or profile sections.",
+  "tags": [
+    "avatar",
+    "badge",
+    "initials",
+    "tailwind",
+    "placeholder",
+    "user-icon",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1530,
+      "sha256": "9beb4b911041d50f3f39f3bb0d45ebfe50cb60a6d019b9307ccc043d524eb9ca"
+    },
+    {
+      "path": "component.html",
+      "bytes": 212,
+      "sha256": "36bf614f2344adb4702e89164408be32fda23b79c43807f4ab383ea1e4c2738e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1054,
+      "sha256": "e3ce8bbe40569c7c6930016762363c91c84bd343eaf0716b6ff80c4ac853efc5"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

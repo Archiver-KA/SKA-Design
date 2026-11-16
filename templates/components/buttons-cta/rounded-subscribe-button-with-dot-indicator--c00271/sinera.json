@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00271",
+  "title": "Rounded Subscribe Button with Dot Indicator",
+  "summary": "Pill-shaped CTA button styled with Tailwind CSS. Displays 'Subscribe' text alongside a small status dot, includes hover color transition. Ideal for newsletter sign-ups or similar subscription prompts in responsive UIs.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "rounded",
+    "interactive",
+    "hover",
+    "subscribe"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1472,
+      "sha256": "8245586a3d0bc20511e3d9feae572e598cc22fbf32adf20fe1df8c260da5c133"
+    },
+    {
+      "path": "component.html",
+      "bytes": 388,
+      "sha256": "da463b1016f024a24f382d8ee4c7954dcdb036fda3d1a0aeff3c1cd017a44695"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1252,
+      "sha256": "2aa9125ef9ab4b1478c51b6f1521eac02101a7d60cdcf077163e259d2b464ea8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "SN-W03751",
+  "title": "Visual Studio & Film Production Template",
+  "summary": "A high-end, dark-themed cinematic production studio template designed to showcase professional films, campaigns, and creative visual stories.",
+  "tags": [
+    "Technology",
+    "Portfolio",
+    "Art & Design",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Landing Page",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3490,
+      "sha256": "1dce266371f4f15618d722f10b77dffe929d60bbce6be2251c99524766bb1351"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14446,
+      "sha256": "2d3861795f14b4ed63b698073dd4a53d3d72d70f75ee732ce296dbab90d6d417"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1071,
+      "sha256": "3aab36d6a2eae44850f596e317898d41a65c665e6581a31d455c29ef504fb642"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 251,
+      "sha256": "3087c720caf76ce18ca843d449c4c7d48088ab739bb0ad3197692d4eb5892986"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 263,
+      "sha256": "340310d2b00df0392e80a42d5a63847328f4da14f93cfa4d9a21843bb7661590"
+    },
+    {
+      "path": "index.html",
+      "bytes": 44498,
+      "sha256": "09900ac94312726e1f85815be8f242f58cc2282f3f96e63b8aa285c9d586b866"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "team",
+    "case-studies",
+    "bento-grid",
+    "how-it-works",
+    "testimonials",
+    "pricing",
+    "faq",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

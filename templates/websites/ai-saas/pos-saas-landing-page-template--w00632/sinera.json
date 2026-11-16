@@ -1,0 +1,84 @@
+{
+  "id": "SN-W00632",
+  "title": "POS SaaS Landing Page Template",
+  "summary": "A futuristic POS SaaS landing page template for showcasing a retail marketing operating system with pricing, features, testimonials, and FAQs.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Futuristic",
+    "POS",
+    "SaaS"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3855,
+      "sha256": "db2aad233e2ddbe95024ca2847dea06ad89cc54378aaf6f81ce8695eef17cb54"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15280,
+      "sha256": "ef78a26abf8792807c4237e0330ca9abebc2e0f358ba2a67121575e8ef5e0fbc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1256,
+      "sha256": "6a3103f26e2839f63b80d9c94d59666c11d59a6ecd4c64ce76521d839ca7def8"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 254,
+      "sha256": "845a8c33647082b21c3db87d511ee26caa07aa7a2c9bf6b015aad47a996ab97f"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 685,
+      "sha256": "61f20480a4774a4d7b7bd1afb0533c69f2ac0b046aeab41cf23d1ed8bfff5169"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 489,
+      "sha256": "6fcee3cbfdeb95c0f6efabfbfe8e1d352a23edc357261ef01059511d40baf0f1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 46595,
+      "sha256": "f194aa114947ae1ad43dc263d98c1ff76d7866d9dcc54d2cf724a4bb597a5cce"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "features",
+    "testimonials",
+    "pricing",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

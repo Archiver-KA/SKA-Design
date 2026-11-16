@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01954",
+  "title": "Rounded Image with Border and Shadow",
+  "summary": "A responsive image component with rounded corners, colored border, and custom shadow effect. Perfect for featured images, gallery items, or content illustrations.",
+  "tags": [
+    "card",
+    "image",
+    "rounded",
+    "shadow",
+    "border",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 56556,
+      "sha256": "ac69498106cb0f0ad338c34d6bf81c39c8cb1fcf87a71e795fbf77a752b28fcb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 362,
+      "sha256": "a6b7dde1cd1096d5a946580d69b4e9378c9d3536a381805f355750cd0082e198"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1219,
+      "sha256": "2fb3d7e66a379b6b62e9108bd129be62a443c9c5755f525207daa6b0bfdf11c1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "SN-W00315",
+  "title": "Cyberpunk Technology Studio Landing Page Template",
+  "summary": "A futuristic, cyberpunk-inspired studio landing page template for showcasing advanced technology services, portfolios, and client testimonials.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Grid",
+    "Large Type",
+    "Portfolio",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3586,
+      "sha256": "ed6625120d34796c0c190cc57bafd5908c35bf079b96646e9d024af3ebe25b0c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15504,
+      "sha256": "a730406d106773023b248d264d1b32ad435fda6980bc8d2bd7530620e90a19aa"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1465,
+      "sha256": "3eefaf5a462f847f87e53bb61e039e57cb607aedaf61ab3b53e5498074c8c09e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 315,
+      "sha256": "bf67ed478028da6d9e3c8a9a22d0965c3849d206b22a95a98b467bfdf7c297ad"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 315,
+      "sha256": "8ad85536bcf0975c26a678523d400cade3bb2997ac4b1c68f6559f4860cb1148"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 502,
+      "sha256": "185ea9a25cd1c8dfb8d8672dd9598ab53d4e31c010504c067290c665c1295223"
+    },
+    {
+      "path": "index.html",
+      "bytes": 63568,
+      "sha256": "b15ad62a1aa566006acba274a4ddae221ffda92ce8b83d7e31186fd563f62730"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "gallery-portfolio",
+    "how-it-works",
+    "testimonials",
+    "blog-articles",
+    "newsletter",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

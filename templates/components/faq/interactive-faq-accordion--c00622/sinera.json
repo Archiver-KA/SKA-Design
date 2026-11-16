@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00622",
+  "title": "Interactive FAQ Accordion",
+  "summary": "Collapsible FAQ component with smooth animations and glassmorphism styling. Features toggle functionality for expanding/collapsing content sections.",
+  "tags": [
+    "faq",
+    "accordion",
+    "interactive",
+    "collapse",
+    "animation",
+    "support"
+  ],
+  "kind": "components",
+  "category": "faq",
+  "categoryLabel": "FAQ & accordions",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3962,
+      "sha256": "6c98d4e61d5052f82f28366d41bf9babc96dc1d85efb5429a1f4871374e52f83"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1539,
+      "sha256": "216255d9a47e6db8559e0ba46724bc52b06e89d88088d563b8336e9fabdf5a11"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2385,
+      "sha256": "7fd73fc521afecc0534a600e8e330fce81680d429f02293c263cfbd0c2863f97"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

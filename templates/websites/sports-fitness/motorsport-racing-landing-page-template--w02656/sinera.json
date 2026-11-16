@@ -1,0 +1,194 @@
+{
+  "id": "SN-W02656",
+  "title": "Motorsport Racing Landing Page Template",
+  "summary": "A high-impact landing page template for motorsport teams, racing programs, and performance brands to showcase results, culture, and recruitment.",
+  "tags": [
+    "Landing Page",
+    "Sports",
+    "Brand",
+    "Technology",
+    "Dark",
+    "Futuristic",
+    "Animated",
+    "Grid",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "react",
+  "entry": "package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2360,
+      "sha256": "7b5031ddeec09eef6a4c280cca2648d0f1cbee0b3819b07895f2285ad24a61aa"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7832,
+      "sha256": "0427a102866960314466f5fd3a589182343de693bc01cd8ec308db242131e43e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2187,
+      "sha256": "e51ab4852e18440bac43a13fefc7bcfa164c7af438e2bec4131cdf3724829489"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 199,
+      "sha256": "a9d17be3d7ea8008775b7c3d5942766a9d41cca8643b5b980151e6bf1d9eee77"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 191,
+      "sha256": "274d6e5023b7c50de4578cbe85f7342f2b55a673171f1eb5cef02c4da30ddc95"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 156,
+      "sha256": "6703a748e54ad6e74027cc49c368c7e1d7aee34d303b1ff9bd21c08ff0c9e94c"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 236,
+      "sha256": "9d0971d758c380b424e88ef9d5ca7c992161dc750c4eee86aea5946ef0c98c4c"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 433,
+      "sha256": "ffcf9a23a0f9f5dbef11abc4f5bf3412924874c9f4df24c95d4228d9eb07306f"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 195,
+      "sha256": "79c18f9871b7bf871ea40a76010bd41d89ff16719268f4104757d7300bb7a06d"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 234,
+      "sha256": "e6f6d1a829740d32bfa30c0f5d9ceb9e6fc0ff6dc47090f687d0c7972b4836eb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 782,
+      "sha256": "4bc03541569150f3443a61687807f653dfb10dd883fb34c083a7229289de9130"
+    },
+    {
+      "path": "package.json",
+      "bytes": 556,
+      "sha256": "6fd2d09c418b3bf41be0ad292c12109e58cd061fcd2773d110b83f19589e02ae"
+    },
+    {
+      "path": "postcss.config.js",
+      "bytes": 79,
+      "sha256": "010e8774c76996e28b1f2290d690b3b64f56f2fbe26c747b4419ee0110d0a002"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 3295,
+      "sha256": "3b6b5b01a6c1f6aa4ada6237684f429bd4a54e6c4256bf938e1cee1617551503"
+    },
+    {
+      "path": "src/components/About.jsx",
+      "bytes": 4132,
+      "sha256": "c9dcf4740e3276383d3c67883c1a88a21b33f0c514c32a2c11e88499810e52e2"
+    },
+    {
+      "path": "src/components/CTA.jsx",
+      "bytes": 3668,
+      "sha256": "54bc8819a73de1021c6faa1e5e9b8450fb0f3b07cb452401312c08bded1de22d"
+    },
+    {
+      "path": "src/components/FAQ.jsx",
+      "bytes": 2746,
+      "sha256": "4fd0951bf3e3bc77bccfeb28a63ef0e1892845fabf861f91e73c981c75128ee9"
+    },
+    {
+      "path": "src/components/Footer.jsx",
+      "bytes": 2542,
+      "sha256": "1c9d1780db25b66f60660e75a1587762364d59e9a93321bd3c98ef8722338450"
+    },
+    {
+      "path": "src/components/Goal.jsx",
+      "bytes": 1653,
+      "sha256": "4a48263f5222acf84421f9d77924c0fb8c9a44375cbd3dede56630a64129bf31"
+    },
+    {
+      "path": "src/components/GridOverlay.jsx",
+      "bytes": 2356,
+      "sha256": "a559edab8f6abaa868c5b5008efd68c84719a5a86ac49991031cc7dfb1a26865"
+    },
+    {
+      "path": "src/components/Header.jsx",
+      "bytes": 1759,
+      "sha256": "ee97d7f0b27842f5728d5cf5189f49804f3be276e24aa555f6ffc96025964f26"
+    },
+    {
+      "path": "src/components/Hero.jsx",
+      "bytes": 3014,
+      "sha256": "6d87fb0eaaa1394f32be8a067b7ee4464c43ca9c5e446a35b1c97a8a0262b037"
+    },
+    {
+      "path": "src/components/Preloader.jsx",
+      "bytes": 2636,
+      "sha256": "e615e68b8ce80b4b7a7d95421576dfbd54a4b8b7071351ff0f2e330651f61da7"
+    },
+    {
+      "path": "src/components/Showcase.jsx",
+      "bytes": 2391,
+      "sha256": "43a1527ef945e781f5b74337046a012ffee412bd77a7f017346cd479569688fa"
+    },
+    {
+      "path": "src/components/Stats.jsx",
+      "bytes": 4431,
+      "sha256": "c494ffba879c480c8c5f2a950ea551aa02709bf187022a8d8c698bfb4dc0e478"
+    },
+    {
+      "path": "src/components/Team.jsx",
+      "bytes": 3391,
+      "sha256": "fad38cf035d157fb4ebb6f0c89094662c09f6eb394d5c3e6a26b4cbd498e26ca"
+    },
+    {
+      "path": "src/components/Values.jsx",
+      "bytes": 3994,
+      "sha256": "5e74ac65358628f41d70c7c46df206b3da639a61f00f3c5edec25c1d5c1be9c9"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 21525,
+      "sha256": "cb7d46bbfca086121bac46241063be9f25132c231ff837f092eed58445edf8c8"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 256,
+      "sha256": "15e60f21ff6a7cedd9dc6aa2364ae2891f1b34cd865b9b94485f05480c5f8c1a"
+    },
+    {
+      "path": "tailwind.config.js",
+      "bytes": 181,
+      "sha256": "3dd3712212acbc67849a13a9f1401527495e09a1a12e1c417fac6b4ecf1fe6d4"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 132,
+      "sha256": "7679dd2d1d73606860bf36d711ad385a18cda4412d6e105062570af4454d6b58"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

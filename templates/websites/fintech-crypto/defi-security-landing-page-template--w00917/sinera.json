@@ -1,0 +1,77 @@
+{
+  "id": "SN-W00917",
+  "title": "DeFi Security Landing Page Template",
+  "summary": "A dark, futuristic DeFi security landing page template for promoting a Web3 wallet protection and smart contract auditing platform.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Gradient",
+    "DeFi",
+    "Web3",
+    "Security"
+  ],
+  "kind": "websites",
+  "category": "fintech-crypto",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3991,
+      "sha256": "e1a29ed25558eb3db4d55e4f2ac4a7e97ad5db21b8b7cebaec240964723e53ac"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17126,
+      "sha256": "cee99b7fcfe55212b2a838c1aff35f1f6c7625c06266763d05822f6ab7e36916"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 979,
+      "sha256": "7b871102a0bfabc3d5ed219b71d526c766f70ecc4bb5296823c010cc0636673e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "1d477c85a7ad0d3a741110a72123c23e8bdb35a659e27798b40c1804211d7d73"
+    },
+    {
+      "path": "index.html",
+      "bytes": 77114,
+      "sha256": "450f3b6257dc730bf0eb25d02563e8795c5ed2a735d316345dcc2078458879f8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "finance",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Finance",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "features",
+    "dashboard-preview",
+    "testimonials",
+    "stats",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

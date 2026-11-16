@@ -1,0 +1,71 @@
+{
+  "id": "SN-W01173",
+  "title": "Gaming E-commerce Landing Page Template",
+  "summary": "A dark, futuristic e-commerce landing page template for pro-grade gaming gear brands to showcase products, performance stats, and drive high-intent purchases.",
+  "tags": [
+    "E-commerce",
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Large Type",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3908,
+      "sha256": "386af37edae445c8b347509629c6d6b7e5ed7fd8138893c9f6beebbab21eaed4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15804,
+      "sha256": "c2601c29edbae989c18f6b4058d293a727d48bb04bc58f197bc4d4185d134a94"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 875,
+      "sha256": "b3ecc518ca814d285fa7f64b5387ef523a05066965738cdb2344892b7f14286b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1652,
+      "sha256": "dd728322f6cfdc88248a22d577ee0c830dd51ba1aaad3430af1a9b785d23e4d9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 45388,
+      "sha256": "2ff89c08711405ede2c6c557da9ad9badc8478d534c55fe3f9e784512136a32e"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "features",
+    "stats",
+    "product-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

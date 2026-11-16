@@ -1,0 +1,15 @@
+# Embedded images — SN-W01985
+
+- **Name:** Digital Obscura Visual Archive Template
+- **Collection:** Service / Portfolio
+- **Source code:** unchanged from the original export
+- **Source files scanned:** 1 (44630 bytes)
+- **Unique images extracted:** 1
+- **Total occurrences:** 1 (data:image: 1; inline SVG: 0)
+- **Image folder:** images/embedded/ (created when the template has inline images)
+
+Images referenced by external URL are not copied in this step; only image data embedded directly as data:image/* URIs and inline <svg>...</svg> elements is extracted.
+
+| Extracted file | Type | MIME | Bytes | SHA-256 | Location in the original source |
+|---|---|---|---:|---|---|
+| [embedded-0001.svg](images/embedded/embedded-0001.svg) | data-uri | image/svg+xml | 255 | `9c5328453024fb0f0d95b3cc31b5b67f1a720fd2de16a38048fd0c7ba113086c` | index.html:53:24 (data-uri) |

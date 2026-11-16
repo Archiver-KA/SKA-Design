@@ -1,0 +1,108 @@
+{
+  "id": "SN-W01949",
+  "title": "Designer Portfolio Template",
+  "summary": "A reusable portfolio template for UI/UX designers and creative developers to showcase work, services, testimonials, and attract new client projects.",
+  "tags": [
+    "Portfolio",
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Designer",
+    "UI UX",
+    "Creative"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3758,
+      "sha256": "0d5523c6c4ae05c5a7db7ec8064e505ba2e6ce5906014598d78f6c14bba794c8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18802,
+      "sha256": "d046d825132ab5b6ca51675182e16366fa39ac9218846a09748db1458a5775f8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2231,
+      "sha256": "c7906b208de09013632a65f6972ab770767b1f31d342537aad3c588876d77aa9"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 318,
+      "sha256": "01c14bfec202587d395b0fed6b8b5821313b1c632e76c5ae62ff546f4d44e7bb"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 312,
+      "sha256": "aa0813193696564f6869b210382e71d660426ac07d8d8ff8f70a41b1e10f9f7f"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 414,
+      "sha256": "5f1fb3ebd6573d6076df246043d10e445a7e635416294bfc43a70a422fae85e7"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 590,
+      "sha256": "03150a2e586260c8c6061fa9c1b6ee432554833d96b96ef2892fc01ec9dc2816"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 316,
+      "sha256": "ed4dc2d9d19fac670dd2c69a298e1f75e85f1c326fd587fa6f4f8b779c7a6378"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 330,
+      "sha256": "9dcf539b9ad061208a2f4a2bb297de08188479a5698eb77efee74cb73c411bb1"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 330,
+      "sha256": "4319c77a8bcaa4e2d93cfbb909fa228e81c369eab6a83112cf23dbc1f56b3bc8"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 280,
+      "sha256": "434450f3c9c460ecf46d5ca1bad7505c3da23f127008b6560f426609ce83a322"
+    },
+    {
+      "path": "index.html",
+      "bytes": 66786,
+      "sha256": "c9f3dce8ccd19d1af6255b8657c94096752aee8907073af3ba99370ac461420e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "case-studies",
+    "product-grid",
+    "team",
+    "logo-cloud",
+    "contact-form"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

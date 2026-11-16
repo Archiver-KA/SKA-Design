@@ -1,0 +1,75 @@
+{
+  "id": "SN-W02787",
+  "title": "Luxury Salon Landing Page Template",
+  "summary": "A dark, luxury salon landing page template for premium hair and beauty studios to showcase services, portfolio, pricing, and drive online bookings.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Fashion",
+    "Style",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "beauty-fashion",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3968,
+      "sha256": "2e874420822a7ada0a0ba0ff071020861307ebbf3056a2a184dbae7018e41a05"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 23436,
+      "sha256": "bfb7c3717b29a764833029a4925f0399e51d552caf3d567e6b950299622ab587"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 870,
+      "sha256": "770d8189cecf142b64cc61155953ce3a099b62e13d69f77587989836b187ace6"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "1d477c85a7ad0d3a741110a72123c23e8bdb35a659e27798b40c1804211d7d73"
+    },
+    {
+      "path": "index.html",
+      "bytes": 44991,
+      "sha256": "220cce8a08e992ac7e8ec9ffbc775e7b2838f8578bd4f56760bf8fa7112476a4"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "beauty",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Beauty / Fashion",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "team",
+    "services",
+    "about",
+    "gallery-portfolio",
+    "product-grid",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

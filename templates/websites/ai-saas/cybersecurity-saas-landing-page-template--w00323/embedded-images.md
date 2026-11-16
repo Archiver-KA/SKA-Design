@@ -1,0 +1,15 @@
+# Embedded images — SN-W00323
+
+- **Name:** Cybersecurity SaaS Landing Page Template
+- **Collection:** Service / Software / SaaS
+- **Source code:** unchanged from the original export
+- **Source files scanned:** 1 (25778 bytes)
+- **Unique images extracted:** 1
+- **Total occurrences:** 1 (data:image: 0; inline SVG: 1)
+- **Image folder:** images/embedded/ (created when the template has inline images)
+
+Images referenced by external URL are not copied in this step; only image data embedded directly as data:image/* URIs and inline <svg>...</svg> elements is extracted.
+
+| Extracted file | Type | MIME | Bytes | SHA-256 | Location in the original source |
+|---|---|---|---:|---|---|
+| [embedded-0001.svg](images/embedded/embedded-0001.svg) | inline-svg | image/svg+xml | 20224 | `12b57d105e15b9f72ea0ca6d9bbe24c0f7947ec05e5b911dc676c1ec0d12444f` | index.html:15:9 (inline-svg) |

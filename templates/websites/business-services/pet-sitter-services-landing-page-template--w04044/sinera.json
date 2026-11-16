@@ -1,0 +1,63 @@
+{
+  "id": "SN-W04044",
+  "title": "Pet Sitter Services Landing Page Template",
+  "summary": "A clean and warm landing page template for professional pet sitting and home care services, designed to build trust with pet owners.",
+  "tags": [
+    "Services",
+    "Health",
+    "Clean",
+    "Minimal",
+    "Noto Serif JP",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3534,
+      "sha256": "4e94b70ba20f41984497c16eddc0cd0019b1be4def1cc56ee0a3d620bd32259c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13626,
+      "sha256": "3a1d3db5ab5626178dc14f6b9860e63f8bfa8efb36fc93bfe1568196cb3f5bfb"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "19dddd35dfaf161d03cdda0c2015716e8093793d2e0a7cdebf934e785b989e82"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29815,
+      "sha256": "4d46a5b98d63ce15252350588c2ec0294dc0b74823141c5c5fcb2fe976e614fb"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "services",
+    "case-studies",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

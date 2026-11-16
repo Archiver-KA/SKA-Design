@@ -1,0 +1,69 @@
+{
+  "id": "SN-W01319",
+  "title": "Skincare E-commerce Landing Page Template",
+  "summary": "A refined skincare e-commerce landing page template for highlighting hero products, showcasing benefits, and driving serum or beauty product sales.",
+  "tags": [
+    "E-commerce",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Beauty",
+    "Skincare",
+    "Product Detail",
+    "Conversion-focused"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3801,
+      "sha256": "ac6500e78bbfaae4ea189ab48b0af308673947f35d97fdfdc3e829b28ada20e7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13472,
+      "sha256": "8aa3b482f70be576de6f7604a1316e10e251a88525f46b22f5f051ead9efcd0a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 814,
+      "sha256": "f7b5182d4187d15a23180a0956ffde1c35947a834c8431b348e28329eeb3408f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25740,
+      "sha256": "eba7b58f963eb898302168b016056118ede4a90028246a1f556f8476504d4fb2"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "product-grid",
+    "bento-grid",
+    "features"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

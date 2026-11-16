@@ -1,0 +1,71 @@
+{
+  "id": "SN-W01721",
+  "title": "Video Marketing Agency Landing Page Template",
+  "summary": "A reusable landing page template for video marketing agencies serving creators and brands with case studies, services, testimonials, FAQs, and conversion-focused CTAs.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Portfolio",
+    "Clean",
+    "Minimal",
+    "Animated",
+    "Brand",
+    "video marketing",
+    "agency"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3645,
+      "sha256": "b8a0222b5dc75fb274c1a39d0b6325edbebd3e76b1f6660dfd432190a5ebb1c4"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 30681,
+      "sha256": "97852ed521762331b809409edcda3af1ab7835f7f12482ac10e99cb3fbddaaf1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "0211bfe0bbd990896765e5fc639e42f3baec0ff3768f25c47c0ebb681aa41e13"
+    },
+    {
+      "path": "index.html",
+      "bytes": 75510,
+      "sha256": "273bd81bf6be07604c682eb80c71c344457185b71aa801100163e691fb6479cd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "timeline",
+    "video-media",
+    "bento-grid",
+    "how-it-works",
+    "testimonials",
+    "cta",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "SN-W01667",
+  "title": "Positiv Digital Agency Landing Page Template",
+  "summary": "A futuristic Positiv digital agency landing page template for showcasing services, portfolio, pricing, and brand presence with immersive animations.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Services",
+    "Technology",
+    "Art & Design",
+    "Portfolio",
+    "Animated",
+    "Dark",
+    "Gradient",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3947,
+      "sha256": "f84cdff3e567575acd960d6ebd16d4a3a479da52fa3605105f21b620fe138fec"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11038,
+      "sha256": "d7a8e133543049828de6c281f35723b13db7338b18ee048cdba25ff2d3fb033c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 962,
+      "sha256": "a3659834d850b6013bebb40fbb3b1cabeba407443af01ae1ac492c27db029e6c"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "6aa1562b840baf5b873d52f0e98a51536b39a766195d8901bb8f38ed30f383c8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 93632,
+      "sha256": "fa9be0edddfd322fc44f8ddd5e601736a5edd84e7e672d71a2d9af84dac367a3"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "services",
+    "stats",
+    "bento-grid",
+    "marquee",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

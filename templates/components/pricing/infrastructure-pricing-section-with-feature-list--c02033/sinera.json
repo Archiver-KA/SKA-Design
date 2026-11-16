@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02033",
+  "title": "Infrastructure Pricing Section with Feature List",
+  "summary": "A Tailwind CSS pricing section for infrastructure services featuring a billing toggle, introductory feature highlights, and two plan cards with actions and included features. Ideal for SaaS, cloud, or enterprise product landing pages.",
+  "tags": [
+    "pricing",
+    "section",
+    "tailwind",
+    "responsive",
+    "toggle",
+    "saas",
+    "cards"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26332,
+      "sha256": "28ed10128f793820bdcf7f19f0ddaa07464a100766593f9b9200dacc1199c811"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10829,
+      "sha256": "6843744dfe558741066ee802b9e694a124e33cd9243255a305a6a48649e9378a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11698,
+      "sha256": "026dc9644a8ea764b2506c93d127d25863b3e8523b938a5fa4996bb1bd48dcee"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

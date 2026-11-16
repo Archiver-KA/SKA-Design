@@ -1,0 +1,62 @@
+{
+  "id": "SN-W00815",
+  "title": "VOX Speech-to-Text Studio Template",
+  "summary": "A high-performance AI transcription dashboard template designed for real-time audio processing and local LLM inference monitoring.",
+  "tags": [
+    "Technology",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Landing Page",
+    "Services",
+    "3D"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3324,
+      "sha256": "80de767ce57b82158c081a23752c539e9d6cd1f14e302685cff848da0e9337b2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15766,
+      "sha256": "5ef2a886b6b6d2c142c99627c13310af1b0cd4b136f7e49d17345a3fdb712af2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "98f336f16d9413a0aaf1c2e0b0691a5d22151b014961a872c6b126b1922998dd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30932,
+      "sha256": "0af84efbbbbb0fa9886814e5e84b9a725c93ac55b7b7e90e65771d6131015b58"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "sidebar",
+    "navbar",
+    "cta",
+    "dashboard-preview",
+    "how-it-works"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

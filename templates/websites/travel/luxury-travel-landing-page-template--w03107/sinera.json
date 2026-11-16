@@ -1,0 +1,70 @@
+{
+  "id": "SN-W03107",
+  "title": "Luxury Travel Landing Page Template",
+  "summary": "A premium luxury travel landing page template with 3D globe interactions, ideal for concierge agencies and high-end travel brands.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Futuristic",
+    "Large Type",
+    "Minimal"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3599,
+      "sha256": "8c516d8d9fbbc1f35fb7268ea764cb835393a7ba1645a4ea422f5a3b79e95d30"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9198,
+      "sha256": "3bf38de066c75beda2b6ab3097f62b6e35db989ee25a49a90cce4020f0ffb02a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 954,
+      "sha256": "16e910e40e5bb9ccfdee07f776c4c19fd0ca6366b33bf096bf300b1a621d716b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 426,
+      "sha256": "a3a52bb65e2a7bc837e580b0b12231f105d2800ed00b9a6187f484e2cca60ac1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22501,
+      "sha256": "c1828112430faa8fe354964cc285f5c380e91c03fda95332367a256477b7868c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "navbar",
+    "hero",
+    "product-grid"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

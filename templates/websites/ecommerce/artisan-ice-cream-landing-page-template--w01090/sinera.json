@@ -1,0 +1,63 @@
+{
+  "id": "SN-W01090",
+  "title": "Artisan Ice Cream Landing Page Template",
+  "summary": "A reusable artisan ice cream shop landing page template to showcase flavors, share your story, and guide visitors to nearby scoop shop locations.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Brand",
+    "Clean",
+    "Colorful",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "E-commerce"
+  ],
+  "kind": "websites",
+  "category": "ecommerce",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3543,
+      "sha256": "dfaf36e794083674465660723b4ceef069fbbcc47597917fca73d386a5db16b8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 28774,
+      "sha256": "6e3ddfed7a895a238d16cc988b9a69af06ad3e764f899a6e428c8e4d5bc835e7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "c1b4b54be1409aa48697cc953e159b8904565990b7e09e6a5aa967b6f2af1105"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18322,
+      "sha256": "99755101aeed954a8d31d56b5ec4b066a97566f763bcee6d4adf20465506089e"
+    }
+  ],
+  "collection": "commerce",
+  "collectionCategory": "ecommerce",
+  "collectionLabel": "Commerce",
+  "collectionCategoryLabel": "E-commerce",
+  "collectionConfidence": 0.98,
+  "collectionBasis": "source-category",
+  "theme": "market",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

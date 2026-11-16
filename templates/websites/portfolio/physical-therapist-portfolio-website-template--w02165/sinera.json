@@ -1,0 +1,68 @@
+{
+  "id": "SN-W02165",
+  "title": "Physical Therapist Portfolio Website Template",
+  "summary": "A modern, clean portfolio website template for doctors of physical therapy to showcase experience, research, skills, and consultations.",
+  "tags": [
+    "Health",
+    "Portfolio",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Landing Page",
+    "Medical",
+    "Personal Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3598,
+      "sha256": "152b4e4a11d27ccdeaaeae9af3c88435e409bbacfcef97a1f01a3b0567e7972a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21410,
+      "sha256": "1bb5d6492fcfcdd2f097457b0b6e9830996e3330089c862b99c7613dcb040834"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "ee7ed1fed066e304369714dbcc7086fefbd072d4ea0bcbd65ab8528e145029a0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30876,
+      "sha256": "c138145b863026dfa1040465fce2a0c4ef639a3b84aa4f5dd4bd85511bc7289f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "timeline",
+    "bento-grid",
+    "services",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

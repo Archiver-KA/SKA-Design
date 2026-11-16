@@ -1,0 +1,64 @@
+{
+  "id": "SN-W01681",
+  "title": "RIVVA Agency Landing Page Template",
+  "summary": "A high-impact, minimalist creative agency template featuring bold typography and structured design for showcasing brand identity and UX/UI services.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Portfolio",
+    "Art & Design",
+    "Clean",
+    "Minimal",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3400,
+      "sha256": "c05ee65136e6f00961dcff4ce25a622cfc1c5ce217c30720a1ddd056b5de2533"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13814,
+      "sha256": "df4c3457e9eade5bd10bac497e480f804bfb1930e68c6834de4d92d1f754ae6a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "3de485a0277f1ef816611cb33c9b85b078bf1c4dea804edb5ca171e3057803f3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 42819,
+      "sha256": "95f2c46e130eb65657446c290ecc668baa0522ad3165b439b27e167e7eb8093e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "stats",
+    "case-studies",
+    "logo-cloud",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

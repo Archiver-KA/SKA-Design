@@ -1,0 +1,65 @@
+{
+  "id": "SN-W03426",
+  "title": "Coaching & Workshop Brand Template",
+  "summary": "A professional service-oriented website template designed for coaches, consultants, and workshop providers to showcase their expertise and manage bookings.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Business",
+    "Clean",
+    "Minimal",
+    "Portfolio",
+    "Education"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3669,
+      "sha256": "eed69677c3ee751819801135fe53968a28f9c10b2783e8bc5b9db8908f21438f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 22904,
+      "sha256": "f3baae67edd29263ed094f18f0d0e08f18bc0fe4166dd0e87522820fd431bd8f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 722,
+      "sha256": "385a31ad92bd2b2829a16ab50391d9d3be785c519a306e02ad2baf6a269a9c28"
+    },
+    {
+      "path": "index.html",
+      "bytes": 72333,
+      "sha256": "f26ce2c30295877e7f6761c421ead0dac23028cd37481c4562237d47a46d8fbd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "testimonials",
+    "newsletter",
+    "cta",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02410",
+  "title": "Glassmorphic Testimonial Card with Star Rating",
+  "summary": "Tailwind-styled testimonial card featuring 5-star rating, client quote, avatar, name, and role. Gradient glassmorphism background with hover transitions suits landing pages, SaaS sites, or review sections.",
+  "tags": [
+    "card",
+    "testimonial",
+    "review",
+    "star-rating",
+    "avatar",
+    "tailwind",
+    "glassmorphism",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "testimonials",
+  "categoryLabel": "Testimonials & customers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7962,
+      "sha256": "bbca9a9667e336f79ac712603020a65152f6040d794aa9c414bfce37c6512bd5"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3380,
+      "sha256": "350bf05ba005522ae512b4d8ca9ffc443e898f0a2743cba2f2426f4b591a9e80"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4247,
+      "sha256": "31e2d824fc11a52cc5756a11986adf883a316fe6b4b635866dd9e57cdb8b4498"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

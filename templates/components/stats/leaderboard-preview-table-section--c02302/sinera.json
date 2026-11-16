@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02302",
+  "title": "Leaderboard Preview Table Section",
+  "summary": "Dark-themed leaderboard section showing top performers by COSY score in a responsive, scrollable table. Uses Tailwind-style utility classes, hover states, and structured fund data, ideal for analytics dashboards or investment product pages.",
+  "tags": [
+    "section",
+    "feature",
+    "table",
+    "dashboard",
+    "data",
+    "responsive",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16058,
+      "sha256": "39648b785972413dd55a0397958471d9f25d02ca3be49f6387beac7d3402018b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5935,
+      "sha256": "320abd35fac44d525f270e828d01ae9d2a7a72dcb486fba4c20ca61cdc9ae0dd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6789,
+      "sha256": "57b6b5cbb71571749cd5afd7e241189018244a25f348c4b391fc9629cab8c896"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

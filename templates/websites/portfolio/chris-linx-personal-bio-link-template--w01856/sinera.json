@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01856",
+  "title": "Chris Linx Personal Bio Link Template",
+  "summary": "A clean and minimal Link Tree style template for creators and entrepreneurs to showcase social links, portfolio items, and integrated newsletters.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Minimal",
+    "Clean",
+    "Technology",
+    "Graphic Design",
+    "Style",
+    "Blog"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3373,
+      "sha256": "167eea560b6604f212142fb77a3a91dc6ca00bd79bd4e97480bfe3b0e171180b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 6282,
+      "sha256": "a18c6d15c1225616fa7104c8ca7043a456de0704be5221cc3f70368b91870d6b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 870,
+      "sha256": "e5f3e558f7c0a73877aa2575a1f3416bb123b6253a5c462833801b6909fa8e2f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 365,
+      "sha256": "1b9acda85ed64d5c4832f62d5cdd0ddb9ebdea73e7638b66e8f57ced91c50bae"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20879,
+      "sha256": "07d752cd49f51b58c261c41e481f4f6210540813f4800ffa1128faf6bc3049cc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

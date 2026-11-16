@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01909",
+  "title": "Image Grid Item",
+  "summary": "A grid-compatible image component with consistent aspect ratio. Perfect for creating photo galleries, product grids, or masonry layouts with uniform sizing.",
+  "tags": [
+    "card",
+    "grid",
+    "responsive",
+    "square",
+    "minimal"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 24236,
+      "sha256": "93c06fe569b13c1ba0f995e7ddfb5d531dc2113ad3f0be11e3bb200b30d71838"
+    },
+    {
+      "path": "component.html",
+      "bytes": 247,
+      "sha256": "8411abef245b8737b4bbe41d6ac90ac1bf2608c48e5c9c7b233b34f141e2f6cf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1083,
+      "sha256": "80f52b7e97040eba472b06d14e663155087f26cd9851f8e0638788376398bfb7"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

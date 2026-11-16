@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00346",
+  "title": "Difficulty Level Card with Hover Effects",
+  "summary": "Tailwind-styled card showcasing course difficulty. Features image background, translucent badge, heading, dot indicator, hover border glow, and responsive rounded layout—ideal for e-learning dashboards or catalog listings.",
+  "tags": [
+    "card",
+    "tailwind",
+    "responsive",
+    "hover",
+    "badge",
+    "background-image",
+    "e-learning"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 15606,
+      "sha256": "b653ff2adbc8d8c23937d538317f708d57e11e6465b0731c21db25c17a3684d0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1397,
+      "sha256": "0630a006c46118f50ef475de5c21cb5ee2db97471a44fa789667fc2c639bae05"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2258,
+      "sha256": "b5f3343ad28604b2204b2c3bd25a3e8cab7f323745fed17807c7fc326fbcce5c"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

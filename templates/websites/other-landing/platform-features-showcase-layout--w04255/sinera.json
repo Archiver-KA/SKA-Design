@@ -1,0 +1,78 @@
+{
+  "id": "SN-W04255",
+  "title": "Platform Features Showcase Layout",
+  "summary": "Responsive UI highlighting key platform features with animated meteor background and interactive feature cards using Tailwind CSS.",
+  "tags": [
+    "Feature Cards",
+    "Animation",
+    "Tailwind CSS",
+    "Responsive Design",
+    "UI Layout"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3177,
+      "sha256": "75227eb7e4c00362cd34d6ee1fc5cd9b698d27e0bcdf28ad8b04d09c769d6666"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18106,
+      "sha256": "51497f1a6b7a115e3db95448a87cd4388a714a055a75bbd92235712d61998ec4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1456,
+      "sha256": "0d87305ed07c43d86493e08b79cf9a1a51d9b00f3aa39413a8c0dc71fa1f64d0"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 259,
+      "sha256": "e68fe7486cde8b7a88e7efa4463caae159cb3d5aa004b8a6ac730f530393a632"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 333,
+      "sha256": "8543bf5e8742de3ffdb9309dc22aaf3df2818c8f9349744b0de3b225220340f0"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 429,
+      "sha256": "63d4623a057db459d6871b3897c4d43f1fc38fc3c7a480d156266d4bfa6e35f2"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 495,
+      "sha256": "b81e300cea9551555cc7db72e9a6110ab762c049871cc100b26c17cc23100b00"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7951,
+      "sha256": "d2cf859eed75c8d08a4fb60e8eb6416252c45d1872fb5c322e977acb67269261"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero",
+    "timeline"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

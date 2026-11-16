@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01366",
+  "title": "Gradient Hero Section with CTA and Stats",
+  "summary": "Full-width hero banner featuring background image, gradient overlays, headline, descriptive copy, call-to-action button, and metric cards with hover effects. Built with Tailwind CSS, perfect for landing pages, portfolios, and agency sites.",
+  "tags": [
+    "hero",
+    "banner",
+    "cta",
+    "stats",
+    "tailwind",
+    "gradient",
+    "responsive",
+    "landing-page"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 63198,
+      "sha256": "9313f8d30ee005c6253caed290db7d305f2a40e4c53429eb28d4ec2f9ea5bf2c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3378,
+      "sha256": "e1e1652eec6c28b829087f64d01a0cf90fd92f46df666eff1d23bd5ad298aadf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4369,
+      "sha256": "21bea841d580e5d5cd5a49788ad5c00f72bd563a7700aa23a2fc64294de8241a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

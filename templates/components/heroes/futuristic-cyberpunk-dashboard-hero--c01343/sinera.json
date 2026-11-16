@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01343",
+  "title": "Futuristic Cyberpunk Dashboard Hero",
+  "summary": "A high-fidelity terminal-style hero section featuring a WebGL dithered background, system monitoring metrics, an operator profile, and network node management. Designed for infrastructure or tech-heavy landing pages with a dark, cyan-accented cyberpunk aesthetic.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "animated",
+    "dashboard",
+    "cyberpunk",
+    "webgl",
+    "dark-mode"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16166,
+      "sha256": "1e5927fa102d7f1ad1a0e646a83a4fbd6ff88d16b00f85de7743debc4abef857"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28880,
+      "sha256": "fe3d8525a3ef38b64526e1474a745b7ba939b728eb580c115a080f398d8533de"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03822",
+  "title": "Auto servis 2",
+  "summary": "Dark, high-impact autoservis website template for professional car repair garages to showcase services, pricing, team, and bookings in a modern landing page layout.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Automotive",
+    "Garage",
+    "Autoservis"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3670,
+      "sha256": "ef4e3e098dad975f0a76be76f45c7b046c7a42bf693b436be882ebdf64a748ed"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5698,
+      "sha256": "afd6b2a2e21bebd001b985b08b9391dd06ed23f4e681dfc7287d4bb469e24343"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 708,
+      "sha256": "115a4939fe612e7cdf73987daa1c64d80f8d8c3cc821c31678291ed93b966275"
+    },
+    {
+      "path": "index.html",
+      "bytes": 49292,
+      "sha256": "11761fe3c9ca9b9b9cd54a0eafaee05436bf1b139f13f4073e621c775939cb46"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "cta",
+    "marquee",
+    "bento-grid",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

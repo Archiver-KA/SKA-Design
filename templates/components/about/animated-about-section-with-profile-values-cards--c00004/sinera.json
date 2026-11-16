@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00004",
+  "title": "Animated About Section with Profile & Values Cards",
+  "summary": "Responsive Tailwind CSS section for personal portfolios featuring a profile image, story text, and animated value cards. Includes grid layout, blur/gradient accents, and subtle entrance animations—ideal for “About Me” or company story pages.",
+  "tags": [
+    "about-section",
+    "portfolio",
+    "tailwind",
+    "animated",
+    "profile",
+    "responsive",
+    "grid",
+    "blur-effect"
+  ],
+  "kind": "components",
+  "category": "about",
+  "categoryLabel": "About & team",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 27440,
+      "sha256": "f9c5e5943023b204d0096e2a59cf1aa6782a3df5482db3409f6f95fa58f0a103"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7491,
+      "sha256": "31a8625bc7b17842ab5873d7f67f62a5b0d9ee49a05573f213e44320f5eec408"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8366,
+      "sha256": "d5c3ecf8ac3c67878777e93d5281011f5dc9f0af41c43e0c5a9d553d8f711da8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

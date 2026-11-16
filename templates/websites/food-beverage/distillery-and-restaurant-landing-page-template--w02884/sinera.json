@@ -1,0 +1,68 @@
+{
+  "id": "SN-W02884",
+  "title": "Distillery & Restaurant Landing Page Template",
+  "summary": "A premium dark-style landing page template for distilleries, craft cocktail bars, and restaurants to showcase spirits, menus, and reservations.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Services",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Distillery",
+    "Restaurant"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3640,
+      "sha256": "796060da94748ad9d5eade9629cf3463072a7c67e6d270d1888417b0aa98a9bb"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16470,
+      "sha256": "e797adaff7aa5b7f0328875ca3e06360d0abefa5c401a9ddf466c73316dca673"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 742,
+      "sha256": "8a1a67e1a36a0e35c0d246d8fe9278ddbe393f27eea80ac246e1fe1aec37bde5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34911,
+      "sha256": "10a7f006e88638e1d2188d2cb8d27584827b5e2c5772258de0d5b59aa243590b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "awards-press",
+    "about",
+    "menu-list",
+    "product-grid",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

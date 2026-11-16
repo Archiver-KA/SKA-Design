@@ -1,0 +1,55 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none z-10 overflow-visible">
+                    <defs>
+                        <!-- Gradient for the path trail -->
+                        <linearGradient id="routeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+                            <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.1" />
+                            <stop offset="50%" stop-color="#D4AF37" stop-opacity="1" />
+                            <stop offset="100%" stop-color="#D4AF37" stop-opacity="0.1" />
+                        </linearGradient>
+                        <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+                            <feGaussianBlur stdDeviation="4" result="blur" />
+                            <feComposite in="SourceGraphic" in2="blur" operator="over" />
+                        </filter>
+                    </defs>
+
+                    <!-- The Route Path (Curved) -->
+                    <!-- Coordinates based on 10% left/20% top to 90% left/80% bottom -->
+                    <!-- Using percentage based coordinates approximation for SVG -->
+                    <path id="busRoute" 
+                          d="M 60,120 Q 250,120 280,250 T 500,400" 
+                          fill="none" 
+                          stroke="url(#routeGradient)" 
+                          stroke-width="3" 
+                          stroke-linecap="round"
+                          stroke-dasharray="10 10"
+                          filter="url(#glow)"
+                          class="opacity-60"
+                          transform="scale(1,1)"
+                    />
+
+                    <!-- The Moving Bus Object -->
+                    <g>
+                        <!-- Animated Circle moving along path -->
+                        <circle r="8" fill="#000" stroke="#D4AF37" stroke-width="2">
+                             <animateMotion dur="6s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
+                                <mpath href="#busRoute" />
+                             </animateMotion>
+                        </circle>
+                        <!-- Glow effect for bus -->
+                        <circle r="16" fill="#D4AF37" fill-opacity="0.2">
+                             <animateMotion dur="6s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
+                                <mpath href="#busRoute" />
+                             </animateMotion>
+                             <animate attributeName="r" values="12;20;12" dur="2s" repeatCount="indefinite" />
+                        </circle>
+                        <!-- Floating Label for Bus (Counter rotated via group logic or simple offset) -->
+                         <foreignObject width="100" height="40" x="-50" y="-50">
+                             <div class="w-full h-full flex items-center justify-center">
+                                 <animateMotion dur="6s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
+                                    <mpath href="#busRoute" />
+                                 </animateMotion>
+                                 <div class="px-2 py-0.5 bg-brand-500 text-[8px] font-bold text-black rounded shadow-lg floating-marker">BUS 104</div>
+                             </div>
+                         </foreignObject>
+                    </g>
+                </svg>

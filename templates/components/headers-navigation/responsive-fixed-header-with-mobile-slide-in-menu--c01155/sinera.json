@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01155",
+  "title": "Responsive Fixed Header with Mobile Slide-in Menu",
+  "summary": "Full-width top navigation bar featuring desktop links, sign-in button, and a hamburger-triggered slide-in mobile menu with overlay. Includes gradient blur backdrop and smooth open/close animations. Built with Tailwind CSS and vanilla JS for dynamic toggling.",
+  "tags": [
+    "header",
+    "navbar",
+    "responsive",
+    "mobile menu",
+    "tailwind",
+    "javascript",
+    "slide-in",
+    "fixed"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2956,
+      "sha256": "4264f4bffb0c49f02dd8a797ca1fb68e066863dc95800c61080e4b10fb243177"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8455,
+      "sha256": "21fd1cedbf2c1ad8eab7da1f361ef9f53e9e5b385fae440ee377d87ce823e2fa"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9325,
+      "sha256": "6a0987313fd7c338d04a79f58e9cb634c02f86379b8866e4e267f842ba9fd3c4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

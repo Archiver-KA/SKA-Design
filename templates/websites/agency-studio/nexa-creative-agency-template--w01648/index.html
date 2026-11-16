@@ -1,0 +1,157 @@
+<!doctype html><html lang="en" data-theme="workshop"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>NEXA Creative Agency</title><meta name="description" content="NEXA is a creative studio for brand identity, websites and motion video. Send a brief and hear back within 48 hours.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>tailwind.config={theme:{extend:{colors:{ground:'#121212',surface:'#1C1C1C',ink:'#F2F0EB',muted:'#A8A49D',line:'#2A2A2A',accent:'#C6F135',accent2:'#FF5C39'},fontFamily:{display:['"Bricolage Grotesque"','system-ui','sans-serif'],body:['Inter','system-ui','sans-serif']},borderRadius:{DEFAULT:'0px',md:'0px',lg:'0px'}}}}</script>
+<style>
+[data-theme="workshop"]{--sa-ground:#121212;--sa-surface:#1C1C1C;--sa-ink:#F2F0EB;--sa-muted:#A8A49D;--sa-line:#2A2A2A;--sa-accent:#C6F135;--sa-on-accent:#121212;--sa-accent-2:#FF5C39;--sa-on-accent-2:#121212;--sa-font-display:"Bricolage Grotesque",system-ui,sans-serif;--sa-font-body:"Inter",system-ui,sans-serif;--sa-radius-control:0px;--sa-radius-card:0px;--sa-display-case:none;color-scheme:dark;background:var(--sa-ground);color:var(--sa-ink);font-family:var(--sa-font-body)}
+*,*::before,*::after{box-sizing:border-box;border-radius:0}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--sa-ground);color:var(--sa-ink);font-family:var(--sa-font-body);line-height:1.6;overflow-x:hidden;-webkit-font-smoothing:antialiased}
+h1,h2,h3,h4{font-family:var(--sa-font-display);margin:0;line-height:1.02;letter-spacing:-.02em;font-weight:800;text-wrap:balance}
+p{margin:0;text-wrap:pretty}
+a{color:inherit}
+img,svg{max-width:100%}
+.wrap{max-width:1240px;margin:0 auto;padding:0 20px}
+@media(min-width:768px){.wrap{padding:0 40px}}
+.muted{color:var(--sa-muted)}
+.acc{color:var(--sa-accent)}.acc2{color:var(--sa-accent-2)}
+.eyebrow{font:600 12px/1 var(--sa-font-body);letter-spacing:.14em;text-transform:uppercase;color:var(--sa-muted);display:flex;align-items:center;gap:10px}
+.eyebrow::before{content:"";width:22px;height:2px;background:var(--sa-accent-2)}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:48px;padding:0 24px;font:600 15px var(--sa-font-body);text-decoration:none;border:1.5px solid var(--sa-ink);background:transparent;color:var(--sa-ink);cursor:pointer;transition:background .2s,color .2s,border-color .2s}
+.btn:hover{background:var(--sa-ink);color:var(--sa-ground)}
+.btn-p{background:var(--sa-accent);color:var(--sa-on-accent);border-color:var(--sa-accent)}
+.btn-p:hover{background:var(--sa-ink);border-color:var(--sa-ink);color:var(--sa-ground)}
+:focus-visible{outline:3px solid var(--sa-accent-2);outline-offset:3px}
+.nav{position:sticky;top:0;z-index:50;background:var(--sa-ground);border-bottom:1px solid var(--sa-line)}
+.nav .in{display:flex;align-items:center;justify-content:space-between;min-height:64px;gap:16px}
+.logo{font:800 22px var(--sa-font-display);letter-spacing:-.03em;text-decoration:none;display:flex;align-items:center;gap:8px;min-height:44px}
+.logo i{width:12px;height:12px;background:var(--sa-accent);display:block}
+.links{display:none;gap:28px;align-items:center}
+.links a{text-decoration:none;font-size:14px;font-weight:500;color:var(--sa-muted);min-height:44px;display:inline-flex;align-items:center}
+.links a:hover{color:var(--sa-ink)}
+.burger{width:48px;height:48px;border:1.5px solid var(--sa-line);background:transparent;color:var(--sa-ink);display:inline-flex;align-items:center;justify-content:center;cursor:pointer}
+.mnav{display:none;border-top:1px solid var(--sa-line);padding:8px 20px 20px}
+.mnav.open{display:block}
+.mnav a{display:flex;align-items:center;min-height:52px;border-bottom:1px solid var(--sa-line);text-decoration:none;font:700 20px var(--sa-font-display)}
+@media(min-width:900px){.links{display:flex}.burger,.mnav{display:none!important}}
+section{padding:72px 0}
+@media(min-width:900px){section{padding:112px 0}}
+.rule{border-top:1px solid var(--sa-line)}
+.h2{font-size:clamp(34px,5.5vw,68px)}
+.ph{background:repeating-linear-gradient(135deg,#1C1C1C 0 14px,#212121 14px 28px);border:1px solid var(--sa-line);display:flex;align-items:flex-end;padding:12px;color:var(--sa-muted);font:500 12px var(--sa-font-body);letter-spacing:.04em}
+details{border-top:1px solid var(--sa-line)}
+details:last-of-type{border-bottom:1px solid var(--sa-line)}
+summary{list-style:none;cursor:pointer;min-height:64px;display:flex;align-items:center;justify-content:space-between;gap:16px;font:700 clamp(18px,2.4vw,24px) var(--sa-font-display);letter-spacing:-.01em;padding:12px 0}
+summary::-webkit-details-marker{display:none}
+summary::after{content:"+";font:500 28px var(--sa-font-body);color:var(--sa-accent);flex:none;width:32px;text-align:center}
+details[open] summary::after{content:"\2212"}
+details p{padding:0 48px 24px 0;color:var(--sa-muted);max-width:62ch}
+.foot{border-top:1px solid var(--sa-line);padding:40px 0;font-size:14px;color:var(--sa-muted)}
+.foot .in{display:flex;flex-wrap:wrap;gap:20px 40px;justify-content:space-between}
+.foot a{display:inline-flex;min-height:44px;align-items:center;text-decoration:none}
+.foot a:hover{color:var(--sa-ink)}
+label{display:block;font:600 13px var(--sa-font-body);margin-bottom:8px}
+input,textarea,select{width:100%;min-height:48px;background:var(--sa-surface);border:1.5px solid #4a4a4a;color:var(--sa-ink);font:400 16px var(--sa-font-body);padding:12px 14px}
+input::placeholder,textarea::placeholder{color:#8f8b85}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important;scroll-behavior:auto!important}}
+</style></head><body id="top">
+<header class="nav"><div class="wrap"><div class="in"><a class="logo" href="#top"><i></i>NEXA</a><nav class="links" aria-label="Main navigation">
+<a href="#dich-vu">Services</a>
+<a href="#du-an">Work</a>
+<a href="#quy-trinh">Process</a>
+<a href="#faq">FAQ</a>
+<a class="btn btn-p" style="color:#121212;min-height:44px;padding:0 18px" href="#brief">Send a brief</a></nav><button class="burger" id="burger" aria-label="Open menu" aria-expanded="false" aria-controls="mnav"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 7h18M3 12h18M3 17h18"/></svg></button></div></div><div class="mnav" id="mnav">
+<a href="#dich-vu">Services</a>
+<a href="#du-an">Work</a>
+<a href="#quy-trinh">Process</a>
+<a href="#faq">FAQ</a>
+<a href="#brief" style="color:var(--sa-accent)">Send a brief</a></div></header>
+<main>
+<section style="padding:0;overflow:hidden;position:relative">
+<style>
+.wm{font:800 clamp(120px,36vw,520px)/.78 var(--sa-font-display);letter-spacing:-.06em;color:transparent;-webkit-text-stroke:1.5px #3d3d3d;margin:0;white-space:nowrap;user-select:none;pointer-events:none}
+.hero2{display:grid;gap:40px;padding:56px 0 24px}
+@media(min-width:960px){.hero2{grid-template-columns:7fr 5fr;gap:72px;padding:88px 0 40px}}
+.formbox{background:var(--sa-surface);border:1px solid var(--sa-line);border-top:4px solid var(--sa-accent);padding:28px}
+.fr{margin-bottom:18px}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chips input{position:absolute;opacity:0;width:1px;min-height:0;height:1px}
+.chips label{margin:0;display:inline-flex;align-items:center;min-height:44px;padding:0 16px;border:1.5px solid #4a4a4a;font-weight:500;cursor:pointer}
+.chips input:checked+label{background:var(--sa-ink);color:var(--sa-ground);border-color:var(--sa-ink)}
+.chips input:focus-visible+label{outline:3px solid var(--sa-accent-2);outline-offset:2px}
+</style>
+<div class="wrap"><div class="hero2">
+<div><p class="eyebrow">NEXA · Brand and creative studio</p>
+<h1 style="font-size:clamp(42px,7.4vw,104px);margin:28px 0 28px">Tell us about your project.<br><span class="acc">Hear back in 48 hours.</span></h1>
+<p style="font-size:19px;max-width:48ch" class="muted">NEXA builds brand identities, websites and motion content for businesses that want to stand apart from their competitors. Write a few lines about what you need and a real person at the studio will read it and reply.</p>
+<p style="margin-top:28px;font-size:14px" class="muted">Or reach us directly: [YOUR PHONE] · [STUDIO EMAIL]</p></div>
+<form class="formbox" id="brief" onsubmit="event.preventDefault();this.querySelector('.ok').hidden=false;" aria-label="Brief form">
+<h2 style="font-size:28px;margin-bottom:22px">Send a brief</h2>
+<div class="fr"><label for="n">Your name</label><input id="n" name="n" autocomplete="name" required></div>
+<div class="fr"><label for="e">Email</label><input id="e" name="e" type="email" autocomplete="email" required placeholder="name@company.com"></div>
+<fieldset style="border:0;padding:0;margin:0 0 18px"><legend style="font:600 13px var(--sa-font-body);margin-bottom:8px;padding:0">What do you need?</legend>
+<div class="chips"><input type="checkbox" id="c1" name="c" value="brand"><label for="c1">Branding</label><input type="checkbox" id="c2" name="c" value="web"><label for="c2">Website</label><input type="checkbox" id="c3" name="c" value="motion"><label for="c3">Video, motion</label><input type="checkbox" id="c4" name="c" value="other"><label for="c4">Not sure yet</label></div></fieldset>
+<div class="fr"><label for="m">Short project description</label><textarea id="m" name="m" rows="4" placeholder="Who you are, what you want to achieve, when you need it done"></textarea></div>
+<button class="btn btn-p" style="width:100%" type="submit">Send your brief to NEXA</button>
+<p class="ok" hidden style="margin-top:14px;color:var(--sa-accent)" role="status">Received (preview only, nothing was sent). Connect this form to the studio inbox.</p>
+</form></div></div>
+<div class="wrap" aria-hidden="true"><p class="wm">NEXA</p></div>
+</section>
+
+<section id="dich-vu" class="rule">
+<div class="wrap">
+<h2 class="h2" style="max-width:14ch;margin-bottom:56px">We take on three kinds of work.</h2>
+<style>.svc{display:grid;grid-template-columns:1fr;border-top:1px solid var(--sa-line)}
+.svc>div{padding:32px 0;border-bottom:1px solid var(--sa-line);display:grid;gap:12px}
+.svc h3{font-size:34px}.svc ul{margin:0;padding:0;list-style:none;color:var(--sa-muted);display:grid;gap:6px}
+.svc li::before{content:"/ ";color:var(--sa-accent-2)}
+@media(min-width:900px){.svc>div{grid-template-columns:80px 4fr 5fr 3fr;align-items:start;gap:32px;padding:44px 0}.svc .no{color:var(--sa-muted);font-weight:600}}</style>
+<div class="svc">
+<div><span class="no muted">01</span><h3>Brand</h3><p class="muted">From naming and logo to the guidelines you use every day. You get files that work for print and for screen.</p><ul><li>Positioning strategy</li><li>Logo, colour, type</li><li>Brand guidelines</li></ul></div>
+<div><span class="no muted">02</span><h3>Website</h3><p class="muted">Design and build of company websites that load fast and that you can update yourself.</p><ul><li>Interface design</li><li>Development, optimisation</li><li>Admin training</li></ul></div>
+<div><span class="no muted">03</span><h3>Motion</h3><p class="muted">Intro videos, short ads and logo animations, kept consistent across social media.</p><ul><li>Script, storyboard</li><li>Editing, motion graphics</li><li>Cut-downs for each platform</li></ul></div>
+</div></div></section>
+
+<section id="du-an" class="rule" style="background:var(--sa-surface)">
+<div class="wrap">
+<div style="display:flex;justify-content:space-between;align-items:end;flex-wrap:wrap;gap:16px;margin-bottom:36px"><h2 class="h2">Selected work</h2><p class="muted">[REPLACE WITH YOUR STUDIO PROJECTS]</p></div>
+<style>.wk{display:grid;gap:16px}@media(min-width:900px){.wk{grid-template-columns:7fr 5fr;grid-auto-rows:minmax(0,auto)}.wk .tall{grid-row:span 2}}.wk figure{margin:0;display:grid;gap:10px}.wk figcaption{display:flex;justify-content:space-between;font-size:14px}.wk .ph{background:repeating-linear-gradient(135deg,#171717 0 14px,#1d1d1d 14px 28px)}</style>
+<div class="wk">
+<figure class="tall"><div class="ph" style="min-height:300px;height:100%">Brand identity image, 4:5</div><figcaption><b>[CLIENT NAME]</b><span class="muted">Brand</span></figcaption></figure>
+<figure><div class="ph" style="aspect-ratio:16/10">Website image, 16:10</div><figcaption><b>[CLIENT NAME]</b><span class="muted">Website</span></figcaption></figure>
+<figure><div class="ph" style="aspect-ratio:16/10">Video frame, 16:10</div><figcaption><b>[CLIENT NAME]</b><span class="muted">Motion</span></figcaption></figure>
+</div></div></section>
+
+<section id="quy-trinh" class="rule">
+<div class="wrap">
+<style>.tl{display:grid;gap:0;counter-reset:s}.tl>div{display:grid;align-content:start;grid-template-columns:56px 1fr;gap:16px;padding:26px 0;border-top:1px solid var(--sa-line)}.tl>div::before{counter-increment:s;content:counter(s,decimal-leading-zero);font:800 28px var(--sa-font-display);color:var(--sa-accent-2)}.tl h3{font-size:24px;margin-bottom:6px}
+@media(min-width:900px){.tl{grid-template-columns:repeat(4,1fr);gap:32px}.tl>div{grid-template-columns:1fr;border-top:2px solid var(--sa-ink);padding-top:20px}}</style>
+<h2 class="h2" style="margin-bottom:48px">What happens after you hit send</h2>
+<div class="tl">
+<div><div><h3>We read your brief</h3><p class="muted">You get a reply within 48 working hours, with clarifying questions if we need them.</p></div></div>
+<div><div><h3>A 30-minute call</h3><p class="muted">We talk through goals, deadline and [BUDGET]. Free, no strings attached.</p></div></div>
+<div><div><h3>Proposal and quote</h3><p class="muted">Scope, milestones and price [YOUR PRICE] on a single page.</p></div></div>
+<div><div><h3>We get to work</h3><p class="muted">You get one point of contact and a work-in-progress review every week.</p></div></div>
+</div></div></section>
+
+<section id="faq" class="rule">
+<div class="wrap" style="max-width:900px;margin:0 auto">
+<h2 class="h2" style="margin-bottom:40px">Frequently asked questions</h2>
+<details><summary>What is the minimum budget to work with NEXA?</summary><p>Packages start at [YOUR PRICE]. If your budget does not cover the scope you want, we will say so plainly and suggest how to phase the work.</p></details>
+<details><summary>Can I send a brief if I am not sure what I need?</summary><p>Yes. Tick "Not sure yet" and describe the problem you are facing. The first call will help us settle the scope.</p></details>
+<details><summary>Who will I work with?</summary><p>A project manager who handles communication and the lead designer on your project. You meet them on the first call.</p></details>
+<details><summary>Do I own the final work?</summary><p>Yes. Once you have paid in full, all source files and usage rights are yours, stated clearly in the contract.</p></details>
+</div></section>
+
+<section class="rule" style="padding-bottom:64px">
+<div class="wrap" style="display:flex;flex-wrap:wrap;gap:28px;justify-content:space-between;align-items:end">
+<h2 style="font-size:clamp(40px,8vw,112px);letter-spacing:-.045em;line-height:.92">Start with<br>a <span class="acc">brief.</span></h2>
+<a class="btn btn-p" href="#brief">Send your brief to NEXA</a></div></section>
+</main>
+<footer class="foot"><div class="wrap in"><span>© [YEAR] NEXA. [STUDIO ADDRESS]</span><span style="display:flex;gap:24px;flex-wrap:wrap"><a href="#">Instagram</a><a href="#">Behance</a><a href="#dich-vu">Services</a></span></div></footer>
+<script>
+(function(){var b=document.getElementById('burger'),m=document.getElementById('mnav');if(b&&m){b.addEventListener('click',function(){var o=m.classList.toggle('open');b.setAttribute('aria-expanded',o)});m.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){m.classList.remove('open');b.setAttribute('aria-expanded','false')})})}})();
+</script>
+</body></html>

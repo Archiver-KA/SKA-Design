@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00260",
+  "title": "Responsive CTA Banner with Email & Project Buttons",
+  "summary": "Tailwind-styled call-to-action section featuring a headline, sub-headline, and two rounded buttons: one opens an email link, the other starts a project. Flex layout adapts from column to row for seamless mobile-desktop responsiveness.",
+  "tags": [
+    "call-to-action",
+    "banner",
+    "button",
+    "contact",
+    "email",
+    "responsive",
+    "tailwind",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4166,
+      "sha256": "fa47aa124f65002eed4bf065c4ad1866385a6b1084b015cf232c84674f11bd37"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2030,
+      "sha256": "55c241b00dc7416c7cea3412039254946b5b694007a8a8ab5677b4fc9464c9f4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3035,
+      "sha256": "66202adf9ffe0cb68bc94844245a24f3d93997c1f82011958cd2440aca4abf5a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

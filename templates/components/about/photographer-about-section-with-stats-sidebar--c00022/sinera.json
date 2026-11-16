@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00022",
+  "title": "Photographer About Section with Stats Sidebar",
+  "summary": "Responsive Tailwind section showcasing an about story with hero image, rich text, and sidebar cards for stats, equipment, and recognition. Ideal for portfolio or personal sites needing a detailed profile spotlight.",
+  "tags": [
+    "section",
+    "about",
+    "profile",
+    "responsive",
+    "tailwind",
+    "portfolio"
+  ],
+  "kind": "components",
+  "category": "about",
+  "categoryLabel": "About & team",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 31410,
+      "sha256": "956e1dac7d5875036927cd9da564d0dc6357d7ac0d751cffe5790417c1d5a218"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7110,
+      "sha256": "27a9d2668df2dca7f111164746abdb4bce5ad170b36477e62c992f7743e6f464"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7976,
+      "sha256": "faa9cee66e7d784f9995559c1d26cf0d51e0f48f89fd49fdd2f325de00188f68"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

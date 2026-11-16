@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00283",
+  "title": "Shopify Buy Button Product Component",
+  "summary": "Embeds a Shopify Buy Button product widget with modal view, cart, and toggle, styled with custom fonts and responsive layout. Ideal for integrating a single product purchase flow into any webpage using Shopify’s Buy Button SDK.",
+  "tags": [
+    "button",
+    "ecommerce",
+    "shopify",
+    "widget",
+    "embedded",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5694,
+      "sha256": "71d654c0ceadff606eae1a8cae538e675c077a3e262e7cd34f07ad45c9dbc3fd"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2757,
+      "sha256": "2678b0fd77b67bfd66e582dda991ac30073d151b620f98f78b5fb7bba17043e6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3736,
+      "sha256": "dd4c99b60b6ba3555c77aaa4be0e2b48deac8a6d8a3f272bf3364236d2c48475"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

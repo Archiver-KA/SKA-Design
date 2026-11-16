@@ -1,0 +1,43 @@
+{
+  "id": "SN-C01939",
+  "title": "Profile Image Display Component",
+  "summary": "Simple image component rendering a full-width, full-height profile or portrait photo with object-cover styling, suitable for avatars, team profiles, and card headers in responsive layouts.",
+  "tags": [
+    "card",
+    "image",
+    "profile",
+    "responsive",
+    "avatar",
+    "media",
+    "css"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12518,
+      "sha256": "3714b5763da0a03e7306e8b06b9b5c157affbf9d5f0ef2f9b8d76855b0bb8c30"
+    },
+    {
+      "path": "component.html",
+      "bytes": 175,
+      "sha256": "86a5cb29c82f0e2c0eb81b418c4248ab32244fb7e202639c5f97c2751f643009"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1027,
+      "sha256": "e75ec3f303aca8858e22037f20072fc9ec2969cbb0da16411bf1a7743ce747d1"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

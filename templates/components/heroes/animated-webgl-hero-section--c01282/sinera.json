@@ -1,0 +1,38 @@
+{
+  "id": "SN-C01282",
+  "title": "Animated WebGL Hero Section",
+  "summary": "Full-screen Tailwind hero section with animated text reveals, gradient CTA, and an interactive Three.js shader background driven by mouse movement. Ideal for creative tools, design products, or portfolio landing pages.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "threejs",
+    "webgl",
+    "animated",
+    "interactive",
+    "landing-page"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19136,
+      "sha256": "17b26f795a59e7943e7728571ffe7672e5cad508a34a7370d9248dc40ed38a79"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7020,
+      "sha256": "61612b2d6ad716e90071c7abf4782ab71e9a39ae2b35c1e936c39c96f134bd2e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

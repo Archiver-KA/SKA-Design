@@ -1,0 +1,16 @@
+<svg viewBox="0 0 800 450" class="w-full h-full text-zinc-900" fill="none" stroke="currentColor" stroke-width="1.5">
+                             <!-- Outer Walls -->
+                             <rect x="100" y="100" width="400" height="250" stroke-width="2"></rect>
+                             <rect x="500" y="150" width="200" height="150" stroke-width="2"></rect>
+                             <!-- Interior Walls -->
+                             <line x1="250" y1="100" x2="250" y2="350"></line>
+                             <line x1="380" y1="100" x2="380" y2="350"></line>
+                             <line x1="500" y1="150" x2="500" y2="300"></line>
+                             <!-- Details -->
+                             <path d="M100 150 L50 150 L50 300 L100 300" stroke-dasharray="5,5"></path> <!-- Deck -->
+                             <circle cx="315" cy="225" r="30" class="text-zinc-200" fill="currentColor"></circle> <!-- Table -->
+                             <text x="120" y="330" class="text-xs uppercase tracking-widest fill-zinc-400 stroke-none" style="font-family: sans-serif;">Living</text>
+                             <text x="300" y="330" class="text-xs uppercase tracking-widest fill-zinc-400 stroke-none" style="font-family: sans-serif;">Dining</text>
+                             <text x="400" y="330" class="text-xs uppercase tracking-widest fill-zinc-400 stroke-none" style="font-family: sans-serif;">Entry</text>
+                             <text x="550" y="280" class="text-xs uppercase tracking-widest fill-zinc-400 stroke-none" style="font-family: sans-serif;">Suite</text>
+                        </svg>

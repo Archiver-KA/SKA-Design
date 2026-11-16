@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01256",
+  "title": "Animated Hero with UI Builder Preview",
+  "summary": "Full-width dark hero section showcasing a visual design tool interface with floating settings panel, animated headline reveal, and GSAP interactions. Built with Tailwind-style utility classes, ideal for SaaS, product launches, and design platform landing pages.",
+  "tags": [
+    "hero",
+    "section",
+    "tailwind",
+    "animated",
+    "gsap",
+    "saas",
+    "dark",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 23042,
+      "sha256": "a58d3c87d972e4db78b8377a9706c313a93a39ce1ef40ffd9c788b5df6369b93"
+    },
+    {
+      "path": "component.html",
+      "bytes": 19943,
+      "sha256": "503aa9a4c47f0ed7d226effea77ed55f01a67f3fd382b77b728c0dcf66b93ab6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20801,
+      "sha256": "4f17ba035843d795c1c916a5eab3524fdd955232d0c1dc412d50040c9320510a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

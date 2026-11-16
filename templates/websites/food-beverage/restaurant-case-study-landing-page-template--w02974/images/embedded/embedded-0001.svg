@@ -1,0 +1,10 @@
+<svg width="120" height="80" viewBox="0 0 120 80" class="opacity-80 group-hover:opacity-100 transition-opacity">
+                                <!-- Conveyor Belt -->
+                                <line x1="10" y1="70" x2="110" y2="70" stroke="#444" stroke-width="2" stroke-dasharray="4 2" class="dash-animation"/>
+                                <!-- Boxes -->
+                                <rect x="20" y="30" width="20" height="20" stroke="#666" fill="none" class="group-hover:animate-float" style="animation-delay: 0s"/>
+                                <rect x="50" y="30" width="20" height="20" stroke="#666" fill="none" class="group-hover:animate-float" style="animation-delay: 0.2s"/>
+                                <rect x="80" y="30" width="20" height="20" stroke="#666" fill="none" class="group-hover:animate-float" style="animation-delay: 0.4s"/>
+                                <!-- The "Selection" reticle - usually grey, turns red on hover -->
+                                <rect x="45" y="25" width="30" height="30" stroke="#9A3412" stroke-width="1" fill="none" opacity="0" class="group-hover:opacity-100 transition-opacity duration-300"/>
+                            </svg>

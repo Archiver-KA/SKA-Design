@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02032",
+  "title": "Infrastructure Pricing Section with Billing Toggle",
+  "summary": "Dark-themed Tailwind pricing section for compute infrastructure plans with monthly/annual billing toggle, highlighted recommended tier, feature lists, and plan CTAs. Ideal for SaaS, cloud platform, or hosting landing pages.",
+  "tags": [
+    "pricing",
+    "section",
+    "tailwind",
+    "responsive",
+    "dark",
+    "interactive",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 28190,
+      "sha256": "27ed755c843cc05b5dfd177295a1d0dc7ceddd622ba49bb38ddcbbf8c2f01cab"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11195,
+      "sha256": "6ec89197c2dec0a17eb67ba8cdf6128cb51201a832c3b62084b057543d7598b8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12156,
+      "sha256": "2f59372894f2d6c47841815e3d1e9f1b67975a88cdcc91de830308b256117684"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

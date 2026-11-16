@@ -1,0 +1,64 @@
+{
+  "id": "SN-W02552",
+  "title": "Wellness & Coaching Services Landing Page Template",
+  "summary": "A clean and minimal landing page template designed for personal development coaches, wellness practitioners, and corporate training programs.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Health",
+    "Education",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3603,
+      "sha256": "764910a41098dacd3bbd05afba96ea2cf3a65efbc7adcdec1193f894d7319cca"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15140,
+      "sha256": "a808b085da6c079c3e602d648d3413e4bd66f08b814e53effdd730aa3300b81e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 739,
+      "sha256": "88f5a322c70c5dd609e780b7490e7e8c346b93fa1dd8353120c19b3372c1ea56"
+    },
+    {
+      "path": "index.html",
+      "bytes": 45646,
+      "sha256": "488ec7c1bc7bda5c6c7f4015cc018518c3c8a7ab805eab96bc9250cef833ac9c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "cta",
+    "features",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "SN-W03776",
+  "title": "Newsletter Email Workflows",
+  "summary": "Displays detailed product updates including AI workflows and real-time collaborative canvas with feature highlights and access info.",
+  "tags": [
+    "Product Updates",
+    "Features",
+    "AI Workflows",
+    "Collaborative Canvas",
+    "Tailwind CSS",
+    "Responsive Design"
+  ],
+  "kind": "websites",
+  "category": "news-blog",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3373,
+      "sha256": "56cab90eb60d14c26afcca700b6839127ddf9b0965756cf1a78f68b5c807da9f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 29552,
+      "sha256": "afa908caf107bc66634b3aa175b12212b692101da022c732ab597b63c7616fa3"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 719,
+      "sha256": "ce358cad867ed7dc816386d150f3dedde2aa5caf71cb5e8a8193bcf9e1cbf9e9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11008,
+      "sha256": "d2d9dcb985e9b5ae84d4395f432dfb8a024fb2e8872fc14d891b061375de9023"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "content",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Content / News",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "stats",
+    "3d-canvas",
+    "dashboard-preview",
+    "timeline",
+    "features"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

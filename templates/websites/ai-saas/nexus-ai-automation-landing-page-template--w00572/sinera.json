@@ -1,0 +1,70 @@
+{
+  "id": "SN-W00572",
+  "title": "Nexus AI Automation Landing Page Template",
+  "summary": "A dark, developer-focused Nexus AI automation landing page template for showcasing multi-agent workflows, visual builders, and API-first AI orchestration.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Developer",
+    "AI",
+    "Automation"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3604,
+      "sha256": "5b0cf41e4b4eaf1ac0465c4100a10ca9c42e3cfc9ae74c48d4914bf6fd2da208"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13210,
+      "sha256": "86986cda942fd3163f887ca3c6caba199b80ac2bcaaa89c8633732841901e1e0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 880,
+      "sha256": "163b6b582b22464371ccd13e9591bf37307cb27dae52408ebc238bdc576ecbf9"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 653,
+      "sha256": "e46ce6c4519c277a614ed4ee0eea523c5d4d02d5e26c3e4c3ac3b0517847059a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27291,
+      "sha256": "d71f0934744bba3eb82a5561dafe5a41b07242d1a9c76ff272bc215aa1404192"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "listings",
+    "code-terminal",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

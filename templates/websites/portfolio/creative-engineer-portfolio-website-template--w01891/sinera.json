@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01891",
+  "title": "Creative Engineer Portfolio Website Template",
+  "summary": "A dark, futuristic portfolio website template for creative engineers and AI enthusiasts to showcase skills, projects, achievements, and contact details with style.",
+  "tags": [
+    "Portfolio",
+    "Landing Page",
+    "Technology",
+    "Art & Design",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3676,
+      "sha256": "3b6675946f0a167f584c581e44f9cb9008da6bcd9046587d5d67fbb84de8c651"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14010,
+      "sha256": "5ae1f7c7113b3b05ee24ed43f72dd49f9e4be8056ea7f4695215919906b1b083"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 732,
+      "sha256": "d737727c1c6ab3d412b933a4b74d2afa6395ec5cec5007f52e5f6f7673b6f871"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39821,
+      "sha256": "a7f1959232f543f7e279532fda91a330bdc2123d1e9aba83dd8031f9c3646800"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "features",
+    "case-studies",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

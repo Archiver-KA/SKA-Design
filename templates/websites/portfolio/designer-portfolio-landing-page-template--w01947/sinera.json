@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01947",
+  "title": "Designer Portfolio Landing Page Template",
+  "summary": "A clean, minimal portfolio landing page template for senior product and UX/UI designers to showcase work, experience, and case studies.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Minimal",
+    "Clean",
+    "Brand",
+    "Technology",
+    "Large Type",
+    "Resume",
+    "Graphic Design"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3604,
+      "sha256": "83d7258c4855240b3663dd2cffe7dacb91d5457ecef4e3837bf676eca2a8d148"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13258,
+      "sha256": "57dba7387ec9e14affb3026892a7adab81fbb87517832fcf92334f8d1cd58d01"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "e6ef5390ebd07bd55acdc18b3882e88631de074ea8fca7a46072d5436e3a9b83"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17874,
+      "sha256": "3b85acd9e0fd56d1ec37cc97e0f4221ae244c94145ab86860886134089fa809d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "video-media",
+    "case-studies",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

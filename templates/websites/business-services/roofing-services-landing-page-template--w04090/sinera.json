@@ -1,0 +1,70 @@
+{
+  "id": "SN-W04090",
+  "title": "Roofing Services Landing Page Template",
+  "summary": "A high-performance roofing and home restoration landing page template designed for contractors looking to showcase master craftsmanship and generate local leads.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Clean",
+    "Dark",
+    "Animated",
+    "Grid",
+    "Business Category",
+    "Visual Style Category"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3470,
+      "sha256": "755922514e973cee312ed1d87065b029c98bfcee970f2734175fab22bbf3d634"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13964,
+      "sha256": "ab2baa823e3aedee10e89d25868ea6a5ae4be5e36efbec02c6c0587e325469d2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 875,
+      "sha256": "86930be9edc09d4a417aeb3530f87002a37d07d2202d633bf58c94df0ab98369"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 311,
+      "sha256": "7ef47e7dc2a2687251c161b61380bec0c643c0d518fcbfd6dc3ae6140b95eda2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 62828,
+      "sha256": "74c4da158b90112992616c4583fddb7e47c9d7140fa3dfe7facb91689800069e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "bento-grid",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

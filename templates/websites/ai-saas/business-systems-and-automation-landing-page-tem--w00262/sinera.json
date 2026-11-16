@@ -1,0 +1,65 @@
+{
+  "id": "SN-W00262",
+  "title": "Business Systems & Automation Landing Page Template",
+  "summary": "A professional-grade landing page template for business consultants and SaaS platforms focused on automation, systemization, and operational delegation.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Landing Page",
+    "Clean",
+    "Colorful",
+    "Minimal",
+    "Business Category"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3565,
+      "sha256": "b2fe451c6aae733429b4f94eefab417dbc19012037a2223d17ff57ee00d05c83"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 25066,
+      "sha256": "71fa8d9ed19ee83b50cbc161c1c580e38de3420a54c746b19f04dbeed9705c7f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 745,
+      "sha256": "c80c7341570d565051f5f8dc53fb5ca075be1a8bf1ea3dc8d1496a07bafd171b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32655,
+      "sha256": "1baef91d4d27edf4f8f3f1182392483579717ad422770a866bba57ebddab0c7f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "pricing",
+    "services",
+    "testimonials",
+    "integrations",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

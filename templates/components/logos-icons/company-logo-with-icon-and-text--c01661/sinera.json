@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01661",
+  "title": "Company Logo with Icon and Text",
+  "summary": "A horizontal logo component featuring a custom SVG icon and company name. Perfect for headers, navbars, or branding areas with professional styling.",
+  "tags": [
+    "logo",
+    "header",
+    "branding",
+    "modern",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9702,
+      "sha256": "fcc970758a85a64d4d2b732ab42b8f2e049ebcd06d1a776c0d7b1a2c78aebc7c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 594,
+      "sha256": "994130899bb93e96ca8c7ed8fdf886411190c41849807426207c3070ffa81273"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1446,
+      "sha256": "0d140d732e6953a683bf6d0197796f5d30f30df1575eb11d8dfc54b0b7b59ee5"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

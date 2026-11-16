@@ -1,0 +1,70 @@
+{
+  "id": "SN-W03598",
+  "title": "Event Management Landing Page Template",
+  "summary": "A cinematic, dark-themed landing page template for premium event management and production agencies to showcase services, portfolio, and capture project inquiries.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Entertainment",
+    "Portfolio",
+    "Dark",
+    "Large Type",
+    "Minimal",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3679,
+      "sha256": "46246f977f116e67abcb25ff4bfed59b06beb1aa1322c5abbe3efd4c2fcca122"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14010,
+      "sha256": "bbb21e721ff3e15fdb1a062b3787fa667e3e9957f70ed7f36121cef2accc5e92"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 806,
+      "sha256": "eeb8fb9a6f152079c7c61fc067a824bd3830225cafbc0e95f4cee19d6c679543"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40661,
+      "sha256": "a0647eaa0c8128ee17d53d4b97200f06e50fa546373a907cfc07ca16997b6c03"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "blog-articles",
+    "navbar",
+    "hero",
+    "about",
+    "services",
+    "features",
+    "logo-cloud",
+    "team",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

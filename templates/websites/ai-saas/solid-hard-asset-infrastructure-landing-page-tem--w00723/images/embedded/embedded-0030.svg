@@ -1,0 +1,35 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none" viewBox="0 0 1100 600" preserveAspectRatio="xMidYMid meet">
+              <!-- Paths -->
+              <path d="M 180 120 C 350 120 350 300 520 300" class="pipeline-path"></path>
+              <path d="M 180 300 L 520 300" class="pipeline-path"></path>
+              <path d="M 180 480 C 350 480 350 300 520 300" class="pipeline-path"></path>
+              <path d="M 680 300 L 920 300" class="pipeline-path"></path>
+
+              <!-- Particles: Dots (BTC/Stable) -->
+              <circle r="4" class="pipeline-particle particle-dot p-1"></circle>
+              <circle r="4" class="pipeline-particle particle-dot p-2"></circle>
+              <circle r="4" class="pipeline-particle particle-dot p-3"></circle>
+              <circle r="4" class="pipeline-particle particle-dot p-out"></circle>
+
+              <!-- Particles: Docs (Gold) -->
+              <g class="pipeline-particle particle-doc p-1">
+                <rect x="-6" y="-8" width="12" height="16" rx="2"></rect>
+                <line x1="-3" y1="-2" x2="3" y2="-2" stroke="black" stroke-width="1" opacity="0.5"></line>
+                <line x1="-3" y1="2" x2="3" y2="2" stroke="black" stroke-width="1" opacity="0.5"></line>
+              </g>
+              <g class="pipeline-particle particle-doc p-2">
+                <rect x="-6" y="-8" width="12" height="16" rx="2"></rect>
+                <line x1="-3" y1="-2" x2="3" y2="-2" stroke="black" stroke-width="1" opacity="0.5"></line>
+                <line x1="-3" y1="2" x2="3" y2="2" stroke="black" stroke-width="1" opacity="0.5"></line>
+              </g>
+              <g class="pipeline-particle particle-doc p-3">
+                <rect x="-6" y="-8" width="12" height="16" rx="2"></rect>
+                <line x1="-3" y1="-2" x2="3" y2="-2" stroke="black" stroke-width="1" opacity="0.5"></line>
+                <line x1="-3" y1="2" x2="3" y2="2" stroke="black" stroke-width="1" opacity="0.5"></line>
+              </g>
+              <g class="pipeline-particle particle-doc p-out">
+                <rect x="-6" y="-8" width="12" height="16" rx="2"></rect>
+                <line x1="-3" y1="-2" x2="3" y2="-2" stroke="black" stroke-width="1" opacity="0.5"></line>
+                <line x1="-3" y1="2" x2="3" y2="2" stroke="black" stroke-width="1" opacity="0.5"></line>
+              </g>
+            </svg>

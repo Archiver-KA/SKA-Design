@@ -1,0 +1,59 @@
+{
+  "id": "SN-W03746",
+  "title": "Synthesis Video Knowledge Distillation Template",
+  "summary": "A high-performance AI utility template designed to extract transcripts and synthesize video content into structured, actionable documents.",
+  "tags": [
+    "Technology",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Landing Page",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3412,
+      "sha256": "cf4052bf633f77e4d4078dc30cd01891243d9607a3e619c2512076286883f5b0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14072,
+      "sha256": "ddd38961fe2472f7cc1241685658b63e109f343faa25475ee068079a7f4f71a6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 739,
+      "sha256": "c1d691ca439ecacdcbbfc96a5ed93432eda9d90d1180ad64315479171913de1b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11057,
+      "sha256": "65285a601b2e9e10781e60787c6c3f3b27f9e32a8da51de69b85be1fd4175e32"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "testimonials"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

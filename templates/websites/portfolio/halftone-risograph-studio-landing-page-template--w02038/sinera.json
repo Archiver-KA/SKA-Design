@@ -1,0 +1,76 @@
+{
+  "id": "SN-W02038",
+  "title": "HALFTONE Risograph Studio Landing Page Template",
+  "summary": "A grainy, art-focused landing page template designed for print studios, creatives, and physical media artisans using risograph aesthetics.",
+  "tags": [
+    "Art & Design",
+    "Portfolio",
+    "Services",
+    "Technology",
+    "Minimal",
+    "Colorful",
+    "Clean",
+    "Dark"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2871,
+      "sha256": "0ed57a4da17ce8376461340393b8b8eedd82dd1abee3ab6e062b626c5dd88d23"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 25442,
+      "sha256": "c7af80c2bca4c27fd0f3422ce132bdb310d9538d4dc95a897f8e1a563d6d033c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1071,
+      "sha256": "f640a3652d890725f770ed165880c88dbaa778bebae1a65195dfb327ef0efaf8"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 215,
+      "sha256": "8057363896a9d77299e7826aec8bdfd8f7a2e380cff02ada48971f51ac1067de"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 3879,
+      "sha256": "5bab141ed9f6fcb07577d4e13d85f1049a4336eaeda41f72226223321f45fe35"
+    },
+    {
+      "path": "index.html",
+      "bytes": 58596,
+      "sha256": "bff3db3240099eb2843acccae3ef69de6b0246854f8c199ebc41079772ba42fe"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "features",
+    "how-it-works",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "SN-C00959",
+  "title": "Responsive Dark Footer with Newsletter Signup",
+  "summary": "Tailwind CSS footer featuring brand logo, 4-column navigation, social icons, email subscription form, legal links and status badge with subtle gradient background. Suited for SaaS sites, landing pages and product dashboards.",
+  "tags": [
+    "footer",
+    "tailwind",
+    "responsive",
+    "newsletter",
+    "navigation",
+    "social-icons",
+    "dark-theme",
+    "saas",
+    "gradient",
+    "ui-component"
+  ],
+  "kind": "components",
+  "category": "footers",
+  "categoryLabel": "Footers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18108,
+      "sha256": "aca828dd69b9e5608f175661002c6f28fc9757b1a478750a3cbb4d4212cac184"
+    },
+    {
+      "path": "component.html",
+      "bytes": 9202,
+      "sha256": "9bad1561780506a6221c0ff56ac720f6d4c77870bad1ddf5eb9e08b362b86357"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10068,
+      "sha256": "2906926e283fa75abacbf4a2de872a1946c1fe3943188a036f0207427c8b52e8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

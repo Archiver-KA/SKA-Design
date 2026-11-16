@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00430",
+  "title": "Project Category Card",
+  "summary": "Individual project category card with image, title, and feature list. Includes hover effects and rounded design. Reusable for any category showcase.",
+  "tags": [
+    "card",
+    "modern",
+    "hover",
+    "category",
+    "feature",
+    "image",
+    "shadow"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 36560,
+      "sha256": "7e4ea81b3cf89479efc642d404b5b55e4c301077adbf69c4ddcdd8ef5e60f52a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1080,
+      "sha256": "f849fac0aed0fbf3cb6f5c09077cdf92920c43e78e1f616c030388f698efde2f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1922,
+      "sha256": "59748518c6a55a66a0f96ef9cf5d63f6087d52350d33cb23ef6360524a205bdd"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

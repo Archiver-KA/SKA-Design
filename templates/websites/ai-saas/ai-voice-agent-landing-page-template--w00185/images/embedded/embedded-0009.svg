@@ -1,0 +1,20 @@
+<svg class="absolute inset-0 w-full h-full pointer-events-none" viewBox="0 0 800 600" fill="none">
+                         <!-- Center to Top Left -->
+                         <path d="M400,300 C350,300 250,250 200,180" stroke="rgba(34,211,238,0.1)" stroke-width="1.5"></path>
+                         <path d="M400,300 C350,300 250,250 200,180" stroke="rgba(34,211,238,0.4)" stroke-width="1.5" stroke-dasharray="10 10" class="animate-pulse"></path>
+                         
+                         <!-- Center to Top Right -->
+                         <path d="M400,300 C450,300 550,250 600,180" stroke="rgba(34,211,238,0.1)" stroke-width="1.5"></path>
+                         
+                         <!-- Center to Mid Left -->
+                         <path d="M400,300 C300,300 250,320 150,300" stroke="rgba(34,211,238,0.1)" stroke-width="1.5"></path>
+                         
+                         <!-- Center to Mid Right -->
+                         <path d="M400,300 C500,300 550,320 650,300" stroke="rgba(34,211,238,0.1)" stroke-width="1.5"></path>
+
+                         <!-- Center to Bot Left -->
+                         <path d="M400,300 C350,300 250,350 200,420" stroke="rgba(34,211,238,0.1)" stroke-width="1.5"></path>
+                         
+                         <!-- Center to Bot Right -->
+                         <path d="M400,300 C450,300 550,350 600,420" stroke="rgba(34,211,238,0.1)" stroke-width="1.5"></path>
+                    </svg>

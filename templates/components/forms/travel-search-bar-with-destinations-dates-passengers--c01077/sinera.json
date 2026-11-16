@@ -1,0 +1,40 @@
+{
+  "id": "SN-C01077",
+  "title": "Travel Search Bar with Destinations, Dates & Passengers",
+  "summary": "Interactive search bar for travel booking. Includes dropdowns for departure/arrival suggestions, two-month calendar date picker, passenger counter and recent searches. Vanilla HTML, CSS and JS; responsive pill-style layout ideal for flight or trip search pages.",
+  "tags": [
+    "search bar",
+    "travel",
+    "booking",
+    "datepicker",
+    "dropdown",
+    "selector",
+    "vanillajs",
+    "responsive",
+    "interactive",
+    "css"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4362,
+      "sha256": "db21ddcc74edda3c7f4c349d40a763a2f932296e87db636fadb330361e8fd745"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19171,
+      "sha256": "00796976d02c48233fbfe03c4543432f9535262b904f6a76b25ebfe919457eb3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

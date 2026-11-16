@@ -1,0 +1,73 @@
+{
+  "id": "SN-W02670",
+  "title": "Pro Sports Club Landing Page Template",
+  "summary": "A high-impact, dark-themed football club template featuring match data centers, 3D player cards, and integrated merchandise sections for professional sports organizations.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Entertainment",
+    "Dark",
+    "Animated",
+    "3D",
+    "Clean",
+    "Futuristic"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3857,
+      "sha256": "a26c26498be2827766ae9333ed35857c9cf4eee2a680de7179e940db0bbde395"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12590,
+      "sha256": "dd4c718819410255079496821037e2e4d9c82d4bb74d6bf00b46864f045c26ac"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 874,
+      "sha256": "0f660e6d66b0f15fa21ac01443bcfb1de7a7e0834ab65b4ee6342ec191b9316d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "1d477c85a7ad0d3a741110a72123c23e8bdb35a659e27798b40c1804211d7d73"
+    },
+    {
+      "path": "index.html",
+      "bytes": 59367,
+      "sha256": "780f7413a6500fb2e35f166bb1ef3e07435c73ad1e7373e9470143f13a9a93ad"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "features",
+    "team",
+    "timeline",
+    "product-grid",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

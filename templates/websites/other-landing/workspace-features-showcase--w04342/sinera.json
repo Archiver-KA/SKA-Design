@@ -1,0 +1,99 @@
+{
+  "id": "SN-W04342",
+  "title": "Workspace Features Showcase",
+  "summary": "Responsive UI presenting workspace features with animated cards highlighting smart commands, project canvas, and focus sessions.",
+  "tags": [
+    "Features",
+    "Animation",
+    "TailwindCSS",
+    "Responsive Design",
+    "Cards",
+    "UI Showcase"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3514,
+      "sha256": "fca8b08c94c6875af09332345e6e303cc1b9555246ca291fb8cabd51c70ba8e0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14472,
+      "sha256": "08938fcb4fedc890ff8251fbc48f706932d186b7e09cfeb9582e978f243b44ae"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2233,
+      "sha256": "c4a8a6ed7fb816491cd3eb6bb2af6a8a21358c7b406401030d142e29bd9ef17b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 365,
+      "sha256": "1c8c96c464c3e628c427077db4d9b53db9fc4dca2d9ea830fb8d12a6e3e5628f"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 423,
+      "sha256": "f17a5d8e00ca6180975709bf79bacb316474ace95e5cdab76e38da0eb354830d"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 492,
+      "sha256": "ce35baa97291f3de68923075dedf9809c36f3e67731abafaaf7e57aedd927696"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 374,
+      "sha256": "18169afe8774dce197794c5134cf2d9bb170693a50a2ab9c184b2cc393193557"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 458,
+      "sha256": "3a2217e145ee43a0cb22cd54343cb5ae1ced3bb740adc4a51186fa8ab976b153"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 810,
+      "sha256": "7be97cc0ecd1560cc5e530ea9e38b6763a4f784817aa323249610643a414ae4a"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 740,
+      "sha256": "a8eda367a8ea81df26e31524892bd4d5447bffcec718c41c5d0265a58410e3c1"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 419,
+      "sha256": "af3b76acfb2e3d9ea7103689a05986735103bca2bee495bcc4a8c95e214ea290"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15307,
+      "sha256": "5e8427f752e883ac51f30dcf2d86cf7d62cd2b42b010c741c321a84c599015c9"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "bento-grid",
+    "video-media"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

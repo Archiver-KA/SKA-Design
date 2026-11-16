@@ -1,0 +1,72 @@
+{
+  "id": "SN-W02066",
+  "title": "Junior Data Analyst Portfolio Template",
+  "summary": "A modern junior data analyst portfolio template to showcase skills, projects, experience, and achievements, ready to customize for your own career.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Data Analyst",
+    "Resume"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3757,
+      "sha256": "9e68e75514ae99422802b39003b426a8e079dc6460a03b7a7ba3ae33ee06d975"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11134,
+      "sha256": "081268ef3d0bb475ae606c6c44ff3655ccb76d08d3d0aa1104a50cc16a6fb8c2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 809,
+      "sha256": "a43691734d2f1624452ae4997a14a2699d9d87bc096f0cbb2fced0a566a79d0d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40184,
+      "sha256": "1a86416dcebee6f1f8ab7568f45a58b1786bdbc98066c446d53b19ec0e1314df"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "features",
+    "timeline",
+    "case-studies",
+    "dashboard-preview",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

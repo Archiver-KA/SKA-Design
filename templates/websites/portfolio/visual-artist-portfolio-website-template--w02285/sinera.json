@@ -1,0 +1,61 @@
+{
+  "id": "SN-W02285",
+  "title": "Visual Artist Portfolio Website Template",
+  "summary": "A refined portfolio website template for visual artists to showcase sculptures, paintings, photography, exhibitions, and contact details in a clean, gallery-style layout.",
+  "tags": [
+    "Art & Design",
+    "Artist",
+    "Portfolio",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3272,
+      "sha256": "90a3007bd3f30a3c5671dc36deb8aba235ede60b8fbe0a457d86cd7217ad2072"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 27520,
+      "sha256": "72c62bd08a1a18a38917b48b4ace57eca56962dfc1bae018da970304e70ec402"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 728,
+      "sha256": "57465455c021d85a155ae44073614cf1b3440c9509604034723de86f4711fbc7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10817,
+      "sha256": "ea2ce5910689ae2952740cecf362d0800f114d97eaf142d9f2578f9b0fe0a0bb"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

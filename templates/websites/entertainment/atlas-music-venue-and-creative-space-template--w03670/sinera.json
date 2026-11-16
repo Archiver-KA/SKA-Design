@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03670",
+  "title": "Atlas Music Venue & Creative Space Template",
+  "summary": "A bold, dark-themed website template designed for grassroots music venues, bars, and creative studios.",
+  "tags": [
+    "Landing Page",
+    "Entertainment",
+    "Social",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Grid",
+    "Large Type"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3472,
+      "sha256": "b4d11097d2d0ebd82ae88aee01a8cc4af2dbb9a541543956ff347ecbe4edbecf"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20336,
+      "sha256": "a605d83906ec85ad33aab7b075140b5da230e309c893e671c4f23ff298478735"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 818,
+      "sha256": "c7a70bfe14899b3a12e7e71a6eeb9ccf6356a10b9c1acf1fcefa34616ad83293"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40135,
+      "sha256": "4eefaafe5faeb153a60975fb12b550daf3f241f090227fbada9d91284ef6db71"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "features",
+    "listings",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

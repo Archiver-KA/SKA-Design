@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00262",
+  "title": "Responsive Contact CTA with Email & Schedule Buttons",
+  "summary": "Animated contact section offering a mailto email link and a schedule-call button, styled with Tailwind CSS. Includes heading, subtext, and responsive flex layout—ideal for portfolio footers or landing page collaboration prompts.",
+  "tags": [
+    "contact",
+    "cta",
+    "tailwind",
+    "email",
+    "responsive",
+    "footer",
+    "animated"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11734,
+      "sha256": "d40662b82e88650c1a4b541c9a13b9e4cb0967bef33ef41836fe646170ea03ae"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1973,
+      "sha256": "012102030b90bd979e61578bac29f6ca61d8018aa1fd3f260175b0c5cb0d885a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2980,
+      "sha256": "bfc58af0a8a65eb94112bda99af2b85b30f0b1dd979314eca9f0745c2a47d43b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

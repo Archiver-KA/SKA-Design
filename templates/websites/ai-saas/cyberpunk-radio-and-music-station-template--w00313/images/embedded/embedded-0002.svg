@@ -1,0 +1,22 @@
+<svg class="route" viewBox="0 0 1000 480" preserveAspectRatio="xMidYMid slice" role="img" aria-label="The route the stream takes from the mast to a listener">
+    <path class="ghost" d="M188,112 C300,112 330,208 424,208 S572,162 668,162 S782,300 812,300"></path>
+    <path class="wire" id="wire" d="M188,112 C300,112 330,208 424,208 S572,162 668,162 S782,300 812,300"></path>
+    <circle class="pkt" r="3.5" style="offset-path:path('M188,112 C300,112 330,208 424,208 S572,162 668,162 S782,300 812,300')"></circle>
+
+    <g class="hop on" data-hop="0" tabindex="0" role="button" aria-label="Mast, Rotterdam" transform="translate(188,112)">
+      <circle class="halo" r="7"></circle><circle class="dot" r="5"></circle>
+      <text x="14" y="4">MAST</text><text class="sub" x="14" y="18">Rotterdam</text>
+    </g>
+    <g class="hop" data-hop="1" tabindex="0" role="button" aria-label="Encoder" transform="translate(424,208)">
+      <circle class="halo" r="7"></circle><circle class="dot" r="5"></circle>
+      <text x="14" y="4">ENCODER</text><text class="sub" x="14" y="18">AAC 320</text>
+    </g>
+    <g class="hop" data-hop="2" tabindex="0" role="button" aria-label="Edge node" transform="translate(668,162)">
+      <circle class="halo" r="7"></circle><circle class="dot" r="5"></circle>
+      <text x="14" y="4">EDGE</text><text class="sub" x="14" y="18">nearest of four</text>
+    </g>
+    <g class="hop" data-hop="3" tabindex="0" role="button" aria-label="You" transform="translate(812,300)">
+      <circle class="halo" r="7"></circle><circle class="dot" r="5"></circle>
+      <text x="-52" y="26">YOU</text><text class="sub" x="-52" y="40">wherever</text>
+    </g>
+  </svg>

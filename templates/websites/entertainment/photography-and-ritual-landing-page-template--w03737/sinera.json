@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03737",
+  "title": "Photography and Ritual Landing Page Template",
+  "summary": "A sophisticated artistic landing page template for photographers and practitioners offering symbolic portrait sessions and ritual transitions.",
+  "tags": [
+    "Art & Design",
+    "Services",
+    "Dark",
+    "Minimal",
+    "Portfolio",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3617,
+      "sha256": "0ca8c3ca2cfe94a411c75abc53b54fdf45666051a1e4b86990937764f5687f34"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11338,
+      "sha256": "1d6d47312fd8573dbed5d7c23508f2ab8ea0f5eb6c2f6b66f1d65a75ca21c330"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 881,
+      "sha256": "ebbfe81c49dbd5d1ed28f9068e308413fe7ee04d886e68047e364e0773116246"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 427,
+      "sha256": "5956d20161f6d4d190a07a410b25dde349e37ea2515a54fbddd5f15af2e40f4b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35228,
+      "sha256": "e0f015a4f2dc9bd97fd5d9885b5e85c2d18733b923554f2670c87378c9eb8de5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "features",
+    "bento-grid",
+    "footer",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

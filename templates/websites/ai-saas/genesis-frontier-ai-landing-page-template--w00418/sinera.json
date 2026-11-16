@@ -1,0 +1,78 @@
+{
+  "id": "SN-W00418",
+  "title": "Genesis Frontier AI Landing Page Template",
+  "summary": "A high-performance, dark-mode landing page template for frontier intelligence and research startups featuring advanced scroll-driven parallax and 3D canvas visuals.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Dark",
+    "Animated",
+    "Minimal",
+    "Futuristic",
+    "Research",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2979,
+      "sha256": "6e407c10bd67661b7980cc676f26fb7772b4b3742b69b61de9b5e9c97ea3c049"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 10046,
+      "sha256": "1ecf1eabd28cc1b88d94af601da70bf5870e8a3d6b3e0fffd84e261e020d5cd8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1070,
+      "sha256": "8d9687265a25e656ed244765b9d107f488f27b2e281bb59cb6bfdfc1b858097f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 215,
+      "sha256": "73b2446c9f1dcd63db5335ac15fe280fed37b642e5b25ac35105543b3b7d657d"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 221,
+      "sha256": "674985a52cc7e22e6d7804f4844c5d8768979db7c9b6a24604d7b771032e9c3e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 53922,
+      "sha256": "1833df2f990ed1e238f17817b05e9caa4de0f98dfda3dc4f5b8cce216d22616e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "gallery-portfolio",
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "3d-canvas",
+    "features",
+    "stats",
+    "testimonials",
+    "newsletter",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

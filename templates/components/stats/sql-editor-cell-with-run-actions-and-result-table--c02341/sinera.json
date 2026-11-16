@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02341",
+  "title": "SQL Editor Cell with Run Actions and Result Table",
+  "summary": "Interactive SQL editor cell with drag handle, run & AI actions, dirty state badge, and inspector. Shows query results as table or chart and pins to dashboard. Tailwind-styled for data notebooks, BI dashboards, and analytics apps.",
+  "tags": [
+    "sql-editor",
+    "table",
+    "dashboard",
+    "tailwind",
+    "interactive",
+    "code",
+    "data",
+    "button"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12680,
+      "sha256": "6f7d9f6da48f0247b84cd8765cea7db8232b4e492d335ed168049aa980a57d0d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8585,
+      "sha256": "3122d615f04ed3703b088068c13647433783812509ac388f8445841ac5e8a168"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9455,
+      "sha256": "aa61d956ce161b7a824f4c9a9cf3353addae9f40090653e170f8b99ca2a2dba6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02162",
+  "title": "E-commerce Gallery Section with Header",
+  "summary": "Responsive promotional block with headline and 2-3 column grid of image cards, each showing a category thumbnail and overlay label. Tailwind-styled with subtle pattern and shadow, ideal for landing pages, product showcases, or deals hubs.",
+  "tags": [
+    "gallery",
+    "grid",
+    "image-card",
+    "tailwind",
+    "ecommerce",
+    "responsive",
+    "promo-section",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16878,
+      "sha256": "6cebc0943cb9b85f02a9397e7c0eb8d3a189e37a26adc0ccdf73ac619acfcc71"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3000,
+      "sha256": "5b801a922eb390ce3e3acd80dd119c5e0580bbd08e7d0731de9bc781e2857e77"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3859,
+      "sha256": "4e8feb7c14f809bb67cf964ff2f11f105ccc285af418798385e7d263d59a9346"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

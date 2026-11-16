@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00354",
+  "title": "Error Message Component",
+  "summary": "A simple error display component for showing when content cannot be loaded or accessed, with clean typography and centered layout.",
+  "tags": [
+    "error",
+    "message",
+    "centered",
+    "modern",
+    "card",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7304,
+      "sha256": "9e2a62f43f60aa744ac65dcd5964cdfda97cc7ec8b5ce65e99368e9f8e85547f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 596,
+      "sha256": "3bb1cba9a90fd2413027cb9aec2ebd182d4a83989f3246d487c1363d961cc443"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1440,
+      "sha256": "fc747306a748c2f375ff41de585b99f0eef1004277408e70bca2b0edf2f09c0d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

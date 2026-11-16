@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02445",
+  "title": "Animated Shimmer Headline Text Effect",
+  "summary": "Animated H1 headline with a CSS shimmer gradient effect applied via background-clip text. Ideal for drawing attention to key titles or hero headings in landing pages and marketing sites. Uses utility-like classes and a custom shimmer keyframe animation.",
+  "tags": [
+    "heading",
+    "animated",
+    "css",
+    "text-effect",
+    "gradient",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "typography",
+  "categoryLabel": "Text & typography",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2052,
+      "sha256": "2e2336a8b98c4a3d1473ffd939875351c521255273cd76c0dd849921556c9cd9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 687,
+      "sha256": "37dba893dec1912ab542a636d622a1d12219b3a4d357c3e5e0376741478ad02a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1545,
+      "sha256": "7a86de740386f1910fe727ea894a4256433a8aa56b4bcd19bfb49b520881bc97"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

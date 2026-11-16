@@ -1,0 +1,73 @@
+{
+  "id": "SN-W00709",
+  "title": "Sheresta Legal Tech Landing Page Template",
+  "summary": "A reusable landing page template designed for legal tech platforms to showcase digital case management, scheduling, and client communication features.",
+  "tags": [
+    "Landing Page",
+    "Legal Tech",
+    "Case Management",
+    "Scheduling",
+    "Client Portal",
+    "Pricing",
+    "Features",
+    "Mobile App",
+    "FAQ"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3787,
+      "sha256": "1d5d8bd8fc7c1b0da21533b68f6aa4aa6a45d382f35f4bc33912242dffe166d0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17994,
+      "sha256": "b4c7aa6ce5f43967e28ee93fdf133194a7bcce08a790027230ea82c280cb6ff1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 879,
+      "sha256": "f87e1920f1d6857a3ff24545361224d46d2d29fa86de291e1b1f6545333b2c9f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 207,
+      "sha256": "bb6d4ff50a8778fcae3f2ba2e4410ef9db3f1cb1a69e4ce984f568369b934aa9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 62710,
+      "sha256": "4fa11c183bb3c237903c2455f118baac5390e3b34e8e5cae4cc506f6159fa697"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "cta",
+    "features",
+    "schedule-agenda",
+    "logo-cloud",
+    "pricing",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

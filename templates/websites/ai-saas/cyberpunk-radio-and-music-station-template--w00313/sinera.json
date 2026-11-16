@@ -1,0 +1,78 @@
+{
+  "id": "SN-W00313",
+  "title": "Cyberpunk Radio & Music Station Template",
+  "summary": "A high-fidelity landing page template for radio stations or streaming services, featuring interactive waveform visualizers and dark-mode aesthetic.",
+  "tags": [
+    "Technology",
+    "Entertainment",
+    "Brand",
+    "Dark",
+    "Minimal",
+    "Animated",
+    "Clean",
+    "Music"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2827,
+      "sha256": "54120518c59658373cd86b014d774d1d2d5558874dd4da4481351f6a28bf407a"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12654,
+      "sha256": "f3e8aafb9fcd47b9f8d51782d7e38e8b2d1c869af76a57a2bc3642e9601f915b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1069,
+      "sha256": "51efcbf0b230343762ce848d132e010798d82127dd4f9fe20a7a5db64d178291"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 252,
+      "sha256": "0ae4e779acb1c067172b314a3856716a1073b4e69204729f711965f8fbde2dfa"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 1676,
+      "sha256": "0596699b0b61bade1a625eb4b292e552d777e8a67e52ae660f33619b5d9b7786"
+    },
+    {
+      "path": "index.html",
+      "bytes": 46570,
+      "sha256": "c47752a48489f0e988204bfdf4fd08833a5a480271c5cf06fab706c4d6970f11"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "listings",
+    "3d-canvas",
+    "video-media",
+    "stats",
+    "cta",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

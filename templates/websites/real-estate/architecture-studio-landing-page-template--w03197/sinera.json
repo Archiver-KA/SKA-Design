@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03197",
+  "title": "Architecture Studio Landing Page Template",
+  "summary": "Bold, dark-theme architecture studio landing page template for showcasing projects, team, process, and contact inquiries in a modern, brutal aesthetic.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Portfolio",
+    "Brutal",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Art & Design",
+    "Services",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3470,
+      "sha256": "ecf05092ed41668befe651f46f2f6b455a857a0c5511a6ddee0667726f702c97"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17346,
+      "sha256": "c9664c40050cf932125e47c0bb7f488a5c3ec274e4a8a099616b4d19d6fa5bd1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 731,
+      "sha256": "cf016a3ed5ad4854faa4a83330b7a3a4b982208c686bde7704a38797a3e0d4c6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28245,
+      "sha256": "8e9b77946f34199e6d972e66f864de8b85d812764b74fb87b83e9fec3264f4df"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "case-studies",
+    "how-it-works",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

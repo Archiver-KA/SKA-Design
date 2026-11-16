@@ -1,0 +1,76 @@
+{
+  "id": "SN-W03566",
+  "title": "Academic Community Library Template",
+  "summary": "A professional academic resource and student community platform template designed for universities to manage notes, papers, and campus hubs.",
+  "tags": [
+    "Education",
+    "Landing Page",
+    "Services",
+    "Community",
+    "Clean",
+    "Minimal",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3648,
+      "sha256": "a3a09902c068f1457de4df3e92f9a1e9f2e3bcd3028b8bb00ed94cde82a8a8ce"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19328,
+      "sha256": "a85e36c4c2bf7931a22daa8792a0f40226088d66e949e07ff45cb21978d9d76e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1051,
+      "sha256": "6e5900f70230d9df9a2d2639492a8b8d9b5319a23cc2fe03ae3bd84f8c5ec968"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 269,
+      "sha256": "e4964d7c4a6e6d75be88469fda44a21defc44c61dbc428c3fa0bac62a2bc79c8"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 238,
+      "sha256": "dc7ed67a5fb3f886aec0a75b44a0e1f26fe090fd5c07a33900256366edc31e6d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 69002,
+      "sha256": "87c7c148f2ad5b0b4728b2f2829d9f95010678c2eec23d6bc877bfdbde3ff3de"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "faq",
+    "cta",
+    "contact-form",
+    "features",
+    "dashboard-preview",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

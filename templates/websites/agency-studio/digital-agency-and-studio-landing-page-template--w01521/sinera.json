@@ -1,0 +1,63 @@
+{
+  "id": "SN-W01521",
+  "title": "Digital Agency & Studio Landing Page Template",
+  "summary": "A high-performance dark-themed website template designed for digital agencies, technical SEO firms, and automation specialists seeking a professional online presence.",
+  "tags": [
+    "Technology",
+    "Services",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Portfolio",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3478,
+      "sha256": "7fc5c85e7291e5db388e2378e8b76cf0c296ff6d6c60e5319d3369a72b8cfe92"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16158,
+      "sha256": "8aab9c91e4385046040b55cfc1447ba434c2968800aa16d3d8fef735fb6a29e4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 739,
+      "sha256": "c9443de7c3724f79b303e47d375cc94ecd36278ae6b2465ccb1621fedf04da47"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29556,
+      "sha256": "b53912f3096e838bcf553705c6b1d64187cf26db8303342b4c9e9bc9e47debe8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "services",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

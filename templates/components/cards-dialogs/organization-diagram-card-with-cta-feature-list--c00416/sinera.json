@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00416",
+  "title": "Organization Diagram Card with CTA & Feature List",
+  "summary": "Tailwind-styled card illustrating member-to-organization flow, feature highlights, and dual CTA buttons. Ideal for SaaS marketing pages or admin dashboards to present SSO, domain capture, and export options.",
+  "tags": [
+    "card",
+    "diagram",
+    "tailwind",
+    "marketing",
+    "responsive",
+    "cta",
+    "feature",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11174,
+      "sha256": "664644dc8bbd2e750f367696ccc5070c1e3ff0bba90210b02ee077837fc2381f"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10114,
+      "sha256": "38862f267165b7b84e1e8e989f50a6345fac787a0fd02b714242549d2b94f244"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11118,
+      "sha256": "e3cb39705a2c3b9e3f47108649f14ec653f61fb5acda8d730164b5c4f8fd46d2"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

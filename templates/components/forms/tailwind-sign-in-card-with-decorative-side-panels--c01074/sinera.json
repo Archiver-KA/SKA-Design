@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01074",
+  "title": "Tailwind Sign-In Card with Decorative Side Panels",
+  "summary": "Responsive auth component featuring a central email sign-in card plus blurred side previews for registration and OTP verification. Built with Tailwind CSS, lucide icons, gradients, and backdrop-blur—ideal for SaaS landing or modal login flows.",
+  "tags": [
+    "auth",
+    "login",
+    "tailwind",
+    "responsive",
+    "blur",
+    "email",
+    "otp",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "forms",
+  "categoryLabel": "Forms & sign-in",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9482,
+      "sha256": "44fbd3d9ca4ca3beb49f7fa17f54be1c43d4de02089eee8f78e8913234129f9b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6550,
+      "sha256": "6bd0c0946927751a5004244a9b86721c0cc422019f5040909e4fae0b0c310b77"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7550,
+      "sha256": "bb6467ff8ac6222e8130bc6138f59181c5d9deaa392d16a273c27deeb97c648e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

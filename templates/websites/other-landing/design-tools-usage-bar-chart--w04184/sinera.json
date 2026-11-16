@@ -1,0 +1,58 @@
+{
+  "id": "SN-W04184",
+  "title": "Design Tools Usage Bar Chart",
+  "summary": "Displays a horizontal bar chart showing usage percentages of various design tools based on survey data.",
+  "tags": [
+    "HTML",
+    "Tailwind CSS",
+    "Bar Chart",
+    "UI",
+    "Data Visualization",
+    "Responsive Design"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2792,
+      "sha256": "a56512a9574fa77b1dc510eb10e78fbcb4275d84062ea1d7d92094449d43035f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7048,
+      "sha256": "8bfb6ce975cb6b700344018ef50748d1735d7d7fda265ed757f8ed736ac04473"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 721,
+      "sha256": "ee185bb249be1a3a12c2a8ee6a9e171ec216021901c01612efe980035a211cdf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5734,
+      "sha256": "3bcba91cb2b992f033a49215d5c783ea37cb44f4287afdac3443337d4b9515f7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "stats"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "dashboard-preview",
+  "design": "DESIGN.md"
+}

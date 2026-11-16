@@ -1,0 +1,45 @@
+{
+  "id": "SN-C00026",
+  "title": "Responsive About Me Section",
+  "summary": "Two-column About Me section using Tailwind CSS grid utilities. Features heading and multiple paragraphs that adapt from single to multi-column layouts—ideal for personal portfolios, team bios, or company profile pages.",
+  "tags": [
+    "about",
+    "tailwind",
+    "responsive",
+    "grid",
+    "portfolio",
+    "bio",
+    "text",
+    "typography",
+    "heading"
+  ],
+  "kind": "components",
+  "category": "about",
+  "categoryLabel": "About & team",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 47520,
+      "sha256": "d5f0f480c1d9c7613480bb298f664e1a40e9533fa66e8f4692c8c76c3d378df1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1332,
+      "sha256": "0ac864753a31ccb358af320ee7ed2add61d0dcbe63808e1ae501453f70e1aab4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2180,
+      "sha256": "1dbec8931f3d8af566f595a5c703ffefd58bdb1370a33698e6d0e02165a2eb73"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

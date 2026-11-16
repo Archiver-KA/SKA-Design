@@ -1,0 +1,64 @@
+{
+  "id": "SN-W01967",
+  "title": "Developer Portfolio Website Template",
+  "summary": "A modern dark-themed developer portfolio template for showcasing software engineering experience, projects, and contact details, ready to customize and reuse.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Software Engineer",
+    "Developer Portfolio"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3380,
+      "sha256": "29d414fbf69a9a1fa1c2e81de52239be2794e783f2d11edf6adda8389b2ab8e8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 28346,
+      "sha256": "9fa2833968f373b45a4e9cb1a1b7e15fb956c4977908a85b6962bac486f9c430"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 807,
+      "sha256": "e7837c25fa194546660437c4a4174b826a3a73828abd53103593b0fed7cf74f1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 53183,
+      "sha256": "9732ce08ed6f990b779fb525b342dd58d0d8588f69d473e279c655295a1452d7"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

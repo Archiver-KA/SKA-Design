@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02023",
+  "title": "Detailed Pricing Comparison Table",
+  "summary": "A dark-themed responsive pricing section with a feature comparison table for multiple plans. Built with Tailwind CSS and Iconify icons, it highlights a recommended tier and supports horizontal scrolling for smaller screens.",
+  "tags": [
+    "pricing",
+    "section",
+    "tailwind",
+    "responsive",
+    "table",
+    "comparison",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14204,
+      "sha256": "945799e65ab4733d1c31c23ac069a462d6b3c868cce1cb685e3652752f6a95d6"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8809,
+      "sha256": "5bfa707823709acccfad424329e60965b6b6d4114468743922af23ef859476f0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9663,
+      "sha256": "9122d7a437dc9adf6fe4090fc1421da6efac9b36d32b933aea1d3b911956265d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

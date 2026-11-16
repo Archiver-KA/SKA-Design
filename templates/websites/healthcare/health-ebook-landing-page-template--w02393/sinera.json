@@ -1,0 +1,65 @@
+{
+  "id": "SN-W02393",
+  "title": "Health Ebook Landing Page Template",
+  "summary": "Reusable landing page template for promoting a health and nutrition ebook, ideal for guiding users to stop snacking and improve well-being.",
+  "tags": [
+    "Health",
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Ebook",
+    "Nutrition",
+    "Wellness"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3443,
+      "sha256": "0e29d0a2b671f7548fba39d19568401d9cc9737ed2d9581b8ae63c071195904e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 32550,
+      "sha256": "4ff27e5235701b5c94076222980c6394aa332e996d9dccf10b98df65e3489a33"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 806,
+      "sha256": "b034f793334479242cb0388b6aa630ff78c216fc11dbd23d333680b05c27724b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25061,
+      "sha256": "bf115b74f4be56f5e468053af992f6e2aedef553c0a830aff140d442ce2cb8bc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "comparison",
+    "bento-grid",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

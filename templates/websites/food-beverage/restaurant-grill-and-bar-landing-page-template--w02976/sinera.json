@@ -1,0 +1,66 @@
+{
+  "id": "SN-W02976",
+  "title": "Restaurant Grill & Bar Landing Page Template",
+  "summary": "A modern dark-theme restaurant landing page template for grills and bars, featuring menu highlights, reservations, and social contact sections.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Restaurant",
+    "Bar",
+    "Grill"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3513,
+      "sha256": "1205be439863b22b45e2120f11f6d0bda87f5850c9a863272200c86ea043c791"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 21544,
+      "sha256": "e45a5f305dfadeff8bcd0848b4dca26c8df28990dcf4cf1be930fd1ac641d93e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 741,
+      "sha256": "872ad8dfc9ae13882de500eca4e94b7e821d79de674791c7d36f6826e4cf31c6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24782,
+      "sha256": "94ae87290825e25a72664b98601771d3a37aaf3befb1dd504d0a452d2e022c97"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "features",
+    "menu-list",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

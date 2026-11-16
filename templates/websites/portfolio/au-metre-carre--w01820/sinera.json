@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01820",
+  "title": "Au_metre_carre",
+  "summary": "A professional and clean service booking template designed for home maintenance, repair businesses, and local handymen.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Clean",
+    "Minimal",
+    "Portfolio",
+    "Landing Page"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3713,
+      "sha256": "7253fa701324585fadc11f1cf6161582b1370944f03df2a84ea0be1109509ba1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20890,
+      "sha256": "3bbf35a4421ce93b04ea0c295c5d4ae58768a0cb2e00c3fd4ac1029abd118110"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 702,
+      "sha256": "e265c7c8f56e5c1e6747b3a73792e776254a55a26bc0012558175a1adc9697ff"
+    },
+    {
+      "path": "index.html",
+      "bytes": 87218,
+      "sha256": "a54cc1c9f1221a7cb04186c744e64e2690f350e9591de9fe19a565b7f3ca2b4f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "gallery-portfolio",
+    "contact-form",
+    "case-studies",
+    "testimonials",
+    "features",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

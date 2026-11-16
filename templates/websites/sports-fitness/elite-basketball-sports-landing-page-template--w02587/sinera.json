@@ -1,0 +1,74 @@
+{
+  "id": "SN-W02587",
+  "title": "Elite Basketball Sports Landing Page Template",
+  "summary": "This reusable landing page template is designed for elite youth basketball programs, tournaments, and training facilities to showcase offerings and engage athletes.",
+  "tags": [
+    "Landing Page",
+    "Hero",
+    "Programs",
+    "Tournaments",
+    "Camps",
+    "Testimonials",
+    "Parallax",
+    "Sports",
+    "Youth Basketball",
+    "Registration"
+  ],
+  "kind": "websites",
+  "category": "sports-fitness",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3442,
+      "sha256": "048ba097cd39cc72d31fd91b5e1076ceb6fbe946d4e27b7aec2806309b98a6e1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11074,
+      "sha256": "9d187c8f53cf29688e53856454a03f4c4de00317d6f7acd26682db067f4ff0ea"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 963,
+      "sha256": "81dc5887c3b672f3f125d519f60bd9895647de7b7edfc9a706a572bfae4c8c85"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 269,
+      "sha256": "f35dd45bf3279530ce1de9f1b5699ffa3d934fc19c57db099eebd850aed33269"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27801,
+      "sha256": "1b8f08d69fe1fee67ad1bd80d2ffc9ae957b2612b45209ac98eacadf4bfde145"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "fitness",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Fitness / Sports",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "gallery-portfolio",
+    "bento-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

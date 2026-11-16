@@ -1,0 +1,68 @@
+{
+  "id": "SN-W01700",
+  "title": "Social Media Agency Landing Page Template",
+  "summary": "A premium dark-style landing page template for social media growth agencies to showcase services, case studies, FAQs, and drive strategy call bookings.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Services",
+    "Technology",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3590,
+      "sha256": "01295eb92f0e2eeff4cf72437e6348726b1bff6d58bf189fd8826d7ac2e12631"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14170,
+      "sha256": "1010bc972d34a8e4d9656863ae34542228c92fa76a107ca398586c4120f8e1ea"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "7a45ad1a3be29e2a8d53618f69e646902d4f9ea68a82355f75dad464ccad9e82"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36169,
+      "sha256": "39ef6c6f2a9f0aeb70dbc27a99e5bf0936e9a818478bdd5373b7c2acb1dfba02"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "stats",
+    "marquee",
+    "bento-grid",
+    "logo-cloud",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

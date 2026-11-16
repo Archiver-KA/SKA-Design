@@ -1,0 +1,85 @@
+{
+  "id": "SN-W01964",
+  "title": "Developer Portfolio Layout",
+  "summary": "Responsive portfolio UI showcasing profile, navigation, contact info, and featured projects with interactive cards.",
+  "tags": [
+    "Portfolio",
+    "Projects",
+    "Profile",
+    "Navigation",
+    "Contact Info",
+    "Tailwind CSS",
+    "Responsive"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3088,
+      "sha256": "7da504ca913b96805324fdd0d4fd5031a0da9289381c3a3d45783d08e2c03c23"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14918,
+      "sha256": "a8d22d2f782a4425b7a15ab1eefc4a233aefccbe4f7b8fff8a167822f1976a81"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1638,
+      "sha256": "b9bdeb98ab52c14baca227ec651c69fbf17d0127a61aaf769a29cbc9acc44cb0"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 820,
+      "sha256": "eb46a4431810c5302b081f5afc8098146fd9fd54c524eb6966c16583bfa8e816"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 430,
+      "sha256": "5ec795e398b62067f82358e78e8c0256c5653dc7bf806e1f5c9d0a84013309f2"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 292,
+      "sha256": "be1a0671a34a112dc89349de0b410d28d6ed4e08225521dbfde32f420259f6c9"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 405,
+      "sha256": "4ee7d3488f21649e1acccf0d0b41458d0fc063ca82cf9e8af24c3a8869607e22"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 401,
+      "sha256": "6273ac2415c86ad2bdf010af185559d54f8c4d0b6aa5c4de0de72c06983e8c25"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10534,
+      "sha256": "66e81cf32bde6f079ea991fb44449edf0629ee642652734fdaa9e01f26672273"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "navbar",
+    "bento-grid"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

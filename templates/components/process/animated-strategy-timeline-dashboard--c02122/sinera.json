@@ -1,0 +1,38 @@
+{
+  "id": "SN-C02122",
+  "title": "Animated Strategy Timeline Dashboard",
+  "summary": "A full-screen strategic roadmap UI with quarterly grid lines, milestone labels, and animated pixel-fade canvas blocks. Built with Tailwind CSS and custom JavaScript, ideal for startup planning, investor updates, or product roadmap presentations.",
+  "tags": [
+    "ui",
+    "tailwind",
+    "animated",
+    "timeline",
+    "dashboard",
+    "roadmap",
+    "canvas",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 24084,
+      "sha256": "d246056f5efe416da7fead9c268697c43679f21a8099436e1f0b215c35cd586f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9741,
+      "sha256": "2212e3f7d0b2cb06b4f5fad92fecebbd8c2d5921367540351bad89e817bdd1b4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

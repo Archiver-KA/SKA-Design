@@ -1,0 +1,72 @@
+{
+  "id": "SN-W04049",
+  "title": "Plumbing Services Landing Page Template",
+  "summary": "A modern plumbing services landing page template featuring service booking, FAQs, blog, and contact details for local home and commercial plumbers.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Colorful",
+    "Minimal",
+    "Plumbing",
+    "Local Business",
+    "Home Services",
+    "Professional"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3617,
+      "sha256": "c9701007eb65a83ae0f40aa510cbc6a0f2e5ea731c53e86adbdd2abca6ab535d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20968,
+      "sha256": "7d59455e80724f45de50a37268ebf0ce63259c4212fa801b0b9cece3f68c607f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 817,
+      "sha256": "801f643eb03066af0ba5caa029bed7406fd180ac07290d531faeb70ac7e0d6b5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33035,
+      "sha256": "b300969c75331d4b5ae115d5fd4eb5536ff68e12af9f0872bf008d62d601d16b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "stats",
+    "about",
+    "logo-cloud",
+    "faq",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

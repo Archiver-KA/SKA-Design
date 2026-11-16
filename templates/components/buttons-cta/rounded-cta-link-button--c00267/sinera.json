@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00267",
+  "title": "Rounded CTA Link Button",
+  "summary": "Anchor element styled with Tailwind CSS as a rounded, hover-responsive call-to-action button that navigates to the #work section—ideal for portfolio or section navigation.",
+  "tags": [
+    "button",
+    "link",
+    "cta",
+    "tailwind",
+    "rounded",
+    "hover",
+    "navigation"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1510,
+      "sha256": "115c5d733f53b933d6ead1b67f50725f09adf4decd612bf93101157886bb5e90"
+    },
+    {
+      "path": "component.html",
+      "bytes": 265,
+      "sha256": "1b23cd80ee920663089546b3da4dc641d3f6839e327987eff3d808e0ceb8ca7d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1109,
+      "sha256": "37c253d7d00ee904c7e14911c4ce5dbf4ddf4334b04118bb6746c5f29c0923ed"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

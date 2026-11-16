@@ -1,0 +1,46 @@
+{
+  "id": "SN-C01431",
+  "title": "Marketing Hero Section with CTA and Showcase",
+  "summary": "Two-column landing hero featuring bold headline, subtext, dual CTA buttons, benefit list with icons, product demo card, testimonial sub-card, and client logo strip. Uses Tailwind CSS, responsive grid, gradient backgrounds—ideal for SaaS or agency landing pages.",
+  "tags": [
+    "hero",
+    "landing page",
+    "cta",
+    "showcase",
+    "tailwind",
+    "responsive",
+    "marketing",
+    "gradient",
+    "logo strip",
+    "section"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 52480,
+      "sha256": "a92482b04ec351064320eea1a85b6029ebcab425c08c968eea8586f7e06e3677"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13091,
+      "sha256": "809f37e87510dc6b6a266c526f2f91ffee42dd4bbd4aa8fd9c5737697c3e204d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14086,
+      "sha256": "afb6d5beac60a44f13bb2f756372dbf2e71687903aef91439b60af5f29e3141a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

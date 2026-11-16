@@ -1,0 +1,62 @@
+{
+  "id": "SN-W03910",
+  "title": "Flux Plumbing Service Landing Page Template",
+  "summary": "A high-conversion emergency service template designed for plumbers and technicians, featuring a clean minimalist aesthetic and transparent pricing.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Brutal"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3790,
+      "sha256": "13201dff76f1563120cbac5049bcd52606f57fd859f0fed67eb4fb3b02dae72b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17842,
+      "sha256": "89980200ed371e817db799be701a56c73b057d16709a46985c36275d5c7d212f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "d2294c614ea4bc4f4e9d6c4f049a91f9b9e7927de599b53402d2bf4a5c4252a1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27147,
+      "sha256": "c452919a93abb8590285a21cc7da9d590e6521d064478816198e39637bbb12c6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "services",
+    "testimonials",
+    "footer",
+    "contact-form"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

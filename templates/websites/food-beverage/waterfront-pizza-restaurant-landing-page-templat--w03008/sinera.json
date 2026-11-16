@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03008",
+  "title": "Waterfront Pizza Restaurant Landing Page Template",
+  "summary": "A modern restaurant landing page template for Mediterranean and pizza spots, featuring menus, reviews, hookah, catering, and location details ready to customize.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Brand",
+    "Clean",
+    "Colorful",
+    "Large Type",
+    "Restaurant",
+    "Pizza",
+    "Mediterranean",
+    "Hookah Lounge"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3614,
+      "sha256": "f9b06aa53da11c25cbd4ddd9ff6a1fe720cfd5892d6d6bf4d84ad51505e17a46"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 35708,
+      "sha256": "242911adf8b24f961ea85b322ad0e7a9258956e7deedadc1eeca9f079036122a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 829,
+      "sha256": "7ab036673c37dba8f12d82c4a5ce9214b41ac4b7a889c9c80de3903a0a42228d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27002,
+      "sha256": "cf396424e4acd15584ff7ea3c92fcd54fbab9d8f865e31ec05d3982afc1d5289"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "menu-list",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

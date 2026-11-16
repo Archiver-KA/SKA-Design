@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01886",
+  "title": "Glassmorphic Image Card with Floating HUD Overlay",
+  "summary": "Responsive card featuring a background image, gradient blend, and a translucent glassmorphic HUD with status bars and keyboard hints. Built with Tailwind CSS for easy styling; ideal for dashboards, hero sections, or feature highlights that need an interactive overlay.",
+  "tags": [
+    "card",
+    "overlay",
+    "tailwind",
+    "glassmorphism",
+    "hud",
+    "responsive",
+    "image",
+    "dashboard"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10754,
+      "sha256": "7ca5aa85cee95a5c7a67eba352924c892ea44127f9024afd3cafb6ba7855c4dc"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3169,
+      "sha256": "a7bbeca6804c033b84719fa1dc4990b88a2350331f99a52305053de28ca6941a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4039,
+      "sha256": "9621f91eaaeca5896de144e462d6ed9c41197013d2328eae317e6bc567082ccb"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

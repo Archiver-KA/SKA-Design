@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02862",
+  "title": "Cafe Landing Page Template",
+  "summary": "A bilingual cafe landing page template for showcasing menus, brand story, reviews, and fast WhatsApp ordering in a polished modern format.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "bilingual",
+    "cafe",
+    "restaurant",
+    "WhatsApp"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3467,
+      "sha256": "e37bf45a04e2caf9ef0e89e9a982c1a8579a4a8522e390d816ab667b8cec18e7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 25920,
+      "sha256": "faabb042acdce0462d9613765bfa6af52ff2839dc27206d66e5733a957c449fc"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "dba007c1883c026f996ad0d19abfec23df8dbc8991556536b2f01139b4323922"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32542,
+      "sha256": "fb1d54a1eef3a7b02e96983e9c18f574d6405fd283713c376b5d6569b85c5ff1"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "menu-list",
+    "about",
+    "testimonials",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

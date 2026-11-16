@@ -1,0 +1,72 @@
+{
+  "id": "SN-W01650",
+  "title": "Nexus Shopify Studio Landing Page Template",
+  "summary": "A premium dark-mode agency landing page template for Shopify and headless commerce studios to showcase services, case studies, and capture new client projects.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "Shopify",
+    "Agency"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3610,
+      "sha256": "b7c7500f48f50608006be1e88a3227b3ed409c7accb7270ce8489bcbd4952ea5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15992,
+      "sha256": "a4e560e1b188d15a21cfd603eee3d17a853a284dca9daffe62e5c7b6866ad5e9"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 876,
+      "sha256": "f1477597fa3f908e324f7404fecb8acbef3cd8895a111c7dccee64a016f91f4e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 270,
+      "sha256": "6d7f47cc04d290ef4abac372150068099aee31617cc15da366306e3307a84d33"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27045,
+      "sha256": "5cf8fe37cb1945f102fe2d0381f9186c62bcb866fc17d23050573833f3ebcd6f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "case-studies",
+    "stats",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

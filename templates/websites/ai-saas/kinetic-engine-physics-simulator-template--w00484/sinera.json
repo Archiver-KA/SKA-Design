@@ -1,0 +1,91 @@
+{
+  "id": "SN-W00484",
+  "title": "Kinetic Engine Physics Simulator Template",
+  "summary": "A high-performance Verlet integration physics simulator template featuring interactive ragdolls, soft cubes, and rigid spheres for real-time web experiments.",
+  "tags": [
+    "Technology",
+    "Animated",
+    "Dark",
+    "Futuristic",
+    "Clean",
+    "3D"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "react",
+  "entry": "package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3092,
+      "sha256": "6dcea6025233a6be62fb2ed83323574be9fee4a8e69ed1d4356f5224c3680f45"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 5360,
+      "sha256": "056733f0d1b9c6f4ef08ac7c8bf4359d3aca54993b3fe35cfe03657acfe4cd9c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "d63c4abdd0a1dd0e2a947f51cf584cdb1659705c5d67421e4fcdebc8f17f7de4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 311,
+      "sha256": "81394d67fa85b68726ec46c9db352c2e87ba6dec023350683ebfd2e04ac1e157"
+    },
+    {
+      "path": "package.json",
+      "bytes": 572,
+      "sha256": "dd2824a97726dfb99d3a1990819c6bd5dd0b6b2cabe1dbb34a5675dab73be577"
+    },
+    {
+      "path": "postcss.config.js",
+      "bytes": 81,
+      "sha256": "e32657baf631d7c5f4dc67b4b2ee0ec8e7d5b3c41860e09cddce7c0377cd80bc"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 24045,
+      "sha256": "bb1c0ace24253f81bee5d11a8dd9c9165ed3ca733aa4893e8b46341def93809e"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 508,
+      "sha256": "3d012df31e0c813f47572f6180631084911a60a833327e1e136e047a7fb462e2"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 262,
+      "sha256": "c4a3627cf9188552ccf7d514f3611cb381e96e644a3ad0eec62a0c017f65aa7d"
+    },
+    {
+      "path": "tailwind.config.js",
+      "bytes": 170,
+      "sha256": "1b680285edb90900758fbe8cef6fd1cb134d369a5b7023d9217cb7faa7282858"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 135,
+      "sha256": "c502a59d3e39f4e6ebf1bbdb640cc7f153af3ab764efba8124b44bd03bab32ed"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

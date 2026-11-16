@@ -1,0 +1,67 @@
+{
+  "id": "SN-W03181",
+  "title": "Architectural Studio Landing Page Template",
+  "summary": "A minimalist architectural studio website template showcasing projects, approach, and studio narrative for modern architecture and design practices.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Art & Design",
+    "Portfolio",
+    "Minimal",
+    "Clean",
+    "Large Type",
+    "Architecture",
+    "Studio",
+    "Tailwind CSS"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3562,
+      "sha256": "8eb9376fdb4b36a141be5fbc607e44f277d1d8576136b9874e2ccdba3c774bb1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17364,
+      "sha256": "3c09a051614192a4f441104b461141400b817fbdc35480db3b4bdd40762f25dd"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 732,
+      "sha256": "b7a85a892bac62285e8988440e7f8c5b565b16bfa147961563b888c768acecc6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 32029,
+      "sha256": "255f5310c545bf4dd37ac1b901606fb86850e6833b724849eb2734e5cf4ddf56"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "stats",
+    "pricing",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

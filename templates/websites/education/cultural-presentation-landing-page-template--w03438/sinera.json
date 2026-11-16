@@ -1,0 +1,64 @@
+{
+  "id": "SN-W03438",
+  "title": "Cultural Presentation Landing Page Template",
+  "summary": "A reusable dark presentation template for showcasing cultural exchange stories, global influences, and educational content in an immersive slide-based format.",
+  "tags": [
+    "Landing Page",
+    "Education",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Animated",
+    "Cultural presentation",
+    "Storytelling",
+    "Slide deck"
+  ],
+  "kind": "websites",
+  "category": "education",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3120,
+      "sha256": "087edd9071ccd0144b2b732ee3a82f0dbf46ec335e398e7adfa595f72a6b4860"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14268,
+      "sha256": "b8f73ed03c9d557cb1ded8e3a50e3da1362dde1c6997308441d12ec8833a5af6"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 814,
+      "sha256": "1546a3bc835a2748a42a16a73e7f71ec7f1a596422997933d10c51bb8f0b33e3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41764,
+      "sha256": "49c6e076f901a8cd56f56e3ad6944d83336738d6ab7b263360a2050857b35a5c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "education",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Education",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SN-W04218",
+  "title": "Interactive Globe with Project Stats",
+  "summary": "Responsive hero section featuring an animated 3D globe, navigation menu, call-to-action buttons, and key project statistics.",
+  "tags": [
+    "Hero",
+    "3D Globe",
+    "Tailwind CSS",
+    "Animation",
+    "Responsive Design",
+    "Stats",
+    "Canvas"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3142,
+      "sha256": "0a7b42b6365b182d22dc581c995f8daaf84c2f077d23a2725bceba0abc624ec7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16366,
+      "sha256": "2565d45edc5f32d0e9fcafa6d21b562d058b1fbee7867d4c97a43f28c3a987d2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 872,
+      "sha256": "32f9b9f60e614df5478a50d52503f9ad67528eb22e90f4ac08185cd8de6df8aa"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 245,
+      "sha256": "cb4ebdd2c3bfc0a6c440c55ec75b408d9c147c0265724f2adfae3f261680a52d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5267,
+      "sha256": "f7afe5b9a53438b5caefa6af73c5a00c2a34aa37fe58d28cd80280c4c678fc04"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

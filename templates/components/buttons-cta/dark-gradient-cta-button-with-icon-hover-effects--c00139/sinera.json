@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00139",
+  "title": "Dark Gradient CTA Button with Icon & Hover Effects",
+  "summary": "Pill-shaped anchor button featuring dark gradient background, inner circular icon slot, layered box-shadows and animated hover states (color shift, glow, icon tilt). Built with Tailwind-like utility classes and custom CSS. Ideal for prominent call-to-action links.",
+  "tags": [
+    "button",
+    "cta",
+    "icon",
+    "gradient",
+    "hover",
+    "animated",
+    "tailwind",
+    "dark"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1698,
+      "sha256": "4851482a584e1ff9b30277d69432a42eff3e1e3702d7801a84d3e1e7dd0973a2"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3281,
+      "sha256": "f38575134db4df28485c33c84cd9dc0d67694ae8df96d3c2fea22cc1096cd528"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4286,
+      "sha256": "815f269457c939ee8dc190d1ac424e022fa1950c4f5808c2509ce23f98800f4a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

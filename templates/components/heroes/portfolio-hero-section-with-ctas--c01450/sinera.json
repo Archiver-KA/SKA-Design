@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01450",
+  "title": "Portfolio Hero Section with CTAs",
+  "summary": "Responsive hero block for personal portfolio showcasing large adaptive name heading, brief bio, primary/secondary call-to-action buttons and three-item info grid. Built with Tailwind CSS for easy theming and mobile-first layouts.",
+  "tags": [
+    "hero",
+    "portfolio",
+    "tailwind",
+    "responsive",
+    "cta",
+    "grid",
+    "personal",
+    "section"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 17502,
+      "sha256": "3e384d618841be57624c88aa1d403948fc6b6fcea7d26a3f40c4893ee423b80d"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4635,
+      "sha256": "929e57b657b4075087a681d6a1a120f31c3b90374bfe312f0d99465cde780ef4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5618,
+      "sha256": "00a1dd5c622153463d3444ffbd81047b7774d9211c25b6e4cc9aa916bd8fe96b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

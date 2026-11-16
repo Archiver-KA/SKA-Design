@@ -1,0 +1,22 @@
+<svg viewBox="0 0 80 80" class="w-full h-full" fill="none" stroke="currentColor" stroke-width="1">
+                  <!-- Transmission Tower Schematic -->
+                  <path d="M40 4 L40 76" stroke-width="1.5"></path>
+                  <path d="M26 14 L54 14"></path>
+                  <path d="M22 28 L58 28"></path>
+                  <path d="M18 44 L62 44"></path>
+                  <path d="M14 60 L66 60"></path>
+                  <path d="M40 14 L26 28 M40 14 L54 28"></path>
+                  <path d="M26 28 L22 44 M54 28 L58 44"></path>
+                  <path d="M22 44 L18 60 M58 44 L62 60"></path>
+                  <!-- Insulators -->
+                  <circle cx="26" cy="16" r="2.5" fill="none"></circle>
+                  <circle cx="54" cy="16" r="2.5" fill="none"></circle>
+                  <path d="M23 20 L23 24 M29 20 L29 24" stroke-width="0.75"></path>
+                  <path d="M51 20 L51 24 M57 20 L57 24" stroke-width="0.75"></path>
+                  <!-- Cross bracing -->
+                  <path d="M30 32 L50 40 M50 32 L30 40" stroke-width="0.5" opacity="0.6"></path>
+                  <path d="M26 48 L54 56 M54 48 L26 56" stroke-width="0.5" opacity="0.6"></path>
+                  <!-- Foundation -->
+                  <rect x="12" y="72" width="12" height="4" fill="currentColor" opacity="0.3"></rect>
+                  <rect x="56" y="72" width="12" height="4" fill="currentColor" opacity="0.3"></rect>
+                </svg>

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02120",
+  "title": "Animated Process Timeline Section",
+  "summary": "Vertical timeline component styled with Tailwind CSS. Displays four-step workflow with animated progress line, staggered card reveals, and IntersectionObserver scroll trigger. Ideal for showcasing processes, roadmaps, or onboarding flows.",
+  "tags": [
+    "timeline",
+    "tailwindcss",
+    "animated",
+    "scroll",
+    "workflow",
+    "responsive",
+    "progress",
+    "section"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16372,
+      "sha256": "e7b82608ca8280d6c215866103cfd66d52fc860b9dcb703591325ac61b80c616"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12098,
+      "sha256": "768d4295cfbb66f83d44b36f36801cc62f9c515590a2c1095742682b75f5c4fe"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12952,
+      "sha256": "f4f26fde65e41adc8242265c916c2562da3b74bb879256a41ed0e104a5b71688"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

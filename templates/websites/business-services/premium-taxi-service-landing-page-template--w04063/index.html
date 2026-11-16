@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="fr" data-theme="route">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TaxiParis | Taxi premium à Paris, prix connu avant le départ</title>
+<meta name="description" content="Réservez un taxi premium en quelques étapes : indiquez départ et destination, recevez un prix ferme avant l'arrivée du véhicule. Aéroports, Paris intra-muros, longues distances.">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config={theme:{extend:{colors:{ground:'#EEF1F3',surface:'#FFFFFF',ink:'#10212B',muted:'#4A5C68',line:'#CDD5DA',accent:'#F26B1D',accent2:'#1F5F8B'},fontFamily:{display:['"Barlow Condensed"','system-ui','sans-serif'],body:['Inter','system-ui','sans-serif']}}}};
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+[data-theme="route"]{--sa-ground:#EEF1F3;--sa-surface:#FFFFFF;--sa-ink:#10212B;--sa-muted:#4A5C68;--sa-line:#CDD5DA;--sa-accent:#F26B1D;--sa-on-accent:#10212B;--sa-accent-2:#1F5F8B;--sa-on-accent-2:#FFFFFF;--sa-font-display:"Barlow Condensed",system-ui,sans-serif;--sa-font-body:"Inter",system-ui,sans-serif;--sa-radius-control:0px;--sa-radius-card:0px;--sa-display-case:uppercase;color-scheme:light;background:var(--sa-ground);color:var(--sa-ink);font-family:var(--sa-font-body)}
+[data-theme] :is(h1,h2,h3){font-family:var(--sa-font-display);text-transform:var(--sa-display-case);text-wrap:balance;letter-spacing:.005em}
+body{background:var(--sa-ground);color:var(--sa-ink);font-family:var(--sa-font-body);-webkit-font-smoothing:antialiased}
+.sa-btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;padding:0 22px;border:0;border-radius:0;background:var(--sa-accent);color:var(--sa-on-accent);font:600 15px/1 var(--sa-font-body);text-decoration:none;cursor:pointer}
+.sa-btn:hover{background:#FF7F36}
+.sa-btn--ghost{background:transparent;box-shadow:inset 0 0 0 1px var(--sa-ink)}
+.sa-btn--ghost:hover{background:var(--sa-ink);color:#fff}
+:focus-visible{outline:2px solid var(--sa-ink);outline-offset:2px}
+.on-ink :focus-visible{outline-color:#fff}
+.fld{display:block;width:100%;min-height:48px;padding:0 12px;border:1px solid var(--sa-ink);border-radius:0;background:#fff;color:var(--sa-ink);font:400 15px var(--sa-font-body)}
+.lbl{display:block;margin-bottom:6px;font:600 12px/1 var(--sa-font-body);letter-spacing:.08em;text-transform:uppercase;color:var(--sa-muted)}
+details>summary{list-style:none;cursor:pointer;min-height:56px;display:flex;align-items:center;justify-content:space-between;gap:16px}
+details>summary::-webkit-details-marker{display:none}
+details[open] .plus{transform:rotate(45deg)}
+.plus{transition:transform .2s}
+.ph{display:flex;align-items:center;justify-content:center;text-align:center;font-size:13px;color:var(--sa-muted);background:repeating-linear-gradient(135deg,#E3E8EB 0 10px,#EEF1F3 10px 20px);border:1px solid var(--sa-line)}
+</style>
+</head>
+<body>
+<header class="bg-surface border-b border-line sticky top-0 z-40">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
+    <a href="#top" class="flex items-center gap-2 font-display text-2xl font-bold uppercase tracking-wide" aria-label="TaxiParis, retour en haut de page">
+      <svg width="28" height="28" viewBox="0 0 28 28" fill="none" aria-hidden="true"><rect width="28" height="28" fill="#10212B"/><path d="M6 17h16M8 17l2-5h8l2 5M9 20v-3m10 3v-3" stroke="#F26B1D" stroke-width="2"/></svg>
+      TaxiParis
+    </a>
+    <nav class="hidden md:flex items-center gap-8 text-[15px] font-medium" aria-label="Navigation principale">
+      <a class="hover:underline underline-offset-4" href="#dich-vu">Services</a>
+      <a class="hover:underline underline-offset-4" href="#doi-xe">Flotte</a>
+      <a class="hover:underline underline-offset-4" href="#quy-trinh">Comment réserver</a>
+      <a class="hover:underline underline-offset-4" href="#hoi-dap">Questions fréquentes</a>
+    </nav>
+    <div class="flex items-center gap-2">
+      <a href="#dat-xe" class="sa-btn hidden sm:inline-flex">Réserver maintenant</a>
+      <button id="mbtn" class="md:hidden w-11 h-11 inline-flex items-center justify-center border border-ink" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="mnav">
+        <svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 6h16M3 11h16M3 16h16"/></svg>
+      </button>
+    </div>
+  </div>
+  <nav id="mnav" class="hidden md:hidden border-t border-line bg-surface" aria-label="Menu mobile">
+    <div class="px-4 py-2 flex flex-col">
+      <a class="min-h-[48px] flex items-center border-b border-line" href="#dich-vu">Services</a>
+      <a class="min-h-[48px] flex items-center border-b border-line" href="#doi-xe">Flotte</a>
+      <a class="min-h-[48px] flex items-center border-b border-line" href="#quy-trinh">Comment réserver</a>
+      <a class="min-h-[48px] flex items-center border-b border-line" href="#hoi-dap">Questions fréquentes</a>
+      <a class="sa-btn my-3" href="#dat-xe">Réserver maintenant</a>
+    </div>
+  </nav>
+</header>
+
+<main id="top">
+<!-- HERO : formulaire de devis au centre -->
+<section class="max-w-6xl mx-auto px-4 sm:px-6 pt-10 pb-14 lg:pt-16 lg:pb-20 grid lg:grid-cols-12 gap-10 items-start">
+  <div class="lg:col-span-7">
+    <p class="lbl">Taxi premium · Prise en charge à l'adresse</p>
+    <h1 class="text-[56px] leading-[0.92] sm:text-8xl lg:text-[104px] font-bold">Réservez une fois.<br>Connaissez le prix <span class="text-accent2">avant</span> de partir.</h1>
+    <p class="mt-6 max-w-xl text-lg text-muted">Indiquez votre adresse de départ et votre destination, recevez un prix ferme pour toute la course. Un chauffeur professionnel agréé arrive à l'heure, sans supplément surprise en route.</p>
+    <ul class="mt-8 grid sm:grid-cols-2 gap-x-8 gap-y-3 text-[15px]">
+      <li class="flex gap-3"><svg class="shrink-0 mt-0.5" width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="#1F5F8B" stroke-width="2" aria-hidden="true"><path d="M4 10.5l4 4 8-9"/></svg>Prix arrêté à l'avance, détaillé poste par poste</li>
+      <li class="flex gap-3"><svg class="shrink-0 mt-0.5" width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="#1F5F8B" stroke-width="2" aria-hidden="true"><path d="M4 10.5l4 4 8-9"/></svg>Suivi de votre vol, attente offerte en cas de retard</li>
+      <li class="flex gap-3"><svg class="shrink-0 mt-0.5" width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="#1F5F8B" stroke-width="2" aria-hidden="true"><path d="M4 10.5l4 4 8-9"/></svg>Véhicule propre, climatisé, eau à bord</li>
+      <li class="flex gap-3"><svg class="shrink-0 mt-0.5" width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="#1F5F8B" stroke-width="2" aria-hidden="true"><path d="M4 10.5l4 4 8-9"/></svg>Facture électronique pour les entreprises</li>
+    </ul>
+  </div>
+
+  <form id="dat-xe" class="lg:col-span-5 bg-surface border border-ink p-5 sm:p-7 shadow-[8px_8px_0_#10212B]" aria-labelledby="f-title" onsubmit="event.preventDefault();document.getElementById('f-ok').hidden=false">
+    <h2 id="f-title" class="text-4xl font-bold leading-none">Devis de votre course</h2>
+    <p class="mt-2 text-sm text-muted">Remplissez les champs, nous vous rappelons pour confirmer en quelques minutes aux heures d'ouverture.</p>
+    <div class="mt-6 space-y-4">
+      <div><label class="lbl" for="f-from">Lieu de prise en charge</label><input id="f-from" class="fld" type="text" placeholder="Adresse ou nom de l'immeuble" autocomplete="street-address"></div>
+      <div><label class="lbl" for="f-to">Destination</label><input id="f-to" class="fld" type="text" placeholder="Adresse, aéroport, gare"></div>
+      <div class="grid grid-cols-2 gap-3">
+        <div><label class="lbl" for="f-date">Date</label><input id="f-date" class="fld" type="date"></div>
+        <div><label class="lbl" for="f-time">Heure de prise en charge</label><input id="f-time" class="fld" type="time"></div>
+      </div>
+      <div><label class="lbl" for="f-car">Type de véhicule</label>
+        <select id="f-car" class="fld"><option>Berline 4 places</option><option>SUV 7 places</option><option>Monospace premium</option></select></div>
+      <div><label class="lbl" for="f-tel">Téléphone</label><input id="f-tel" class="fld" type="tel" placeholder="[VOTRE NUMÉRO DE TÉLÉPHONE]" autocomplete="tel"></div>
+      <button class="sa-btn w-full" type="submit">Obtenir mon devis</button>
+      <p id="f-ok" hidden class="text-sm font-medium text-accent2" role="status">Demande enregistrée. Ceci est un modèle : reliez le formulaire à votre système de réservation.</p>
+    </div>
+  </form>
+</section>
+
+<!-- PREUVES -->
+<section class="bg-ink text-white on-ink" aria-label="Nos engagements">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-10 grid sm:grid-cols-2 lg:grid-cols-4 gap-8">
+    <div><h3 class="text-2xl font-semibold">Licence professionnelle</h3><p class="mt-2 text-[15px] text-[#C9D3D9]">Numéro de carte professionnelle : [NUMÉRO DE CARTE PROFESSIONNELLE]</p></div>
+    <div><h3 class="text-2xl font-semibold">Passagers assurés</h3><p class="mt-2 text-[15px] text-[#C9D3D9]">Chaque course est assurée. Assureur : [NOM DE L'ASSUREUR].</p></div>
+    <div><h3 class="text-2xl font-semibold">Chauffeurs contrôlés</h3><p class="mt-2 text-[15px] text-[#C9D3D9]">Casier vérifié, permis en règle, formation à l'accueil des clients.</p></div>
+    <div><h3 class="text-2xl font-semibold">Assistance pendant la course</h3><p class="mt-2 text-[15px] text-[#C9D3D9]">Notre standard [VOTRE NUMÉRO DE TÉLÉPHONE] répond si vous devez modifier le lieu de prise en charge.</p></div>
+  </div>
+</section>
+
+<!-- SERVICES -->
+<section id="dich-vu" class="max-w-6xl mx-auto px-4 sm:px-6 py-16 lg:py-24">
+  <div class="grid lg:grid-cols-12 gap-8">
+    <h2 class="lg:col-span-5 text-5xl sm:text-6xl font-bold leading-[0.95]">Trois types de courses, trois tarifs clairs</h2>
+    <div class="lg:col-span-7 grid sm:grid-cols-3 border border-line bg-surface">
+      <article class="p-6 border-b sm:border-b-0 sm:border-r border-line">
+        <svg width="36" height="36" viewBox="0 0 36 36" fill="none" stroke="#10212B" stroke-width="2" aria-hidden="true"><path d="M4 22l26-12-6 18-6-7z"/></svg>
+        <h3 class="mt-4 text-3xl font-semibold">Transferts aéroport</h3>
+        <p class="mt-3 text-[15px] text-muted">Votre chauffeur vous attend dans le hall d'arrivée avec une pancarte à votre nom. Forfait par trajet, frais d'aéroport inclus.</p>
+        <p class="mt-4 text-sm font-semibold">À partir de [VOTRE PRIX]</p>
+      </article>
+      <article class="p-6 border-b sm:border-b-0 sm:border-r border-line">
+        <svg width="36" height="36" viewBox="0 0 36 36" fill="none" stroke="#10212B" stroke-width="2" aria-hidden="true"><rect x="5" y="8" width="26" height="20"/><path d="M5 15h26M12 8v-3m12 3v-3"/></svg>
+        <h3 class="mt-4 text-3xl font-semibold">Courses dans Paris</h3>
+        <p class="mt-3 text-[15px] text-muted">Réservez à l'avance ou appelez un taxi tout de suite. Tarif au kilomètre, prix maximum affiché avant votre confirmation.</p>
+        <p class="mt-4 text-sm font-semibold">À partir de [VOTRE PRIX] / km</p>
+      </article>
+      <article class="p-6">
+        <svg width="36" height="36" viewBox="0 0 36 36" fill="none" stroke="#10212B" stroke-width="2" aria-hidden="true"><path d="M6 30c8-2 4-10 12-12s4-10 12-12"/><circle cx="6" cy="30" r="2"/><circle cx="30" cy="6" r="2"/></svg>
+        <h3 class="mt-4 text-3xl font-semibold">Longue distance, aller-retour</h3>
+        <p class="mt-3 text-[15px] text-muted">Le véhicule et son chauffeur restent à votre disposition dans la journée, un seul prix pour l'aller et le retour.</p>
+        <p class="mt-4 text-sm font-semibold">À partir de [VOTRE PRIX]</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- FLOTTE -->
+<section id="doi-xe" class="bg-surface border-y border-line">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-16 lg:py-24">
+    <h2 class="text-5xl sm:text-6xl font-bold leading-[0.95] max-w-2xl">Choisissez le véhicule selon vos passagers et vos valises</h2>
+    <div class="mt-10 grid gap-6 md:grid-cols-3">
+      <figure><div class="ph aspect-[4/3]">Photo berline 4 places · 4:3</div>
+        <figcaption class="pt-4"><h3 class="text-3xl font-semibold">Berline</h3><p class="text-[15px] text-muted mt-1">3 passagers, 2 valises moyennes. [VOTRE MODÈLE DE VÉHICULE]</p></figcaption></figure>
+      <figure><div class="ph aspect-[4/3]">Photo SUV 7 places · 4:3</div>
+        <figcaption class="pt-4"><h3 class="text-3xl font-semibold">SUV</h3><p class="text-[15px] text-muted mt-1">5 passagers, 4 valises. Idéal en famille. [VOTRE MODÈLE DE VÉHICULE]</p></figcaption></figure>
+      <figure><div class="ph aspect-[4/3]">Photo monospace premium · 4:3</div>
+        <figcaption class="pt-4"><h3 class="text-3xl font-semibold">Monospace</h3><p class="text-[15px] text-muted mt-1">6 passagers, sièges inclinables, porte coulissante électrique. [VOTRE MODÈLE DE VÉHICULE]</p></figcaption></figure>
+    </div>
+  </div>
+</section>
+
+<!-- ÉTAPES -->
+<section id="quy-trinh" class="max-w-6xl mx-auto px-4 sm:px-6 py-16 lg:py-24">
+  <h2 class="text-5xl sm:text-6xl font-bold leading-[0.95]">De la réservation à la descente du véhicule</h2>
+  <ol class="mt-10 grid md:grid-cols-4 border-t-2 border-ink">
+    <li class="pt-5 pr-6 pb-6"><span class="font-display text-6xl font-bold text-accent2">1</span><h3 class="text-2xl font-semibold mt-1">Envoyez votre trajet</h3><p class="mt-2 text-[15px] text-muted">Indiquez départ, destination, heure et numéro de téléphone.</p></li>
+    <li class="pt-5 pr-6 pb-6"><span class="font-display text-6xl font-bold text-accent2">2</span><h3 class="text-2xl font-semibold mt-1">Recevez un prix ferme</h3><p class="mt-2 text-[15px] text-muted">Notre régulation vous rappelle, vous annonce le forfait et confirme le véhicule.</p></li>
+    <li class="pt-5 pr-6 pb-6"><span class="font-display text-6xl font-bold text-accent2">3</span><h3 class="text-2xl font-semibold mt-1">Le véhicule arrive à l'heure</h3><p class="mt-2 text-[15px] text-muted">Vous recevez le nom du chauffeur et l'immatriculation avant l'heure de prise en charge.</p></li>
+    <li class="pt-5 pr-6 pb-6"><span class="font-display text-6xl font-bold text-accent2">4</span><h3 class="text-2xl font-semibold mt-1">Paiement simple</h3><p class="mt-2 text-[15px] text-muted">Espèces, carte bancaire, virement ou compte entreprise.</p></li>
+  </ol>
+</section>
+
+<!-- TÉMOIGNAGE -->
+<section class="bg-surface border-y border-line">
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 py-16 text-center">
+    <blockquote class="font-display text-4xl sm:text-5xl font-semibold uppercase leading-[1.05]">« [CITATION CLIENT SUR UNE COURSE À L'HEURE] »</blockquote>
+    <p class="mt-5 text-muted">[NOM, FONCTION]</p>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section id="hoi-dap" class="max-w-3xl mx-auto px-4 sm:px-6 py-16 lg:py-24">
+  <h2 class="text-5xl sm:text-6xl font-bold leading-[0.95]">Questions fréquentes</h2>
+  <div class="mt-8 border-t border-ink">
+    <details class="border-b border-line"><summary class="font-semibold">Le prix annoncé peut-il changer en cours de route ?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">Le prix est ferme pour le trajet confirmé. Il ne change que si vous modifiez la destination ou ajoutez un arrêt, et nous vous prévenons avant toute facturation.</p></details>
+    <details class="border-b border-line"><summary class="font-semibold">Que se passe-t-il si mon vol a du retard ?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">Indiquez votre numéro de vol à la réservation. Le chauffeur suit l'heure d'atterrissage et attend selon notre politique : [DURÉE D'ATTENTE OFFERTE].</p></details>
+    <details class="border-b border-line"><summary class="font-semibold">L'annulation est-elle payante ?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">Annulation gratuite jusqu'à [NOMBRE D'HEURES] avant la prise en charge. Au-delà, des frais s'appliquent : [CONDITIONS D'ANNULATION].</p></details>
+    <details class="border-b border-line"><summary class="font-semibold">Pouvez-vous facturer mon entreprise ?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 20 20" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 3v14M3 10h14"/></svg></summary><p class="pb-5 text-muted">Oui. Communiquez le numéro de TVA de votre société à la réservation, la facture électronique vous est envoyée par e-mail après la course.</p></details>
+  </div>
+</section>
+
+<!-- APPEL À L'ACTION FINAL -->
+<section class="bg-accent">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-14 flex flex-col md:flex-row md:items-center justify-between gap-6">
+    <h2 class="text-5xl sm:text-6xl font-bold leading-[0.95] max-w-2xl">Votre prochaine course, devis en quelques minutes</h2>
+    <a href="#dat-xe" class="inline-flex items-center justify-center min-h-[52px] px-8 bg-ink text-white font-semibold">Réserver maintenant</a>
+  </div>
+</section>
+</main>
+
+<footer class="bg-ink text-[#C9D3D9] on-ink">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-10 grid md:grid-cols-3 gap-8 text-[15px]">
+    <div><p class="font-display text-2xl font-bold uppercase text-white">Taxi Premium</p><p class="mt-2">[VOTRE ADRESSE]</p></div>
+    <div><p class="font-semibold text-white">Contact</p><p class="mt-2">[VOTRE NUMÉRO DE TÉLÉPHONE] · [VOTRE E-MAIL]</p><p>Régulation : [HORAIRES D'OUVERTURE]</p></div>
+    <div><p class="font-semibold text-white">Informations légales</p><p class="mt-2"><a class="underline" href="#hoi-dap">Conditions d'annulation</a></p><p><a class="underline" href="#hoi-dap">Facturation et paiement</a></p></div>
+  </div>
+</footer>
+<script>
+var b=document.getElementById('mbtn'),n=document.getElementById('mnav');
+b.addEventListener('click',function(){var o=n.classList.toggle('hidden')===false;b.setAttribute('aria-expanded',o);b.setAttribute('aria-label',o?'Fermer le menu':'Ouvrir le menu')});
+n.addEventListener('click',function(e){if(e.target.tagName==='A'){n.classList.add('hidden');b.setAttribute('aria-expanded','false')}});
+</script>
+</body>
+</html>

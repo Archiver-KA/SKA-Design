@@ -1,0 +1,61 @@
+{
+  "id": "SN-W03949",
+  "title": "Industrial Inventory Portal Template",
+  "summary": "A high-performance dark-themed management dashboard template for tracking physical stock, warehouse zones, and industrial supply logistics.",
+  "tags": [
+    "Services",
+    "Technology",
+    "Technology",
+    "Clean",
+    "Dark",
+    "Grid",
+    "Minimal",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2420,
+      "sha256": "dfebe7005936e1f5b8dc18da710ae6135f97f5edc9d86debd1e55161d6e0c20f"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3520,
+      "sha256": "8ec9218d1865669e4671feb1cee4eeb95df9aade059206d9a9e0dff2e307399f"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "afe6380963ea9386b7fc9de7a9ce762bf53def545a6858f409b0d80c34a82334"
+    },
+    {
+      "path": "index.html",
+      "bytes": 528292,
+      "sha256": "56c7f64f2708109face3989c729b5bb6a6f40653576246a2d4a496411048656b"
+    }
+  ],
+  "collection": "logistics",
+  "collectionCategory": "supply-chain",
+  "collectionLabel": "Logistics",
+  "collectionCategoryLabel": "Supply Chain",
+  "collectionConfidence": 0.88,
+  "collectionBasis": "business-keywords",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "auth-form",
+    "navbar",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02132",
+  "title": "Onboarding Steps Card with Logo and CTA",
+  "summary": "Tailwind-styled onboarding card featuring an illustration, welcome text, three-step checklist, and primary/secondary buttons. Ideal for first-time user flows, welcome modals, or dashboard intro panels.",
+  "tags": [
+    "card",
+    "onboarding",
+    "steps",
+    "cta",
+    "tailwind",
+    "responsive",
+    "welcome",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "process",
+  "categoryLabel": "Process, timelines & roadmaps",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 10460,
+      "sha256": "ec22d725a8a7e49420dee9e51699db791841d92b4e9b34350aa0c8c058fafd5c"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4013,
+      "sha256": "0325b5e17dc98e74663da6ebf3ff5786af96c40d7c5483dba31f864540781ebe"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4873,
+      "sha256": "b3bb0df0544ed3c351627d7e817611d1e94503e77df9f66b23ff73705aa616d5"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

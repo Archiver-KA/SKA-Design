@@ -1,0 +1,41 @@
+{
+  "id": "SN-C02452",
+  "title": "Placeholder Text Component",
+  "summary": "Simple placeholder component containing dummy text, used as a temporary stand-in while actual code or content is developed",
+  "tags": [
+    "placeholder",
+    "text",
+    "dummy",
+    "content",
+    "static"
+  ],
+  "kind": "components",
+  "category": "typography",
+  "categoryLabel": "Text & typography",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3748,
+      "sha256": "64be6b573b1e8ad6d66da3dbb9307687ff1f43f45990ea6ae3dc83b1bfe073e7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 24,
+      "sha256": "7311cd65cbfef3f74b28b741714b6dd741ac5c8e3859e6f127d77c4d9c589ddd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 871,
+      "sha256": "706f908058689eadcb3a48af6230e27a8dec5999f82698c75ead321c5f1b10e4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

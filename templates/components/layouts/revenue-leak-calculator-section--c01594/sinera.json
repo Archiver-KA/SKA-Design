@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01594",
+  "title": "Revenue Leak Calculator Section",
+  "summary": "Interactive calculator that helps clinics calculate revenue leaks from their patient journey funnel. Features preset toggles, input forms, economic constraints, quiz diagnostic, and detailed results visualization with leak mapping.",
+  "tags": [
+    "section",
+    "calculator",
+    "form",
+    "interactive",
+    "modern",
+    "dashboard",
+    "responsive",
+    "animated"
+  ],
+  "kind": "components",
+  "category": "layouts",
+  "categoryLabel": "Layouts & combined sections",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 18488,
+      "sha256": "5fcf96e6822927a41e3c5a3e5a5c344767392e1f9f8112c4bd7b2d790536dba9"
+    },
+    {
+      "path": "component.html",
+      "bytes": 48575,
+      "sha256": "c781488e04b03276df84740fbb15385c1ba9e104ea52aa87cf7b08c9f9422698"
+    },
+    {
+      "path": "index.html",
+      "bytes": 49427,
+      "sha256": "ed992e70cb0f9bc0712d3bc11bdaf11f8c1682dbfa34063782311c1e4f58928e"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

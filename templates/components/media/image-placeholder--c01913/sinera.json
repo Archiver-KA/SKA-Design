@@ -1,0 +1,41 @@
+{
+  "id": "SN-C01913",
+  "title": "Image Placeholder",
+  "summary": "A simple image component displaying a URL reference. This component can be used as a placeholder or to display external images with proper responsive sizing.",
+  "tags": [
+    "card",
+    "image",
+    "placeholder",
+    "responsive",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6354,
+      "sha256": "03736debae6a70df40ad8a5efb507072c665fbb42db3c57b9a4b8c3566b060f0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 494,
+      "sha256": "005b14d5a7d56e9ec3b1f0fadc520f808ae8d4d84626214d351a05209b6b068b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1332,
+      "sha256": "3ca8d0a735be8b85ca81b3cf84afed05b79daa8869a130a6b9e899aa8978cbb8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

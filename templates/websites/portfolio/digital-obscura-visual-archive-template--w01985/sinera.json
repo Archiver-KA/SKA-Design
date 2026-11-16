@@ -1,0 +1,71 @@
+{
+  "id": "SN-W01985",
+  "title": "Digital Obscura Visual Archive Template",
+  "summary": "A cinematic, high-concept portfolio and digital exhibition template designed for photographers and artists looking to document memories with a technical, archival aesthetic.",
+  "tags": [
+    "Portfolio",
+    "Art & Design",
+    "Dark",
+    "Minimal",
+    "Clean",
+    "Animated",
+    "Futuristic",
+    "Gallery",
+    "Creative"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3247,
+      "sha256": "92de33c6e35c2ee935877b3037d5eb04cbdca58de4588cd7d413c7340b308a92"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12258,
+      "sha256": "5f2ad0792893e93bcae23f673395e00397f1d72b7e5c0c0cb1b68c8ab74719d0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 867,
+      "sha256": "b36ebd60b1f8476644e0c08c414a65c1a79e36744c92248c4179778f75988745"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 255,
+      "sha256": "9c5328453024fb0f0d95b3cc31b5b67f1a720fd2de16a38048fd0c7ba113086c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 44630,
+      "sha256": "08c664edcff6d990b5c43e0d9ad885a298a30481b93f29e434579dcac7d23bbf"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "gallery-portfolio",
+    "cta",
+    "footer",
+    "about"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

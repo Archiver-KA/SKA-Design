@@ -1,0 +1,70 @@
+{
+  "id": "SN-W02404",
+  "title": "Healthcare Landing Page Template",
+  "summary": "A reusable healthcare landing page template for clinics and medical practices to showcase services, telehealth, patient care, and appointment booking.",
+  "tags": [
+    "Health",
+    "Landing Page",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Medical",
+    "Clinic",
+    "Telehealth"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3312,
+      "sha256": "8c189abd9213a4a0c9c545bc9ca2585726c9304b0fd43a48ce8f29a6c630b117"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 26806,
+      "sha256": "efd17d5eec8c24c5809fa265b984f51e2af53dce297efb6dc3b3ed5d06ed5e89"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 862,
+      "sha256": "65f47b837e9bbd8b279e7e89a032052a70d25916a70fb78f226daa6b3a6db520"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 267,
+      "sha256": "6c905d59716ce63cc5ffaa859075358d8c61a0c35b9942d725f59dce957051c5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19068,
+      "sha256": "67751e77c11acf0dc1813ca60d190165c0aeca7a78de51a42ead83efb8ddd37a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "how-it-works",
+    "services",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00552",
+  "title": "Full-Screen Spline 3D Background Component",
+  "summary": "Embeds a Spline iframe as a full-width, full-height animated 3D background with absolute positioning and Tailwind utility classes, ideal for hero sections or immersive page backdrops.",
+  "tags": [
+    "background",
+    "3d",
+    "animation",
+    "spline",
+    "tailwind",
+    "iframe",
+    "decorative"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 6252,
+      "sha256": "ce1a963e53f829aad29ab3388a520bd027461993b2e45e366e80292472baf4f1"
+    },
+    {
+      "path": "component.html",
+      "bytes": 247,
+      "sha256": "c2bc1ca848007ae935a9d48bf863d18dbd5409a9e8f83271f4ed557eb67ff821"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1110,
+      "sha256": "123c8c62f52153ae6b632f5222574ca5a8255b79bf3e4b44197ce2ede3da4152"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

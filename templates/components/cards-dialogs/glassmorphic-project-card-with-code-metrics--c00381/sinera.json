@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00381",
+  "title": "Glassmorphic Project Card with Code & Metrics",
+  "summary": "Stylized glass-effect card built with Tailwind CSS showing project title, code editor preview, key stats, and tag chips; features hover animations and responsive layout for dashboards, portfolios, or AI monitoring panels.",
+  "tags": [
+    "card",
+    "project-card",
+    "tailwind",
+    "glassmorphism",
+    "code-preview",
+    "metrics",
+    "dashboard",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11534,
+      "sha256": "a77e955fa36885245394580a47fdbabcae4432e9b57e1f014f3ec045aa0e6bed"
+    },
+    {
+      "path": "component.html",
+      "bytes": 8372,
+      "sha256": "c3d51bd92f630e36f5895ae6ad9be82af62bbcc86ea2cfb7a47977af432369cf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9242,
+      "sha256": "64ce476bb16f1a9476ceed6fd9bef8f4e785a872173167a0e04c8dd35468565d"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

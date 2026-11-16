@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02859",
+  "title": "Cafe Landing Page Template",
+  "summary": "A luxurious cafe website template for showcasing menus, gallery highlights, reservations, and location details for premium coffee brands.",
+  "tags": [
+    "Landing Page",
+    "Food",
+    "Services",
+    "Dark",
+    "Gradient",
+    "Animated",
+    "Luxury cafe",
+    "Restaurant",
+    "Reservation"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3755,
+      "sha256": "d2f88b257e40bab00ccbf3cc9c3f7dc6cc69e91be0e5bb9db5e56ee9af9decf6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12102,
+      "sha256": "632579b01bd996834fe922208468a7210e8a1e28a2c11b9d695a956c61da526c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 806,
+      "sha256": "0e6db8acaca2c262d0a7a475cb09e82d0feea833b0434d5186af279fd7a71723"
+    },
+    {
+      "path": "index.html",
+      "bytes": 43247,
+      "sha256": "7433e260fc03a4380a48c408e9dd94c6388ad451c2163beb15179da98b099f9c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "menu-list",
+    "gallery-portfolio",
+    "booking",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

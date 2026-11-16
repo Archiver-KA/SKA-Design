@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00424",
+  "title": "Portfolio Card with Image Hover Zoom",
+  "summary": "Displays a project thumbnail with gradient overlay, category icon, title and summary. Tailwind-styled card features subtle image zoom on hover and rounded, blurred backdrop—ideal for portfolio grids, galleries or blog post previews.",
+  "tags": [
+    "card",
+    "portfolio",
+    "tailwind",
+    "hover",
+    "image",
+    "responsive",
+    "ui"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 42314,
+      "sha256": "4c07923ab5226fee159299ec03602ad90b67f0ad0ea9161936f8048c57f10990"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1635,
+      "sha256": "f74d479584891c534b5fecde75c578fb6a7c51bcd04111efecd9eec680ec3469"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2622,
+      "sha256": "0aeb2074bc7c752d3f7cbe72b57bda5884d86852257cca55f1244d5e696405eb"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

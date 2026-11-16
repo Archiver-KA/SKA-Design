@@ -1,0 +1,67 @@
+{
+  "id": "SN-W02063",
+  "title": "Jomar Madarico Portfolio",
+  "summary": "A high-end cinematic landing page template designed for AI video agencies and creators focused on scaling DTC brands.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Dark",
+    "Animated",
+    "Minimal",
+    "Futuristic",
+    "Clean",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3651,
+      "sha256": "d7f0f175610fa476e606fdf9dd92daacb4a193fe873948a113cae941cb90128e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8756,
+      "sha256": "85839ec7733f9daa831ea69ea98f0cc9f1bd4e700f2e390fa17a9daac685b070"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 796,
+      "sha256": "a4c476ef5dd5ef33ac41afcc3975ae233cf1bdcb7611a7199fbc1b920329ca73"
+    },
+    {
+      "path": "index.html",
+      "bytes": 172218,
+      "sha256": "80db6382197d04ee9b026680ea193dde1a15d7ed2dad47d1119f9eda8b386866"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "logo-cloud",
+    "integrations",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

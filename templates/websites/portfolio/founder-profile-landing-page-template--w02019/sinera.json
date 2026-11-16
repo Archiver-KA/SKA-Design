@@ -1,0 +1,66 @@
+{
+  "id": "SN-W02019",
+  "title": "Founder Profile Landing Page Template",
+  "summary": "A clean founder profile landing page template for showcasing startup leaders, their story, and key roles within a brand-driven layout.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Clean",
+    "Grid",
+    "Minimal",
+    "Large Type",
+    "Portfolio",
+    "Technology",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3531,
+      "sha256": "aa39e3ec628abc18463909571fb489ff817dbbcb2d90688c19946f4167d47db9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 8938,
+      "sha256": "581f2b78f5e37aea74b1bdd4ab0b6535f14b0ca1f21bd5d4a7143a92972ad139"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "a323c2d50673061e5d1ffe67616a746043b324dcdb13b537464662a92a4c16a7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17897,
+      "sha256": "1d6c529334533b0390dc2c8cd2c7699e630792a48377e5bd8f910503afff60ff"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "logo-cloud",
+    "hero",
+    "testimonials",
+    "bento-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

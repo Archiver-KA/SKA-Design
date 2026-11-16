@@ -1,0 +1,41 @@
+{
+  "id": "SN-C00363",
+  "title": "File Path Card",
+  "summary": "A card component that displays file system paths with syntax highlighting. Useful for showing file locations, URLs, or system paths in a readable format with visual distinction.",
+  "tags": [
+    "card",
+    "file",
+    "path",
+    "code",
+    "info"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7098,
+      "sha256": "16a62c01672dcc315fe3e89db3c29db7bae1ed330e5f5030eea5758b4a2bcd47"
+    },
+    {
+      "path": "component.html",
+      "bytes": 895,
+      "sha256": "be383ec1c5dafb0b7bd623e8ebc35254ad98b3400638dd4752a90a875bb0eb53"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1730,
+      "sha256": "d0e3d40d374773dd56e7ecd13246b2a13923a5a3e888457f5102ffb13a311e78"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

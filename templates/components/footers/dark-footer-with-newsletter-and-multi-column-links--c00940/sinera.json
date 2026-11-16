@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00940",
+  "title": "Dark Footer with Newsletter and Multi-Column Links",
+  "summary": "Full-width dark footer featuring a newsletter signup form, three navigation link columns, brand mark, and social icons. Styled with Tailwind-like utility classes and custom fonts, ideal for ecommerce or brand sites needing a structured, modern footer.",
+  "tags": [
+    "footer",
+    "navigation",
+    "newsletter",
+    "responsive",
+    "tailwind",
+    "branding"
+  ],
+  "kind": "components",
+  "category": "footers",
+  "categoryLabel": "Footers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 12102,
+      "sha256": "280c1079f9f6f499ac218241ae0d988c2ae15869d354f4638ffdc4491698c0ae"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4944,
+      "sha256": "a5e333f0d199a8db44ce834075f1ef0846dca68d8ce8b57928968c7e9b5eacf8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5815,
+      "sha256": "0b374223c6bac81d3ca4b7f23703852d1f03e0026df3ba78ffd6b1119318f8cf"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

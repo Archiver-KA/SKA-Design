@@ -1,0 +1,41 @@
+{
+  "id": "SN-C02188",
+  "title": "Product Showcase Card",
+  "summary": "A visually appealing product highlight card with image overlay, gradient background, and key statistics display for showcasing achievements.",
+  "tags": [
+    "product",
+    "showcase",
+    "image-overlay",
+    "statistics",
+    "gradient"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11398,
+      "sha256": "a125f2864eb1dac1f329df71b2db1c57a31663d3cd9ae7892329755387505b5a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3998,
+      "sha256": "b80226a1c54a22ab017fbeb5fab3a58685c0abc7d90cb237c580a44ef0e509fc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4970,
+      "sha256": "3badc190f6870f8f40e32b9c76f43b910aa6163f55049aaaa9d0e815f39502f3"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

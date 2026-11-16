@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02273",
+  "title": "Frosted Glass Statistic Cards Grid",
+  "summary": "Responsive Tailwind grid showing company metrics in frosted-glass cards with hover highlight, ideal for landing pages or dashboards.",
+  "tags": [
+    "stats",
+    "card",
+    "grid",
+    "tailwind",
+    "responsive",
+    "hover",
+    "glassmorphism",
+    "metrics"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3420,
+      "sha256": "08a166c10754c54b2ed919cf4052e531bfc0a75935016ea5c1f31f7a42e07555"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1389,
+      "sha256": "e58f5b06cf7897bf76a9cf8d4861d8c533f2c305265b86d46f0dade08f15653d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2244,
+      "sha256": "f168bc9a8ad10b5ef92a9034f7d5d64e5d0ce99596c7539ba0ec4853d9ade9de"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

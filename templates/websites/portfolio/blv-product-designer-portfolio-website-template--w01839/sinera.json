@@ -1,0 +1,67 @@
+{
+  "id": "SN-W01839",
+  "title": "BLV Product Designer Portfolio Website Template",
+  "summary": "A clean portfolio website template for senior product and UI designers to showcase case studies, skills, and contact details with a polished, minimal layout.",
+  "tags": [
+    "Portfolio",
+    "Art & Design",
+    "Graphic Design",
+    "Minimal",
+    "Clean",
+    "Large Type",
+    "Brand",
+    "Landing Page",
+    "Technology",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3550,
+      "sha256": "7d1b916bd2ece17d0f5f1bbcb531cbb146bdf524f81cbd485144b9dc55efbdd9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12728,
+      "sha256": "7e19a91b818014d48a1b3ee172afdc4e981d05f5128e70869b4f5ebbb5646e72"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 735,
+      "sha256": "2bc4071078c27f9f6d832011467bce1966ee02bce724a2351cc1c0bb19110dbe"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25219,
+      "sha256": "af2affb3d58779500ffb85c1434d6701a42e5c5065d2c2fe32900bd7affb393d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "features",
+    "product-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

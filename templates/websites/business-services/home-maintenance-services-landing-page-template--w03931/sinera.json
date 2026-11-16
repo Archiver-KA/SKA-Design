@@ -1,0 +1,64 @@
+{
+  "id": "SN-W03931",
+  "title": "Home Maintenance Services Landing Page Template",
+  "summary": "A clean, local-services landing page template for home and rental property maintenance providers to showcase services, service areas, and contact CTAs.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Real Estate",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Technology",
+    "Home maintenance",
+    "Handyman"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3547,
+      "sha256": "c6aa962e78072170b969359bfc6f20b03644aa64c1da80bf4f1f557cb694f8e1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18062,
+      "sha256": "29697cbccedcf0d54aae63748f1bfef1c38148d7ad1e7f9b049720aaaabdaf5a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 742,
+      "sha256": "fa79c129b2972581d254b0a80282d9aacba44efe83eea414a9f01f103306203a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21216,
+      "sha256": "47b2fa77c8f4150c8f3e5b2e4ee1b4adcbe7f07124ce441cfb75bb3345cf8343"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "listings",
+    "map-location",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

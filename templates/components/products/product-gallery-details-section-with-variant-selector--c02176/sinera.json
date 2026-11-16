@@ -1,0 +1,44 @@
+{
+  "id": "SN-C02176",
+  "title": "Product Gallery & Details Section with Variant Selector",
+  "summary": "Responsive Tailwind section for e-commerce product pages featuring image gallery with thumbnails, color/size selectors, price display, discount badge, add-to-cart and wishlist buttons, and detailed specs—ideal for modern storefronts.",
+  "tags": [
+    "product",
+    "e-commerce",
+    "gallery",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "variant-selector",
+    "add-to-cart"
+  ],
+  "kind": "components",
+  "category": "products",
+  "categoryLabel": "Products & checkout",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 41108,
+      "sha256": "d6ce693f006829ccb90fa2fde370b658bbfef3efce6864ff70d9e8ad550b9468"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7943,
+      "sha256": "f72ac2272de9a1f2725a13df67b8b96f760d371a62e8eab4d7b459e0d03d9b88"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8823,
+      "sha256": "984905930e696c088950cb3cb056c68cdf92e2065b9e8305a5baed12ab4cbad6"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

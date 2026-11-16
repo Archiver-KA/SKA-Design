@@ -1,0 +1,76 @@
+{
+  "id": "SN-W00151",
+  "title": "AI Sales SaaS Landing Page Template",
+  "summary": "A reusable landing page template for AI sales automation products, showcasing autonomous prospecting, outreach workflows, pricing, and conversion-focused CTAs.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "SaaS",
+    "AI",
+    "Dark",
+    "Futuristic",
+    "Animated",
+    "Gradient",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3702,
+      "sha256": "c1e2880b759517b08bb8d670285d1bcf3b79a876aaf9111728b7b96b467dbc67"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14666,
+      "sha256": "6d72e1aa856aa66151d99a486623890870e835790376002857a9e77b53ad938c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1066,
+      "sha256": "354ce3eb8f5cb9665fc61f368d05bc3c41d91640cb798f31989ca084ddd110ae"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 269,
+      "sha256": "f35dd45bf3279530ce1de9f1b5699ffa3d934fc19c57db099eebd850aed33269"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 1481,
+      "sha256": "39449e755563ad9a254feebc52a0aed89d7a78ccbf4b38c491ffeabb39047052"
+    },
+    {
+      "path": "index.html",
+      "bytes": 60685,
+      "sha256": "0b337ddf6b876eda63643d03b7aefb0ff63bfc452c8566b30b085d1d2ce761d0"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "bento-grid",
+    "pricing",
+    "schedule-agenda",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

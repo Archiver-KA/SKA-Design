@@ -1,0 +1,63 @@
+{
+  "id": "SN-W03191",
+  "title": "Architecture Project Detail Page Template",
+  "summary": "A sleek, minimal template for showcasing architecture and interior design projects with immersive imagery and project details, ready to customize for your studio.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Interior Design",
+    "Minimal",
+    "Dark",
+    "Grid",
+    "Large Type",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2936,
+      "sha256": "d1f089a1a4bd37f19018b64ada76b36a44b0fa755cd0f7db4f9254cd5e8c4ab5"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12290,
+      "sha256": "4b67bc6e8e805f759d2f99f347a0bf6c93dc70944aa2a1bff274161cb01efb2c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 731,
+      "sha256": "235ece56a35d17c3f5913d25346c57a064d5f92035586e8c6673f1cd6fba7fdf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20907,
+      "sha256": "a29c05788e80008f47ed51458fbc110aaa6ed08a046517167e270e4c08f624d5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "map-location",
+    "hero",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

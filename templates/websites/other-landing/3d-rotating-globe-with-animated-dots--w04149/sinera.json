@@ -1,0 +1,60 @@
+{
+  "id": "SN-W04149",
+  "title": "3D Rotating Globe with Animated Dots",
+  "summary": "Renders a 3D rotating globe with white dots that pulse randomly, using vanilla JS and CSS for animation.",
+  "tags": [
+    "3D Globe",
+    "Animation",
+    "Vanilla JS",
+    "CSS",
+    "Canvas Alternative",
+    "Interactive UI",
+    "Visual Effects"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2050,
+      "sha256": "47c77247276d42d7281a97548bb43dc8b2dbf7ce939fa8831dbf68f291ab50df"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2984,
+      "sha256": "ce0da0a97cfcd05490553c800d685498627764986627e1dcaec55d34b52c1b75"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 812,
+      "sha256": "d43cfd428b1aa8bee5ea9b6938bd1121e09c87965c9925ed42ec726b4e351b0d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3266,
+      "sha256": "a8b70c81206cb149ad17c3efa9edd6cc4faab49bf27850d1137fa2710acb6f90"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

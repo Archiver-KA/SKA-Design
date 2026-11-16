@@ -1,0 +1,68 @@
+{
+  "id": "SN-W03565",
+  "title": "¡Nos Casamos! | Abre tu invitacion",
+  "summary": "¡Acompáñanos a celebrar nuestro gran día en Lima, Perú! Encuentra aquí los horarios, el código de vestimenta y 4 rutas increíbles para explorar Perú (Machu Picchu, Selva y Norte). Confirma tu asistencia aquí.",
+  "tags": [
+    "Wedding",
+    "Social",
+    "Clean",
+    "Minimal",
+    "Animated",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3558,
+      "sha256": "95d706afaeaa3c0e579d7b24d1654eab6945e881c6776885d07aea88d0627fbb"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 1624,
+      "sha256": "ca64aac193fa845cb8d524d32885f611da505575cea1519c393ef5d99d5ef05c"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 934,
+      "sha256": "e0172f89a153b32b75b32a40997f2bf3807afd27c588965d7b00e635bcfdcdc5"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 199,
+      "sha256": "3f4a3fb37558fdfe3da4495a56b1b3cfa0501da1a012141918367375307558d7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 48065,
+      "sha256": "2e43e7b629b3ba781f7c6520c40e675af7548d48a168b85f8b9a9da2e8693933"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "timeline",
+    "cta",
+    "features",
+    "faq",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

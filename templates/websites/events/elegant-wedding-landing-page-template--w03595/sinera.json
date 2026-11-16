@@ -1,0 +1,69 @@
+{
+  "id": "SN-W03595",
+  "title": "Elegant Wedding Landing Page Template",
+  "summary": "A refined wedding website template for couples to share their story, event timeline, gallery, gift registry, and RSVP details in a romantic format.",
+  "tags": [
+    "Wedding",
+    "Landing Page",
+    "Event",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Elegant",
+    "RSVP",
+    "Romance"
+  ],
+  "kind": "websites",
+  "category": "events",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3796,
+      "sha256": "3325b035e101f551623248f47ec780e95be6bd3eac0d5846a018ed24fcad2af0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12522,
+      "sha256": "9fc068f685862d0efafe8c5ee6b0360725ac26ca789870656fc71092e92f15c2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 722,
+      "sha256": "61f8660c5e540f04076eb242a6381e684c2674045d679c9530884f79ad34e7d2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39612,
+      "sha256": "a18d2cd544586da45f9f0fd425411af7df891fc4875494447a0af6203ad5178a"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "events",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Events",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "navbar",
+    "modal-overlay",
+    "timeline",
+    "features",
+    "gallery-portfolio",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "SN-W00720",
+  "title": "Social Link Hub Landing Page Template",
+  "summary": "Community link-hub landing page: giant centered headline above a stack of large link buttons, then channel contents, join steps and scam-safety notes.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Services",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Gradient"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3209,
+      "sha256": "dba17e76388f65c9a4cc24e56bc7c61fbd6dff6c6d6f3611a9e874ce5de74c89"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4800,
+      "sha256": "029c8d961bd28010929651e5ff9b888391bc0f4d60945248c07e1d8dae1efedd"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 813,
+      "sha256": "06f43698726e63c88ced1080b3485e6cc4d0aa918023b76b591b4cca71a32925"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15475,
+      "sha256": "fa6e35698e2a1ee48d2b93b030ee4c8b16be78f92ec3ed892f1c9d11a588dc27"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "announcement-bar",
+    "footer"
+  ],
+  "quality": {
+    "status": "rebuilt",
+    "issues": [],
+    "rendered": true
+  },
+  "language": "en",
+  "designSystem": "sinera-atlas@1.0.0",
+  "design": "DESIGN.md"
+}

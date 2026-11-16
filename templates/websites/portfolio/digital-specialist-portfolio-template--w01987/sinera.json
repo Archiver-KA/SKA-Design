@@ -1,0 +1,69 @@
+{
+  "id": "SN-W01987",
+  "title": "Digital Specialist Portfolio Template",
+  "summary": "A reusable portfolio template for digital specialists, virtual assistants, and social media managers to showcase skills, experience, and contact details.",
+  "tags": [
+    "Portfolio",
+    "Resume",
+    "Services",
+    "Landing Page",
+    "Dark",
+    "Minimal",
+    "Large Type",
+    "Personal Brand",
+    "Virtual Assistant",
+    "Social Media"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3467,
+      "sha256": "7d3e0d58b5348fbb8fde569c77c5fb3d3c265ad2737296ad2bd17ca1e9befb0c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 12556,
+      "sha256": "4506525ace9ecb97ec34ad8872e44ca76d1cc2c0c1e379237c20c1e447a65830"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 808,
+      "sha256": "a0c0903256f684058d274a6ae0f0fb3cbb46cbaab9555ea0d383b284c176b929"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17831,
+      "sha256": "2def1dcb913c585546f37945619fafe4347914833df56e1a1b105aa8c5b554ad"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "timeline",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

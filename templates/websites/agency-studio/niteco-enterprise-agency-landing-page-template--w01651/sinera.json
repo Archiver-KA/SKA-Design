@@ -1,0 +1,74 @@
+{
+  "id": "SN-W01651",
+  "title": "Niteco Enterprise Agency Landing Page Template",
+  "summary": "A high-end, dark-themed agency template designed for digital services, e-commerce solutions, and enterprise-level marketing brands.",
+  "tags": [
+    "Technology",
+    "Services",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Corporate",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3776,
+      "sha256": "06b118d26e0e314b1d6e6d24c098866e13e467f6e4025b736e28747d21eff61c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16134,
+      "sha256": "62c6d0b03f0b0fd30d5844c1ebbc8f9d7a1ce696df4c88b617697ef28cfe9db4"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 885,
+      "sha256": "5ba4f46e18801b4f4cae369898f8ef68c444ce74b73c209d0d1fea3d1527e048"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 713,
+      "sha256": "6e2cff780f5b6720a8e240dd55b5610b51e5063dc2446dc35b0ee15ac25f1ba1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 43654,
+      "sha256": "2715497d0bcb46b75b1ce84dde2ff80f77d0b97a691759681cb04727975c6ace"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "services",
+    "features",
+    "logo-cloud",
+    "stats",
+    "cta",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

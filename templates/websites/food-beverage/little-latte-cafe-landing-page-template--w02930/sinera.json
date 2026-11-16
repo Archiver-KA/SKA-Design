@@ -1,0 +1,62 @@
+{
+  "id": "SN-W02930",
+  "title": "Little Latte Cafe Landing Page Template",
+  "summary": "A clean, editorial-style coffee shop landing page template designed for cafes, roasteries, and small-batch food service businesses.",
+  "tags": [
+    "Food",
+    "Services",
+    "Landing Page",
+    "Clean",
+    "Large Type",
+    "Minimal",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "food-beverage",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2926,
+      "sha256": "5a4b3f1446b6f1daec15bcf3bff19c1564fd7cfe59efe3dccf4dca47946ed334"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9410,
+      "sha256": "3ef084d32719248b0ce386ab4c707f9c2e9eca43c0cf84edbfa0a4d36e452e96"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "1212842cfe904879774f179861265a50e212f0b75148f6d535a9e70939bca008"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19239,
+      "sha256": "4e5292e90fc95c6ef5b1c5793aabddf8c07bb725e94154ba517106227837a107"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "food",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Food / Hospitality",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "menu-list",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "SN-C00046",
+  "title": "Aether Drive WebGL Animated Button",
+  "summary": "A high-fidelity interactive button featuring a custom WebGL fragment shader for fluid, plasma-like motion effects. Includes dynamic heat states on hover, haptic-style scaling, and Tailwind CSS styling for a futuristic sci-fi aesthetic.",
+  "tags": [
+    "button",
+    "tailwind",
+    "webgl",
+    "animated",
+    "interactive",
+    "glassmorphism",
+    "sci-fi"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3780,
+      "sha256": "93d58bb2dff6f809aa6a374f508d75270ea8b6602fe0f700860d3423e1916055"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6499,
+      "sha256": "139ecbd562b7f9bfd51bbd84a0025fb549e2e9ca5dbced956d64605553017478"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

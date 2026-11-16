@@ -1,0 +1,72 @@
+{
+  "id": "SN-W01510",
+  "title": "Design Agency Landing Page Template",
+  "summary": "A premium dark-mode landing page template for strategic digital and brand agencies to showcase capabilities, case studies, and high-end engagements.",
+  "tags": [
+    "Landing Page",
+    "Brand",
+    "Services",
+    "Technology",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Large Type",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3996,
+      "sha256": "33f2db08d2515e99d02034a03129a5c11b8732a1388927a4e21355412abb971c"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13028,
+      "sha256": "5f8886e498ca503be9026bb62d00222676408eb1fb87bc921c7465b23d072f1a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 729,
+      "sha256": "b4c2c640ea9b0de29cabbfaa28ee3991e5dd8fa9de1b797703efa16e58d2b8fc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 88187,
+      "sha256": "f5683cb2753fc79c0ae49a1884c012e03debdd54162979913c86d789bc127d4f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "marquee",
+    "case-studies",
+    "about",
+    "testimonials",
+    "features",
+    "faq",
+    "team",
+    "pricing",
+    "video-media",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

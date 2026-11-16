@@ -1,0 +1,76 @@
+{
+  "id": "SN-W03804",
+  "title": "Alta Fencing Services Landing Page Template",
+  "summary": "A refined fencing services landing page template for showcasing architectural boundary projects, process, and materials with premium, engineering-led storytelling.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Real Estate",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3783,
+      "sha256": "49a82e6bcbcbc0cd400314dce7a730db426c623a5064c288eb5fff02ccc64ea2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20346,
+      "sha256": "09862e75c9a00ed18f982ef8d3fabdc2cf9508f77c8e315d9c5d23152e99f257"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1160,
+      "sha256": "14c8a125748a585045935d49fe515597951061c915af9a28e2849355569be38d"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 355,
+      "sha256": "50d5c3561f713d319a80a97d61a1cf594ae8ae87bac52d51860e91d4dc749592"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 719,
+      "sha256": "479f4aa55a0f65d908503bc4f34681557d3c12246c6ecbf225ebce96aa650c7d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 54752,
+      "sha256": "d756ed8cfb371361b259f6a900e7be8fe63f7b7b1b06b7e552004ab1ada4ceb5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "stats",
+    "about",
+    "gallery-portfolio",
+    "how-it-works",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

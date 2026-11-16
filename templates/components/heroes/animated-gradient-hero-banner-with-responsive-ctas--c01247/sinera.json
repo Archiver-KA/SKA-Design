@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01247",
+  "title": "Animated Gradient Hero Banner with Responsive CTAs",
+  "summary": "Visually rich hero section featuring radial gradients, grid overlay and fade-slide animations. Provides badge, headline, sub-headline and primary/secondary CTA buttons. Tailwind CSS powered and ideal for landing pages.",
+  "tags": [
+    "hero",
+    "tailwind",
+    "animated",
+    "responsive",
+    "landing-page",
+    "cta",
+    "gradient",
+    "section"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 20160,
+      "sha256": "8723ae1387606d1f222bfacda9f0b7bee55187233b57194d79848b82ec27cf06"
+    },
+    {
+      "path": "component.html",
+      "bytes": 5299,
+      "sha256": "27bc98edd71a3d5e7c7786389107e5c9b41bfb522dd71496429bcf6b483cb106"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6300,
+      "sha256": "e932f4fc1d2ef011c9a0e9086051eb0bba341c60c30f780cfe59506be691b9a0"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

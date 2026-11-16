@@ -1,0 +1,59 @@
+{
+  "id": "SN-W04341",
+  "title": "Workflow Process Steps Layout",
+  "summary": "Displays a four-step workflow guide with numbered steps and descriptions using responsive Tailwind CSS styling.",
+  "tags": [
+    "Steps",
+    "Workflow",
+    "Tailwind CSS",
+    "Responsive",
+    "Process",
+    "UI",
+    "Guide"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2762,
+      "sha256": "d46a24b610b234e91140f87398057b7c3955f3c94145efbd65500e91081555e8"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15696,
+      "sha256": "00b2560e5e1bb834657ffdb41dc0bebb0134da46a96d868596da6e8d2aa306a7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 722,
+      "sha256": "3182ad7505fd84100544f027744a28ca76b6df612ccb1ee9512a0f004d9e7b23"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3704,
+      "sha256": "ac5d60a6b2b40ac20343d853bbdf94b0a9eafd7c9692f0315a8b8f667d05bfc2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "how-it-works"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "how-it-works",
+  "design": "DESIGN.md"
+}

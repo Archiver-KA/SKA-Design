@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01204",
+  "title": "3D Design Tool Hero with Interactive Preview",
+  "summary": "Full-width hero section for a 3D design product, featuring headline, badge, CTA button, social proof, and an interactive 3D editor preview iframe with floating glass UI panels. Built with Tailwind-style utility classes and subtle animated effects for modern SaaS landing pages.",
+  "tags": [
+    "hero",
+    "tailwind",
+    "responsive",
+    "interactive",
+    "marketing",
+    "animated"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 17882,
+      "sha256": "a75a10d205b5fc4d88a4b4fbc349995321fe5b171b72d5204f370442ac92c166"
+    },
+    {
+      "path": "component.html",
+      "bytes": 24936,
+      "sha256": "340da383353a038ff6b8481015ceb11a7f7ccd8af4a649d44c80196326b65b3e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25931,
+      "sha256": "84e0159ce9fbeb95ccd16d642377f18023bb101f0fa585ad2fb23c58d6179103"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

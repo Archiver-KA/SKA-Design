@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00044",
+  "title": "3D Gradient CTA Button",
+  "summary": "Interactive call-to-action button with gradient background and dynamic 3D box-shadow on hover, focus, and click. Pure HTML/CSS styling, ideal for portfolio links, landing pages, or any prominent action trigger.",
+  "tags": [
+    "button",
+    "cta",
+    "gradient",
+    "interactive",
+    "hover-effect",
+    "3d",
+    "css",
+    "shadow"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 2806,
+      "sha256": "e5233e319157d698d1d387ff50f22f9197c241702c1583734c74e59cbd4b19fe"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1200,
+      "sha256": "02fe8f721ac036ec0ebed599d179f7b21b434b8f1670cfccf70dfc5680d771f2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2043,
+      "sha256": "a5fe29f980f58919b1a95d1a7862dd74e0ee7015aa6f38fe34ff59fc44da5833"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

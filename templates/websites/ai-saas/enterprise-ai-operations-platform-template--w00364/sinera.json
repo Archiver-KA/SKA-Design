@@ -1,0 +1,68 @@
+{
+  "id": "SN-W00364",
+  "title": "Enterprise AI Operations Platform Template",
+  "summary": "A high-performance SaaS landing page template designed for AI infrastructure, featuring complex dashboards, terminal UI elements, and data visualization.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Dark",
+    "Animated",
+    "Clean",
+    "Futuristic",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3797,
+      "sha256": "274a5d4481a534bba79ac39dd4e00c925646ed5a2b4ab8e30447f8542f51f112"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18762,
+      "sha256": "6d9e5887e183cc691d095a70b2b77a27847a0cd4e2e10d11934c00ff054a41a2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 819,
+      "sha256": "5f3d883e2bf95cf23746171f1fd8191384b13e1de0b8729f30aa92ae252aa3c0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 77533,
+      "sha256": "d7542f366eaea2c37a21cfe78b1a01eb392f1976e4daee2b36267f151e8ccea5"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "code-terminal",
+    "logo-cloud",
+    "how-it-works",
+    "product-grid",
+    "booking",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

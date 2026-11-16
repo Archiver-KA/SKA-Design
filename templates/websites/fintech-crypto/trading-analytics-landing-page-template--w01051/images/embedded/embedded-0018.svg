@@ -1,0 +1,11 @@
+<svg class="w-full h-full overflow-visible" preserveAspectRatio="none">
+                    <!-- Smooth flat line that spikes at the end -->
+                    <path d="M0 150 C 100 150, 200 148, 400 150 S 600 145, 750 130 S 900 100, 1000 50" fill="none" stroke="#34d399" stroke-width="3" stroke-linecap="round" vector-effect="non-scaling-stroke"></path>
+                    <!-- Fill gradient below -->
+                    <defs>
+                      <linearGradient id="chartGradient" x1="0" x2="0" y1="0" y2="1">
+                        <stop offset="0%" stop-color="#34d399" stop-opacity="0.1"></stop>
+                        <stop offset="100%" stop-color="#34d399" stop-opacity="0"></stop>
+                      </linearGradient>
+                    </defs>
+                 </svg>

@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02350",
+  "title": "System Health Status Card",
+  "summary": "Status card showing system health metrics with progress bars, alerts, and service information for vehicle monitoring.",
+  "tags": [
+    "status",
+    "health",
+    "progress-bars",
+    "alerts",
+    "monitoring",
+    "card"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 9872,
+      "sha256": "19aaa9892a0e04cc8f66c75b68434186ec2399e0983cba69b2279bf777c0de13"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1653,
+      "sha256": "f7e4774aae1350de47b29deab1f759fcbc5d764e20b45df5adbbd990b2178aa9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2499,
+      "sha256": "0c66f4cbf2ca1184b5a4740d02a58de6feee41498fbe8cceb2b9463607bcc025"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

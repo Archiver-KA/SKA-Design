@@ -1,0 +1,78 @@
+{
+  "id": "SN-W01871",
+  "title": "CoffeeOS Desktop Experience Template",
+  "summary": "A high-performance, Arch-inspired web desktop template featuring a window manager, terminal, and productivity widgets in the Catppuccin Mocha aesthetic.",
+  "tags": [
+    "Technology",
+    "Brand",
+    "Portfolio",
+    "Style",
+    "Dark",
+    "Clean",
+    "Minimal",
+    "Animated",
+    "Futuristic",
+    "Grid"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3376,
+      "sha256": "588e169664230378c273f0f818107222f97a868b3cc08c78e1edc9a6c5c1a0fc"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14704,
+      "sha256": "19d5128fb252538e18fcb94f444ad8d91c0433d930e96728e7be609bb386e8f7"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1261,
+      "sha256": "abeed1e6971ccf4115e6b691e403660f63b8ff96c9011853c051fefcf0e2968b"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 1686,
+      "sha256": "2b8d5a2322f89fe58e45f82007febbd4666ccfdd3bbf6b0caec5ef20e0497f19"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 1836,
+      "sha256": "069caf80248bd59b137cabd2b5403bbb3e4988ef8c4b3256acf08cc649c6ea1b"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 923,
+      "sha256": "e42e858f903c6bee65a8fede713c2117c9b56fe7b42ba8880ac6dd8769322dee"
+    },
+    {
+      "path": "index.html",
+      "bytes": 55032,
+      "sha256": "1aa4ed207b31616a184f5afa0848eef10558d94cb534d3077ec505dd1eaa1225"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "code-terminal",
+    "modal-overlay"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

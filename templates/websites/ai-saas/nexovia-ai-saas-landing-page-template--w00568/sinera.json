@@ -1,0 +1,72 @@
+{
+  "id": "SN-W00568",
+  "title": "Nexovia AI SaaS Landing Page Template",
+  "summary": "A high-converting dark-mode Nexovia-style landing page template for AI SaaS platforms, featuring hero, features, pricing, comparison, testimonials, and FAQ sections.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "SaaS",
+    "AI Platform",
+    "Pricing"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3816,
+      "sha256": "3f3cd3b7ea19ddfeebf7367fa5157e8db8ddf180b3184a16618b481da390ac63"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16134,
+      "sha256": "228cbb79cee4deacc50bd9d5642ecf7664ba26afdc086333be4c453404ca9014"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 876,
+      "sha256": "6ce3f33f9a4f3798ea3d5f96b6415067d527d36be82ee4a6ed77b3c3a7e70940"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 282,
+      "sha256": "4694a25f526469f113a9a9d8dd780a39a8f648d0618d6439d3a8c670b26e33ee"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39258,
+      "sha256": "9b637a16f4da5389649fbd5c25159ac5e49283cbb614b488bc843830087cf8ff"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "features",
+    "pricing",
+    "faq",
+    "cta"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

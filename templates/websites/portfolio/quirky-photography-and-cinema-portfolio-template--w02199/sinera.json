@@ -1,0 +1,66 @@
+{
+  "id": "SN-W02199",
+  "title": "Quirky Photography & Cinema Portfolio Template",
+  "summary": "A cinematic portfolio website template for photographers and filmmakers to showcase editorial photos, fashion campaigns, and showreel videos with a bold aesthetic.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Fashion",
+    "Style",
+    "Minimal",
+    "Dark",
+    "Large Type",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3122,
+      "sha256": "d2a6231fafc8dcc349b3e93f4082bf63df6c4b078e656b332d8566689a826f09"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 3068,
+      "sha256": "a6ef748b571fed445ba5c91b95d87f5bb0fb31d68c0d093936a584e390fe7771"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 734,
+      "sha256": "1e32d3d6765e86225f599bba015f366a0bdd7bfe033e55c3a5c6f540feb8b7e9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 18600,
+      "sha256": "583dbf7d68ce96aeb053f2692ee8fcfe2aaedda7ed5ec56dd4a39c479be75287"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "modal-overlay",
+    "hero",
+    "gallery-portfolio",
+    "awards-press",
+    "bento-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

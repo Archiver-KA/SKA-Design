@@ -1,0 +1,73 @@
+{
+  "id": "SN-W01618",
+  "title": "Legal Consultancy Landing Page Template",
+  "summary": "A polished, conversion-focused template for law firms and legal consultancies to showcase services, team, and benefits—fully reusable for professional legal websites.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Legal",
+    "Law Firm",
+    "Attorney"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3711,
+      "sha256": "f0de0dc1b864e84d34ac9065532960e2c53efbcd8dac32ae3e284457ee0bf8db"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14262,
+      "sha256": "09364e709c2ce462ff7a1bbf532f61d38b6a7fd70782c5fde8e11ae601abe53a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 878,
+      "sha256": "ab375dc6ef22b5d1ec92c4b58c5d1838763e7aeffaa85c4a54d3a853696e1b4e"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 568,
+      "sha256": "cb3070cfd700b3a150a1858e36004704c3d16261a5e673e67513e5a95f911ea1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17284,
+      "sha256": "d0f8fa1e0960f8e2bd2903dc5550f773e094c3fab98e0233a6ec8e6fe65d3716"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "stats",
+    "benefits",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

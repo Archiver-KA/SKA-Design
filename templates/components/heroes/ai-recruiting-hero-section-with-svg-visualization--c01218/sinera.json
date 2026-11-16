@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01218",
+  "title": "AI Recruiting Hero Section with SVG Visualization",
+  "summary": "Hero layout for AI truck driver recruiting software featuring headline, description, dual CTA buttons, and animated SVG data-flow background with floating status cards. Built with Tailwind utility classes for responsive, visually rich marketing pages.",
+  "tags": [
+    "hero",
+    "section",
+    "landing",
+    "marketing",
+    "tailwind",
+    "animated",
+    "responsive",
+    "svg"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 27010,
+      "sha256": "89f99a1736e08f0ff2aa0cd91a0e524647a24bd962888875fc699a3225e64d38"
+    },
+    {
+      "path": "component.html",
+      "bytes": 15635,
+      "sha256": "a89b5e4dfddf0f978f1e7c9fb819e79ef8e74ae205886e1968db2a48aa98fe7c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16635,
+      "sha256": "612690c60c40200e7ef2774ec93fd58853ef86a5a0d60ffc7ce0973416eb6613"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

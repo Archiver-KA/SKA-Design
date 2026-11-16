@@ -1,0 +1,70 @@
+{
+  "id": "SN-W00071",
+  "title": "AI Coding Agents Landing Page Template",
+  "summary": "A reusable landing page template for AI coding agent and developer tooling products, designed to showcase models, demos, pricing, and trust signals.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Documentation",
+    "Brand",
+    "SaaS",
+    "AI",
+    "Developer Tools"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3046,
+      "sha256": "d765b86ca0d21358a1be9704832811b07a5fde641d38baaf597fd6b9febd9c83"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16954,
+      "sha256": "9f737cf78910291367c1e19c9edff3c79a2091296dce2d5ae642b4b97c61c20d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 877,
+      "sha256": "908766646b0ea45a85a8efdd0efbe692883d9038e841fe8b3b6ec93b57b922c0"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 225,
+      "sha256": "325cb4bcf675f6e289feb3cfb9af3b50a35d696c172c2c1d7db7a083a560f8eb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15116,
+      "sha256": "5e3b78b827055024d7aa877a2d83fc8bdc7b37d9c6b3dbd48194cbdcfe04e5d2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "how-it-works",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

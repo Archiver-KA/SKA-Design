@@ -1,0 +1,70 @@
+{
+  "id": "SN-W02307",
+  "title": "A-go Preview",
+  "summary": "A reusable landing page template for showcasing an innovative 3D gait analysis and early neurocognitive diagnostic health AI product like a-gO.",
+  "tags": [
+    "Health",
+    "Technology",
+    "Landing Page",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Clean"
+  ],
+  "kind": "websites",
+  "category": "healthcare",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3656,
+      "sha256": "afd98b10b9ba6064ddb6c3c9d810d1a34d83e44051a29587ef0702f15f123a83"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17296,
+      "sha256": "84d3478656e6977bad5c3b4b4deed8fb53276770c1c9c49ac2e67dc2c563989b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 784,
+      "sha256": "ecdb15130570aee48503b677e653b40b79f60e9a7b804636001b91500fd41d42"
+    },
+    {
+      "path": "index.html",
+      "bytes": 36305,
+      "sha256": "4a299503d47c4784349db89bbcb9843a3f59c55dbbeae55b6ac36d3488909762"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "healthcare",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Healthcare",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "calm",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "features",
+    "cta",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

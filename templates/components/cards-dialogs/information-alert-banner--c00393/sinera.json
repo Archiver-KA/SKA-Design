@@ -1,0 +1,42 @@
+{
+  "id": "SN-C00393",
+  "title": "Information Alert Banner",
+  "summary": "Alert component with icon and message text, perfect for displaying helpful information, warnings, or tips to users",
+  "tags": [
+    "alert",
+    "info",
+    "notification",
+    "banner",
+    "icon",
+    "modern"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 4836,
+      "sha256": "5f8215dc91f00ffef4f7fd7e55e2f4ac836c9319edcfbfaf5071604de0d49e93"
+    },
+    {
+      "path": "component.html",
+      "bytes": 689,
+      "sha256": "ddb27067f0635869cd02cbe47b35048057504199c3e658e2cedcae7b1cd1a3ba"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1534,
+      "sha256": "9e2ca717fe6a41ec8a74305771c28a5f6127c7e617d1412407e8f2aa4751a747"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

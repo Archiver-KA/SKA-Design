@@ -1,0 +1,60 @@
+{
+  "id": "SN-W03684",
+  "title": "Crush Video Quality Destroyer Template",
+  "summary": "A unique browser-powered video editor template designed to intentionally degrade video and audio quality for social media meme creation.",
+  "tags": [
+    "Technology",
+    "Entertainment",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3430,
+      "sha256": "4a11dded5f8beb6e590ebc41e7a627a40c3ca06d0bd9a9a6b69ce3a67c8bff8e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11246,
+      "sha256": "5477863795f6361b0b98ce706d7eb3af62eec35424fbaed264fbef359c563d2a"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 730,
+      "sha256": "c931eef938ffbafe6af0b9deab52f5f9d309791e29ad7223d9e3f1fa8a9d643a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 39608,
+      "sha256": "ded916d24aea5ee19c95621783151668c3522611d684920bdc0d4dc0a62871dc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "modal-overlay",
+    "navbar",
+    "hero",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

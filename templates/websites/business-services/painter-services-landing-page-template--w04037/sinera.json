@@ -1,0 +1,61 @@
+{
+  "id": "SN-W04037",
+  "title": "Painter Services Landing Page Template",
+  "summary": "Clean, modern landing page template for a professional painting company, featuring multiple hero variants, service highlights, and contact-driven CTAs.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Clean",
+    "Minimal",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3548,
+      "sha256": "752edd752a7d7fac912c9b01e41d9b8028e1c188718a3d1e11dec1ccc2e6f991"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 11610,
+      "sha256": "290407616f2ed2e7aa6f97d598e57837c242722d84823d2ec3f65037e4f2f150"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 733,
+      "sha256": "3e18a9b080b8faa7a3af63dd9a5ac62ac93d6ec69e9d37ad17b6160e6e45277c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16368,
+      "sha256": "637122df2795ea5ff804598d80909e41af77425d09f9617b3786be489fba41aa"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "bento-grid",
+    "cta"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

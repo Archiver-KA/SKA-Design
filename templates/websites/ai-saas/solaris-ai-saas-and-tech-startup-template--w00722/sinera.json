@@ -1,0 +1,69 @@
+{
+  "id": "SN-W00722",
+  "title": "SOLARIS - AI SaaS & Tech Startup Template",
+  "summary": "A dark, futuristic landing page template for AI-powered ad orchestration platforms like Solaris AI, optimized for SaaS marketing and free-trial conversion.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "SaaS",
+    "AI marketing",
+    "Free trial"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3893,
+      "sha256": "f4b5b8c4918bdf8970c58bf85e3c56c4df4a545013a3fd0a06105c080dd55ed7"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 28102,
+      "sha256": "2f78908d0eff52424dc500ac64a9ea9711d3e35420605d64b176f65636766a1d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 818,
+      "sha256": "ee3ae698cefdbc47ecf0ec116b0788328a2871ceab4b274308c077c34e59efcc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 48280,
+      "sha256": "826d17be8799d916471fa61b48f7e06998022338d3a444efc66f73ed6f8e38a8"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "stats",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

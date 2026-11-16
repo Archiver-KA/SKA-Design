@@ -1,0 +1,73 @@
+{
+  "id": "SN-W04201",
+  "title": "Geometric Animated iPhone Mockup",
+  "summary": "Creates an iPhone mockup UI with animated geometric shapes as a dynamic hero background using CSS and Tailwind.",
+  "tags": [
+    "Hero",
+    "Animation",
+    "iPhone Mockup",
+    "CSS",
+    "Tailwind",
+    "Geometric Shapes"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2455,
+      "sha256": "45818c8cc420a4c56c365821e85631be360abb08706b5c123d5c28fe254a1865"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9942,
+      "sha256": "66da10bc53e00ed36ec9cea476549c483dfcc0394ead41ae87216a6dc5f7c70b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1263,
+      "sha256": "5b14430194f6f20fa0f450e5eef6f468fd521d1b3578b8e37d3e30a2e6f7fc07"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 509,
+      "sha256": "c219741ea48fbe491714beea93ee971dff2d8622797f3608b39b4a042d35a57b"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 638,
+      "sha256": "08f47f652f9db3039932cd17edbbba522ce83e41d2e96efbce4552d067bd37de"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 432,
+      "sha256": "5a0bf886170861435882b9191ac6f92710d239da88dd94aa52b27088aed295e5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14397,
+      "sha256": "e314cf02742204eabbd680632250e0c362d40c86a0870561288b1d1a2361455e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

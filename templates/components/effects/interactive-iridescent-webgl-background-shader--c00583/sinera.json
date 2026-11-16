@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00583",
+  "title": "Interactive Iridescent WebGL Background Shader",
+  "summary": "Absolute positioned container that injects an OGL-based WebGL canvas rendering an animated iridescent shader. Mouse-responsive color shift, configurable speed and amplitude make it perfect for immersive hero banners or full-screen decorative backdrops.",
+  "tags": [
+    "background",
+    "shader",
+    "webgl",
+    "interactive",
+    "animation",
+    "tailwind",
+    "ogl"
+  ],
+  "kind": "components",
+  "category": "effects",
+  "categoryLabel": "Effects, backgrounds & 3D",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11738,
+      "sha256": "1021ebdf4ad89b8f44558026ddf0e2009801e421b57ef508c2afd7cd7f395026"
+    },
+    {
+      "path": "component.html",
+      "bytes": 4398,
+      "sha256": "931b5285e63ecd770227bbd3ae68054c0bfaf298050bcfad11d1587a1e3cc0e0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5265,
+      "sha256": "873bc66fa7aef908b1f980e7d6b39ce71fb8dfb86329acabcc39fe20e7909457"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

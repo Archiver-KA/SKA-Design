@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02110",
+  "title": "Two-Tier SaaS Pricing Section with Billing Toggle",
+  "summary": "Full-width SaaS pricing section featuring narrative intro, visual monthly/yearly billing toggle, and two pricing tiers (Launch and Scale) with feature lists, CTAs, and subtle animation using Tailwind-style utility classes.",
+  "tags": [
+    "pricing",
+    "responsive",
+    "interactive",
+    "animated",
+    "saas",
+    "tailwind",
+    "landing"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 26250,
+      "sha256": "c14aeaec29963e6e4e7c6c06098e590aaf209eb08564e361dcb49f966db469c0"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11727,
+      "sha256": "a72509dc559dc41f9885a52ecf7aa200f0329872e2ba3ecd5e4edd19bec2318d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12597,
+      "sha256": "860dfd089499df7fb0d55642a73ad181af67074080f24816a83aa8de84653fb8"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

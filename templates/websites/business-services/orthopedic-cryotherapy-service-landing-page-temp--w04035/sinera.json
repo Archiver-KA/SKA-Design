@@ -1,0 +1,67 @@
+{
+  "id": "SN-W04035",
+  "title": "Orthopedic Cryotherapy Service Landing Page Template",
+  "summary": "A modern orthopedic cryotherapy service landing page template for showcasing treatments, benefits, pricing, and bookings for recovery-focused clinics.",
+  "tags": [
+    "Landing Page",
+    "Health",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Gradient",
+    "Large Type",
+    "Medical",
+    "Cryotherapy"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3548,
+      "sha256": "423d3573f6dd2944859ea39b8c13db251db562fbd69f01acc2b2bbc9532616a0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 18406,
+      "sha256": "6837deed79bbd6cd3cdd8cb4887823ecc0ffb5d05a941a9ca9b5921dba28c20e"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 747,
+      "sha256": "57ce9f506da3d61f7706054eba9b57cec0ece37761c9dfe904f69b3dc6c5b315"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30268,
+      "sha256": "da5ffda1a7797eeb472ac1dd808357bd28410b9359c469f2c5099e7dc085cb63"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "pricing",
+    "benefits",
+    "stats",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

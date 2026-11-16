@@ -1,0 +1,36 @@
+{
+  "id": "SN-C01415",
+  "title": "Interactive Neural Particle Hero Section",
+  "summary": "Fullscreen hero section with a canvas-based neural particle network background, futuristic card content, and interactive CTA. Built with Tailwind utility classes and custom JS for animated particles, hover effects, and dynamic seed/CTA states.",
+  "tags": [
+    "hero",
+    "section",
+    "interactive",
+    "animated",
+    "canvas",
+    "tailwind"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 19158,
+      "sha256": "fb90dcd08deeadce7b126d96e22b5357231d26ddd880c721a75112d36195352a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6868,
+      "sha256": "d0b8f5068b73f305db8cfd1721a026f8e0cb075552644a3a160ffc7be566ca6a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

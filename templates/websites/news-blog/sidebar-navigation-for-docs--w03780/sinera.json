@@ -1,0 +1,95 @@
+{
+  "id": "SN-W03780",
+  "title": "Sidebar Navigation for Docs",
+  "summary": "Responsive documentation UI with sidebar navigation, search bar, breadcrumbs, and mobile menu button using Tailwind CSS.",
+  "tags": [
+    "Documentation",
+    "Sidebar",
+    "Navigation",
+    "Responsive",
+    "Tailwind CSS",
+    "Search",
+    "Breadcrumbs"
+  ],
+  "kind": "websites",
+  "category": "news-blog",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 2870,
+      "sha256": "ea27ecfa05c1943608de8a7fb8d5dbb64d7b6a09d4d61f3cf7bbd98f9c0ecc9b"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 20480,
+      "sha256": "5bea74063effd10d9539503f8f52dba5ec5067921d8a6707ca0fd8e7684f92f5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 2075,
+      "sha256": "d3f4d08ac6fdec3e165d5e6a48243d4cc597d465cec98d81c47c5efcf203b133"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 216,
+      "sha256": "202acf831006c3c77c3b76a589d1d8497637961d74020f91f3e49f9ffeafe288"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 310,
+      "sha256": "1abcd209ba12b8989ebb1213211c4144df65c9475c3ace09fe5f3dd0c7b8aa08"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 234,
+      "sha256": "042de859b9c50cdedff10bab3da1e3a67916629a0807e3fa5e8839a9908b8d83"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 281,
+      "sha256": "cc5d863a871162d6c9f3c5a7a7c2ffe273ce5bbffed377485aa4b003e2b0410f"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 445,
+      "sha256": "87d59676365a10bb3349cb5fbda9ed4eb168b4d60de580f99675d00854ee4bb2"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 237,
+      "sha256": "9ceff01f85c6d1075659b1e2c2c9272ab8510d98b5929af88661d1b97bc62028"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 234,
+      "sha256": "76174d10644deef3bbd26fd02c599ecfaac1746a475ddc51baabe5c7d49947f5"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15362,
+      "sha256": "7f05a88d1b1c35f833fd9e720a8312a262dcfec43eb99eea06620fd39e1e90bb"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "content",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Content / News",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "hero",
+    "navbar",
+    "features"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

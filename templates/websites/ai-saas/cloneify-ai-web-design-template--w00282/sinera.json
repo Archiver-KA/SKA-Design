@@ -1,0 +1,61 @@
+{
+  "id": "SN-W00282",
+  "title": "Cloneify AI Web Design Template",
+  "summary": "A sophisticated SaaS landing page template for AI-driven design tools, allowing users to convert links, photos, or videos into clean, responsive code.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Clean",
+    "Dark",
+    "Futuristic",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3527,
+      "sha256": "ca4ba978344ab396884b6987dfec42a23c66a49e9eaa9e726b847992e64f48e9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13650,
+      "sha256": "83c7861a994289a8d0421b2d62a78df9c486d1b4ada1038b2903a301f29a8be1"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 724,
+      "sha256": "75d57a101fa73d24ba7e6960cd799b8d33998fd0683ed867ddfc95e734998942"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9964,
+      "sha256": "a3bf4c28c7972481f1d66a999c531990c3ba1fdbc6dcdff61ffb677a967ad5cd"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "contact-form",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

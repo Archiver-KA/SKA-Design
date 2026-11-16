@@ -1,0 +1,68 @@
+{
+  "id": "SN-W04306",
+  "title": "Text Input with Live Counters",
+  "summary": "UI for entering text with live counts and progress bars for characters, words, paragraphs, sentences, and read time.",
+  "tags": [
+    "Character Counter",
+    "Word Count",
+    "Progress Bars",
+    "Textarea",
+    "Tailwind CSS",
+    "Read Time",
+    "Input Limits"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3074,
+      "sha256": "78c95d0d36f1c95cb1e9899dd529a955efa9b65365f952401c9e58696fd241ce"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 4302,
+      "sha256": "6618434096e962e0c7235ab028e540910b20cb8fcf945a720b0c14b230b148be"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 948,
+      "sha256": "ac9f15a0afe3a1f2d950c3dffb02137bfdca3a332e35ce818718a1b68344877f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 203,
+      "sha256": "174c18284e16bae12c6926ea1fd12e9d3a24bdc17fad0a0285d354c11962b459"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8457,
+      "sha256": "f5fd33d0d184562a13ddcaada740dd2d5495eda81ab5e4107c53ee2b302f8c6d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "cta",
+    "contact-form"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "snippetType": "cta",
+  "design": "DESIGN.md"
+}

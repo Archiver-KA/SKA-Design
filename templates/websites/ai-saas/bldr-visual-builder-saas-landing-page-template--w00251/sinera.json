@@ -1,0 +1,82 @@
+{
+  "id": "SN-W00251",
+  "title": "BLDR Visual Builder SaaS Landing Page Template",
+  "summary": "A high-performance SaaS landing page template featuring a dark mode aesthetic, visual builder mockups, and edge deployment features for developers.",
+  "tags": [
+    "Technology",
+    "Landing Page",
+    "Dark",
+    "Clean",
+    "Futuristic",
+    "Documentation",
+    "Services"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3738,
+      "sha256": "8a94dc89f6d3e78b1d7d5a550e177bb65fda7e6796ecb6540aaab80e597583c2"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15946,
+      "sha256": "d4bfa7bb6bd5819a3652154e5c382df89e55c872261bdf0936d5bd5ee93bc1fe"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1469,
+      "sha256": "4a387b77bed562fa0105ad016bcc4689f6b92fa2372b91cbc4d2a840bac9fb90"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 224,
+      "sha256": "bfa79effcd95d0901c04d203d02ce457a32ee4fb32a5e36acc1ec9f099f15681"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 338,
+      "sha256": "bd221a32540330514667eb09bc20dff0f2b313fd68b628847d6c4cb04c0b7903"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 380,
+      "sha256": "24fc0b4ce8ec9663847c4e2ea77d845c76238970cb38194ef2aece241dd0bd0b"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 177,
+      "sha256": "72b9ccc376fd95204c10f9cf689b627680a7b6dbadbb6ff3487dd8848799e8ec"
+    },
+    {
+      "path": "index.html",
+      "bytes": 34558,
+      "sha256": "a807c235d2837dfd84a6b1f979299fa794817a7d47054b842a301d7ceefd7e3f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "testimonials",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

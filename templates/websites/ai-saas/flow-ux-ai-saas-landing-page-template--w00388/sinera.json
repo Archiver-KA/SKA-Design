@@ -1,0 +1,70 @@
+{
+  "id": "SN-W00388",
+  "title": "Flow UX AI SaaS Landing Page Template",
+  "summary": "A cinematic dark-mode SaaS landing page template for AI-powered UX analysis tools, perfect for showcasing instant screenshot-based UX audits and reports.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "SaaS",
+    "UX",
+    "AI"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3821,
+      "sha256": "245ba60a520f3d02a10c131f578a1f3ead48cb2564c6110cdcda58f086429938"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16858,
+      "sha256": "f356a8a6fbf7c401fb6bc8b5452a76bf1b77afb9ab8ff52ddd5b0f2403c9e237"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 731,
+      "sha256": "52533f7a333c45a1690bdfa3011f5c26927364df1e43c5dfa359c289057febf7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41702,
+      "sha256": "ca35c0af641c8570903ffc1318e27604b7624d19a5843a1653afa4abef2d7a20"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "testimonials",
+    "dashboard-preview",
+    "features",
+    "gallery-portfolio",
+    "pricing",
+    "faq",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

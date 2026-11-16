@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00090",
+  "title": "Animated Hover Button",
+  "summary": "Interactive button with scale animation, expanding background effect on hover, and shadow. Customizable for call-to-action or form submissions.",
+  "tags": [
+    "button",
+    "interactive",
+    "animation",
+    "hover-effects",
+    "cta",
+    "blue",
+    "scalable"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1846,
+      "sha256": "0f0c881e9c2509c4d064faedae3d55f8886a42cd70a343e052dc189d5af14c8e"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1267,
+      "sha256": "fbfa8ff085b69732c7e9c6d323fdcae7bcaad569457cc6af620e3ee1e114046c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2109,
+      "sha256": "5c0d5087d3793d90617f81e1cd04a507f141858ac6a15b2c103151b6d1e4c697"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

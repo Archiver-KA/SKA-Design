@@ -1,0 +1,86 @@
+{
+  "id": "SN-W00083",
+  "title": "AI Design SaaS Landing Page Template",
+  "summary": "A reusable dark-mode SaaS landing page template for AI-powered design tools like Lumina, featuring hero, feature grid, configurator, testimonial, and CTA sections.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "SaaS",
+    "AI"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3681,
+      "sha256": "b5294bcd90c859d1b59c306f364e0b01a636df11606859ce6101b5c933cad0a3"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 14598,
+      "sha256": "14807f249816a12651a5cc55fc0735f2150a9e6c78dd7e5fe6e70ac06fb475e5"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1463,
+      "sha256": "8c5844bcc90cf155260e05ebfddce8dc162a73093b6e24c7b1f68583f73865b7"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 169,
+      "sha256": "5e7339c51df4c34cee06d331b09b46daeb53b30c90aaf586749eeaccc3ac7984"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 209,
+      "sha256": "aacc40ffa3aab2e930c2a51d59a9ebc6a6693732088be802532041bbbf656239"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 181,
+      "sha256": "679b5c0d73750b953e8441e8df375009734e9a186fa6e4b5e83c3c9c34dea887"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 161,
+      "sha256": "7a60f2cdfb0dcbfdb7c327c113121d1521f91d9d485293b48b0342ca15ce50f9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 27297,
+      "sha256": "e75530a6fe34032215c057c636afbdb01f73de3f4961534b552c8111a66b9b63"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "case-studies",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

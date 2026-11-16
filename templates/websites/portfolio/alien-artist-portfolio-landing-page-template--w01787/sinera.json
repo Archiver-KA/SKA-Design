@@ -1,0 +1,64 @@
+{
+  "id": "SN-W01787",
+  "title": "Alien Artist Portfolio Landing Page Template",
+  "summary": "A bold portfolio landing page template for digital artists and visual directors to showcase selected projects, goods, and studio services with a cinematic experience.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Graphic Design",
+    "Minimal",
+    "Dark",
+    "Large Type",
+    "Brand",
+    "Technology"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3511,
+      "sha256": "ad756ca807a8be545e3810289946693197b2f0e32af53a6579861a845f1822d6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13676,
+      "sha256": "65cd40022f1c2e4af1cf0441e49e3e846383b9c9ba2aac22da6c04e0ee16f0f0"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 732,
+      "sha256": "99c12fec13d0b4e2af4e32e413899310cd6b69c7b51c0206de4c4e43c1ae951b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 29080,
+      "sha256": "6dff938f2150ca405e9815cc6607c180fe2a9265b89b4a9d0a303b7bb56b339d"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "gallery-portfolio",
+    "product-grid",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

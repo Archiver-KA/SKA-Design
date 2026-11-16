@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="en" data-theme="calm">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ark Care AFH — Compassionate Care in a Home Environment</title>
+<meta name="description" content="Ark Care AFH is a small adult family home offering mental health and dementia support. Book a tour to meet the team and see the living spaces.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config = { theme: { extend: {
+  colors: { ground:'#F2F7F5', surface:'#FFFFFF', ink:'#0F2A26', muted:'#4E6661', line:'#D3E2DD', accent:'#0F766E', accent2:'#F4B860' },
+  fontFamily: { sans: ['"Be Vietnam Pro"','system-ui','sans-serif'] },
+  borderRadius: { card:'14px' }
+}}}
+</script>
+<style>
+[data-theme="calm"] {
+  --sa-ground:#F2F7F5; --sa-surface:#FFFFFF; --sa-ink:#0F2A26; --sa-muted:#4E6661; --sa-line:#D3E2DD;
+  --sa-accent:#0F766E; --sa-on-accent:#FFFFFF; --sa-accent-2:#F4B860; --sa-on-accent-2:#0F2A26;
+  --sa-font-display:"Be Vietnam Pro",system-ui,sans-serif; --sa-font-body:"Be Vietnam Pro",system-ui,sans-serif;
+  --sa-radius-control:999px; --sa-radius-card:14px; --sa-display-case:none;
+  color-scheme:light; background:var(--sa-ground); color:var(--sa-ink); font-family:var(--sa-font-body);
+}
+html{scroll-behavior:smooth}
+body{background:var(--sa-ground);color:var(--sa-ink);font-family:var(--sa-font-body);-webkit-font-smoothing:antialiased;overflow-x:hidden}
+h1,h2,h3{font-family:var(--sa-font-display);text-wrap:balance;letter-spacing:-.02em}
+:focus-visible{outline:3px solid var(--sa-accent);outline-offset:3px;border-radius:6px}
+.band :focus-visible{outline-color:var(--sa-accent-2)}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;padding:0 24px;border-radius:999px;background:var(--sa-accent);color:var(--sa-on-accent);font-weight:600;font-size:15px;text-decoration:none;border:0;cursor:pointer;transition:background-color .2s}
+.btn:hover{background:#0B5F58}
+.ph{background:repeating-linear-gradient(135deg,#E3EEEA 0 12px,#EAF2EF 12px 24px);color:var(--sa-muted);display:flex;align-items:flex-end;padding:14px;font-size:13px;font-weight:500}
+details>summary{list-style:none;cursor:pointer;min-height:56px}
+details>summary::-webkit-details-marker{display:none}
+details[open] .plus{transform:rotate(45deg)}
+.plus{transition:transform .2s}
+.tl{position:relative}
+.tl::before{content:"";position:absolute;left:19px;top:8px;bottom:8px;width:2px;background:#2E6B64}
+</style>
+</head>
+<body class="font-sans text-ink bg-ground">
+
+<header class="sticky top-0 z-30 bg-ground/95 border-b border-line">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
+    <a href="#top" class="flex items-center gap-2 font-bold text-lg">
+      <svg width="30" height="30" viewBox="0 0 30 30" fill="none" aria-hidden="true"><path d="M4 14 15 5l11 9v11H4V14Z" stroke="#0F766E" stroke-width="2" stroke-linejoin="round"/><path d="M11 25v-7h8v7" stroke="#0F766E" stroke-width="2"/></svg>
+      Ark Care AFH
+    </a>
+    <nav aria-label="Main" class="hidden md:flex items-center gap-8 text-[15px] font-medium">
+      <a class="py-3 hover:text-accent" href="#cham-soc">Our care</a>
+      <a class="py-3 hover:text-accent" href="#mot-ngay">A day at home</a>
+      <a class="py-3 hover:text-accent" href="#khong-gian">The home</a>
+      <a class="py-3 hover:text-accent" href="#hoi-dap">FAQ</a>
+      <a class="btn" href="#tham-quan">Book a tour</a>
+    </nav>
+    <button id="menuBtn" class="md:hidden w-11 h-11 inline-flex items-center justify-center rounded-full border border-line" aria-label="Open menu" aria-expanded="false" aria-controls="mobileNav">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+  </div>
+  <nav id="mobileNav" aria-label="Mobile menu" class="hidden md:hidden border-t border-line bg-ground px-4 pb-4">
+    <a class="flex items-center min-h-[48px] font-medium" href="#cham-soc">Our care</a>
+    <a class="flex items-center min-h-[48px] font-medium" href="#mot-ngay">A day at home</a>
+    <a class="flex items-center min-h-[48px] font-medium" href="#khong-gian">The home</a>
+    <a class="flex items-center min-h-[48px] font-medium" href="#hoi-dap">FAQ</a>
+    <a class="btn w-full mt-2" href="#tham-quan">Book a tour</a>
+  </nav>
+</header>
+
+<main id="top">
+<!-- HERO: form đặt lịch nằm ngay trong hero -->
+<section class="max-w-6xl mx-auto px-4 sm:px-6 py-12 md:py-20 grid lg:grid-cols-12 gap-10 items-start">
+  <div class="lg:col-span-7">
+    <p class="inline-block text-sm font-semibold bg-accent2 text-ink rounded-full px-4 py-1.5 mb-6">Adult family home · [NUMBER OF BEDS] residents</p>
+    <h1 class="text-4xl sm:text-5xl lg:text-6xl font-bold leading-[1.08]">A small home where your loved one is known by name.</h1>
+    <p class="mt-6 text-lg text-muted max-w-xl leading-relaxed">Ark Care is a small adult family home for older adults, with support for mental health needs and dementia. Come and see it for yourself, meet the people who will provide care, then decide.</p>
+    <ul class="mt-8 grid gap-3 text-[15px]">
+      <li class="flex gap-3"><svg class="shrink-0 mt-0.5" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg>Few residents, so caregivers learn each person's routines</li>
+      <li class="flex gap-3"><svg class="shrink-0 mt-0.5" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg>An individual care plan, with the family invited to contribute</li>
+      <li class="flex gap-3"><svg class="shrink-0 mt-0.5" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg>Licensed home: [LICENSE NUMBER]</li>
+    </ul>
+  </div>
+  <div id="tham-quan" class="lg:col-span-5 bg-surface border border-line rounded-card p-6 sm:p-8 scroll-mt-24">
+    <h2 class="text-2xl font-bold">Book a tour</h2>
+    <p class="mt-1 text-sm text-muted">We'll call you back to find a time that suits your family.</p>
+    <form class="mt-6 grid gap-4" onsubmit="event.preventDefault();this.querySelector('[data-ok]').hidden=false">
+      <div><label for="t1" class="block text-sm font-semibold mb-1">Contact name</label><input id="t1" required autocomplete="name" class="w-full min-h-[48px] px-5 rounded-full border border-line bg-ground"></div>
+      <div><label for="t2" class="block text-sm font-semibold mb-1">Phone number</label><input id="t2" type="tel" required autocomplete="tel" class="w-full min-h-[48px] px-5 rounded-full border border-line bg-ground"></div>
+      <div><label for="t3" class="block text-sm font-semibold mb-1">What support does your loved one need?</label>
+        <select id="t3" class="w-full min-h-[48px] px-5 rounded-full border border-line bg-ground">
+          <option>Help with daily living</option><option>Dementia care</option><option>Mental health support</option><option>Not sure yet, I'd like advice</option>
+        </select></div>
+      <button class="btn" type="submit">Send request</button>
+      <p data-ok hidden role="status" class="text-sm font-medium text-accent">Thank you, we've received your request. This is a demo form, so connect it to your own system.</p>
+    </form>
+  </div>
+</section>
+
+<!-- BẰNG CHỨNG -->
+<section class="border-y border-line bg-surface" aria-label="Licensing and team">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-8 grid gap-6 sm:grid-cols-3 text-sm">
+    <div><p class="font-semibold">Operating license</p><p class="text-muted">[LICENSE NUMBER] · valid until [DATE]</p></div>
+    <div><p class="font-semibold">Nurses and caregivers</p><p class="text-muted">Hold [TYPE OF CERTIFICATION] and complete regular training</p></div>
+    <div><p class="font-semibold">Medical oversight</p><p class="text-muted">Responsible clinician: [NAME, TITLE]</p></div>
+  </div>
+</section>
+
+<!-- CHĂM SÓC: hai khối bất đối xứng -->
+<section id="cham-soc" class="max-w-6xl mx-auto px-4 sm:px-6 py-14 md:py-24">
+  <h2 class="text-3xl sm:text-4xl font-bold max-w-2xl">Care shaped around what your loved one needs, not one-size-fits-all.</h2>
+  <div class="mt-12 grid md:grid-cols-12 gap-6">
+    <article class="md:col-span-7 bg-surface border border-line rounded-card p-7 sm:p-9">
+      <svg width="36" height="36" viewBox="0 0 36 36" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M18 30S6 23 6 14a6 6 0 0 1 12-2 6 6 0 0 1 12 2c0 9-12 16-12 16Z"/></svg>
+      <h3 class="mt-5 text-2xl font-semibold">Daily care</h3>
+      <p class="mt-3 text-muted leading-relaxed">Help with bathing, dressing, meals, medications as prescribed by their doctor, and moving safely around the home. Residents keep the daily rhythm they're used to.</p>
+    </article>
+    <article class="md:col-span-5 bg-ink text-white rounded-card p-7 sm:p-9">
+      <svg width="36" height="36" viewBox="0 0 36 36" fill="none" stroke="#F4B860" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="18" cy="18" r="12"/><path d="M13 16v-1M23 16v-1M12 22c3 4 9 4 12 0"/></svg>
+      <h3 class="mt-5 text-2xl font-semibold">Mental health support</h3>
+      <p class="mt-3 text-[#CFE0DB] leading-relaxed">A calm setting and steady routine, with caregivers trained in how to talk with residents and respond when someone feels anxious or restless.</p>
+    </article>
+    <article class="md:col-span-5 bg-surface border border-line rounded-card p-7 sm:p-9">
+      <svg width="36" height="36" viewBox="0 0 36 36" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M18 6a9 9 0 0 0-5 16.5V27h10v-4.5A9 9 0 0 0 18 6Z"/><path d="M14 31h8"/></svg>
+      <h3 class="mt-5 text-2xl font-semibold">Dementia care</h3>
+      <p class="mt-3 text-muted leading-relaxed">Familiar, easy-to-navigate spaces, secured doors and memory-friendly activities suited to each stage. We'll tell you plainly if someone's needs go beyond what the home can safely provide.</p>
+    </article>
+    <article class="md:col-span-7 bg-surface border border-line rounded-card p-7 sm:p-9">
+      <svg width="36" height="36" viewBox="0 0 36 36" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="13" cy="13" r="5"/><circle cx="25" cy="15" r="4"/><path d="M4 30c0-6 4-9 9-9s9 3 9 9M22 22c5 0 10 2 10 8"/></svg>
+      <h3 class="mt-5 text-2xl font-semibold">Families stay in the loop</h3>
+      <p class="mt-3 text-muted leading-relaxed">We let you know about changes in health, medications or routine, and you're welcome to visit during [VISITING HOURS]. The care plan is reviewed with the family every [FREQUENCY].</p>
+    </article>
+  </div>
+</section>
+
+<!-- MỘT NGÀY Ở NHÀ: dải tối, đường thời gian -->
+<section id="mot-ngay" class="band bg-ink text-white">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-14 md:py-24 grid md:grid-cols-12 gap-12">
+    <div class="md:col-span-5">
+      <h2 class="text-3xl sm:text-4xl font-bold">What a day at home looks like.</h2>
+      <p class="mt-4 text-[#CFE0DB] leading-relaxed">The schedule below is just an example. Real timings are adapted to each person's habits.</p>
+    </div>
+    <ol class="tl md:col-span-7 grid gap-8">
+      <li class="relative pl-14"><span class="absolute left-0 top-0 w-10 h-10 rounded-full bg-accent2 text-ink font-bold text-xs inline-flex items-center justify-center" aria-hidden="true">AM</span><h3 class="font-semibold text-lg">Waking at their own pace</h3><p class="text-[#CFE0DB] mt-1">Personal care, breakfast, medications on time and gentle movement.</p></li>
+      <li class="relative pl-14"><span class="absolute left-0 top-0 w-10 h-10 rounded-full bg-accent2 text-ink font-bold text-xs inline-flex items-center justify-center" aria-hidden="true">Noon</span><h3 class="font-semibold text-lg">Shared lunch and a rest</h3><p class="text-[#CFE0DB] mt-1">Meals adapted to each person's dietary needs: [DIETS WE SUPPORT].</p></li>
+      <li class="relative pl-14"><span class="absolute left-0 top-0 w-10 h-10 rounded-full bg-accent2 text-ink font-bold text-xs inline-flex items-center justify-center" aria-hidden="true">PM</span><h3 class="font-semibold text-lg">Activities and visitors</h3><p class="text-[#CFE0DB] mt-1">Music, a little gardening, conversation and time with visiting family.</p></li>
+      <li class="relative pl-14"><span class="absolute left-0 top-0 w-10 h-10 rounded-full bg-accent2 text-ink font-bold text-xs inline-flex items-center justify-center" aria-hidden="true">Eve</span><h3 class="font-semibold text-lg">Supper and a restful night</h3><p class="text-[#CFE0DB] mt-1">Evening medications and getting ready for bed, with overnight staffing per [OVERNIGHT STAFFING POLICY].</p></li>
+    </ol>
+  </div>
+</section>
+
+<!-- KHÔNG GIAN -->
+<section id="khong-gian" class="max-w-6xl mx-auto px-4 sm:px-6 py-14 md:py-24">
+  <h2 class="text-3xl sm:text-4xl font-bold">Living spaces</h2>
+  <div class="mt-8 grid grid-cols-2 md:grid-cols-4 gap-4 md:grid-rows-2">
+    <div class="ph rounded-card h-48 md:h-auto md:row-span-2 col-span-2" role="img" aria-label="Photo of the shared living room, 4:3 ratio">Shared living room photo</div>
+    <div class="ph rounded-card h-40 md:h-52" role="img" aria-label="Bedroom photo">Bedroom photo</div>
+    <div class="ph rounded-card h-40 md:h-52" role="img" aria-label="Kitchen photo">Kitchen photo</div>
+    <div class="ph rounded-card h-40 md:h-52 col-span-2" role="img" aria-label="Garden photo">Garden photo</div>
+  </div>
+  <p class="mt-4 text-sm text-muted">Replace with real photos of the home. Only publish photos of people with their consent.</p>
+</section>
+
+<!-- LỜI CHỨNG THỰC -->
+<section class="bg-surface border-y border-line">
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 py-14 md:py-20">
+    <blockquote class="text-2xl sm:text-3xl font-medium leading-snug">“[QUOTE FROM A FAMILY MEMBER ABOUT HOW THE TEAM SUPPORTS THEM]”</blockquote>
+    <p class="mt-5 text-muted">[NAME, RELATIONSHIP TO RESIDENT] · shared with permission</p>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section id="hoi-dap" class="max-w-3xl mx-auto px-4 sm:px-6 py-14 md:py-24">
+  <h2 class="text-3xl sm:text-4xl font-bold">Questions families ask</h2>
+  <div class="mt-8 border-t border-line">
+    <details class="border-b border-line"><summary class="flex items-center justify-between gap-4 py-3 font-semibold">What does the fee include?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted leading-relaxed">[YOUR PRICE] per month, with a list of what's included and what costs extra. You'll receive this in writing before you sign.</p></details>
+    <details class="border-b border-line"><summary class="flex items-center justify-between gap-4 py-3 font-semibold">How do I know the home is right for my loved one?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted leading-relaxed">We assess needs before admission. If someone needs a higher level of medical care than we can provide, we'll say so and suggest other options.</p></details>
+    <details class="border-b border-line"><summary class="flex items-center justify-between gap-4 py-3 font-semibold">Can family visit at any time?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted leading-relaxed">Visiting hours: [VISITING HOURS]. Visits outside these hours can be arranged with notice.</p></details>
+    <details class="border-b border-line"><summary class="flex items-center justify-between gap-4 py-3 font-semibold">What happens if my loved one suddenly becomes unwell?<svg class="plus shrink-0" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><p class="pb-5 text-muted leading-relaxed">Staff call 911 when needed and notify your registered emergency contact right away. The full procedure is set out in the care agreement.</p></details>
+  </div>
+</section>
+
+<!-- CTA CUỐI -->
+<section class="px-4 sm:px-6 pb-16 md:pb-24">
+  <div class="max-w-6xl mx-auto bg-accent text-white rounded-card p-8 sm:p-14 text-center">
+    <h2 class="text-3xl sm:text-4xl font-bold max-w-2xl mx-auto">See the home before you decide.</h2>
+    <p class="mt-4 text-[#E2F3F0] max-w-xl mx-auto">Tours come with no obligation. Bring all your questions.</p>
+    <a href="#tham-quan" class="mt-8 inline-flex items-center justify-center min-h-[48px] px-7 rounded-full bg-white text-ink font-semibold hover:bg-accent2 transition-colors">Book a tour</a>
+  </div>
+</section>
+</main>
+
+<footer class="border-t border-line bg-surface">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-10 grid gap-8 md:grid-cols-3 text-sm text-muted">
+    <div><p class="font-bold text-ink text-base">Ark Care AFH</p><p class="mt-2">[ADDRESS]</p><p>[PHONE NUMBER]</p></div>
+    <div><p class="font-semibold text-ink">License</p><p class="mt-2">[LICENSE NUMBER] · [ISSUING AGENCY]</p></div>
+    <p>Information on this page does not replace an assessment by a healthcare professional. Care needs are determined after an intake assessment.</p>
+  </div>
+</footer>
+
+<script>
+(function(){var b=document.getElementById('menuBtn'),m=document.getElementById('mobileNav');
+b.addEventListener('click',function(){var o=m.classList.toggle('hidden')===false;b.setAttribute('aria-expanded',o);b.setAttribute('aria-label',o?'Close menu':'Open menu')});
+m.addEventListener('click',function(e){if(e.target.closest('a')){m.classList.add('hidden');b.setAttribute('aria-expanded','false')}});})();
+</script>
+</body>
+</html>

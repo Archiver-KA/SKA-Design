@@ -1,0 +1,11 @@
+<svg class="absolute inset-0 w-full h-full overflow-visible" preserveAspectRatio="none" viewBox="0 0 1000 220">
+                <defs>
+                  <linearGradient id="area-grey" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#5A6B7C" stop-opacity="0.12"></stop><stop offset="100%" stop-color="#5A6B7C" stop-opacity="0"></stop></linearGradient>
+                  <linearGradient id="area-copper" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#D4A07A" stop-opacity="0.25"></stop><stop offset="100%" stop-color="#D4A07A" stop-opacity="0"></stop></linearGradient>
+                  <clipPath id="chart-reveal-clip"><rect x="0" y="-10" width="0" height="240" class="chart-reveal-rect"></rect></clipPath>
+                </defs>
+                <g clip-path="url(#chart-reveal-clip)"><path d="M0,0 Q600,20 1000,60 L1000,220 L0,220 Z" fill="url(#area-grey)"></path></g>
+                <path d="M0,0 Q600,20 1000,60" fill="none" stroke="#5A6B7C" stroke-width="1.5" class="chart-line-grey"></path>
+                <g clip-path="url(#chart-reveal-clip)"><path d="M0,220 Q600,210 1000,120 L1000,220 L0,220 Z" fill="url(#area-copper)"></path></g>
+                <path d="M0,220 Q600,210 1000,120" fill="none" stroke="#D4A07A" stroke-width="2" class="chart-line-copper"></path>
+              </svg>

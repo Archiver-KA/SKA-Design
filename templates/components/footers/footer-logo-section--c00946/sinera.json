@@ -1,0 +1,40 @@
+{
+  "id": "SN-C00946",
+  "title": "Footer Logo Section",
+  "summary": "A footer component with centered logo and additional footer content, perfect for page footers with branding and links.",
+  "tags": [
+    "footer",
+    "logo",
+    "dark",
+    "links"
+  ],
+  "kind": "components",
+  "category": "footers",
+  "categoryLabel": "Footers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 7872,
+      "sha256": "e148efef21b3cb01144257caf2671eee0570f9a725b75f705ab7e31c784dfdd7"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1125,
+      "sha256": "74fd95e9ec0924723583693f09059bca4db8aa7abb078b15b9f5f1fdbf1beef2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1965,
+      "sha256": "d075b11cc379c86224e9b49b98299ab4ec2cc5b23906e17aae240b7ca43881be"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "SN-W00647",
+  "title": "Prossium AI SaaS Landing Page Template",
+  "summary": "Plantilla de landing page para SaaS de IA como Prossium, ideal para presentar tecnología, casos de uso y captación de demos con diseño oscuro moderno.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Dark",
+    "Gradient",
+    "Minimal",
+    "Large Type",
+    "SaaS",
+    "AI"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3469,
+      "sha256": "317a553530d78825c70187fcf4e9e03c74eebd2c36b4c06b3f1a5b38f11564f6"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 36145,
+      "sha256": "467c4d532858091234cd04d20e5ee12104656cfa808577bff2aed0daca074fa2"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 815,
+      "sha256": "a38ac78c50f8c7f08882a61b85418a050864874d1a68cf1013cc10b7c358ec69"
+    },
+    {
+      "path": "index.html",
+      "bytes": 52909,
+      "sha256": "11ee021fbe76a44ca295a72813e107a14d4e66bb9fc0a462ff17d14c25c43586"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "bento-grid",
+    "pricing",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "fixed",
+    "issues": [],
+    "rendered": true,
+    "fixes": [
+      "repaired-broken-markup-or-script"
+    ]
+  },
+  "design": "DESIGN.md"
+}

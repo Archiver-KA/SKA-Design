@@ -1,0 +1,138 @@
+{
+  "id": "SN-W04204",
+  "title": "Interactive 3D Background Website UI",
+  "summary": "Webpage with fixed 3D spline background, gradient blur blobs, glassmorphism header, and smooth scrolling using Tailwind CSS.",
+  "tags": [
+    "3D Background",
+    "Glassmorphism",
+    "Tailwind CSS",
+    "Gradient Blobs",
+    "Smooth Scroll",
+    "Responsive Nav"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3396,
+      "sha256": "7b5b44d5a5c4423bc4abab233b4e267ff3e4e0592736ed0c6a57359943ad3529"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 16040,
+      "sha256": "eb6bfbe74a09b66c837a68ec6b3a47eb78c0bcb3d92d40211e4921604085bb60"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 3861,
+      "sha256": "a062f53bac3315807a5be00b66d39a3f173cb4fd07152c372068449af984b1c3"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 632,
+      "sha256": "07a002f3df618feb2756701443ca58d210a2ff29d078bef278c1d2332a2ed121"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 318,
+      "sha256": "9fae3f6edcbc12fabb83365179ed74fd88543ab6654e23d5882bb52352204baa"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 420,
+      "sha256": "00610c76502cb1ad5cf7c1dec9ab6c7a86b62c5b314c8ae8effdb6ca46b5266f"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 528,
+      "sha256": "889ccaf473d2e3ff425e65073c73840d736244c0653304a3eb8e825b8cc8cb4d"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 648,
+      "sha256": "fa0d7e817fe84e069cc8888e786ddadaf3d39832bebb60d78aaac293975ee7dc"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 373,
+      "sha256": "9ad4a2e7ef77c4a71010e42c13434b5946d4de3d5cb36bd47675ef6b22d40ff3"
+    },
+    {
+      "path": "images/embedded/embedded-0007.svg",
+      "bytes": 515,
+      "sha256": "07af4531aca8c9d64b73926228ec6f856f55e7eff22c89552a8f47bcd1eff6b6"
+    },
+    {
+      "path": "images/embedded/embedded-0008.svg",
+      "bytes": 538,
+      "sha256": "bb900498b1397e784c21e1801ee88cf97ecd1be21c541bfa99d6216415e8fd80"
+    },
+    {
+      "path": "images/embedded/embedded-0009.svg",
+      "bytes": 283,
+      "sha256": "b334a86f08b950938dd18d641f1f495ba472509b93a024732d39b377dbfa0c40"
+    },
+    {
+      "path": "images/embedded/embedded-0010.svg",
+      "bytes": 344,
+      "sha256": "30cc4480549efec2c46ca512e92404c4dce729d7c1d800e40c8f19ac6401061d"
+    },
+    {
+      "path": "images/embedded/embedded-0011.svg",
+      "bytes": 632,
+      "sha256": "2cfd4b95e8f2159c9ab6316d5887ae8d67867377c76a5c8a6ee3bfcecbda6e59"
+    },
+    {
+      "path": "images/embedded/embedded-0012.svg",
+      "bytes": 400,
+      "sha256": "8004e5a52e4a20cfe724b3f45ee836750cf455f291720e7833721e7d7e25341a"
+    },
+    {
+      "path": "images/embedded/embedded-0013.svg",
+      "bytes": 550,
+      "sha256": "cf5dfd85b4244457c620d26f4269843de2546fc2252fbc3f13643b1ddf8fce05"
+    },
+    {
+      "path": "images/embedded/embedded-0014.svg",
+      "bytes": 429,
+      "sha256": "6121e3b2493d2e554cc8a65406d2be155c0e5faf90dc136d8e1c31a3a617bf68"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38359,
+      "sha256": "3c811faea6ce12eee8bfbb038d453bf9c292e898c7b6fea24806fb89a6199520"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "3d-canvas",
+    "logo-cloud",
+    "navbar",
+    "hero",
+    "features",
+    "gallery-portfolio",
+    "how-it-works",
+    "pricing",
+    "testimonials",
+    "faq",
+    "cta",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

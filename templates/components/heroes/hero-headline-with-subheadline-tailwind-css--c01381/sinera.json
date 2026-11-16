@@ -1,0 +1,42 @@
+{
+  "id": "SN-C01381",
+  "title": "Hero Headline with Subheadline (Tailwind CSS)",
+  "summary": "Absolute-positioned hero block featuring a bold, responsive heading and descriptive subheadline. Built with Tailwind CSS utility classes, perfect for landing page hero sections requiring standout typography and adaptable layout.",
+  "tags": [
+    "heading",
+    "subheadline",
+    "tailwind",
+    "landing page",
+    "typography",
+    "responsive"
+  ],
+  "kind": "components",
+  "category": "heroes",
+  "categoryLabel": "Heroes & top banners",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16628,
+      "sha256": "a17d0320218ca4fa850f47293f6e9bdd8d04c0f47e960b460f81b20c44a49369"
+    },
+    {
+      "path": "component.html",
+      "bytes": 421,
+      "sha256": "c48e40ea68557f6390abd9753f34a456527020b526b5a285d3a92b8c51485049"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1287,
+      "sha256": "90b88a8899de820db0b3770a61cee56067d1b4f82841033bb06e677c92706708"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

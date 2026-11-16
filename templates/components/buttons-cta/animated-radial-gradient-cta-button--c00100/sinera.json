@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00100",
+  "title": "Animated Radial Gradient CTA Button",
+  "summary": "Interactive call-to-action button featuring radial gradient background, underline glow and smooth translate/scale hover animations built with Tailwind CSS. Suitable for contact prompts or key actions on landing pages.",
+  "tags": [
+    "button",
+    "cta",
+    "tailwind",
+    "gradient",
+    "hover",
+    "animated",
+    "interactive"
+  ],
+  "kind": "components",
+  "category": "buttons-cta",
+  "categoryLabel": "Buttons & calls to action",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 1424,
+      "sha256": "fb1ca69033c71c51a4d472afba0cc424598e14962bf1c55b56a277dccbe0d614"
+    },
+    {
+      "path": "component.html",
+      "bytes": 1412,
+      "sha256": "d32a4b15d830051dfff49c8c63031a5517df77b598c738fe242565a17c0eaa52"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2268,
+      "sha256": "8051c46bb07a45d6c856ea63aa8339b9f0ab19c11005ab53e517499a24c1803b"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

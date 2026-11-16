@@ -1,0 +1,97 @@
+{
+  "id": "SN-W03189",
+  "title": "Architecture Case Study Landing Page Template",
+  "summary": "A refined architecture case study landing page template for showcasing residential projects with immersive imagery, project data, and narrative storytelling.",
+  "tags": [
+    "Landing Page",
+    "Portfolio",
+    "Art & Design",
+    "Minimal",
+    "Clean",
+    "Large Type",
+    "Architecture",
+    "Case Study",
+    "Interior Design",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3462,
+      "sha256": "a4c0b784b78c467b3189e3f456dd5f27c96eead30a047717d043a70eb3cb746d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9738,
+      "sha256": "fa8a4edfb3f336198de18eee5c229970a77031fdec795281d8ccb04520e1af14"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1943,
+      "sha256": "f9632a4cccba54cab7795e2fb40495b096427041b70bb12456c9f1bb52b7249f"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 435,
+      "sha256": "3f009ec51035dbf4f5b89a8980aeba44087d0af5ea554f8485cf1de1a8a8fbe4"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 245,
+      "sha256": "64d75125e7c5efe97826f575e64f3a78884ee2f0839c8b09435047fe69252caf"
+    },
+    {
+      "path": "images/embedded/embedded-0003.svg",
+      "bytes": 1017,
+      "sha256": "819772bacbbc3ad11ed329a9e0ea04f9e42e8d409223c5ff81cb94a24c092fe0"
+    },
+    {
+      "path": "images/embedded/embedded-0004.svg",
+      "bytes": 1644,
+      "sha256": "a25070fb04ee685f9f10e8acbe6234f831ead01cca7a68caa82c7a06ff869ec7"
+    },
+    {
+      "path": "images/embedded/embedded-0005.svg",
+      "bytes": 315,
+      "sha256": "e7aa5901eac543dc0a23552cd6f5d2a626139dfc5a11fb57989563af375d8181"
+    },
+    {
+      "path": "images/embedded/embedded-0006.svg",
+      "bytes": 221,
+      "sha256": "8826800be7f58eb9310a8dadce288af1ea305c4a53d57acf017ae5467d2c5b9f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20866,
+      "sha256": "6a086ed6dc5864c6cd32ab7946692d87d5e50d507bf3fe12c3142d64a5e5346e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "case-studies",
+    "listings",
+    "testimonials",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

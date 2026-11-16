@@ -1,0 +1,44 @@
+{
+  "id": "SN-C00963",
+  "title": "Responsive Footer with Social & Newsletter",
+  "summary": "Tailwind-styled footer featuring brand logo, multi-column navigation, social icons, email subscription form, compliance badges, and legal links. Responsive grid layout ideal for SaaS or corporate sites.",
+  "tags": [
+    "footer",
+    "tailwind",
+    "responsive",
+    "newsletter",
+    "social-links",
+    "navigation",
+    "grid",
+    "saas"
+  ],
+  "kind": "components",
+  "category": "footers",
+  "categoryLabel": "Footers",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 14740,
+      "sha256": "3a84cebd21db11a4bb97c06834827bf864c376ac260677ec8ff7a1e67ddf1654"
+    },
+    {
+      "path": "component.html",
+      "bytes": 6746,
+      "sha256": "e4e7c4b186a15b7927051914ae7642f78f83418c371e68239949f30182a7681d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7613,
+      "sha256": "34933ca7566d16b378bb333cf978f6c3b3393265bec750deb37288af22bef6dc"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

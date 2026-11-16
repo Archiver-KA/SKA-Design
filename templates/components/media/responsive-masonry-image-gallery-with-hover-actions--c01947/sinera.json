@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01947",
+  "title": "Responsive Masonry Image Gallery with Hover Actions",
+  "summary": "Tailwind-styled masonry grid showcasing image cards that reveal a 'Collect' button on hover. Includes smooth reveal animation and an empty-state message. Suited for photo portfolios, inspiration boards, and content libraries.",
+  "tags": [
+    "gallery",
+    "masonry",
+    "tailwind",
+    "responsive",
+    "image",
+    "grid",
+    "hover",
+    "empty-state"
+  ],
+  "kind": "components",
+  "category": "media",
+  "categoryLabel": "Images, galleries & media",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 53712,
+      "sha256": "c1c3bdd495c0983ca2fe63fd62077dff48a9ff04ee738d7246efc395f3c81de4"
+    },
+    {
+      "path": "component.html",
+      "bytes": 11171,
+      "sha256": "8c8aa7a456ab1c87b5d97ffb4cf7206e8fee36d20f44a918302a8b4b2604267e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12173,
+      "sha256": "f76ee93730a89029b9aed865e158629c91d0003cf03b264fa744f70e8559ca79"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SN-W01753",
+  "title": "3D Interactive Portfolio Template",
+  "summary": "A cinematic 3D WebGL portfolio template that lets creatives showcase their about, experience, and projects through an immersive game-like interface.",
+  "tags": [
+    "Portfolio",
+    "Art & Design",
+    "Technology",
+    "3D",
+    "Dark",
+    "Futuristic",
+    "Minimal",
+    "Landing Page",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3346,
+      "sha256": "8ce58882bb6ebf5f1e7fede9e0e62da242dfe7adab91967f53c93afc18caa563"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 2220,
+      "sha256": "0058395c53277df0a1a8acba98c816e5530ed3e43e20559c199f2657b0b18964"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 721,
+      "sha256": "4b56f60113beec92396b081784ae1eb5d780b19a51f1c56a3089df3e757f5ae8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 33127,
+      "sha256": "0ae9763837bcba5b0902ee442570cf8d499ce60f612c91dc9527f369f6f433c6"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "snippet",
+  "components": [
+    "hero",
+    "3d-canvas",
+    "about",
+    "timeline",
+    "gallery-portfolio"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "3d-canvas",
+  "design": "DESIGN.md"
+}

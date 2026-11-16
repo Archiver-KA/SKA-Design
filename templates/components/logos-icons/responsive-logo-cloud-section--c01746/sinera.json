@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01746",
+  "title": "Responsive Logo Cloud Section",
+  "summary": "Displays a centered tagline with a responsive grid of brand SVG logos for social proof. Tailwind CSS classes create rounded container, gap control, and dark text styling. Ideal for landing pages to showcase clients or partners.",
+  "tags": [
+    "logo",
+    "logo-cloud",
+    "brand",
+    "grid",
+    "section",
+    "tailwind",
+    "responsive",
+    "svg"
+  ],
+  "kind": "components",
+  "category": "logos-icons",
+  "categoryLabel": "Logos, icons & badges",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 5852,
+      "sha256": "b490fc8f77b5f0739af4ac28d0a3dcf0ea7b536a0b2f9f6a2343f003680f6c09"
+    },
+    {
+      "path": "component.html",
+      "bytes": 50052,
+      "sha256": "80d143365321b1da489d40ffcb982ed719469f613aa7c762b530ac4270217c01"
+    },
+    {
+      "path": "index.html",
+      "bytes": 50902,
+      "sha256": "d75ed46a03d81d039deaf84b24fd4c3966e2cf4fc2fb59f567e3cb189cb0ee22"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

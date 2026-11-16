@@ -1,0 +1,66 @@
+{
+  "id": "SN-W00134",
+  "title": "AI QA Detective SaaS Landing Page Template",
+  "summary": "A dark, futuristic SaaS landing page template for an AI QA detective tool that integrates with GitHub and Slack to automate software release investigations.",
+  "tags": [
+    "Landing Page",
+    "Technology",
+    "Brand",
+    "Dark",
+    "Futuristic",
+    "Gradient",
+    "Large Type",
+    "Clean",
+    "SaaS",
+    "Developer Tools"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3818,
+      "sha256": "68bf81a5cec2800775d5c6360c04799f15c081d767ccb6eb10c1b9c3bb553b9e"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 19528,
+      "sha256": "1034dc1fe302ae8797c4c4ebed878d5c5863c764da29ed3a4f2c088c1a635931"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "bfdee955cca786f21c18edd4b892854808c2fbbb8eda1a7f48cc6b5ff438922d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 38588,
+      "sha256": "4266b695a20645c1012f623cd7fb0f9bbbe03ccde92e673bae8eacec874e2d2b"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "logo-cloud",
+    "bento-grid",
+    "pricing",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

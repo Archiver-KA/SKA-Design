@@ -1,0 +1,44 @@
+{
+  "id": "SN-C01138",
+  "title": "Nav Bar - RulzCo",
+  "summary": "Tailwind-styled header featuring logo, menu links, pill-style CTA, and hamburger toggle for mobile. Includes backdrop blur and Lucide icons, making it ideal for landing pages, SaaS, and marketing sites.",
+  "tags": [
+    "navbar",
+    "header",
+    "navigation",
+    "responsive",
+    "tailwind",
+    "menu",
+    "cta",
+    "landing page"
+  ],
+  "kind": "components",
+  "category": "headers-navigation",
+  "categoryLabel": "Headers & navigation",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 3878,
+      "sha256": "f72844451342ba0d4cc9813487e947524d000b2f20b1978e849ad0f486be5204"
+    },
+    {
+      "path": "component.html",
+      "bytes": 3156,
+      "sha256": "78ee7f2c5b7e2e3367dfc5448a7125619efcbbe100bf55d36e42531dca617364"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4123,
+      "sha256": "3061301e7061234f3c14b73b53045f69baddebb37fbb489f939873f349d52abe"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "SN-W02183",
+  "title": "Product Design Portfolio Layout",
+  "summary": "Responsive portfolio site showcasing work, about section, and contact with shader background and Tailwind CSS styling.",
+  "tags": [
+    "Portfolio",
+    "Hero",
+    "Shader Background",
+    "Tailwind CSS",
+    "Responsive Design",
+    "Case Studies",
+    "Navigation"
+  ],
+  "kind": "websites",
+  "category": "portfolio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3265,
+      "sha256": "f7f83958df0a996768c750f459f29ededb0a4770784d65a2cccfbc37b759eaa1"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13790,
+      "sha256": "389bf8ff4fd572d59c580d4f163e4c3e04a42aa192364283e0f1d5b2d9846875"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 719,
+      "sha256": "ae817fcedcfedf5575e5726814de65bcac18e03429dc0facb08c2e9ec3267fba"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14512,
+      "sha256": "8f3325be6280e927a33c851694cabacdf6760ab0a41d1441e710d4db4c05ef04"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "portfolio",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Portfolio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "stats",
+    "about",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

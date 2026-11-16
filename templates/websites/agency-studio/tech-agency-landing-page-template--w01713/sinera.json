@@ -1,0 +1,72 @@
+{
+  "id": "SN-W01713",
+  "title": "Tech Agency Landing Page Template",
+  "summary": "A modern TechNamah-inspired landing page template for tech agencies offering UI/UX, web, mobile, and no-code services, ready to customize and launch.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Gradient",
+    "Portfolio",
+    "Agency"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3953,
+      "sha256": "781b243af6828061460ede024677e23a2024b226fce4b3bd1087caf6e646f102"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15330,
+      "sha256": "4c30e1025f43ecfc628aee3b1ec71b859b63f57ea0970f41d34f81c5bf776939"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 727,
+      "sha256": "93489342bfa2bf1636ac5faa048903ddcd7f5a165fe9a7b1f71020adf4475f63"
+    },
+    {
+      "path": "index.html",
+      "bytes": 45207,
+      "sha256": "243a3a01af9474cf3cd8d3ca52401fdd9f6769fc2108c3f670b3d5e839f6d714"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "how-it-works",
+    "gallery-portfolio",
+    "cta",
+    "timeline",
+    "features",
+    "code-terminal",
+    "stats",
+    "contact-form",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

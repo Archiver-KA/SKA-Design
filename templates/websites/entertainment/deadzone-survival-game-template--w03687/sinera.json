@@ -1,0 +1,82 @@
+{
+  "id": "SN-W03687",
+  "title": "DeadZone Survival Game Template",
+  "summary": "A high-performance tactical zombie survival template featuring a custom canvas-based engine and sleek dark UI for browser-based gaming.",
+  "tags": [
+    "Entertainment",
+    "Dark",
+    "Minimal",
+    "Technology",
+    "Futuristic",
+    "Animated"
+  ],
+  "kind": "websites",
+  "category": "entertainment",
+  "format": "react",
+  "entry": "package.json",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3465,
+      "sha256": "46dcd8231c744f96c55b69652e0747be5f0f78c17c866a4893ca18ba65317e92"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7258,
+      "sha256": "a4414bb365a00d169605b47d015b82aea56d130d825913972b36f20eb69a64a8"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 723,
+      "sha256": "b36d4a335040882c119f975548374ca350c132d3c55655017c7f2cd414a2041c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 430,
+      "sha256": "5d209a4e1e72e2e7a5e1feec5aad1fbb89ec014aea7f4c4088ea8a3aa8e9eaa8"
+    },
+    {
+      "path": "package.json",
+      "bytes": 594,
+      "sha256": "9582298088ecc709ced14d5b27014c0451894af752470beb28b0450f213eac8a"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 22988,
+      "sha256": "3c9b141f1e9f44b0f07c5d835f2dfceccb6a19c9287e63ef8b9c754d8a95f6b0"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 526,
+      "sha256": "6b5c9b46db4d707de8f098db6d73fd5546fa4c3c105bacf777dff7d72bb6cffd"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 258,
+      "sha256": "2e57667aed5323dd14fb463b4f9bdce9a6720555aae446dc00802e47bddec7b5"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 226,
+      "sha256": "cdc1763369a305dd2cc7d83e3b19b447f985089e744932a9fbf520975e41ac72"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "entertainment",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Entertainment",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "snippet",
+  "components": [],
+  "quality": {
+    "status": "react-project",
+    "issues": [],
+    "rendered": false
+  },
+  "snippetType": "other",
+  "design": "DESIGN.md",
+  "preview": "preview/index.html"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00452",
+  "title": "Role Selection Component",
+  "summary": "Interactive role selection cards allowing users to choose between Parent, Educator, or Parent + Educator roles.",
+  "tags": [
+    "role",
+    "selection",
+    "card",
+    "interactive",
+    "parent",
+    "educator",
+    "onboarding"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 11290,
+      "sha256": "4a7ec498420e79d40e8fe7050fd1dc892775ab05753ccf3d5f27f4f3535ce83b"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2033,
+      "sha256": "4720f21436d3b0512574b00c45592cb95351602f208a44fa4d581de9de8c5576"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2878,
+      "sha256": "d3b19d37a5a1bc44b055adcb123ec37c6d05a4063131d168e33991e548941d8f"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00315",
+  "title": "Animated Featured Destinations Card Section",
+  "summary": "Dark Tailwind section with heading and responsive 3-card grid for featured space destinations. Each card shows image, badge, pricing and CTAs, with hover zoom and scroll fade-in animations—ideal for travel or product listings.",
+  "tags": [
+    "section",
+    "grid",
+    "tailwind",
+    "animated",
+    "responsive",
+    "dark",
+    "travel"
+  ],
+  "kind": "components",
+  "category": "cards-dialogs",
+  "categoryLabel": "Cards, dialogs & notifications",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 35038,
+      "sha256": "e4d4b0663cad1fed515c02f791ec46ceacf7e500e690cd794c30e978f9855f95"
+    },
+    {
+      "path": "component.html",
+      "bytes": 13439,
+      "sha256": "3d96da7d131c2453c6aac5b217a47fe87e23baafa0613318774620466188bc09"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14303,
+      "sha256": "0ffec5afcf6a85b2978d82a2bc79d113fb710def6435dba55625c605809b4d3a"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

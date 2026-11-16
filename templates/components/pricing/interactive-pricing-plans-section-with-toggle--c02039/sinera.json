@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02039",
+  "title": "Interactive Pricing Plans Section with Toggle",
+  "summary": "Full-width pricing section with three plans, animated cards, and a monthly/annual billing toggle. Uses Tailwind-style utility classes, subtle gradients, and scroll animations. Ideal for SaaS or subscription product pricing pages.",
+  "tags": [
+    "pricing",
+    "section",
+    "interactive",
+    "responsive",
+    "tailwind",
+    "animated",
+    "toggle"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 16630,
+      "sha256": "e7439515d71689d5ee4abc1d2919c4b3eedc243bee0166dd5fe7f688ffbe301a"
+    },
+    {
+      "path": "component.html",
+      "bytes": 12982,
+      "sha256": "612e9c643b15981b84a8e53899c5e5bba66e20344fdb5bad1c90f19a53e2887a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13848,
+      "sha256": "42cb3496480ea535a6e4989dd01cf9926ade9deb8b0ffc47c2d7e5a0cee7e7b5"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

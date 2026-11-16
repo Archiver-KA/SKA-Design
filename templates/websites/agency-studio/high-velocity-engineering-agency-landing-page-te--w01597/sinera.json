@@ -1,0 +1,66 @@
+{
+  "id": "SN-W01597",
+  "title": "High-Velocity Engineering Agency Landing Page Template",
+  "summary": "A conversion-focused template for high-velocity engineering and AI services agencies to showcase capabilities, sprints, and case studies with bold CTAs.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Technology",
+    "Brand",
+    "Clean",
+    "Gradient",
+    "Large Type",
+    "Minimal",
+    "Case Studies",
+    "Engineering"
+  ],
+  "kind": "websites",
+  "category": "agency-studio",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3933,
+      "sha256": "c5ec39dc750d46d029e99d91bf893523295a6b6bf11ffdeb76027239a70679c9"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15950,
+      "sha256": "7c1528aa2dd1c1261ad61fee4bb6ae85b27272a3577f8f719fd22afe1e65bb07"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 748,
+      "sha256": "964b07870e95415efdbe7fd399fd9ebdc6f5eb3d7857df35595a0d74b218c376"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30261,
+      "sha256": "9e36ced25a26d3f3f6a3282638c54b3632277337a43e4dffc51584fd678e5b5e"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "agency",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Agency / Studio",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "workshop",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "marquee",
+    "features",
+    "code-terminal",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

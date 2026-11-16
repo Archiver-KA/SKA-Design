@@ -1,0 +1,70 @@
+{
+  "id": "SN-W03110",
+  "title": "Luxury Travel Membership Landing Page Template",
+  "summary": "A premium landing page template for private travel clubs and luxury booking platforms to showcase member-only rates, concierge access, and exclusive memberships.",
+  "tags": [
+    "Landing Page",
+    "Travel",
+    "Membership",
+    "Services",
+    "Dark",
+    "Luxury",
+    "Minimal",
+    "Technology",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "travel",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3828,
+      "sha256": "4d41e155e2f2911141a45b34502ec091b5a6b6e1b84f80fdc98016fe1f0deeb0"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 15934,
+      "sha256": "1235efad4adddd960a5426ef8a1ddacf0e4f63a7c5ff0ebf25798e9205f01010"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 738,
+      "sha256": "15ac6efe063a01e9b600e77f0fccc61da9c0f1c5822ece369f03c0e6c8785abd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 88225,
+      "sha256": "243d2b23b29a977b027506c0d3af63118f69c470989d7c82b13a0e85a51905bc"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "travel",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Travel / Stay",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "product-grid",
+    "bento-grid",
+    "pricing",
+    "auth-form",
+    "contact-form",
+    "services",
+    "faq",
+    "how-it-works",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

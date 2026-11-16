@@ -1,0 +1,70 @@
+{
+  "id": "SN-W04067",
+  "title": "Private Investigator Services Landing Page Template",
+  "summary": "A clean, professional landing page template for private investigators and investigative services to showcase expertise, blog updates, and capture client inquiries.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Business",
+    "Private Investigator",
+    "Clean",
+    "Minimal",
+    "Brand"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3558,
+      "sha256": "ed56a44d08a2c3b8d9e491d326976af83e012d7c985d0ff85148f6409e3c3c18"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 13370,
+      "sha256": "f692723464534006216dc96186cb554fd67033d630d5d64bcc95c76fa9f62a9b"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 886,
+      "sha256": "634a58d671cca3756a272e65b93e4252982c0568379d23329194724fcf38da05"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 238,
+      "sha256": "95899faf19f67db78373dab806a964de95f8489d01bceeda0ec8c4499df1bc41"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19525,
+      "sha256": "3833d5ab5e55bb65d2af7a3189c6e52f4f73e7fc01b364a6f8b31c7c8e55093c"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "about",
+    "gallery-portfolio",
+    "contact-form",
+    "newsletter",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

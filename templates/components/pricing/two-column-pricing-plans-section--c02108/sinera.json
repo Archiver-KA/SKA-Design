@@ -1,0 +1,42 @@
+{
+  "id": "SN-C02108",
+  "title": "Two-Column Pricing Plans Section",
+  "summary": "Full-width dark pricing section with header and two detailed plan cards. Includes feature lists, timelines, team info, prices, and call-to-action buttons. Built with Tailwind-style utility classes for modern SaaS or service pricing pages.",
+  "tags": [
+    "pricing",
+    "section",
+    "responsive",
+    "tailwind",
+    "grid",
+    "cta"
+  ],
+  "kind": "components",
+  "category": "pricing",
+  "categoryLabel": "Pricing & plans",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 21204,
+      "sha256": "7b335d3f19bb6da0cf8914447b9435c5e105bdd90615ed8a31bcc837042903af"
+    },
+    {
+      "path": "component.html",
+      "bytes": 7208,
+      "sha256": "2a8b3ec5332972da000a484535db9b99377784e67de72c9999b1d0686994107f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8061,
+      "sha256": "19fe6c1f1886dd969fe3af43bfd09df36aa6f15de1090b74f0885bf0810f7b61"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

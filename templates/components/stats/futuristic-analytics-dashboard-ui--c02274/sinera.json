@@ -1,0 +1,43 @@
+{
+  "id": "SN-C02274",
+  "title": "Futuristic Analytics Dashboard UI",
+  "summary": "A full-screen dark glassmorphism dashboard interface with animated metric gauge, central orb controls, and network traffic chart. Built with Tailwind CSS, suited for admin panels, system monitors, and sci-fi product demos.",
+  "tags": [
+    "ui",
+    "tailwind",
+    "dashboard",
+    "glassmorphism",
+    "dark",
+    "animated",
+    "analytics"
+  ],
+  "kind": "components",
+  "category": "stats",
+  "categoryLabel": "Stats, charts & dashboards",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 8460,
+      "sha256": "cda22c19707e9b11d9474cadb9dfa658a3129fe567fab5e1b7b17a1a8bc7b0eb"
+    },
+    {
+      "path": "component.html",
+      "bytes": 10730,
+      "sha256": "aab22d80f9d07e29bc481d32c140d23ba1cb26d543bd213442da9f5c95dd3352"
+    },
+    {
+      "path": "index.html",
+      "bytes": 11584,
+      "sha256": "979a2fe26b3e2e75ec9ada7000852b525d3ec7926adb7876edd18e50ab4118dd"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}

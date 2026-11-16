@@ -1,0 +1,61 @@
+{
+  "id": "SN-W04241",
+  "title": "Mobile Streaming Content Browser",
+  "summary": "Responsive mobile UI displaying streaming categories, featured content, continue watching, trending, and top 10 lists with an iPhone frame.",
+  "tags": [
+    "Streaming UI",
+    "Mobile Layout",
+    "Tailwind CSS",
+    "Responsive Design",
+    "Content Browser",
+    "Featured Section",
+    "Scrollable Categories"
+  ],
+  "kind": "websites",
+  "category": "other-landing",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3055,
+      "sha256": "d3069d0623d659bc2db9cb340b483c549de5014157ce5668802bf9349c1d5c44"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 7108,
+      "sha256": "dc501b321bea481439661925cb6b46d8910ca7d245af237d3e48cf885ab753ec"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 725,
+      "sha256": "e1987280adf1b80b401cc6cdfb15892845ad3b6293b16001c11b6094f20e869c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9449,
+      "sha256": "0523ab072066cae2f16b7a35f5d21d5ef4db5cb27a0cbf8bb3f376fae710cca2"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "general",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "General Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "snippet",
+  "components": [
+    "hero",
+    "gallery-portfolio",
+    "app-download"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "snippetType": "hero",
+  "design": "DESIGN.md"
+}

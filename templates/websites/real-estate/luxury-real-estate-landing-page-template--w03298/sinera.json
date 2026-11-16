@@ -1,0 +1,79 @@
+{
+  "id": "SN-W03298",
+  "title": "Luxury Real Estate Landing Page Template",
+  "summary": "A refined real estate template for showcasing luxury property listings, agents, offices, testimonials, and lead-generation CTAs for premium brokerages.",
+  "tags": [
+    "Real Estate",
+    "Landing Page",
+    "Services",
+    "Clean",
+    "Minimal",
+    "Dark",
+    "Luxury",
+    "Property Listings",
+    "Agency"
+  ],
+  "kind": "websites",
+  "category": "real-estate",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3711,
+      "sha256": "ac89317c32da35da0a7f9279dbdb5db0ec2526ab17bdd6e56edafc73416a0ace"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 9812,
+      "sha256": "0cbb98e5ffa253d6707ace7a35752825a7b6ff948317b2854fe31d09ee3ed397"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 1072,
+      "sha256": "9aa2024af66966c3ee96ee4fadc2e52cb57d2e9dcf5e1728fcf06ad022a3441a"
+    },
+    {
+      "path": "images/embedded/embedded-0001.svg",
+      "bytes": 3420,
+      "sha256": "f6bb02f428b56711aec474ac0b6f65fe0f9a24aa5f6a1200a51b21a1d81cf187"
+    },
+    {
+      "path": "images/embedded/embedded-0002.svg",
+      "bytes": 3425,
+      "sha256": "12c6252baeac39b2bf6aed010bdda63783787300144d2017cd2598721d539488"
+    },
+    {
+      "path": "index.html",
+      "bytes": 66683,
+      "sha256": "7988e73befe9b83ade26d5c55510749f3cd3cf48fbbcdb57c4dee24c5630a810"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "real-estate",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Real Estate",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "dwell",
+  "templateKind": "page",
+  "components": [
+    "map-location",
+    "navbar",
+    "hero",
+    "bento-grid",
+    "listings",
+    "features",
+    "newsletter",
+    "testimonials",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true,
+    "externalImagesUnverified": true
+  },
+  "design": "DESIGN.md"
+}

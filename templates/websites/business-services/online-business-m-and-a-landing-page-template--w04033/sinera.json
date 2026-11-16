@@ -1,0 +1,69 @@
+{
+  "id": "SN-W04033",
+  "title": "Online Business M&A Landing Page Template",
+  "summary": "A reusable landing page template for online business M&A services, helping sellers showcase exit-ready deals and capture qualified buyers.",
+  "tags": [
+    "Landing Page",
+    "Business",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Technology",
+    "Gradient",
+    "Portfolio"
+  ],
+  "kind": "websites",
+  "category": "business-services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3636,
+      "sha256": "12d0b51b56aed0811e814e63a28ec12ef400704d97452d0956b480d553227c8d"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 17452,
+      "sha256": "739f024284219db78efe2b97fb67955b71baad48803199d65ceef15486901d6d"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 736,
+      "sha256": "81d860523c967d2b9da50ecf82112d85861d483b2effb388d3af2d0ef791cb62"
+    },
+    {
+      "path": "index.html",
+      "bytes": 41076,
+      "sha256": "6f38ae225bf483b5dc2e2f711914a7e274cd5339dd8c1dc2cc5165b21a1cb263"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "business-service",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Business Service",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "route",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "gallery-portfolio",
+    "contact-form",
+    "cta",
+    "how-it-works",
+    "blog-articles",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

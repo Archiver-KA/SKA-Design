@@ -1,0 +1,65 @@
+{
+  "id": "SN-W00783",
+  "title": "Tyristrand",
+  "summary": "A modern landing page template for local car workshops and mechanics to showcase services, certifications, contact details, and online booking in a clean layout.",
+  "tags": [
+    "Landing Page",
+    "Services",
+    "Brand",
+    "Clean",
+    "Minimal",
+    "Large Type",
+    "Technology",
+    "Auto Workshop",
+    "Local Business",
+    "Mechanics"
+  ],
+  "kind": "websites",
+  "category": "ai-saas",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "files": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 3472,
+      "sha256": "333677c946cc7571c64249e0fb130209a27cf19f4ba1517aaad14d50784fa6ce"
+    },
+    {
+      "path": "banner.webp",
+      "bytes": 24754,
+      "sha256": "7ff14af08f67e5b3f7667675083adebab0765ccf4671030a6f9ff3a61b239c79"
+    },
+    {
+      "path": "embedded-images.md",
+      "bytes": 787,
+      "sha256": "15742b1d3e38e7c99bb5be61ebef94b4023eb28686ec88e22b2d7f6df75008dd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 26317,
+      "sha256": "6192adf28f37a954489388fa6f854a6b680e35b929f13a98e53431e8029e337f"
+    }
+  ],
+  "collection": "service",
+  "collectionCategory": "software",
+  "collectionLabel": "Service",
+  "collectionCategoryLabel": "Software / SaaS",
+  "collectionConfidence": 0.94,
+  "collectionBasis": "source-category",
+  "theme": "circuit",
+  "templateKind": "page",
+  "components": [
+    "navbar",
+    "hero",
+    "services",
+    "features",
+    "footer"
+  ],
+  "quality": {
+    "status": "ok",
+    "issues": [],
+    "rendered": true
+  },
+  "design": "DESIGN.md"
+}

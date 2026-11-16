@@ -1,0 +1,43 @@
+{
+  "id": "SN-C00889",
+  "title": "Service Feature Card with Image & CTAs",
+  "summary": "Responsive card showcasing a service sprint: includes hero image, badge, title, description, and two call-to-action buttons. Styled with Tailwind CSS and suitable for landing pages, service highlights, or marketing sections.",
+  "tags": [
+    "card",
+    "tailwind",
+    "responsive",
+    "image",
+    "call-to-action",
+    "marketing",
+    "landing page"
+  ],
+  "kind": "components",
+  "category": "features",
+  "categoryLabel": "Features & services",
+  "format": "html",
+  "entry": "index.html",
+  "banner": "banner.webp",
+  "snippet": "component.html",
+  "files": [
+    {
+      "path": "banner.webp",
+      "bytes": 54858,
+      "sha256": "16e3d3a12665db8f4f13ac7da58d1b6537022ced501b29301d8326fd73072053"
+    },
+    {
+      "path": "component.html",
+      "bytes": 2727,
+      "sha256": "deb8ef40c8e395243b352ae851702dc5d3fa152b0a887c234858df2fb1b4ce7b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3720,
+      "sha256": "bf07e28fb05613f8a4a6db305b159bae18f6e1e8e02fc25f7e97c754fb92c5d4"
+    }
+  ],
+  "templateKind": "component",
+  "quality": {
+    "status": "ok",
+    "issues": []
+  }
+}
