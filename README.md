@@ -13,6 +13,7 @@
 ```text
 SKA-Design/
 ├── README.md
+├── LICENSE
 ├── catalog.json
 ├── components.json
 ├── manifest.json
